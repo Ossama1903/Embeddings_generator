@@ -1,0 +1,618 @@
+
+Chapter 6
+FLUID DYNAMICS
+Learning Objectives
+At the end of this chapter the students will be able 10:
+1. Understand that viscous forces in A fluid cause a retarding force on an object moving
+through it
+2 Use Stokes law to derive an expression for terminal velocity of a spherical body
+failing through a viscous fluid under laminar conditions
+3. Understand the terms steady (laminar, streamline) flow, incompressible flow, non
+viscous flow as applied to the motion of an ideal fluid
+4. Appreciate that at a sufficiently high velocity, the flow of viscous fluid undergoes a
+transition from laminar to turbulence conditions,
+5. Appreciate the equation of continuity Av It Constant for the flow of an ideal and
+incompressible fluid
+6: Appreciate that the equation of continuity is a form of the principle of conservation of
+mass
+7.
+Understand that the pressure difference can arise from different rates of flow of a
+fluid (Bernoulli effect).
+8. Derive Bernoull's equation In form pgh = constant.
+9. Explain how Bernoulli effect is applied in the filter pump. atomizers, in the
+flow of air over anaerofoil, Venturimeter and in blood physics
+10. Give qualitative explanations for the swing of a spinning ball.
+T
+he study of fluids in motion 15 relatively complicated, but analysis can be simplified by
+making a few assumptions The analysis is further simplified by the use of two important
+conservation principles: the conservation of mass and the conservation of energy The law of
+conservation of mass gives us the equation of continuity while the law of conservation of
+energy is the basis of Bernoulli's equation, The equation of continuity and the Bernoull's
+equation along with their applications in aeroplane and blood circulation are discussed in this
+chapter
+127
+---
+
+6.1 VISCOUS DRAG AND STOKES LAW
+The frictional effect between different layers of a flowing
+fluid is described in terms of viscosity of the fluid. Viscosity
+measures, how much force is required to slide one layer of
+the liquid over another layer. Substances that do not flow
+easily, such as thick tar and honey etc; have large
+coefficients of viscosity, usually denoted by greek letter's
+Substances which flow easily, like water, have small
+coefficients of viscosity, Since liquids and gases have non
+zero viscosity, a force is required if an object is to be
+moved through them. Even the small viscosity of the air
+causes a large retarding force on a car as it travels at high
+speed. If you stick out your hand out of the window of a
+fast moving car, you can easily recognize that considerable
+force has to be exerted on your hand to move it through the
+For Your Information
+air. These are typical examples of the following fact,
+Viscolities of Liquida and Gases
+at 30°C
+An object moving through a fluid experiences a
+Viscosity
+Material
+retarding force called a drag force. The drag force
+10" (Nam()
+increases as the speed of the object increases.
+As
+0.019
+Acetone
+0.295
+Methanol
+00510
+Even in the simplest cases the exact value of the drag
+Bénzate
+0.554
+Water
+0.801
+force is difficult to calculate, However, the case of a sphere
+Ethanci
+1.000
+moving through a fluid is of great importance.
+Plasma
+1.6
+Glycerin
+6,29
+The drag force F on a sphere of radius r moving slowly with
+speed V through a fluid of viscosity n is given by Stokes law
+as under
+F=6mmr
+(6.1)
+At high speeds the force is no longer simply proportional to
+speed,
+6.2
+TERMINAL VELOCITY
+Consider a water droplet such as that of fog failing
+vertically, the air drag on the water droplet increases with
+speed. The droplet accelerates rapidly under the over
+powering force of gravity which putis the droplet downward.
+However, the upward drag force on it increases as the
+speed of the droplet increases. The net force on the
+droplet is
+128
+---
+
+Net force = Weight in Drag force
+(6,2)
+As the speed of the droplet continues to increase, the drag
+force eventually approaches the weight in the magnitude.
+Finally, when the magnitude of the drag force becomes
+equal to the weight, the net force acting on the droplet is
+zero. Then the droplet will fall with constant speed called
+terminal velocity.
+To find the terminal velocity VI in this case, we use Stokes
+Law for the drag force. Equating it to the weight of the
+drop, we have
+mg=6xmr
+or
+(6.3)
+Can You Da That?
+The mass of the droplet is pV,
+where volume v=
+Substituting this value in the above equation, we get
+4-20°F
+(6,4)
+Example 6.1: A tiny water droplet of radius 0.010 cm
+A table had cart be made
+descends through air from a high building. Calculate its
+suspended in The stam of OF
+coming from the of test
+terminal velocity. Given that n for air = 19 X 10° kg m 1 5'
+over
+and density of water e -
+Solution:
+r=1.0*10*m P= 1000 kgm' 19 x 10 * kg m ¹ ⑇o
+Putting the above values in Eq. 6,4
+kgm
+9x19x104kgm"s7
+We get
+Terminal Velocity 1.1 m s?
+129
+---
+
+6.3 FLUID FLOW
+Moving fluids are of great importance. To learn about the
+behaviour of the fluid in motion, we consider their flow
+through the pipes. When a fluid is in motion. its flow can be
+(#)
+Steamlines Cominar BPY)
+eitherfstreamline or turbulent.
+The flow is said to be streamline or laminar, if
+Plate
+every particle that passes a particular point,
+moves along exactly the same path, as followed
+by particles which passed that points earlier.
+(b)
+Turbulont flow
+8.1
+In this case each particle of the fluid moves along a smooth
+path called a streamline as shown in Fig. 6.1 (a). The
+different streamlines can not cross each other This
+condition is called steady flow condition. The direction of the
+streamines is the same as the direction of the velocity of the
+fluid at that point. Above a certain velocity of the fluid flow,
+the motion of the fluid becomes unsteady and Irregular.
+Under this condition the velocity of the fluid changes
+abruptly as shown in Fig 6.1 (b). in this case the exact path
+For Your information
+of the particles of the fluid can not be predicted.
+The irregular or unsteady flow of
+the fluid is called turbulent flow:
+We can understand many features of the fluid in motion by
+Formula One mong cars have .
+considering the behaviour of a fluid which satisfies the
+streamlined design
+following conditions.
+1
+The fluid is non-viscous Le, there is no internal
+frictional force between adjacent layers of fluid.
+2
+The fluid is incompressible, i.e., its density is constant
+a
+The fluid motion is steady,
+Deightins have bodies
+to assist thair movement in restat
+6.4
+EQUATION OF CONTINUITY
+Consider a fluid flowing through a pipe of non-uniform size.
+The particles in the fluid move along the streamlines in a
+steady state flow as shown in Fig. 6.2.
+130
+---
+
+in a small time AL the fluid at the lower end of the tube
+moves a distance AXI, with a velocity Vy. If ALis the area of
+cross section of this end, then the mass of the fluid
+contained in the shaded region is:
+Am=pAAX=pAXA
+Where P is the density of the fluid. Similarly the fluid that
+M
+moves with velocity V2 through the upper end of the pipe
+(area of cross section Ag) in the same time or has a mass
+A
+M
+If the fluid is incompressible and the flow is steady, the
+Fis fill
+mass of the fluid is conserved. That ia, the mass that flows
+into the bottom of the pipe through Ai in a time at must be
+equal to mass of the liquid that flows out through A, in the
+same time Therefore,
+AMERAME
+or
+This equation is called the equation of continuity Since
+density is constant for the sleady flow of incompressible
+fluid, the equation of continuity becomes
+Any=Aur
+(6,5)
+Tidbits
+The product of cross sectional area of the pipe
+and the fluid speed at any point along the pipo
+is a constant. This constant équals the volume
+flow per second of the fluid or simply flow rate:
+Example: 6.2: A water hose with aninternal damelor of
+20 mm at the outlet discharges 30 kg of water in 60 5
+Calculate the water speed at the outlet. Assume the density
+of water is 1000 kgm and its flow is sleady,
+As the water lefts IN spood
+Solution:
+inconcern and DO its citiza socidinal
+area decréases es marrimed by the
+continuity egustion
+Mass flow per second =
+30kg = 0.5 kgs
+60s
+Cross sectional area A=6⑇
+131
+---
+
+The mass of water discharging per second through area A is
+pAv - second mass
+mass
+V=
+second
+or
+pA
+0.5 kgs
+=
+1000 kgm x3.14 (10
+= 1.8ms."
+6.5 BERNOULLI'S EQUATION
+As the fluid moves through a pipo of verying cross section
+and height, the pressure will change along the pipe.
+Bernoull'a equation is the fundamental equation in fluid
+dynamics that relates pressure to fluid speed and height.
+In deriving Bemoulli's equation, we assume that the fluid is
+incompressible, non viscous and flows in a steady state
+manner. Let us consider the flow of the fluid through the
+pipe in time to as shown in Fig. 6.3.
+air,
+A
+he
+Am
+8
+A
+in
+Am
+The force on the upperend of the field is P.A. where P, the
+pressure and A, is the area of cross section at the upper
+end The work done on the fluid, by the fluid behind it, in
+moving it through a distance AX will be
+132
+---
+
+Similarly the work done on the fluid at the lower end is
+interesting information
+legal
+Where P2 is the pressure, A2 is the area of cross section of
+lower end and Ax2 is the distance moved by the fluid in the
+same time interval E The work W2 is taken to be -ive as
+this work is done against the fluid force,
+The net work done = W=W,+Ws'
+paint
+or
+*******
+(6.6)
+If Vr and V2 are the velocities at the upper and lower ends
+respectively, then
+A stream of pir passing over il hibe
+dippediti a liquid will cause the liquid
+32 rise in the tube as shown This
+effect is used in perfume botton and
+From equation of continuity (equation 6.5)
+A.V.=AW
+Volume of fluid
+Hence,
+under consideration
+So, we have
+Do You Know7
+W=(Pi-P,)V
+(6,7)
+If m is the mass and e is the density then v=
+So equation 6.7 becomes
+w=(P,-Ps)
+(6,8)
+Part of this work is utilized by the fluid in changing its K.E.
+and a part is used in changing its gravitational P.E.
+Change in
+(6.9)
+Change in PE=4(PE)=mgh:mmgh
+(6.10)
+Where hy and h2 are the heights of the upper and lower
+ends respectively.
+A children works best when il is tell
+and exposed to at currents which
+Applying the law of conservation of energy to this, volume
+reduce the pressure at the top and
+of the fluid, we get
+the unward time of
+133
+---
+
+mgh-mgh =======
+(6.11)
+rearranging the equation (6,11)
+This is Bernoulli's equation and is often expressed as:
+(6.12)
+T
+the
+6,6 APPLICATIONS OF BERNOULLI'S
+EQUATION
+by
+Torricelli's Theorem
+A simple application of Bemoulli's equation is shown in
+Fig. 6.4. Suppose a large tank of fluid has two small
+orifices A and B on it, as shown in the figure, Let us find
+the speed with which the water flows from the orifice A.
+Since the orifices are so small, the efflux speeds V2 and V)
+For your information
+will be much larger than the speed V- of the top surface of
+Water
+water. We can therefore, take VI as approximately zero.
+Hence, Bemoulli's equation can be written BS:
+egh
+Air Flow
+But
+Pi=P2 = almospheric pressure
+Therefore, the above equation becomes
+(6.13)
+This is Torricelli's theorem which states that:
+The speed of efflux is equal to the velocity
+Affirm pump has a constriction in the
+central so that a jet of water from this
+gained by the fluid in falling through the
+lap flows faster betn. This cause it
+distance (h,-ft) under the action of gravity.
+drive in pressure near it and all
+themsions, flows in from the side
+hitre The air and water together are
+impelled through the lower part of
+Notice that the speed of the efflux of liquid is the same as
+the pump
+the speed of a ball that falls through a height (h, - h2). The
+134
+---
+
+top level of the tank has moved down a little and the P.E.
+has been transferred into K.E. of the efflux of fluid. If the
+orifice had been pointed upward as at B shown in Fig.6.4,
+this K.E. would allow the liquid to rise to the level of
+water tank. In practice, viscous- energy losses would alter
+the result to some extent.
+Relation between Speed and Pressure of the
+Fluid
+A result of the Bernoull's equation is that the pressure will
+D
+be low where the speed of the fluid is high. Suppose that
+II
+water flows through a pipe system as shown in Fig. 6.5.
+D
+Clearly, the water will flow faster at B than it does at A or C.
+Assuming the flow speed at A to be 0,20 ms and at B to be
+2.0ms", we compare the pressure at B with that at A.
+Fig ES
+Applying Bernoull's equation and noting that the average
+P.E. is the same at both places, We have,
+Pe 1 . 1⑉
+(6.14)
+Substituting
+vg-0.20ms"
+Va = 2.0me
+And
+p = 1000 kgm
+We get
+- Pa= 1980 Nm
+This shows that the pressure in the nerrow pipe where
+streamlines are closer together is much smaller than in the
+wider pipe. Thus,
+Where the speed is high, the pressure will be low.
+The lift on an aeroplane is due to this effect The flow of air
+around an aeroplane wing is illustrated in Fig. 6.6. The wing is
+designed to deflect the air so that streamines are closer
+together above the wing than below it. We have seen in
+Fig.6.6 that where the streamlines are forced closer together,
+the speed is faster. Thus, air is travelling faster on the upper
+side of the wing than on the lower. The pressure will be lower
+Fig. LE
+at the top of the wing. and the wing will be forced upward.
+Similarly, when a tennis ball is hit by a racket in such a way
+that it spins as well as moves forward, the velocity of the
+135
+---
+
+air on one side of the ball increases (Fig. 6,7) due to spin
+Peate -
+-
+and air speed in the same direction as at B and hence, the
+pressure decreases. This gives an extra curvature to the
+ball known as swing which deceives an opponent player.
+Venturi Relation
+If one of the pipes has a much smaller diameter than the
+other, as shown in Fig. 6.8, we write Bemoull's equation in
+Spinning kill
+a more convenient form. It is assumed that the pipes are
+horizontal so that pgh terms become equal and can,
+therefore, be dropped. Then
+Fill 43
+P,
+(8 15)
+N
+As the cross-sectional area As is small as compared to the
+2
+area As then from equation of continuity Vr = (A/A,) Va will
+be small as compared to V2 Thus for flow from a large pipe
+A
+to a small pipe we can neglect Vg on the right hand side of
+equation 6.15. Hence,
+P,-P:=1
+(6.16)
+This is known as Venturi relation, which is used in Venturi-
+meter, a device used to measure speed of liquid flow.
+-
+interésting Information
+Example 6.3: Water flows down hill through a closed
+Air
+vertical funnel. The flow speed at the top is 12.0 cms1. The
+flow speed at the bottom is twice the speed at the top. If
+the funnel is 40,0 cm long and the pressure at the top is
+Abmoopheric
+processure
+1.013 x10 ¹ Nm2, what is the pressure at the bottom?
+Low
+pressues
+Solution: Using Bemoulli's equation
+Get
+Or
+The carburator of a car angine uses
+Venturi duct to feed the comed mis
+of oir and petrol to the cylinders. Air
+drawn through the duct and along
+where h=h,-h:= the length of the funnel
+paper to the cylinders, A any blet at
+the néce of dud . last with period
+The air through the duct moves very
+first, grooting low pressure in the
+duck, which draws petrol vispour into
+the sit struem.
+=1.05 x10 N m2
+136
+---
+
+P - -
+stricture produces a high flow speed As a result the flow is
+initially turbulent.
+As the pressure drops, the external pressure eventually
+equals the diastolic pressure. From this point, the vessel
+no longer collapse during any portion of the flow cycle. The
+flow switches from turbulent to laminar, and the guigle in
+the stethoscope disappears, This is the signal to record
+diastolic pressure.
+SUMMARY
+An object moving through a fluid experiences a retarding force known as drag force;
+It increases as the speed of object increases.
+A sphere of radius If moving with speed Y through a fluid of viscosity 11 experiences D
+viscous drag force F given by Stokes law F =
+The maximum and constant velocity of an object falling vertically downward is called
+terminal velocity
+An ideal fluid is incompressible and has no viscosity. Both air and water at low
+speeds approximate to ideal fluid behaviour.
+In laminar flow, layers of fluid slide smoothly past each other
+In turbulent flow there is great disorder and a constantly changing flow pattern
+Conservation of mass in an incompressible fluid is expressed by the equation of
+continuity Air = Airs = constant
+Applying the principles of conservation of mechanical energy to the steady flow of an
+ideal fluid leads to Bemoull's equation.
+constant
+The effect of the decrease in pressure with the increase in speed of the fluid in a
+horizontal pipe is known as Venturi effect
+---
+
+Blood Flow
+Blood is an incompressible fluid having a density nearly
+equal to that of water. A high concentration (~50%) of red
+blood cells increases its viscosity from three to five times
+that of water. Blood vessels are not rigid They stretch like
+a rubber hose. Under normal circumstances the volume
+of the blood is sufficient to keep the vessels inflated at all
+times, even in the relaxed state between heart beats, This
+means there is tension in the walls of the blood vessels
+and consequently the pressure of blood inside is greater
+than the external atmospheric pressure. Fig. 6.9 shows
+the variation in blood pressure as the heart beats, The
+pressure varies from a high (systolic pressure) of 120 torn
+(1 torr = 133,3 Nm2) to a low diastolic pressure) of about
+75-80 tom between beats in normal, healthy person. The
+numbers tend to increase with age, corresponding to the
+decrease in the flexibility of the vessel walls.
+The unit torr or mm of Hg is opted instead of Si unit of
+pressure because of its extensive use in medical equipments.
+An instrument called a sphygmomanometer measures
+blood pressure dynamically (Fig. 6.10).
+100
+Air but
+100
+valve
+(3)
+249
+100
+220
+H
+-
+180
+and
+MC
+120
+bag
+Stethescope
+⑉
+-
+as
+an
+401
+IS
+One beet
+need (Text)
+1
+2
+Time (5)
+Fity 68
+Fo 1,19
+An inflatable bag is wound around the arm of a patient and
+external pressure on the arm is increased by inflating the bag.
+The effect is to squeeze the arm and compress the blood
+vessels inside. When the external pressure applied becomes
+larger than the systolic pressure, the vessels collapse, cutting
+off the flow of the blood Opening the release valve on the bag
+graduallydecreases the External pres
+137
+---
+
+QUESTIONS
+01 Explain what do you understand by the term viscosity?
+E2 What is meant by drag force? What are the factors upon which drag force acting
+upon a small sphere of radius F, moving down through a liquid, depend?
+03 Why fog droplets appear to be suspended in air?
+44 Explain the difference between laminar flow and turbuient flow
+615 State Bemoulli's relation for a liquid in motion and describe some of its applications.
+0.6 A person is standing near a fast moving train. is there any danger that he will fall
+towards ii?
+6.7 Identify the correct answer. What do you infer from Bemoulli's theorem?
+III Where the speed of the fluid is high the pressure will be low
+(1) Where the speed of the fluid is high the pressure is also high,
+(40) This theorem is valid only for turbulent flow of the liquid.
+5.8 Two row boats moving parallel in the same direction are pulled towards each other.
+Explain
+G.9. Explain, how the swing is produced in a fast moving cricket ball.
+0.10 Explain the working of a carburetor of a motorcar using by Bemoulli's principle,
+fill For which position will the maximum blood pressure in the body have the smallest
+value. (a) Standing up right (b) Sitting (c) Lying horizontally (d) Standing on one's
+head?
+6.12 In an orbiting space station, would the blood pressure in major arteries in the leg
+ever be greater than the blood pressure in major arteries in the neck?
+NUMERICAL PROBLEMS
+pa Certain globular protein particle has a density of 1246 kg m². It falls through pure
+water (q=80x104 Nms) with a terminal speed of 3.0 cm h1 Find the radius of
+the particle.
+(Ans: 1.5x10"m)
+62 Water flows through a hose, whose internal diameter is 1cm at a speed of 1ms"
+What should be the diameter of the nozzle if the water is to emerge at 21ms1
+(Ans: 0.2 cm)
+139
+---
+
+6.3 The pipe near the lower end of a large water storage tank develops a small leak and
+a stream of water shoots from it The top of water in the tank is 15m above the point
+of leak.
+a) With what speed does the water rush from the hole?
+b) If the hole has an area of 0.060 cm2, how much water flows out in one second?
+(Ans: (a) 17 (b) 102 cm³)
+14 Water is flowing smoothly through 8 closed pipe system. At one point the speed of
+water is 3.0ms. while at another point 3.0 m higher, the speed is 4.0 ms', If the
+pressure is 80 kPa at the lower point, what is pressure at the upper point?
+(Ans: 47 kPa)
+6'5 An airplane wing is designed so that when the speed of the air across the top of the
+wing is 450 ms'. the speed of air below the wing is 410 ms What is the pressure
+difference between the top and bottom of the wings? (Density of air = 1.29kgm2)
+(Ans: 2 kPa)
+0.6 The radius of the aorta is about 1.0 cm and the blood flowing through it has a speed
+of about 30 cms ¹ Calculate the average speed of the blood in the capillaries using
+the fact that although each capillary has 8 diameter of about 8 x 10" cm, there are
+literally millions of them so that their total cross section is about 2000cm2.
+(Ans:5 x 10*ms`)
+67 How large must a heating duct be if air moving 3.0 ms along it can replenish the air in
+a room of 300 m volume every 15 min? Assume the air's density remains constant
+(Ans. Radius= cm)
+68 An airplane design calls for a "fift" due to the net force of the moving air on the wing of
+about 1000 Nm2 of wing area. Assume that air flows past the wing of an aircraft with
+streamline flow If the speed of flow past the lower wing surface is 160ms what is
+the required speed over the upper surface to give 8 "lift" of 1000Nm The density of
+air is 1.29kgm and assume maximum thickness of wing to be one metre.
+(Ans: 165 ms
+6.9 What gauge pressure is required in the city mains for a stream from a fire hose
+connected to the mains to reach a vertical height of 15,0 m?
+(Ans: 1,47 Pa)
+140
+---

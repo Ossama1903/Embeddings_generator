@@ -1,0 +1,1098 @@
+
+Chapter
+9
+PHYSICAL OPTICS
+Learning Objectives
+At the end of this chapter the students will be able to
+:
+Understand the concept of wavefront.
+I
+State Huygen's principle,
+3
+Use Huygen's principle to explain linear superposition of light
+Understand interference of light.
+Describe Young's double slit experiment and the evidence it provided to support
+the wave theory of light,
+Recognize and express colour patterns in thin films.
+Describe the formation of Newton's rings,
+Understand the working of Michelson's interferometer and its uses.
+y
+Explain the meaning of the term diffraction.
+10
+Describe diffraction at a single slit.
+17
+Derive the equation for angular position of first minimum.
+12
+Derive the equation d' sini) = mi.
+13 Carry out calculations using the diffraction grating formula.
+1⑇
+Describe the phenomenon of diffraction of X-rays by crystals,
+11
+Appreciate the use of diffraction of X-rays by crystale.
+to
+Understand polarization as a phenomenon associated with transverse waves.
+IT
+Recognize and express that polarization is produced by a Polaroid
+Understand the effect of rotation of Polaroid on polarization.
+Understand how plane polarized light is produced and detected
+L
+ight is a type of energy which produces sensation of vision. But how does this energy
+propagate? In 1678, Huygen's, an eminent Dutch scientist, proposed that
+193
+---
+
+light energy from a luminous source travels in space as
+waves. The experimental evidence in support of wave
+theory in Huygen's time was not convincing However,
+Young's interference experiment performed for the first time
+in 1801 proved wave nature of light and thus established the
+Huygen's wave theory. In this chapter you will study the
+properties of light, associated with its wave nature.
+9.1 WAVEFRONTS
+DO
+Light my
+Consider a point source of light at S (Fig. 9.1 a). Waves
+emitted from this source will propagate outwards in all
+directions with speed c.After time 1, they will reach the
+surface of an imaginary sphere with centre as S and radius
+as of Every point on the surface of this sphere will be set
+into vibration by the waves reaching there, As the distance
+of all these points from the source is the same, their state
+Rays
+of vibration will be identical. In other words, all the points
+on the surface of the sphere will have the same
+phase
+(a)
+Such a surface on which all the points have the
+Fly. 8.1
+same phase of vibration is known as wavefront.
+Spherical Wave fronts (a) and place
+a wevelength
+sport The arrows morecom nm
+Thus in case of a point source, the wavefront is spherical
+in shape. A line normal to the wavefront, showing the
+direction of propagation of light is called a ray of light,
+With time, the wave moves farther giving rise to new wave-
+fronts. All these wavefronts will be concentric spheres of
+increasing radii as shown in Fig. 9.1 (a). Thus the wave
+propagates in space by the motion of the wavefronts The
+distance between the consecutive wavefronts is one wave-
+length. It can be seen that as we move away at greater
+distance from the source, the wavefronts are parts of spheres
+Do You Know?
+of very large radii. A limited region taken on such a wavefront
+Smit segments of large sphencen
+can be regarded as a plane wavefront (Fig.9.1b): For example,
+waverronta applicamente plane
+light from the Sun reaches the Earth with plane wavefronts
+in the study of interference and diffraction, plane waves and
+plane wavefronts are considered. A usual way to obtain a
+194
+---
+
+plane wave is to place a point source of light at the focus of
+a convex lens. The rays coming out of the lens will constitute
+plane waves
+9.2 HUYGEN'S PRINCIPLE
+A
+Knowing the shape and location of a wavefront at any
+instant I. Huygen's principle enables US to determine the
+shape and location of the new wevefront at a later time
+a
+(+ AL Thisprinciple consists of two parts:
+(I)
+Every point of a wavefront may be considered as a
+source of secondary wavelets which spread out in
+B
+forward direction with a speed equal to the speed of
+propagation of the wave.
+8
+(II)
+The new position of the wavefront after a certain
+interval of time can be found by constructing a
+(i) Spherical wavefront
+surface that touches all the secondary wavelets.
+C
+The principle is illustrated in Fig. 9.2 (a): AB represents the
+wavefront at any instant it. To determine the wavefront at
+time 14 at draw secondary wavelets with centre at various
+points on the wavefront AB and radius as cal where G is
+speed of the propagation of the wave as shown in Fig.9.2 (a)
+The new wavefront EM time I At is A'B' which is a
+tangent envelope to all the secondary wavelets.
+GM
+Figure 92 (b) shows a similar construction for a plane wave-
+front
+9.3 INTERFERENCE OF LIGHT WAVES
+An oil film floating on water surface exhibits beautiful
+colour patterns. This happens due to Interference of light
+D
+D
+waves. the phenomenon, which is being discussed in this
+(b) Plane wavefront
+section
+His ⑆
+Haygena' construction for
+Conditions for Detectable Interference
+determining the position of the
+wavefronts AB and CDana a time
+It was studied in Chapter 8 that when two waves travel in
+acenvi At AB and CITY are the
+the same medium, they would interfere constructively or
+new positions of the
+destructively. The amplitude of the resultant wave will be
+greater then either of the individual waves, if they interferé
+constructively, In the case of destructive interference, the
+195
+---
+
+For Your Information
+amplitude of the resultant wave will be less than either
+of the individual waves
+Interference of light waves is not easy to observe because
+of the random emission of light from a source. The
+following conditions must be met, in order to observe the
+phenomenon,
+1 The interfering beams must be monochromatic,
+that is, of a single wavelength.
+2.
+The interfering beams of light must be coherent.
+Consider two or more sources of light waves of the same
+wavelength. If the sources send out crests or troughs at
+the same instant, the Individual waves maintain a constant
+phase difference with one another. The monochromatic
+sources of light which emit waves, having a constant
+Nonochiumatic Light
+phase difference, are called coherent sources
+Sodum chicaide in a families gives
+out pure yellow light This light is not
+a Pisture of IDO and green
+A common method of producing two coherent light beams
+is to use a monochromatic source to Illuminate a screen
+containing two small holes, usually in the shape of slits.
+The light emerging from the two slits is coherent because a
+single source produces the original beam and two slits
+serve only to split it into two parts. The points on
+8
+Huygen's wavefront which send out secondary wavelets
+are also coherent sources of light.
+9.4 YOUNG'S DOUBLE SLIT EXPERIMENT
+Fig. 9.3 (a) shows the experimental arrangement, similar to
+a
+that devised by Young in 1801, for studying interference
+S
+effects of light. A screen having two narrow slits is
+5,
+illuminated by a beam of monochromatic light The portion
+of the wavefront incident on the slits behaves as a source
+of secondary wavelets (Huygen's principle). The secondary
+wavelets leaving the slits are coherent. Superposition of
+these wavelets result in a series of bright and dark bands
+Fig 9.3 tal
+(fringes) which are observed on a second screen placed at
+Ray goornity of Young's double
+some distance parallel to the first screen.
+act expense
+Let us now consider the formation of bright and dark
+bands. As pointed out earlier the two slits behave as
+196
+---
+
+coherent sources of secondary wavelets The wavelets
+arrive at the screen in such a way that at some points
+crests fall on crests and troughs on troughs resulting in
+constructive interference and bright fringes are formed.
+There are some points on the screen where crests meet
+troughs giving rise to destructive interference and dark
+fringes are thus formed.
+this
+Max
+Main
+incident
+Mes
+movil
+Max
+Max
+Mas
+Mps
+Mas
+5.
+Max
+Mai
+Max
+Max
+A
+C
+Fig. 9.3 (I))
+Young's double all experiment fur interference of Net
+The bright fringes are termed as maxima and dark fringes
+as minima.
+In order to derive equations for maxima and minima, an
+F
+arbitrary point P is taken on the screen on one side of
+the central point o as shown in Fig. 9.3 (c). AP and BP
+are the paths of the rays reaching P. The line AD is
+drawn such that AP = DP The separation between the
+centres of the two slits is AB # d. The distance of the
+E
+.
+screen from the slits is CO = L. The angle between
+*
+CP and CO is 0. It can be proved that the angle
+BAD = 0 by assuming that AD is nearly normal to BP.
+fig 13 IDI
+The path difference between the wavelets, leaving the
+Geometrical construction of
+slits and arriving at P. is BD. If is the number of
+Stungs double dit experiment
+wavelengths, contained within BD, that determines
+whether bright or dark fringe will appear at P If the point
+P is to have bright fringe, the path difference BD must be
+an integral multiple of wavelength.
+197
+---
+
+Thus,
+BD=m,
+where
+m=0, 1. 2.
+Since
+BD = di sino
+therefore
+d sin B =mi
+(9.1)
+it is observed that each bright fringe on one side of o has
+symmetricallylocated bright fringe on the other side of O. The
+central bright fringe is obtained when m a D. If a dark fringe
+appears at point P. the path difference BD must contain
+half-integral number of wavelengths.
+Thus
+1
+therefore,
+d
+.
+A
+(9.2)
+2
+The first dark fringe, in this case, will obviously appear for
+m = 0 and second dark for m=1 The interference pattern
+formed in the Young's experiment is shown in Fig. 9,3 (d).
+For Your Information
+Fits 9.310
+d
+sing
+tanit
+An interference patient by monochromunic lips in Young's itocia side experiment
+2
+0.035
+0.005
+4
+0,070
+0.000
+G
+0.104
+0.105
+Equations 9.1 and 9,2 can be applied for determining the
+B
+0.139
+0.140
+linear distance on the screen between adjacent bright or
+10
+0.174
+0.176
+dark fringes. If the angle 0 is small, then
+sin e a tane
+198
+---
+
+Now from Fig. 9,3 (c). tane = yot where y is the distance
+of the point P from o If 1a bright fringe is observed at P.
+then from Eq 9.1, we get,
+y=m
+(9,3)
+If P is to have dark fringe it can be proved that
+(9,4)
+In order to determine the distance between two adjacent
+bright fringes on the screen, mth and (m + 1) th fringes are
+considered.
+For the mth bright fringe,
+Tights
+and for the (m + 1)th bright fringe
+y====(m+1) AL
+If the distance between the adjacent bright fringes is y,
+then
+Aya Ymel AL
+An Interference potent firmed
+with white light.
+Therefore,
+(9.5)
+Similarly, the distance between two adjacent dark fringes
+can be proved to be II is, therefore, found that the
+bright and dark fringes are of equal width and are equally
+spaced
+Eq. 9.5 reveals that fringe spacing increases if red
+light (long wavelength) is used as compared to blue light
+(short wavelength). The fringe spacing varies directly with
+distance L between the slits and screen and inversely with
+the separation di of the slits.
+if the separation d' between the two slits, the order m of a
+bright or dark fringe and fringe spacing Ay are known. the
+wavelength X of the light used for interference effect can be
+determined by applying Eq. 9.5.
+199
+---
+
+Example 9.1: The distance between the sits in Young's
+double silt experiment is 0,25 cm. Interference fringes are
+formed on à screen placed at a distance of 100 cm from the
+slits. The distance of the third dark fringe from the centralbright
+fringe is 0.059 cm. Find the wavelength of the incident light.
+Solution: Given that
+d=0.25cm=2.5x10'm
+y=0.059 cm =59x10°m
+For the 3rd dark fringe m=2
+Using
+westing Information
+x-59x109mx25x1 r25x10° m
+Therefore,
+1=5.90x107m-590.nm
+Example 9.2: Yellow sodium light of wavelength 589 nm,
+emitted by B single source passes through two narrow
+nurs seen on oily water surface
+slits 1.00 mm apart. The interference pattern is observed
+due in interference of incident
+on a screen 225 cm away. How far apart are two adjacent
+e light.
+bright fringes?
+Solution: Given that
+E
+d = 1,00 mm = 1.00 x 10 m
+225 cm = 2.25 m
+Ay=7
+Using ***
+2.25
+E
+E
+or
+1.33 mm.
+Thus, the adjacent frings will be 1,33 mm apart.
+200
+---
+
+9.5 INTERFERENCE IN THIN FILMS
+A thin film in a transparent medium whose chickness is
+no
+comparable with the wavelength of light Brilliant and
+A
+AF
+beautiful colours in soap bubbles and oil film on the
+5
+surface of water are due to interference of light reflected
+from the two surfaces of the film as explained below:
+U
+Air
+Consider a thin film of a refracting medium, A beam AB of
+Di
+monachromatic light of wavelength 1 is incident on its upper
+Vintier
+surface It is partly reflected along BC and partly refracted
+THE
+into the medium along BD At D it is again partly reflected
+construction of
+Inside the medium along DE and then at E retracted along EF as
+mederence of light due to a thin oil
+shown in Fig 9.4. The beams BE and EF being the parts of the same
+im
+primary beam have a phase conerence. As the film is thin, so the
+separation between the beams BC and EF will be very small.
+Do You KHOWT
+and they will superpose and the result of their interference
+will be detected by the eye it can be seen in Fig. 9.4. that
+the original beam spiris into two parts BC and EF due to the
+thin film enter the eye after covering different lengths
+of paths. Their path adference depends upon (1) thickness
+and nature of the film and (II) angle of incidence. If the two
+reflected waves reinforce each other then the film as seen
+with the help of a parallel beam of monochromatic light
+will lock bright. However, if the thickness of the film and
+angle of incidence are such that the two reflected waves
+cancel each other the film will look dark:
+The which aldescarce of Description
+If white light is incident on a film of irregular thickness at all
+furthers me to moderance II the
+Egre reflected for FIN curplane
+possible angles, WE should consider the interference
+layered sortace
+pattern due to each spectral colour separately. It is quite
+possible that at a certain place on the film, its thickness
+and the angle of incidence of light are such that the
+condition of destructive interference of one colour is being
+satisfied. Hence, that portion of the firm will exhibit the
+remaining constituent colours of the white light as shown in
+Fig. 9.5.
+9.6 NEWTON'S RINGS
+When B plano-convex lens of long local length is placed in
+contact with a plane glass plate (Fig. 9.6 a). a thin air film is
+FREE
+enclosed between the upper surface of the glass plate and
+interference pattern produced by .
+thin soap film luminated by white
+the lower surface of the lens The thickness of the air film is
+light
+201
+---
+
+almost zero at the point of contact o and it gradually increases
+as one proceeds towards the periphery of the lens. Thus, the
+points where the thickness of air film is constant, will lie on a
+circle with o as centre.
+By means of a sheet of glass G, a parallel beam of
+monochromatic light is reflected towards the plano-convex
+lens L. Any ray of monochromatic light that strikes the
+(a)
+upper surface of the air film nearly along normal is partly
+reflected and partly refracted The ray refracted in the
+air film is also reflected partly at the lower surface of the
+(in
+film. The two reflected rays, i.e. produced at the upper
+Experimental arrangament for
+and lower surfaces of the film, are coherent and interfere
+observingNewtorist
+constructively or destructively. When the light reflected
+upwards is observed through a microscope M which is
+focussed on the glass plate, series of dark and bright rings
+are seen with centre at o (Fig. 9,6 b). These concentric
+rings are known as Newton's rings.
+At the point of contact of the lens and the glass plate, the
+thickness of the film is effectively zero but due to reflection
+at the lower surface of air film from denser medium, an
+additional path difference of N2 is introduced Consequently,
+the centre of Newton rings is dark due to destructive
+interference.
+Fig. 9.8 (b)
+A getter if mg due M
+9.7 MICHELSON'S INTERFEROMETER
+of light
+Michelson's interferometer is an instrument that can be used
+to measure distance. with extremely high precision. Albert
+M
+A Michelson devised this instrument in 1881 using the
+idea of interference of light rays. The essential features of a
+Michelson's interferometer are shown schematically in Fig.9.
+M.
+e
+L.
+Monochromatic light from an extended source falls on a
+half silvered glass plate G, that partially reflects it and
+Source
+3
+partially transmits it. The reflected portion labelled as I in
+the figure travels a distance L1 to mirror M which reflects
+the beam back towards G+ The half silvered plate G,
+partially transmits this portion that finally arrives at the
+Flg 0.7
+observer's eye. The transmitted portion of the original
+Schematic diagram of di Mitheler in's
+beam labelledas II. travels a distance L to mirror M3 which
+interferomator.
+reflects the beam back toward G. The beam Il partially
+reflected by G1 also arrives the observer's eye finally. The
+202
+---
+
+plate G2 out from the same piece of glass as Qu. is
+introduced in the path of beam II as a compensator plato,
+Gj, therefore, equalizes the path length of the bearris E and
+E in glass. The two beams having their different paths are
+coherent. They produce interference effects when they
+For Your Information
+arrive at observer's eyes. The observer then sees a series
+of parallel interference fringes.
+In a practical interferometer, the mirror M can be moved
+along the direction perpendicular to its surface by means of
+a precision screw. As the length L. is changed, the pattern
+of interference - fringes is observed to shift. If M is
+displaced through a distance equal to 1/2, a path difference
+of double of this displacement is produced, Le., equal to 1
+A photograph el Michelson
+Thus a fringe is seen shifted forward across the line of
+reference of cross wire in the eye piece of the telescope used
+to view the tringes.
+A fringe is shilted, each time the mirror is displaced
+through 3/2. Hence, by counting the number E of the fringes
+which are shifted by the displacement L of the mirror, we can
+write the equation,
+For Toar Information
+Lum
+(9.6)
+Very precise length measuremente can be made with an
+interferometer. The motion of mirror M. by only 7/4 produces
+a clear difference between brightness and darkness. For
+1. = 400 nm, this means B high precision of 100 em or 10 mm.
+Michelson measured the length of standard metre in terms
+of the wavelength of red cadmium light and showed that
+the standard metre was equivalent to 1,553, 163.5
+wavelengths of this light.
+Interference Dieges in the Michaison
+9.8 DIFFRACTION OF LIGHT
+In the interference pattern obtained with Young's double slit
+experiment (Fig. 9.3b). the central region of the fringe system
+is bright If light travels in a straight line. the central region
+should appear dark Le., the shadow of the screen between
+the two slits. Another simple experiment can be performed
+for exhibiting the same effect
+203
+---
+
+Consider that a small and smooth steel ball of about 3 mm
+in diameter is illuminated by a point source of light. The
+Goreen
+Shadow
+shadow of the object is received on a screen as shown in
+Object
+Fig. 9,8 The shadow of the spherical object is not
+completely dark but has a bright spot at its centre.
+Shadow
+According to Huygen's principle. each point on the rim
+of the sphere behaves as a source of secondary
+wavelets which illuminate the central region of the
+Bright spot
+shadow
+These two experiments clearly show that when light travels
+Bending of light caused by its
+past an obstacie, it does not proceed exactly along a
+u spherical object,
+straight path, but bends around the obstacle.
+The property of bending of light around obstacles
+and spreading of light waves into the geometrical
+shadow of an obstacle is called diffraction.
+Point to ponder
+The phenomenon is found to be prominent when the
+Hold two fingers close together to
+wavelength of light is large as compared with the size of
+form is all. Lock of is light but
+the obstacle or aperture of the slit. The diffraction of light
+through the all. Quisurve the
+pottern of light being seem and
+occurs, in effect, due to the interference between rays
+think why a is so
+coming from different parts of the same wavefront
+9.9 DIFFRACTION DUE TO A NARROW SLIT
+Fig. 9.9 shows the experimental arrangement for studying
+diffraction of light due to a narrow slit. The sit AB of width d is
+illuminated by a parallel beam of monochromatic light of
+wavelength 3. The screen S is placed parallel to the slit for
+observing the effects of the diffraction of light. A small portion
+of the incident wavefront passes through the narrow slit,
+Each point of this section of the wavefront sends out
+secondary wavelets to the screen. These wavelets then
+interfere to produce the diffraction pattern. It becomes
+simple to deal with rays instead of wavefronts as shown in
+the figure. In this figure, only nine rays have been drawn
+whereas actually there are a large number of them. Let us
+Fill 9.3
+consider rays 1 and 5 which are in phase on the
+Difficultion of light due to il names
+wavefront ABWhen these reach the wavefront AC. ray
+sil AB, The dats represser the
+sources of secondary wovelets
+5 would have a path difference ab say equal to 1/2. Thus,
+when these two rays reach point P on the screen, they will
+interfere destructively, Similarly, all other pairs 2 and 6, 3
+204
+---
+
+and 7, 4 and a differ in path by .2 and will do the same,
+For the pairs of rays, the path difference ab= d(2 sin 0.
+5g min
+1stmin
+2nd THE
+2nd mex
+The equation for the first minimum is, then
+2nd and
+2nd miss
+3rd mail
+Urd mm
+d
+2
+2
+or
+d' sinth 2.
+(9,7)
+in general, the conditions for different orders of minima on
+Flg $ 15 tax
+either side of centre are given by
+Diffraction pattern of mono
+light producted due lu H
+o serma where (1,2,3
+)
+(9.8)
+single sit graphical representation
+and photograph of the pattern
+The region between any two consecutive minima both
+above and below o wis be bright. A narrow slit, therefore,
+produces a series of bright and dark regions with the first
+bright region at the centre of the pattern. Such a diffraction
+pattern is shown in Fig. 9.10(a) and (b).
+9.10 DIFFRACTION GRATING
+A diffraction grating is a glass plate having a large number
+of close parallel equidistant slits mechanically ruled on it.
+Fini 9.10.00
+The transparent spacing between the scratches on the
+Diffection calture produced by units
+glass plate act as slits. A typical diffraction grating has
+a single it
+about 400 to 5000 lines per centimetre.
+In order to understand how a grating diffracts light, consider
+a parallel beam of monochromatic light illuminating the
+grating at normal incidence (Fig. 9.11). A few of the equally
+spaced narrow slits are shown in the figure. The distance
+o
+between two adjacent sits is d. called grating element Its
+value is obtained by dividing the length L of the grating by the
+total number N of the lines ruled on it The sections of wave-
+front that pass through the slits behave as sources of
+secondary wavelets according to Huygen's principle.
+In Fig. 9.11, consider the parallel rays which after
+diffraction through the grating make an angle 9 with AB,
+U
+the normal to grating. They are then brought to focus on
+if
+Y
+the screen as P by a convex lens. If the path difference
+between rays 1 and 2 is one wavelength 2. they will
+Fl# 0.11
+reinforce each other at P. As the incident beam consists of
+Diffraction of light due to grating
+parallel rays, the rays from any two consecutive slits will differ
+in path byk when they arrive at They will, therefore interfere
+205
+---
+
+constructively. Hence, the condition for constructive
+Interesting Information
+interference is that ab, the path difference between two
+consecutive rays, should be equal to A i.e.,
+ab = A
+(9.9)
+From Fig. 9,11
+eb ==d'sing
+(9,10)
+d' being the grating element. Substituting the value of ab in
+The fine rulinga, each 0.5 m wide
+Eq. 9.9
+on il complact duc function as II
+diffaction going When e shall
+dsin8=1
+(9.11)
+source of white light Dummates If
+dec. the difracted light
+culored "lanes" that are composter
+According to Eq. 9.10, when 0 = 0 i.e., along the direction
+of the satierra from the
+of normal to the grating, the path difference between the
+ruängs:
+rays coming out from the slits of the grating will be zero. So
+we will get a bright image in this direction. This is known as
+zero order image formed by the grating. If we increase 0
+on either side of this direction, a value of 0 will be arrived
+Gan You Tell?
+at which dsine will be equal to X and according to Eq. 9.11,
+we will again get a bright image. This is known as first
+order image of the grating, In this way if we continue
+increasing 0, we will get the second, third, etc. images on
+either side of the zero order image with dark regions in between
+The second, third order bright images would occur according
+as d sin 0 becoming equal to 27. 3.2. etc. Thus Eq. 9.11
+can be written in more general form as
+=ni
+(9.12)
+Light same projected through Hus
+difraction grating produce an
+wheren=0:11213e0
+interference pattern What coloursi
+are between the bands of
+However, if the Incident light contains different
+wavelengths, the image of each wavelength for a certain
+value of n is diffracted in a different direction. Thus,
+separate images are obtained corresponding to each
+wavelength or colour. Eq. 9.12 shows that the value of e
+depends upon n, so the images of different colours are
+For your Information
+much separated in higher orders.
+9.11 DIFFRACTION OF X-RAYS BY
+CRYSTALS
+Diffiction of white light by
+X-rays is a type of electromagnetic radiation of much shorter
+trie difficultion grating
+wavelength, typically of the order of 10 m.
+206
+---
+
+In order to observe the effects of diffraction, the grating
+spacing must be of the order of the wavelength of the
+I
+radiation used. The regular array of atoms in a crystal
+forms a natural diffraction grating with spacing that is
+typically = 1019 m. The scattering of X-rays from the atoms
+in a crystalline lattice gives rise to diffraction effects very
+F
+e'
+similar to those observed with visible light incident on
+ordinary grating.
+d
+B
+P
+e
+The study of atomic structure of crystals by X-rays was
+d une
+ds
+initiated in 1914 by W.H. Bragg and W.I. Bragg with
+P.
+P.
+remarkable achievements. They found that a
+monochromatic beam of X-rays was reflected from a
+Fig 8.12
+crystal plano as if il acted like mirror. To understand this
+effect, a series of atomic planes of constant interplanar
+Diffaction of X-rays from the
+influe planos of orystati
+spacing d parallel to B crystal face are shown by lines PP
+PP.P A and so on, in Fig. 9.12.
+Suppose an X-rays beam is incident at an angle B on one of
+Interesting Application
+the planes, The beam can be reflected from both the upper
+and the lower planes of atoms. The beam reflected from
+lower plane travels some extra distance as compared to the
+beam reflected from the upper plane. The effective path
+difference between the two reflected beams is 2d sina.
+Therefore, for reinforcement, the path difference should be an
+Difficition of radio Warni
+integral multiple of the wavelength Thus
+2d sint==2
+(9.13)
+Interesting Information
+The value of n is referred to as the order of reflection The
+equation 9.13 is known BS the Bragg equation, It can be
+used to determine interplanar spacing between similar
+parallel planes of a crystal if X-rays of known wavelength
+are allowed to diffract from the crystal.
+The spectrum of white light due to
+X-ray diffraction has been very useful in determining the
+ifficition grimp of 100 still
+structure of biologically important molecules such as
+haemoglobin; which is on important constituent of blood
+and double helix structure of DNA
+Example 9.3: Light of wavelength 450 nm is incident
+on a diffraction grating on which 5000 lines/cm have been
+ruled.
+The spectrum of white Fight due ID
+difficion grading of
+(1)
+How many orders of spectra can be observed on
+either side of the direct beam?
+207
+---
+
+(ii)
+Determine the angle corresponding to each order
+Interesting illustration
+Solution: (I) Given that
+AT
+A
+=
+m
+For maximum number of order of spectra sin 0=1
+Since
+d
+therefore subsituting the values. in the above equation,
+we get
+500000 mixi=n x 450 x 10 n or n°500000
+1
+1
+A multi-spirture diffication pattern
+x 450 DC 10
+This is a picture of a where-light
+point source shot through a pera
+of rightly woven cloth
+or
+n=4,4
+Tidbin
+Hence, the maximum order of spectrum is 4.
+(i)
+For the first order of spectrum, n=1
+d'sinu=nk,
+gives
+Diffication petern of . single
+1
+human hair under lager beam
+sinß =1 x 450 x 10 th
+illumination
+500000
+sin#= (500000)(450 x10")
+For Your Information
+sing 0.225
+or
+0=13"
+For second order spectrum.r = 2, using Eq. dsine =ni
+500000
+sin i)=0.45
+or
+0=26.7°
+The third order spectrum (n=3) will be observed at 4) = 42.5°
+inf=3 x 500000m"x 450 x10'm
+=0.675 i.e. at 8=42.5"
+Looking through two prientrars, When
+and the fourthorder spectrum (n=4) will occur at (8=64.2
+they are very His light
+passition through
+sin 0=4 X 500000.r 450 x 102 m
+sin 0 = 0.9 gives 0=64,2°
+208
+---
+
+9.12 POLARIZATION
+(s)
+in transverse mechanical waves, such as produced in a
+stretched string, the vibrations of the particles of the medium
+are perpendicular to the direction of propagation of the
+waves: The vibration can be oriented along vertical,
+(h)
+horizontal or any other direction (Fig. 9.13). In each of these
+cases, the transverse mechanical wave is said to be
+polarized The plane of potarization is the plane containing
+the direction of vibration of the particles of the medium and
+the direction of propagation of the wave.
+A light wave produced by oscillating charge consists of a
+periodic variation of electric field vector accompanied by
+themagnetic field vector at right angle to each other. Ordinary
+light has components of vibration in al possible planes, Such a
+light is unpolarized On the other hand, if the vibrations are
+confined only in one plane, the light is said to be polarized
+Fig 2.13
+Transverse MOUNS on a strip polarized
+Production and Detection of Plane Polarized Light
+(a) in a verical place int
+m plane
+The light emitted by an ordinary incandescent puib (and also
+by the Sun) is unpolarized because is (electrical) vibrations
+are randomly oriented in space (Fig. 9.14). It is possible to
+obtain plano polarized beam of light from un-polarized light
+by removing all waves from the beam except those having
+vibrations along one particular direction. This can be
+achieved by various processos such as selective
+absorption, reflection from different surfaces, refraction
+through crystals and scattering by small particles.
+The selective absorption method is the most common
+Fig 1 T4
+An unpolume light
+the
+in
+method to obtain plane polarized light by using certain types
+incardesente India Tim in al
+of materials called dichraic substances. These materials
+directions
+transmit only those waves, whose vibrations are parallel to a
+Pourisez
+particular direction and will absort: those waves whose
+vibrations are in other directions One such commercial
+Plana Polarized
+polarizing material is a potaroid
+light
+If un-polarized light is made incident on a sheet of polaroid,
+(a)
+No light
+the transmitted light will be plane polarized. If a second
+light bearn
+sheet of palaroid placed in such a way that the axes of
+the polaroids, shown by straight lines drawn on them, are
+parallel (Fig. 9.15a). the light is transmitted through the
+second polaroid also If the second polaroid is slowly rotated
+(D)
+about the beam of light, 35 exis of rotation. the light
+Fig 815
+emerging out of the second polaroid gets dimmer and
+Experimenta arangerienti to show
+that light MUSE - The
+dimmer and disappears when the axes become mutually
+terms with BUTTOWN indicted
+of HgM Wame
+209
+---
+
+Do you known
+perpendicular (Fig. 9,15 b). The light reappears on further
+rotation and becomes brightest when the axes are again
+parallel to each other.
+This experiment proves that light waves are transverse
+waves. If the light waves were longitudinal, they would
+never disappear even if the two polaroids were mutually
+perpendicular,
+Light reflected lipen smooth surface
+Reflection of light from water, glass, snow and rough road
+of water is partially potartzed
+surfaces, for larger angles of incidences, produces glare.
+parallel to the surface
+Since the reflected light is partially polarized, glare can
+considerably be reduced by using polaroid sunglasses.
+Sunlight also becomes partially polorized because of
+scattering by air molecules of the Earth's atmosphere. This
+effect can be observed by looking directly up through a pair of
+sunglasses made of polarizing glass. At certain orientations
+of the lenses, less light passes through than at others.
+Interesting Information
+Optical Rotation
+Unpolarized
+When a plane polarized light is passed through certain
+light
+crystals, they rotate the plane of polarization. Quartz
+and sodium chlorate crystals are typical examples, which
+are termed as optically active crystals.
+Sugar solution
+potérizer
+Analyzer
+A few millimeter thickness of such crystals will rotate the
+Sugar solution rotates the plane of
+plane of polarization by many degrees. Certain organic
+polarization of incident light ab that
+I is no longer horizonta but at an
+substances, such as sugar and tartaric acid, show optical
+angle The mayae thus stops the
+rotation when they are in solution. This property of optically
+light when rolated from the versical
+active substances can be used to determine their
+Icrossed postiona
+concentration in the solutions.
+SUMMARY
+A surface passing through all the points undergoing a similar disturbance (i.e.,
+having the same phase) at a given instant is called a wavefront.
+When the disturbance is propagated out in all directions from a point source, the
+wavefronts in this case are spherical.
+Radial lines leaving the point source in all directions represent rays
+The distance between two consecutive wavefronts is called wavelength.
+Huygen's principle states that all points on a primary wavefront can be considered
+as the source of secondary wavelets.
+210
+---
+
+When two or more waves overlap each other, there IN a resultant wave This
+phenomenon is called interference.
+Constructivo interference occurs when two waves, travelling in the same medium
+overlap and the amplitude of the resultant wave is greater than either of
+the individual waves.
+In case of destructive interference, the amplitude of the resulting wave is less than
+either of the individual waves.
+in Young's double slit experiment,
+(i)
+for bright fringe, d sine a mi,
+in
+for dark fringe,
+00
+the distance between two adjacent bright or dark fringes is
+Newton's rings are circular fringes formed due to interference in a thin air film
+enclosed between a convex lens and e fiat glass plate.
+Michelson's interferometer is used for very precise length measurements
+The distance L of the moving mirror when m fringes move in view is mX/2.
+Bending of light around obstacies is due to diffraction of light
+For a diffraction grating:
+d sine = ni where n stands for nth order of maxima
+For diffraction of X-rays by crystals
+2d
+sina
+-
+nl.
+where n is the order of reflection.
+Polarization of light proves that light consists of transverse electromagnetic waves.
+QUESTIONS
+9.1 Under what conditions two or more sources of light behave as coherent sources?
+9.2 How is the distance between interference fringes affected by the separation between
+the slits of Young's experiment? Can fringes disappear?
+98 Can visible light produce interference fringes? Explain.
+9,4 In the Young's experiment, one of the slits is covered with blue filter and other with
+red filter. What would be the pattern of light intensity on the screen?
+211
+---
+
+9.5
+Explain whether the Young's experiment is an experiment for studying interference
+or diffraction effects of light.
+9.6 An oil film spreading over a wet footpath shows colours. Explain how does it
+happen?
+9,7 Could you obtain Newton's rings with transmitted light? If yes, would the pattern be
+different from that obtained with reflected light?
+9.6
+In the white light spectrum obtained with a diffraction grating, the third order image
+of a wavelength coincides with the fourth order image of il second wavelength
+Calculate the ratio of the two wavelengths,
+0.0
+How would you manage to get more orders of spectra using a diffraction grating?
+9:10 Why the polaroid sunglasses are better than ordinary sunglasses?
+9.11 How would you distinguish between un-polarized and plane-polarized lights?
+9.12 Fill in the blanks.
+(1) According to
+principle, each point on a wavefront acts as a source
+of secondary
+-
+(II)
+in Young's experiment, the distance between two adjacent bright fringes for
+violet light is
+than that for green light
+(iii) The distance between bright fringes in the interference pattern
+as
+the wavelength of light used increases.
+(iv) A diffraction grating is used to make B diffraction pattern for yellow light and
+then for red light. The distances between the red spots will be
+than
+that for yellow light
+(w) The phenomenon of polarization of light reveals that light waves are
+waves.
+(V) A polaroid is a commercial
+(VR) A polaroid glass
+glare of light produced at a road surface.
+NUMERICAL PROBLEMS
+8,1 Light of wavelength 546 nm is allowed to illuminate the slits of Young's experiment. The
+separation between the slits is 0.10 mm and the distance of the screen from the slits
+where interference effects are observed is 20 cm. Al what angle the first minimum will
+fall? What will be the linear distance on the screen between adjacent maxima?
+(Ans: 0,16°, 1.1 mm)
+212
+---
+
+9.2 Calculate the wavelength of light, which illuminates two slits 0,5 mm apert and
+produces an interference pattern on a screen placed 200 cm away from the slils. The
+first bright fringe is observed at a distance of 2.40 mm from the central bright image.
+(Ans: 600 nm)
+9.3 In a double slit experiment the second order maximum occurs at 0 = 0,25°. The
+wavelength is 650 nm. Determine the slit separation.
+(Ans. 0.30 mm)
+9,4 A monochromatic light of A = 588 nm is allowed to fall on the half silvered glass
+plate G1. in the Michelson Interferometer, If mirror M1 is moved through 0.233 mm,
+how many tringes will be observed to shift2
+(Ans: 792)
+9,5 A second order spectrum is formed at an angle of 38.0" when light falls normally on
+a diffraction grating having 5400 lines per centimetre. Determine wavelength of the
+light used.
+(Ans. 570 nm)
+9,6 A light is incident normally on a grating which has 2500 lines per centimetre. Compute
+the wavelength of a spectral line for which the deviation in second order is 15.0°.
+(Ans: 518 nm)
+9.7 Sodium light (2 - 589 nm) is incident normally on a grating having 3000 lines per
+centimetre. What is the highest order of the spectrum obtained with this grating?
+(Ans; 5th)
+9.8 Blue light of wavelength 480 nm illuminates a diffraction grating, The second order
+image is formed at an angle of 30° from the central image, How many lines in a
+centimetre of the grating have been ruled?
+(Ans: 5.2 x lines per cm)
+9,9 X-rays of wavelength 0.150 nm are observed to undergo a first order reflection at
+a
+Bragg angle of 13,3° from a quartz (SiO2) crystal. What is the interplanar spacing of
+the reflecting planes in the crystal?
+(Ans: 0.326 nm)
+9,10An X-ray beam of wavelength 2 undergoes a first order reflection from a crystal
+when its angle of incidence to a crystal face is 26.5°, and an X-ray beam of
+wavelength 0.097 nm undergoes a third order reflection when its angle of incidence
+to that face is 60,0°, Assuming that the two beams reflect from the same family of
+planes, calculate (a) the interplanar spacing of the planes and (b) the wavelength 1.
+[Ans: (a) 0.168.nm(b) 0.150 nm)
+213
+---

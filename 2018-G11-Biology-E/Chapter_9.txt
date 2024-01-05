@@ -1,0 +1,786 @@
+CHAPTER
+9Kingdom Plantae
+Animation 9.1: Kingdom Plantae
+Source & Credit: storify29. Kingdom Plantae eLearn.Punjab
+V: 1.1    
+  
+During the past few decades biologists have been trying to classify  living organisms into various 
+groups which could logically relect their similarities and di ssimilarities at various levels. The groups 
+were supposed to foreshadow the natural relationships among living  organisms and their mode of 
+origin. Such a system of classiication is called Phylogenetic System of Classiication.
+Kingdom Plantae mainly includes eukaryotic, autotrophic, multic ellular, non motile organisms 
+which develop from embryos. Plant cells have cell wall outer to cell membrane which is composed 
+of cellulose. There are about 360,000 known species of plants.
+CLASSIFICATION OF PLANTAE
+For the sake of convenience organisms included in Plantae can be divided into two broad categories 
+viz. non vascular (Bryophyta)  and vascular (Tracheophyta)  plants. Although this grouping is not 
+according to any speciic system of classiication but it does relec t similarities and dissimilarities 
+among various groups of plants. Each category (division) is di vided into Sub-divisions, Classes, Sub-
+classes and other taxonomic ranks. Detailed discussion of classi ication of Plantae will be beyond 
+the scope of this book. Following is a brief outline of classiicati on of Plantae.
+                                     Table 9.1: An o utline of Classiication of Plantae39. Kingdom Plantae eLearn.Punjab
+V: 1.1    
+DIVISION BRYOPHYTA
+The irst plants to colonize land were the bryophytes. They are 
+generally thought to have evolved from green algae.
+The Bryophytes are poorly adapted to live on land and are mainly 
+conined to damp shady places (Fig. 9.1). 
+These plants are devoid of specialized conducting (xylem and 
+phloem) and strengthening tissues. Only the process of difusion 
+and osmosis helps in the transportation of water and minerals as 
+well as in transportation of prepared food and other substances. 
+The plant body is with a proper cuticle, or has a very thin one. 
+The water is absorbed by the general surface of the plant. The 
+bryophytes are said to be the amphibians of the plant  world 
+because they cannot live away from water. They need water for 
+reproduction (Fig. 9.2).
+The bryophytes are non- vascular 
+lowerless plants. These plants show a 
+regular a lternation of heteromorphic 
+(morphologically diferent) generations.  
+They have a dominant independent free 
+living gametophyte . This may be thalloid 
+as in many liverworts or is diferentiated 
+into structures resembling to stem, 
+leaves and absorbing and anchoring 
+organs, rhizoids , as in mosses and some 
+liverworts. The gametophyte produces a 
+sporophyte , which is a less conspicuous 
+generation, partially or totally dependent 
+upon the gametophyte for its nutrition. 
+The sporophyte generally consists of foot, seta and capsule. The spor ophyte is diploid (2n) which 
+produces in sporangia one kind of haploid spores (i.e. it is homosporous ) by meiosis.49. Kingdom Plantae eLearn.Punjab
+V: 1.1       
+The spores germinate and give 
+rise to gametophyte which is also 
+haploid. Multicellular male and 
+female sex organs i.e. antheridia  
+and archegonia  respectively, are 
+born on gametophyte either on same 
+or diferent plants. These sex organs 
+are multicellular and protected by a 
+sterile covering of cells (Fig. 9.3).
+Gametes are produced by mitosis. 
+Male gametes produced within 
+antheridia are called antherozoids ; 
+antherozoids are motile and always 
+produced in large number. Female 
+gametes formed within archegonia 
+are termed as eggs . A single egg 
+is formed in each archegonium. 
+Fertilization takes place in water. 
+Antherozoids (n) are attracted 
+towards archegonia (n) chemotactically. A single antherozoid fus es with an egg (n) thus accomplishing 
+fertilization which results in the formation of the diploid zygote (2 n). The zygote is retained within the 
+female sex organ (archegonium) for some time. After a resting period  the zygote develops through mitotic 
+divisions into a diploid embryo . The embryo ultimately develops into a sporophyte which is also dip loid.
+The entire development of sporophyte thus takes place within the gametophyte p lant body. Even 
+when the sporophyte is fully developed it remains attached to the gametophy te for nourishment 
+and protection because it does not contain chloroplasts and is unabl e to perform photosynthesis. 
+There is an alternation of generations  in the life cycle of bryophytes i.e. multicellular haploid 
+gametophytic (gamete producing) generation alternates with the multicell ular diploid sporophytic 
+(spore producing) generation (Fig. 9.6). It is a very important phenomenon, which provides 
+continuous genetic variabilities and selection for the best genetic make up for survival and 
+adaptation in the changing environment(s) (as explained in a la ter section).
+In view of the above mentioned discussion, bryophytes can therefore be dei ned more precisely as 
+plants with the distinguishing characters as follows :59. Kingdom Plantae eLearn.Punjab
+V: 1.1 
+ ’’Vascular system absent; gametophyte dominant; sporoph yte attached to gametophyte; 
+homosporous.”
+  
+ADAPTATION TO LAND HABITAT
+In general bryophytes developed the following adaptive characters for ter restrial environment:
+1.  Formation of a compact multicellular plant body which help ed in the conservation of water by  
+     reducing cell surface area exposed to dry land conditions.  Presence of cuticle further reduces   
+     loss of water by evaporation.
+2.  Development of photosynthetic tissues into special chambers for the ab sorption of carbon 
+     dioxide without losing much water and exposure to light.
+3.  Formation of special structures like rhizoids for absorption of water and anchorage. 
+4.  Heterogamy (production of two types of gametes) is evolved, forming n on motile egg containing  
+     stored food and motile sperms.
+5.  Gametes are produced and protected by the special multicellular organs (antheridia and  
+     archegonia).
+6.  Multicellular embryo is formed which is retained and protec ted inside the female reproductive  
+     body during its development.
+7.  Alternation of spore-producing generation (sporophyte) with gamete producing generation 
+     (gametophyte) enabled the plant  to produce and test the best genetic combinations for adapting 
+     to the versatile terrestrial conditions.
+CLASSIFICATION
+ 
+Bryophytes are divided into three subdivisions : Hepaticopsida, Bry opsida and Anthoceropsida.69. Kingdom Plantae eLearn.Punjab
+V: 1.1Hepaticopsida (Liverworts) 
+Bryophytes belonging to this subdivision are called liverworts. It i ncludes about 900 species. 
+Liverworts are the simplest of all bryophytes (Fig. 9.4). 
+They are usually found on moist rocks and on wet soil. Since they  live near water therefore chances 
+of drying out are greatly reduced.
+The plant body is a gametophyte. It may be thalloid i.e. lat, or r ibbon-like, usually dichotomously 
+branched. It is attached to soil by means of rhizoids e.g. Marchantia , Other species tend to grow 
+upright and are falsely leafy i.e., diferentiated into a false s tem, and leaves e.g., Porella (Fig. 9.4b). 
+The sporophyte is dependent upon gametophyte! for nourishment and protecti on.
+The sex organs develop on the upper surface of the thallus near the tip s of the branches. 
+Sometimes they develop on special branches on gametophyte called the antheridiophores  and 
+the archegoniophores  as in Marchantia  (Fig. 9.5).79. Kingdom Plantae eLearn.Punjab
+V: 1.1Fig. 9.5 A Liverwort, Marchantia bearing sex organs, antheridia  and archegonia, on special branches called antheridiophores  and 
+archegoniaphores:
+Fig. 9.6 A generalized life cycle of a Bryophyte showing alte rnation of generation.89. Kingdom Plantae eLearn.Punjab
+V: 1.1       
+Bryopsida  
+Like liverworts most mosses inhabit damp 
+places. In contrast to other bryophytes they grow 
+equally well in fairly dry places. However, water 
+is essential in the reproduction of mosses, thus 
+they usually grow to form cushions or mats.
+Each adult moss plant, a gametophyte, is always 
+diferentiated into structures which resemble 
+stem and leaves. Multicellular rhizoids are also 
+present. Examples of mosses are Funaria   and 
+Polytrichum  (Fig. 9.7). Archegonia and antheridia, 
+develop on the tips of diferent branches on the 
+same plant e.g., Funaria , or on diferent plants 
+as in Polytrichum . The archegonia and antheridia 
+form clusters and are mixed with sterile hairs, 
+the paraphyses .
+Formation of diploid sporophyte and haploid 
+spores follow the same sequence of events of 
+alternation of generations as in liverworts (Fig. 
+9.6). However, the spore of a moss, unlike that of 
+liverworts, develops into an alga like structure, the 
+protonema . Haploid moss plants (gametophyte) 
+develop from buds on the protonema and the 
+life cycle is completed (Fig. 9.8).99. Kingdom Plantae eLearn.Punjab
+V: 1.1         Fig. 9.8 Moss life cycle
+Anthoceropsida (Horn Worts) 
+This group of bryophytes difers in many respects and is slig htly advanced than Bryopsida and 
+Hepaticopsida. The gametophyte is highly lobed and irregular in  outline. Except for a little early 
+stage of development, the sporophyte is not dependent upon gametophyte for nou rishment 
+and protection. Antheridia and archegonia are partially sunken in the gametophytic tissue. 
+The sporophyte exhibit many advanced characters due to which it ca n thrive better on land as 
+compared to other groups. The sporophyte has stomata and chloroplasts in the epidermis and can 
+thus photosynthesize its own food rather than obtaining it from gametoph yte. It also has a waxy 
+cuticle to check excessive loss of water (desiccation). Furthermore, at the junction of foot and spore 
+producing region there is a band of meristematic  tissue. This tissue keeps on adding cells towards 
+the spore-producing region during the formation, maturation and di spersal of spores from the 
+opposite end. Due to the fast growth rate of this meristematic tissue the spor ophyte keeps on109. Kingdom Plantae eLearn.Punjab
+V: 1.1increasing in length for an indeinite period of time. Due to these cha racters the sporophyte 
+continues to survive as such even after the death and decay of the gametoph yte. One good example 
+of Anthoceropsida is Anthoceros which is also found in the hilly  areas of Pakistan (Fig. 9.9)
+Fig. 9.9 Anthoceros, a hornwort (a) Gametophyte with attache d horn-shaped sporophyte (b) V.S. of sporophyte.
+Alternation of generations
+In the life history of liverworts, mosses and hornworts there are two di stinct multicellular phases 
+or generations. These generations are haploid gametophyte  and diploid sporophyte , which 
+regularly alternate with each other. The gametophyte is the dominant gen eration because it is more 
+conspicuous. It produces gametes called spermatozoids  or antherozoids  and eggs, therefore 
+called gamete-producing generation. A haploid spermatozoid fuses w ith a haploid egg to produce 
+diploid oospore .
+The oospore does not produce the gametophyte directly but produces a totally diferent plant 
+called sporophyte . The sporophyte in bryophytes is a less conspicuous generation, w hich is usually 
+diferentiated into foot , seta  and capsule  (also called sporogonium ). Spores develop within the 
+capsule by reduction division (meiosis) from spore mother cells. T he sporophyte produces spores 
+and is, therefore, called spore producing generation. The spore on g ermination does not develop119. Kingdom Plantae eLearn.Punjab
+V: 1.1into a sporophyte but gives rise to the gametophyte. Thus in the life-his tory of a bryophytic plant, 
+the two generations, the gametophyte and the sporophyte, regularly alternate with each other. The 
+phenomenon of alternation of gametophyte and sporophyte in the life histor y of a plant is called 
+alternation of generations (Fig. 9.10).
+It should be noted that the gametophyte or haploid stage begins with spor es and ends at gametes, 
+whereas the sporophyte begins with oospore and ends at spore mother cell.
+The signiicance of alternation of generations
+During the formation of spores from spore mother cells by meiotic divis ion reshuling of genes 
+occurs. As a consequence, a great variety of spores with diferent gen etic make-up are produced. 
+These spores in turn produce gametophytes with diferent genetic combina tions. The gametophytes 
+with better genetic make-up will have a better chance for survival in the environment where 
+they occur. On the other hand, the gametophytes with less advantageous c haracteristics will be 
+eliminated. There is no reshuling of genes during gametogenesis in  the gametophyte as gametes 
+are produced after mitosis.
+The oospore developing after fertilization now has a new genetic make-up  as compared to the129. Kingdom Plantae eLearn.Punjab
+V: 1.1   
+parent. This genetic variation passes to the new sporophyte which on m aturity once again produces 
+further genetic recombination which are transferred to the gametophyte. I n this natural process 
+the sporophyte thus provide a large amount of genetic variability and  nature selects the best 
+genetic combinations. In the long run, this will allow the popula tions to become increasingly better 
+adapted to their environment.
+DIVISION TRACHEOPHYTA
+Tracheophytes are called vascular plants because of the presence of vascular tissues i.e. xylem and 
+phloem.These are the successful group of land plants. They are a ble to adapt the rough land habitat 
+most successfully and amongst them the lowering plants today have d ominated land habitat. The 
+evolution of following complex vegetative and reproductive characteristic s enabled the vascular 
+plants in general and lowering plants speciically to become pred ominant lora of land :
+1.       Root, stem and leaves.
+2.       Vascular systems in stems, roots and leaves.
+3.       Protected sporangia, leading to the evolution of seed.
+4.       Pollen tube for safe and water-independent transmission of male gamete to female gamete.
+5.       Flower and fruit.
+6.       Heteromorphic alternation of generation.
+The Tracheophytes are further sub-divided into four sub-divisions,  Psilopsida, Lycopsida, 
+Sphenopsida and Prteropsida.
+PSILOPSIDA (PSILOPHYTA)
+In Psilopsida plants have rootless sporophytes. The stem is diferenti ated into an underground 
+rhizome  and an aerial part. Both are dichotomously  branched. The rhizome bears rhizoids, 
+both perform the function of root. The aerial branches are green, leal ess and bear small veinless 
+outgrowths and carry out photosynthesis. The reproductive organs of sp orophyte are sporangia  
+which develop at the tips of long or short branches, or on lateral si des of branches (Fig. 9.11).139. Kingdom Plantae eLearn.Punjab
+V: 1.1Internal structure of stem is simple. Vascular tissue is narrow , central and soild without pith, with 
+a broad cortex.
+Psilopsida is considered to be the earliest group of vascular plan ts. Most of the representatives of 
+this group have become extinct, for example, Horneophyton, Psilophyton, Cooksonia  (Fig. 9.11) 
+etc.
+Fig. 9.11 Psilotum
+(a) Dichotomously lealess branches.
+(b) The erect branches of another species, showing brown sporan gia.
+There are only two living genera Psilotum , and Tmesipeteris .
+The gametophyte is thalloid. It is colorless and underground. Its cells contain a fungus which 
+provides food to the gametophyte and in return gets protection from it. Such  beneicial symbiotic 
+relationship among the two members (fungus and plant) is said to be symbiosis; or mycorrhizal  
+association. Examples are Psilotum , and Tmesipeteris .
+EVOLUTION OF LEAF
+Early vascular land plants did not have true leaves or roots. They were small in size, with149. Kingdom Plantae eLearn.Punjab
+V: 1.1 
+dichotomously branched erect smooth aerial parts and equally strong  subterranean anchoring 
+and absorptive rhizome .
+           
+  
+Fig. 9.12 Cooksonia : an early vascular plant bearing sporangia  at the tips of the branches.
+Cooksonia  (Fig. 9.12) had the same structural layout 
+i.e. naked stem without leaves. Such plants started 
+to form leaves as small scale like out growths. 
+These out growths were not supplied with vascular 
+tissues, therefore they were not regarded as true 
+leaves. Lycopods  were the irst plants that formed 
+the true leaves and roots.
+However in lycopods (e.g. Lycopodium ) the leaves 
+are small in size. Each leaf has a single undivided 
+vein (vascular supply). Such a leaf is called 
+microphyll .    
+Large leaves having divided veins and veinlets 
+with an expanded leaf blade or lamina  are known as megaphylls . Megaphylls are characteristic 
+for ferns and seed plants. It is suggested that evolution of megaphyl ls started from a dichotomous 
+branching system in some primitive psilopsids approximately 35 0 million years ago. It is assumed 
+that evolution of a megaphyll included series of successive evolutionary  steps (Fig. 9.13) which are 
+as follows :
+Fig. 9.13 Successive evolutionary steps in the evolution of leaf.159. Kingdom Plantae eLearn.Punjab
+V: 1.1   
+Overtopping  
+ The dichotomously branched aerial portion of the stem showed unequal branching. Some branches 
+remained short while others grew and expanded at a much faster pa ce. All these branches grew in 
+diferent planes. Such an unequal development of various branches i s called overtopping .
+Planation
+Next important step was the arrangement of unequal dichotomies in one p lane. This process is 
+termed as planation .
+Fusion/Webbing
+Overtopping and planation was followed by a process known as fu sion or webbing. The space 
+between the overtopped dichotomous branches was occupied by a sheet of par enchyma cells 
+which connected these branches forming a lat lamina or leaf bla de type of structure, having many 
+dichotomously  branched veins (Fig. 9.13).
+During the course of evolution fusion of the vascular strands resulted  in net or reticulate venation  
+pattern. The process of evolution of leaf was very slow and gradual which completed in more than 
+15-20 million years.
+LYCOPSIDA  
+The plants of Lycopsida have sporophytes diferentiated into roots, stem a nd true leaves. The 
+leaves are small and single- veined, they are also called microph ylls. The arrangement of leaves is 
+spiral or opposite. The sporangia develop singly on the upper side of the sporophylls, which may 
+or may not be arranged to form strobili (Fig. 9.14)
+The sporophyte may have sporangia of one kind as in Lycopodium  or of two kinds i.e., microsporangia 
+and megasporangia as in Selaginella  (Fig. 9.15).169. Kingdom Plantae eLearn.Punjab
+V: 1.1Lycopsids are also called club mosses/spike mosses because of th eir club/spike  shaped strobili 
+and small leaves resembling mosses. On the basis of types of spor es produced in the sporophyte 
+they are thus referred to as being homosporous’ or ‘heterosporous’ respecti vely. This condition is 
+called homospory and heterospory. Selaginella resembles seed produci ng plants (spermatophytes)  
+because of its heterosporic condition and some other characters. The ga metophyte of Lycopsida 
+is mainly underground.179. Kingdom Plantae eLearn.Punjab
+V: 1.1    
+SPHENOPSIDA
+In Sphenopsida (Horsetails), the sporophyte is diferentiated into root, stem and leaves. The leaves 
+may be expanded or scale-like and are always arranged in wh orls. Plants belonging to this group are 
+also called arthrophytes because the whole plant body is composed of large number of joints. Main 
+stem is not smooth, it has large number of ridges and furrows. Each node has whorl of branches. 
+The sporangia are born on structures called sporangiophores , aggregated to form strobili.
+   
+Each sporangiophore has a slender stalk and an expanded disc  at its free end. The sporangia appear 
+on the underside of the disc. The thalloid gametophytes grow upon cla yey soil and on mud, e.g., 
+Equisetum  (Fig. 9.16).189. Kingdom Plantae eLearn.Punjab
+V: 1.1
+Fig. 9.16 Representative of three of the subdivisions of vasc ular plants (a) club moss Lycopodium (b) A horsetail. Equ isetum (c) A tree 
+fern.
+PTEROPSIDA   
+Pteropsida is divided into three classes (i) class Filicineae  (ii) class Gymno  spermae  (iii) class 
+Angiospermae . The class Filicineae  contains seedless plants with foliar sporangia (sporangia 
+attached to fronds  Fig. 9.17). The leaves are called fronds . When the frond is immature and young, 
+it is coiled, this pattern of development is called circinate vernation  (Fig. 9.19). It is an important 
+character of this group.
+Fig. 9.17 A frond bearing sporangia attached to the underside 
+of the leaf.Fig. 9.18 Fems. A ostrich fem growing on a forest loor. See the 
+coiled immature and young frondsready to uncoil.199. Kingdom Plantae eLearn.Punjab
+V: 1.1Class Filicineae
+The Filicineae or fems are mostly shade and moisture loving plants . A very few are able to live 
+under dry conditions. They grow on the hills and in plains. Some are epiphytic and grow on the bark 
+of trees. Although ferns are worldwide in distribution, they are esp ecially abundant in the tropics. 
+They vary greatly in size. Important ferns are Dryopteris , Pteridium , Adiantum  and Pteris  etc.
+Adiantum (Maiden-hairfern)
+Adiantum  is a fem that grows along moist walls and water courses. It is  a small herb consisting of 
+stem, roots and leaves. Stem is a short, thick and underground, us ually unbranched horizontally 
+growing rhizome . The rhizome is protected by brownish scales (ramenta) and covered  by persistent 
+leaf basis. Fibrous adventitions roots arise from the lower side of th e rhizome. Large, pinnately 
+compound fronds arise from the upper side of rhizome. Young leaves (iddle heads) show circinate 
+vernation. The stipe (stalk) and rachis are black, smooth, shin y (hence called maiden hair fem). 
+The lealets (pinnae, and pinnules - lealets of second order) show dichotomous venation. Sori 
+(groups of sporangia) are born on the underside of relexed lobes of the margins of lealets, and 
+are protected by bent margin of the lealet, forming false indusium.
+Life Cycle : Life cycle of Adiantum  shows hetromorphic alternation of generation, sporophyte 
+being dominant and gametophyte small and reduced but separate and  independent. The diploid 
+sporophyte produce large number of sori (singular-sorus).They a re green, but when ripe they 
+become dark brown. Each sorus consists of a number of sporangi a covered by false indusium. The 
+leaves bearing sporangia are called sporophylls.
+Each sporangium is slightly lattened, biconvex body (capsule) born on a multicellular stalk. The 
+capsular wall consists of a single layer of lat, thin walled  cells. The edge of the capsule is made up 
+of two parts, the annulus and the stomium. The annulus occupies three fourth of the edge and 
+remaining one fourth is the stomium. Annular cells have their rad ial and inner walls thickened. 
+The stomial cells are thin- walled. Inside the sporangia, hapl oid spores are formed by reduction 
+division, from diploid spore mother cells. The annulus of the spor angium contracts in dry weather, 
+the stomial cells being thin-walled rupture and spores are disper sed by wind.
+When a spore falls on a moist soil, it germinates at a suitable tem perature and produces a haploid 
+gametophyte or prothallus.209. Kingdom Plantae eLearn.Punjab
+V: 1.1Fig. 9.19 Life history of Adiantum
+The prothallus (gametophyte) is an autotrophic, small, lat, heart shaped structure. At the anterior 
+end of the prothallus is a notch in which lies the growing point.  Its size is about 8mm at its longest 
+diameter. It is horizontally placed on the soil, and has unicell ular rhizoids on its lower surface 
+towards the posterior end. The rhizoids ix the prothallus to the soil a nd absorb nutrients for it. It 
+is composed of rounded thin walled cells. The margin of the protha llus is one-celled thick but the 
+middle part is many-celled and is cushion-like.
+The prothallus is monoecious i.e., male and female sex organs ap pear on the under-surface of the 
+same prothallus. In the mature prothallus, archegonia occur near  the notch and the antheridia are 
+scattered among the rhizoids.
+Each antheridium produces numerous spermatozoids which are spi rally coiled andmulticiliated..219. Kingdom Plantae eLearn.Punjab
+V: 1.1     
+The arcnegonium consists of a venter and a neck. The venter contains the egg or oosphere and is 
+embedded in the cushion of the thallus. The antherozoids reach the ar chegonium, by swimming 
+in water, Fertilization occurs and an oospore is formed. The oospore forms the sporophyte. Young 
+sporophyte is irst attached to the gametophyte but later becomes independent. The life history of 
+this fern is shown in Fig 9.19.
+EVOLUTION OF SEED HABIT
+A review of the kingdom Plantae indicates that the seed-plants (sperma tophytes) predominate 
+over non-seed vascular plants.
+One of the most signiicant events in the history of land plants’ was  the development of seed 
+habit. It was an important change in the reproductive system of the va scular plants which occurred 
+approximately 390 million years ago. First complete seeds appeared  approximately 365 million 
+years ago during late Devonian times. Technically a seed may be d eined as a fertilized ovule. An 
+ovule is an integumented indehiscent megasporangium. Integuments are specialized protective 
+coverings around megasporangium which vary in number. All s eed producing plants are called 
+spermatophytes. Various steps involved in the evolution of seed habit are a s follows.
+1. Evolution of heterospory.
+2.  Retention and germination of megaspore within the megasporangium .
+3.  Development of protective layers around megasporangium.
+4.  Reduction to a single functional megaspore per sporangium.
+5.  Development of an embryo sac within the sporangium.
+6.  Modiication of distal end of megasporangium for pollen captu re.
+ 
+1.      Evolution of heterospory
+Primitive vascular land plants produced one kind of spores, a c ondition called homospory . All groups 
+of land plants up to pteridophytes  are homosporous . During the early phase of evolution some 
+plant groups started producing two diferent types of spores, the smal ler ones called microspores  
+and the larger ones known as megaspores .
+The microspores produced inside microsporangia germinate to form m ale gametophyte or the 
+microgametophyte , whereas the megaspores germinated to form female gametophyte or229. Kingdom Plantae eLearn.Punjab
+V: 1.1megagametophyte .
+2.      Retention and germination of megaspore within the megasporangium
+During the usual reproductive cycle in the heterosporous vascular lan d plants, the megaspores 
+are used to be shed and dispersed soon after their formation in order to germinate into female 
+gametophyte. However in some plants (e.g. Selaginella) the megaspore is  not allowed to escape 
+from megasporangium immediately after its formation. In others the m egaspore is permanently 
+retained within the megasporangium. Here, within the conines of the m egasporangium wall the 
+megaspore germinates to form egg containing female gametophyte.
+3.      Development of protective layers around megasp orangium
+Some branch like structures of sporophyte surrounding the megaspora ngium fused around to 
+megasporangium to form protective envelope or integument. The megasporangiu m tightly locked 
+by integuments becomes totally indehiscent. This important change led  to the evolution and 
+formation of the ovule, which is nothing but an integumented indehisc ent megasporangium. In 
+this way more protection is accorded to the egg-containing apparatus in terrestrial environment.
+4.     Reduction to a single functional megaspore per sporangium
+Each megaspore mother cell within a megasporangium used to produc e four gametophytes. There 
+was a competition for space and food among the four gametophytes. Soon the early vascular 
+plants adopted a new strategy i.e., only one megaspore is selected for further development into a 
+healthy female gametophyte while the remaining three are aborted.
+5.     Development of an embryo sac within the sporang ium
+The single healthy megaspore retained within the megasporangium ger minates to form an egg 
+containing female gametophyte called an embryo sac.
+6.    Modiication of distal end of megasporangium for p ollen capture
+When most of the structural and functional changes leading to the d evelopment of seed habit were 
+completed, another important modiication took place in the megasporangiu m which was now 
+integumented, indehiscent and permanently attached to - the sporophyte. The distal end of the 
+megasporangium became modiied for capturing pollen (microspore c ontaining male gametophyte).
+Pollen after being trapped in the distal cavity of the megasporang ium produces pollen tube which 
+carry male gametes deep into the embryo sac to fertilize the egg, formi ng a zygote, that forms an 
+embryo. The megasporangium (ovule) after fertilization is transform ed into a seed, the integuments239. Kingdom Plantae eLearn.Punjab
+V: 1.1becoming the seed coats.. The seed ofers maximum degree of protection to a developing embryo 
+under the unfavorable terrestrial environment. The development and evolution of  seed habit was 
+a great success and a giant leap which ultimately enabled Pla nts to colonize land permanently.
+Class Gymnospermae
+Gymnosperms are one of the successful groups of seed plants of world wide distribution They 
+constitute about one-third of the world’s forests. The gymnosperms are h eterosporous plants which 
+produce seeds but no fruits. The term gymnospermae literally means ‘naked seeded’ (Gymno= 
+naked, spermae= seed). The ovules in these plants are usually born e on the exposed surfaces of 
+fertile leaves (megasporophylls). These ovules, unlike those of angiosp erms are not enclosed but 
+lie naked on the surface of fertile leaves.
+Like Filicinae, they show regular heteromorphic alternation of genera tions. They have independent, 
+dominant sporophyte but less conspicuous, dependent gametophyte. The fem ale gametophyte is 
+permanently retained within the ovule. The two kinds of spores are mic rospores and megaspores 
+which develop on microsporophylls and megasporophylls respectively.  The megasporophylls 
+bearing ovules are not folded and joined at the margins to form an ovary . For this reason the seeds 
+lie naked on the mega sporophylls, (Fig. 9.20a). 
+The important genera are Cycas (sago-palm) (Figs. 9.20-a), Pinus  (Pine), Taxus  (Yew), Picea  (Hemlock) 
+and Cedrus  (deodar) Ginkgo  (Fig. 9.20-b) etc.249. Kingdom Plantae eLearn.Punjab
+V: 1.1Pinus- Life Cycle
+The Pine is a conifer. The main plant body is sporophyte which  produces spores after reduction 
+division of spore mother cell in sporangia. Conifers are heterosporous . Microspores and megaspores 
+are produced in microsporangia and megasporangia respectively. Sporangia (i.e., micro and 
+megasporangia) are produced on respective cones (male cones and fema le cones) on the same 
+plant.
+The male cones are small in size and are produced in clusters on an axis. Each male cone consists 
+of microsporophylls which contain microsporangia. Microspore g erminates to form a small 
+inconspicuous male gametophyte (also called as microgametophyte) wi thin the spore wall. Such a 
+microspore of seed plants that contains the microgametophyte includi ng the gametes is called a 
+pollen grain (Plural = pollen).
+Pollen are produced in great numbers and are transported by wind . Pollen grain in Pinus has 
+two wings attached to its lateral sides. Due to wings, pollen can loa t in air for a longer period of 
+time and ean travel long distances. The gymnosperms have successfu lly evolved this totally new 
+mechanism of transfer of male gamete to the female gametophyte through w ind which has made 
+them independent of water for this purpose. This is an important im provement and evolutionary 
+adaptation to survive in the harsh dry terrestrial (land) environment.
+The female cones are large and conspicuous. Each female cone is composed of large number of 
+spirally arranged scales, the megasporophylls which are woody  in texture. At the base of each 
+scale two ovules are present. An ovule is actually a megasporangium  which is protected by an 
+integument. Each megasporangium has a single diploid megaspor e mother cell. The megaspore 
+mother cell divides meiotically to produce four haploid megaspores. T he functional megaspore (n) 
+undergoes mitosis to produce female gametophyte or an embryo sac. The em bryo sac contains 
+one to several archegonia. The archegonia contain the female gamete or an  egg.
+During pollination the pollen land directly on the ovules. Only few pollen are able to germinate to 
+form pollen tubes through which male gametes are transferred to the emb ryo sac for fertilization.
+More then one egg can be fertilized to form several zygotes, but one zygote u sually survives to form 
+a single embryo. After fertilization the ovule becomes the seed. The seeds now contains an embryo 
+along with some stored food material. The seed upon germination gives r ise to a new sporophyte 
+plant.
+In the life cycle of Piuns, the dominant diploid sporophyte generati on alternates with inconspicuous259. Kingdom Plantae eLearn.Punjab
+V: 1.1haploid gametophyte generation (Fig. 9.21).
+Fig.9.21 Life Cycle of Pinus
+Class Angiospermae
+The term angiosperms literally means “enclosed seeded” (Angio=close Sperm = seed). In these 
+plants fertile leaves bearing ovules are folded and joined at the marg ins to form ovaries. The ovary 
+after fertilization is changed into a fruit, containing seeds.
+Angiosperms make up 235,000 of the 360,000 known species of p lants. They are heterosporous, 
+autotrophic plants. These are highly evolved of all the plants on the ea rth. The plants produce 
+lowers, fruits and seeds.269. Kingdom Plantae eLearn.Punjab
+V: 1.1Fig. 9.22 Some of the remarkable diversity of angiosperms is sh own in these photographs. The species shown here are Dicots ( a) 
+Fragrant water lily, (b) wild geranium, (c) Indian pipe ( a parasite) an angiosperm that lacks chlorophyll.
+Life Cycle of an angiospemic plant
+The adult plant is a diploid sporophyte mostly diferentiated into roots , stem and leaves. At maturity 
+it produces lowers. A lower is a modiied shoot which consists of a  pedicel, thalamus or torus, and 
+loral leaves (sepals, petals, stamens and carpels). Thalamus and loral leaves, especially the stamens 
+and the carpels, are so modiied, that they do not even look like stem and  leaves respectively. The 
+sepals and petals are non- essential or non-reproductive parts, and  stamens and carpels are the 
+essential or reproductive parts of the lower.
+The sepals and the petals protect the stamens and the carpels. They a lso attract insects for 
+pollination. When the pollination is over, the sepals usually and the petals always fall of.
+The anther contain microspore mother cells which produce haploid m icrospores through meiosis. 
+Each microspore germinates to produce male gametophyte. Such microsp ores containing male 
+gametophytes are called pollen. 
+The carpel consists of a basal broader part, the ovary, the style a nd the terminal part of the style, 
+the stigma. The ovary contains ovules. The ovule consists of an integum ent (covering) and a tissue, 
+the nucellus present inside.
+After pollination, the pollen grain is transferred to the stigma. Her e it germinates to form a pollen 
+tube. The nucleus of the microspore divides by mitotic divisions to for m two male gametes and 
+the tube nucleus. At this stage of development, the pollen grain is cal led male gametophyte. In the 
+meantime certain changes occur in the ovule leading to the formation of female spore (megaspore). 
+The megaspore develops into female gametophyte. This consists of seven cell s only. One of these279. Kingdom Plantae eLearn.Punjab
+V: 1.1cells is the egg or oosphere.   
+ The pollen tube grows through the style, enters the ovule and then reaches  the female gametophyte. 
+Here it discharges the male gametes. The egg and one of the two male ga metes fuse to form the 
+oospore. The second male gamete fuses with the secondary nucleus to form  endosperm nucleus 
+(double fertilization) . The oospore develops into an embryo and endosperm nucleus develops 
+into a multicellular nutritive tissue, the endosperm.
+Animation 9.2: Angiosperm Reproduction
+Source and Credit: amoebasisters289. Kingdom Plantae eLearn.Punjab
+V: 1.1Seed Formation
+Meanwhile, the integuments of the ovule form testa and tegmen and ovary wa ll develops into the 
+fruit. Seeds usually undergo a period of rest and then under sui table conditions, germinate and 
+produce a seedling which gradually changes into a sporophyte ( Fig. 9.23).
+Thus an alternation of dominant sporophyte generation(2n) occurs wi th inconspicuous 
+gametophyte generation(n).
+Fig. 9.23 Life Cycle of on angiospermic plants
+Double Fertilization 
+Double fertilization is a special process found in Angiosperms. In this two male gametes fuses with 
+two cells simultaneously. A male gamete (n) fuses with egg (n) to form a diploid zygote (2n) which 
+develops later into an embryo and second male gamete (n) fuses with a nother female cell called 
+fusion nucleus (2n) resulting into a triploid (3n) endosperm c ell, which develops into food storing299. Kingdom Plantae eLearn.Punjab
+V: 1.1endosperm tissue. It is an important evolutionary advancement in whic h food storage in fertilized 
+ovule is made only on fertilization i.e. formation of zygote. This ac tually helps the plant to economize 
+its food resources.
+Classiication of Angiosperms
+The class Angiospermae is divided into two sub-classes, the Monocoty ledonae (with one cotyledon) 
+and the Dicotyledonae (with two cotyledons), according to the number of c otyledons in the embryo.
+The plants included in the Monocotyledonae are called Monocotyledonous  plants or Monocots. 
+The plants included in the Dicotyledonae are called Dicotyledonous  plants or Dicots. A few 
+distinguishing characters of the two classes are given below:Animation 9.3: Double Fertilization
+Source and Credit: online.science.psu309. Kingdom Plantae eLearn.Punjab
+V: 1.1 
+    Fig. 9.24 Comparison of Dicot and Monocot319. Kingdom Plantae eLearn.Punjab
+V: 1.1Angiospermic Familes
+Some Angoispermic families are described below :
+1. Rosaceae (Rose family). 2. Fabaceae (Pea family). 
+3. Mimosaceae ( Acacia family). 4. Solanaceae (Potato family) .
+5. Caeselpiniaceae {Cassiafamily). 6. Poaceae (Grass family) .
+ROSACEAE (Rose Family) :
+A family with about 100 genera and 2000 species is distribu ted over most of the earth. In Pakistan 
+29 genera and about 213 species are reported.
+Familiar Plants:  Pyrus  (pear); Rosa  (rose); Malus  (apple); Fragaria  (strawberry) etc.
+Animation 9.4: Rosaceae
+Source and Credit: loradesdehuelva329. Kingdom Plantae eLearn.Punjab
+V: 1.1Fig. 9.25 Rosaceae : A-twig; B-young stamen; B1-enlarged open anther, showing pollen in it; C-style hairy and stigma bila biate; C1-
+enlarged bilabiate stigma.339. Kingdom Plantae eLearn.Punjab
+V: 1.1Vegetative Characters
+Plants are trees, shrubs and herbs. Stem of the shrubby plants usually have spines. Leaves are 
+alternate, rarely opposite, simple or compound, with paired stipul es, which are sometimes adnate 
+to the petiole; spines may also occur on the rachis.
+Floral Characters
+Inlorescence is variable, solitary or may be racemose or cymose clu ster. Flowers are mostly bisexual, 
+and actinomorphic, often perigynous to some degree, usually showy a nd scented. Calyx: 5 sepals 
+rarely 4, united at the base. Corolla:  Petals 5, or numerous in multiple of 5, which are free rosaceous , 
+large and showy. Androecium:  Numerous stamens, sometimes only 5 or 10. Gynoecium  is of 1 
+to numerous separate carpels or variously united, ovary generally s uperior sometimes inferior; 
+Placentation  basal, when the carpel is one or apocarpous, but axile when th e carpels are many 
+and syncarpous (fused).
+Economic Importance : Economic importance of this family is great in providing the plea sure and 
+welfare to mankind. The members of this family are important in temperate regions for fruit and 
+ornamentals. Perhaps they rank third in commercial importance i n the temperate zone among the 
+families of lowering plants.
+Important fruits are Apple, Pear, Peach, Almond, Apricot, Straw berry, etc.
+A large number of plants are ornamental and are grown in gard ens for their beautiful and scented 
+lowers. The most widely cultivated genus for decorative purpose is Rosa , Rose which has been 
+grown in gardens since ancient times and whose named cultivars are now numbered in thousands. 
+Many other genera are also grown for their beautiful lowers in the p arks and gardens.
+The branches of Crataegus  provide excellent walking sticks and wood. The wood of Pyrus pastia  is 
+used for making tobacco pipes.
+In Asian countries the petals of common rose usually called gula bs are used in making gulkand, 
+and are also used in extraction of an essential oil (rose oil) used  as perfume, when distilled with 
+water the petals give Rose-water or Ark-Gulab, which is used for cu ring eye disease, and for many 
+other purposes.
+SOLANACEAE: Night Shade or Potato Family
+It is family of about 90 genera and 2000 species of tropical a nd temperate distribution. In Pakistan 
+14 genera and about 52 species are reported, Nasir (1985).349. Kingdom Plantae eLearn.Punjab
+V: 1.1     
+Familiar Plants:  Solanum tuberosum  (Potato), Nicotiana tabacum  (Tobacco), Lycopersicum esculentum  
+(Tomato), Capsicum frutescens  (Red pepper).
+Vegetative Characters :  Plants including in this family are herbs, shrubs, someti mes trees or vines. 
+Stem is hairy or prickly. Leaves  are alternate or rarely becoming opposite in the loral region, 
+simple, petiolate, rarely sessile.
+Fig. 9.26 Solanaceae : Solarium nigrum, A - twig, B-Flower C-fruit , D-seed359. Kingdom Plantae eLearn.Punjab
+V: 1.1Floral Characters
+Inlorescence:  Typically an axillary cyme or combination of cyilies, someti mes helicoids, or 
+axillary umbellate cymes. Flowers: Mostly bisexual, usually actinomorphic or weakly zygomorphic,  
+hypogynous, usually pentamerous. Calyx:  United 5 sepals, usually persistant. Corolla:  United 5 
+petals, corolla rotate to tubular. Androecium: Stamens 5, free but i nserted on the corolla tube 
+(epipetalous) rarely stamens 4 and didynamous (arranged in tw o whorls of 2 each). Gynoecium: 
+A compound pistil of 2 united carpels; ovary obliquely placed, superior, bilocular, or imperfectly 
+4-locular by false septum; Placentation  axile.
+Economic Importance :  Members of the family Solanaceae provides drugs and food, some ar e 
+weedy, some are poisonous, and others are handsome ornamentals. The m ost important plant 
+in the family is  Solanum tuberosum  (Potato-white or Irish Potato). In Ireland people are completely 
+dependent on Potatoes.
+.
+Lycopersicum  esculentum  (tomato), the favorite home garden vegetable, was once believed to be 
+poisonous.
+Other important food plants are Solatium metangena (egg plant or bri njal). The fruit of Capsicum 
+annum  and Capsicum  frutescens  are rich in vitamin C and A, are used as condiment. Physalis  (Ground-
+Cherry) produces an edible fruit enclosed in a bladder like per sistent calyx, the husk, giving the 
+name husk tomatoe.
+Another plant of great commercial value is Nicotiana tabacum  the leaves of which are dried and 
+made into tobacco, which is used in making cigarettes. Many mem bers of this family yield powerful 
+alkaloids, e.g. Atropa belladona, Datura  which are rich in atropine and daturine respectively are 
+used medicinally.
+Many plants are cultivated in the gardens for their beautiful lower s, these includes Petunia, 
+Nicotiana, Cestrum  and Solanum  etc.
+F ABACEAE: (Papilionaceae) Pea Family
+A family of about 400 genera and 9000 species, the members of th is family occurs all over the 
+world, but particularly in the warm temperate regions. In Pakis tan about 82 genera and about 587 
+species have been reported.
+Familiar Plants:  Lathyrus odoratus  (Sweet pea), Arachis hypogea  (Peanut), Cicer arietinum  (Chick 
+Pea) and Dalbergia sissoo  (Shisham).369. Kingdom Plantae eLearn.Punjab
+V: 1.1Vegetative Characters :  Habit: Trees shrubs or herbs. Stem: Herbaceous, or woody or climb er 
+by tendrils (wiry, coiled thread like structures). Leaves: Compoun d or rarely simple, sometimes 
+partially or completely modiied into tendrils, alternate, stipulate; s tipules mostly leafy.
+Fig. 9.27 Fabaceae (Papilionaceae): Sesbania sesbar; A -twig; B-lower; B1 standard verillium; C-fruit a legume; D-carpel379. Kingdom Plantae eLearn.Punjab
+V: 1.1Floral Characters :  Inlorescence:  Racemose or solitary axillary. Flowers:  Bisexual, zygomorphic, 
+bracteate, pedicellate, perigynous, pentamerous and papilionaceous. Calyx:  5 sepals, more or 
+less united in a tube, mostly hairy. Corolla:  Papilionaceous; petals 5, usually clawed, dissimilar; 
+the upper posterior petal is large and conspicuous and is called  standard or vexillum, 2-lateral 
+ones free called wings and 2 anterior inner most that fuse to form a  boat-shaped structure called 
+the keel or carina. Androecium:  Stamens 10, mostly diadelphous (united by their ilaments in 2 
+groups), 9 fused to form a sheath round the pistil, while 10th p osterior one is free. Gynoecium:  
+A simple pistil, 1- carpeled, with 1-locule; ovary superior; ovary and style long, style bent at is bar, 
+placentation  (mono carpellary) marginal. Fruit:  Usually a legume or pod, showing a great variety 
+of form in various species.
+Economic Importance : The family is of considerable importance as a source of high- protein 
+food, oil, and forage as well as ornamentals and other uses. Mai n importance lies in the pulses, 
+belonging to this family, which are used as food, some important and common species of pulse 
+yielding plants are: Gram, Pea, Kidney bean. These pulses are rich in protein contents.
+Medicago sativa  Alfafa is one of the world’s best forage crop for horses. Vicia, Melilotus  and Trifolium  
+are also cultivated as main fodder crops. Many trees of this fami ly provide excellent timber for 
+building, furniture and fuel. Main timber plants are Butea, Dalbergia  etc.
+Seeds of Arachis hypogea peanut are edible and also used for extra ction of peanut oil which after 
+hydrogenation is used as a vegetable oil. Indigo dyes are obtained f rom Indigofera tinctoria and 
+Butea monosperma, yielding yellow dye from lowers.
+Many plants of this family are important for medicines: these in clude Glycyrrhiza glabra for 
+cough and cold, and Clitoria tematea is used against snake bite.  The red and white seeds of Abrus 
+precatorious are used by jewellers as weights called “ratti”. Some important ornamental plants 
+include Lathyrus, Lupinus, Clitoria, Butea etc.
+CAESALPINIACEAE: Cassia Family
+This family includes about 152 genera and about 2300 species . In Pakistan the family is represented 
+by 16 genera and about 60 species.
+Familiar Plants: Tamarinaus indica, Cassia istula, Bauhinia veriegata.389. Kingdom Plantae eLearn.Punjab
+V: 1.1                         Fig. 9.28 Caesalpiniaceae : Cassia senna; A twig, B-lowe r; C-fruit399. Kingdom Plantae eLearn.Punjab
+V: 1.1Vegetative Characters Habit:  Mostly trees or shrubs, some are woody climbers; rarely herbs. S tem: 
+Erect, woody, herbaceous, or climbing. Leaves: Compound, pinnate, very rarely simple, stipulate
+Floral Characters :  Inlorescence:  Axillary or terminal raceme or panicle or spikes, rarely cym ose; 
+showy. Flowers:  Bisexual, zygomorphic, rarely actinomorphic, perigynous. Calyx:  Sepals 5, free or 
+connate at base, often colored. Corolla:  Mostly 5 petals, free. Androecium:  Stamens 10 or fewer, 
+rarely numerous, free or variously united. Gynoedum:  A simple pistil 1-carpel; ovary superior, 
+unilocular; placentation  marginal; stigma simple. Fruit:  Legume
+Economic Importance :  The family is of great importance. Some plants are ornamental, som e 
+have medicinal importance, a few have food and other values.
+The leaves of Cassia alata  are used to cure ring worm and skin diseases. Cassia senna  and C. obovata  
+are cultivated for the leaves which yield the drug Senna, which is  the base for a laxative. Oil extracted 
+from the seeds of Cynometera caulilora  is applied externally for skin diseases.
+Common ornamental plants are Bauhinia variegata  (Kachnar), Cassia istula  (Amaltas), Parkinsonia,  
+etc.
+       
+The leaves and lower’s bud of Bauhinia variegata  are used as vegetable. The acidic fruit of Tamarindus  
+indica  are edible and are rich in tartaric acid. The bark of Bauhinia and Tamarindus indica  is used in 
+tanning. The heartwood of Haematoxylon  (Longwood) yield the dye Haematoxylin.
+MIMOSACEAE: Mimosa or Acacia Family :
+A family of about 56 genera and about 2800 species. In Pakis tan it is represented by 11 genera and 
+49 species, of these only 4 genera and 18 species are native and r est are introduced.
+Familiar Plants :  Acacia nilotica , Albizzia lebbek, Mimosa pudica  Touch me not, Prosopis glandulosa, 
+P. cineraria.
+Vegetative Characters :  Habit: Mostly trees or shrubs, rarely climbers or herbs. Most of them 
+are xerophytes. Stem: Mostly woody. Leaves: Pinnate by compound, altern ate, stipulate, stipules 
+modiied into thorns.
+Floral Characters :  Inlorescence:  Spike like or head or umbel, rarely racemose or globose umbels. 
+Flowers:  Bisexual, Actinomorphic, hypogynous to slightly perigynous, b racteate. Calyx:  Usually409. Kingdom Plantae eLearn.Punjab
+V: 1.1sepals 5, generally fused, toothed or lobed. Corolla:  petals 5, free or fused; corolla lobed. 
+Androecium: Stamens 5 to numerous, free, or adnate to the base of corolla. Gynoecium:  A simple 
+pistil of 1 carpel, ovary unilocular, superior; ovules many, p lacentation marginal. Fruit:  A legume 
+dehiscent or indehiscent.
+Economic Importance : Many trees of this family including species of Acacia, Albizzia  and Xylia  
+provide commercially important wood, which is used for construction  purpose or for furniture or 
+as a fuel. The wood of Albizzia  lebbek is used in cabinet work, and railway carriages.
+Arabic gum is obtained from Acacia nilotica  and A. Senegal.  Katha a dye is obtained from Acacia 
+catechu.  The tender leaves of Accacia nilotica  are used as blood puriier.
+Some common garden plants grown for their beautiful lowers are Mimosa pudica  and Acacia 
+melanoxylon . A few species of Prosopis  are planted in the arid zones for breaking the wind pressure.
+Animation 9.5: MIMOSACEAE
+Source and Credit: kidzsearch419. Kingdom Plantae eLearn.Punjab
+V: 1.1
+Fig. 9.29 Mimosaceae : P rosopsiscineraria; A-twig, B-inloresen ce; C-lower; -D-fruits429. Kingdom Plantae eLearn.Punjab
+V: 1.1POACEAE: (Gramineae) Grass Family
+Distributed throughout the world wherever vascular plants can survive. It includes about 600 
+genera, 10,000 species. In Pakistan it is represented by 158 g enera and 492 species.
+The traditional family name Gramineae takes its name from the Latin  Grammar which was used as a 
+‘generic’ name for certain grasses, is permitted by the Internationa l Code of Binomial Nomenclature, 
+which also provides for the use of Poaceae, based upon the type genus Poa Linn.
+Familiar Plants:  Triticum vulgare,  Wheat; Zea mays , Com; Avena sativa , Oats; Oryza sativa , Rice; 
+Bambusa, Bamboo; Saccharam oicinarum  Sugar Cane etc.
+Vegetative Characters : Habit: Annual or perennial, herbs. Stem: Jointed usually holl ow, at the 
+internodes, closed at the nodes. Leaves: Solitary at the nodes, sometimes cr owded at the base of 
+the stem, alternate, exstipulate, ligulate, mostly sessile, leaf-base m ostly sheathing, simple.
+Inlorescence:  Mostly compound composed of units called spikelets which are variou sly arranged 
+(indense clusters as in wheat, compound spike, or loosely on bran ched axis-as in oats , spikelets 
+consisting of bracts, arranged along a slender axis (called rachilla) the two lower bracts (called 
+glumes) which are empty; the succeeding lemmas enclosing a lower  and opposed by a hyaline 
+scale called palea. The Whole (lemma, palea, and lower) termed a s loret; the glumes or lemmas 
+often bearing one or more stif bristles (called awns); this basic  pattern of spikelet structure is 
+consistent throughout the family. Spikelets of grasses vary widely in diferent genera, particularly 
+as to number of fertile lorets in each, and deposition of sexes with th em.
+Flowers:  Usually bisexual, sometimes unisexual, small and inconspi cuous, sessile, bracteate, 
+incomplete, zygomorphic, hypogynous. Perianth:  Absent or represented by 2, (rarely 3), minute 
+hyaline or leshy scales called lodicules. Androecium:  Stamens 1 to 6, usually 3. with delicate 
+ilaments. Gynoecium:  A compound pistil of 3 united carpels, anthers versatale, though only one 
+is functional free; stigmas usually large feather like. Fruit : Grains or Caryopsis (caryopsis a dry, 
+indehicent fruit in which fruit wall (pericarp) is completed,  fused with seed coat).
+Economic Importance :  Economically family Poaceae has greater importance than any other  family 
+of lowering plants. It has great economic importance to both man and  animals. Cereals and millets 
+which constitute the chief food stuf of mankind, belongs to this fam ily. Most of the fodder crops, 
+which are equally important to domestic animals, also belong to thi s family.439. Kingdom Plantae eLearn.Punjab
+V: 1.1Plants providing food for man includes: Triticum sp . (wheat), Avena sativa  (Oats), Zea mays  (Corn, 
+Maize), Oryza sativa  (Rice), Hordeum vulgare  (Barley), Secale cereale  (Rye), Penisetum typhoideum ; 
+Sorghum vulgare  etc.
+Fig. 9.30 Poaceae (Gramineae): Chloris barbata: A nabit; B -spikelet; C-glumes; D-fertile lamma, E-lower; F-fruit;449. Kingdom Plantae eLearn.Punjab
+V: 1.1      
+The dried stem and leaves of the cereal crops are used as fodder for the cattle. Sugar is obtained 
+from the juice of Saccharum oicinarum  (Sugar Cane). Many grasses are used in the lawns e.g. 
+Agrostis, Poa , Festuca  etc. and have ornamental signiicance.
+Bambusa  (Bamboo) are used as building material for the thatching huts,  making boats, carts, pipes 
+etc. and the split stem are woven into mats, baskets, fans, hats, cou rse umbrella. Leaves are also 
+given to horses as a cure of cough and cold etc. Certain grasses y ield aromatic oils, e.g. Cymbopogon 
+citratus (lemon grass) which yield lemon grass oil is used i n perfumes and soap industry and for 
+making infusions. Some species of the grasses are used in maki ng papers.
+Ethyl alcohol and many other kind of beverages are also prepared f rom cereals for example whisky 
+from Rye, barley, corn and rum molasses from sugar cane. Fi bers obtained from the leaves of 
+Saccharum munja  which is used in making ropes.
+Animation 9.7: Poaceae
+Source and Credit: next.cc459. Kingdom Plantae eLearn.Punjab
+V: 1.1EXERCISE
+Q1.       Fill in the blanks.
+              (i)     The sporophyte is __________ and__ _______ generation and the gametophyte is_______  
+                       and_______ .
+              (ii)    The motile asexual reproductive cells ar e characteristics of _____ and are called______ .
+        
+              (iii)   The sexual reproduction is said to be oogamous or heterogamous if the two fusing 
+                      gametes are-------------------.
+              (iv)   In the stem of Monocotyledons the bundles are_ _________while in the stem of 
+                      Dicotyledons they are___________ .
+              (v)    The double fertilization is the characteri stic feature of_____.
+              (vi)   Stem roots and leaves are the_____________ __parts and lowers, fruits and seeds are   
+                      the :________ parts of the plant.
+              (vii)   _______  is the phenomenon of the produc tion of two kinds of spores in the plants.
+              (ix)   The naked-seeded plants are included i n the group_______.
+Q.2       Short questions.
+              (i)     (a)      How are ferns better adapted to life on land than liverworts and mosses?
+                      (b)      Which of the following ar e nutritionally self supporting:
+                      1.       Mature liverwort and moss g ametophyte.
+                      2.       Mature liverwort and moss s porophyte.
+              (ii)    (a)     The chances of survival an d development of wind-blown pollen grains are much 
+                                less than those of spores of  Adiantum. Comment on this statement.
+                      (b)      Account for the fact that meg aspores are large and microspores are small.
+                      (c)      What important advances ha ve angiosperms made towards the seed plant life?469. Kingdom Plantae eLearn.Punjab
+V: 1.1       
+              (iii)       Write a note on the alternation of gener ations.
+              
+              (iv)       What is the importance of the followin g?
+                          (i)         Seed.                                                 (ii)       Dou ble fertilization.
+                          (iii)       Heterospory. 
+              (vi)       Pick and match the following:
+                          (i)         Fem sporophyte                                involves vegetative parts of plants.
+                          (ii)        The moss plant                                  is the irst cell of sporop hyte.
+                          (iii)       The gamete                                        is the last cell of gam etophyte.
+                          (iv)       The spores                                          are asexual reproducti ve cells.
+                          (v)        Vegetative reproduction                  are haploid cells.
+                          (vi)        The oospore is                                   gametophyti c generation.
+                          (vii)      The gamete                                        is a diploid generation.
+                          (viii)     The spore mother cell                      is the irst cell of gametophytes.
+                          (ix)       The spore with                                   naked seeds.
+                          (x)        Gymnosperms are the plants         divides by reduction division to form 
+                                                                                                   hap loid spores.
+                          (vii) Sketch and label a fertil e pinnule and a sporangium of Adiantium.
+Q.3      Extensive Questions
+             (i)          To what does alternation of generation s refer in the plants? Deine sporophyte and     
+                           gametophyte. With which stage is  an adult animal comparable? How are they 
+                          reproductively dissimilar?
+   
+             (ii)         What is a seed? Why is the seed a crucial adaptation to terrestrial life?
+    
+             (iii)        Describe evolution of leaf and its i mportance in vascular plants.
+             (iv)        Disciiss evolution of seed and it sig niicance.479. Kingdom Plantae eLearn.Punjab
+V: 1.1                    
+            (v)       In what way do the lowering plants di fer from the rest of the seed plants? What is 
+                       the stigma? Is fertilization in ang iosperms direct or indirect? From what tissue does 
+                       angiosperm fruit develop?
+    
+            (vi)      What two classes comprise the angiosperm s? How do the two classes structurally 
+                       difer from one another? Which class  derived from the other? Explain.

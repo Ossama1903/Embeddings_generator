@@ -1,0 +1,1059 @@
+CHAPTER
+22
+ VARIATION AND
+GENETICS
+Animation 22:: Variation and Genetics
+Source & Credit: Wikispaces222. Variation And Genetics eLearn.Punjab
+GENES, ALLELES AND GENE POOL
+      
+Hereditary characteristics pass from parents to ofspring thr ough genes in their 
+gametes. Gene is the basic unit of biological information. In  fact DNA stores all sorts of 
+biological information coded in the sequence of its bases in  a linear order, and genes 
+are actually parts of DNA comprising its base sequences. The position of a gene on the 
+chromosome is called its locus.
+Genes are responsible for producing startling inherited re semblences as well as 
+distinctive variations among generations. When these pass in the form of intact 
+parental combination between generations, inherited similar ities are conserved; but 
+when these shule, mutate or juggle with each other, variation s emerge. Genes form 
+pairs on pairs of homologous chromosomes. One member of a gen e pair is located on 
+one homologue, and the other member on the other homologue. Partne rs of a gene 
+pair are called alleles. Each allele of a gene pair occupies the same gene locus on its 
+respective homologue. Both alleles on one locus may be identic al, or diferent from 
+each other. (Fig. 22.1).
+Animation 22: Gene Pool
+Source & Credit: GIF SOUP322. Variation And Genetics eLearn.Punjab
+Fig 22.1 Allelic pairs on a homologous pair of chromosome s422. Variation And Genetics eLearn.Punjab
+           
+Phenotype is the form of appearance of a trait. Genotype is the  genetic complement 
+i.e., the genes in an individual for a particular trait. A lower may be red or white in 
+colour. Flower colour is a trait and red and white are its tw o phenotypes. Each form 
+of expression is determined-by a diferent allele of the c olour gene. Allele “R” is the 
+determiner for redness, while “r” is the determiner for whiteness.
+GENE POOL
+Any group of interbreeding organisms of the same species that exist together in 
+both time and space is called a population. All the genes/ alleles found in a breeding 
+population at a given time are collectively called the gene p ool. It is the total genetic 
+information encoded in the total genes in a breeding populati on existing at a given 
+time.
+If we imagine population not as a group of individuals, but as a group of individually 
+segregating and randomly assorting alleles, we can unde rstand the concept of “beanbag 
+genetics”. The alleles are like beans in a beanbag. The entire beanbag full of beans is 
+the gene pool of the population. In the beanbag approach we c an imagine the entire 
+gene pool comprising all the alleles for all the diferent traits at once, or we can just 
+focus on some subset, such as all the alleles for a singl e trait.
+For convenience, we can focus on the gene pool for a single particular trait. A sample 
+population of 100 diploid plants, some of which bear red low ers, others bearing white 
+lowers has a sum total of 200 of all the diferent alleles ( R or r) for lower colour trait 
+as its gene pool.Jumping genes do not settle peacefully on their loci, they k eep on hopping on diferent 
+loci on the same chromosome or other chromosomes.522. Variation And Genetics eLearn.Punjab
+MENDEL ’S LAWS OF INHERITANCE
+      
+Gregor Johann Mendel (1822 - 1884) laid the foundation of c lassical genetics by 
+formulating two laws of heredity; law of segregation and law  of independent assortment. 
+He was a priest. He performed series of breeding exper iments on garden pea, Pisum 
+sativum in his monastery garden for eleven years (1854 — 1 865). Pisum sativum was 
+easy to cultivate and it grew well in his garden. Its lower s were hermaphrodite. It was 
+normally self-fertilizing, but could also be cross-fertili zed. As the time gap between 
+generations was short, Mendel could raise many generations  of pea within a short time. 
+Pea had many sharply distinct traits. Each trait had two cl ear cut alternative forms or 
+varieties; e.g., seed shape had a round or wrinkled phe notype, plant height was either 
+tall or short, seed colour could be yellow or green. Mendel called them contrasting pair 
+of a trait. He focussed on seven such pairs (Fig. 22.2).
+He irst established true-breeding lines or varieties for e ach trait. A true - breeding 
+variety upon self - fertilization always produced ofspring identical to the parents, 
+e.g., a true breeding “round” seed plant produced only “ round” seeds. Similarly, a true 
+breeding “wrinkled” seed plant produced only “wrinkled ” seeds.
+After establishing 14 pure - breeding lines of seven ch aracters, he cross-fertilized 
+plants that difered in one character only. The ofspring of such a cross were called 
+monohybrids. He cross-fertilized a true breeding round-se eded male plant with a true 
+breeding wrinkled-seeded female plant (Fig. 22.3).
+Animation 22.2:Mendel’s Law of Inheritance
+Source & Credit: Ms.Anderson Biology Class622. Variation And Genetics eLearn.Punjab
+Fig 22.2 Seven traits of garden pea studied by Mendel.722. Variation And Genetics eLearn.Punjab
+  
+He called it irst parental generation (Pi). Their ofsprin g were called Fi or irst ilial 
+generation. All Fi ofspring were round like one of the par ents. Wrinkled phenotype did 
+not appear at all. Round dominated wrinkled. Its dominance was complete because no 
+ofspring intermediate between parents was found. He calle d the trait that appeared 
+in F, as dominant; while the trait, 
+which was masked, as recessive.
+Then Mendel allowed self-
+fertilization  among F| monohybrids 
+to raise F2 progeny. As a result of 
+monohybrid cross 3A of F2 were 
+round and lA wrinkled.
+Mendel got similar results and 
+the same 3:1 ratio in ofspring of 
+monohybrid crosses for all the 
+seven contrasting pairs of traits.
+Mendel proceeded a step ahead. 
+He self- fertilized F2 plants to raise 
+F3. He noted that 1/3 of F2 round 
+produced only round, while 2/3 
+of  F2 round produced both round 
+and wrinkled in . 3:1 ratio; but F1 
+wrinkled produced only wrinkled. 
+He concluded that 1/3 of F2 
+rounds were true-breeding like Pi 
+round, and 2/3 of F2 rounds were 
+monohybrids like Fj round.
+Fig 22.3 Mendel’scross to study single trait inheritance i n pea.822. Variation And Genetics eLearn.Punjab
+Mendel’s Interpretations
+       
+Mendel proposed that each contrasting form of a trait, e.g., r oundness or wrinkledness 
+of seed was determined by particulate hereditary factors, which he called ‘elementen’. 
+These factors carrying hereditary information were transmi tted from parents to 
+ofspring through gametes. Each pea plant had a pair of the se factors, one derived 
+from male parent and the other from female parent. Both of the se factors together 
+controlled expression of a trait. He designated dominant factor  with a capital letter and 
+recessive factor with a small letter; e.g., R for roundness  factor and r for wrinkledness 
+factor. Johannsen renamed them as ‘genes’. 
+The true - breeding round seed plant of P| generation car ried ‘RR’ alleles while the 
+true - breeding wrinkled seed plant of Pi carried ‘it’ alleles. When both the alleles of a 
+gene pair in an organism are same, the organism is homoz ygous for that gene pair. An 
+individual with a homozygous genotype is a homozygote.
+Mendel inferred that the factors of a pair (alleles) sepa rated from each other during 
+gamete formation so that each gamete got only one factor (allele)  for each trait. So half 
+the gametes got one allele, and the other half carried the oth er allele. Fertilization 
+was random. When male gamete carrying factor (R) fertili zed female gamete with factor 
+(r), the complete set of the two factors (Rr) for the trait was r estored in zygote. Fig 22.4 Segregation of alleles during gamete formation922. Variation And Genetics eLearn.Punjab
+ 
+The zygote developed into Fj ofspring that was heterozygous ‘Rr ’, because the two 
+alleles of its gene pair were diferent from each other. A n individual with a heterozygous 
+genotype  is a heterozygote. Fi ofspring (Rr) was a monohybr id for seed shape; it was 
+round in phenotype but heterozygous in genotype. Its alleles also segregated during 
+gamete formation (Fig. 22.4).
+Punnett square indicates that lA of F2 progeny would have be en ‘RR’ (homozygous 
+round), lA + lA = Yi Rr (heterozygous round), and lA rr (wrinkled).
+Mendel actually observed 3 ; 1 phenotypic ratio in F2. His  phenotypic data of F3 can 
+also be explained on the basis of 1 : 2 : 1 genotypic rati o of F2. Mendel compared 
+the results of all the seven separately studied characters,  and found them strikingly 
+similar to formulate law of segregation.
+Law of Segregation : According to law of segregation, the two coexisting alleles for 
+each trait in an individual segregate (separate) from eac h other at meiosis, so that each 
+gamete receives only one of the two alleles. Alleles unite a gain at random fertilization 
+of  gametes when zygote is formed.
+Test Cross
+Mendel devised a cross called test cross, which is used to test the genotype of an 
+individual showing a dominant phenotype. It is a mating in which an individual showing 
+a dominant phenotype is crossed with an individual showing its recessive phenotype. 
+This cross inds out the homozygous or heterozygous nature of the  genotype (Fig. 
+22.5).
+Animation 22: Test Cross
+Source & Credit: Pinterest1022. Variation And Genetics eLearn.Punjab
+ Fig 22.5 Test cross of a round seedCase 1
+If the seed is homozygous round(RR)  it 
+will grow into a pea plant that forms all 
+gametes with only `R` allele.Wrinkled 
+seed plant is always homozygous 
+recessive.it will form all gametes with 
+`r` allele.Fertilization will result in 100% 
+round seed progeny.Case 2
+If the seed is heterozygous round (Rr), it
+will grow into a plant that forms half the
+gametes, with ‘R`and half with `r` allele.
+Wrinkled seed plant will form only `r`
+type of gametes. Fertilization will result
+into 50% round and 50% wrinkled seed
+progeny. Even a single wrinkled seed in
+the  progeny is a convincing proof for
+Heterozygous  nature of the round 
+parent.1122. Variation And Genetics eLearn.Punjab
+Dihybrid and Dihybrid Cross
+After thoroughly studying each trait separately , Mendel de cided to study the inheritance 
+of two simultaneously , e.g., seed shape and seed colour. Seed shape could be round 
+or wrinkled. Similarly , seed colour could be yellow or g reen. He crossed true breeding 
+round and yellow seed plants with true breeding wrinkled  and green seed plants . All F1  
+dihybrid were round and yellow seeded due to dominance. Then he m ade a  dihybrid 
+cross by allowing self-fertilization among F1 dihybrids. The r esults was quite surprising. 
+Seeds produced as F2 progeny were ot only in the two parental combination i.e., 
+round yellow and wrinkled green, but also in two new phenotypic combination
+i.e., round green and wrinkled yellow. A clear cut 9:3 :3:1 phenotypic ratio was found 
+in F2. Appearance of these new recombinant phenotypes of F 2 indicated that some 
+sort of shuling of alleles had occurred during gemete form ation. Mendel inferred 
+the mechanism of this shuling as  independent assortment of alleles into gametes. 
+He concluded that the alleles for seed shape and colour we re not bound to remain in 
+parental combination forever, i.e., ‘R’ with ‘Y’ and ‘r’ w ith ‘y’ ;rather these were free to 
+assort independently . R could go with Y or y in any gamete  with equal change.
+Animation 22: Dihyrid Cross
+Source & Credit: GIF SOUP1222. Variation And Genetics eLearn.Punjab
+Similarly, r could go with y or Y in any gamete with equa l probability. Four types of 
+gametes, i.e., RY, Ry, rY and ry were formed in equal  number in a perfect ratio of 1:1 
+: 1:1. When these gametes randomly fertilized each other,  a 9:3:3:1 phenotypic ratio 
+was produced among F2 progeny (Fig 22.6).
+Mendel formulated Law of Independent Assortment : “When two contrasting pairs of 
+traits are followed in the same cross, their alleles assort independently into gametes.” 
+Alleles of one pair inherit independently of alleles of th e other pair. The distribution of 
+alleles of one trait into gametes has no inluence on the distr ibution of alleles of the 
+other trait. Thus the chance for a plant to be round or wrinkl ed is independent of its 
+chance of being yellow or green.
+Probability  is the chance of an event to occur. Inheritance of seed sha pe is an 
+independent event. In F2 ofspring of a monohybrid cross the independent chance 
+for a seed to be round is 3/4 , or it to be wrinkled is 1/4 . Inheritance of seed colour is 
+another separate event. The independent chance in F2 of a monohybrid cross for a seed 
+to he vellow is 3/4 or it to be green is 1/4. When two indepe ndent  events are occunng 
+simultaneously like m Dihybrid cross, the ratio of each join t phenotypic combination 
+can be obtained by multiplying the probabilities of individ ual phenotypes. It is called 
+product rule.
+The joint probability that both of the independent events will oc cur simultaneously, is 
+equal to the product of individual probabilities of each event.
+Animation 22: Product Rule
+Source & Credit:1322. Variation And Genetics eLearn.Punjab
+Fig 22.6 Dihybrid cross produces parental as well as recomina nt types.1422. Variation And Genetics eLearn.Punjab
+Event No. 1 Event No. 2  Both events at a time
+Seed shape Seed colour Seed shape and colour
+Independent probability to 
+be:Independent probability to 
+be:Joint probability to be:
+Round =
+Round = 
+Wrinkled =
+Wrinkled =yellow = 
+ green = 
+yellow = 
+green = Round yellow =9/16 
+Round green =  x  = 3/16 
+Wrinkled yellow =  x  = 3/16 
+Wrinkled green =
+Genes are located at speciic loci on chromosomes. Independen t assortment of genes 
+depends upon independent assortment of their chromosomes. All  the genes present 
+on a homologous pair of chromosomes are linked to each other in the form of a linkage 
+group. These cannot assort independently. Those traits assort independently whose 
+alleles are riding non homologous chromosomes. Pea has seven  homologous pairs 
+of chromosomes. Mendel knew nothing about chromosomes. The trai ts he studied 
+were conined to only four chromosomes. He reported independen t assortment of 
+those traits whose genes were either on diferent homologous chr omosomes, or were 
+so far away from each other on the same chromosome that they ap peared to assort 
+independently due to crossing over.
+Mendel presented his indings to Brunn Society for the study  of Natural Science in 
+1865. His work was published in the proceedings of the s ociety in 1866. That laid the 
+foundation of classical genetics. His work lay neglected f or 34 years. In 1900, 16 years 
+after his death, three botanists; Correns, De Varies and Ts chermach independently 
+rediscovered and acknowledged his work.1522. Variation And Genetics eLearn.Punjab
+ 
+Activity:   Normal individuals have melanin pigment in their skin, h air and eyes. Albinos 
+totally lack pigment in their bodies. Albinism is a reces sive trait in humans. Two normal 
+parents have an albino child. What is the probability that th eir next child will also be an 
+albino?
+DOMINANCE  RELATIONS
+Dominance is a physiological efect of an allele over its par tner allele on the same gene 
+locus. There are four types of dominance relations among al leles, each indicating a 
+diferent style of their functional efect upon each other.
+    1.Complete dominance        2.Incomplete dominance
+    3.Cociominance                     4. Over dominanc e
+Complete  Dominance
+When one allele (R) is completely dominant over the other (r) , presence of the recessive 
+allele is functionally hidden, so the heterozygote (Rr) has  the same round phenotype 
+as (RR) homozygote.
+The contrasting pairs of alleles for all the seven characte rs chosen by Mendel showed 
+complete dominance. After Mendel, further breeding exper iments were carried out 
+on diferent plants and animals. Many novel phenotypes and phenotypic rat tios were 
+observed that could not be explained on the basis of complete d ominance.
+Incomplete Dominance
+In 1899 Carl Correns was working on a lowering plant nam ed 4 O’clock. When he 
+crossed a true breeding fed lowered plant with a true bre eding white lowered 4 O’clock, 
+all the F] hybrids had pink lowers. This new phenotype had a shade intermediate 
+between those of the parents due to an intermediate amount of pi gment in petals. 
+When Correns self-fertilized Fi pink, the F2 showed all  three phenotypes of lowers’in 
+the ratio of 1 red : 2 pink : 1 white. Red was homozygous f or red alleles, and white was 
+homozygous for white alleles. But when allele for red and allele for white were present 
+together in the same plant, neither of them masked the efect of other; rather these 
+alleles showed incomplete dominance in the form of pink col our.1622. Variation And Genetics eLearn.Punjab
+Fig 22.7 Incomplete dominance in 4 O’ clock1722. Variation And Genetics eLearn.Punjab
+When the phenotype of the heterozygote is intermediate between phenotypes of the 
+two homozygotes, it is called incomplete or partial dominance.
+As there is no truly dominant allele, the usual capital an d small letter distinction for 
+dominant and recessive trait is not necessary. Both the allel es are represented by the 
+same letter ‘R’ but are numbered diferently to distinguish  white from red. Allele for 
+red is designated as R|, and the allele for white as R2  (Fig. 22.7).
+Punnett square indicates that the phenotypic ratio is the same  as the genotypic ratio. 
+There is absolutely no need of a test cross. Do these results make Mendel’s principles 
+invalid? The lower colour does show blending at phenotypic l evel in Fi, which is quite 
+contrary to what Mendel observed. But the re-appearance of re d and white lowers in 
+F2 conirms that blending does not occur at genetic level.
+Codominance
+   
+The phenotype of heterozygote is distinct in quality from those of the two homozygotes. 
+It is not an intermediate quantitative expression like incompl ete dominance. Each allele 
+of the gene pair is associated with a diferent substance, e.g.,
+    
+Codominance occurs when both the alleless express indepen dently in heterozygote; 
+(A|A2) and form their respective products X and Y. The cod ominant heterozygote 
+would have both substances at the same time.
+Diferent alleles of a gene that are both expressed in a he terozygous condition are 
+called codominant.Produces
+1
+Produces
+2Allele A   Substance X
+Allele A   Substance Y →
+ →1822. Variation And Genetics eLearn.Punjab
+MN BLOOD TYPE OR BLOOD GROUP SYSTEM
+Human blood groups can be of many types, e.g. ABO, MN, M NSs, Rh ete. Landsteiner 
+and Levine discovered MN blood types in man on the basis of speciic antigens present 
+on RBC. These RBC antigens induce production of their spec iic antibodies. There are 
+three general phenotypes; M,N  and MN. M phenotype has a ntigen M which is produced 
+by gene LM. N phenotype has antigen N that is produced by  its allele LN. MN phenotype 
+has both M and N antigens, simultaneously produced by thei r alleles LM and LN
+Phenotvoe Genotype  Antieens on RBC
+M lMlMM
+N lN lNN
+MN lMlNM and N
+If a man of M blood group marries a woman of N blood group, all their children will 
+have MN blood group (Fig. 22.8)
+Animation 22:  Blood Group System
+Source & Credit: waynesword.palomar1922. Variation And Genetics eLearn.Punjab
+Fig 22.8 Codominance in MN Blood group alleles.
+Over Dominance
+This dominance relation is fascinating because the over dom inant heterozygote exceeds 
+in quantity the phenotypic expression of both the homozygotes. In  fruit ly Drosophila 
+the heterozygote (w+ / w) has more quantity of luorescent pigm ents in eyes than wild 
+(w+ / w+) o r white eye (w / w) homozygotes.
+MULTIPLE ALLELES
+     
+Gene mutations may produce many diferent alleles of a gene . Some genes may have 
+as many as 300 alleles. All such altered alternative for ms of a gene, whose number 
+is more than two, are called multiple alleles. Any two of th ese multiple alleles can be 
+present in the genome of a diploid organism, but a haploid organism or a gamete can 
+have just one of them in its genome.2022. Variation And Genetics eLearn.Punjab
+ABO - The First Discovered Multiple Allelic Blood Group  System in Man
+ABO blood group system was discovered by Karl Landsteiner in 1901. ABO system has 
+four diferent phenotypes which are distinct from each other on the basis of specic 
+antigens on the surface of RBC. A person having antigen A has blood group A; a person 
+having antigen B has blood group B; a person having both the antigens A and B has 
+blood group AB; but a person having neither antigen A nor B would have blood group 
+O.
+Bernstein explained the genetic basis of ABO system in 1 925. This blood group system 
+is encoded by a single polymorphic gene I on chromosome 9.  It has three multiple 
+alleles IA, IB, and i.
+Allele IA speciies production of antigen A, and allele I B speciies production of antigen 
+B, but allele i does not specify any antigen. Their domin ance relations are interesting 
+too. Alleles IA and IB are codominant to each other, because each expresses equally 
+in IA IB heterozygote to produce AB phenotype. But allele i i s recessive to both IA and 
+IB. Therefore IA IA or IAi genotypes will produce phenotyp e A. Similarly IB IB or IBi 
+produces phenotype B. The homozygous ii will produce phenoty pe O.2122. Variation And Genetics eLearn.Punjab
+ 
+The blood group alleles start their expression at early emb ryonic stage and keep on 
+expressing themselves till death. Therefore the blood group phenotype of a person 
+never changes throughout life.
+Anti-A and anti-B antibodies appear in plasma during the  irst few months after birth. 
+They are naturally occuring in the absence of correspondi ng antigen. The blood serum 
+of A phenotype contains anti-B antibodies. They will aggluti nate7or clump any RBC 
+which have B antigens on them. B phenotype contains anti-A a ntibodies in the serum 
+and agglutinate any RBC with antigen A. Phenotype AB has neither anti-A nor anti-B 
+antibodies in the serum. The serum of O blood type contains both anti-A and anti-B 
+antibodies. The blood serum containing anti-bodies is calle d antiserum.
+Any blood transfusion is ideally safe if it does not cause agglutination in the recipient. 
+Agglutination leads to serious results because clumped cel ls cannot pass through ine 
+capillaries. The blood samples of the donor and the recipi ent are cross  matched for 
+compatibility before giving transfusion. If incompatible blood  is transfused, dangerous 
+hemolytic reaction occurs. Either the antibodies of the recipi ent destroy the RBC of 
+donor or the antibodies of the donor hemolyze the RBC of the reci pient.
+Blood group A can be transfused only into A and AB recipie nts because they do 
+not have anti - A antibodies. Blood group B can be transfused  only into B and AB 
+recipients as they do not have anti - B antibodies. AB blood c an be transfused only into 
+AB recipients because they have neither anti - A, nor anti  B antibodies. O blood has 
+neither A nor B antigen, but it does have anti - A and anti- B antibodies. An O recipient 
+can only be given tranfusion from a donor O. Phenotype O can  also be used as donor 
+for small transfusions to A, B and AB recipients because donor’s antibodies are quickly 
+absorbed by other tissues or greatly diluted in the recipie nt’s blood stream. O blood 
+group individuals are called universal donors. AB blood gr oup individuals are called 
+universal recipients because they can receive transfusion s of blood from any of the 
+four blood groups.
+ 
+ A and B antigens can also be present in saliva and other  body luids of some persons 
+called secretors. Secretors have dominant secretor gene “Se”  on chromosome 19.2222. Variation And Genetics eLearn.Punjab
+     
+Genetic analysis on the basis of blood groups helps in solvin g cases of disputed 
+parentage. It can only be used to prove that an individual is  not the parent of a particular 
+child, e.g. a child of AB phenotype (IA IB) can not be th e child of a parent of phenotype 
+O (ii). Similarly a man of B phenotype cannot be father of  a blood type A child, whose 
+mother is of phenotype O. His father could either be A or AB  phenotype.
+ 
+Activity :    Two new born babies get mixed up in the nursery of a hosp ital. Baby I is. 
+type B and  baby II is of type O. Determine their parentag e from the phenotypes of 
+these two couples. Mr. Haris is type A and Mrs. Haris is  type AB. Mr. and Mrs. Bilal are 
+both of type A.
+Rh Blood Group System
+    
+ABO blood type is further diferentiated by a + or - sign. This positive or negative sign 
+refers to the presence or absence of another blood group syste m antigen called Rh 
+factor. Rh blood group system is deined on the basis of Rh factor  present on the 
+surface of RBC. This system is named Rh after Rhesus m onkey, because its antigen was 
+irst discovered in it by Landsteiner in 1930s.
+Rh blood group system is encoded by three genes C, D and E , which occupy two tightly 
+linked loci. Alleles of gene D occupy one locus called loc us D, while genes C and E 
+alternatively occupy the other locus. The D locus is of prime importance.
+Gene D has two alleles, D and d. D is completely dominant over d. Persons having 
+genotype DD or Dd have Rh factor on their RBC and are Rh+. Per sons with genotype 
+dd do not have Rh factor and are Rh-. Unlike the naturally oc curing anti - A and anti - 
+B antibodies of ABO system, anti - Rh antibody production req uires a stimulus by the 
+human Rh antigen itself. An Rh- person does not produce an ti - Rh antibodies unless 
+he is exposed to Rh antigen. Rh+ donor is totally incompatible  for Rh- recipient. If an 
+Rh- person receives Rh antigen through wrong Rh+ blood trans fusion, he will begin 
+to produce anti - Rh antibodies against Rh antigens. Rh- bl ood, clear of any anti - Rh 
+antibody from a donor who has never been exposed to Rh antigen  can be transfused 
+to Rh+ recipient.2322. Variation And Genetics eLearn.Punjab
+Erythroblastosis foetalis : Maternal-foetal Rh incompatibility Maternal-foetal 
+incompatibility results when an Rh- woman, married to an R h+ man conceives a child 
+who is Rh+. If the man’s genotype is DD, all of their ofspri ng (Dd) will be Rh+. If the 
+man’s genotype is Dd, half of their ofspring with Dd genotype  will be Rh+. If RBC of 
+Rh+ foetus cross the placental barrier and enter into Rh- m other’s blood stream, the 
+mother’s immune system reacts to the foetal Rh antigen stimulu s by producing a large 
+number of anti - Rh antibodies. When mother’s anti - Rh an tibodies seep through 
+placenta into blood circulation of foetus, they start hemolysis ( break down / bursting) 
+of RBC of foetus. As this destruction continues, the foetus becom es anaemic. The 
+anaemic  foetus starts to release many -immature erythroblasts into his blood stream. 
+That is why this hemolytic disease of the new bom is calle d erythroblastosis foetalis. 
+This anaemia may lead to .abortion or still birth. Even if th e pregnancy continues, 
+the liver and spleen of the foetus swell as they rapidly p roduce RBC. The breakdown 
+product of RBC called bilirubin also accumulates in the f oetus. Bilirubin damages his 
+brain cells and turns his skin and whites of the eye ye llow. This condition is jaundice. 
+So the baby if born alive, sufer from severe hemolytic anae mia and jaundice. Such 
+baby’s blood should be immediately replaced by Rh” blood free of anti - Rh antibodies.
+The irst Rh incompatible pregnancy may not face much prob lems if very few of foetal 
+antigens cross placenta into maternal circulation and the am ount of maternal antibody 
+production is not very high. But when placenta detaches at bi rth, a large number of 
+foetal cells enter mother’s blood stream and stimulate producti on of large amount of 
+anti - Rh antibodies by the mother. These anti - Rh antibodi es persist in mother’s blood 
+for a long time and are persistent risk for the next Rh+ foe tus. Rh sensitization of Rh’ 
+mother is avoided by a simple therapy. She is given an in jection of Rh antiserum during 
+early pregnancy and immediately after birth. The Rh - antibodies in the Rh antiserum 
+will destroy Rh+ RBC of the foetus before they stimulate produ ction of maternal anti - 
+Rh antibodies. The injected antiserum disappears before the next pregnancy
+Sometimes a mild ABO incompatibility protects the baby again st a more severe Rh 
+incompatibility. If O’ mother conceives A+ or B+ baby, any^ foetal A or B type RBC 
+entering the mother’s blood are quickly destroyed by her an ti - A or anti - B antibodies, 
+before she can form anti - Rh antibodies.2422. Variation And Genetics eLearn.Punjab
+Activity:   An Rh” woman is married to an Rh+ man whose father was also Rh”. What is 
+the probable risk of erythroblastosis foetalis in their babie s?
+EPISTASIS
+When an efect caused by a gene or gene pair at one locus  interferes with or hides the 
+efect caused by another gene or gene pair at another locus,  such a phenomenon of 
+gene interaction is called epistasis. Epistasis must not be  confused with dominance. 
+Dominance is the relationship between alleles of the same g ene occupying the same 
+locus, but epistasis is the interaction between diferent gen es occupying diferent loci.
+Bombay Phenotype
+The expression of-ABO blood type antigens by IA or IB gene  depends upon the presence 
+of another gene H. ABO locus is on chromosome 9, while H loc us is on chromosome 
+19. H gene changes a precursor substance into substance H. It produces an enzyme 
+that inserts a sugar onto a precussor glycoprotein on the Surfa ce of RBC. Only then 
+antigen A or antigen B speciied by IA or I gene could atta ch to this sugar of substance 
+H. The recessive allele h cannot insert sugar molecule to glycoprotein. Therefore, hh 
+individuals lack the site of attachment for antigen A pr anti gen B. Thus A and B antigens 
+cannot adhere to their RBC and fall away. Their RBC lack  A and B antigens although they 
+do not lack IA and IB genes. They are phenotypically lik e O, but are not genotypically O. 
+Their phenotype is called Bombay phenotype (Fig. 22.9).
+Activity : A student, of biology learns about ABO blood types. He knows  that he’is type 
+O, and his father is type A and mother is type AB. He won ders how his blood type could 
+have arisen. Suggest how type A and AB parents could produ ce a child of blood type O.
+PLEIOTROPY
+When a single gene afects two or more traits, the phenomenon is called pleiotropy. 
+Such a gene with multiple phenotypic efect is called pleiotropic.
+Examples:2522. Variation And Genetics eLearn.Punjab
+1. White eye gene in Drosophila also afects the shape of sp erm storing organs 
+(spermathecae).
+2. Genes that afect growth rate in humans also inluence both weight and height.
+3. In cats, the dominant allele W not only makes fur pure white but also causes deafness. 
+In ww homozygous normal pigmented cats, melanocytes produce pigment of fur 
+and also contribute to ‘hair cells in inner ear that sense sound.
+When a cat gets W allele, its melanocytes fail to develop pr operly. Melanocyte failure 
+causes both phenotypes, i.e. white fur and deafness.
+CONTINUOUSL Y VARYING TRAITS
+Genotype interacts with environment to produce phenotype. Phenotypi c expression 
+of traits has two aspects:
+ (i) Qualitative             
+(ji) Quantitative
+Qualitative diferences are large and more obvious, but quan titiave variations are small 
+and less striking. Some traits, like pea seed shape, sh ow discontinuous qualitative 
+variations with two sharply distinct phenotypes, round or wrink led; others like 4 O’clock 
+lower colour can have three phenotypes, red, pink and white ; still others like ABO 
+blood group system have four qualitatively diferent phenotypes A, B, AB and O. But 
+many traits like height, weight, intelligence and skin c olour in humans, and grain colour 
+in wheat exibit continuous quantitative variation over a range of many phenotypes.
+endel focused on traits that showed only two qualitatively difer ent phenotypes which 
+could be determined by just two alternate alleles of a sing le gene. Darwin observed small 
+continuous variations within individuals of a population. Such a range of phenotypic 
+spectrum of a trait cannot be traced to a single gene with two alleles. Even a few multiple 
+alleles of a single gene cannot make such a wide range  of phenotypes.2622. Variation And Genetics eLearn.Punjab
+Fig 22.9 Bombay phenotype results from epistasis2722. Variation And Genetics eLearn.Punjab
+        
+MA continuously varying trait is encoded by alleles of two or more diferent gene 
+pairs found at diferent loci, all inluencing the same tra it in an additive way. These 
+quantitative traits, are called polygenic traits,  and their genes are polygenes.  Each 
+polygene has a small positive or negative efect on the charac ter. Polygenes supplement 
+each other and sum of positive and negative efects of all ind ividual polygenes produce 
+quantitative phenotypes of a continuously Varying trait.
+Wheat grains vary in colour from white to dark red. This tra it shows a continuous 
+spectrum of colour variation. (Fig 22-10). Some grains are white, some are deep red but 
+most grains have shades in between from light pink to modera tely dark red. Nilsson 
+- Ehle studied the genetics of wheat grain colour. When he  crossed a true breeding 
+dark red grain plant with a true breeding white grain p lant, all Fi grains had light red 
+colour, intermediate between two parental shades. It seemed as if it was a case of 
+incomplete dominance. But when Fi.grains were grown to matu re plants and crossed 
+with each other, F2 grains had exactly seven shades of col our in the ratio of 1 dark red 
+: 6 moderately dark red : 15 red : 20 light red : 15 p ink : 6 light pink : 1 white (Fig. 22-11).
+Fig 22.10 Colour variation in wheat grains is a polygenic trait s.2822. Variation And Genetics eLearn.Punjab
+Three diferent gene pairs, i.e. Aa, Bb, Cc at three di ferent loci contribute to the wheat 
+grain colour. Each individual would contain six alleles f or the trait. Alleles A, B and C 
+code for an equal amount (dose) of red pigment, which is a  positive efect. But none 
+of a, b and c encode red pigment, which is a no (zero) d ose negative efect. If all the six 
+alleles code for red pigment (AABBCC), the grain is dar k red; when none of the six alleles 
+encode red pigment (aabbcc), the grain is white. When a  grain has one allele for red 
+pigment (Aabbcc or aaBbcc or aabbCc) its colour is light p ink; if it has two alleles for the 
+pigment (AaBbcc or aaBbCc or AabbCc) it is pink, if it h as three pigment alleles (AaBbCc 
+or AABbcc or AabbCC), it will be light red. Similarly f our alleles colour dose (AABBcc or 
+aaBBCC or AAbbCC) will make red and ive alleles colour dose (AABBCc or AABbCC or 
+AaBBCC) will produce moderately dark red grain. Thus th e colour phenotype of the 
+grain is the sum of the individual efects of all the six a lleles.Environmental factors like 
+light, water and nutrients also inluence the amount of grain  colour. Environmental 
+variations make the distribution of phenotypes more smooth and con tinuous.
+    
+Human skin colour is also a quantitative trait which is contr olled by three to six gene 
+pairs. The greater the number of pigment specifying gen es, the darker the skin. A child 
+can have darker or lighter skin than his parents.
+Human height is a more complex polygenic trait. The perfe ctly continuous variation 
+in range of human heights produces a smooth bell - shaped  curve (Fig 22-12). A few 
+people are very tall or very short, but most individuals fall in the average or mean 
+value. This trait is controlled by many pairs of genes at d iferent loci. Even multiple 
+alleles may be possible at each locus. More the number of  alleles for shortness, the 
+shorter the height will be. Similarly greater the number of alleles for tallness, the taller2922. Variation And Genetics eLearn.Punjab
+Fig 22.11 Number of pigment - contributing alleles in F23022. Variation And Genetics eLearn.Punjab
+Fig.22.12-Human hight is a continously varying trait3122. Variation And Genetics eLearn.Punjab
+the height will be. Environment also has a strong inluence on height, intelligence and 
+skin colour in humans. Constant exposure to sun darkens ski n. Poor nutrition prevents 
+achieving genetically determined height. Healthy and enc ouraging social environment 
+promotes intellegence.
+Activity : Study continuous variations in height and discontinuous variation  in tongue 
+rolling ability Of man and record your observations as histog rams.
+Frequency histograms illustrate variations. A frequency hi stogram is a simple graph. 
+The horizontal or X axis indicates the range of diferent ph enotypes of a trait within a 
+population. The vertical or Y axis indicates the number of i ndividuals or their percentage 
+in the population.
+Some people can roll their tongue into a distinct U 
+shape when they extend it out of their mouth. They are 
+called rollers (Fig 22.13). This ability is due to a si ngle 
+dominant gene. It is a discontinous variation inherited 
+in simple Mendelian fashion. Its frequency diagram 
+forms asymmetric distribution curve, with much greater 
+frequency of phenotypes at one end than at the other.
+Human height is a continuously varying trait. If we plot a f requency diagram of heights 
+of humans in a large population, so many phenotypes are fou nd with categories 
+blending into one another. It forms a smooth bell shaped norma l distribution curve. 
+Measure the heights of a fairly large number of students in your college in cms, each 
+to the nearest centimeter. Also note the ability of each student as roller or non roller. 
+Record your observation in a table like this.
+Sr.NO Name Height in cm Roller/ Non-Roler3222. Variation And Genetics eLearn.Punjab
+Fig 22.14 Comparison of a continuous and a discontineous variat ion in human3322. Variation And Genetics eLearn.Punjab
+Representing each measurement class as a bar with its h eight proportional to the 
+number of individuals in each class, plot the graph (Fig  22-14).
+GENE LINKAGE
+Every organism possesses numerous characters controlled by thousands of genes, 
+but the number of chromosomes is limited. .Therefore, each chromosome must carry 
+many genes on it. All the genes located on the same chromosom e are linked to each 
+other. This phenomenon of staying together of all the genes of a chromosome is called 
+linkage. Gene linkage is a physical relationship betwee n genes. A chromosome carries 
+its linked genes en bloc in the form of a linkage group.  The number of linkage groups 
+corresponds to the number of homologous pairs of chromosomes. Man  has 23 linkage 
+groups. Genes for colour blindness, haemophilia, gout etc for m one linkage group on 
+human X - chromosome. Similarly, gene for sickle cell a naemia, leukemia and albinism 
+make another linkage group on human chromosome 11. Linked genes whose loci are 
+close to each other do not obey Mendel’s law of independent as sortment, because 
+these cannot assort independently during meiosis. Gene link age also minimizes the 
+chances of genetic recombination and variations among ofsprin g.
+Animation 22: Gene Linkage
+Source & Credit: Point Pleasant Beach High School3422. Variation And Genetics eLearn.Punjab
+CROSSING OVER
+Linked genes can be separated by crossing over. Closer th e two gene loci, more 
+strongly are their genes linked. The farther apart two gen es lie, greater are chances 
+of their separation through crossing over. Crossing over is an exchange of segments 
+between non-sister chromatids of homologous chromosomes during meiosis.’ Let 
+us visualize crossing over by considering only one pair of homologous chromosome 
+(Fig. 22-16). The homologous chromosomes pair up lengthwise , point to point and 
+locus to locus. One homologue carries genes ‘A’ and ‘B \ th e other homologue has 
+‘a’ with ‘b’. Chiasmata are formed at many places betwee n non-sister chromatids of 
+homologous chromosomes. Crossing over occurs at 4 strand stage be tween non-sister 
+chromatids. It may take place at more than one place along a  chromosome. Exchange of 
+chromosome segments logically means exchange of DNA, i.e. genes or alleles. As alleles 
+of non-sister chromatids are diferent, an exchange between  their segments results in 
+recombination of genes. Allele ‘b’ crosses over to homologue con taining allele ‘A’; and 
+allele ‘B’ comes on the homologue of ‘a’. Then homologous chrom osomes separate 
+by opening up chiasmata. The sister chromatids also separ ate from each other and 
+each becomes an independent chromosome to move singly in eac h of the four haploid 
+gametes. Four types of gametes are formed; two with parental combinations of linked 
+genes, i.e. AB and ab, and two with recombination of genes , i.e. Ab and aB. If crossing 
+over does not occur, only the two parental types of gametes are f ormed. Parental 
+types of gametes produce parental types of ofspring, while recombination gametes 
+produce recombinant types of ofspring.
+Animation 22: Crossing Over
+Source & Credit: GIF SOUP3522. Variation And Genetics eLearn.Punjab
+Fig 22.16 Crossing over recombine genes.
+Recombination typesRecombination frequency = 100Sum of all combinations×3622. Variation And Genetics eLearn.Punjab
+Cross Over or Recombination Frequency
+It is the proportion of recombinant types between two gene pairs  as compared to the 
+sum of all combinations.
+The recombination frequencies between two linked genes ca n be calculated by 
+backcrossing the heterozygote to a homozygous double recessive ( Fig. 22-17).
+Fig 22.17 Recombination frequency between two linked genes .3722. Variation And Genetics eLearn.Punjab
+      
+The recombination frequency is directly 
+proportional to the distance between the 
+linked gene loci. Genes can be mapped 
+on a chromosome on the basis of their 
+recombination frequencies. If 1% of 
+recombination frequency is equal to 1 unit 
+map distance, the two linked genes A and B 
+with a 20% recombination frequency must 
+be 20 units apart.
+Crossing over produces genetic variations 
+among ofspring. Genetic variations lead to tremendous variations in their traits. 
+Variations provide raw material for evolution by letting them ad apt successfully to the 
+changing environment.
+ SEX DETERMINATION 
+Sex Chromosomes
+The search for mechanism of inheritance of sex started af ter discovery of Mendel’s 
+wlork in 1900. A clear picture of the genetic basis of se x determination emerged after 
+the discovery of sex chromosomes.
+The fruit ly, Drosophila melanogaster has eight chromosomes i n the form of four 
+homologous pairs. T.H. Morgan (1911) noticed a peculiar di ference in the chromosomes 
+of male and female Drosophila (Fig 22-18). The chromosomes  of the three homologous 
+pairs were similar in both of the sexes, but the fourth pai r was very diferent. The 
+female had two similar rod shaped X-chromosomes in the four th pair, while the male 
+had one rod shaped X-chromosome but the other a morphologically  diferent, J-shaped 
+Y chromosome in the fourth heteromorphic pair. X and Y chromos omes are called sex- 
+chromosomes because these have genes for determination of sex . Chromosomes of 
+the other three pairs are autosomes. All chromosomes other than sex-chromosomes 
+are called autosomes. Autosomes do not carry any sex determin ing gene.3822. Variation And Genetics eLearn.Punjab
+Fig 22.18 Chromosomed of    and    Dorsophila melanogaster.3922. Variation And Genetics eLearn.Punjab
+     
+Humans have 46 chromosomes in the form of 23 pairs. 22 pai rs are of autosomes 
+and one pair is of sex-chromosomes. Autosome pairs are common  in both the sexes 
+but the 23 rd sex chromosome, pair is very diferent in mal es and females (Fig. 22-
+19). A woman has two similar X chromosomes in her 23rd pa ir but a man has an X 
+chromosome along with a much shorter Y chromosome in his 23rd  pair. The 23rd pair 
+in man is heteromorphic. She is XX but he is XY.
+ 
+SRY is the male determining gene. It is located at the tip of short arm of Y-chromosome. 
+Its name SRY stands for “Sex determining regions of Y.”
+Fig 22.19 Sex Chromosomes of a man4022. Variation And Genetics eLearn.Punjab
+In some grasshoppers males and females have diferent nu mber of chromosomes. 
+The female has 24 chromosomes in the form of 11 pairs of a utosomes and a pair of 
+X chromosomes. But the male grasshopper has 23 chromosomes. He has 11 pairs of 
+autosomes and only one X chromosome. The other member for sex chromosome pair 
+is entirely missing in male. Thus male is XO and fem ale is XX.
+Patterns of Sex Determination
+There is a wide variety of sex determining ‘ mechanisms  but three patterns are more, 
+pommon.
+1. XO - XX Type  This pattern of sex determination is found Tn grasshopper and Pr otenor bug. Male 
+is XO because it has only one X chromosome. The other sex chromosome i s missing entirely. Male 
+is heterogametic because. it forms t\yp I types of sperms; half the sperms have X ‘ chromosome 
+while the othher half are without any sex chromosome. A gamefe wtihout any sex chromosome is 
+called nullo geamete.
+Female is XX, because it has two X -chromosomes. It is homog ametic, it forms only 
+one type of eggs. Every egg carries an X chromosome. Sex of  the ofspring depends on 
+the kind of sperm that fertilizes the egg. If an X-carryi ng sperm fertilizes the egg, an XX 
+female ofspring is produced. If the nubo
+sperm fertilizes the egg, an XO male ofspring is produc ed (Fig. 22-20). Sex ratio between 
+male and female ofspring is 1:1.Some species have compound sex chromosomes. They maintain m any X or Y or both 
+XY chromosomes of more than one kind that act together as a sing le sex- determining 
+group. That is why the diference in number of chromosomes between male and female 
+is very large. In the round worm Ascaris incurva, the fem ale has 42 chromosomes in the 
+form of 8 pairs of compound X along with 13 pairs of autosomes  (16+26). Its male has 
+35 chromosomes comprising 8X plus one Y alongwith 13 pairs  of auto some (8+1+26).4122. Variation And Genetics eLearn.Punjab
+    
+   
+Fig 22.20 Sex determination in grass hopper and Protenor bug.
+  
+2.    XY-XX Type :  This pattern of sex determination is found in Drosophila, man  and many 
+other organisms. Male is XY and female is XX. Male bei ng heterogametic produces two 
+types of sex-determining sperms. Half the sperms carry X-chromosome and the other 
+half carry Y - chromosome. Chances for both types of sperms  are equal.
+Female being homogametic produces only one type of eggs, ea ch with an X chromosome. 
+Sex of the ofspring is determined by the type of sperm. If  an X - carrying sperm fertilizes 
+the egg, the zygote will be XX, and a female ofspring is  produced. If a Y - carrying sperm 
+fertilizes the egg, the zygote will be XY, and a male ofs pring will be produced. The sex-
+ratio between male and female ofspring is 1:1. Sex ratio indicates chances of the sex 
+of the ofspring. Chances for a son or daughter in human bi rth are equal (Fig. 22.21).4222. Variation And Genetics eLearn.Punjab
+Fig 22.21 Sex Determination in man and Drosp
+  
+3.     ZZ - ZW Type : This type of sex - determination pattern is common in birds,  
+butterlies and moths. It was discovered by J. Seiler in 19 14 in moth. It is the reverse 
+of XY - XX system. Here the female is heterogametic ZW bu t the male is homogametic 
+ZZ. Female produces two kinds of eggs Z and W in equal proportions. All sperms are 
+alike, each carrying a Z - chromosome. It is the kind of egg that determines the sex 
+of ofspring. When a Z - carrying egg is fertilized by the sperm, a male ofspring is 
+produced, but when a W - carrying egg is fertilized by  the sperm a female ofspring is 
+produced. Sex ratio is 1:1 (Fig. 22.22).4322. Variation And Genetics eLearn.Punjab
+Fig 22.22 Sex determination in birds and butterlies.
+Comparison of chromosomal determination of sex 
+between  Drosophila and Humans
+Although both Drosophila and humans follow the same XY - XX s ex determining 
+pattern, yet there is a basic technical diference between  the two. Presence of ‘SRY’ 
+gene on Y chromosome is essential for triggering the developm ent of maleness in 
+humans. Absence of Y chromosome simply leads to the female  development path. XO 
+Turner’s syndrome in humans produced through non-disjunc tion is a sterile female. 
+But in Drosophila XO is a sterile male. Similarly XXY in dividual produced through non 
+disjunctional gametes in humans is a sterile male calle d Klinefelter’s syndrome, but the 
+same XXY set of chromosomes in Drosophila  produces a fertile female (Fig. 22-23).
+Fig 22.23 Comparison of sex determination in man and Dorsophilia4422. Variation And Genetics eLearn.Punjab
+ 
+ There is a close genic balance between genes of di ferent chromosomes. Drosophila 
+has an X chromosome-autosome balance system. Its Y c hromosome appears  to have 
+very little inluence on sex. Here actually the X chrom osome is female determining and 
+the autosomes are male determining. Sex of an indivi dual depends more on the number 
+of X chromosomes relative to the number of sets of a utosomes. An X : A ratio of 1.00 or 
+higher produces female whereas an X : A ratio of 0. 5 or lower produces males.
+Sex Determination in Plants
+Plants show a variety of sexual situations. Some species lik e Ginkgo are dioecious having 
+plants of separate sexes. Male plants produce lowers with only stamens and female 
+plants produce lowers with only carpels. Some dioecious pla nts have a diference 
+of sex chromosomes between the sexes. These have an X - Y system. These plants 
+typically exhibit an X - chromosome - autosome balance syste m for sex determination. 
+Many other sex - determining mechanisms are also seen i n dioecious plants. Correns 
+(1907) discovered that pollens of certain plants were sex -  determining. All eggs are of 
+one type.  Pollens of the two types are produced in equal nu mber. One kind of pollen 
+after fertilizing the egg produces male plant whereas the  other kind of pollen after 
+fertilization produces female plant (Fig. 
+22-24).
+Many species of eukaryotic micro  
+organisms like yeast do not have sex 
+chromosome. These depend on genic 
+system for determination of sex. In this 
+system the sexes are speciied by simple 
+allelic diferences at a small number of 
+gene loci e.g., a and a are the two mating 
+types (sexes) of yeast, controlled by MAT 
+a and MAT a alleles respectively.
+Fig 22.24 Pollens determines Sex4522. Variation And Genetics eLearn.Punjab
+SEX LINKAGE 
+Sex Linkage in Drosophila
+Thomas Hunt Morgan (1910) provided experimental evidence i n support of chromosomal 
+theory of heredity through discovery of sex linkage in fruitl y Drosophila.
+                                                                                                    
+   
+ 
+Morgan raised cultures of Drosophila lies to study diferent tr aits, such as colour of 
+the eye. Normal fruit lies, the wild type, have bright red  eyes. One of his coworkers 
+Calvin Bridges, observed an unusual white eye mutant male  ly. (Fig. 22.25).Drosophila is a very useful organism for genetic studies for  many reasons: * 
+1. The tiny ly is often seen hovering over rotten fruits. It ca n be easily collected and 
+cultured on mashed banana and other fruits. It does not need  large spacious cages. 
+It lives happily in ordinary glass bottle of jams and marm alades. It eats yeast that 
+grows on mashed banana.
+2. Male and female Drosophila show sexual dimorphism i.e . these are morphologically 
+distinct from each other. Male is smaller in size with bl ack rounded abdomen. Female 
+is larger with pointed abdomen. Male has sex combs on fron t legs.
+3. Drosophila has a generation time of just two weeks. It lays  a large number of eggs 
+which hatch out into fertile ofspring. Many generations can be raised in a relatively 
+short time.
+4. 4. Drosophila is perfectly suited for genetic studies. I t shows fairly large number of 
+distinct contrasting traits. Morgan and his colleagues studie d pattern of inheritance 
+of more than 85 traits of Drosophila. Its larvae are excellent material for dissection 
+for chromosome study. It has only eight chromosomes in four homol ogous pairs 
+that can be conveniently studied under a microscope. Its sal ivary gland cells have 
+giant chromosomes in their nuclei. These giant chromosomes h ave characteristic 
+banding patterns corresponding to genes.
+5. 5. The entire genome of Drosophila has been successful ly sequenced as part of 
+human genome project.4622. Variation And Genetics eLearn.Punjab
+Fig 22.25 Wild type red eyed female and mutant white ey ed male Dorsophilia
+ Morgan mated this white eyed male with a wild type red e yed female. All 1237 ofspring 
+of this cross had red eyes. Morgan concluded that red eye is a dominant trait (Fig 22-
+26a).
+Morgan allowed males and females of F( generation to mate a nd produce F2 generation. 
+He counted 2459 red-eyed females, 1,011 red-eyed male s and 782 white eye males 
+among F2 (Fig. 22.26b).
+The proportion of 3470 red eyed to 782 white eyed lies did not perfectly it into 
+Mendelian 3 : 1 ratio. The number of recessive phenotype individuals was too small. 
+There was another pecularity in this result. All the white -eyed lies were only males. 
+There was no white eye female in F2 generation.4722. Variation And Genetics eLearn.Punjab
+  
+  
+The inheritance of eye colour some how seemed to be related to the ‘sex’ of the 
+ofspring. Morgan proposed that:
+(i)     The gene for eye colour is located on X chromosome, (ii) the alleles for eye colour 
+are present only on X chromosome. There is no corresponding allele for this trait on Y 
+chromosome.
+Thus even a single recessive allele on X chromosome can e xpress itself in males because 
+Y chromosome is empty for that gene. Males are hemizygous a s they carry just one 
+allele on their only X chromosome. Females have two X’chromosom es, each carrying 
+an allele of the trait. Females can be homozygous or heterozy gous.
+Symbol “w” represents the recessive allele for white eye,  and “w+” designates its wild 
+type allele for red eye. The genotypes of the parents of Pi  cross were: Xw+ Xw+ for red 
+eye female, and Xw Y for the white eye male.
+Morgan’s hypothesis explained clearly why all the white eyed lies in F2 generation 
+were only males.
+Step 3: Test cross : Morgan wanted to test his hypothesis (Fig. 22-26c). He cross ed the 
+P| white eyed male (XWY) with one of its own daughters, the  red eyed heterozygous 
+female from F| generation. This test cross produced 129 re d-eyed females, 132 red-
+eyed males, 88 white-eyed females and 86 white eyed m ales. White-eyed lies were 
+less viable than red-eyed lies. Half the female ofsprin g in fact had red eyes and half 
+had white. Similarly half the males had red eyes and half had white.4822. Variation And Genetics eLearn.Punjab
+Fig 22.16(a)
+Fig 22.26(b)4922. Variation And Genetics eLearn.Punjab
+Fig 22.26(c)
+Fig 22.26(d)5022. Variation And Genetics eLearn.Punjab
+Step 4: Reciprocal cross as a conirmatory test: Appearance of white eyed female 
+provided an opportunity for a further conirmatory test. Morgan ma ted a white  eyed 
+female with a red-eyed male (Fig. 22.26d). All femal e ofspring had red eyes, and all 
+male ofspring had white eyes. Then these Fi red eyed f emales and white eyed males 
+were mated to produce F2. Half of the F2 females had red eyes, half had white. Similarly 
+half of the F2 males had red eyes and half had white. This Fi x Fi cross was exactly like 
+step 3 test cross.
+A trait whose gene is present on X chromosome is called X - linked trait.  X - linked traits 
+are commonly referred as sex-linked traits . A gene present only on X chromosome, 
+having no counterpart on Y chromosome, is called X - linked gene.
+Sex-linked inheritance follows a very speciic pattern. As  a son inherits his X chromosome 
+only from his mother, and a daughter gets an X chromosome fr om each parent, an X 
+- linked trait passes in a crisscross fashion from matern al grandfather (Pi) through his 
+daughter (Fi) to the grandson (F2). It never passes direct from father to son because a 
+son inherits only Y chromosome from father.
+Morgan’s discovery of sex-linked inheritance was a great contribution to the 
+understanding of genes and chromosome. In 1933, T. H. Mor gan was awarded a Nobel 
+Prize for his contributions to genetics.
+Y chromosome is not completely inert. It does carry a few gen es which have no 
+counterpart on X chromosome. Such genes are called Y-Linked genes and their traits 
+are called Y-linked traits e.g. SRY gene on Y chromosome of man determines maleness. 
+Y - linked traits are found only in males. These traits d irectly pass through Y chromosome 
+from father to son only. As females do not normally inherit Y chromosome, such traits 
+can not pass to them. Some genes like bobbed gene in Drosophi la are present on X and Y 
+both. These are called  X - and - Y linked genes . These are also called pseudoautosomal 
+genes because their pattern of inheritance is like autosoma l genes.5122. Variation And Genetics eLearn.Punjab
+Fig 22.27 Transmission of X-linked recessive traits(heamophil ia) in humans.
+Sex - L inkage in Humans
+Humans have many X - linked traits of which some like ha emophilia and colour blindness 
+are recessive while others like hypophosphatemic or vitamin D resistant rickets are 
+dominant. X - linked dominant is a trait which is determin ed by an X linked dominant 
+gene, while X - linked recessive is a trait that is deter mined by an X - linked recessive 
+gene. Their patterns of inheritance are very diferent from  each other.5222. Variation And Genetics eLearn.Punjab
+X - linked recessive inheritance: Experimental matings are not practically possible in 
+humans. Mode of inheritance of human traits can be traced through pedigrees.
+Genetics of Haemophilia:  Haemophilia is a rare X — linked recessive trait. Haemop hiliac’s 
+blood fails to clot properly after an injury, because it has  either a reduction or malfunction 
+or complete absence of blood clotting factors. It is a serious h ereditary disease because 
+a haemophiliac may bleed to death even from minor cuts. Hae mophilia is of three types: 
+A, B and C. Haemophilia A and B are non - allelic rec essive sex - linked, but haemophilia 
+C is an autosomal recessive trait. 80% haemophiliacs, sufe r from haemophilia A due 
+to abnormality of factor VIII, about 20% sufer from haemophili a B due to disturbance 
+in factor IX, but less than 1% sufer from haemophilia C d ue to reduction in factor XI. 
+Being X - linked recessives, haemophilia A and B afec t men more than women, but 
+haemophilia C afects both the sexes equally because it is  autosomal. Chances for a 
+man to be afected by haemophilia A and B are greater than  a woman. A woman can 
+sufer from haemophilia A or B only when she is homozygous for the recessive allele, 
+but a man with just one recessive allele will display the  trait. Haemophilia A and B 
+zigzag from maternal grandfather through a carrier daugh ter to a grandson. It never 
+passes direct from father to son. Gene for normal is H. Gene for haemophilia A is h. 
+In generation I of this pedigree (Fig. 22.27) a man (I - 2) sufering from haemophilia A 
+marries a normal woman (I - 1). He passes haemophilia gene to his daughter (II - 2) 
+through his X chromosome. He cannot pass this gene to his son (II - 3) because the son 
+receives only Y chromosome from him. His daughter (II - 2)  also receives another X but 
+with normal dominant allele from her mother (I - 1).
+The daughter looks phenotypically normal, but she is heteroz ygous and a carrier for 
+the recessive gene. When she marries a normal man (II - 1) she passes her father’s 
+trait to one of her two sons (HI - 4) who inherits grandfather’ s X from her. The single 
+recessive allele for haemophilia expresses successfull y in the hemizygous son because 
+his Y chromosome does not carry its counterpart. The other son ( III - 3) is normal as he5322. Variation And Genetics eLearn.Punjab
+inherits grand mother’s X with normal gene, One daughter (III - 1) with both normal X 
+is normal, but the other daughter (III - 2) is carrier li ke her mother.
+Activity:      Cases of Haemophilia A are reported in Queen Victoria’s f amily. Pedigree of 
+Queen Victoria’s family (Fig. 22.28) indicates that Quee n Victoria was a carrier mother, 
+because she gave birth to an afected son Prince Leopold. Pr ince Leopold passed on 
+this recessive X - linked trait in typical zigzag fashion  through his carrier daughter (III - 
+1) to his grandson Rupert (IV - 1). Assign genotype to each  individual. Can you explain 
+how Alexis (IV - 3) became haemophiliac?
+Fig 22.28 Pedigree of Queen Victoris’s family showing cases of Hemolhilia A.
+Many X - linked traits in man are also found X - linked  in other mammals like mouse, 
+rabbit, dog, sheep, horse, donkey, cattle, kangaroo and chi mpanzee.Was the 
+mammalian X chromosome conserved throughout mammalian evolution?5422. Variation And Genetics eLearn.Punjab
+:Genetics of colour-blindness
+Normal trichromatic colour vision is based on three diferent k inds of cone cells in 
+the retina, each sensitive to only one of the three primary col ours, red, green or blue. 
+Each type of cone cell has speciic light absorbing protein s called opsins. The genes for 
+red and green opsins are on X chromosome, while the gene for blue opsin is present 
+on autosome 7. Mutations in opsin genes cause three types of c olour-biindness. A 
+dichromat  can perceive two primary colours but is unable to perceive the one whose 
+opsins are missing due to mutation. Protanopia is red blindness, deuteranopia is green 
+blindness, while tritanopia is blue blindness. Some peop le can detect red and green but 
+with altered perception of the relative shades of these colours . They have abnormal 
+but still partially functional opsins. They are protanomalous  and deuteranomalous 
+for red and green weakness respectively. A monochromat  can perceive one colour. 
+Monochromacy is true colour-blindness. Blue cone monochromacy  is an X - linked 
+recessive trait in which both red and green cone cells ar e absent. That is why it is also 
+called red - green colour-blindness. It is a common here ditary disease. Like any sex 
+- linked recessive trait, it also zigzags from maternal gr andfather through a carrier 
+daughter to a grandson. It never passes direct from father to son. This type of colour-
+blindness is more common in men than women, because chan ces for a male to be 
+afected by it are muh more than a female.
+  
+ 
+Activity:  A sex-linked recessive allele “c” produces red - bli ndness. Its normal dominant 
+allele is “C”. A normal woman whose father was red-blin d, marries a red-blind man. 
+What proportion of their children can have normal colour vision?Testicular feminization syndrome is a rare X-linked rec essive trait.Although the 
+persons afected by this trait have a male set of XY chromosome s, yet tfn gene 
+on their X chromosome develops them physically into females. They have breast, 
+female genitalia, a blind Vagina but no uterus. Degenera ted testis are also present 
+in abdomen. Such individuals are happily married as f emales but are sterile. It is an 
+androgen insensitivity syndrome. Male sex hormone testosterone has no efect on 
+them.5522. Variation And Genetics eLearn.Punjab
+X - linked dominant inheritance : Pattern of X - linked dominant inheritance is diferent 
+from X - linked recessive. It is more common in females th an males. All daughters of an 
+afected father, but none of his sons are afected. Any heter ozygous afected mother 
+will pass the trait equally to half of her sons and half of  her daughters (Fig. 22.29). 
+Hypophosphatemic rickets is an X - linked dominant trait. I t is a rare hereditary disease. 
+It is diferent from common dietary rickets, which could be cured by taking vitamin D. 
+It does not result from vitamin D deiciency but its cause is a  genetic communication 
+failure at molecular level. The genes encoding bone protei ns never receive vitamin D’s 
+message to function.
+Fig 22.29 Tranmission Of X-linked dominant traits in humans s.5622. Variation And Genetics eLearn.Punjab
+  Y - Linked inheritance : Pattern of Y - linked inheritance is very peculiar. Male ness is a 
+Y - linked trait. Y - linked trait passes through Y - chr omosome from father to son only. 
+Such traits cannot pass to daughters because they do not inher it Y - chromosome. 
+All sons of an afected father are afected by a Y - linke d trait (Fig. 22.30). SRY’ gene 
+on Y chromosome determines maleness in man. It is male se x switch which triggers 
+developmental process towards maleness after 6 week pregna ncy.
+   Fig 22.30 Y-linked inheritance in man5722. Variation And Genetics eLearn.Punjab
+Sex Limited Trait
+A sex-limited trait is limited to only one sex due to anatomica l diferences. Such trait 
+afects a structure or function of the body present in only mal es or only females. These 
+trails may be controlled by sex-linked or autosomal genes. Genes for milk yield in dairy 
+cattle afect only cows. Similarly beard growth in humans i s limited to men. A woman 
+does not grow a beard herself but she can pass the genes specifying heavy beard growth 
+to her sons.
+Sex Inluenced Trait
+Sex inluenced trait occurs in both males and females but it is more common in one sex. 
+It is controlled by an allele that is expressed as dominan t in one sex but recessive in the 
+other. This diference in expression is due to hormonal dif erence between the sexes. 
+Pattern baldness is a sex inluenced trait. Many more men  than women are bald. It is 
+inherited as an autosomal dominant trait in males but as an autosomal recessive trait 
+in females. A heterozygous male is bald but a heterozygous  female is not. A woman can 
+be bald only when she is homozygous recessive.
+Activity: A man is 45 years old and bald. His wife also has patte rn baldness. What is the 
+risk that their son will lose his hair?
+ DIABETES MELLITUS AND ITS GENETIC BASIS
+     
+Diabetes mellitus is a hereditary disease. It is actually  a heterogenous group of disorders 
+which are characterized by elevated blood sugar level. Dia betics are unable to metabolise 
+blood sugar in their body. They pass glucose in their uri ne. Diabetes is the leading cause 
+of kidney failure, adult blindness, lower limb amputation  and heart disease.
+  There are two major types of diabetes: Type I is IDDM or i nsulin dependent diabetes 
+mellitus. Type II is NIDDM or non insulin dependent diabe tes mellitus. Type I is also 
+called Juvenile diabetes because it usually occurs in e arly age before 40. It arises due to 
+deiciency of pancreatic hormone insulin that normally routes  blood glucose to cells for 
+use. Type I is an auto immune disorder. The immune sys tem backires and manufactures 
+auto antibodies against body’s own cells. Sometimes, speciic  viral infections activate 
+auto immune response. T - cells of immune system attack pa ncreas and destroy insulin 
+producing (5 - cells. As a result, pancreas does not prod uce insulin. Diabetics of type I 
+must receive exogenous (from outside source) insulin to survive .5822. Variation And Genetics eLearn.Punjab
+Progress is being made in understanding the genetic bas is of this disease. The •insulin 
+gene is located on short arm of chromosome 11. Polymorphism an d genetic variations 
+within this locus is responsible for diabetes type I susce ptibility. But today, it is no 
+more just a recessive single gene trait, rather it is a mu ltifactorial (polygenic with 
+environmental inluence) inheritance associated with several  alleles.
+Diabetes mellitus type II is non insulin dependent. It acc ounts for 90% of all diabetic 
+patients. These persons produce some endogenous insulin the mselves, but their 
+body cells gradually fail to respond to insulin and cannot take up glucose from blood. 
+They develop a sort of insulin resistance. It occurs among p eople over the age of 
+40, and is more common among the obese. Obesity increases insulin resistance. As 
+exercise reduces obesity it indirectly increases insuli n sensitivity and improves glucose 
+tolerance.
+There, deinitely exists a genetic component in the form of a n underlying tendency 
+to develop diabetes under certain environmental conditions. Abou t 2% - 5% of type II 
+diabetics get the disease early in life, before 25 year s of age. It is called maturity onset 
+diabetes of the young (MODY). MODY can be inherited as an autosomal dominant 
+trait. About 50% of cases of MODY are caused by mutations in glucokinase gene. 
+Glucokinase enzyme usually converts glucose to glucose - 6 -  phosphate in pancreas. 
+MODY can also be caused by mutations in any of the four other  genes which encode 
+transcription factors involved in pancreatic development and in sulin regulation. But 
+these four MODY genes do not play any signiicant role in ad ult - onset type II.
+Blood pressure is also an example of multifactorial trait. T here is a correlation between 
+systolic and diastolic blood pressure of parents and their c hildren. This correlation is 
+partly due to genes common in them. Blood pressure is also i nluenced by environmental 
+factors such as diet, stress and tension.5922. Variation And Genetics eLearn.Punjab
+Exercise
+Q1    Fill in the blanks.
+1.  _________is the basic unit of biological information.
+2.  A sudden change in the structure of a gene is calle d ______
+3. _______is the chance of an event to occur. 
+4. A cross among monohybrids is a________cross.
+5. An individual with a homozygous genotype is called_____ ___ . 
+6. Diferent alleles of a gene that are both expressed in a  heterozygote are 
+called____________
+7. When a heterozygote exceeds the phenotypic expression of both the homozygotes 
+the phenomenon     is called__________ . 
+8.      When a single gene afects two or more traits, the p henomenon is called________
+9.      A gene with multiple phenotypic efect is called_ ________ .
+10.  The phenomenon of staying together of all the genes of a  chromosome is 
+called_______
+11. _________ minimizes the chances of genetic recombin ation. 
+12.  _________is an exchange of segments between non-si ster chromatids of homologous 
+chromosomes   during meiosis.
+13. All cliromosomes other than sex chromosomes are called__ _______. 
+14.   _______is the maleness determining gene in man.
+15. Type __________of diabetes mellitus is non insulin dependent. 
+16. Polygenic inheritance with environmental inluence is called __________ inheritance.
+Q.2     Short questions.
+1. In grasshopper, the male has XY and the female has XX types of sex chromosomes. 
+2. Pea is normally a self fertilizing plant. 
+3. Dihybrids are ofspring of the parents who difer in one contrasting pair of trait. 
+4.  X - linked traits pass direct from father to son. 
+5. A person sufering from Blue cone monochromacy can not se e blue colour. 
+6.  In birds and moths eggs determine sex.
+7. A homozygote forms all gametes of the same type.
+8. The allele for a sex limited trait is dominant in one s ex but recessive in the other.6022. Variation And Genetics eLearn.Punjab
+9. Pattern baldness is a sex inluenced trait. 
+10. Carriers of haemophilia show no symptoms of the disease .
+1.  Diferentiate between :
+Phenotype and genotype
+Homozygous and heterozygous
+Autosome and sex chromosome
+Allele and multiple allele
+Incomplete dominance and codominance
+Continuous and discontinuous variationsGene and allele
+Monohybrid and dihybrid
+Dominance and epistasis
+X-linked trait and Y-linked trait
+Sex limited and sex inluenced trait
+Dominant trait and recessive trait
+Wild type and mutant
+2. What is a gene pool?
+3. Was pea a lucky choice for Mendel? What would have ha ppened if he had studied 
+an eighth character? 
+4. What is a test cross? Why did Mendel devise this cross?  
+5. What would happen if alleles of a pair do not segregate  at meiosis? How would it 
+afect the purity of gamete? 
+6. If the alleles do not assort independently, which type of  combination is missing in 
+the progeny. 
+7. Why has each gamete equal chance of getting one or the other allele of a pair? 
+8. Does the dominant allele modify the determinative nature of its recessive partner?. 
+What sort of relationship do they have? 
+9. Which type of traits can assort independently? 
+10.  Why does the blood group phenotype of a person remain constant throughout 
+life’?
+11. What is a universal blood donor? 
+12. How can you protect the baby against Rh - incompatibility ? 
+13. Which type of genes do not obey law of independent assor tment? 
+14. How can linked genes be separated from each other ? 
+15. What is multifactorial inheritance? 
+16. What is MODY?
+17. Can a child have more intelegence (IQ score) than hi s parents?Q.4  Short Questions.6122. Variation And Genetics eLearn.Punjab
+1. What is incomplete dominance? Explain it with an examp le.
+2. Deine Mendel’s law of segregation. Explain it with an example. 
+3. Deine Mendel’s law of independent assortment. Explain it with an example.
+4. Deine probability. Derive 9:3:3:1 F2‘ratio of independen t assortment through 
+product rule. 
+5. What is codominance? Explain the phenomenon of codominanc e with an example. 
+6. Deine multiple alleles. Describe multiple allelic bl ood group system of man. 
+7. What is Rh factor? Describe the genetic basis of Rh - b lood group system of man. 
+8. What is erythroblastosis foetalis? Discuss this adverse ef ect of Rh incompatibility? 
+Also suggest a therapy to avoid Rh sensitization of an Rh” mothe r married to an Rh+ 
+man. 
+9. Deine epistasis. Explain epistatic gene interaction with  an example.
+10. What is a pleiotropic gene? Discuss pleiotropy with exam ples. 
+11. What are polygenes? Explain polygenic inheritance.
+12. What is crossing over? Deine recombination frequency an d explain its signiicance. 
+13. What are sex-chromosomes? Discuss the chromosomal patterns  of sex 
+determination in organisms.
+14. Compare chromosomal determination of sex between Drosophila  and humans. 
+15. Deine gene pool. Explain the concept of gene pool in a s ample population. 
+16. What is sex linkage? Explain T. H. Morgan’s study of sex - linkage in Drosophila.
+17. Compare the pattern of inheritance of an X - linked dom inant trait with an X - 
+linked recessive trait in humans.
+18. Explain diabetes mellitus and its genetic basis.
+19. Discuss the genetics of colour-blindness or haemophilia .Q.4 Extensive Questions

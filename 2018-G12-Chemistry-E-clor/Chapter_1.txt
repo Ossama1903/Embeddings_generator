@@ -1,0 +1,361 @@
+CHAPTER
+1Periodic Classification Of
+Elements And Periodicity
+Animation 1.1 : Periodic Table
+Source and Credit: eLearn.Punjab2
+1. Periodic Classification of Elements and Periodicity eLearn.Punjab1.1 INTRODUCTION 
+To achieve a thorough understanding of a complex subject like chemis-
+try, it would be highly desirable to fit all the facts into a simple logical pattern.The periodic table of elements has served the purpose to systematize the properties of the elements for well over 100 years.The development of pe -
+riodic table is one of the most significant achievements in the history of chemical sciences. The Periodic Table provides a basic framework to study the periodic behaviour of physical and chemical properties of elements as well as their compounds.In previous classes, you have learnt about the periodic classification of elements. This chapter describes in more detail the periodic table and theperiodicity of elements.
+The early history of ideas leading up to the Periodic classification of elements is fascinating but will not be treated in detail.Those who made memorable contributions in this field are Al-Razi,Dobereiner,Newland and Mendeleev. Al-Razi’s classifications was based on the physical and chemical properties of substances . Dobereiner, a German chemist in 1829, arranged then known elements in group called Triads, as each contained three elements with similar properties. Newland who was an English chemist , in 1864, classified 62 elements, known at that time , in increasing order of thier atomic masses.  He noticed that every eighth element had some properties in common with  the first one. The principle on which this classification is based was called the Law of 
+Octaves.1.  T o describe the periodic table in terms of groups and periods.2.
+ T
+o describe and explain periodicity in physical and chemical 
+properties.
+3.
+ T
+o describe the position of hydrogen in the periodic table.
+1.1.1 Historical Background IN THIS CHAPTER YOU WILL LEARN3
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabMendeleev also started by arranging the elements in ascending order of their 
+atomic masses and found that elements having similar chemical properties appeared at regular intervals. This significant observation was called Periodic Law. Mendeleev left some gaps in his table for elements, which had not yet been discovered, and by considering their positions in the periodic table, he predicted properties of these elements. For example, germanium was not known at that time, but Mendeleev was confident that this element must exist so he predicted its properties.A few years later, germanium was indeed discovered and a remarkable agreement was found with Mendeleev’s predictions.
+Another improvement was the addition of an extra group (group VIIIA) at the extreme right of the periodic table.This group contains noble gases, which had not been discovered in Mendeleev’s time.1.1.2  Improvements In Mendeleev 's Periodic TableIn 1871, a Russian Chemist, Dmitri Mendeleev, gave a more useful and comprehensive scheme for the classification of elements. He presented the first regular periodic table in which elements of similar chemical properties were arranged in eight vertical columns called Groups.The horizontal rows of the table were called Periods.
+Hence, the periodic table was improved by arranging the elements in ascending order of their atomic numbers instead of their atomic masses. This improvement rectified a number of confusions present in the old periodic table.The modern Periodic Law states that:“if the elements are arranged in ascending order of their 
+atomic numbers, their chemical properties repeat in a periodic manner ”In order to make the periodic table more useful and accurate, a few improvements were made in Mendeleev s periodic table. After the discovery of atomic number by Moseley in 1911, it was noticed that elements could be classified more satisfactorily by using their atomic numbers, rather than their atomic masses.4
+1. Periodic Classification of Elements and Periodicity eLearn.Punjab1.2 THE MODERN PERIODIC TABLE 
+In modern periodic table (see periodic table) all the elements are arranged 
+inascending order of their atomic numbers.Followings are the essential features of the periodic table.
+ 1. Group and Periods
+Elements with similar  properties are placed in vertical columns called Groups.There are eight groups ,which are usually numbered by Roman numerals I to VIII.Each group is divided into two subgroups, designated as A and B subgroups. 
+The subgroups, containing the  representative or normal elements are labelledas A subgroups, whereas B subgroup contain less typical elements, called transition elements and are arranged in the centre of the periodic table.The horizontal rows of the periodic table are called Periods.The essential features of periods are as follows:
+c)  The periods 2 and 3 contain eight elements each and are called short periods. 
+All the elements in these periods are representative elements and belong to 
+A subgroup . In these periods, every eighth element resembles in properties with the first element. As lithium and beryllium in the 2nd period resemble in most of their properties with sodium and magnesium of the 3rd period, respectively. Similarly, boron and aluminium both show oxidation state of +3, fluorine in 2nd period has close resemblances with chlorine of 3rd period.a)  There are 7 periods in the periodic table numbered by Arabic numerals 1 to 7. 
+b) The period 1 contains only two elements, hydrogen and helium. Another confusion in Mendeleev’s table was that elements like Be, Mg, Ca, Sr, Ba and Zn, Cd, Hg were placed in a single vertical group, while according to their properties they belonged to two different categories. The same was true for so many other elements placed in the same vertical group. In modern periodic table, the confusion was removed by dividing the elements in two types of vertical groups, A and B. In modern periodic table, Be, Mg, Ca, Sr and Ba are placed in group IIA and Zn, Cd, Hg in group IIB.5
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabTable 1.1 MODERN PERIODIC TABLE OF THE ELEMENTS6
+1. Periodic Classification of Elements and Periodicity eLearn.Punjabd) The periods 4 and 5 are called long periods. Each long period consists of 
+eighteen elements. Out of these, eight are representative elements belonging to A subgroup similar to second and third periods. Whereas the other ten elements, placed in the centre of the table belong to B subgroups and are known as transition elements. In these periods, the repetition of properties among the elements occurs after 18 elements. As after 
+19K (having atomic number 19) 
+the next element with similar properties is 37Rb.
+e) The period 6 is also a long period, which contains thirty-two elements. In this period there are eight representative elements, ten transition elements and a new set of fourteen elements called Lanthanides as they start after 
+57La. Lanthanides have remarkably similar properties 
+and are usually shown separately at the bottom of the periodic table.
+f) The period 7 is incomplete so far. It contains only two normal elements 87Fr 
+and 88Ra, ten transition elements and fourteen inner transition elements. The 
+inner transition elements of this period are called Actinides, as they follow 
+89Ac.The actinides are also shown at the bottom of the periodic table under 
+the Lanthanides. Due to their scarcity, the inner transition elements are
+ also called rare earth elements.
+While studying about periods you have noticed that certain rows of elements with 
+similar properties have assigned common names such as transition elements, Lanthanides, Actinides or Rate Earth elements.Similarly, due to their peculiar characteristics, some typical elements belonging to sub-groups A, have also been assigned family names. For example,elements of the group IA are called Alkali Metals, because of their property to form strong alkalies with water.2. Some More Families in the Periodic Table:
+2Na +2H2O ——-—> 2NaOH + H2
+Similarly,due to their presence in Earth’s crust and alkaline character,the elements  of group IIA are known as Alkaline Earth Metals. Another important family in the periodic table is Halogen family. The name “Halogens” is given to the elements of group VIIA, due to their salt forming properties. As the gases of group VIIIA ‘are least reactive they are called “Noble Gases” ,These family names are useful for a quick recognition of an element in the periodic table.7
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabElements in the periodic table can also be classified into four blocks. 
+This classification is based upon the valence orbital of the element involved in chemical bonding. According to this classification, elements of IA and IIA subgroups are called s-block elements because their valence electrons are available in s orbital.The elements of IIIA to VlllA subgroups (except He) are known as p-block elements as their valence  electrons are present in p orbital. 3. Blocks in the Periodic Table
+Another basis for classifying the elements in the periodic table is their metallic character. Generally, the elements on the left hand side, in the centre and at the bottom of the periodic table are metals, while the non-metals are in the upper right corner of the table. 4. Metals, Non-metals and MetalloidsSimilarly in transition elements, electrons in d-orbital are responsible for their valency hence they are called d-block elements. For Lanthanides and Actinides valence electrons are present in f- orbital hence these elements are called f-block elements. This classification is quite useful in understanding the chemistry of elements and predicting their properties especially the concept of valency or oxidation state.
+Some elements, especially lower members of groups, III A, IVA and  VA(as shown in Table 1.1) have properties of both metals as well as non-metals. These elements are called semi-metals or metalloids. In the periodic  table elements of groups IVA to VIIIA, at the top right  hand corner above the stepped line, are non-metals. The elements just under the “steps’ such as Si, As, and Te are the metalloids. All the remaining elements, except hydrogen, are metals.
+1.3 PERIODIC TRENDS IN PHYSICAL PROPERTIES
+As you have studied so far that in modern periodic table the elements are arranged in ascending order of their atomic numbers and their classification in groups and periods is based on the similarity in their properties. Yet, due to the gradual increase in the number of protons in the nucleus and electrons in outer shells the physical and chemical properties of the   elements steadily vary within a group or a period. Here, we study some trends in physical properties.8
+1. Periodic Classification of Elements and Periodicity eLearn.Punjab1. ATOMIC SIZE
+a) Atomic Radius:
+Atoms are so small that it is impossible to see an atom even with a 
+powerful optical microscope. The size of a single atom therefore cannot be directly measured. However, techniques have been developed which can measure the distance between the centres of two bonded atoms of any element. Half of this distance is considered to be the radius of the atom.
+In the periodic table, the atomic radius increases from top to bottom within a group due to increase in atomic number . This is because of the addition of an extra shell of electrons in each period. In a period, however, as the atomic number increases from left to right, the atomic radius decreases . This gradual decrease in the radius is due to increase in the positive charge in the nucleus . As the positive nuclear charge increases, the negatively charged electrons in the shells are pulled closer to the nucleus. 
+Thus, the size of the outermost shell becomes gradually smaller. This effect is quite remarkable in the elements of longer periods in which “d” and “f ” subshells are involved. For example, the gradual reduction in the size of Lanthanides is significant and called Lanthanide Contraction.
+When a neutral atom loses one or more electrons, it becomes a positive ion. The size of the atom is decreased in this process because of the two reasons. 
+b) Ionic Radius:9
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabThus, a positive ion is always smaller than the neutral atom from which 
+it is derived. The radius of Na is 157pm and the radius of Na+ is 95pm. 
+On the contrary, a negative ion is always bigger than its parent atom.  First the removal of one or more electrons from a neutral atom usually resultsin the loss of the outermost shell and second, the removal of electrons causes an imbalance in proton-electron ratio. Due to the greater attraction of the nuclear charge, the remaining electrons of the ion are drawn closer to the nucleus. 
+The reason is that addition of one or more electrons in the shell of a neutral atom enhances repulsion between the electrons causing expansion of the shell.
+Thus, the radius of fluorine atom is 72pm and that of  the fluoride ion (F ) is 136pm.
+In a group of the periodic table, similar charged ions increase in size from 
+top to bottom. Whereas within a period, isoelectronic positive ions show a decrease in ionic radius from left to right, because of the increasing nuclear charge. 
+The same trend is observed for the isoelectronic negative ions of a 
+period; ionic size decreases from left to right. The variations in atomic and ionic radii of alkali metals and halogens are shown in Fig 1.1 and Fig.1.2.10
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabThe ionization energy of an element is the minimum quantity of energy which 
+is required to remove an electron from the outermost shell of its isolated gaseous atom in its ground state. The ionization energy of sodium is 496kJ mol
+-1.2. Ionization Energy
+Elements with greater number of electrons have more than one values of ionization energy. So for magnesium, the first ionization energy value is the energy required to remove the first electron:→ Na(g)               Na+ 
+(g)     +       e-                           
+Similarly, the second ionization energy value is the energy required to remove the second electron.i  = 496 kJ mol-1
+i1 = 738 kJ mol-1 → Mg (g)               Mg+ 
+(g)     +       e- 
+i2= 1451kJ mol-1→ Mg+ 
+(g)               Mg++    +       e-      
+a) Variation Within a Group:
+The factors upon which the ionization energy of an atom mainly depends are magnitude of nuclear charge, size of the atom, and the “shielding effect” . The shielding effect is 
+actually the repulsion due to electrons in between the nucleus and the outermost shell. 
+Fig. 1.3 Ionization energies of 
+alkali metals 
+This effect increases, as the size of the atom increases due to addition of an extra shell successively in each period hence more number of electrons shields the nucleus.11
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabGoing down in a group, the nuclear charge increases but as the 
+size of the atom and the number of electrons causing the shielding effect also increases therefore ionization energy decreases from top to bottom. That is why in alkali metals, for example, it is easier to remove an electron from caesium atom than from lithium atom. The change in ionization energies of IA elements is shown in Fig. 1.3.
+b) Variation Across a Period:
+Generally, smaller the atom with greater nuclear charge, more strongly the electrons are bound to the nucleus and hence higher the ionization energy of the atom. By moving from left to right in a period, the outer shell remains the same, while the nuclear charge increases effectively that makes the removal of an electron difficult and hence the value of ionization energy increases.
+Fig. 1.4 Ionization energies of 
+elements of short periods.12
+1. Periodic Classification of Elements and Periodicity eLearn.Punjab3. Electron Affinity (E.A)
+The electron affinity is the energy released or absorbed, when 
+an electron is added to  a gaseous atom to form a negative ion.
+Energy is usually released when  electronegative elements absorb the firstelectron and E.A. in such cases is expressed in negative figures, as in the case of halogens. When a second electron is added to a uninegative ion, the incoming electron is repelled by the already present negative  charge and energy is absorbed in this process.
+→  O(g)   +  e-                        O-
+(g)                                 E.A1= -141 kJ mol-1   
+O- 
+(g)  +   e-               O2-
+(g)                 E.A2= +780  kJ mol-1 →
+The absorbed energy is expressed as the electron affinity in positive figures. Electron affinity depends upon size of the atom, nuclear charge and vacancies in the outermost shell. Relatively smaller atoms with one or two vacancies in the outermost shell show large values of electron affinity. →  F (g) +e-                        F-
+(g)            E.A= -337 kJ mol-1  Although, the number of electrons also increases in this case but the shielding is not very effective within the same shell. The trend of ionization energies of short periods is  shown in Fig.1.4 The figure also reveals that inert gases have the highest values of ionization energy because due to complete outermost shell in them, the removal of electron is extremely difficult.13
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabElectron affinity generally increases with increasing atomic number 
+within a period and decreases  from lighter to heavier  elements in a given group of the periodic table. Knowledge of electron affinities can be  combined with the knowledge of ionization energies to predict which atoms can easily lose electrons  and which can accept electrons more readily.
+4. Metallic and Non-Metallic Character
+It has already been discussed in this chapter that elements of periodic table can be divided into metals, non-metals and metalloids. Chemically all the elements which have a tendency to form positive ions by losing electrons are considered metals. All metals are good conductor of heat and electricity. A characteristic property of metals is that they form basic oxides which give bases when dissolved in water.
+→   Na2O (s) + H2O (l)          2 NaOH (aq)
+As it becomes easier to remove the electron of an atom bigger in size, therefore metallic character increases from top to bottom in a given group of elements. On the contrary, it decreases from left to right across a period. The elements of group VIIA (the halogens) are least
+ metallic in nature.The elements which gain electrons and form negative ions are called non-metals. All the gases are non-metals. The non-metals are normally poor conductor of heat and electricity. Non-metals form acidic oxides which yield acids on dissolving in  water.
+→ SO3 (g) + H2O (l)           2 H2SO4 (aq)14
+1. Periodic Classification of Elements and Periodicity eLearn.Punjab
+Fig. 1.5 Variation of melting points with atomic numberNon-metallic character of an element, decreases as the atomic size increases. 
+Therefore in a group of non-metals like halogens, the non-metallic character decreases from top to bottom. The member at the top, fluorine, is the most non-metallic element of the periodic table. This trend can also be verified in the elements of groups VA and VIA. Nitrogen and oxygen are pure 
+non-metals and usually exist in gaseous state while bismuth and polonium, the members at the bottom of these groups, are fairly metallic in nature.
+5. Melting And Boiling Points
+(a) Variation in a Period
+Across the short periods, the melting and boiling points of elements increase with the number of valence electrons upto group IVA and then decrease 
+upto the noble gases. The melting points of group IA elements are low because each atom in them provides only one electron to form a bond with other atom. Melting points of group IIA elements are considerably higher than those of group IA elements because each atom in them provides two binding electrons.Melting and boiling points of elements tell us something about how strong the atoms or molecules in them are bound together.15
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabSince carbon has the maximum number of binding electrons, thus 
+it has a very high melting point in diamond in which each carbon is bound to four other carbon atoms. In general, the elements which exist as giant covalent structures have very high melting points, Fig. 1.5.
+(b) Variation in a Group
+The  melting and boiling points of IA and IIA group elements decrease from top to bottom due to the increase in their atomic sizes. The binding forces present between large sized atoms are relatively weaker as compared to those between smaller atoms, Fig. 1.6.
+For elements of group VIIA, which exist in the form of molecules, 
+the melting and boiling points increase down the group, Fig. 1.7.This is because large molecules exert stronger force of attraction due to their higher polarizabilities.
+Fig.1.6 Melting points of Group IIA elements. An important change occurs when we move from group IVA  to groups VA, 
+VIA, VIIA as the lighter elements of these group exist as small, covalent molecules, rather than as three dimensional lattices.For instance, nitrogen,oxygen and fluorine exist as individual molecules which have very weak intermolecular forces between them.Consequently, their melting and boiling points are extremely low.16
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabThe oxidation state of an atom in a compound is defined as the charge
+(with the sign), which it would carry in the compound. In ionic compounds, it is usually the number of electrons gained or lost by the atom. As in the case of sodium chloride, the oxidation states of sodium and chlorine are + 1 and -1, respectively. In covalent compounds, it is decided on the basis of the difference in their relative electronegativities. For example, SnCl
+4 is 
+a covalent compound. The oxidation state of tin is + 4 and that of chlorine is -1. The oxidation state of an element is zero in its free state.6. Oxidation State
+ Fig.1.7 . Bloiling (.---------) and melting 
+points(;_______) of halogens. The oxidation state of a typical element is directly or indirectly related to the group number to which the element belongs in the periodic table. The elements of group IA to IVA have the same oxidation states as their group numbers are. Just as B, Al and Ga belong to group IIIA, hence, they always show oxidation state of +3. So, 
+for the elements17
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabTransition elements, which are shown in B subgroups of the periodic table, 
+also show the oxidation states equal to their group number as it can be seen for Cu(I), Zn(II), V(V), Cr(VI) and Mn (VII). But due to greater number of 
+valence electrons available in partly filled d-orbitals these elements usually, show more than one oxidation states in their compounds.For example, N, P , As and Sb frequently show +3 as well as +5 oxidation states. 
+Elements of group VIA show almost similar behaviour. In H
+2SO4, sulphur shows 
+the oxidation state of +6, which is the number of electrons in its outermost shell whereas its oxidation state is -2 in H
+2S, 
+which is the number of vacancies in the shell. In group VIIA elements oxidation state is mostly - 1, which is again 
+the number of vacancies in their outermost shells. Group VIIIA elements, which are also called zero group elements, usually show zero oxidation state because there is no vacancy in their outermost shells.of these groups, the oxidation state is same as the number of electrons 
+present in the valence shells of the elements. However, for the elements of group VA, the oxidation states are either the number 
+of electrons present in the valence shell (which is same as their group number) or the number of vacancies available in these shells. 
+7  Electrical Conductance
+One of the most familiar properties of metals is their ability to conduct   electricity. This property is mainly due to the presence of relatively loose electrons in the outermost shell of the element and ease of their movement in the solid lattice. The electrical conductance of metals in groups IA and IIA, generally increases from top to bottom. 
+However, the trend is not free from the individual variation in different atoms. Metals of group IB , which are known as coinage metals, have 
+extraordinary high values of electrical conductance. Non-metals, on the other hand, especially of groups VIA and VIIA, show such low 
+electrical conductance that they can be considered as nonconductors.18
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabIn the series of transition metals, the values of electrical conductance vary so
+ abruptly that no general trend can be assigned to them. Carbon, in the form of diamond is non-conductor because all of its valence electrons are tetrahedrally bound and unable to move freely, while in the form of graphite, carbon is fairly good conductor because one of its four valence electrons isrelatively free to move. The lower elements of group IVA , tin and lead, 
+are fairly good conductors and their values of electrical conductivity are comparable with those of their counterparts in group IA.   
+8 Hydration Energy
+The hydration energy is the heat absorbed or evolved when one mole of gaseous ions dissolve in water to give an infinitely dilute solution. For example, when one mole of gaseous hydrogen ions are dissolved in water resulting an infinitely dilute solution, a large amount of heat is liberated:
+→ H+ (g)  +    H2O (l)                                            H3O+(aq)                                                             DHh  = - 1075 kJ mol-1             
+Hydration energies of a few negative and positive ions are shown in the Table 1.2.It is evident from the table that hydration energies highly depend upon charge to size ratio of the ions. For a given set of ions, for example of group IA, charge to size ratio decreases from top to bottom in a group, the hydration energy also decreases in the same fashion. On the contrary, the hydration energy increases significantly by moving from left to right in a period as the charge to size ratio increases, as found in the metal ions of third period.
+IonHh 
+kJ mol-1
+Li+-499
+Na+-390
+K+-305
+Mg2+-1891
+Ca2+-1562
+Al3+-4613
+F--457
+Cl--384
+Br_-351
+I--307Table 1.2 Hydration 
+     Energies of Ions19
+1. Periodic Classification of Elements and Periodicity eLearn.Punjab1.4  PERIODIC RELATIONSHIP IN COMPOUNDS
+a)   Halides:
+Halides are the binary compounds which halogens form with other 
+elements. The physical properties of halides are largely determined by the nature of bonding present in them. On this basis, halides can be classified into twogeneral classes: ionic and covalent.In between the two, there is another class of halides in which the halogen atom acts as a bridge between the two atoms of the other element, such halides are termed as “Polymeric” halides.Strongly electropositive elements, having greater electronegativity difference with halogen atom, form ionic halides.The halides of group IA are considered purely ionic compounds, which are high melting point solids. Such halides have three-dimensional lattices consisting of discrete ions. 
+Name
+of compoundsProperty
+Melting 
+point (°C)Type of bonding
+NaCl 808 Ionic
+MgCl2715 Partly ionic
+AlCl3192 Partly ionic
+SiCl4-68 Partly covalent
+PCI3-93 Partly covalent
+S2CI2-80 Partly covalentTable 1.3 Melting Points of Chlorides of Period 
+Three Elements and Their Bonding Character20
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabAmong the pure ionic compounds, the fluorides have the highest lattice 
+energies due to the small size of fluoride ion. Thus for ionic halides, the fluorides have the highest melting and boiling points which decrease in the order: fluoride > chloride > bromide > iodide.Less electropositive elements, such as Be, Ga and AI form polymeric halides having partly ionic bonding with layer or chain lattices.   
+The lattice of SiCl
+4 consists of discrete molecules, which are highly polar. 
+The bonds in PCI3, and S2Cl2 are less polar than those of SiCl4. On moving across the 
+periodic table from left to right, the electronegativity difference reduces 
+and the trend shifts towards covalent halides. The gradual change in bond type and melting points of the chlorides on moving across period 3 of the periodic table is shown in Table. 1.3. 
+As the intermolecular forces in covalent halide molecules are weak van der Waal’s forces so they are often gases, liquids or low melting point solids. Physical properties of covalent halides are influenced by the size and polarizability of the halogen atom.Iodides, as being the largest and more polarizable ions, possess the strongest van der Waal’s forces and therefore have higher melting and boiling points than those of other covalent halides. 
+The variation in bonding character is also present in descending from top 
+to bottom in the halogen group. In general, for a metal the order of decreasing ionic character of the halides is: fluoride > chloride > bromide > iodide. For example, AlF
+3 is purely ionic compound having melting point 1290°C and fairly 
+a good conductor, whereas AlI3  is predominantly covalent with melting 
+point 198°C and electrically  a non-conductor. In case of an element forming more than one halides, the metal halide in its lower oxidation state tends to be ionic, while that in the higher oxidation state is covalent. For example, PbCl
+2 is mainly ionic and PbCl4 is fairly covalent. This can again 
+be explained by the high polarizing power of Pb4+ as compared to that 
+of Pb2+.21
+1. Periodic Classification of Elements and Periodicity eLearn.Punjabb)    Hydrides
+The binary compounds of hydrogen with other elements are called hydrides. 
+According to the nature of bonding, hydrides may be broadly classified into three classes: ionic, covalent and intermediate. The elements of groupIA and the heavier members of group IIA form ionic hydrides, which contain H
+- (Hydride) ion.These hydrides are crystalline solid compounds, 
+with high melting and boiling points and which conduct electricity in molten state. 
+IA IIA IIB IIIA IVA VA VIA VIIA
+LiH BeH2BH3CH4 NH3H2O HF
+NaH MgH2AIH3SiH4PH3H2S HCl
+KH CaH2ZnH2GaH3GeH4AsH3H2Se HBr
+RbH SrH2CdH2InH3SnH4SbH3H2Te HI
+CsH BaH2PbH4BiH3
+IONIC INTERMEDIATE COVALENTTable 1.4. Hydrides of the  Elements of IA to VIIA and IIB Subgroups.The tendency towards covalent character increases by moving from left to right in the Periodic Table. Hydrides of beryllium and magnesium represent the class of intermediate hydrides. Their properties are in between the ionic and covalent hydrides. They have polymeric structures and covalent nature, Table 1.4.
+The covalent hydrides are usually gases or volatile liquids. They are 
+non-conductors and dissolve in organic solvents. Their bond energies depend on the size and the  electronegativity of the element. Stability of covalent hydrides  increases from left to right in a period and decreases from top tobottom in a group.Fluorine forms the most stable hydride and the least stable are those of thallium, lead and bismuth.These hydrides are formed by elements with electronegativity values greater than 1.8 (Pauling Scale). Since the electronegativity of hydrogen is 2.1, most of these hydrides have polar covalent bonds in which hydrogen is carrying a slight positive charge.22
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabOn moving from left to right across a period the electronegativity of the other 
+element increases and the hydrogen- element bond becomes more polar. 
+Due to high polarity the hydrides like H2O and HF are capable of forming 
+hydrogen bonds between their molecules. The boiling points of covalent hydrides generally increase on descending a group as shown in Table 1.5, except the hydrides like H
+2O, HF and NH3 which, due to hydrogen bonding, have 
+higher boiling points than might be expected.
+Hydrides Property
+(Group IVA)Melting point 
+(°C)Boiling point ‘ 
+(°C)
+CH4          -184 -164
+SiH4-185 -112
+GeH4-165  -90
+SnH4-150 -52
+(Group VIA)
+H2O 0.00 100
+H2S -82.9 -59.6
+H2Se -65.7 -41.3
+H2Te -48 -1.8Table. 1.5. Melting and Boiling points of Hydrides of Groups IV A and VI A
+Oxygen forms compounds, called oxides, with almost every other element in the periodic table. Since, many of these have quite unusual properties, there is an extensive and varied chemistry of the compounds of oxygen. Oxides can be classified in more than one ways: based upon the type of bonding they have as well as their acidic or basic character.We shall discuss here the classification based ontheir acidic or basic behaviour. In this chapter, you have already studied that metal oxides are basic in character as they yield bases in water and non-metallic oxides are acidic because they form acids in water.Basic oxides and acidic oxides react with one another to give salts, for example:c)   Oxides23
+1. Periodic Classification of Elements and Periodicity eLearn.Punjab→Na2O (s) + SO3 (g)            Na2SO4 (s)
+IA IIA IIB IIIA IVA VA VIA VIIA
+Li Be B C  N O F
+Na Mg AI Si P S Cl
+K Ca Zn Ga Ge As Se Br
+Rb Sr Cd In Sn Sb Te I
+Cs Ba Hg TI Pb Bi Po AtThere is a third type of oxides, which show both acidic and basic properties, 
+these oxides are called amphoteric oxides. The classification of elements which form oxides of acidic or basic properties is shown in Table 1.6.
+Table 1.6 Classification of 
+ Oxides Based on their Acid and Base 
+Character
+BASIC AMPHOTERIC  ACIDIC
+The oxides of alkali and alkaline earth metals except beryllium are basic and contain O
+2- ions. The O2- ion has high affinity for proton and cannot exist 
+alone in an aqueous solution. Therefore, it immediately takes proton from water and forms OH
+- ion. Oxides of nonmetallic elements i.e. of C, N, P and 
+S are acidic in nature. They generally dissolve in water to produce acidic solutions. Oxides of relatively less electropositive elements, such as BeO, Al
+2O3, Bi2O3 and ZnO are amphoteric and behave as 
+acids towards strong bases and as bases towards strong acids.
+ZnO(s) +       H2SO4 (aq)                     ZnSO4 (aq) +    H2O  (l) →
+ZnO (s) +       2NaOH (aq)    +    H2O (l)                     Na2[Zn(OH)4] (aq) →24
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabIn a given period, the oxides progress from strongly basic through weakly 
+basic,amphoteric, and weakly acidic to strongly acidic, e.g. Na2O, MgO, Al2O3, P4O10 
+, SO3 , Cl2O7.The basicity of main group metal oxides increases on descending a 
+group of the periodic table, (e.g. BeO<MgO<CaO<SrO<BaO), though the reverse trend is observed in the transition metal oxides. The oxidation state of the metal also affects the acid/base character of its oxide. The acidity increases with increasing oxidation state (e.g. the acidity of MnO < Mn
+2O3 < MnO2 < Mn2O7).
+1.5 THE POSITION OF HYDROGEN
+Both hydrogen and alkali metals have a strong tendency to combine with electronegative elements such as halogens. Similar to alkali metals hydrogen also forms ionic compounds, which dissociate in water. However, hydrogen is also markedly different from alkali metals. For example, hydrogen is a non-metal in true sense. It does not lose electron as easily as most of the alkali metals do. Unlike alkali metals molecular hydrogen exists in open atmosphere.
+Hydrogen resembles halogens in certain respects and can be placed at the 
+top of VIIA group in the periodic table. Hydrogen is a gas like most of the halogens and is stable in diatomic form such as F
+2, Cl2  and Br2. As required by 
+halogens, hydrogen also needs one electron to complete its outermost shell. By accepting one electron hydrogen forms H
+- (Hydride ion) similar to F- , Cl- and Br-. 
+Both hydrogen and halogens form stable ionic compounds with alkali metals. However, hydrogen differs from halogens as well. By losing its only electron, hydrogen forms H
++ but halogens do not form positive ions. Combining with 
+oxygen, hydrogen forms very stable oxides while halogens lack this property.Although, it is not a metal but in most of the modern versions of periodic table, 
+hydrogen is placed at the top of the group IA. This is because of the fact that some of the properties of hydrogen resemble with those of alkali metals. Like alkali metals hydrogen atom has one electron in Is sub-shell, which it can lose to form H
++ .25
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabHydrogen also shows marked differences with carbon and rest of the group
+members. For example, carbon and silicon form long chain compounds, whentheir atoms combine with each other, while hydrogen do not form such compounds. Similarly, carbon can simultaneously form bonds with more than one elements, whereas hydrogen due to having only one electron can combine with only one element at a time. CuO (s) +     H2O (l)                     Cu (s)            +  H2O (l)  →
+SnO2 (s) +     C (s)                         Sn (s)            +     CO2 (g) →Some of the characteristic properties of hydrogen also resemble with those of group IVA elements such as C and Si, etc. For example, valence shell of 
+hydrogen is half filled like those of group IVA  elements. Both, hydrogen and 
+group IV elements combine with other elements through covalent bonding. Like carbon, hydrogen also possesses remarkable reducing properties. 
+Some of the properties of hydrogen are similar to those of the elements of certain groups, as discussed above, but this is a fact that hydrogen is a unique element whose properties do not match exactly with any of the groups in the periodic table. However, due to partial resemblance in properties with alkali metals and monovalent nature, hydrogen is usually placed at the top of elements in group IA.26
+1. Periodic Classification of Elements and Periodicity eLearn.Punjab18.   There are three types of hydrides formed by the elements of periodic table:
+         ionic, intermediate and covalent.19.   Highly polar hydrides show hydrogen bonding in them.20.    Oxides may be divided on the basis of their acidic, basic or amphoteric character.Key Points
+1. A lthough a number of chemists attempted to classify the elements but Dmitri Mendeleev 
+gave the most useful and comprehensive classification.
+2.
+ I
+n Mendeleev’s periodic table the elements were arranged according to the ascending 
+order of their atomic masses.
+3.
+ T
+he modern periodic law states “if the elements are arranged in ascending order of their 
+atomic numbers, their chemical properties repeat in a periodic manner. ”
+4.
+ I
+n modern periodic table elements with similar properties are placed in eight vertical 
+columns called groups. Each group is divided into two subgroups A and B. Normal or typical 
+elements are placed in subgroups A and transition elements are placed in subgroups B.
+5.
+ T
+he seven horizontal rows of the periodic table are called “periods” . 
+6.
+ M
+etals of subgroups IA and IIA are called Alkali metals and Alkaline-earth metals, 
+respectively. Members of subgroup VIIA are called halogens.
+7.
+ D
+ue to their less reactivity the elements shown in subgroup VIII A are called noble gases.
+8.
+ Elemen
+ts of periodic table can also be classified into s-block, p-block, d-block and f-block 
+elements depending upon the valence orbital which is in the process of completion.
+9.
+ Elemen
+ts of periodic table can also be divided into metals, non-metals and metalloids 
+depending upon their properties.
+10.
+ A
+tomic radii increase from top to bottom in a group and decrease along a period.
+11.
+ P
+ositive ions are always smaller than their parent atoms while the negative ions  are 
+usually larger than the atoms from which they are formed.
+12.
+ Ioniza
+tion energies increase along a period and decrease down the group.
+13.
+ Elec
+tron affinities generally increase with increasing atomic number within a period   
+and decrease  from lighter to heavier elements in a given group.
+14.
+ M
+etallic character of elements increases down the group and decreases along a period.
+15.
+ T
+he oxidation state of a typical element is directly or indirectly related to the group 
+number to which the element belongs in the periodic table.
+16.
+ T
+he electrical conductance of an element depends upon the number of free or moveable   
+electrons. 
+17.
+ T
+here are three types of halides: ionic, polymeric and covalent. Halides of group   IA 
+are ionic in nature, have three dimensional lattices with high melting and boiling points.27
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabEXERCISE
+Q1. Fill in the blanks
+(i)   Mendeleev in his periodic table, arranged the elements according to their 
+      atomic____________.      (ii) Vertical columns in modern periodic table are called_________and horizontal rows      are called_______.(iii) Members of group VIlA are called _______ and alkali metals is the family name of________     group members.(iv) Metals form___________ oxides and non-metals form_________ oxides.(v) Hydrogen can be placed above the groups_______ of the periodic table.(vi) Shielding effect is actually the_______________ due to electrons in between the      nucleus and the outermost shell.   (vii) Noble gases have the____________ values of ionization energy due to their complete       outermost shells.(viii) When a second electron is added to a uni-negative ion, the incoming electron is        __________ by the already present negative charge.(ix) Due to having partly filled d-orbitals _____________metals usually show variable      valency.(x) Melting and boiling points of halogens_________down the group.
+Q2. Indicate True or False 
+(i) In Mendeleev’s periodic table elements Be, Mg, Zn and Cd are placed in the same group. (ii) The second and third periods contain eighteen elements each. (iii) Alkaline earth metals are present in Group IIA. (iv) Metals are present in the top right corner of the periodic table. (v) Metalloids are present in the lower half of Groups IVA, VA and VIA21.   Metallic oxides are basic in character, non-metallic oxides are acidic in character 
+        and oxides of less electropositive elements like Zn and Pb are amphoteric.         22.   Hydrogen is unique element of the periodic table. Due to similarities in        properties it can be placed at the top of group IA or IVA or VIIA.
+ (vi) Hydrogen forms uninegative ion like halogens. (vii) Oxidation state of an element is related to the number of period it belongs. (viii) Diamond is a good conductor of electricity. (ix) Melting points of halogens decrease down the group. (x) Zinc oxide is an example of amphoteric oxide.28
+1. Periodic Classification of Elements and Periodicity eLearn.PunjabQ 9. Why the second value of electron affinity of an element is usually shown with a 
+positive sign?Q10. Why metallic character increases from top to bottom in a group of metals?Q11. Explain the variation in melting points along the short periods.Q12. Why the oxidation state of noble gases is usually zero?Q13. Why diamond is a non-conductor and graphite is fairly a good conductor?Q14. Give brief reason for the following.          a)  d and f-Block elements are called transition elements.           b)      Lanthanide contraction controls the atomic sizes of elements of 6th and                    7th periods.          c)   The melting and boiling points of the elements increase from left to the                   right upto the middle of s- and p-block elements and decrease onward.         d)      The oxidation states vary in a period but remain almost constant in a group.          e)      The hydration energies of the ions are in the following order:                   Al
+3+> Mg2+ > Na+
+          f)       Ionic character of halides decreases from left to the right in a period.          g)      Alkali metals give ionic hydrides.            h)      Although both sodium and phosphorus are present in the same period                       of the periodic table yet their oxides are different in nature, Na
+2O is basic
+                  while P2O5 is acidic in character.Q 4. What are the improvements made in the Mendeleev's periodic table ?Q 5. How the classification of elements in different blocks helps in understanding theirchemistry?Q 6. How do you justify the position of hydrogen at the top of various groups?Q 7. Why the ionic radii of negative ions are larger than the size of their parent atoms?Q 8. Why ionization energy decreases down the group and increases along a period?

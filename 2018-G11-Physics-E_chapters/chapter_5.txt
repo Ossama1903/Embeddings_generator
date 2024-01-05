@@ -1,0 +1,1321 @@
+
+Chapter 5
+CIRCULAR MOTION
+Learning Objectives
+At the end of this chapter the students will be able to:
+1
+Describe angular motion.
+7
+Define angular displacement, angular velocity and angular acceleration.
+3
+Define radian and convert an angle from radian measure to degree and vice versa.
+4
+Use the equation S=rhand v=rm.
+S
+Describe qualitatively motion in a curved path due to a perpendicular force and
+understand the centripetal acceleration in case of uniform motion in a circle.
+0
+Derive the equation ac = nu = in and Fg = moi r= mv%
+7
+Understand and describe moment of inertia of 8 body.
+8
+Understand the concept of angular momentum.
+o
+Describe examples of conservation of angular momentum.
+10.
+Understand and express rotational kinetic enelgy of a disc and hoop on an
+inclined plane.
+11
+Describe the motion of artificial safellites.
+12.
+Understand that the objects in satellites appear to be weightless.
+15.
+Understand that how and why artificial gravity is produced.
+16.
+Calculate the radius of geo-stationary orbits and orbital velocity of satellites.
+15.
+Describe Newton's and Einstein's views of gravitation,
+W
+have studied velocity, acceleration and the laws of motion, mostly as they are
+involved in rectilinear motion. However, many objects move in circular paths and their
+direction is continually changing. Since velocity is a vector quantity, this change of direction
+means that their velocities are not constant. Astone whired around by a string, a car turning
+around a corner and satellites in orbits around the Earth are all examples of this kind of
+motion.
+99
+---
+
+In this chapter we will study, circular motion, rotational
+P
+motion, moment of inertia, angular momentum and the
+related topics.
+5.1 ANGULAR DISPLACEMENT
+Consider the motion of a single particle P of mass m in B
+circular path of radius 6 Suppose this motion is taking place
+by attaching the particle P at the end of a massless rigid rod
+of length , whose other end is pivoted at the centre o of the
+circular path, as shown in Fig. 5.1 (a). As the particle is
+E
+moving on the circular path, the rod OP rotates in the plane
+of the circle. The axis of rotation passes through the pivot o
+and is normal to the plane of rotation. Consider a system of
+axes as shown in Fig. 5.1 (b). The z-axis is taken along the
+o
+A
+y
+axis of rotation with the pivot o as origin of coordinates
+Axes x and y are taken in the plane of rotation. While OP is
+rotating, suppose at any instant I. its position is OP making
+M
+angle 0 with x-axis. At later time 1 * M. let its position be
+OP, making angle 0+ All with x-axis (Fig. 5.1c).
+y
+Angle All defines the angular displacement
+P,
+of OP during the time Interval At
+5F
+For very small values of M. the angular
+displacement is a voctor quantity
+The angular displacement AB is assigned a positive sign
+when the sense of rotation of OP is counter clock wise.
+Fig. and
+The direction associated with AB is along the axis of
+rotation and is given by right hand rule which states that
+Grasp the axis of rotation in right hand with
+P
+fingers curling in the direction of rotation;
+the thumb points in the direction of angular
+displacement, as shown in Fig 5.1 (d).
+Three units are generally used to express angular
+displacement, namely degrees, revolution and radian. We
+lig 5.1jd)
+100
+---
+
+are already familiar with the first two As regards radian
+which is Si unit, consider an are of length S of a circle of
+radius r (Fig 5.2) which subtends en angle If at the centre
+of the circle. Its value in radians (red) is given as
+e =
+arclength
+rad
+radius
+P,
+S
+II
+rad
+or
+(where 8 is in radian)
+A
+P
+S = rf
+(5,1)
+If OP is rotating, the point P covers a distance 5 - 2 or in
+one revolution of P. In radian it would be
+5-24=2n
+Fig 1.2
+So
+1 revolution = 2 rad=360"
+Or
+1 rad B 360 5 57.3°
+5.2 ANGULAR VELOCITY
+Very often we are interested in knowing how fast or how
+slow a body is rotating, If is determined by its angular
+velocity which is defined as the rate at which the angular
+displacement la changing with time Referring to Fig. 5.1(c).
+if All is the angular displacement during the time
+interval of the average angular velocity Ow during this
+interval is given by
+-
+**********
+(5.2)
+At
+The instantaneous angular velocity to is the limit of the
+ratio ARIM as At following instant f, approaches to zero.
+Thus
+AD
+(5.3)
+adidas
+In the limit when of approaches zero, the angular
+displacement would be infinitesimally small, So it would be a.
+vector quantity and the angular velocity as defined by
+101
+---
+
+Eq.5.3 would also be a vector, Its direction is along the axis
+of rotation and is given by right hand rule as described earlier.
+Angular velocity is measured in radians per second which is
+its Si unit Sometimes If is also given in terms of revolution
+per minute.
+5.3 ANGULAR ACCELERATION
+When we switch on an electric fan, we notice that its
+angular velocity goes on increasing We say that it has an
+angular acceleration. We define angular acceleration as
+the rate of change of angular velocity, If and (1) are the
+values of instantaneous velocity of a rotating body at
+Instants i, and is the average angular acceleration during
+the interval 6 - 4 is given by
+= Ara
+(5.4)
+r
+i,
+At
+The instantaneous angular acceleration is the limit of the
+Am
+ratio
+as At approaches zero. Therefore, instantaneous
+angular acceleration is given by
+Ave
+Lim
+(5.5)
+M
+The angular acceleration is also a vector quantity whose
+5
+magnitude is given by Eq. 5.5 and whose direction is along
+the axis of rotation. Angular acceleration is expressed in
+units of rad s:
+Till now we have been considering the motion of a particle
+P on a circular path. The point P was fixed at the end of a
+rotating massless rigid rod. Now we consider the rotation
+Fly 5.1
+of a rigid body as shown in Fig. 5.3. Imagine a point P on
+the rigid body Line OP is the perpendicular dropped from
+P on the axis of rotation. It is usually referred as reference
+line. As the body rotates, line OP also rotates with it with
+the same angular velocity and angular acceleration. Thus
+the rotation of a rigid body can be described by the rotation
+of the reference line OP and all the terms that we defined
+with the help of rotating line OP are also valid for the
+rotational motion of a rigid body. In future while dealing
+102
+---
+
+with rotation of rigid body, we will replace it by its reference
+line OP.
+5.4 RELATION BETWEEN ANGULAR
+AND LINEAR VELOCITIES
+Consider a rigid body rotating about z-axis with an angular
+i
+velocity m as shown in Fig. 5.4 (a).
+C
+5"
+Imagine a point P in the rigid body at a perpendicular
+distance r from the axis of rotation. OP represents the
+o
+reference line of the rigid body, As the body rotates, the
+point P moves along a circle of radius / with a linear
+velocity y whereas the line OP rotates with angular velocity
+in as shown in Fig. 5,4 (b) We are interested in finding out
+to 14th
+the relation between U and v. As the axis of rotation is
+fixed, so the direction of to always remains the same and
+a can be manipulated as a scalar. As regards the linear
+velocity of the point P we consider its magnitude only
+which can also be treated as a scalar,
+Suppose during the course of its motion. the point P moves
+through a distance P,P, = is in a time interval at during
+which reference line OP has an angular displacement se
+radian during this interval. M and AO are related by Eq. 5.1.
+AS= CAll
+Dividing both sides by of
+AS AO
+(5.6)
+Ar or
+III
+In the limit when At
+0 the ratio ASIM represents VC the
+11
+magnitude of the velocity with which point P is moving on
+the circumfarence of the circle. Similarly ABIM represents
+the angular velocity ID of the reference line OP. So
+equation 5.6 becomes
+Y
+V= re
+(5.7)
+Rd
+In Fig 5,4 (b), it can be seen that the point P is moving
+Fig $480
+along the are PP. In the limit when At D, the length of
+arc P,P: becomes very small and its direction represents
+the direction of tangent to the circle at point P. Thus the
+velocity with which point P is moving on the circumférence
+103
+---
+
+of the circle has a magnitude y and its direction is always along
+the tangent to the circle at that point. That is why the linear
+velocity of the point P is also known as tangential velocity.
+Point to Ponder
+Similarly Eq 5.7 shows that if the reference line OP is
+rotating with an angular acceleration a the point P will also
+have a linear or tangential acceleration in. Using Eq 5.7 it
+can be shown that the two accelerations are related by
+a,=70
+(5.6)
+Eqs 5.7 and 5.8 show that on a rotating body, points that
+are at different distances from the axis do not have the
+same speed or acceleration, but all points on a rigid body
+You may foel scored gl the top of
+rotating about a fixed axis do have the same angular
+roller coaster ride in the
+annuament pana but you novel
+displacement, angular speed and angular acceleration at
+fail down even when you are
+any instant. Thus by the use of angular variables we can
+upside row Why?
+describe the motion of the entire body in a simple way.
+Equations Of Angular Motion
+The equations (5.2, 5.3, 5.4 and 5.5) of angular motion are
+exactly analogous to those in linear motion except that 0,
+to and a have replaced S V and a, respectively. As the
+other equations of linear motion were obtained by
+algebraic manipulation of these equations, it follows that
+analogous equations will also apply to angular motion.
+Given below are angular equations together with their
+linear counterparts.
+Linear
+Angular
+(5.9)
+Do You Know?
+2aS=
+(5.10)
+(5.11)
+The angular equations 5.9 to 5.11 hold true only in the
+case when the axis of rotation is fixed, so that all the
+angular vectors have the same direction. Hence they can
+and
+be manipulated as scalars.
+As the whool turns through an
+ongen it loya out ii targential
+distance Sera
+Example 5.1: An electric fan rotating at 3 rev s' is
+switched off. 11 comes to rest in 18.0 5. Assuming
+deceleration to be uniform, find its value. How many
+revolutions did it turn before coming to rest?
+104
+---
+
+Solution: In this problem we have
+in
+.
+3.0
+rev
+s4
+the
+0
+18.0g
+and
+di
+=
+7
+0=7
+Do You Know?
+From Eq. 5,4 we have
+- (0-30)revs = 0.167 rev e2
+r
+180s
+and from Eq 5.11. WE have
+for
+= 3.0 rev s x 52) X (18.0 s)? = 27 nov
+Direction of motion changes
+continuously in circular matters
+5.5 CENTRIPETAL FORCE
+The motion of a particle which is constrained to move in 8
+circular path is quite interesting. It has direct bearing on the
+motion of such things as artificial and natural satellites,
+nuclear particles in accelerators, bodies whirling at the
+ends of the strings and flywheels spinning on the shafts,
+F
+We all know that a ball whirled in a horizontal circle at the
+end of a string would not continue in a circular path if the
+string is snapped, Caraful observation shows at once that
+if the string snaps, when the ball is at the point A, in
+Fig. 5.5 (b), the ball will follow the straight line path AB.
+The fact is that unless a string or some other mechanism
+Flg 5.5(a)
+pulls the ball towards the centre of the circle with a force,
+as shown in Fig. 5.5 (a), ball will not continue along the
+circular path.
+B
+The force needed to bend the normally
+straight path of the particle into a circular
+F
+path is called the centripetal force.
+If the particle moves from A to B with uniform speed y as
+A
+shown in Fig. 5.6 (a), the velocity of the particle changes its
+direction but not its magnitude The change in velocity is
+shownin Fig. 5.6 (b). Hence, the acceleration of the particle is
+Fis 5501
+LOS
+---
+
+where M is the time taken by the particle to travel from A to
+8. Suppose the velocities at A and B are V1 and V.
+respectively Since the speed of the particle is V. so the time
+taken to travel a distance S. as shown in Fig 5.6 (a) is
+⑈1
+At = S
+o
+8
+Zv
+so
+(5.12)
+S
+A
+Let us now draw a triangle POR such that PO is parallel
+and equal to V1 and PR is parallel and equal to Mr. as
+fig 5/6(a)
+shown in Fig. 5.6 (b). We know that the radius of a circle is
+perpendicular to its tangent, so OA is perpencicular to Vi
+and OB is perpendicular to v (Fig. 5.6 a). Therefore, angle
+AOB equals the angle QPR between VI and Vs. Further, as
+V1 = V2 = V and OA = OB, both triangles are isosceles.
+R
+From geometry, we know "two isosceles triangles are
+&
+similar, if the angles between their equal arms are equal".
+o
+V,
+Hence, the triangle OAB of Fig. 5.6 (a) is similar to the
+triangle POR of Fig. 5.6 (b). Hence, we can write
+v.
+P
+de
+AB
+Fis state
+y
+F
+If the point B is close to the point A on the circle, as will be the
+case when AT 0, the are AB is of nearly the same length as
+the line AB. To that approximation, we can write AB = S. and
+after substituting and rearranging terms, we have,
+Av-SY
+Tid-bits
+Putting this value for by in the Eq. 5.12. we get
+(5.13)
+where a is the instantaneous acceleration. As this
+Dankend tracks HIII needed for
+turna that are taken so quickly that
+acceleration is caused by the centripetal force, it is called the
+frictión alone controc provide
+centripetal acceleration denoted by B. This acceleration is
+energy for camnpebal hare
+directed along the radius towards the centre of the circle. In
+Fig. 5.6 (a) and (b), since PQ is perpendicular to OA and PR
+is perpendicular to OB, so QR is perpendicular to AB. It may
+be noted that OR is parallel to the perpendicular bisector of
+AB. As the acceleration of the object moving in the circle is
+106
+---
+
+parallel to AV when AB 0, so centripetal acceleration is
+directed along radius towards the contro of the circle. It can.
+therefore, be concluded that
+Do You Know?
+The Instantaneous acceleration of an object
+travelling with uniform speed in a circle in
+directed towards the centre of the circle and
+is called centripetal acceleration.
+The centripetal force has the same direction as the
+centripetal acceleration and its value is given by
+Fe = mag = my
+(5.14)
+In angular measure, this equation becomes
+F, = mrw
+(5,15)
+Example 5.2: A 1000 kg car is turning round a corner at
+Curved light at high speed
+10 MG GS it travels along an are of a circle. If the radius of
+requires D large contripotal tupe
+that mikes the stum dangerous
+the circular path is 10 m. how large B force must be
+even if the ar planes - not 10
+exerted by the pavement on the tyres to hold the car in the
+close,
+circular path?
+Solution: The force required is the centripetal force.
+So
+F
+-
+my? - 1000 kg x100m's? 1.0x10*kgms =1.0x10°N
+/
+10m
+This force must be supplied by the frictional force of the
+pavement on the wheels.
+V
+A
+Example 5.3: A ball lied to the end of a string, is swung
+in a vertical circle of radius P under the action of gravity as
+W
+shown in Fig. 5.7. What will be the tension in the string
+T
+when the ball is at the point A of the path and its speed 3 V
+at this point?
+Solution: For the ball to travel in a circle, the force
+acting on the ball must provide the required centripotal
+force. In this case, at point A, two forces act on the ball, the
+Flo E
+pull of the string and the weight W of the ball. These forces
+act along the radius at A and so their vector sum must
+furnish the required centripetal force. We, therefore, have
+107
+---
+
+as W= mg
+my
+T
+mg
+⑉
+m
+to
+If
+then T will be zero and the centripetal force is
+just equal to the weight
+IF
+5.6 MOMENT OF INERTIA
+0
+Consider a mass m attached to the end of a massless rod
+as shown in Fig. 5.8. Let us assume that the bearing at the
+pivot point o is frictionless. Let the system be in à horizontal
+plane. A force F is acting on the mass perpendicularto the rod
+and hence. this will accelerate the mass according to
+Fly 58
+The force Ecauses a torque about
+F=ma
+the axis o and gives the mass m
+an ungular acceleration about the
+photosint.
+in doing so the force will cause the mass to rotate about O.
+Since tangential acceleration a is related to angular
+acceleration of by the equation.
+are
+so,
+F=mra
+Do You Know?
+As turning effect is produced by torque I, it would,
+therefore, be better to write the equation for rotation in
+terms of torque, This can be done by multiplying both sides
+of the above equation by & Thus
+which is rotational analogue of the Newton's second law of
+motion, F = ma.
+Tab cylinders of equal miss. The
+Here F is replaced by T, a by and m by mr'. The quantity
+one with the larger dameter hes
+the rotational inema
+mr2 is known as the moment of inertia and is represented by
+I. The moment of inertia plays the same role in angular
+motion as the mass in linear motion. If may be noted that
+moment of Inertia depends not only on mass m but also on r'
+108
+---
+
+Most rigid bodies have different mass concentration at
+different distances from the axis of rotation, which means
+the mass distribution is not uniform. As shown in Fig. 5.9(a).
+the rigid body is made up of n small pieces of masses
+For Your Information
+Momento of Inertu of various
+bodies
+A
+m
+(#)
+my
+5
+5
+L
+Al
+an
+Thin Rod
+4
+mg
+4
+o
+1-1 at
+(a)
+(b)
+A
+(0)
+r
+Fig. 5.9
+Each small piece of mass within a large, rigid body undergoes
+x
+the same angular acceleration about the pivot point
+Thin ring or Hoop
+lew
+Mams.... m. at distances for facts in from the axis of rotation O.
+A
+Let the body be rotating with the angular acceleration a
+E
+so the magnitude of the torque acting on m. is
+(in
+x
+Solid disc or cylinder
+Similarly, the torque on Ma is
+11-
+A
+and so on
+Since the body is rigid, so all the masses are rotating with
+(d)
+2r
+the same angular asceleration a
+A
+Total torque Total is then given by
+Sphere,
+1.1-
+=(2mg)
+109
+---
+
+or
+T=/o
+(5,16)
+where I is the moment of inertis of the body and is
+expressed as
+1=2m o
+(5.17)
+5.7 ANGULAR MOMENTUM
+We have already seen that linear momentum plays an
+important role in translational motion of bodies. Similarly,
+another quantity known as angular momentum has
+important role in the study of rotational motion.
+p
+A particle is said to posses an angular
+momentum about a reference axis if it
+o
+M
+so moves that its angular position
+changes relative to that reference axis.
+Fig. LIFE
+The angular momentum L of a particle of mass m moving
+with velocity W and momentum P (Fig. 5.10) relative to the
+origin o is defined as
+L=rxp
+(5,18)
+where r is the position vector of the particle at that instant
+For Your Information
+relative to the origin o Angular momentum is a vector
+quantity. Its magnitude is
+L
+L
+=
+L
+where 0 is the angle between r and p. The direction of L is
+perpendicular to the plane formed by r and P and its sense
+is given by the right hand rule of vector product. SI unit of
+angular momentum is kg m2 or J s.
+(i)
+(E)
+If the particle is moving in a circle of radius / with uniform
+angular velocity a then angle between / and tangential
+The upbers IT (A) IN rotating in the
+sense given by the gold arrow. its
+velocity is 90°. Hence
+angular velocity and angúlar
+momentum are taken to be
+L = my sin 90° = mn
+upward along the rotational ads,
+as shown by the right-hand rule
+But
+= Fill
+indt).
+110
+---
+
+Hence
+L=mru
+Now consider a symmetric rigid body rotating about a fixed
+or
+axis through the centre of mass as shown in Fig 5.11.
+Each particle of the rigid body rotates about the same axis
+in a circle with an angular velocity 00 The magnitude of the
+angular momentum of the particle of mass m la mvil
+about the origin o. The direction of L2 is the same as that
+of to, Since 6 = / 01, the angular momentum of the ith
+particle is mugtro Summing this over all particles gives the
+total angular momentum of the rigid body.
+Fis 5.11
+Where / is the moment of inertia of the rigid body about the
+axis of rotation.
+Physicists usually make a distinction between spin angular
+A'
+momentum (La) and orbital angular momentum (b.o.)
+The spin angular momentum is the angular momentum of
+a spinning body, while orbital angular momentum is
+associated with the motion of a body along a circular path.
+The difference is illustrated in Fig. 5.12. in the usual
+circumstances concerning orbital angular momentum, the
+orbital radius is large as compared to the size of the body.
+hence, the body may be considered to be a point object.
+Example 5.4: The mass of Earth is 6.00 X 10 kg. The
+distance F from Earth to the Sun is 1,50 x 10" m. As seen
+in
+from the direction of the North Star, the Earth revolves
+counter-clockwise around the Sun. Determine the orbital
+angular momentum of the Earth about the Sun, assuming
+that it traverses a circular orbit about the Sun once a year
+(3.16 x10's)
+Solution: To find the Earth's orbital angular momentum
+we must first know its orbital speed from the given data.
+When the Earth moves around a circle of radius G it travels
+o
+o distance of 2nr in one year, its orbital speed Va is thus
+ii
+2
+Fili 8.12
+Orbital angular momentum of the Earth
+-
+4
+mar
+111
+---
+
+2nrm
+T
+2n(1.50x10)
+3.16x10's
+The sign is positive because the revolution is counter
+clockwise.
+5.8 LAW OF CONSERVATION OF
+ANGULAR MOMENTUM
+The law of conservation of angular momentum states that
+if no external torque acts on a system, the total angular
+momentum of the system remains constant,
+Fig. 513
+Lau -Li+4 + constant
+Aman diving from a diving brant
+The law of conservation of angular momentum is one of
+the fundamental principles of Physics. It has been verified
+from the cosmological to the submicroscopic level. The
+effect of the law of conservation of angular momentum is
+readily apparent if a single isolated spinning body alters its
+moment of inertia. This is illustrated by the diver in
+Fig.513 The diver pushes off the board with a small angular
+Point to Ponder
+velocity about a horizontal axis through his centre of
+gravity. Upon lifting all from the board, the diver's legs
+and arms are fully extended which means that the diver
+has a large moment of inertia la about this axis. The
+moment of inertia is considerably reduced to a new value
+is when the legs end arms are drawn into the closed tuck
+position. As the angular momentum is conserved, so
+40,
+Hence, the diver must spin faster when moment of inertia
+becomes smaller to conserve angular momentum. This
+enables the diver to take extra somersaults.
+The angular momentum is a voctor quantity with direction
+Why does the coasting rotating
+along the axis of rotation. In the above example, we
+system slow down as water drice
+into the beaker?
+discussed the conservation of magnitude of angular
+momentum. The direction of angular momentum along the
+112
+---
+
+axis of rotation also remain fixed. This is illustrated by the
+fact given below
+Do You Know?
+The axis of rotation of an object will not change
+its orientation unless an external torque causes
+The law of consorvation of angular
+momentum in reported in many
+it to do BO.
+participity in dring.
+gymnastics and ice iskating
+This fact is of great importance for the Earth as it moves
+around the Sun. No other sizeable torque is experienced by
+the Earth, because the major force acting on it is the pull of
+the Sun. The Earth's axis of rotation, therefore, remains fixed
+in one direction with reference to the universe around us.
+A
+5.9 ROTATIONAL KINETIC ENERGY
+Sa
+If a body is spinning about an axis with constant angular
+velocity Ea each point of the body is moving in a circular
+path and, therefore, has some K.E. To determine the total
+MM
+K.E. of a spinning body, we imagine it to be composed
+of tiny pieces of mass my mg If a piece of mass m is
+at a distance 6 from the axis of rotation. as shown in
+Fig. 5.14. it is moving in a circle with speed
+A
+w=6m
+Fis-1.14
+Thus the K.E of this piece is
+Interestimo information
+1 mm
+in
+1
+kinetic energies of all the parts. So we have
+4
+0.0
+OR
+in
+The rotational KE of the whole body is the sum of the
+4
+(a)
+)
+) in
+a
+We at once recognize that the quantity within the brackets
+is the moment of inertia / of the body, Hence, rotational
+(b)
+Icinetic energy is given by
+Rosational the clutch
+113
+---
+
+Where y is the orbital velocity and R is the radius of the
+Earth (6400 km). From Eq. 5.25 we get,
+V= gR
+= x6.4x10° E
+=7.9kms"
+This is the minimum velocity necessary to put a satellite
+earl:
+into the orbit and is called critical velocity. The period T is
+given by
+lum
+Tuzuk=2x3.14x
+5060s 84 min approx.
+Form
+If, however, a satellite in a circular orbit is at an appreciable
+distance h above the Earth's surface, we must take into
+account the experimental fact that the gravitational
+acceleration decreases inversely as the square of the
+distance from the centre of the Earth (Fig. 5.16).
+The higher the satellite, the slower will the required speed
+and longer it will take to complete one revolution around
+the Earth.
+Close orbiting satellites orbit the Earth at a height of about
+400 km. Twenty four such satellites form the Global
+Positioning System. An airline pilot, sailor or any other person
+can now use a pocket size instrument or mobile phone to find
+his position on the Earth's surface to within 10m accuracy,
+5.11 REAL AND APPARENT WEIGHT
+Tidbits
+We often hear that objects appear to be weightless in a
+The moment you switch on your
+spaceship circling round the Earth. In order to examine the
+mobile phone, your location can be
+tracked immediately by global
+effect in some detail, let us first define, what do we mean
+positioning system
+by the weight? The real weight of an object is the
+gravitational pull of the Earth on the object. Similarly the
+weight of an object on the surface of the Moon is taken to
+be the gravitational pull of the Moon on the object.
+Generally the weight of an object is measured by a spring
+balance. The force exerted by the object on the scale is
+116
+---
+
+equal to the pull due to gravity on the object, i.e., the
+weight of the object, This is not always true, as will be
+explained a little later, so we call the reading of the scale
+as apparent weight
+To illustrate this point, lot US consider the apparent weight
+of an object of mass m, suspended by a string and spring
+balance, in a lift as shown in Fig. 5.17 (a), When the lift is
+at rest, Newton's second law tells us that the acceleration
+of the object is zero, the resultant force on it is also zero. If
+W is the gravitational force acting on it and T is the tension
+in the string then we have,
+m
+T-w=ma
+As
+a=0
+hence,
+T=W
+(5.26)
+(a)
+This situation will remain so long as a = 0. The scale thus
+shows the real weight of the object. The weight of the
+at not
+object seems to a person in the in to vary, depending on
+140
+its motion.
+T-#
+Fig. 5.17(0)
+When the lift is moving upwards with an acceleration a,
+then
+T-w=ma
+or
+T=w+ma
+(5.27)
+the object will then weigh more than its real weight by an
+amount ma:
+Now suppose, the lift and hence, the object is moving
+(If
+downwards with an acceleration a (Fig. 5.17 b). then we
+have
+w-T=ma
+which shows that
+(ii)
+T=w-7 - ma
+..........
+(5.28)
+acceleration downward
+The tension in the string, which is the scale reading, is
+TER-me
+less than W by an amount mar. To a person in the
+Flo 5/17th
+accelerating lift, the object appears to weigh less than W.
+Its apparent weight is then [w - ma).
+117
+---
+
+Let us now consider that the lift is falling freely under
+gravity, Then a "g. and hence,
+T=w-mg
+As the weight W of the body is equal to mg so
+Do You Know
+T=mg-mg=
+Your appeyard weight differs from
+The apparent weight of the object will be shown by the
+your the weight when the valocity
+scale to be zero,
+of the elevator changes ml the start
+and and of a ride, not during the
+It is understood from these considerations that apparent
+rest of the rule when that velocity is
+constant.
+weight of the object is not equal to its true weight in an
+accelerating system. It is equal and opposite to the force
+required to stop it from falling in that frame of reference.
+5,12 WEIGHTLESSNESS IN SATELLITES
+AND GRAVITY FREE SYSTEM
+When a satellite is falling freely in space, everything within
+this freely falling system will appear to be weightless. it does
+not matter where the object is, whether it is falling under the
+force of attraction of the Earth, the Sun, or some distant star.
+An Earth's satellite is freely falling object The statement
+may be surprising at first, but it is easily seen to be correct.
+Consider the behaviour of a projectile shot parallel to the
+horizontal surface of the Earth in the absence of air friction.
+Lane
+If the projectile is thrown at successively larger speeds,
+spid
+then during its free fall to the Earth, the curvature of the
+path decreases with increasing horizontal speeds. If the
+object is thrown fast enough parallel to the Earth, the
+curvature of ils path will match the curvature of the Earth
+as shown in Fig. 5.18. In this case the space ship will
+simply circle round the Earth.
+The space ship is accelerating towards the centre of the
+Earth at all times since it circles round the Earth its radial
+acceleration is simply g. the free fall acceleration. In fact.
+Pip 5.18
+the space ship is failing towards the centre of the Earth at
+all the times but due to spherical shape of the Earth, 4
+never strikes the surface of the Earth. Since the space
+ship is in free fall, all the objects within it appear to be
+weightless. Thus no force is required to hold an object
+falling in the frame of reference of the space craft or
+satellite Such a system is called gravity free system.
+118
+---
+
+5.13 ORBITAL VELOCITY
+The Earth and some other planets revolve round the Sun
+in nearly circular paths. The artificial safellites launched by
+men also adopt nearly circular course around the Earth.
+This type of motion is called orbital motion
+Fig. 5.19 shows a satellite going round the Earth in a
+tv
+circular path. The mass of the satellite is mg and M is its
+orbital speed. The mass of the Earth is M and represents
+the radius of the orbit A centripetal force marin is required
+saledru
+to hold the sateliie in orbit. This force is provided by the
+gravitational force of attraction between the Earth and the
+Earth
+satellite. Equating the gravitational force to the required
+centripetal force, gives
+Gm.M m,v
+⑇
+r
+Fig sets
+GM
+or
+VII
+(5.29)
+r
+This shows that the mass of the satellile is unimportant in
+Tid-bits
+describing the satellite's orbit. Thus any satellite orbiting at
+distance / from Earth's centre must have the orbital speed
+given by Eq. 5.29. Any speed less than this will bring the
+satellite tumbling back to the Earth
+Example 5.6: An Earth satellite is in circular orbit at a
+distance of 384,000 km from the Earth's surface. What is its
+period of one revolution in days? Take mass of the Earth
+M=6.0x10" kg and its radius R = 6400 km.
+Solution:
+As
+r=R+h (6400 384000) = 390400 km
+GM
+6.67x10" Nm2kg x6x10?* NO
+Using
+V -
+F
+390400km
+in 1984 at a height of 100km
+above Hawaii bland with a
+= 1.01 kms
+of 29000km Price McCentless
+stepped 1000 space born a space
+shillie and became the first
+Also
+of Tui Earth.
+2.17
+I
+1 day
+I
+=
+x
+1.01 kma
+60x60x245
+27,5 days
+119
+---
+
+5.14 ARTIFICIAL GRAVITY
+In a gravity free space satellite there will be no force that
+will force any body to any side of the spacecraft. If this
+satellite is to stay in orbit over an extended period of time,
+this weightlessness may affect the performance of the
+astronauts present in that spacecraft To over come this
+difficulty, an artificial gravity is created in the spacecraft
+This could enable the crew of the space ships to function
+in an almost normal manner. For this situation to prevail,
+the space ship is set into rotation around its own axis. The
+Fly 5.20
+astronaut then is pressed towards the outer rim and exerts
+a force on the "floor" of the spaceship in much the same
+way as on the Earth.
+Consider a spacecraft of the shape as shown in Fig. 5.20.
+The outer radius of the spaceship is R and it rotates
+around its own contral axis with angular speed (0). then its
+angular acceleration e. is
+--Run
+But es
+where T is the period of revolution of spaceship
+Hence
+a
+As frequency =1/T, therefore =R42
+Do You Know?
+or
+⑈-4
+or
+1-1-19
+The frequency if is increased to such an extent that do
+equals to g Therefore,
+and
+1-1/20
+(5.30)
+When the space ship rotates with this frequency, the
+artificial gravity like Earth is provided to the inhabitants of
+The surface of the rotating space
+the space ship.
+ship pushes on an object with which
+it le in contact and thereby providion
+5.15 GEOSTATIONARY ORBITS
+the certification force needed to keep
+the object moving on . circular path
+An interesting and useful example of satellite motion is the
+geo-synchronous or geo-stationary satellite. This type of
+sateilite is the one whose orbital motion is synchronized with
+120
+---
+
+the rotation of the Earth. In this way the synchronous
+satelite remains always over the same point on the equator
+as the Earth spins on its axis. Such B satellite is very useful
+for worldwide communication, weather observations.
+navigation, and other military uses.
+What should the orbital radius of such a satellile be so that
+it could stay over the same point on the Earth surface? The
+speed necessary for the circular orbit. given by Eq. 5.29. in
+GM
+V -
+F
+but this speed must be equal to the average speed of the
+satelite in one day, i.e.,
+fall
+where T is the period of revolution of the satellite, that is
+equal to one day, This means that the sateilite must move
+in one complete orbit in a time of exactly one day. As the
+Fig 521
+Earth rotates in one day and the satellite will revolve
+around the Earth in one day, the satellite at A will always
+stay over the same point A on the Earth, as shown in
+Fig. 5.21. Equating the above two equations, we get
+For Your Information
+2nr
+GM
+I
+F
+Squaring both sides
+4th
+GM
+e
+r
+or
+- GM7'
+From this we get the orbital radius
+1
+to (awy)
+(5.31)
+A the
+Substituting the values for the Earth into Eq. 5.31 we get
+Earth price per day the
+equition NO it appears la be
+4.23 X 10° km
+summary, R is used now for
+informational communications
+121
+---
+
+which is the orbital radius measured from the centre of the
+Earth, for a geostationary satellite A satellite at this height
+will always stay directly above a particular point on the
+surface of the Earth This height above the equator comes
+to be 36000 km.
+5.16 COMMUNICATION SATELLITES
+A satellite communication system can be set up by placing
+several geostationary satellites in orbit over different points
+on the surface of the Earth. One such satellite covers 120
+of longitude, so that whole of the populated Earth's surface
+Queen
+can be covered by three correctly positioned satelites BS
+Fig.5.22
+shown in Fig 6.22. Since these geostationary satellites
+seem to hover over one place on the Earth, continuous
+The whole Earth can be covered
+by just three joo-stationary
+communication with any place on the surface of the Earth
+can be made. Microwaves are used because they travel in a
+narrow beam, in B straight line and pass easily through the
+atmosphere of the Earth. The energy needed to amplify and
+retransmit the signals is provided by large solar cell panels
+fitted on the satellites. There are over 200 Earth stations
+which transmit signals to satellites and receive signals via
+satellites from other countries. You can also pick up the
+signal from the satellite using a dish antenna on your house
+The largest satellite system is managed by 126 countries,
+International Telecommunication Satellite Organization
+(INTELSAT) An INTELSAT VI satellite is shown in the
+Fig.5.23. If operates at microwave frequencies of 4, 6,11 and
+14 GHz and has a capacity of 30, 000 two way telephone
+Fig.523
+circuits plus three TV channels.
+Communication statie
+INTELSATVI
+Example 5.7: Radio and TV signals bounce from a
+synchronous satellite. This satellite circles the Earth once in
+24 hours. So if the satallite circles eastward above the
+equator, It stays over the same spot on the Earth because
+the Earth is rotating at the same rate. (a) What is the orbital
+radius for a synchronous satellite? (b) What is its speed?
+Solution:
+Do You Know?
+10rtr if 10° Hz
+GMT
+From Eq 5.31.
+De
+where
+6.67 x 10 N m kg2 M 6.0 x 10 24 kg
+122
+---
+
+and
+= 24 X 60 * 60s.
+Therefore on substitution. we get
+6.67x10 1084 kg x124 # 60 60sl
+a)
+r
+=
+Do You Know?
+4(3.14)
+The gravity can bend light The
+4.23x10m
+gravity of il liter could be used to
+from right fromistics
+2xr
+b)
+Substituting the value of / in equation
+WB get.
+2x(4.23x10/m) kms
+86400s
+5.17 NEWTON'S AND EINSTEIN'S VIEWS
+OF GRAVITATION
+Weight
+According to Newton, the gravitation is the intrinsic
+Fig. 5.24
+property of matter that every particle of matter attracts
+Rubber sheet emalogy for curved
+every other particle with B force that is directly proportional
+spice time,
+to the product of their masses and is inversely proportional
+to the square of the distance between them.
+interesting Information
+According to Einstein's theory, space time is curved
+A
+especially locally near massivo bodies. To visualize this,
+we might think of space BE a thin rubber sheet; if 8 heavy
+weight is hung from it, it curves as shown in Fig 5.24. The
+weight corresponds to a huge mass that causes space
+e
+itself to curve. Thus, in Einstein's theory we do not speak
+of the force of gravity acting on bodies: instead we say that
+-
+bodies and light rays move along geodesics (equivalent to
+straight lines in plane geometry) in curved space time.
+Thus, a body at rest or moving slowly near the great mass
+of Fig. 5.24 would follow a geodesic toward that body
+To Earn
+Einstein's theory gives us a physical picture of how gravity
+works, Newton discovered the inverse square law of gravity;
+Bending of siarlight by the Birt
+but explicitly said that he offered no explanation of why
+Light bom the star A is deferred m
+II passes come to the Sue on Is
+gravity should follow an inverse square law. Einstein's theory
+way ID Earm We Ded the starintie
+also says that gravity follows an inverse square law (except in
+apperent direction n. unified by the
+angles Ehistein predided that
+strong gravitational fields), but it tells us why this should be
+1.745 seconds set angle which
+so. That is why Einstein's theory is better than Newton's
+was found to be the same during
+even though il includes Newton's theory within itself and
+the solar edipse of 1910
+123
+---
+
+gives the same answers BS Newton's theory everywhere
+except where the gravitational field is very strong
+Einstein inferred that if gravitational acceleration and
+inertial acceleration are precisely equivalent, gravity must
+bend light, by a precise amount that could be calculated.
+This was not entirely a startling suggestion: Newton's
+theory, based on the idea of light as a stream of tiny
+particles, also suggested that a light beam would be
+deflected by gravity But in Einstein's theory, the
+deflection of light is predicted to be exactly twice as
+great as it is according to Newton's theory. When the
+bending of starlight caused by the gravity of the Sun
+was measured during a solar eclipse in 1919, and found to
+match Einstein's prediction rather than Newton's, then
+Einstein's theory was hailed as a scientific triumph,
+SUMMARY
+Angular displacement is the anglo subtended at the centre of a circle by a particle
+moving along the circumference in a given time.
+Si unit of angular measurement is radian.
+Angular acceleration is the rate of change of angular velocity.
+Relationship between angular and tangential or linear quantities.
+s=ro
+il
+iii
+dy=ru
+The force needed to move a body around a circular path is called centripetal force
+and is calculated by the expression
+Moment of inertia is the rotational analogue of mass in linear motion. It depends on
+the mass and the distribution of mass from the axis of rotation.
+Angular momentum is the analogue of linear momentum and is defined as the
+product of moment of inertia and angular velocity.
+Total angular momentum of all the bodies in a system remains constant in the
+absence of an external torque.
+Artificial satellites are the objects that orbit around the Earth due to gravity
+Orbital velocity is the tangential velocity to put a satellite in orbit around the Earth.
+Artificial gravity is the gravity like effect produced in an orbiting spaceship to
+overcome weightlessness by spinning the spaceship about its own axis
+Geo-stationary satallité is the one whose orbital motion is synchronized with the
+rotation of the Earth.
+Albert Einstein viewed gravitation as a space-time curvature around an object.
+124
+---
+
+QUESTIONS
+5.1 Explain the difference between tangential velocity and the angular velocity. If one of
+these is given for a wheel of known radius, how will you find the other?
+52 Explain what is meant by centripetal force and why it must be furnished to an object if
+the object is to follow a circular path?
+53 What is meant by moment of inertia? Explain its significance.
+6.4
+What is meant by angular momentum? Explain the law of conservation of angular
+momentum.
+5.5 Show that orbital angular momentum L II mvr.
+5.6 Describe what should be the minimum velocity, for a satellite, to orbit close to the
+Earth around it.
+5.7 State the direction of the following vectors in simple situations: angular momentum
+and engular velocity,
+5,8
+Explain why an object, orbiting the Earth, is said to be freely failing. Use your
+explanation to point out why objects appear weightless under certain circumstances.
+5.9 When mud flies off the tyre of a moving bicycle, in what direction does it fly?
+Explain.
+5.10 A disc and a hoop start moving down from the top of an inclined plane at the same
+time. Which one will be moving faster on reaching the bottom?
+5.11 Why does a diver change his body positions before and after diving in the pool?
+5.12 A student holds two dumb-bells with stretched arms while sitting on a turn table. He
+is given a push until he is rotating at certain angular velocity. The student then pulls the
+dumb-bells towards his chest (Fig. 5.25). What will be the effect on rate of rotation?
+4Pg
+(ii)
+Fis 125
+5.13 Explain how many minimum number of geo-stationary satellites are required for global
+coverage of TV transmission
+125
+---
+
+NUMERICAL PROBLEMS
+5.1 A tiny laser beam is directed from the Earth to the Moon. If the beam is to have a
+diameter of 2.50 m at the Moon, how small must divergence angle be for the
+beam? The distance of Moon from the Earth is 3.8x10°m.
+(Ans. 6.6x10" rad)
+5.2 A gramophone record turntable accelerates from rest to an angular velocity of
+45.0 rev min in 1.60s. What is its average angular acceleration?
+(Ans. 2.95 rad s ²
+5.3 A body of moment of inertia / = 0,80 kg m² about a fixed axis, rotates with a
+constant angular velocity of 100 rad s'1. Calculate its angujar momentum L and the
+torque to sustain this motion.
+(Ans: BD Js. 0)
+5
+5.4 Consider the rotating cylinder shown in Fig. 5.26.
+F
+r
+Suppose that m = 5.0 kg. F = 0,60 N and / = 0,20 m.
+Calculate (a) the torque acting on the cylinder, (b) the
+Fg. 5.26
+angular acceleration of the cylinder.
+(Moment of Inertia of cylinder = }mr)
+(Ans: 0.12 Nm, 1.2 rad 52)
+5.5 Calculate the angular momentum of a star of mass 2,0 x 1030 kg and radius
+7.0 x 10" km. If it makes one complete rotation about its axis once in 20 days, what
+is its kinetic energy?
+(Anst 1.4 x 10" is 2.5 x 10 J)
+5.6 A 1000 kg car travelling with a speed of 144 km n° round a curve of radius 100 m.
+Find the necessary centripetal force.
+(Ans: 1,60 x 10" N)
+5.7 What is the least speed at which an aeroplane can execute 8 vertical loop of 1,0 km
+radius so that there will be no tendency for the pilot to fall down at the highest point?
+(Ans: 99 ms
+5,8 The Moon orbits the Earth so that the same side always faces the Earth.
+Determine the ratio of its spin angular momentum (about its own axis) and its
+orbital angular momentum, (In this case, treat the Moon as a particle orbiting the
+Earth). Distance between the Earth and the Moon is 3,85 x 10° m. Radius of the
+Moon is 1.74 X 10° m.
+(Ans: 8.2x10*)
+59 The Earth rotates on its axis once a day. Suppose, by some process the Earth contracts
+so that its radius is only half as large as at present. Howfast will it be rotating then?
+(For sphere 2/5 MR S.
+(Ans: The Earth would complete its rotation in 6 hours)
+5.10 What should be the orbiting speed to launch a satellite in a circular orbit 900 km
+above the surface of the Earth? (Take mass of the Earth as 6.0 x 10 and its radius
+BS 6400 km).
+(Ans: 7,4 km 51)
+126
+---

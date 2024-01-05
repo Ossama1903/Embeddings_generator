@@ -1,0 +1,902 @@
+
+Chapter 20
+ATOMIC SPECTRA
+Learning Objectives
+At the end of this chapter the students will be able to:
+1.
+Know experimental facts of hydrogen spectrum.
+2.
+Describe Bohr's postulates of hydrogen atom.
+3.
+Explain hydrogen atom in terms of energy levels.
+4.
+Describe de-Brogile's interpretation of Bohr's orbits.
+5.
+Understand excitation and ionization potentials.
+6.
+Describe uncertainty regarding position of electron in the atom.
+7.
+Understand the production, properties and uses of X-rays.
+8.
+Describe the terms spontaneous emission, stimulated emission, metastable states
+and population inversion.
+9.
+Understand laser principle.
+10
+Describe the He-Ne gas laser.
+11.
+Describe the application of laser including holography.
+T
+he branch of physics that deals with the investigation of wavelengths and intensities of
+electromagnetic radiation emitted or absorbed by atoms is called spectroscopy. It includes
+the study of spectra produced by atoms. In general there are three types of spectra called (i)
+continuous spectra, (ii) band spectra, and (iii) discrete or line spectra.
+Black body radiation spectrum, as described in chapter 19 is an example of continuous
+spectra; molecular spectra are the examples of band spectra while the atomic spectra,
+which we shall investigate in detail in this chapter, are examples of discrete or line spectra.
+20.1 ATOMIC SPECTRA
+When an atomic gas or vapour at much less than atmospheric pressure is suitably excited,
+usually by passing an electric current through it, the emitted radiation has a spectrum, which
+contains certain specific wavelengths only. An idealized arrangement for observing such
+atomic spectra is shown in Fig. 20. 1. Actual spectrometer uses diffraction grating for better
+results.
+The impression on the screen is in the form of lines if the slit in front of the source S is narrow
+rectangle. It is for this reason that the spectrum is referred to as line spectrum.
+The fact that the spectrum of any element contains wavelengths that exhibit definite
+regularities was utilized in the second half of the 19th century in identifying different elements.
+202
+---
+
+Slits
+Hydrogen
+Red
+discharge source
+Blue green
+Blue
+violet
+Fig. 20.1
+Line spectrum of hydrogen
+These regularities were classified into certain groups called
+the spectral series. The first such series was identified by J.J
+Balmer in 1885 in the spectrum of hydrogen. This series,
+called the Balmer series, is shown in Fig.20.2, and is in the
+visible region of the electromagnetic spectrum.
+The results obtained by Balmer were expressed in 1896 by
+J.R Rydberg in the following mathematical form
+Red
+Blue Blue Violet UV
+(20.1)
+Green
+a
+Fig. 20.2
+where RH is the Rydberg's constant. Its value is
+1.0974 X 107 m* Since then many more series have been
+discovered and proved helpful in predicting the arrangement
+of the electrons in different atoms.
+Atomic Spectrum of Hydrogen
+The Balmer series contain wavelengths in the visible portion
+For Your Information
+of the hydrogen spectrum. The spectral lines of hydrogen in
+Different types of spectra
+the ultraviolet and infrared regions fall into several other
+series. In the ultraviolet region, the Lyman series contains the
+wavelengths given by the formula
+(a) Continuous spectrum
+- 1/2 a 1 = -
+(20.2)
+where
+n=2,3,4,
+(b) Line spectrum
+In the infrared region, three spectral series have been found
+whose lines have the wavelengths specified by the formulae:
+(c) Band spectrum
+203
+---
+
+Paschen series
+(20.3)
+For Your Information
+where
+5, 6,
+91 nm
+Brackett series
+122 nm
+(20.4)
+365 nm
+where
+n = 5, 6, 7,
+Pfund series
+656 nm
+1-R-1
+(20.5)
+where
+n=6,7,8,
+820 nm
+The existence of these regularities in the hydrogen spectrum
+together with similar regularities in the spectra of more
+complex elements, proposes a definite test for any theory of
+atomic structure.
+20.2 BOHR'S MODEL OF THE HYDROGEN
+ATOM
+In order to explain the empirical results obtained by Rydberg,
+Neils Bohr, in 1913, formulated a model of hydrogen atom
+utilizing classical physics and Planck's quantum theory. This
+semi classical theory is based on the following three
+postulates:
+Postulate I: An electron, bound to the nucleus in an atom,
+can move around the nucleus in certain circular orbits without
+radiating. These orbits are called the discrete stationary
+states of the atom.
+Line spectrum of atomic hydrogen.
+Only the Balmer series lies in the
+visible region of the electromagnetic
+Postulate II: Only those stationary orbits are allowed for
+spectrum.
+which orbital angular momentum is equal to an integral
+multiple of hie.. 2
+mvr=nh
+(20.6)
+where = 1, 2, 3,
+and n is called the principal quantum
+number, m and V are the mass and velocity of the orbiting
+electron respectively, and h is Planck's constant.
+204
+---
+
+Postulate III: Whenever an electron makes a transition,
+that is, jumps from high energy state E to a lower energy
+state E, a photon of energy h fis emitted so that
+hf=E.-E,
+(20.7)
+where f= c/n is the frequency of the radiation emitted.
+Do You Know?
+de-Broglie's Interpretation of Bohr's Orbits
+Helium was identified in the Sun
+At the time of formulation of Bohr's theory, there was no
+using spectroscopy before it was
+justification for the first two postulates, while Postulate III had
+discovered on earth.
+some roots in Planck's thesis. Later on with the development
+of de Broglie's hypothesis, some justification could be seen in
+Postulate II as explained below:
+A
+A
+(a)
+n=3
+(c)
+n=6
+Fig. 20.3 Stationary wave for n=3
+Standing de Broglie waves of electrons around the circumference of Bohr orbits.
+on a string.
+Consider a string of length l as shown in Fig. 20.3 (a). If this is
+put into stationary vibrations, we must have l = na where n is
+an integer. Suppose that the string is bent into circle of radius
+r, as demonstrated for n=3 and n=6 in Fig. 20.3 (b) and (c),
+so that
+=2 RT=nX
+2
+or
+2= n
+(20.8)
+From de Broglie's hypothesis
+h
+h
+2= p mv
+h
+2
+TC
+r
+thus
+mv
+n
+nh
+or
+2
+which is Postulate II.
+205
+---
+
+Quantized Radii
+Consider a hydrogen atom in which electron moving with velocity
+Vn is in stationary circular orbit of radius r From Eq. (20.6),
+(20.9)
+For this electron to stay in the circular orbit, shown in
+V2
+M F.
+Fig. 20.4, the centripetal force F.=mva is provided by the
+m
++e
+e
+Proton F.
+Electron
+Coulomb's force where e is the magnitude of charge
+on electron as well as on the hydrogen nucleus consisting of
+a single proton. Thus,
+Fig. 20.4
+mva-ko's
+(20.10)
+where constant constantkisequalto is
+For Your Information
+After substituting for Vn from Eq. 20.9, we have
+n= 3
+(20.11)
+4n2
+13
+n=2
+where
+n=1
+12
+This agrees with the experimentally measured values and is
+called the first Bohr orbit radius of the hydrogen atom. Thus
+according to Bohr's theory, the radii of different stationary
+orbits of the electrons in the hydrogen atom are given by
+The first Bohr orbit in the hydrogen
+Substituting the value of rn from Eq. 20.11 in Eq. 20.9, the
+atom has a radius r. = 5.3 x 10th m.
+speed of electron in the nth orbit is
+The second and third Bohr orbits
+have radii E2 =4r, and r,=9r,
+respectively.
+v.=2ke2
+(20.12)
+Quantized Energies
+Let us now calculate the total energy E, of the electron in the
+Bohr orbit; E1 is the sum of the kinetic energy K.E. and the
+potential energy U.i.e.,
+E, = +
+(20.13)
+206
+---
+
+By rearranging Eq. (20.10), we get
+ke2
+(20.14)
+Do You Know?
+then
+(20.15)
+The orbital electrons have specific
+amount of energies where as free
+By substituting the value of rn from Eq. (20.11), we have
+electrons may have any amount of
+energy.
+(20.16)
+where
+E.=2n*k2me*
+constant=13.6
+eV
+which is the energy required to completely remove an electron
+from the first Bohr orbit. This is called ionization energy. The
+ionization energy may be provided to the electron by collision
+with an external electron. The minimum potential through
+which this external electron should be accelerated so that it
+can supply the requisite ionization energy is known as
+ionization potential. Thus for n = 1, 2, 3 we get
+the
+allowed energy levels of a hydrogen atom to be
+The experimentally measured value of the binding energy of
+the electron in the hydrogen atom is in perfect agreement
+with the value predicted by Bohr theory.
+Normally the electron in the hydrogen atom is in the lowest
+energy state corresponding to n = 1 and this state is called
+the ground state or normal state. When it is in higher orbit, it is
+said to be in the excited state. The atom may be exited by
+collision with externally accelerated electron. The potential
+through which an electron should be accelerated so that, on
+collision it can lift the electron in the atom from its ground
+state to some higher state, is known as excitation potential.
+Hydrogen Emission Spectrum
+The results derived above for the energy levels along with
+Postulate III can be used to arrive at the expression for the
+wavelength of the hydrogen spectrum. Suppose that the
+electron in the hydrogen atom is in the excited state n with
+207
+---
+
+energy E, and makes a transition to a lower state p with
+energy Ep, where , then
+Do You Know?
+hf=E-E,
+Photon must have energy exactly
+equal to the energy difference
+where
+between the two shells for excitation
+of an atom but an electron with K.E
+greater that the required difference
+can excite the gas atoms.
+hence
+Substituting for f=c/h and rearranging
+or
+(20.17)
+E (eV)
+where RH is the Rydberg constant given by the equation
+0
+n=w
+-0.28
+n=7
+-0.38
+n=6
+R-====1.0974x10"m"
+(20.18)
+-0.54
+n=5
+-0.85
+n=4 which agrees well with the latest measured value for
+hydrogen atom.
+-1.51
+n=3
+Paschen
+Eq. 20.17 reduces to the empirical result derived by Rydberg
+and given by Eq 20.1, provided that we substitute p=2 and
+n =3,4,5
+The different energy levels corresponding to
+-3.40
+n=2
+Balmer
+Eq. 20.17 are shown in Fig. 20.5.
+Example 20.1: Find the speed of the electron in the first
+Bohr orbit.
+Solution:
+Series Limit
+The speed found from Eq. (20.12) is
+v,=2.19x10°ms`
+13.60
+n=1
+Lyman
+20.3 INNER SHELL TRANSITIONS AND
+Fig. 20.5 Energy level diagram for
+CHARACTERISTIC X-RAYS
+the hydrogen atom.
+The transitions of electrons in the hydrogen or other light
+elements result in the emission of spectral lines in the infrared,
+visible or ultraviolet region of electromagnetic spectrum due to
+small energy differences in the transition levels.
+208
+---
+
+In heavy atoms, the electrons are assumed to be arranged in
+Ejected
+concentric shells labeled as K, L, M, N, o etc., the K shell
+electron
+being closest to the nucleus, the L shell next, and so on
+(Fig. 20.6). The inner shell electrons are tightly bound and
+large amount of energy is required for their displacement
+Scattered
+electron
+from their normal energy levels. After excitation, when an
+atom returns to its normal state, photons of larger energy are
+emitted. Thus transition of inner shell electrons in heavy
+atoms gives rise to the emission of high energy photons or X-
+rays. These X-rays consist of series of specific wavelengths
+or frequencies and hence are called characteristic X-rays.
+M
+The study of characteristic X-rays spectra has played a very
+N
+important role in the study of atomic structure and the
+periodic table of elements.
+Production of X-rays
+Incident
+high energy
+Fig. 20.7 shows an arrangement of producing X-rays. It
+electron
+consists of a high vacuum tube called X-ray tube. When
+Fig. 20.6
+the cathode is heated by the filament F, it emits electrons
+which are accelerated towards the anode T. If V is the
+High voltage
+Cathode
+Filament
+Tungsten disc
+Anode
+Cooling oil
+Low
+voltage
+Evacuated glass tube
+Fig. 20.7
+X-rays
+potential difference between C and T, the Kinetic energy K.E.
+with which the electron strike the target is given by
+K.E. = Ve
+(20.19)
+Suppose that these fast moving electrons of energy Ve strike
+a target made of tungsten or any other heavy element. It is
+possible that in collision, the electrons in the innermost
+shells, such as K or L, will be knocked out. Suppose that one
+of the electrons in the K shell is removed, thereby producing
+a vacancy or hole in that shell. The electron from the L shell
+209
+---
+
+jumps to occupy the hole in the K shell, thereby emitting a
+photon of energy h for called the K.X-ray given by
+hf_=E-Ex
+(20.20)
+It is also possible that the electron from the M shell might also
+jump to occupy the hole in the K shell. The photons emitted
+are Kg X-ray with energies
+hfu=Em-E
+(20.21)
+these photons give rise to Kg X-ray and so on.
+The photons emitted in such transitions i.e., inner shell
+transitions are called characteristic X-rays, because their
+energies depend upon the type of target material.
+The holes created in the L and M shells are occupied by
+transitions of electrons from higher states creating more
+X-rays. The characteristic X-rays appear as discrete lines on
+0
+0.04
+0.08
+0.12
+a continuous spectrum as shown in Fig. 20.8.
+Wavelength (nm)
+The Continuous X-ray Spectrum
+Fig. 20.6
+The continuous spectrum is due to an effect known as
+bremsstrahlung or braking radiation When the fast moving
+electrons bombard the target, they are suddenly slowed
+down on impact with the target. We know that an accelerating
+charge emits electromagnetic radiation. Hence, these
+impacting electrons emit radiation as they are strongly
+decelerated by the target. Since the rate of deceleration is so
+large, the emitted radiation correspond to short wavelength
+and so the bremsstrahlung is in the X-ray region. In the case
+when the electrons lose all their kinetic energy in the first
+collision, the entire kinetic energy appears as a X-ray photon
+of energy hf mart i.e.,
+K.E.=him
+The wavelength 2. in Fig. 20.8 corresponds to frequency
+finds Other electrons do not lose all their energy in the first
+collision. They may suffer a number of collisions before
+coming to rest. This will give rise to photons of smaller energy
+or X-rays of longer wavelength. Thus the continuous
+spectrum is obtained due to deceleration of impacting
+electrons.
+Properties and Uses of X-rays
+X-rays have many practical applications in medicine and
+industry. Because X-rays can penetrate several centimetres
+210
+---
+
+into a solid matter, so they can be used to visualize the
+interiors of the materials opaque to ordinary light, such as
+For Your Information
+fractured bones or defects in structural steel. The object to be
+visualized is placed between an X-ray source and a large
+sheet of photographic film; the darkening of the film is
+proportional to the radiation exposure. A crack or air bubble
+allows greater amount of X-rays to pass. This appears as a
+dark area on the photographic film. Shadow of bones
+appears lighter than the surrounding flesh. It is due to the fact
+that bones contain greater proportions of elements with high
+atomic number and so they absorb greater amount of
+incident X-rays than flesh. In flesh, light elements like carbon,
+hydrogen and oxygen predominate. These elements allow
+greater amount of incident X-rays to pass through them.
+CAT - Scanner
+In the recent past, several vastly improved X-ray techniques
+have been developed. One widely used system is
+An X-ray picture of a hand.
+computerized axial tomography; the corresponding
+instrument is called CAT-Scanner. The X-ray source
+produces a thin fan-shaped beam that is detected on the
+opposite side of the subject by an array of several hundred
+detectors in a line. Each detector measures absorption of
+Interesting Information
+X-ray along a thin line through the subject. The entire
+apparatus is rotated around the subject in the plane of the
+beam during a few seconds. The changing reactions of the
+detector are recorded digitally; a computer processes this
+information and reconstructs a picture of different densities
+over an entire cross section of the subject. Density
+differences of the order of one percent can be detected with
+CAT-Scans. Tumors, and other anomalies much too small to
+be seen with older techniques can be detected.
+Biological Effects of X-rays
+'In CAT scanning a "fanned-out" array
+of X-ray beams is directed through
+X-rays cause damage to living tissue. As X-ray photons are
+the patient from a number of different
+orientations.
+absorbed in tissues, they break molecular bonds and create
+highly reactive free radicals (such as H and OH), which in
+turn can disturb the molecular structure of the proteins and
+especially the genetic material. Young and rapidly growing
+cells are particularly susceptible; hence
+X-rays are useful for selective destruction of cancer cells. On
+the other hand a cell may be damaged by radiation but
+survive, continue dividing and produce generation of
+defective cells. Thus X-rays can cause cancer. Even when
+the organism itself shows no apparent damage, excessive
+211
+---
+
+radiation exposure can cause changes in their reproductive
+Do You Know?
+system that will affect the organism's offspring.
+20.4 UNCERTAINTY WITHIN THE ATOM
+One of the characteristics of dual nature of matter is a
+fundamental limitation in the accuracy of the simultaneous
+measurement of the position and momentum of a particle.
+(a)
+Heisenberg showed that this is given by the equation
+Ap AX2
+2
+However, these limitations are significant in the realm of
+atom. One interesting question is whether electrons are
+present in atomic nuclei. As the typical nuclei are loss than
+10-14 m in diameter, for an electron to be confined within such a
+(b)
+nucleus, the uncertainty in its position is of the order of 10-14 m.
+(a) This two-dimensional CAT scan
+of a brain reveals a large intracranial
+The corresponding uncertainty in the electron's momentum is
+tumor (colored purple). (b) Three-
+dimensional CAT scans are now
+available and this example reveals an
+arachnoid cyst ( colored yellow)
+within a skull. In both photographs the
+6.63x10~3 Js
+colors are artificial having been
+computer generated to aid in
+10-14
+= 6.63x10-20 gms
+m
+distinguishing anatomical features.
+As
+Ap=mAv
+6.63x10-20 kgms-1
+Hence
+Av=
+9.11x10-31
+7.3x1010
+ms-1
+kg
+Hence, for the electron to be confined to a nucleus, its speed
+would have to be greater than 1010 ms i.e., greater than the
+speed of light. Because this is impossible, we must conclude
+that an electron can never be found inside of a nucleus. But
+can an electron reside inside the atom? To find this, we again
+calculate the speed of an electron and if it turns to be less
+than the speed of light, we have reasonable expectation of
+finding the electron within the atom but outside the nucleus.
+The radius of the hydrogen atom is about 5x 10-11 m. Applying
+the uncertainty principle to the momentum of electron in the
+atom we have
+Apr Ax h
+As
+Ap=mAv
+Therefore,
+Av=m",
+212
+---
+
+For an atom AX is given as 5 x 10 11 m
+Js
+Thus
+9.11x10-31 kgx5x10 -11 m
+1.46x10'ms
+This speed of the electron is less than the speed of light,
+therefore, it can exist in the atom but outside the nucleus.
+20.5 LASER
+Laser is the acronym for Light Amplification by Stimulated
+Emission of Radiation. As the name indicates, lasers are
+used for producing an intense, monochromatic, and
+unidirectional coherent beam of visible light. To understand
+the working of a laser, terms such as stimulated emission and
+population inversion must be understood.
+Spontaneous and Stimulated Emissions
+Consider a sample of free atoms some of which are in the
+ground state with energy E, and some in the excited state E2
+as shown in Fig. 20.9. The photons of energy hf = E2 - E, are
+incident on this sample. These incident photons can interact
+E1
+with atoms in two different ways. In Fig. 20.9 (a) the incident
+hf
+E
+photon is absorbed by an atom in the ground state E., thereby
+E,
+E,
+leaving the atom in the excited state E2 This process is called
+(a)
+Induced absorption
+stimulated or induced absorption. Once in the excited state,
+two things can happen to the atom. (i) It may decay by
+E1
+E
+spontaneous emission as shown in Fig. 20.9 (b), in which the
+E,
+E,
+atom emits a photon of energy h f = E2 - E, in any arbitrary
+(b)
+Spontaneous emission
+direction.
+E2
+E,
+The other alternative for the atom in the excited state E2 is to
+hf
+decay by stimulated or induced emission as shown in
+E,
+E,
+Fig.20.9 (c). In this case the incident photon of energy
+(c)
+Induced emission
+hf=E2 - E1 induces the atom to decay by emitting a photon
+that travels in the direction of the incident photon. For each
+Fig 20.9
+incident photon we will have two photons going in the same
+direction thus we have accomplished two things; an amplified
+as well as a unidirectional coherent beam. From a practical
+point this is possible only if there is more stimulated or
+induced emission than spontaneous emission. This can be
+achieved as described in the next section.
+213
+---
+
+Population Inversion and Laser Action
+Let us consider a simple case of a material whose atoms can
+reside in three different states as shown in Fig. 20.10, state
+~10°s
+E2
+N3
+N3 > N.
+E1
+Metastable state
+hf = 6943 nm
+Input
+Optical pumping
+Optical (amplified)
+N.
+E,
+Fig. 20.10
+E. which is ground state; the excited state E in which the
+For Your Information
+atoms can reside only for 10 S and the metastable state E
+in which the atoms can reside for -10 5. much longer than
+E
+10 S. A metastable state is an excited state in which an
+(Larger energy)
+excited electron is unusually stable and from which the
+E.
+electron spontaneously falls to lower state only after
+(Smaller energy)
+relatively longer time. The transition from or to this state are
+(a) Normal population
+difficult as compared to other excited states. Hence, instead
+A normal population of atomic
+of direct excitation to this state, the electrons are excited to
+energy state, with more atomic in the
+higher level for spontaneous fall to metastable state. Also let
+lower energy state E, than in the
+us assume that the incident photons of energy h f = E, - E,
+excited state E2.
+raise the atom from the ground state E, to the excited state E3.
+but the excited atoms do not decay back to E.. Thus the only
+E
+alternative for the atoms in the excited state E, is to decay
+E
+spontaneously to state E2 the atoms reach state E2 much
+(la) Population inversion
+faster than they leave state E2 This eventually leads to the
+situation that the state E contains more atoms than state E..
+A population inversion, in which the
+This situation is known as population inversion.
+higher energy state has a greater
+population than the lower energy
+state
+Once the population inversion has been reached, the lasing
+action of a laser is simple to achieve. The atoms in the
+metastable state E2 are bombarded by photons of energy
+hf = E2 - E1, resulting in an induced emission, giving an
+intense, coherent beam in the direction of the incident
+photon.
+214
+---
+
+The emitted photons must be confined in the assembly long
+enough to stimulate further emission from other excited
+atoms. This is achieved by using mirrors at the two ends of
+Large potential
+the assembly. One end is made totally reflecting, and the
+difference
+other end is partially transparent to allow the laser beam to
+escape (Fig.20.11). As the photons move back and forth
+o
+between the reflecting mirrors they continue to stimulate
+other excited atoms to emit photons. As the process
+continues the number of photons multiply, and the resulting
+Completely
+Partially
+silvered
+silvered
+radiation is, therefore, much more intense and coherent than
+mirror
+mirror
+light from ordinary sources.
+Fig. 20.11
+Helium - Neon Laser
+It is a most common type of lasers used in physics
+laboratories. Its discharge tube is filled with 85% helium and
+15% neon gas. The neon is the lasing or active medium in this
+tube. By chance, helium and neon have nearly identical
+metastable states, respectively located 20.61 eV and
+20.66 eV level. The high voltage electric discharge excites
+the electrons in some of the helium atoms to the 20.61 eV
+state. In this laser, population inversion in neon is achieved
+by direct collisions with same energy electrons of helium
+atoms. Thus excited helium atoms collide with neon atoms,
+Helium
+Neon
+Metestable
+Metastable
+XXXXXX
+each transferring its own 20.61 eV of energy to an electron in
+Photon
+the neon atom along with 0.05 eV of K.E. from the moving
+atom. As a result, the electrons in neon atoms are raised to
+20.61
+20.66 aV
+the 20.66 eV state. In this way, a population inversion is
+18.70 eV
+sustained in the neon gas relative to an energy level of
+Ground
+Ground
+18.70 eV. Spontaneous emission from neon atoms initiate
+State
+State
+laser action and stimulated emission causes electrons in the
+neon to drop from 20.66 eV to the 18.70 eV level and red
+Fig. 20.12
+laser light of wavelength 632.8 nm corresponding to 1.96 eV
+energy is generated (Fig. 20.12).
+Uses of Laser in Medicine and Industry
+1.
+Laser beams are used as surgical tool for "welding"
+detached retinas.
+2.
+The narrow intense beam of laser can be used to
+destroy tissue in a localized area. Tiny organelles
+with a living cell have been destroyed by using laser
+to study how the absence of that organelle affects the
+behavior of the cell.
+3.
+Finely focused beam of laser has been used to
+destroy cancerous and pre-cancerous cell.
+215
+---
+
+4.
+The heat of the laser seals off capillaries and lymph
+Do You Know?
+vessels to prevent spread of the disease.
+5.
+The intense heat produced in small area by a laser
+beam is also used for welding and machining metals
+and for drilling tiny holes in hard materials.
+6.
+The precise straightness of a laser beam is also
+useful to surveyors for lining up equipment especially
+in inaccessible locations.
+7.
+It is potential energy source for inducing fusion
+reactions.
+8.
+It can be used for telecommunication along optical
+The helium-neon laser beam is being
+used to diagnose diseases of the eye,
+fibres.
+The use of laser technology in the
+field of ophthalmology is widespread.
+9.
+Laser beam can be used to generate three-
+dimensional images of objects in a process called
+holography.
+SUMMARY
+When an atomic gas or vapours at less than atmospheric pressure is suitably
+excited, usually by passing electric current through it, the emitted radiation has a
+spectrum which contains certain specific wavelenghts only.
+Postulates of Bohr's model of hydrogen atom are:
+An electron, bound to the nucleus in an atom, can move around the nucleus in
+certain circular orbits without radiating. These orbits are called the discrete
+stationary states of the atom.
+II.
+Only those stationary states are allowed for which orbital angular momentum is
+equal to an integral multiple of hi.e., mvr=nh
+III.
+Whenever an electron makes a transition, i.e., jumps from high energy state E, to
+a
+lower energy state E a photon of energy h fis emitted so that hf=E.-E. -
+The transition of electrons in the hydrogen or other light elements result in the
+emission of spectral lines in the infrared, visible or ultraviolet region of
+electromagnetic spectrum due to small energy differences in the transition levels.
+The X-rays emitted in inner shell transitions are called characteristic X-rays,
+because their energy depends upon the type of target material.
+The X-rays that are emitted in all directions and with a continuous range of
+frequencies are known as continuous X-rays.
+Laser is the acronym for Light Amplification by Stimulated Emission of Radiation.
+216
+---
+
+The incident photon absorbed by an atom in the ground state E, thereby leaving
+the atom in the excited state E2 is called stimulated or induced absorption.
+Spontaneous or induced emission is that in which the atom emits a photon of energy
+hf=E2 - E, in any arbitrary direction.
+Stimulated or induced emission is that in which the incident photon of energy hf=E2-E,
+induces the atom to decay by emitting a photon that travels in the direction of the
+incident photon. For each incident photon, we will have two photons going in the same
+direction giving rise to an amplified as well as a unidirectional coherent beam.
+QUESTIONS
+20.1
+Bohr's theory of hydrogen atom is based upon several assumptions. Do any of these
+assumptions contradict classical physics?
+20.2 What is meant by a line spectrum? Explain, how line spectrum can be used for the
+identification of elements?
+20.3
+Can the electron in the ground state of hydrogen absorb a photon of energy
+13.6 eV and greater than 13.6 eV?
+20.4
+How can the spectrum of hydrogen contain so many lines when hydrogen contains
+one electron?
+20.5
+Is energy conserved when an atom emits a photon of light?
+20.6
+Explain why a glowing gas gives only certain wavelengths of light and why that gas is
+capable of absorbing the same wavelengths? Give a reason why it is transparent to
+other wavelengths?
+20.7
+What do we mean when we say that the atom is excited?
+20.8
+Can X-rays be reflected, refracted diffracted and polarized just like any other
+waves? Explain.
+20.9
+What are the advantages of lasers over ordinary light?
+20.10 Explain why laser action could not occur without population inversion between
+atomic levels?
+PROBLEMS
+20.1
+A hydrogen atoms is in its ground state (n = 1.) Using Bohr's theory, calculate
+(a) the radius of the orbit, (b) the linear momentum of the electron, (c) the angular.
+momentum of the electron (d) the kinetic energy (e) the potential energy, and
+(f) the total energy.
+[Ans: (a) 0.529x10110 m (b) 1.99 x 10 29 kgms1 (c) 1.05x 10 kgm's
+(d) 13.6 eV (e)-27.2eV(f)-13.6eV] -
+217
+---
+
+20.2
+What are the energies in eV of quanta of wavelength? i = 400, 500 and 700 nm.
+(Ans: 3.10 eV, 2.49 eV, 1.77 eV)
+20.3
+An electron jumps from a level E =-3.5x1019 J to E, = -1.20 X 10 J. What is the
+wavelength of the emitted light?
+(Ans: 234 nm)
+20.4
+Find the wavelength of the spectral line corresponding to the transition in hydrogen
+from n = 6 state to n = 3 state?
+(Asn: 1094 mm)
+20.5
+Compute the shortest wavelength radiation in the Balmer series? What value of n
+must be used?
+(Ans: 364.5 nm, n = so)
+20.6
+Calculate the longest wavelength of radiation for the Paschen series.
+(Ans: 1875 mm)
+20.7
+Electrons in an X-ray tube are accelerated through a potential difference of
+3000 V. If these electrons were slowed down in a target, what will be the minimum
+wavelength of X-rays produced?
+(Ans:4.14x10"m)
+20.8
+The wavelength of K X-ray from copper is 1.377 X 10-10 m. What is the energy
+difference between the two levels from which this transition results?
+(Ans: 9.03 keV)
+20.9
+A tungsten target is struck by electrons that have been accelerated from rest through
+40 kV potential difference. Find the shortest wavelength of the bremsstrahlung
+radiation emitted.
+(Ans: :0.31x101"m)
+2010 The orbital electron of a hydrogen atom moves with a speed of 5.456 x 10 ms
+(a) Find the value of the quantum number n associated with this electron.
+(b) Calculate the radius of this orbit.
+(c) Find the energy of the electron in this orbit.
+(Ans: n=4, r = 0.846 nm; E, = -0.85 eV)
+218
+---

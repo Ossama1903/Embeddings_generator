@@ -1,0 +1,766 @@
+CHAPTER
+7    THERMOCHEMISTRY
+Animation 7.1: Thermochemistry
+Source & Credit:  wikispaces27.THERMOCHEMISTRY eLearn.Punjab
+7.0.0 INTRODUCTION
+ It is matter of common observation that energy in the form of heat, is ei ther evolved or 
+absorbed as a result of a chemical change. This is due mostly  to the breaking of bonds in the 
+reactants and formation of new bonds in the products. Bond breakin g absorbs energy but bond 
+making releases it. The overall energy change that occurs, results from the diference between 
+energy supplied for the breaking of reactant bonds and that evolved in  the making of product 
+bonds. The study of heat changes accompanying a chemical reaction is  known as thermochemistry.
+ Substances  exist, because they possess energy. Diferent substances have diferent amounts 
+of energy associated with them. Due to this reason, the total energy of th e products is never equal 
+to that of reactants. Hence, in a chemical change, the energy in th e form of heat will either be 
+evolved or absorbed and this is called heat of reaction.
+ Generally, in all chemical changes, energy is exchanged with the surroundings. When it is given out by 
+the reaction, the change is said to be exothermic when it is absorbed,  the reaction is endothermic.
+ When an exothermic reaction occurs, heat is given out by the system  and the temperature of 
+the system rises above the room temperature. Eventually, the temperature of th e system falls to 
+room temperature again as the heat produced is lost to the surroundings .
+ When  an endothermic reaction occurs, the heat required for the reacti on is taken from the 
+reacting materials (system) and the temperature of the system fall s below the initial temperature. 
+Eventually, the temperature of the system rises to room temperature again a s heat is absorbed 
+from the surroundings.
+The energy units in which heat changes, usually expressed in SI system are joule (J) and kilojoule 
+(kJ).
+ Some of the examples of exothermic and endothermic reactions are gi ven below.
+(i)  The combustion of carbon in oxygen is a common reaction.
+The reaction is exothermic and 393.7kJmol ‘ of heat is evolved durin g the reaction.
+(ii)  The formation of water from hydrogen and oxygen is an exother mic reaction.1
+(s) 2(g) 2 (g) C    +O       CO                     H=-393 .7kJ mol .−→∆
+1
+2(g) 2(g) 2 (l)1H   + O        H O           H=-285.58kJ mol .2−→∆37.THERMOCHEMISTRY eLearn.Punjab
+(iii)  In the Haber’s process, the formation of ammonia is a lso an exothermic reaction.
+  
+(iv)  The decomposition of water into oxygen and hydrogen is an endoth ermic reaction.
+  
+(v)  When one mole of nitrogen combines with one mole of oxygen to yield nitrogen oxide (NO), 
+180.51 kJ of heat is absorbed by the system and the reaction is en dothermic.
+   
+ The subject matter of thermochemistry is based on the irst law of therm odynamics.  The 
+subject has an important practical utility as it gives us infor mation about the energy or heat contents 
+of compounds, a knowledge of which is necessary for the study of chemical bonding and chemical 
+equilibrium. The scope of thermochemistry is limited mainly , because only a few of many chemical 
+reactions are such, whose heats of reaction can be accurately meas ured.1
+2 (l) 2(g) 2 (g) H O H  +1/2 O               H=+285.58kJ mol .−→∆1
+2(g) 2(g) 3(g)N  +3H       2NH            H=-41.6kJ mol .−∆ ฀
+1
+2(g) 2(g) (g)N  + O     2NO     H=+180.51kJ mol .−→∆
+Animation 7.2 : Thermochemistry
+Source & Credit : pamcox.wikispaces47.THERMOCHEMISTRY eLearn.Punjab
+7.1  SPONTANEOUS AND NON-SPONTANEOUS REACTIONS
+ A process which takes place on its own without any outside assis tance and moves from a non-
+equilibrium state towards an equilibrium state is termed as sponta neous process or natural process. 
+It is unidirectional, irreversible and a real process. Some exam ples of spontaneous processes are 
+given below.
+(i)  Water lows from higher level to the lower level. The  low cannot be reversed without some 
+external aid.
+(ii)  Neutralization of a strong acid with a strong base is a spontaneous acid-base reaction.
+    
+(iii)  When  a piece of zinc is added to the copper sulphate sol ution, blue colour of the solution 
+disappears due to the spontaneous redox reaction.
+ A  reaction will also be called a spontaneous process, if it n eeds energy to start with, but once it 
+is started, then it proceeds on its own. Burning of coal and hyd rocarbon in air are examples of such 
+spontaneous reactions. A piece of coal does not burn in air on its ow n rather the reaction is initiated 
+by a spark and once coal starts burning, then the reaction goes  spontaneously to completion.
+ Non-spontaneous process is the reverse of the spontaneous process. It does  not take place 
+on its own and does not occur in nature. Reversible processes constitu te a limiting case between 
+spontaneous and non-spontaneous processes. Some non-spontaneous process es, can  be made 
+to take place by supplying energy to the system from external source.  Some examples of non-
+spontaneous processes are given below.
+(i)  Pumping of water uphill.
+(ii)  Transfer of heat from cold interior part nof the refrigera tor to the hot surroundings.
+(iii)  When nitrogen reacts with oxygen, nitric oxide is formed.  This reaction takes place by the 
+absorbance of heat. Although, N2 and O2 are present in air, but they do not react chemically at 
+ordinary conditions.The reaction takes place when the energy is provi ded by lightning.
+  
+                  (Non-spontaneous reaction)(aq) (aq) (aq) 2 (l)NaOH  + HCI       NaCl  + H O ฀
+4(aq) (s) 4(aq) (s)CuSO  + Zn ZnSO Cu →+
+2(g) 2(g) (g)N+  O      2 N O ฀57.THERMOCHEMISTRY eLearn.Punjab
+ Our  common experience, shows that spontaneous processes proceed wi th a decrease in 
+energy. We might expect, therefore, that a chemical reaction would pr oceed spontaneously if 
+the reaction system decreases in energy by transferring heat to its su rroundings. In other words, 
+we might expect all exothermic reactions to be spontaneous. This is u sually true, but not always. 
+There are many endothermic changes that proceed spontaneously althou gh they absorb heat. For 
+example,
+     
+  Ammonium chloride dissolves in water and this process is al so endothermic.
+     
+     
+Animation  7.3: SPONTANEOUS AND NON-SPONTANEOUS REA CTIONS
+Source & Credit : thompsona.free.fr1
+2 (l) 2 (g)H O          H O                  H=44.0kJmol−→∆
++1
+4 (s) 4 (aq) (aq) NH Cl     NH  + Cl             H=15.1kJmol−∆ ฀67.THERMOCHEMISTRY eLearn.Punjab
+ Thus, energy change alone cannot help us to predict, whether a r eaction will occur 
+spontaneously or not. To predict whether a reaction will occur sponta neously or not it is necessary 
+to study the free energy of the system. The concept of free energy can hel p us to understand the 
+processes in terms of entropy change. Anyhow, its discussion is outside the scope of this book.
+7.2  SYSTEM, SURROUNDING AND STATE FUNCTION
+ These are the terms employed in the study of thermochemistry. To u nderstand the energy 
+changes in materials, let us deine these terms.
+ We shall be using them frequently later on. The term system is used for anything (materials) 
+under test in the laboratory, or under consideration in the classroom  for the purpose of argument. 
+We can say that any portion of the universe which is under study  is called a system and the 
+remaining portion of the universe is known 
+as its surroundings.
+ The  real or imaginary  surface separating  
+the system from the surroundings is called 
+the boundary, Fig. (7.1). In an experimental 
+work, a speciic amount of one or more 
+substances constitute a system, e.g. one mole 
+of oxygen conined in a cylinder itted with a 
+piston is a system. The cylinder, the piston 
+and all other objects outside the cylinder are 
+surroundings. Similarly, a cup of water is a 
+system. The air surrounding it, the table on 
+which it is lying, etc. are surroundings.
+ Consider, the reaction between Zn and 
+CuSO4 solution. This can be called a system 
+under observation. The lask, the air, etc. are 
+the surroundings, Fig (7.1).
+Fig (7.1) System and surroundings77.THERMOCHEMISTRY eLearn.Punjab
+ The  state of a system is the condition of a system. When any proces s is performed on a 
+system its state is altered in some ways. Let us consider a beaker containing water. It will be a 
+system having certain temperature and volume.
+ This  initial condition of the system may be called the initia l state. Suppose we heat the beaker. 
+The system will undergo a change after heating. The inal conditi on of the system may now be 
+called the inal state of the system. By comparing both initial and  inal states of the system, we can 
+describe the.change taking place in the system.
+ Let T1 and T2 denote the temperatures of water before and after heating, respectively. T he 
+change in temperature T∆, may then be represented as
+    T = Final temperature - Inital temperatu re ∆
+    21T = T     -    T∆
+ A  state function is a macroscopic property of a system which has some deinite values for 
+initial and inal states, and which is independent of the path a dopted to bring about a change. By 
+convention, we use capital letters as symbols for a state function, e. g. pressure (P), temperature (T), 
+volume (V), internal energy (E) and enthalpy (H), are all state functions.
+ Let us suppose, that V1 is the initial volume of a gas. A  change is brought about in the gas and 
+its inal volume becomes V2. The change in volume ( V∆) of the gas is given by
+     21V = V       -      V∆
+Animation 7.4: SYSTEM, SURROUNDING AND STATE FUNC-
+TION
+Source & Credit : kastedu.weebly87.THERMOCHEMISTRY eLearn.Punjab
+ Now, this  change in volume of the gas can be brought about eith er by changing temperature 
+or pressure of the gas. Since V is a state function, so V∆ will be independent of the way the volume 
+of the gas has been changed. It will only depend upon the initial  and inal volumes of the gas.
+7.3  INTERNAL ENERGY AND FIRST LAW OF THERMODYNAMIC S
+ A system containing some quantity of matter has deinite amount of ener gy present in it. 
+This energy is the sum of kinetic as well as the potential energi es of the particles contained in the 
+system. The kinetic energy is due to the translational, rotational an d vibrational movements of 
+particles, Fig (7.2). The potential energy accounts for all the types of attractive forces present in the 
+system. These attractive forces, include all the types of bonds and the van der Waal’s forces present 
+among the particles. 
+ The total of  all the possible kinds of energies of the system is ca lled its internal energy, E. The 
+change in internal energy of the system E∆ is a state function.
+ It is  not possible, to measure the absolute value of internal energy of  a system, but it is often 
+possible to measure the value of E∆ for a change in the state of the system.
+Fig (7.2) Translational, vibrational  and rotational mo vements of molecules. Diatomic molecules have transla tional motions as well. 
+Anyhow triatomic and higher molecules have translation al, vibrational and rotational motions.Translational m otion o f He
+gas m olecu lesA diatomic molecule
+H2 is vibratingA tetra-atomic molecule
+say BF3 is rotating on an axis97.THERMOCHEMISTRY eLearn.Punjab
+ There are two fundamental ways of transferring energy to or from a system. These  are heat 
+and work. Heat is not a property of a system. It is therefore not a sta te function. It is deined as 
+the quantity of energy that lows across the boundary of a system dur ing a change in its state 
+due to the diference in temperature between the system and the surroundings . Heat evolved 
+or absorbed by the system is represented by a symbol q. Work is  also a form in which energy is 
+transfered from one system to another. It is deined as the product of for ce and distance i.e. W = F 
+x S. Work is measured in Joules in SI units. There are diferen t kinds of work. The type of work we 
+most commonly encounter in thermochemistry is pressure-volume work. For example, expansion 
+can occur when a gas is evolved during a chemical reaction Fi g (7.3). 
+In such cases, the work W done by the system is given by
+ W = -P  V ∆ (In pressure volume work, force becomes pressure and distance bec omes volume 
+change where P is the external pressure and V∆ is the change in volume. Work is not a state 
+function. The sign of W is positive when work is done on the system and it is negative when work is 
+done by the system.
+ Similarly the sign of q is positive when heat is absorbed by the system from surroundings, 
+and it is negative when heat is absorbed by the surroundings fr om the system.
+Fig (7.3) Pressure-volume work during expansion of a gas .107.THERMOCHEMISTRY eLearn.Punjab
+7.3.1 First Law of Thermodynamics
+ The irst law of thermodynamics, also called the law of conservation  of energy, states that 
+energy can neither be created nor destroyed, but can be changed f rom one form to another. In 
+other words, a system cannot destroy or create energy. However, it can exc hange energy with its 
+surroundings in the form of heat and work. Thus, the energy ch ange is the sum of both heat and 
+work, so that the total energy of the system and its surroundings rema ins constant.
+ Consider, a gas enclosed in a cylinder having a frictionless  piston Fig (7.4). When a quantity of 
+heat ‘q’ is supplied to the system, its internal energy E1 changes to E2 and piston moves upwards. 
+The change in internal energy E∆ is given by the following equation.    
+   
+    21E = E -E  = q+w∆
+    
+    E = q+w∆
+Animation 7.5: INTERNAL ENERGY AND FIRST LAW OF THE R-
+MODYNAMICS
+Source & Credit : ashamedparents117.THERMOCHEMISTRY eLearn.Punjab
+ In this equation ‘q’ represents the amount  of heat absorbed by th e system and V is the work 
+done by the system in moving the piston up, Fig (7.4). 
+ If  ‘w‘ is pressure-volume work, then the above expression assum es the following form
+  E = q - P V    ............                  (2)∆∆
+ When  the piston is kept in its 
+original position or the volume of the gas 
+is not allowed to change, then V∆ = 0 and 
+equation (2) will take the following form.
+  vE = q .............                    (3)∆
+ This  shows that a change in internal 
+energy of a system, at constant volume 
+is equal to heat absorbed by the system 
+(qv).
+Animation 7.6: First Law of Thermodynamics
+Source & Credit : docsity
+Fig (7.4) Expansion of a gas and pressure-volume work.127.THERMOCHEMISTRY eLearn.Punjab
+7.4  ENTHALPY
+ Again consider the same process as described above. A quantity  of heat q is given to the 
+system (gas) which is now kept at constant atmospheric pressure. 
+ A part of this heat is used to increase the internal energy of the g as and the rest is used to 
+do work on the surroundings. This work is done by the gas, wh en it expands against a constant 
+pressure. To take account of increase in internal energy and accompanying work done by the gas, 
+there is another property of the system called enthalpy or heat content. It is represented by H. In 
+general, enthalpy is equal to the internal energy, E plus the produ ct of pressure and volume (PV).
+     H = E + PV
+ Enthalpy is a state function. It  is measured in joules. It is  not possible, to measure the enthalpy 
+of a system in a given state. However, change in enthalpy ( H∆) can be measured for a change in the 
+state of system . A change in enthalpy of a system can be written as:
+     H = E + (PV)∆∆∆
+     
+ or    H = E + V P + P V∆∆ ∆ ∆
+ Since, the gas is kept at constant pressure,  = 0
+ Hence    H = E + P V              ..........  (4)∆∆ ∆
+Animation 7.7: ENTHALPY
+Source & Credit : physik.fu-berlin.de137.THERMOCHEMISTRY eLearn.Punjab
+ In  case of liquids and solids, the changes in state do not ca use signiicant volume change i.e. 
+V∆ = 0. For such process, H∆ and E∆ are approximately the same i.e. HE∆ ≈∆
+ According to irst law of thermodynamics:
+     E = q + w∆
+If w is pressure - volume work done by the system, then:
+     w = - P V ∆
+  So   E = q - P V∆∆
+ 
+Putting the value of E∆ in equation (4) we get:
+     
+     H = q - P V + P V∆ ∆∆
+     H = q∆
+ 
+Since the pressure is constant, therefore,
+     pH = q ......... (5)∆
+ This shows that change in enthalpy is equal to heat of reaction at constant pressure. The 
+reactions are carried out at constant pressure more frequently than at constant volume. So, working 
+with H∆ is more convenient rather than E∆.
+Example 1:
+ When 2.00 moles of H2 and 1.00 mole of O2 at 100°C and 1 torr pressure react to produce 2.00 
+moles of gaseous water, 484.5 kJ of energy are evolved. What are the va lues of (a) H∆ (b) E∆ for the 
+production of one mole of H2O (g)?
+Solution:
+(a)  The reaction is occurring at constant pressure.
+2(g) 2(g) 2 (g)2H  + O  2H O →147.THERMOCHEMISTRY eLearn.Punjab
+The enthalpy change for one mole of water vapours is
+   -1
+2-484.5kJH= -242.2kJ mol Answer2 molesof H O∆=
+The minus sign shows that the reaction is exothermic for the producti on of 1 mole of water,
+(b)  To calculate E∆ from H∆, we use the equation (4)
+    H = E + P V∆∆ ∆
+Let us, irst calculate the value of PV∆ using the ideal gas equation
+    PV  =  nRT
+  Or  
+ P V  =  nRT∆∆
+ Now,  n    =    No. of moles of the products -  No. of moles of the reactants ∆
+            = 2moles - 3moles  =  -1mole
+    -1 -1R    =   8.314JK mol
+    T    =  373K
+   P V    =  nRT   ...................              (6)∆∆
+  
+   1P V    =  -1 mole x 8.314J mol K x 373K−∆  
+  
+   P V    =  -3100J=-3.10kJ∆
+ This  is the value for 2 moles of water. For the formation of 1 mole of water,
+   -1 -3.10P V    = =-1.55kJmol2∆
+On substituting, these values into equation (4).
+    H = E + P V∆∆ ∆
+    E = H - P V∆∆ ∆157.THERMOCHEMISTRY eLearn.Punjab
+          = -242.2-(-1.55)   = -242.2+1.55
+    -1E = -240.6kJ mol Answer∆
+7.4.1 Enthalpy of a Reaction ( ∆Ho)
+ In an exothermic reaction, the heat content or enthalpy of the products H2 is less than that of 
+the reactants  H1. Since, the system has lost heat, we can say the enthalpy chan ge for the reaction 
+∆H is negative, Fig (7.5 a)
+ In  an endothermic reaction, the enthalpy of products H2, is greater than that of the reactants 
+H1 and the enthalpy change, ∆H is positive. These enthalpy changes are represented in Fig (7. 5 b).
+ The standard enthalpy of a reaction ∆Ho is the enthalpy change which occurs when the certain 
+number of moles of reactants as indicated by the balanced chemi cal equation, react together 
+completely to give the products under standard conditions, i.e 25 °C (298K) and one atmosphere 
+pressure.  All the reactants and products must be in their standard phys ical states. Its units are kJ 
+mol-1. 
+ 
+ -285.8 kJmol-1 is standard enthalpy of reaction.
+Fig (7.5) Enthalpy  changes in thermochemical reacti onso -1
+2(g) 2(g) 2 ( ) 2H   +  O 2H O H  = -285.8kJmol →∆167.THERMOCHEMISTRY eLearn.Punjab
+7.4.2  Enthalpy of Formation ( ∆H0
+f)
+ The standard enthalpy of formation of a compound is the amount of h eat absorbed or 
+evolved when one mole of the compound is formed from its elements.  It is denoted by ∆H°f. All 
+the substances involved are in their standard physical states an d the reaction is carried out under 
+standard conditions i.e. at 25°C (298 K) and one atm. pressur e. Its units are kJ mol-1. For example, 
+the enthalpy of formation, ( ∆H°f) for MgO(s) is - 692 kJ mol-1
+   
+ Similarly, when  carbon reacts with oxygen to form CO2, 393.7 kJ mol-1 of energy is released. It 
+is ∆H°f, of CO2(g).
+   
+Animation 7.8: Enthalpy of a Reaction (DH)
+Source & Credit : web.mst
+o -1
+(s) 2(g) (s) f1Mg  + O        MgO                       H =  -692kJ mol2→∆
+o -1
+(s) 2(g) 2 (g) f C +O          CO H  =-393.7kJ mol →∆177.THERMOCHEMISTRY eLearn.Punjab
+7.4.3  Enthalpy of Atomization ( ∆Ho
+at)
+ The  standard enthalpy of atomization of an element is deined as th e amount of heat absorbed 
+when one mole of gaseous atoms are formed from the element under standa rd conditions. It is 
+denoted by Ho
+at. For example, the standard enthalpy of atomization of hydrogen is given below.
+   
+ A  wide range of experimental techniques, are available for deter mining enthalpies of 
+atomization of elements.
+Animation 7.9: Enthalpy of Formation (DHf)
+Source & Credit : users.humboldt
+o -1
+2(g) (g) at1H            H                                 H =218kJ mol2→∆187.THERMOCHEMISTRY eLearn.Punjab
+7.4.4  Enthalpy of Neutralization ( ∆Ho
+n)
+ The standard enthalpy of neutralization is the amount of heat evolved when one mole of 
+hydrogen ions [H+] from an acid, react with one mole of hydroxide ions from a bas e to form one 
+mole of water. For example, the enthalpy of neutralization of sodiu m hydroxide by hydrochloric 
+(OH-) acid is -57.4 kJ mol-1. Note that a strong acid HCl and a strong base, NaOH, ionize c ompletely 
+in dilute solutions as follows.
+   
+   
+   
+Animation 7.10: Enthalpy of Atomization (DHat)
+Source & Credit : github
++-
+(aq) (aq) (aq)HCl   H  + Cl ฀
++-
+(aq) (a q) (aq) NaOH  Na  + OH ฀197.THERMOCHEMISTRY eLearn.Punjab
+ When these solutions are mixed together during the process of neutra lization, the only change 
+that actually occurs is the formation of water molecules leaving the sodium ions and the chloride 
+ions as free ions in solution. Thus, the enthalpy of neutralization  is merely the heat of formation of 
+one mole of liquid water from its ionic components,
+   
+ Or   
+Enthalpy of  neutralization for any strong acid with a strong b ase is approximately the same i.e. 
+-57.4 kJ mole-1.
+7.4.5  Enthalpy of Combustion ( ∆Ho
+c)
+ The standard enthalpy of combustion of the substance is the amou nt of heat evolved when 
+one mole of the substance is completely burnt in excess of oxygen und er standard conditions. It is 
+denoted by ∆Ho
+c.
+Animation 7.11: Enthalpy of Neutralization (DHn)
+Source & Credit : Wiki+- + - +
+(aq) (aq) (aq) (aq) (aq) (aq) 2 ( )H  + Cl  + Na  + OH   Na  + Cl  + H O ฀
++ - o -1
+(aq) (aq) 2 ( ) nH  + OH H O                      H =-57.4kJ mol ∆ ฀207.THERMOCHEMISTRY eLearn.Punjab
+o1
+2 5 2(g) 2(g) 2 ( ) cC H OH( ) + 3O        2CO  + 3H O H =-1368kJ mol−→∆  For example, standard enthalpy of combustion of ethanol ∆H0
+c  is -1368kJ mol-1. The reaction 
+is represented by the following equation.
+   
+7.4.6  Enthalpy of Solution ( ∆Ho
+sol.)
+ The standard enthalpy of a solution is the amount of heat absorbed or evolved when one 
+mole of a substance is dissolved in so much solvent that further di lution results in no detectable 
+heat change.
+ For example, enthalpy of solution ( ∆Ho
+sol.) of ammonium chloride is +16.2 kJmol-1 and that 
+of sodium carbonate is -25.0 kJmol-1. In the irst case, heat absorbed from the surroundings is 
+indicated by cooling of the solvent (water), an endothermic process. While in the second case, the 
+temperature of the solvent rises showing that the process is exothermic.
+Animation 7.12: Enthalpy of Combustion (DHc)
+Source & Credit : wikipedia217.THERMOCHEMISTRY eLearn.Punjab
+7.4.7  Measurement of Enthalpy of a Reaction
+ Exothermic and endothermic reactions can easily be detected by obs erving the temperature 
+of the reaction vessel before and after the reaction, as long as the hea t of reaction evolved or 
+absorbed is considerable. More accurate values of ∆H can be determined by using calorimeters as 
+described below.  
+Animation 7.13: Enthalpy of Solution (DHsol.)
+Source & Credit : commons.wikimedia227.THERMOCHEMISTRY eLearn.Punjab
+(i)  Glass Calorimeter
+ For most purposes, an ordinary glass calorimeter can be use d to determine the value of ∆H. 
+This usual type of calorimeter, is basically an insulated  container with a thermometer and a stirrer, 
+Fig (7.6). 
+ Reactants in stoichiometric amounts are placed in the calorimeter . When the reaction proceeds, 
+the heat energy evolved or absorbed will either warm or cool the system. The temperature of the 
+system is recorded before and after the chemical reaction. Knowing  the temperature change the 
+mass of reactants present and the speciic heat of water, we can cal culate the  quantity of heat q 
+evolved or absorbed during the reaction. Thus:
+ q = m x s x T      ................         (7) ∆
+Where m = mass of reactants, s = speciic heat of the reaction mixtu re and ∆T is the change in 
+temperature. The product of mass and speciic heat of water is call ed heat capacity of the whole 
+system.
+Fig (7.6) Glass calorimeter to measure enthalpy chang e of reactions.237.THERMOCHEMISTRY eLearn.Punjab
+Example 2:
+ Neutralization of 100 cm3 of 0.5 M NaOH at 250C with 100 cm3 of 0.5 M HCl at 250C raised the 
+temperature of the reaction mixture to 28.50C. Find the enthalpy of neutralization. Speciic heat of 
+water = 4.2 J K-1g-1
+Solution:
+ Speciic heat of water,  s  = 4.2 JK-1g-1
+ Density of H2O is around 1gcm-3, so 200 cm3 of total solution is approximately = 200g
+Hence, total mass of the reaction mixture = 200g
+Rise in temperature, ∆T   = 28.5-25.0 = 3.50C = 3.5 K
+Animation 7.14: Measurement of Enthalpy of a Reacti on
+Source & Credit : 3ddrawing.online247.THERMOCHEMISTRY eLearn.Punjab
+100cm3 of 0.5 M NaOH   = 100cm3 of 0.5 MHCl
+0.5 M solution means that 1000 cm3 of solution has 0.5 moles of solute
+So 100 cm3 of 0.5 M solutions  =0.05 moles of HCl and NaOH, respectively
+Amount of total heat evolved, (q) = m x s x ∆T
+       
+       = 200g x 4.2 Jg-1K-1 x 3.5 K = 2940 J
+ 
+       =2940 J = 2.94 kJ
+Since, the reaction is exothermic
+ So,    q   =-2.94kJ
+When  this heat is divided by number of moles, then ∆ Hn0 is for one mole
+Enthalpy of neutralization. ( ∆ Hn0)
+   -1 -2.94kJ  = -58.8kJ mol Answer0.05 mol=
+(ii)  Bomb Calorimeter
+ A bomb calorimeter is usually used for the accurate determina tion of the enthalpy of 
+combustion for food, fuel and other compounds.
+ A bomb calorimeter is shown in Fig (7.7). It consists of a s trong cylindrical steel vessel usually 
+lined with enamel to prevent corrosion. A known mass (about one gra m) of the test substance is 
+placed in a platinum crucible inside the bomb. The lid is screwed on tightly and oxygen is provided 
+in through a valve until the pressure inside is about 20 atm. After  closing the screw valve, the bomb 
+calorimeter is then immersed in a known mass of water in a well insulated calorimeter.257.THERMOCHEMISTRY eLearn.Punjab
+Then, it  is allowed to attain a steady temperature. The initial temp erature is measured, by using the 
+thermometer present in the calorimeter. The test substance is then, ign ited, electrically by passing 
+the current through the ignition coil. The temperature of water, which  is stirred continuously, is 
+recorded at 30 sec intervals.
+  From the increase of temperature ∆T, heat capacity (c) in kJK-1 of bomb calorimeter including 
+bomb, water etc., we can calculate the enthalpy of combustion.
+ The heat capacity ’c’ of a body or a system is deined as the qu antity of heat required to 
+change its temperature by 1 kelvin.
+     q = c x T ∆
+Example 3:
+10.16g of graphite is burnt in a bomb calorimeter and the temper ature rise recorded is 3.87K. 
+Calculate the enthalpy of combustion of graphite, if the heat capac ity of the calorimeter (bomb, 
+water, etc.) is 86.02 kJ K-1
+Fig (7.7) Bomb calorimeter267.THERMOCHEMISTRY eLearn.Punjab
+Solution:
+Heat capacity of bomb calorimeter       =86.02 kJK-1
+Rise in temperature of the calorimeter and its contents   = 3.87 K
+   
+Heat gained by the system (bomb calorimeter and water etc.) q   = c x T ∆
+           -1= 86.02 kJK  x 3.87K
+           = 332.89 kJ
+This heat is evolved by burning 10.16g of graphite   10.16=  mole of graphite12
+           = 0.843 mole of graphite
+Hence enthalpy of combustion of graphite per mole   -1 332.89=  kJmol0.843
+           = 395kJmol-1
+Since heat is evolved during combustion, so the sign of the answer w ould be negative.   
+           -1= -395 kJmol   Answer
+7.5.0 HESS’S LAW OF CONSTANT HEAT SUMMATION
+ There are many compounds, for which ∆H cannot be measured directly by calorimetric 
+method. The reason is, that some compounds like tetrachloromethane (CC l4), cannot be prepared 
+directly by combining carbon and chlorine. Similarly, it d oes not decompose easily into its constituent 
+elements. In the same way, boron oxide (B2O3) and aluminium oxide (Al2O3) provide problems for 
+the measurement of standard enthalpies of their formation. In these cas es, it is diicult to burn 
+these elements completely in oxygen, because a protective layer of oxides c overs the surface of 
+the unreacted element. Similarly, heat of formation of CO cannot be m easured directly due to the 
+formation of CO2 with it.277.THERMOCHEMISTRY eLearn.Punjab
+ As  a result, of above mentioned problems, the chemists had to look for methods of obtaining 
+standard enthalpies of formation indirectly. The energy cycle s hows two routes for converting 
+graphite and oxygen to CO2, whilst the alternative route goes via CO. It would seem reasonable 
+that the overall enthalpy change for the conversion of graphite to CO i s independent of the route 
+taken, that is,
+      12H =  H + H  ....................... (8)∆ ∆∆
+ If  the enthalpy of combustion for graphite to form CO2 and the enthalpy of combustion of CO 
+to form CO2 are known, we can determine the enthalpy of formation for CO. To c lear the idea look 
+at the following cycle. The oxidation of carbon (graphite) can be written as follows.
+    
+    
+    
+ 
+Applying equation (8)   12H =   H  + H∆∆∆
+ or    12H  =  H - H∆ ∆∆
+     = -393- (-283)  
+     -1= -110kJ mol
+ So, the enthalpy change for the formation of CO(g) is -110.0 k Jmol-1.
+ The method we have just used in obtaining equation (8), is a spec iic example of Hess’s law of 
+constant heat summation. This law states that
+ If a chemical change takes place by several diferent routes, the overa ll energy change is the 
+same, regardless of the route by which the chemical change occurs , provided the initial and inal 
+conditions are the same.
+ Let A can be converted to D directly in a single step and heat evolved i s ∆H. If the reaction can 
+have a route from ABC→→  as shown below.
+  ΔH
+22C   +   O    CO  →
+ 
+1H∆
+     21O2          21O2   2H∆
+  
+       CO -1
+(graphite) 2(g) 2(g) (graphite)C  + O  CO            H =-393.7kJ mol →∆
+-1
+(gas) 2(g) 2(g) 21CO  + O CO H (CO)=-283kJ mol2→∆
+(graphite) 2(g) (g) 11C + O   CO                 H (CO) ?2→ ∆=287.THERMOCHEMISTRY eLearn.Punjab
+According to Hess’s law, 123H =   H  + H + H∆∆∆∆
+ Mathematically, H(cycle) = 0 ∑∆
+ 
+ Of course, Hess’s law is simply an application of the more
+ fundamental law of conservation of energy. So, S∆H (cycle) = 0
+It means that if one goes form A to D directly and comes back to A thr ough B and C then ∆H = 0.
+ The formation of sodium carbonate, is another example for the veriica tion of Hess’s law. 
+The formation of sodium carbonate may be studied as a single step process, or in two steps as via 
+sodium hydrogen carbonate. HA  D∆ →  
+     1H∆     3H∆ 
+  2HBC∆  →  
+Animation 7.15: HESS’S LAW OF CONSTANT HEAT SUMMATI ON
+Source & Credit : jeremykun297.THERMOCHEMISTRY eLearn.Punjab
+Single Step Process
+  
+Two Step Process
+  
+  
+ According to Hess’s law,
+   12 H    =   H  + H ............ (8)∆ ∆∆
+ Putting the values of ∆H, 1H∆, 2H∆, in equation (8)
+   -89.08 =-48.06-41.02
+   -89.08 =-89.08
+ This  illustrates, how heats of reactions may be added algebra ically and this proves Hess’s 
+law. Hess’s law inds its best applications in Born-Haber cy cle.
+7.5.1  The Bom-Haber Cycle
+ This cycle has wide applications. It inds its special app lications in Hess’s law. It states that 
+energy change in a cyclic process is always zero. It enables  us, to calculate the lattice energies of 
+binary ionic compounds such as M+X-.
+ The  lattice energy of an ionic crystal is the enthalpy of forma tion of one mole of the ionic 
+compound from gaseous ions under standard conditions.
+ Thus, the lattice energy of NaCl corresponds to the following p rocess.(aq) 2(g) 2 3(aq) 2 (l)2NaOH  + CO  Na CO  + H O                H= -8 9.08 kJ →∆
+(aq) 2(g) 3(aq) 1NaOH  + CO  NaHCO                        H =  -48.06 kJ →∆
+3(aq) (aq) 2 3(aq) 2 ( ) 2NaHCO  + NaOH  Na CO +H O              H = -41. 02 kJ →∆
++ - + - o -1
+(g) (g) (s) LattNa  + Cl           Na Cl                  H  =   -787  kJ  mol →∆307.THERMOCHEMISTRY eLearn.Punjab
+ Lattice  energies cannot be determined directly but values can be ob tained indirectly by means 
+of an energy cycle. In Fig (7.8), an energy triangle of sodi um chloride is shown.
+ 
+ 
+ 
+Since, ∆Ho
+f, the  standard enthalpy of formation of sodium chloride, can be measured conveniently 
+in a calorimeter.  ∆H°l, can be obtained if  ∆Hx, which is the total energy involved in changing sodium 
+and chlorine from their normal physical states to gaseous ions, can be calculated. 
+ In Fig (7.9), the  previous energy triangle has been extended to s how the various stages 
+involved in inding ∆Hx. The complete energy cycle is called a Born -Haber cycle.
+Fig (7.8) Energy triangle for sodium chloride317.THERMOCHEMISTRY eLearn.Punjab
+ 
+It is clear from the picture of Born-Haber cycle in Fig (7.9)  that
+    x at(Na) i(Na) at(Cl) e(Cl)H  =  H  + H  + H  + H∆∆ ∆ ∆ ∆
+ The irst two stages in this process involve atomizing and the ionizi ng of sodium. The heat of 
+atomization of sodium can be obtained from values of its heat of fus ion, heat of vaporization and 
+speciic heat capacity. The irst ionization energy of sodium can be determined spectroscopically.
+ The  third and fourth stages in the expression for ∆Hx above, involve the atomization of 
+chlorine and the conversion of chlorine atoms to chloride ions, res pectively. The later process is, of 
+course, called the electron ainity of chlorine.
+ The heat of atomization of chlorine can be obtained from spectroscopic  studies:
+Fig (7.9) Born-Haber cycle
+-1
+(s) (g)Na    Na                                  H =108kJ mol →∆at
+-1
+(g) (g)Na    Na  +1e                              H =496kJ mol−→∆i
+-1
+2(g) (g) at1Cl    Cl                              H =12 1 kJ mol2→∆327.THERMOCHEMISTRY eLearn.Punjab
+  
+whilst, the electron ainity for chlorine can also be found by sim ilar methods.
+   
+Thus 
+The lattice energy for sodium chloride can thus be obtained:
+      oo
+fxH   =  H  + H∆ ∆∆
+      oo
+fx H   =  H  - H∆ ∆∆
+Using the values from Fig (7.9)
+      -1H  = -411-376 = -787 kJ mol∆
+ The  lattice energy, gives us some idea of the force of attraction betw een Na+ and Cl- ions in 
+crystalline sodium chloride. Lattice energies are very helpful in  discussing the structure, bonding 
+and properties of ionic compounds.-1
+xH  = (108+496+121-349) = 376 kJ mol∆-1
+(g) (g)Cl  + e    Cl                             H = -349 kJ mol−−→∆e
+Animation 7.16: The Bom -H aber Cycle
+Source & Credit : climate.gov337.THERMOCHEMISTRY eLearn.Punjab
+KEY POINTS
+1.  Substances exist because they possess energy. Energy can b e transformed in form of heat and 
+the study of heat changes accompanying a chemical reaction is called thermochemistry.
+2.  Whenever, a reaction happens, then the driving force is the en thalpy change, along with the 
+entropy change. Both these parameters decide upon spontaneity of reaction .
+3.  Most of the thermodynamic parameters are state functions.
+4.  First law of themodynamics is the law of conservation of energy  and helps us to understand the 
+equivalence of heat and work.
+5.  When heat is supplied to the system at constant pressure, then i t is the enthalpy change of the 
+system. Anyhow, at constant volume, the heat supplied is just equa l to internal energy change.
+6.  There is diference between heat and temperature. The amount of heat evol ved or absorbed 
+can be measured in laboratory by using glass calorimeter or b omb calorimeter. The amount of 
+heat is calculated from mass of the reactants, speciic heat and c hange of temperature. Hess’s 
+law of heat summation is another form of irst law of thermodynamic s. It helps us to determine 
+the enthalpy changes of those chemical reactions, which can not b e carried out in laboratory or 
+heat changes are diicult to measure.
+7.  According to  Born-Haber cycle, another form of Hess’s law,  the energy change in a cyclic process 
+is always equal to zero. With the help of this cycle, we can ca lculate lattice energy of ionic crystals.347.THERMOCHEMISTRY eLearn.Punjab
+EXERCISE
+Q.1  Select the suitable answer from the given choices.
+(i)  If an endothermic reaction is allowed to take place very rapid ly in the air, the temperature of the 
+surrounding air
+(a)  remains constant    (b)  increases
+(c)  decreases      (d)  remains unchanged
+(ii)  In endothermic reactions, the heat content of the
+(a)  products is more than that of reactants
+(b)  reactants is more than that of products
+(c)  both (a) and (b)
+(d)  reactants and products are equal
+(iii)  Calorie is equivalent to
+(a)  0.4184J   (b)  41.84J   (c)  4.184J   (d)  418 .4J
+(iv)  The change  in heat energy of a chemical reaction at constan t temperature and pressure is 
+called
+(a)  enthalpy change   (c)  heat of sublimation
+(b)  bond energy    (d)  internal energy change
+(v)  Which of the following statements is contrary to the irst law of thermodynamics?
+(a)  Energy can neither be created nor destroyed.
+(b)  One form of energy can be transferred into an equivalent amoun t of other kinds of energy.
+(c) In an adiabatic process, the work done is independent of its path.
+(d)  Continuous production of mechanical work without supplying  an equivalent amount of heat is  
+ possible.
+(vi)  For a given process, the heat changes at constant pressure (qp) and at constant volume (qv) 
+are related to each other as
+ pv pv pv pv(a) q =q       (b) q <q       (c) q >q       ( d) q =q /2
+(vii)  For the reaction: 2 NaOH+HCl NaCl+H O → the change in enthalpy is called
+(a)  heat of reaction    (b)  heat of formation
+(c)  heat of neutralization   (d)  heat of combustion
+(viii)  The net  heat change in a chemical reaction is same,wh ether it is brought about in two or 
+more diferent ways in one or several steps. It is known as
+(a)  Henry’s law    (b)  Joule’s principle
+(c)  Hess’s law     (d)  Law of conservation of energy357.THERMOCHEMISTRY eLearn.Punjab
+(ix)  Enthalpy of neutralization of all the strong acids and s trong bases has the same value because
+(a)  neutralization leads to the formation of salt and water.
+(b)  strong acids and bases are ionic substances.
+(c)  acids always give rise to H+ ions and bases always furnish OH- ions.
+(d)  the net chemical change involve the combination of H+ and OH- ions to form water.
+Q.2  Fill in the blanks with suitable words.
+(i)  The substance undergoing a physical or a chemical cha nge forms a chemical .
+(ii)  The change in internal energy__________ be measured.
+(iii)  Solids which have more than one crystalline forms posse ss_______ values of heats of formation.
+(iv)  A process is called________ if it takes place on its own  without any external assistance.
+(v)  A________ is a macroscopic property of a system which is__________ of the path adopted to  
+          bring about that change.
+Q.3  Indicate the true or false as the case may be.
+(i)  It is necessary that a spontaneous reaction should be exothermi c.
+(ii)  Amount of heat absorbed at constant volume is internal energy c hange.
+(iii)  The work done by the system is given the positive sign.
+(iv)  Enthalpy is a state function but internal energy is not.
+(v)  Total heat content of a system is called enthalpy of the system.
+Q.4  Deine the following terms and give three examples of each
+(i)  System     (v)  Exothermic reaction
+(ii)  Surroundings    (vi)  Endothermic reaction
+(iii)  State function    (vii)  Internal energy of the system
+(iv)  Units of energy    (viii)  Enthalpy of the system
+Q.5
+(a)  Diferentiate between the following:
+(i)  Internal energy and enthalpy
+(ii)  Internal energy change and enthalpy change
+(iii)  Exothermic and endothermic reactions
+(b)  Deine the following enthalpies and give two examples of each.
+(i)  Standard enthalpy of reaction
+(ii)  Standard enthalpy of combustion
+(iii)  Standard enthalpy of atomization
+(iv)  Standard enthalpy of solution367.THERMOCHEMISTRY eLearn.Punjab
+Q.6  (a)  What are spontaneous and non-spontaneous processes. Give examples.
+(b)  Explain that burning of a candle is a spontaneous proc ess.
+(c)  Is it true that a non-spontaneous process never happens in the u niverse? Explain it.
+Q.7  (a)  What is the irst law of thermodynamics. How does it ex plain that
+(i) vq=E∆   (ii) pq=H∆
+(b)  How will you diferentiate  between ∆E and ∆H? Is it true that ∆H and ∆E have the same 
+values for  the reactions taking place in the solution state.
+Q.8  
+(a)  What is the diference between heat and temperature? Write a mathem atical relationship   
+ between these two parameters.
+(b)  How do you measure the heat of combustion of a substance by bom b calorimeter.
+Q.9  Deine heat of neutralization. When a dilute solution of a strong acid is neutralized by a dilute 
+solution of a strong base, the heat of neutralization is found to be nearly the same in all the cases. 
+How do you account for this?
+Q. 10  
+(a)  State  the laws of thermochemistry and show how are they based on the irst law of 
+thermodynamics.
+(b)  What is a thermochemical equation. Give three examples. What i nformation do they 
+convey?
+(c) Why is it necessary to mention the physical states of reactants  and products in a 
+thermochemical reaction? Apply, Hess’s law to justify your ans wer.
+Q .11 
+(a)  Deine and explain Hess’s law of constant heat summation. Ex plain it with examples 
+and give its application.
+(b)  Hess’s law helps us, to calculate the heats of those reactions,  which cannot be normally 
+carried out in a laboratory. Explain it.
+Q.12  
+(a)  What  is lattice energy? How does Born-Haber cycle help to ca lculate the lattice energy 
+of NaCl?
+(b)  Justify that heat of formation of compound is the sum of all  the other enthalpies.377.THERMOCHEMISTRY eLearn.Punjab
+Q. 13  50 cm3 of 1.0 M HCl is mixed with 50 cm3 of 1.00 M NaOH in a glass calorimeter. The 
+temperature of the resultant mixture  increases from 21.0°C to 27.5 °C. Assume, that calorimeter 
+losses of heat are negligible. Calculate the enthalpy change mole-1 for the reactions. The density of 
+solution to be considered is 1gcm-3 and speciic heat is 4.18Jg-1k-1. 
+(Ans: -54 kJ mol-1)
+Q .14  Hydrazine (N2H4) is a rocket fuel. It burns in O2 give N2 and H2O.
+  
+1.00 g of N2H4 is  burned in a bomb calorimeter. An increase of temperature 3. 510C is recorded. The 
+speciic heat of calorimeter is 5.5kJK-1g-1. Calculate the quantity of heat evolved. Also, calculate the 
+heat of combustion of 1 mole of N2H4.
+(Ans: -19.3kJ, -618kJmol-1)
+Q. 15  Octane (C8H18) is a motor fuel. 1.80 g of a sample of octane is burned in a  bomb calorimeter 
+having heat capacity 11.66 kJK-1. The  temperature of the calorimeter increases from 21.360C to 
+28.780C. Calculate the heat of combustion for 1.8g of octane. Also, calcu late the heat for 1 mole of 
+octane.
+(Ans: 86.51kJ, -5478.84kJmol-1)
+Q.16   By applying, Hess’s law calculate the enthalpy chan ge for the formation of an aqueous 
+solution of NH4Cl from NH3 gas and HCl gas. The results for the various reactions  are a s follows.
+(i) 
+(ii) 
+(iii) 
+(Ans:  -159.08 kJ mol-1)
+Q.17  Calculate the heat of formation of ethyl alcohol from the follow ing information
+(i)  Heat of combustion of ethyl alcohol is -1367 kJ mol-1
+(ii) Heat of formation of carbon dioxide is-393.7 kJ mol-1
+(iii)  Heat of formation of water is -285.8 kJ mol-1 
+(Ans:-278.4 kcal mol-1)2 2( ) 2(g) 2(g) 2 (g)N H   +  O   N   +  2H O →
+-1
+3(g) 3(aq)NH  + aq  NH                                   H=-35.16kJ mol →∆
+-1
+(g) (aq)HCl  + aq  HCl                                     H=-72.41kJ mol →∆
+-1
+3(aq) (aq) 4 (aq)NH  +  HCl NH Cl                      H=-51. 48kJ mol →∆387.THERMOCHEMISTRY eLearn.Punjab
+Q.18   If  the heats of combustion of C2H4, H2 and C2H6 are -337.2, -68.3 and -372.8k calories 
+respectively, then calculate the heat of the following reaction.
+    
+Q.19   Graphite and diamond are  two forms of carbon. The enthal py of combustion of graphite 
+at 250C is -393.51 kJ mol-1 and that of diamond is -395.41 kJ mol-1. What is the enthalpy change of the 
+process?
+Graphite → Diamond at the same temperature? 
+(Ans: 1.91 kJmol-1)
+Q.20   What  is the meaning of the term enthalpy of ionization? If  the heat of neutralization of 
+HCl and NaOH is -57.3 kJ mol-1 and heat of neutralization of CH3COOH with NaOH is -55.2 kJ mol-1, 
+calculate the enthalpy of ionization of CH3COOH. 
+(Ans: 2.1 kJmol-1)
+Q.21  
+(a)  Explain what is meant by the following terms.
+  (i)  Atomization energy
+  (ii)  Lattice energy
+(b)  Draw a complete, fully  labeled Born-Haber cycle for the for mation of potassium bromide.
+(c)  Using  the information given in the table below, calculate th e lattice energy of potassium 
+bromide.
+Reactions -1H/kJ mol∆
+-392
++90
++420
++112
+-342
+(Ans: -672 kJ mol-1)2 4(g) 2(g) 2 6(g)CH + H CH →
++-
+(s) 2( ) (s)12K + / Br K Br →
+(s) (g)KK→
+(g) (g)K K +e+−→
+2( ) (g)1/2Br Br →
+(g) (g)Br +e Br−−→

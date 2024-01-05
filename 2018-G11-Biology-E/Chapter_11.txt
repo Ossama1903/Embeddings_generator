@@ -1,0 +1,587 @@
+CHAPTER
+11BIOENERGETICS
+Animation 11: Bioenergetics
+Source & Credit: Wikispaces211. Bioenergetics eLearn.Punjab
+V: 1.1      
+Bioenergetics is the quantitative study of energy relationships and  energy conversions in biological 
+systems. Biological energy transformations obey the laws of thermodyn amics.
+All organisms need free energy for keeping themselves alive and f unctioning. All life on this planet 
+Earth is powered, directly or indirectly, by solar energy. But n o organism can make direct use of 
+sunlight as source of energy for metabolism; all can use chemi cal energy in the food such as sugars 
+etc. The chloroplasts of the plants capture light energy coming fr om the sun and convert it into 
+chemical energy that gets stored in sugar and then in other organi c molecules.
+With the emergence of photosynthesis on earth, molecular oxygen began  to accumulate slowly in the 
+atmosphere. The presence of free oxygen made possible the evolution of res piration. Respiration 
+releases great deal of energy, and couples some of this energy to the formation of adenosine 
+triphosphate (ATP) molecules. ATP is a kind of chemical lin k between catabolism  and anabolism .
+The process of photosynthesis helps understand some of the principles  of energy transformation 
+(Bioenergetics) in living systems. Photosynthetic organisms (high er land plants for instance) use 
+solar energy to synthesize organic compounds (such as carbohydr ates) that can not be formed 
+without the input of energy. Energy stored in these molecules can be u sed later to power cellular 
+processes and can serve as the energy source for all forms of lif e. Whereas photosynthesis provides 
+the carbohydrate substrate, glycolysis  and respiration are the processes whereby the energy 
+stored in carbohydrate is released in a controlled manner. So the ph otosynthesis acts as an energy-
+capturing while respiration as an energy releasing process.
+PHOTOSYNTHESIS
+(CONVERSION OF SOLAR ENERGY INTO CHEMICAL ENERGY)
+Photosynthesis  can be deined as the process in which energy-poor inorganic oxi dised compounds 
+of carbon (i.e. C02) and hydrogen (i.e. mainly water) are reduced to energy-ric h carbohydrate 
+(i.e. sugar-glucose) using the light energy that is absorbed a nd converted into chemical energy 
+by chlorophyll and some other photosynthetic pigments. The process of  photosynthesis in green 
+plants can be summarised as:311. Bioenergetics eLearn.Punjab
+V: 1.1  
+ 
+Photosynthetic Reactants and Products 
+From above overall reaction of photosynthesis it becomes evident that carbon dioxide, water and 
+light are the reactants while glucose and oxygen are the products. Water appears on both sides 
+of the equation because water is used as reactant in some reactions  and released as product in 
+other. However, because there is no net yield of H20, we can simplify the summary equation of 
+photosynthesis for purpose of discussion:
+This is almost exactly opposite to the overall equati on of aerobic respiration 
+.Photosynthesis uses the products of respiration and  
+respiration uses the products of photosynthesis. The re is another important diference between the 
+two processes : Photosynthesis occurs only during day time, whereas respiration goes on day and 
+night. During darkness leaves (and other actively metab olizing cells) respire and utilize oxygen and 
+release carbon dioxide. At dawn and dusk, when ligh t intensity is low, the rate of photosynthesis and 
+respiration may, for a short time, equal one another . Thus the oxygen released from photosynthesis is
+just the amount required for cellular respiration. Also, the carbon dioxide released by respiration jus t 
+equals the quantity required by photosynthesizing cell s. At this moment there is no net gas exchange 
+between the leaves and the atmosphere. This is terme d as compensation point . As the light intensity 
+increases, so does the rate of photosynthesis and he nce the requirement for more carbon dioxide 
+increases which respiration alone cannot supply. Sim ilarly, the oxygen produced during photosynthesis 
+is more than the need of the respiring cells, so th e result is the net release of oxygen coupled with t he
+uptake of carbon dioxide.
+Water and Photosynthesis
+Oxygen released during photosynthesis comes from wate r, and is an important source of atmospheric 
+oxygen which most organisms need for aerobic respira tion and thus for obtaining energy to live. In 
+1930s, Van Niel hypothesized that plants split water  as a source of hydrogen, releasing oxygen as a 
+by-product. Niel’s hypothesis was based on his investig ations on photosynthesis in bacteria that make 
+carbohydrate from carbon dioxide, but do not release  oxygen.2 2 6 12 6 2 2chlorophyll                 6CO    +   12H O   +  light   C H O   +   6O    +   6H O
+(carbon dioxide)         (water)                                           (gluc ose)      (oxygen)   (water) →
+6CO + 6H O + light energy      C H O + 6O2 2 6 12 6 2 →
+6 12 6 2 2 2(C H O + 6O 6CO + 6H O + energy) →411. Bioenergetics eLearn.Punjab
+V: 1.1Niel’s hypothesis that source of oxygen released durin g photosynthesis is water and not carbon dioxide, 
+was later conirmed by scientists during 1940s when i rst use of an isotopic tracer (O18) in biological 
+research was made. Water and carbon dioxide contain ing heavy-oxygen isotope O18 were prepared in 
+the laboratory. Experimental green plants in one gro up were supplied with H20 containing O18 and with 
+C02 containing only common oxygen O16. Plants in the second group were supplied with H20
+containing common oxygen O16 but with C02 containing O18.
+It was found that plants of irst group produced O18 but the plants of second group did not.
+Water is thus one of the raw materials of photosynth esis, other being carbon dioxide. Hydrogen 
+produced by splitting of water reduces NADP to NADPH2  (NADPH + H+). 
+NADPH is the “reducing power” which, along with ATP  also formed during ‘light reactions’, is used to 
+reduce C02 to form sugar during ‘dark reactions’.
+CHLOROPLASTS - THE SITES OF PHOTOSYNTHESIS IN PLANT S
+All green parts of a plant have chloroplasts, but th e leaves are the major sites of18 18Group-1 Plants: CO +2H O  CH O + H O +O 222 2 2
+18 18 18Group-2 Plants: CO  +  2H O  CH O +  H O  +  O 22 222 →
+ →511. Bioenergetics eLearn.Punjab
+V: 1.1   
+Fig. 11.1 A plant possesses thick layer of mesophyll cell s rich in chloroplasts. Thylakoids in chloroplasts are stack ed into grana. Light 
+reactions take place on the grana, and dark reactions in th e stroma.
+photosynthesis in most plants. Chloroplasts are present in very larg e number, about half a million 
+per square millimeter of leaf surface. Chloroplasts are presen t mainly in the cells of mesophyll 
+tissue inside the leaf (Fig. 11.1). Each mesophyll cell has  about 20-100 chloroplasts. Chloroplast has 
+a double membrane envelope that encloses dense luid-illed region, the stroma  which contains 
+most of the enzymes required to produce carbohydrate molecules. Another system of membranes 
+is suspended in the stroma. These membranes form an elaborate interc onnected set of lat, disc like 
+sacs called thylakoids . The thylakoid membrane encloses a luid-illed ‘thylakoid interior space’ 
+or lumen , which is separated from the stroma by thylakoid membrane. In some places, thylakoid 
+sacs are stacked in columns called grana  (sing granum ). Chlorophyll (and other photosynthetic611. Bioenergetics eLearn.Punjab
+V: 1.1Photosynthetic prokaryotes lack chloroplasts but they do 
+have unstacked photosynthetic membranes which work like 
+thylakoids. pigments) are found embedded in the thylakoid membranes and imp art green colour to the plant. 
+Electron acceptors of photosynthetic ‘Electron Transport Chain’ are al so parts of these membranes. 
+Thylakoid membranes are thus involved in ATP synthesis by chemiosmosis .
+Chlorophyll (and other pigments) absorb light 
+energy, which is converted into chemical energy 
+of ATP and NADPH, the products which are used 
+to synthesize sugar in the stroma of chloroplast.
+PHOTOSYNTHETIC PIGMENTS
+Light can work in chloroplasts only if it is absorbed. Pigmen ts are the substances that absorb visible 
+light(380-750 nm in wave length). Diferent pigments absorb ligh t of diferent wave lengths (colours), 
+and the wave lengths that are absorbed disappear. An instrument called Spectrophotometer  is 
+used to measure relative abilities of diferent pigments to absorb diferen t wavelengths of light. 
+A graph plotting absorption of light of diferent wave lengths by a pigment is called absorption 
+spectrum  of the pigment. 
+Thylakoid membranes contain several kinds of pigments, but chlorophylls  are the main 
+photosynthetic pigments. Other, accessory photosynthetic pigments prese nt in the chloroplasts 
+include yellow and red to orange carotenoids; carotenes are mostly red to orange and xanthophylls  
+are yellow to orange. These broaden the absorption and utilization of l ight energy.
+Chlorophylls
+There are known many diferent kinds of chlorophylls. Chlorophyl l a, b, c and d are found in 
+eukaryotic photosynthetic plants and algae, while the other are foun d in photosynthetic bacteria 
+and are known as bacteriochlorophylls.
+Chlorophylls absorb mainly violet-blue and orange-red wave length s. Green, yellow and indigo 
+wave lengths are least absorbed by chlorophylls and are transmitted  or relected, although the 
+yellows are often masked by darker green colour. Hence plants a ppear green, unless masked by 
+other pigments (Fig. 11.4).711. Bioenergetics eLearn.Punjab
+V: 1.1A chlorophyll molecule has two 
+main parts : One lat, square, 
+light absorbing hydrophilic head 
+and the other long, anchoring, 
+hydrophobic hydrocarbon tail. 
+The head is complex porphyrin 
+ring  which is made up of 4 joined 
+smaller pyrrole rings composed 
+of carbon and nitrogen atoms. An 
+atom of magnesium is present in 
+the centre of porphyrin ring and is 
+coordinated with the nitrogen of 
+each pyrrole ring (Fig. 11.2) That is 
+why magnesium deiciency causes 
+yellowing in plants.
+Haem  portion of haemoglobin 
+is also a porphyrin ring but 
+containing an ironatom instead of 
+magnesium atom in the centre.
+Long hydrocarbon tail which is 
+attached to one of the pyrrole rings 
+is phytol  (C20 H39). The chlorophyll
+molecule is embedded in the 
+hydrophobic core of thylakoid 
+membrane by this tail.
+Chlorophyll a and chlorophyll b 
+difer from each other in only one 
+of the functional groups bonded 
+to the porphyrin; the methyl group 
+(-CH3 ) in chlorophyll a is replaced 
+by a terminal carbonyl group
+(-CHO) in chlorophyll b.
+Fig. 11.2 A molecule of chlorophyll811. Bioenergetics eLearn.Punjab
+V: 1.1The molecular formulae for chlorophyll a and b are:
+Chlorophyll a : C55 H72 05 N4 Mg                                  Chlorophyll b : C55 H70 06 N4 Mg
+Due to this slight diference in their structure, the two chlorophylls s how slightly diferent absorption 
+spectra and hence diferent colours. Some wave lengths not absorbed by chlorophyll a are very 
+efectively absorbed by chlorophyll b and vice-versa. Such diferenc es in structure of diferent 
+pigments increase the range of wave lengths of the light absorbed. Chlorophyll a is blue-green 
+while chlorophyll b is yellow-green. 
+Of all the chlorophylls, chlorophyll a is the-most abundant an d the most important photosynthetic 
+pigment as it takes part directly in the light-dependent reactions which convert solar energy 
+into chemical energy. It is found in all photosynthetic organisms  except photosynthetic bacteria. 
+Chlorophyll a itself exists in several forms difering slightly in their red absorbing peaks e.g. at 670, 
+680, 690, 700 nm.
+Chlorophyll b is found alongwith chlorophyll a in all green  plants (embryophytes) and green algae.
+Chlorophylls are insolube in water but souble in organic solvents,  such as carbon tetrachloride,alcohol 
+etc.
+Carotenoids-accessory pigments
+Carotenoids are yellow and red to orange pigments that absorb strong ly the blueviolet range, 
+diferent wave lengths than the chlorophyll absorbs. So they broaden th e spectrum of light that 
+provides energy for photosynthesis.
+These and chlorophyll b are called accessory pigments  because they absorb light and transfer 
+the energy to chlorophyll a, which then initiates the light reaction s. It is generally believed that the 
+order of transfer of energy is: 
+Some carotenoids protect chlorophyll from intense light by absorb ing and dissipating excessive 
+light energy, rather than transferring energy to chlorophyll. (Si milar carotenoids may be protecting 
+human eye).carotenoids    chlorophyll b    chloroph yll a  →  →911. Bioenergetics eLearn.Punjab
+V: 1.1LIGHT -THE DRIVING ENERGY 
+Light is a form of energy called electromagnetic energy or radiation s. Light behaves as waves as 
+well as sort of particles called  photons . The radiations most important to life are the visible  light  
+that ranges from about 380 to 750 nm in wave length.  
+It is the sunlight energy that is absorbed by chlorophyll, converted  into chemical energy, and drives 
+the photosynthetic process. Not all the. light falling on the leaves is  absorbed. Only about one 
+percent of the light falling on the leaf surface is absorbed, the r est is relected or transmitted.
+Absorption spectrum  for chlorophylls (Fig. 11.4) indicates that absorption is max imum in blue and 
+red parts of the spectrum, two absorption peaks being at around 430  nm and 670 nm respectively. 
+Absorption peaks of carotenoids are diferent from those of chlorophylls .
+Diferent wavelengths are not only diferently absorbed by photosynthetic pi gments but are also 
+diferently efective in photosynthesis. Graph showing relative efectiveness of  diferent wavelengths
+(colours) of light in driving photosynthesis is called 
+action spectrum  of photosynthesis (Fig. 11.4)
+Fi.g 11.3 Engel man illuminated a ilament of Spirogyra with  light that had been passed through a prism. Aerobic bacte ria moved 
+toward the portions of the algal ilament emitting the most oxyge n, along the cells in blue and red portion of the spectrum.The irst action spectrum was obtained by German 
+biologist, T.W.Engelmann in 1883. He worked on 
+Spirogyra.1011. Bioenergetics eLearn.Punjab
+V: 1.1Action spectrum  can be obtained by illuminating plant with light of diferent w avelengths (or 
+colours) and then estimating relative C02 consumption or oxygen release during photosynthesis.
+Fig. 11.4     (a)       Absorption spectrum of chlorophyll an d carotenoids.
+(b)      Action spectrum for photosynthesis.
+As is evident from above igure 11.4, action spectrum of photosynthesis  corresponds to absorption 
+spectrum of chlorophyll. The same two peaks and the valley are obtained for absorption of light as 
+well as for CO2 consumption. This also shows that chlorophyll is the photosynthetic  pigment.
+However, the action spectrum of photosynthesis does not parallel the abs orption specturm of 
+chlorophyll exactly. Compared to the peaks in absorption spectrum , the peaks in action spectrum 
+are broader, and the valley is narrower and not as deep.
+(Photosynthesis in the most absorbed range is more than the absorption  itself. Likewise, 
+photosynthesis in 500-600 nm (including green light) is mor e than the absorption of green light by 
+the chlorophyll). This diference occurs because the accessory pig ments, the carotenoids, absorb 
+light in this zone and pass on some of the absorbed light to chlor ophylls which then convert light 
+energy to chemical energy. When equal intensities of light are given,  there is more photosynthesis 
+in red than in blue part of spectrum.1111. Bioenergetics eLearn.Punjab
+V: 1.1ROLE OF CARBON DIOXIDE :
+A PHOTOSYNTHETIC REACTANT
+Sugar is formed during light - independent reactions of photosynthesis by the reduction of CO2, 
+using ATP and NADH, the products of light - dependent reactions . Obviously photosynthesis does 
+not occur in the absence of CO2.
+About 10 percent of total photosynthesis is carried out by terrestrial plants, the rest occurs in oceans, 
+lakes and ponds. Aquatic photosynthetic organisms use dissolved CO2, bicarbonates and soluble 
+carbonates that are present in water as carbon source. Air contain s about 0.03 - 0.04 percent CO2. 
+Photosynthesis occurring on land utilizes this atmospheric C02.
+Carbondioxide enters the leaves through stomata  and gets dissolved in the water absorbed by 
+the cell walls of mesophyll cells. Stomata are found in a large number in a leaf; their number being 
+proportional to the amount of gas difusing into the leaf. Stomata cover on ly 1 - 2 percent of the 
+leaf surface but they allow proportionalety much more gas to difuse.
+The entry of C02 into the leaves depends upon the opening of stomata. The guard cells  guarding 
+the stoma, because of their peculiar structure and changes in th eir shape, regulate the opening 
+and closing of stomata.
+Stomata are adjustable pores that are 
+usually open during the day when CO2 is 
+required for photosynthesis and partially 
+closed at night when photosynthesis 
+stops.
+REACTIONS OF PHOTOSYNTHESIS
+Photosynthesis is a ‘redox process’ that can be represented by the following simpliied summary 
+equation:Daily rhythmic opening and closing of stomata is also due to a n internal 
+clock located in the guard cells. Even if a plant is kep t in a dark closet, 
+stomata will continue their daily rhythm of opening and clos ing.1211. Bioenergetics eLearn.Punjab
+V: 1.1However, it is not a simple, single step process, but is a complex one that is completed by a series 
+of simple steps or reactions. These reactions of photosynthesis consi st of two parts:
+The light-dependent reactions (light reactions) which use light directly and 
+The light-independent reactions (dark reactions)  which do not use light directly.
+Light dependent reactions  constitute that phase of photosynthesis during which light energy is 
+absorbed by chlorophyll and other photosynthetic pigment molecules an d converted into chemical 
+energy. As a result of this energy conversion, reducing  and assimilating power  in the form of 
+NADPH (NADPH + H+) and ATP, are formed, both temporarily storing energy to be carri ed alongwith 
+H to the light independent reactions.
+NADPH provides energized electron (and H+), while ATP provides chemical energy for the synthesis 
+of sugar by reducing CO2, using reducing power and chemical energy of NADPH and A TP respectively, 
+produced by light reactions. The energy is thus stored in the molec ules of sugar. This phase of 
+photosynthesis is also called dark reactions  because these reactions do not use light directly and 
+can take place equally well both in light and dark provided N ADPH2 and ATP of light reactions are 
+available.1311. Bioenergetics eLearn.Punjab
+V: 1.1Fig. 11.5 An overview of photosynthesis : Light - Dependent R eactions (Energy - conversion) and Light - Independent React ions (Energy 
+- conservation)1411. Bioenergetics eLearn.Punjab
+V: 1.1Light dependent Reactions
+(Energy-conversion phase; formation of ATP and NADPH)
+As has been described previously, sunlight energy which is ab sorbed by photosynthetic pigments 
+drives the process of photosynthesis. Photosynthetic pigments are organiz ed into clusters, called 
+photosystems , for eicient absorption and utilization of solar energy in thylak oid membranes (Fig. 
+11.6).
+Fig. 11.6: Light harvesting photosystem. Energy of light (photon ) absorbed by photosynthetic pigment molecules is transferred  from 
+molecule to molecule, and inally reaches the reaction cen tre where actual energy conversion begins.1511. Bioenergetics eLearn.Punjab
+V: 1.1Each photosystem  consists of a light-gathering ‘antenna complex’  and a ‘reaction center’ . The 
+antenna complex has many molecules of chlorophyll a, chlorophyl l b and carotenoids, most of 
+them channeling the energy to reaction center. Reaction center has one or more molecules of 
+chlorophyll a along with a primary electron acceptor , and associated electron carriers of ‘electron 
+transport system’ . Chlorophyll a molecules of reaction center and associated protein s are closely 
+linked to the nearby electron transport system. Electron transport system plays role in generation 
+of ATP by chemiosmosis  (which will be discussed in later section). Light energy abs orbed by the 
+pigment molecules of antenna complex is transferred ultimately to th e reaction center. There the 
+light energy is converted into chemical energy.
+There are two photosystems, photosystem I (PS I)  and photosystem II (PS II) . These are named 
+so in order of their discovery. Photosystem  I has chlorophyll a molecule which absorbs maximum 
+light of 700 nm and is called P700, whereas reaction center of photosystem II has P680, the form 
+of chlorophyll a which absorbs best the light of 680 nm. A sp ecialized molecule called, primary 
+electron acceptor is also associated nearby each reaction center. This acceptor traps  the high 
+energy electrons from the reaction center and then passes them on to the series of electron carriers. 
+During this energy is used to generate ATP by chemiosmosis.
+In predominant type of electron transport called non-cyclic electron low,  the electrons pass 
+through the two photosystems. In less common type of path called cyclic electron low  only 
+photosystem I is involved. Formation of ATP during non-cyclic electr on low is called non-cyclic 
+phosphorylation  while that during cyclic electron low is called cyclic phosphorylation .
+Non-cyclic Phosphorylation
+1.  When photosystem II absorbs light, an electron excited to a hi gher energy level in the reaction   
+     center chlorophyll P680 is captured by the primary electron acceptor of PS II. The oxidi zed 
+     chlorophyll is now a very strong oxidizing agent; its electr on “hole” must be illed.
+2.  This hole is illed by the electrons which are extracted, by a n enzyme, from water. This reaction 
+     splits a water molecules into two hydrogen ions and an oxyg en atom, which immediately  
+      combines with another oxygen atom to form O2. This water splitting step of photosynthesis that  
+      releases oxygen is called photolysis . The oxygen produced during photolysis is the main source  
+     of replenishment of atmospheric oxygen.
+3.  Each photoexcited electron passes from the primary electron ac ceptor of photosystem II to 
+     photosystem I via an electron transport chain.  This chain consists of an electron carrier called1611. Bioenergetics eLearn.Punjab
+V: 1.1     plastoquinone  (Pq), a complex of two cytochromes and a copper containing protein  called 
+     plastocyanin  (Pc).
+4.  As electrons move down the chain, their energy goes on decreasing  and is used by thylakoid    
+     membrane to produce ATP. This ATP synthesis is called photophosphorylation  because it is    
+     driven by light energy. Speciically, ATP synthesis dur ing non-cyclic electron low is called non-
+     cyclic photophosphorylation . This ATP generated by the light reactions will provide chemical     
+           energy for the synthesis of sugar during the Cal vin cycle, the second major stage of photosynthesis.
+5.  The electron reaches the “bottom” of the electron transport chain and ills an electron “hole” in   
+     P700, the chlorophyll a molecules in the reaction center of photosystem I.  This hole is created
+     when light energy is absorbed by molecules of P700 and drives an electron from P700 to the 
+     primary acceptor of photosystem I.
+6.  The primary electron acceptor of photosystem I passes the photoexc ited electrons to a second 
+     electron transport chain, which tmasmits them to ferredoxin (Fd) , an iron containing protein. 
+     An enzyme called NADP reductase then transfers the electrons fr om Fd to NADP . This is the  
+      redox reaction that stores the high-energy electrons in NADPH . The NADPH molecule will provide 
+     reducing power for the synthesis of sugar in the Calvin cycle.
+The path of electrons through the two photosystems during non-cyclic photophosphorylation is 
+known as Z-scheme  from its shape.1711. Bioenergetics eLearn.Punjab
+V: 1.1Fig 11.7: Non-cyclic electron low during photosynthesis ATP, NADPH and oxygen are generated. The arrows trace the current of li ght-
+driven electrons from water to NADPH. Each photon of light excites  single electron, but the diagram tracts two electrons at a time, the 
+number of electrons required to reduce NADP+. The numbered ste ps are described in the text.1811. Bioenergetics eLearn.Punjab
+V: 1.1Fig. 11.8: Cyclic electron low in box. Only PS I involved. ATP is generated but no NADPH and oxygen.1911. Bioenergetics eLearn.Punjab
+V: 1.1Chemiosmosis
+In both cyclic and non-cyclic photophosphorylation, the mechanis m for ATP synthesis is   
+chemiosmosis , the process that uses membranes to couple redox reactions to ATP pr oduction. 
+Electron transport chain pumps protons (H+) across the membrane of thylakoids in case of 
+photosynthesis into the thylakoids space. The energy used for this pumping comes from the 
+electrons moving through the electron transport chain. This energy is  transformed into potential 
+energy stored in the form of H+ gradient across the membrane. Next the hydrogen ions move down 
+their gradient through special complexes called ATP synthase  which are built in the thylakoid 
+membrane. During this difusion of H+ the energy of electrons is used to make ATP (Fig. 11.9).
+Fig. 11.9 Electron Transport chain and chemiosmosis, couplin g of ETC and formation of ATP by chemiosmosis.2011. Bioenergetics eLearn.Punjab
+V: 1.1Light independent (or Dark) Reactions
+Calvin cycle : carbon ixation and reduction phase, s ynthesis of sugar
+The dark reactions  take place in the stroma of chloroplast. These reactions do not requi re light 
+directly and can occur in the presence or absence of light provi ded the assimilatory power in the 
+form of ATP and NADPH, produced during light reactions is a vailable. Energy of these compounds 
+is used in the formation of carbohydrates from C02, and thus stored their in. These reactions can 
+be summarised as follows (Fig. 11.10 ):
+The details of path of carbon in these reactions were discovered by Melvin Calvin and his colleagues 
+at the University of California. Calvin was awarded Nobel Prize in 1961.
+The cyclic series of reactions, catalyzed by respective enzymes, by  which the carbon is ixed and 
+reduced resulting in the synthesis of sugar during the dark r eactions of photosynthesis is called 
+Calvin Cycle .
+The Calvin cycle  can be divided into three phases: Carbon ixation, Reduction, and Regeneration 
+of CO2 acceptor (RuBP) (Fig 11.10).
+Phase 1: Carbon ixation:  Carbon ixation refers to the initial incorporation of CO2 into organic 
+material. Keep in mind that we are following three molecules of CO2 through the reaction (because 
+3 molecules of CO2 are required to produce one molecule of carbohydrate, a triose). The Calvin 
+cycle begins when a molecule of CO2 reacts with a highly reactive phosphorylated ive - carbon 
+sugar named ribulose bisphosphate (RuBP).  This reaction is catalyzed by the enzyme ribulose 
+bisphosphate carboxylase , also known as Rubisco (it is the most abundant protein in chl oroplasts, 
+and probably the most abundant protein on Earth). The product of th is reaction is an highly unstable, 
+six - carbon intermediate that immediately breaks into two molecules of  three - carbon compound 
+called 3 - phosphoglycerate (phosphoglycerie acid-PGA).  The carbon that was originally part 
+of CO2 molecule is now a part of an organic molecule; the carbon has b een “ixed”. Because the 
+product of initial carbon ixation is a three - carbon compound, the Calvin cycle is also known as C3 
+pathway .2 23 2 3CO  + 6NADPH + 9ATP (CH O)  + 6NADP + 9ADP  + 9Pi +3H O
+                                                 (carbohydrate) →2111. Bioenergetics eLearn.Punjab
+V: 1.1Phase 2: Reduction:  Each molecule of (PGA) receives an additional phosphate from ATP  of light 
+reaction, forming 1,3 - bisphosphoglycerate  as the product. 1,3 bisphosphoglycerate is reduced to 
+glyceraldehyde 3-phosphate(G3P)  by receiving a pair of electrons donated from NADPH of light 
+reactions. G3P is the same three-carbon sugar which is formed in  glycolysis (irst phase of cellular 
+respiration) by the splitting of glucose. In this way ixed carb on is reduced to energy rich G3P with 
+the energy and reducing power of ATP and NADPH (both the products of light-dependent reactions), 
+having the energy stored in it. Actually G3P, and not glucose, is the carbohydrate produced directly 
+from the Calvin cycle. For every three molecules of CO2 entering the cycle and combining with 3 
+molecules of ive-carbon RuBP, six molecules of G3P (containing 18  carbon in all) are produced. But 
+only one molecule of G3P can be counted as a net gain of carbohydr ate. Out of every six molecules 
+of G3P formed, only one molecule leaves the cycle to be used by the plan t for making glucose, 
+sucrose starch or other carbohydrates, and other organic compounds;  the other ive molecules are 
+recycled to regenerate the three molecules of ive-carbon RuBP, the CO2 acceptor.
+Phase 3: Regeneration of CO2 acceptor, RuBP:  Through a complex series of reactions, the carbon 
+skeletons of ive molecules of three-carbon G3P are rearranged into three mol ecules of ive-carbon 
+ribulose phosphate (RuP) . Each RuP is phosphorylated to ribulose bisphosphate (RuBP), the very 
+ive-carbon C02 acceptor with which the cycle started. Again three more molecules of  ATP of light 
+reactions are used for this phosphorylation of three RuP molecules. These RuBP are now prepared 
+to receive C02 again, and the cycle continues.2211. Bioenergetics eLearn.Punjab
+V: 1.1Fig. 11.10: The Calvin cycle occurs in stroma of chloroplast. Carbon is ixed and reduced to sugar.2311. Bioenergetics eLearn.Punjab
+V: 1.1                                                              RESPIRATION
+Living organisms need energy to carry on their vital activities. Th is energy is provided from within 
+the cells by the phenomenon of respiration. Respiration is the univers al process by which organisms 
+breakdown complex compounds containing carbon in a way that al lows the cells to harvest a 
+maximum of usable energy. 
+In biology the term respiration is used in two ways. More famili arly the term respiration means 
+the exchange of respiratory gases (CO2 and O2) between the organism and its environment. This 
+exchange is called external respiration . The cellular respiration is the process by which energy is 
+made available to cells in a step by step breakdown of C-chain molecules in the cells.
+Aerobic and Anaerobic Respiration
+The most common fuel used by the cell to provide energy by cellular respiration is glucose,. The way 
+glucose is metabolized depends on the availability of oxygen. Prior to entering a mitochondrion, 
+the glucose molecule is split to form two molecules of pyruvic acid . This reaction is called glycolysis  
+(glycolysis literally means splitting of sugar), and occur s in the cytosol and is represented by the 
+equation:
+This reaction occurs in all the cells and biologists believe that an identical reaction may have occurred 
+in the irst cell that was organized on earth. 
+The next step in cellular respiration varies depending on the type of the cell and the prevailing 
+conditions (Fig. 11.11).2411. Bioenergetics eLearn.Punjab
+V: 1.1Fig. 11.11 Pyruvate, the end product of glycolysis, follows di ferent catabolic pathways depending on the organism and th e metabolic 
+condition.
+Cell processes pyruvic acid in three major ways, alcoholic ferm entation, lactic acid fermentation 
+and aerobic respiration. The irst two reactions occur in the absenc e of oxygen and are referred 
+to as anaerobic (without oxygen). The complete breakdown of glucose molecule occurs only in the 
+presence of oxygen, i.e. in aerobic respiration. During aerobic res piration glucose is oxidized to CO2 
+and water and energy is released.2511. Bioenergetics eLearn.Punjab
+V: 1.1Anaerobic Respiration
+(i)  Alcoholic Fermentation:  In primitive cells and in some eukaryotic cells such as yeast,  
+      pyruvic acid is further broken down by alcoholic ferm entation into alcohol (C2 H5 OH) and CO2.
+(ii)  Lactic acid fermentation: In lactic acid fermentation, each pyruvic acid molecule is 
+        converted into lactic acid C3 H6 O3 in the absence of oxygen gas:
+This form of anaerobic respiration occurs in muscle cells of h umans and other animals during 
+extreme physical activities, such as sprinting, when oxygen ca nnot be transported to the cells as 
+rapidly as it is needed.
+Both alcoholic and lactic acid fermentations yield relatively sm all amounts of energy from glucose 
+molecule. Only about 2% of the energy present within the chemical b onds of glucose is converted 
+into adenosine triphosphate (ATP). 
+Aerobic respiration (Discussed in detail under cellular respiration).
+Role of mitochondria in respiration  Mitochondria are large granular or ilamentous organelles 
+that are distributed throughout the cytoplasm of animal and plant cells. Each mitochondrion is 
+constructed of an outer enclosing membrane and an inner membrane w ith elaborate folds or 
+cristae  that extend into the interior of the organelle.
+Mitochondria play a part in cellular respiration by transfer ring the energy of the organic molecules 
+to the chemical bonds of ATP. A large “battery” of enzymes and c oenzymes slowly release energy2611. Bioenergetics eLearn.Punjab
+V: 1.1from the glucose molecules. Thus mitochondria are the “Power houses”  that produce energy 
+necessary for many cellular functions.
+Adenosine triphosphate and its importance  Adenosine triphosphate, generally abbreviated 
+‘ATP’ is a compound found in every living cell and is one of th e essential chemicals of life. It plays 
+the key role in most biological energy transformations.
+Conventionally, ‘P’ stands for the entire phosphate group. The secon d and the third phosphate 
+represent the so called “high energy” bonds. If these are broken b y hydrolysis, far more free energy 
+is released as compared to the other bond in the ATP molecule. The breaking of the terminal 
+phosphate of ATP releases about 7.3 K cal. of energy. The high energy ‘P’ bond enables the cell to 
+accumulate a great quantity of energy in a very small space an d keeps it ready for use as soon as 
+it is needed.
+The ATP molecule is used by cells as a source of energy for var ious functions for example, synthesis 
+of more complex compounds, active transport across the cell membrane,  muscular contraction, 
+and nerve conduction, etc.
+Biological oxidation  The maintenance of living system requires a continual supply of  free energy 
+which is ultimately derived from various oxidation reduction reacti ons. Except for photosynthetic 
+and some bacterial chemosynthetic processes, which are themselves oxi dation reduction reactions, 
+all other cells depend ultimately for their supply of free energy on  oxidation reactions in respiratory 
+processes. In some cases biological oxidation involves the removal of hydrogen, a reaction catalyzed 
+by the dehydrogenases  linked to speciic coenzymes. Cellular respiration is essentially  an oxidation 
+process.
+Cellular Respiration
+Cellular respiration may be sub-divided into 4 stages:
+i.      Glycolysis                                                               ii.           Pyruvic ac id oxidation
+iii.    Krebs cycle or citric acid cycle                            iv.          Respiratory chain
+Out of these stages the irst occurs in the cytosol for which oxygen is  not essential, while the other 
+three occur within the mitochondria where the presence of oxygen is essen tial.2711. Bioenergetics eLearn.Punjab
+V: 1.1i.    Glycolysis  Glycolysis is the breakdown of glucose upto the formation of pyruvi c acid. Glycolysis  
+      can take place both in the absence of oxygen (anaerobic c ondition) or in the presence of oxygen 
+     (aerobic condition). In both, the end product of glucose break down is pyruvic acid.  The      
+     breakdown of glucose takes place in a series of steps, each catalyzed by a speciic enzyme. All  
+       these enzymes are found dissolved in the cytosol. In add ition to the enzymes, ATP and coenzyme 
+     NAD (nicotinamide adenine dinucleotide) are also essential.
+Glycolysis can be divided into two phases, a preparatory phase a nd an oxidative phase (Fig. 11.12). 
+In the preparatory phase breakdown of glucose occurs and energy  is expended. In the oxidative 
+phase high energy phosphate bonds are formed and energy is stored .
+Preparatory phase  The irst step in glycolysis is the transfer of a phosphate grou p from ATP 
+to glucose. As a result a molecule of glucose-6 -phosphate is f ormed. An enzyme catalyzes the 
+conversion of glucose-6-phosphate  to its isomer, fructose-6 - phosphate . At this stage another 
+ATP molecule transfers a second phosphate group. The product is f ructose 1,6-bisphosphate. The 
+next step in glycolysis is the enzymatic splitting of fructose 1 ,6 -bisphosphate into two fragments. 
+Each of these molecules contains three carbon atoms. One is called 3 - phospo- glyceraldehyde, 
+3-PGAL or Glyceraldehyde 3-phosphate (G3P) while the other is dihydroxyacetone phosphate.  
+These two molecules are isomers and in fact, are readily intercon verted by yet another enzyme of 
+glycolysis.
+Oxidative (payof) phase  The next step in glycolysis is crucial to this process. Tw o electrons or 
+two hydrogen atoms are removed from the molecule of 3- phosphoglyceraldeh yde (PGAL) and 
+transferred to a molecule of NAD. This is of course, an oxidation- reduction reaction, with the PGAL 
+being oxidized and the NAD being reduced. During this reaction, a second phosphate group is 
+donated to the molecule from inorganic phosphate present in the cell. The resulting molecule is 
+called 1,3 Bisphosphoglycerate(BPG) .
+The oxidation of PGAL is an energy yielding process. Thus a “h igh energy” phosphate bond is 
+created in this molecule. At the very next step in glycolysis this p hosphate group is transferred to a 
+molecule of adenosine diphosphate (ADP) converting it into ATP. The en d product of this reaction 
+is 3-phospho glycerate (3-PG) . In the next step 3-PG is converted to 2-Phosphoglycerate (2PG).  
+From 2PG a molecule of water is removed and the product is phosphoenol pyruvate (PEP) . PEP 
+then gives up its ‘high energy’ phosphate to convert a second molecu le of ADP to ATP. The product 
+is pyruvate, pyruvic acid (C3 H4 O3). It is equivalent to half glucose molecule that has been oxidized 
+to the extent of losing two electrons (as hydrogen atoms).2811. Bioenergetics eLearn.Punjab
+V: 1.1ii. Pyruvic add oxidation:  Pyruvic acid (pyruvate), the end product of glycolysis, does not 
+enter the Krebs cycle directly. The pyruvate (3- carbon molecule) is  irst changed into 2-carbon 
+acetic acid molecule. One carbon is released as CO2 (decarboxylation). Acetic acid on entering the 
+mitochondrion unites with coenzyme-A (Co A) to form acetyl Co A (acti ve acetate). In addition, more 
+hydrogen atoms are transferred to NAD (Fig. 11.13).
+iii. Krebs cyde or citric add cycle:  Acetyl CoA now enters a cyclic series of chemical reactions 
+during which oxidation process is completed. This series of reac tions is called the Krebs cycle (after 
+the name of the biochemist who discovered it), or the citric acid cycl e. The irst step in the cycle 
+is the union of acetyl CoA with oxaloacetate to form citrate. In this process, a molecule of CoA is 
+regenerated and one molecule of water is used. Oxaloacetate is a 4-c arbon acid. Citrate thus has 6 
+carbon atoms.
+After two steps that simply result in forming an isomer of citrate,  isocitrate another NAD- mediated 
+oxidation takes place. This is accompanied by the removal of a molecule of CO2. The result 
+is a-ketoglutarate . It, in turn, undergoes further oxidation (NAD + 2H —> NADH) f ollowed by 
+decarboxylation (CO2) and addition of a molecule of water. The product then has one car bon atom 
+and one oxygen atom less. It is succinate . The conversion of a-ketoglutarate into succinate is 
+accompanied by a free energy change which is utilised in the synthesis of an ATP molecule. The next 
+step in the Krebs cycle is the oxidation of succinate to fumarate . Once again, two hydrogen atoms 
+are removed, but this time the oxidizing agent is a coenzyme called lavin adenine dinucleotide 
+(FAD),  which is reduced to FADH2.2911. Bioenergetics eLearn.Punjab
+V: 1.1               Fig. 11.12 Two phases of glycolysis. All of these reactions take place in the cytosol.3011. Bioenergetics eLearn.Punjab
+V: 1.1Fig. 11.13 Outline of the Krebs cycle. The brackets give the number of carbon atom in each intermediate of the cycle.
+With the addition of another molecule of water, fumarate is converted to malate . Another NAD 
+mediated oxidation of malate produces oxaloacetate,  the original 4-carbon molecule. This 
+completes the cycle. The oxaloacetate may now combine with another molecu le of acetyl CoA to 
+enter the cycle and the whole process is repeated (Fig. 11.13).3111. Bioenergetics eLearn.Punjab
+V: 1.1iv. Respiratory chain:  In the Krebs cycle NADH and H+ are produced from NAD+. NADH then 
+transfers the hydrogen atom to the respiratory chain (also called electron transport system ) 
+where electrons are transported in a series of oxidation-reduction steps  to react, ultimately, with 
+molecular oxygen. (Fig. 11.14).
+The oxidation reduction substances which take part in respiratory  chain are:
+i.   A coenzyme called coenzyme Q
+ii.  A series of cytochrome enzymes (b,c,a,a3)
+iii. Molecular oxygen (02)
+Cytochromes  are electron transport intermediates containing haem  of related prosthetic groups, 
+that undergo valency changes of iron atom. Haem is the same iron containing group that is oxygen 
+carrying pigment in haemoglobin. The path of electrons in the res piratory chain appears to be as 
+follows. 
+Fig. 11.14 The repiratory electron transport chain and its cou pling with oxidative phosphorylation.3211. Bioenergetics eLearn.Punjab
+V: 1.1NADH is oxidized by coenzyme Q.  This oxidation yields enough free energy to permit the synthesis 
+of a molecule of ATP from ADP and inorganic phosphate. Coenzyme Q  is in turn oxidized by 
+cytochrome b which is then oxidized by cytochrome c. This step al so yields enough energy to permit 
+the synthesis of a molecule of ATP. Cytochrome c then reduces a com plex of two enzymes called 
+cytochrome a and as (for convenience the complex is referred as c ytochrome a). Cytochrome a is 
+oxidized by an atom of oxygen and the electrons arrive at the bottom e nd of the respiratory chain.
+Oxygen is the most electronegative substance and the inal acceptor of the electrons. A molecule 
+of water is produced. In addition, this inal oxidation provides en ough energy for the synthesis of 
+a third molecule of ATP.
+Oxidative phosphorylation: Synthesis of ATP in the presence of oxygen is called oxidative 
+phosphorylation. Normally, oxidative phosphorylation is coupled wi th the respiratory chain. As 
+already described ATP is formed in three steps of die respirator y chain (Fig. 11.14). The equation 
+for this process can be expressed as follows:
+Where Pi is inorganic phosphate. 
+The molecular mechanism of oxidative phosphorylation takes place i n conjunction with the 
+respiratory chain in the inner membrane of the mitochondrion. Here also, as in photosynthesis, the
+mechanism involved is chemiosmosis by which electron transport cha in is coupled with synthesis 
+of ATP. In this case, however the pumping/movement of protons (H+) is across the inner membrane 
+of mitochondrion folded into cristae, between matrix of mitochondrion an d mitochondrion’s 
+intermembrane space. The coupling factors in respiration are als o diferent from those in 
+photosynthesis.+
+2 NADH + H + 3ADP + 3Pi + 1/2 O  NAD + H O + 3 ATP  →+
+23311. Bioenergetics eLearn.Punjab
+V: 1.1Fig. 11.15 Stages in aerobic 
+respiration. Stage 1: Formation 
+of acetyl-CoA from pyruvate. 
+Stage 2: The Krebs cycle. Stage 3: 
+Respiratory chain and oxidative 
+phosphorylation. Each pair of H 
+atoms entering the respiratory 
+chain as NADH yields 3 ATPs.3411. Bioenergetics eLearn.Punjab
+V: 1.1EXERCISE
+Q1.       Write whether the statement is ‘true’ or ‘ false’ and write the correct statement if it is 
+            false. 
+            (i)        Hydroponics are the plants grown i n water culture.
+            
+            (ii)       Calcium is an essential element for chlorophyll formation.
+       
+            (iii)      Chlorosis means yellowing of leaves d ue to deiciency of certain essential element of  
+                       plant nutrition.
+Q.2.     Short questions.
+            (i)        List four features of a leaf which show that it is able to carry out photosynthesis 
+                       efectively.
+            (ii)       Summarise the role of water in photosyn thesis.
+            (iii)      What are T.W. Engelman and Melvin  Calvin famous for?
+            (iv)      What is the diference between an action sp ectrum and an absorption spectrum?
+            (V)       What is the role of accessory pigments  in light absorption?
+            (vi)      When and why is there not net exchang e of C02 and O2 between the leaves and the 
+                       atmosphere?
+            (vii)      What is the net production of ATP duri ng glycolysis?
+            (viii)    What is the main diference between photophos phorylation and oxidative 
+                       phosphorylation?
+            (ix)      What is the location of ETC and chem iosmosis in photosynthesis and cellular 
+                       respiration?
+            (X)       How did the evolution of photosynthesis afec t the metabolic pathway?3511. Bioenergetics eLearn.Punjab
+V: 1.1              (xi)    How does absorption spectrum of chloroph yll a difer from that of chlorophyll b?
+              (xii)    Why are the carotenoids usually not ob vious in the leaves? They can be seen in the 
+                        leaves before leaf fall. Why?
+              (xiii)  How is the formation of vitamin A link ed with eating of carrot?
+Q.3.      Extensive questions
+              (i)       Explain the roles of the following i n aerobic respiration: (a) NAD+ and FAD (b) oxygen.
+             (ii)      Sum up how much energy (as ATP)  is made available to the cell from a single glucose 
+                        molecule by the operation of glycolys is, the formation of acetyl CoA, the citric acid 
+                        cycle, and the electron transport ch ain.
+             (iii)     Trace the fate of hydrogen atoms removed  from glucose during glycolysis when 
+                        oxygen is present in muscle cells ; compare this to the fate of hydrogen atoms 
+                        removed from glucose when the amount of the available oxygen is insuicient to 
+                        support aerobic respiration.
+             (iv)     Sketch Kreb’s cycle and discuss i ts energy yielding steps.
+             (v)      Describe various steps involved in oxida tive break down of glucose to pyruvate.
+             (vi)      Sketch respiratory electron transport cha in. Discuss the signiicance of ETC.
+             (vii)     Compare photosynthesis with respiration  in plants.
+             (viii)   Explain the diference between the cyclic and non-cyclic photophosphorylation
+                        with the help of Z scheme.
+             (ix)     Give an account of light-independent rea ctions of photosynthesis.

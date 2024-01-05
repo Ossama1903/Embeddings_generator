@@ -1,0 +1,603 @@
+CHAPTER
+5 The Halogens And The Noble 
+Gases  
+Animation 5.1: Halogens
+Source & Credit: Media2
+5. The Halogens and the Noble Gases eLearn.PunjabHalogens exist as discrete diatomic molecules in all phases (gas, liquid or 
+solid ).Fluorine and chlorine are gases of pale yellow and greenish yellow colours respectively at room temperature and pressure. Bromine is a liquid of red-brown colour and iodine is a metallic-appearing shiny greyish black solid. The halogens have irritating odours, and they attack the skin. Bromine in particular causes burns that heal slowly.The outer shell of halogens have the configuration ns
+2 np5 (one electron short of the stable octet of the noble 
+gases). The electronic configurations and the important physical properties of the halogens are given in the Table 5.1The elements fluorine (F), chlorine(Cl), bromine(Br), iodine(I) and astatine(At) 
+are called halogens.These elements are called the halogens from Greek hals, “salt” and gennan, “to form or generate” , because they are literally the salt formers.The halogen elements form a group of very reactive non-metals and are quite similar to each other in their chemical properties. First four elements are the common elements of the halogen family but astatine is a rare halogen. It is radioactive and its most stable isotope has a half life of 8.3 hrs.5.1 Introduction1. T he electronic configurations and the occurrence of halogens, the peculiar 
+behaviour of fluorine.
+2.
+ T
+he volatility of halides and its explanation in terms of van der Waals forces.
+3.
+ T
+he relative reactivities of halogens as oxidizing agents.
+4.
+ T
+he properties of hydrogen halides, oxides and oxyacids of halogens.
+5.
+ T
+he comparison of thermal stability of hydrides in terms of bond energies.
+6.
+ R
+eaction of chlorine with sodium hydroxide (hot/cold).
+7.
+ T
+he preparation and reaction of bleaching powder.
+8.
+ T
+he commercial uses of halogens and their compounds as bleaches,   
+refrigerants and aerosols.
+9.
+  
+The electronic configurations, physical properties, inertness and isolation  of 
+noble gases from air.
+10.
+ T
+he properties of oxides, fluorides and oxyfluorides of xenon.IN THIS CHAPTER YOU WILL LEARN:3
+5. The Halogens and the Noble Gases eLearn.PunjabThe intermolecular attraction is greater in the larger molecules having 
+greater masses. Due to their large size the van der Waal’s forces in iodine molecules are stronger than in the smaller molecules of the other halogens.The ionization energy data of the halogens show that the 
+fluorine atom holds its electrons tightly whereas the electrons are least tightly bound in iodine. The trend can be correlated with the sizes of the halogen atoms as shown in the Table 5.1.The electron affinity values of halogens are large and negative, that is why halogens gain electrons readily. They have large, positive standard electrode potentials and their electronegatvities are also fairly high.
+Animation 5.2: Halogens
+Source & Credit: tumblr4
+5. The Halogens and the Noble Gases eLearn.PunjabProperties Fluorine Chlorine Bromine Iodine
+Atomic number  9 17 35  53
+Electronic 
+configuration
+  
+[He]2s22p5 [Ne]3s2,3p5   
+[
+Ar]3d10,4s2\4p5 [Kr]4d10,5s2,5p5
+Physical appearancePale Yellow 
+gasGreenish 
+yellow gasRed-brown liquidShiny greyish 
+black solid
+Ionization energy (kJmole
+-1) 1681 1251 1140 1008
+Electron affinity, (kjmole-1) -322 -349 -325  -295
+Electronegativity 4.00 3.00 2.8  2.5
+Ionic radius (pm) 136 181  196 216
+Covalent radius (pm) 72 99 114 133
+Melting point (°C) -220 -101 -7.2 114
+Boiling point (°C) -188 -34.6 58.8 184.4
+Density (g/cm
+3) 0.00181 0.00321 3.12 4.93
+Oxidation states -1 - l,+ l,+ 3 ,
++ 5 ,+ 7 -1,1 ,+ 3 ,+ 5 ,+ 7 -1 ,1 ,+ 3 ,+ 5 ,+ 7
+Bond energy (kJmoie
+-l)(X-X) 154.80 242.67 192.46 150.6
+Elements with the higher values of electronegativity usually exist as 
+negative ions, and those with the lower values of electronegativity exist as positive ions. Elements with intermediate values of electronegativity are often found as ions or molecules or in free (elemental)form.5.2 OCCURRENCETable 5.1 The Electronic Configurations and the Important Physical 
+Properties of the Halogens.5
+5. The Halogens and the Noble Gases eLearn.PunjabFluorine Chlorine
+Fluorospar           CaF2
+Cryolite                Na3AIF6
+Fluoroapatite      Ca5(PO4)3FHalite NaCl
+(Salt beds, brine wells, sea water)
+Carnallite KCl. MgCl2.6H2O
+Bromine                                                                                          Iodine
+Brine wells, sea water, NaBr, KBr, MgBr2 NaIO3, NaIO4, deposits in Chile 
+brine wells.None of the halogens is found in free form in nature. The halogens exist 
+in nature primarily in the form of compounds. Their most common state is the halide ions F
+-, Cl-, Br- and I- . These halides are soluble in water 
+and are found in sea, in salt lakes and as underground beds of salt.
+Animation 5.3: Periodic Table
+Source & Credit: excelhero6
+5. The Halogens and the Noble Gases eLearn.Punjab5.3 PECULIAR BEHAVIOUR OF FLUORINE
+1. Small siz e of F atom and of F- ion.
+2.
+ H
+igh first ionization energy and electronegativity.
+3.
+ L
+ow dissociation energy of F2 molecule as compared to Cl2 and Br2.
+4.
+ R
+estriction of the valence shell to an octet.
+5.
+ Dir
+ect combination with inert gases.
+Due to the small size of the F atom (or F- ion), there will be a better overlap 
+of orbitals and consequently leads to shorter and stronger bonds with 
+elements other than O, N and itself. Ionic fluorides have higher lattice energies than the other halides and these values are responsible for the insolubility of the fluorides of Ca, Mg, Ba,Sr and lanthanides in water. Due to the low dissociation energy of fluorine molecule, it is highly reactive. The other halogens react slowly under similar conditions. The fluorides are, however, more stable with respect to dissociation into elements.
+Due to the restriction of valence shell to an octet, many fluoro 
+compounds show inertness, e.g. CF
+4 and SF6. Also due to this 
+restriction, fluorine remains restricted to -1 oxidation state.Fluorine is the only element that combines directly with noble gases like Kr, Xe, and Rn forming their fluorides.
+5.4 OXIDIZING PROPERTIES
+Relative Reactivities of the Halogens as Oxidizing AgentsAll the free halogens act as oxidizing agents when they react with metals or nonmetals. The reactant elements acquire positive oxidation state in the compounds formed. On forming ionic compounds with metals, the halogens gain electrons and are converted to negative halide ions.The halogens form a homologous series but fluorine differs from the other 
+halogens in many respects which is due to:
+2 2Na + Cl 2Na Cl+- →7
+5. The Halogens and the Noble Gases eLearn.PunjabThe oxidizing power of halogens decreases with increase in atomic 
+number. Fluorine has the highest oxidizing power and iodine the least. The order of decreasing power as an oxidizing agent is F
+2 > Cl2 > Br2 > I2
+ The oxidizing power of halogens depends upon the following factors:1.
+ Ener
+gy of dissociation
+2.
+ Elec
+tron affinity of atoms
+3.
+ H
+ydration energies of ions
+4.
+ Hea
+ts of vapourization (for Br2 and I2)
+If a halogen has a low energy of dissociation, a high electron affinity and a higher hydration energy of its ions, it will have a high oxidizing power.
+Oxidizing power of F
+2 is higher, because it has low energy of 
+dissociation and higher hydration energy of its ions. Due to the 
+relative strength as oxidizing agents, it is possible for each free halogen to oxidize the ions of other halogens next to it in the family. Standard electrode potential measures oxidizing power.
+F2CI2Br2I2
+Standard reduction potential. Eo (V)
++2.87 +1.36 +1.07 +0.542X 2e 2X+→X2+2e-       2X-
+Fluorine can oxidize all the halide ions to molecular halogens. (A reaction will occur if the value of E°is positive) Iodine being a weak oxidizing agent cannot oxidize chloride or bromide ion.
+-- o
+2
+--
+2
+--
+22F  + 2e 2F          E =2.87V
+2Cl  Cl +2e  F +2Cl Cl +2F →
+ →
+ →o E = -1.36V
+oE =+1.51V8
+5. The Halogens and the Noble Gases eLearn.PunjabIn the similar way, chlorine will oxidize both bromide and io -
+dide ions, while bromine can oxidize only iodide ion.
+Fluorine and chlorine can oxidize various coloured 
+dyes to colourless substances, e.g. litmus and univer -
+sal indicator can be decolourized when exposed to fluorine or chlorine. When used for bleaching, chlorine acts as an oxidizing agent.--
+22
+--
+22Cl +2Br Br +2Cl
+Br +2l I +2Br →
+ →
+5.5 COMPOUNDS OF HALOGENS
+5.5.1 Hydrides (hydrogen halides, HX)
+All halogens react with hydrogen forming hydrides. The reaction of molecular hydrogen and fluorine is very fast and explosive. With chlorine, molecular hydrogen reacts in the presence of sunlight. Bromine and iodine react with molecular hydrogen at a higher temperature. The reaction with iodine is very slow and reversible. Direct combination is used as a preparative method only for HCl and HBr. Hydrogen fluoride and hydrogen chloride can also be obtained by the action of concentrated sulphuric acid on fluorides and chlorides, but analogous reactions with bromides and iodides result in partial oxidation of the hydrogen halide to the free halogen.
+Properties of Hydrogen Halides
+HF is a colourless volatile liquid whereas other hydrogen halides (HCI, HBr, HI) are colourless gases at room temperature. They give fumes in moist air. They are strong irritants.24 24
+24 24 2 2 2  2NaCl(s)+H SO (conc.) Na SO (aq)+2HCl(g)
+2NaBr(s)+2H SO (conc.) Na SO (aq)+Br (l)+SO (g) +2H O →
+ →9
+5. The Halogens and the Noble Gases eLearn.PunjabChain polymers may also exist under certain conditions. Chains and rings of 
+HF are of various sizes, some of these persist in the vapour phase as well. Some of the physical properties of hydrogen halides are given in Table 5.2.Hydrogen fluoride attacks glass and has found applications as a non-aqueous solvent. It can be handled in teflon ( polytetrafluoroethylene) containers or if absolutely dry, in copper or stainless- steel vessels kept under vacuum. Pure liquid HF is strongly hydrogen bonded and is a viscous liquid. Its viscosity is less than that of water due to the absence of a three dimensional network of H-bonds which occur in H
+2O.
+Hydrogen bonding is also responsible for the association of HF molecules in the vapour phase. Various test results indicate that gaseous HF consists of an equilibrium mixture of monomers and cyclic hexamers, Fig.5.2.
+6 6HF (HF)���� ��
+Table 5.2 Some Physical Properties of Hydrogen Halides
+Property HF HCI HBr HI
+Melting points(°C) -83.8 -114.2 -86.9 -50.8
+Boiling points (°C) 19.5 -85.0 -66.7 -35.3
+Heat of fusion at M.P . (kJ/mol) 4.58 1.99 2.41 2.87
+Heat of vaporization at B.P . (kJ/mol) 30.3 16.2 17.6 19.7
+Heat of formation /kJ mol-1(rHf) -270.0 -92.0 -36.0 +26.0
+Bond energy (kJ /mol-1) 566 431 366 299
+H-X Bond length (pm) 92 128 141 160
+Dissociation into elements at 1000°C (%) 0 0.014 0.5 33
+Dipole moment (Debye) 1.8 1.1 0.8 0.410
+5. The Halogens and the Noble Gases eLearn.PunjabSince the dipole moment of molecules decreases from HCI to 
+HI, probably dipole-induced dipole forces play an important role in the intermolecular binding of the heavier HX molecules. Melting points, boiling points, heats of fusion and heats of vapourization 
+generally increase regularly from HCl to HI. The HF has much higher values for these properties due to hydrogen bonding. A very high boiling point of hydrogen fluoride is a major evidence of the presence of hydrogen bonding among its molecules.The relative volatility of HCl, HBr and HI reflects the strengthening of the van der Waal’s forces due to increasing size of halogens.
+Hydrogen iodide is a strong reducing agent. In redox reactions the hydrogen halides are oxidized to elemental halogens, e.g.
+In water, hydrogen halides give hydrofluoric, hydrochloric, hydrobromic and hydroiodic acids. Hydrofluoric acid is a weak acid due to limited ionization. The other three acids are very strong acids. The acidic strength increases in the order.HF<HCl<HBr<HI
+HF<HCl<HBr<HI2 2 2HI+S I +H S���� ��
+The halogens do not react directly with oxygen. With the help of some indirect methods, following oxides of group VIIA elements have been made.5.5.2 Oxides of HalogensThe strength of the hydrogen halogen bond is very high in HF. It decreases with increasing size of the halogen atom. The bond strength is reflected in the case of dissociation of hydrogen halides at elevated temperatures.
+HF, HCl, HBr and HI act as reducing agents in the following order:11
+5. The Halogens and the Noble Gases eLearn.PunjabFLUORINE CHLORINE BROMINE IODINE
+Oxygen difluoride, OF2Dichlorine monoxide, CI2O Brominemonoxide,Br2O Iodine tetraoxide, I2O4
+Dioxygen difluoride,O2F2Chlorine dioxide, CIO2Bromine dioxide,BrO2Iodine iodate, I4O9
+Trioxygen difluoride Chorine hexaoxide, CI2O6
+Chlorine heptaoxide.Cl2O7Bromine trioxide, 
+BrO3,(Br3O8)Iodine pentoxide,I2O5Table 5.3 Oxides of Halogens
+Trioxygen Difluoride, O3F2
+This oxide can be prepared 
+when a mixture of fluorine and oxygen is subjected to electric discharge. At 363 °C, it is a dark red viscous liquid but turns to reddish brown solid at 350 °C. On decomposition it gives oxygen and other oxide offluorine.Oxides of Fluorine
+O3F2 reacts with F2 in the presence of electric discharge to produce O2F232 22 2 2O F 2O F +O →
+32 2 22 2O F +F 3O F →
+OXIDES OF CHLORINE
+The oxides of chlorine are generally unstable. It is not possible 
+to synthesize them by direct combination of the elements Cl
+2 and O2. They have extensive industrial use as commercial 
+bleaching agents for wood, paper- pulp and for water treatment.12
+5. The Halogens and the Noble Gases eLearn.Punjab2.  Chlorine Heptaoxide, CI2O7
+CI2O7 is an anhydride of perchloric acid (HCIO4). It can be obtained at -10oC by 
+dehydration of HCIO4 with P2O5.1. Chlor ine dioxide, CIO2
+It is a pale yellow gas. It is prepared by reducing NaCIO3, with NaCl or SO2 or 
+CH3OH in strongly acidic solution.
+CIO2 can also be prepared by the action of concentrated H2SO4 on KCIO3,.
+This reaction is violent. To control the reaction oxalic acid should be 
+added.
+CIO2 explodes into Cl2 and O2 on warming. It is soluble in water and is stable 
+in dark. It decomposes slowly in H2O to HCI and HCIO3. It is a paramagnetic 
+substance. It is used as an antiseptic, for purification of water and to bleach cellulose material.-+
+3 22 2 2CIO +2CI +4H 2CIO +CI +2H O- →
+3 2 2 4 24 24 2 2 2 2KCIO +H C O +H SO K SO +2H O+2CO +2CIO  →
+OXIDES OF BROMINEOxides of bromine are dark volatile liquids with low thermal stability.o-10 C
+4 25 2 7 3 2HCIO +P O Cl O +2HPO   →
+Br2O can also be prepared by treating the suspension of mercuric oxide in 
+CCI4 with bromine.It is stable in dark in CCI4 at -20°C. It has oxidizing 
+properties.Bromine Monoxide Br2O
+It can be prepared by the reaction of bromine vapours with mercuric oxide.
+o50 C
+2 22 HgO+2Br HgBr +Br O   →
+OXIDES OF IODINE
+Out of all the oxides of iodine only iodine pentaoxide (I2O5) is important. 
+The other compounds, I2O4 and I2O9 are salt like and are considered
+ as iodine-iodates.13
+5. The Halogens and the Noble Gases eLearn.PunjabIodine Pentoxide I2O5
+It can be prepared by heating iodic acid at 240°C.
+It is a white crystalline solid, stable up to 300°C. It has a polymeric 
+structure. It is insoluble in organic solvents. It forms iodic acid with water.
+It reacts with H2S, HCI and CO as an oxidizing agent.
+It is used for the quantitative analysis of CO.o240 C
+3 25 2 2HIO I O +H O  →
+25 2 3 I O +H O 2HIO  →
+25 2 2 5CO+I O I 5CO  → +
+5.5.3 Reactions of Chlorine with Cold and Hot NaOH
+The  reactions  of  chlorine  with cold and hot NaOH are examples of “Disproportionation reactions” .
+A reaction in which a species (molecule, atom or ion)is simultaneously
+oxidized and reduced, is called a “disproportionation reaction” .In cold (15°C) state chlorine will react with NaOH (aq) to form hypochlorite and a halide.
+o15 C
+22 2NaOH(aq)+Cl (g) NaCl(aq)+NaClO(aq)+H O(aq) (a)   →
+Sod.hypochlorite
+The reaction is a disproportionation reaction, because the zero oxidation state of chlorine atom in Cl
+2, is converted to -1 in chloride and +1 in 
+hypochlorite.
+Sodium hypochlorite which is produced in cold state in the above reaction, decomposes forming sodium chloride and sodium chlorate at 70°C.
+o70 C
+3 3NaClO(aq) 2NaCl(aq)+NaClO (aq)   → (b)14
+5. The Halogens and the Noble Gases eLearn.PunjabThe above two reactions (a) and (b) show that chlorine atoms are both 
+reduced and oxidized.The reaction (b) involves the disproportionation of hypochlorite ion. To balance overall reaction in hot state, multiply equation (a) with 3 and then add (a) and (b).
+22 6NaOH+3Cl 3NaCl+3NaClO+3H O  →
+23
+23             3NaClO 2NaCl+NaClO
+6NaOH(aq)+3Cl (g) 5NaCl(aq)+NaClO (aq)+3H O →
+ →
+No oxygen containing stable acid of fluorine is known (HOF is prepared recently, but it is highly unstable). Other halogens form oxyacids though most of them cannot be isolated in pure form and are stable only in aqueous solutions in the form of their salts.5.5.4 Oxyacids
+An important class of the compounds of the halogens is the oxygen containing acids and their salts.
+A system of nomenclature for these acids and their salts is based on the 
+oxidation state of the halogen atom. According to this system, characteristic prefixes and suffixes are attached to a stem that is derived from the name of the central nonmetal (halogen) atom. The system is as follows:-
+1.
+ S
+ome common acid is orbitrarily called the _____ ic acid (e.g. HCIO3 is 
+designated as chloric acid). The name of a salt of this acid ends in _____ ate.
+2.
+ A
+n acid whose parent atom has an oxidation state next lower than the 
+_____ ic acid (one less oxygen atom) is called ous acid and the name of the salt of this acid ends in _____ ite. For example, chlorous acid (HCIO
+2).
+3.
+ T
+he acid in which the oxidation state of the parent atom is higher than it 
+is in the _____ ic acid (one more oxygen atom) is called per_____ ic acid. A salt of this acid is a per _____ ate salt. For example, perchloric acid (HCIO
+4).15
+5. The Halogens and the Noble Gases eLearn.Punjab4.  An acid in which the oxidation state of the parent atom is lower than it is 
+in the___ ous acid is called hypo _____ ous acid and a salt of this acid is a hypo _____ ite salt. For example, hypochlorous acid (HCIO).5.   The root of the name of the acid or the salt indicates the parent atom.
+Table 5.4 shows the oxyacids of halogens (other than fluorine)
+Table 5.4 Oxyacids of Halogens
+Oxidation
+state
+of halogenFormula of the oxyacids of
+halogensGeneral names of
+Chlorine Bromine Iodine Oxyacids Salts of
+oxyacids
++1 HCIO HBrO HIO Hypohalous acid Hypo__ite
++3 HCIO2------ ------ Halous acid ____ite
++5 HCIO3HBrO3HIO3Halic acid ____ ate
++7 HCIO4HIO4, H5IO6Perhalic acid Per____ 
+ate
+It is evident from the above given formulas of the oxy acids that 
+the halogen serves as a central atom to which one or more oxygen atoms are covlently bonded. These bonds are polar in character due to the electronegativity difference between halogen and oxygen.
+The increase in the oxidation state of the halogen from +1 to + 7 is
+ accompanied by :(a)     an increase in the thermal stability of the acid(b)     the decrease in oxidizing power of the acid(c)      the increase in acidic strength of the acid
+The more the number of oxygen atoms in the series of oxyacids of a halogen, 
+the greater is the thermal stability.
+The acid strength increases with the increase in the number of oxygen 
+atoms. As the oxidation state of the halogen increases, the bonding electrons are shifted away from the Hatom and the tendency of the molecule to lose a proton increases. This accounts for the change of strength of oxyacids. The oxyacids of halogens show their strength in the order given below:16
+5. The Halogens and the Noble Gases eLearn.Punjab432 HXO >HXO >HXO >HXO
+An oxyacid molecule contains hydrogen linked to the halogen through an 
+oxygen atom.
+The oxyacids of chlorine are stronger than the corresponding oxyacids of 
+bromine which are, in turn, stronger than the corresponding oxyacids of iodine. It is due to decrease in the electronegativity and increase in the size of the halogen.
+We will discuss perchloric acid (HClO
+4) only at this stage.
+PERCHLORIC ACID (HCIO4)
+Perchloric acid (HClO4)is commonly obtained in aqueous solution. 
+Pure anhydrous compound can by prepared by distilling a mixture of 
+potassium perchlorate (KCIO4) and conc. H2SO4  under reduced pressure.
+Perchloric acid is a colourless hygroscopic liquid. At normal pressure it freezes at -112°C and boils with decomposition at 90° C.
+In the cold and dilute state,perchloric acid is a very weak oxidizing  agent  
+but when hot and concentrated its oxidizing power is enhanced. Dissolving power of perchloric acid is enhanced due to its oxidizing strength. Perchloric acid is the strongest of all the acids in an aqueous medium.
+Due to its oxidizing effect, acidic strength and solubility of its salts, it is 
+considered as a valuable analytical reagent.Pure perchloric acid decomposes explosively when heated. That is why it is stored and used as 67% solution in water. Perchloric acid reacts with organic substances violently.Ä
+4 24 4 4 reduced pressureKClO +H SO (conc.) KHSO (s)+HClO (l)  →17
+5. The Halogens and the Noble Gases eLearn.PunjabAnimation 5.4: Perchloric acid
+Source & Credit: bouman
+5.5.5 Bleaching Powder, (Ca(OCl)Cl)
+Bleaching powder can be manufactured by the action of chlorine 
+on dry slaked lime using any one of the following methods:
+(a)   Hasenclever’s method (old method)
+(b)   Beckmann’s method (modern method)The reaction in both the cases will be:
+22 2
+Slaked lime                          Ble aching powderCa(OH) +Cl Ca(OCl)Cl+H O  →
+The apparatus used in this method consists of 4 to 8 iron cylinders placed one above the other horizontally. They are interconnected and provided with stirrers. The slaked lime is added in through a hopper in the upper cylinder and is transported from one cylinder to the other with rotating stirrers. Chlorine introduced into the lowest cylinder rises up and reacts with slaked lime to form bleaching powder, which is collected through the outlet in the lowest cylinder.(1)   Hasenclever’s Method18
+5. The Halogens and the Noble Gases eLearn.Punjab
+(2)   Beckmann’s Method
+In this method a cast iron tower with eight horizontal shelves is used.
+In each shelf there is a rotating rake.Powdered slaked lime is introduced through hopper at the top with compressed air. A mixture of hot air and chlorine are introduced from the base of the tower. The slaked lime is pushed down by the rotating rakes while chlorine rises up. Reaction between slaked lime and chlorine produces bleaching powder which is collected at the bottom of the tower, Fig.5.319
+5. The Halogens and the Noble Gases eLearn.PunjabThe apparatus works on the countercurrent principle. Thus 
+maximum reaction of slaked lime and chlorine is brought about with very little loss of chorine. Bleaching powder should always be packed in air tight containers to avoid the loss of chlorine.
+Bleaching powder is a yellowish white powder with strong smell of chlorine. Some of its chemical properties are given below.1. It is an oxidizing agent. This property is due to the generation of hypochlorite ion (OCl) in water.
+2. With dilute acid it gives hypochlorous acid.
+3. If excess of an acid (weak or strong) is added to bleaching powder, 
+chlorine is given out.
+22 4 42 2 CaOCl +H SO CaSO +H O+Cl
+(excess) → ↑2HO +2 -
+2 CaOCl Ca +Cl +ClO-��������
+2 24 4 2 2CaOCl +dil.H SO CaSO +CaCl +2HClO  →
+The amount of chlorine thus set free is called “available chlorine” . The activity of bleaching  powder is measured in terms of available chlorine. The average percentage of available chlorine in bleaching powder is 35-40 percent. The bleaching action of bleaching powder is due to its oxidative character.
+4. It oxidizes HC1, HBr and HI giving the corresponding halogens.
+5. It oxidizes ammonia to nitrogen
+6. Calcium hypochlorite reacts with carbon dioxide to form calcium 
+carbonate and release chlorine.2 22 2 CaOCl +2HCl CaCl +H O+Cl  →
+2 3 22 2 3CaOCl +2NH 3CaCl +3H O+N  →
+2 2 32 CaOCl +CO CaCO +Cl  →20
+5. The Halogens and the Noble Gases eLearn.PunjabUses
+Bleaching powder is used:
+1.
+ f
+or the laboratory preparation of chlorine and oxygen. It is also used 
+in the manufacture of chloroform.
+2.
+ as a disinf
+ectant and in the sterilization of water.
+3.
+ f
+or making unshrinkable wool.
+4.
+ f
+or bleaching cotton, linen and paper pulp. (Delicate fabrics like wool, 
+silk etc. cannot bebleached with it as these could be damaged by chlorine).
+5.6 COMMERCIAL USES OF HALOGEN AND THEIR 
+COMPOUNDS
+Fluorine is used for the preparation of freons. Freon is the commercial 
+name of low molecular mass fluorochlorocarbons, CCl2F2, CClF3. 
+These are being used as refrigerants and aerosol propellants.
+Fluorine is used to prepare Teflon (-CF2— CF2-)n. It 
+is a polymerized tetrafluoro ethylene compound. It is a valuable plastic which resists the action of oxidants, acids and alkalies.Corrosion-proof parts of machinery are made of it.It is used for coating the electrical wiring.Teflon is also used as a non-stick coating for cooking pans.Halothane is used as an anaesthetic.
+Fluorides in toothpastes build a protective coating on teeth.Chlorine is used in the manufacture of bleaching powder.It is used as a disinfectant in swimming pools and water treatment plants. A number of antiseptics, insecticides, weedkillers and herbicides are manufactured from chlorine.It is also used in the manufacture of hydrochloric acid, which is the cheapest industrial acid.Chlorine is also used in the manufacture of polyvinyl chloride (PVC) plastics. Chloroform and carbon tetrachloride are prepared from chlorine which are used as solvents.21
+5. The Halogens and the Noble Gases eLearn.PunjabEthylene dibromide (C2H4Br2) is added to leaded gasoline to save 
+the engine from lead oxide and lead sulphate deposits. Bromine 
+is also used as fungicide. Silver bromide is used in photography.The major applications of iodine are in pharmaceutical industry.It is used as disinfectant and germicide.Tincture of iodine and iodex are popular preparations of iodine.
+Diet with insufficient iodide ions leads to an enlargement of the thyroid 
+(Goiter). To ensure the presence of iodide ion in the diet, sodium or potassium iodide is added to the common salt which is known as iodized salt.
+5.7 NOBLE GASES
+5.7.1 Introduction
+The elements helium(He), neon (Ne), argon(Ar), krypton (Kr), xenon (Xe) and radon (Rn) are placed in the zero group or group VIIIA of the periodic table. All the elements of this group are colourless and odourless monoatomic gases which can be liquefied and solidified. These are called noble gases or sometime known as rare gases. The noble gases occur as minor constituents of the atmosphere (about 1%). The electronic configurations and some physical properties of noble gases are given in the Table 5.5.
+Table 5.5 Electronic Configurations and Physical Properties of Noble Gases
+Property He Ne Ar Kr Xe Rn
+Atomic number 2 10 18 36 54 86
+Electronic 
+configurationsIs2(He)2s2 
+2p6(Ne)3s2 
+3p6(Ar)3d10 4s2 
+4p6(Kr)4d10 
+5s2 5p6(Xe)5d10 
+6s2 6p6
+Ionization energy (kJmol
+-1)2372 2081 1521 1351 1170 1037
+Atomic radius (pm) 40 70 94 109 130 140
+Melting points (oC) -272 -249 -189 -157  -112  -71
+Boiling points (oC) -269 -246  -186 -153 -108 -61
+Water solubility (ml/lit) at 20
+oC13.8 14.7 37.9 73.00 110.9 ----
+Heat of vapourisation (kJmol
+-1)0.08 1.77 6.5 9.7 13.7 18.022
+5. The Halogens and the Noble Gases eLearn.PunjabThe noble gases are isolated from air, either by fractional distillation or by some 
+chemical method. The principal commercial source of Ne, Ar, Kr and Xe is air.Helium is present on earth as a result of radioactive decay. After hydrogen, it is the second most abundant element in the universe. a-Particles are doubly ionized helium atoms He
+2+. It is simple and economical to isolate the helium gas
+ from certain natural gases by liquefaction method.
+Neon is 1/65000th part of the atmosphere and it is also isolated during 
+liquefaction of air. In a discharge tube, neon glows reddish (of all the noble gases, the discharge of neon is the most intense at ordinary voltage and current). Liquid neon has over 40 times more refrigeration capacity than liquid helium.
+Traces of krypton are present in air. It is a colourless, odourless and fairly expensive gas. It is characterized by its brilliant green and orange spectral lines. Its compound krypton difluoride (KrF
+2) can be prepared by various methods.
+Xenon is present in the atmosphere to a very small extent (0.08 ppm). It is obtained as a by-product during the fractional liquefaction of air. Xenon is available
+commercially in cylinders at high pressure. It reacts with fluorine but not with water. However it is slightly soluble in water to the extent of about 110 ml/lit at 20°C.
+Radon is the  a-decay product of the radium. Radon is present to a very 
+small extent in the atmosphere and it could be obtained as a by-product from the liquefaction of air. However, the small quantities of this gas which are usually needed can be collected from the radioactive decay of radium isotopes.
+222226 4
+8688 X Ra Rn+ He →
+The noble gases have valence shells which are closed octets (except He). Due to closed shells their ionization energy values are very high. They have low boiling points. The boiling point of helium is the lowest of any known substance. Their boiling points increase with increasing atomic number down the group.Argon is a colourless and odourless gas. It is very inert and not known to formany true chemical compound. It is obtained as a by-product during the liquefaction of air.23
+5. The Halogens and the Noble Gases eLearn.PunjabThe very low values of melting and boiling points and low heats of 
+vapourization show that noble gases have weak forces of attraction between their atoms. As there are no ordinary electron pair interaction, these weak forces must be of the van derWaals type.
+The solubility of the noble gases in water increases with increasing atomic 
+number. This is because the bigger atoms are more readily polarized by water molecules.
+5.7.2 Compounds of Xenon
+Xenon reacts directly with fluorine only. The known oxidation state of  Xenon in its compounds range from +2 to +8. These compounds are stable and can be obtained in large quantities. Some important compounds of Xenon are give in the Table 5.6
+Table 5.6 Compounds of Xenon
+Oxidation state
+of xenonCompound Physical form Melting Point
+(°C)
++2 XeF2Colourless crystals140
++4 Xe F4
+XeOF2Colourless crystals
+Colourless crystals114
+90
++6 XeF6
+XeOF4Colourless crystals
+Colourless liquid48
+-28
++8 XeO3
+XeO4Colourless crystals
+Colourless gas25 (Explodes)
+-39.9 ( Explodes on 
+warming )
+Animation 5.5: flroride
+Source & Credit: waterus24
+5. The Halogens and the Noble Gases eLearn.PunjabXeF6 requires more severe conditions. Xe and F2 are taken in 3:20 ratio in 
+a stainless steel vessel and heated to 300°C at 50 atmospheric pressure. 
+More than 95% conversion to XeF6 takes place. XeF6 is a crystalline solid. 
+It is colourless in the solid state but yellow in liquid and gaseous forms.5.7.3 Fluorides of Xenon
+XeF2 can be prepared by direct interaction of the elements.The 
+compound formed should be removed immediately from the reaction zone, otherwise further reaction with F
+2 will give XeF4. 
+The reaction is completed in about 8 hours. XeF2 is a crystalline 
+solid. It is stored in nickel vessels. XeF2 is a mild fluorinating agent.
+XeF4 can be prepared by heating a mixture of Xe and F2 in 1:5 
+ratio in a nickel container under 6 atmospheric pressure for a few hours. It can be stored in nickel vessels. Its properties are similar to that of XeF
+2 but it is a strong fluorinating agent.Three known fluorides of Xenon are XeF2, XeF4 and XeF6.
+22
+22 4
+42 6Xe+F XeF
+XeF +F XeFXeF +F XeF →
+ → →
+Animation 5.6: flroride1
+Source & Credit: waterus25
+5. The Halogens and the Noble Gases eLearn.PunjabChemical Reactions
+Fluorides of xenon can be reduced with hydrogen at 400°C, giving xenon and
+ hydrofluoric acid.
+Xenon tetra-fluoride is a good fluorinating agent and can be used to prepare metal fluorides as follows:
+Reaction occurs with explosion when XeF
+4 is brought in contact with liquid
+ ammonia.
+Hydrolysis of XeF6 with small amount of water gives XeOF422
+42
+62XeF +H Xe+2HF
+XeF +2H Xe+4HFXeF +3H Xe+6HF →
+ →
+ →
+42XeF +2Hg Xe+2HgF  →
+43 2 3XeF +4NH 3Xe+12HF+2N  →
+62 4 XeF +H O XeOF +2HF  →
+Xenon oxydifluoride, XeOF2 is obtained when xenon 
+reacts with oxygen difluoride in an electric discharge.5.7.4 Xenon Oxyfluorides
+Xenon oxytetrafluoride, XeOF4 is also formed by a rapid reaction of XeF6 
+with silica (quartz).
+XeOF4 is a colourless volatile liquid. It can be kept 
+in nickel vessel.It reacts with water to give XeO3.6 2 44 2XeF +SiO 2XeOF +SiF  →
+22 Xe+F O XeOF →42 3 XeOF +2H O XeO +4HF  →26
+5. The Halogens and the Noble Gases eLearn.PunjabIt is obtained by the addition of barium or sodium perxenate to conc.H2SO45.7.5 Oxides of Xenon
+There are two oxides of xenon
+1.
+ X
+enon trioxide
+2.
+ X
+enon tetraoxide
+Xenon trioxide can be obtained when XeF6 is hydrolysed slowly.
+It is a crystalline solid. It explodes at very low temperature. It is 
+weakly acidic and its aqueous solution is almost non-conductor.1.     Xenon Trioxide XeO3
+2.    Xenon Tetraoxide XeO4Animation 5.7: Oxidized
+Source & Credit: bp.blogspot
+62 3 XeF +3H O XeO +6HF  →
+262 4 4 42
+462 4 4 2 42Ba XeO +2H SO XeO +2BaSO +2H O
+Na XeO +2H O XeO +2Na SO +2H O →
+ →
+5.7.6 Applications of the Noble Gases
+1. Helium is used in w eather balloons, in welding and in traffic signal 
+light.
+2.
+ A mix
+ture of 80% helium and 20% oxygen is used for breathing by the 
+sea divers.
+3.
+ Helium is used as a c
+ooling medium for nuclear reactors.27
+5. The Halogens and the Noble Gases eLearn.Punjab4. Neon is largely used in making neon advertising signs, in high voltage 
+indicators and TV tubes.
+5. Neon and helium arc is used in making glass lasers.
+6. Argon is used in electric light bulbs, in fluorescent tubes, in radio tubes, 
+and in Geiger counters (used to detect radioactivity).
+7. Argon is also used for arc welding and cutting.
+8. Krypton is used to fill fluorescent tubes and in flash lamps for high speed 
+photography.
+9. Xenon is used in bactericidal lamps.10. Radon being radioactive is used in radiotherapy for cancer and for 
+earth quake prediction.
+1. T he halogens are very reactive. Intermolecular forces in halogens increase 
+down the group, fluorine is a gas but iodine is solid.
+2.
+ T
+hey form ionic compounds with s-block metals, covalent compounds 
+with p-block elements and complex ions with d-block metals. Fluorides are usually ionic.
+3.
+ T
+hey show oxidation states -1, +1, +3, +5, + 7 but fluorine shows the oxidation 
+state of -1 only.
+4.
+ O
+xidizing power of halogens decreases down the group in the following 
+order:
+     F2        Cl2         Br2        I2
+5. R educing power of halide ions decreases from I- to Br- Chloride and fluoride 
+ions are not reductants.
+6.
+ Chlor
+ine, bromine and iodine form their respective oxides and oxyacids.
+7.
+ Halogens and their 
+compounds are used for bleaching, refrigeration and as 
+aerosols, etc.KEY POINTSV
+V
+V
+8.     Noble gases are placed in zero (VIIIA) group of periodic table. 9.    They have valence shells which are closed octets (except helium). 10.   Very low values of melting and boiling points show that there are         very weak  forces of attraction between their atoms. 11.  Oxides, fluorides and oxyfluorides of xenon can be prepared.12.  Noble gases have multi-dimensional uses.28
+5. The Halogens and the Noble Gases eLearn.PunjabQ.l    Fill in the blanks.
+(i)     The halogen with the highest electronegativity is ___________________.(ii)     HI is _________ agent.(iii)    The only halogen acid which is not a strong acid is ________________ .(iv)    Tincture of______________ is a common antiseptic.(v)     The halogen with the lowest melting and boiling points is __________.(vi)    Bleaching powder is prepared from _________  and ____________.(vii)   _____________ is the halogen which causes burns on the skin which heal slowly.(viii)  _____________is used for making unshrinkable wool.(ix)   A mixture of ___________and ____________ is used for breathing by the sea divers.(x)    Noble gas used to fill fluorescent tubes is _______________.
+Q.2   Indicate True or False.
+(i)     HF is used for etching glass.(ii)    HI is weaker reducing agent as compared to HF(iii)   Bleaching powder is completely soluble in water.(iv)   The formula of perchloric acid is HCIO
+2.
+(v)    On warming, aqueous KOCl disproportionates as follows.(vi)   a-particles emitted by radioactive elements are ions of radon.(vii)  Radon is the only one of the noble gases that is radioactive.(viii) The molecules of the noble gases are all monoatomic.(ix)   Argon is used to fill electric bulbs.(x)    The noble gas which is present in the largest amount in atmosphere is krypton.
+Q 3. Multiple choice questions. Encircle the correct answer.
+(i) Which of the following hydrogen halide is the weakest acid in solution?
+(a) HF            (b) HBr            (c) HI              (d) HCI
+(ii) Chlorine heptaoxide (Cl
+2O7) reacts with water to form:
+(a) Hypochlorous acid                               (b) Chloric acid(c) Perchloric acid                                       (d) Chlorine and oxygen
+(iii) Hydrogen bond is the strongest between the molecules of:
+(a) HF            (b) HCl            (c) HBr           (d) HIEXERCISE29
+5. The Halogens and the Noble Gases eLearn.Punjab(iv) Which halogen will react spontaneously with Au(s) to produce Au3+?
+(a) Br2           (b)F2                  (c) I2                (d) Cl2
+(v) The anhydride of HCIO4 is :
+(a) CIO3         (b) ClO2            (c) Cl2O5        (d) CI2O7
+(vi) Bleaching powder may be poduced by passing chlorine over:
+(a) calcium carbonate                                 (b) hydrated calcium sulphate
+(c) anhydrous calcium sulphate                (d) calcium hydroxide(e) magnesium hydroxide
+(vii)Which is the strongest acid?
+(a) HCIO            (b) HClO
+2           ( c ) HClO3           (d) HClO4
+(viii) Which halogen occurs naturally in a positive oxidation state?
+(a) Fluorine       (b) Chlorine       (c) Bromine         (d) Iodine
+(ix) An element that has a high ionization energy and tends to be chemically inactive would most likely to be:
+(a) an alkali metal                             (b) a transition element(c) a noble gas                                   (d) a halogen
+(x) Which of the following represents the correct electronic configuration of the outermost energy level of an element of zero (VIIIA) group in the ground state.
+(a) s
+2p2                (b) s2p4                 (c) s2p5            (d) s2p6
+Q.4 What is bleaching powder? How it is prepared commercially? Give its uses.
+Q.5 (a) Discuss the oxides of chlorine.
+(b) What are disproportionation reactions? Explain your answer with an example.
+Q.6 Discuss the system of nomenclature used for oxyacid of halogens. 
+Support your answer with examples.
+Q.7 (a) How the halogen acids are ionized in water?
+(b) Why HF is weaker acid than HCl?30
+5. The Halogens and the Noble Gases eLearn.PunjabQ.8 In the following sets, arrange the substances in order of the property 
+indicated. Give reasons.(a) Increasing acidic character
+HCIO,          HCIO
+2,        HClO3,        HClO4
+(b) Increasing oxidizing power
+F2,                Cl2,              Br2,              I2
+Q.9 What happens when bleaching powder reacts with the following reagents dil. H
+2SO4,excess of conc. H2SO4, NH3, HI and CO2.
+Q.10 Discuss the various commercial uses of halogens and their compounds.
+Q .11 What are noble gases? Explain their inertness on the basis of their 
+electronic configuration.
+Q.12 Write notes on the followings.
+(i) Oxyfluorides of xenon.(ii) Applications of noble gases.
+Q.13 Short questions.
+(i) What is “Iodized Salt”?(ii) What are Freons and Teflon?(iii) Arrange the following ions in order of increasing size:
+F
+-,           CI-,            I-,             Br-
+(iv) Why iodine has metallic luster?(v) Which halogen sublimes to violet vapours?(vi) Which halogen is used as an antiseptic?(vii) Which halogen is used in water treatment to kill becteria ?(viii) Name the gas, which is used for earthquake prediction.(ix) Name the gas, which is used in bactericidal lamps.

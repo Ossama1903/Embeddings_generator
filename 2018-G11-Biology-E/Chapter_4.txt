@@ -1,0 +1,518 @@
+CHAPTER
+4 The Cell
+Animation 4.1: Plant cell
+Source & Credit: Wiki.gcc24. The Cell eLearn.Punjab
+V: 1.1The cell can be deined as the structural and functional unit of life. It is the smallest unit that can 
+carry out all activities of life. Cells are building blocks of complex multicellular organisms.
+EMERGENCE AND IMPLICATION OF CELL THEORY
+Study of cell (cell biology) began with the discovery of cell by R obert Hooke (1665), who reported 
+his work in his famous publication Micrographia . He prepared and studied thin sections of cork (of 
+dead plant material) under his self-made compound microscope.
+He observed that the cork is composed of minute honey comb like compartmen ts which he termed 
+as Cells (Fig.4.1). According to Hooke, cell is an empty spac e bounded by thick walls. Very little 
+information was added to this idea in the following century. The w ork again started in the beginning 
+of 19th century.
+Lorenz Oken (1805) a German scientist , believed that 
+“all living beings originate from or consist of vesicles or 
+cells”. Jean Baptist de-Lamarck (1809) expressed similar 
+idea and said “no body can have life if its constituent 
+parts are not cellular tissue or are not formed by 
+cellular tissue”.
+In 1831 Robert Brown reported the presence of nucleus 
+in the cell. Due to this discovery Hooke’s idea about 
+the cell as an empty space was changed. It was later 
+established that cell is not an empty space. A German 
+zoologist Theodor Schwann (1839) and a German 
+botanist Schleiden (1838), working independently, 
+came out with a theory called the Cell Theory.
+They found that the cell consisted of 3 basic parts, viz 
+nucleus, the luid (cytoplasm) surrounding the nucleus, and a n outer thin covering or membrane  
+(plasma membrane). The cell wall, they said, was an additi onal structure, present only in plant 
+cell. Keeping in view this deinition of cell, the cells could be obs erved in plant as well as in animal; 
+according to cell theory, all living organisms are composed of cel ls and cell products.Fig.4.1 The microscopic structure of a      
+piece of cork34. The Cell eLearn.Punjab
+V: 1.1The cell theory is one of the most fundamental generalizations in Biol ogy. It has wide ranging efect 
+in all ields of biological sciences. After the cell theory was pr esented, many details of cell were 
+studied, as a result of which the cell theory was extended.
+Rudolph Virchow (1855), a German physician, hypothesized tha t new cells were formed only 
+by the division of previously existing living cells (to put it in V irchow’s words : “omnis cellula e 
+cellula”). It was contrary to the idea of “abiogenesis” (living th ings arise spontaneously from non-
+living things), one of the prevailing but controversial ideas about or igin of life, at that time. Louis 
+Pasteur (1862), one of the greatest scientists of all times, supplied  experimental proof for Virchow’s 
+hypothesis by demonstrating that microorganisms (bacteria) could be formed only from existing 
+bacteria. Original cell theory and Virchow’s hypothesis gave us  the basis for working deinition of 
+living things: living things are chemical organizations compos ed of cells and capable of reproducing 
+themselves’. August Weismann (1880) said ‘all presently living  cells have a common origin because 
+they have basic similarities in structure and molecules etc. It wa s shown that there are fundamental 
+similarities in the chemical composition, metabolic activities and structure, although they difer in 
+many respects. Cells are basically similar but extraordinari ly versatile. Cell is not only the structural 
+but also the functional unit of living organisms. So cell theory i s a very important unifying concept
+The human naked eye can diferentiate between two points, which are at least 1.0 mm apart. 
+This is known as resolution of the eye. This resolution can be inc reased with the aid of lenses. In 
+a typical compound microscope the resolution is 2.0 nm, which is about 500X that of naked eye. 
+A compound microscope is a typical laboratory microscope with at least diferent magniication 
+powers. The typical ocular lenses could be 5X and 10X, but other s also exist. Likewise diferent 
+types of objective lenses viz. 20X, 40X, 100X etc exist. The magnii cation power of microscope is 
+determined by multiplying X values of ocular lense and X value of  objective lense. Therefore, a
+microscope with 10X ocular lens and 40X objective lense will have (10X40 = 400X) 400X magnifying 
+power. The resolution will, however, remain the same, which is 500 X that of the naked eye. The 
+source of illumination in such microscopes is visible light. In electron microscope the source 
+of illumination is a beam of electrons and the resolution of microsc ope ranges between 2-4 
+Angstrom, which make it 500X greater than that of the compound mic roscope and 250,000X 
+greater than that of the naked eye. This means that two points which a re 2-4 Angstrom apart 
+can be diferentiated with the help of electron microscope. The revelation of  complexity of 
+structure of various cellular organelles is closely linked with th e development of microscopy 
+and improvement in the resolution power of the microscope.44. The Cell eLearn.Punjab
+V: 1.1The salient features of Cell Theory in its present form are:
+(1) All organisms are composed of one or more cells.
+(2) All cells arise from pre-existing cells.
+(3) Cell is the basic structural as well as functional unit for all organisms.
+Cell as a unit of structure and function
+A cell is a unit of structure and function in living organism s. In multicellular organisms there is a 
+division of labour among cells. Diferent cells are specialized for  diferent functions. The function 
+of the organism as a whole is the result of the sum of activities and  interactions of diferent cells 
+and of diferent components of the cell. In animals e.g., muscle c ells contract and relax, nerve 
+cells transmit impulses, gland cells secrete, red blood cells ca rry oxygen and some stomach cells 
+secrete gastric juice. Similarly in plants xylem cells conduc t water and mineral salts from soil to 
+the aerial parts of the plant. Phloem cells translocate food, sclerenc hymatous cells give support to 
+the plants, chlorenchymatous cells carry out photosynthesis, parenc hymatous cells store surplus 
+food and meristematic cells produce new cells for growth and developm ent of the plant. As they 
+perform diferent functions they show great variation in shape and s ize. Despite the structural and 
+functional diversity, the plant cells as well as animal cells have a common plan of organization.
+STRUCTURE OF A GENERALIZED CELL
+Structure of a cell can be studied under light microscope as well  as electron microscope. The modem 
+technology enables us to isolate various components of cells including  its organelles by a process 
+of cell fractionation and study their structure and function in d etail. During cell fractionation the 
+tissues are homogenized or disrupted with special instruments and the various parts of the cells 
+are separated by density gradient centrifugation. This separation is achieved by spinning the 
+homogenized or disrupted cells in a special medium in a centrif uge at medium speed. The various 
+cellular parts separate out in diferent layers depending upon their  size and weight, and density of 
+the medium. Some cellular components require very high speeds for sep aration from other parts 
+of the cells. This is achieved through ultracentrifugation.54. The Cell eLearn.Punjab
+V: 1.1A cell consists of the following basic components:
+1. Plasma membrane, also a cell wall in plant cell.
+2. Cytoplasm, containing cell organelles.
+3. Nucleus, with nuclear or chromatin material.
+In the traditional system of classiication all organisms are di vided into plants and animals. The 
+cells of plants and animals can be distinguished by the pres ence or absence of cell wall. Cells of
+                                                   
+                                                         
+                                                                Fig.4.2: Electron microscope structure of a anim al cell.64. The Cell eLearn.Punjab
+V: 1.1                                                                Fig. 4.3 Electron microscopic structure of a pla nt cell
+Image 4.2: Structure of Animal Cell 
+Source and Credit: wikipedia74. The Cell eLearn.Punjab
+V: 1.1animals and plants absence of cell wall. Cells of animals and plants are complex and have a 
+distinct nucleus (chromatin material is bounded by a membrane)  and are called Eukaryotic. On the 
+other hand, the primitive type of cells, such as bacteria, lack a  deinite nucleus and are said to be 
+Prokaryotic. In Prokaryotes the nuclear material is directly subm erged in the cytoplasm and is not 
+separated from it by membranes.
+The eukaryotic cells vary greatly in size. They could be as big  as an Ostrich’s egg. Most of the cells 
+are microscopic and are not visible to the naked eye. Their size is measured in micrometer ( nm). 
+One nm is 0.000,001 meter or 1x 10-6 of a metre.
+The use of modern technology has made it possible to study the followin g components of the cell 
+in detail (Fig.4.2 and 4.3).
+Image 4.3: Animal Plant Cell
+Source and Credit: thegreatestgarden84. The Cell eLearn.Punjab
+V: 1.1Plasma Membrane
+Plasma membrane or cell membrane is the outer most boundary of the c ell. However, in most plant 
+cells, it is covered by a cell wall. Cell membrane is chemical ly composed of lipids and proteins; 60 
+- 80% are proteins, while 20-40% are lipids. In addition ther e is a small quantity of carbohydrates.
+Many biologists contributed to establish the structural organization of cell membrane. It was 
+proposed earlier that cell membrane is composed of lipid bilayer s andwiched between inner and 
+outer layers of protein (Fig.4.4). This, basic structure is ca lled the unit membrane  and is present in all 
+the cellular organelles. The modem technology has revealed that lipid bilayers are not sandwiched 
+between two protein layers.
+The protein layers are not continuous and are not conined to the surfac e of the membrane but 
+are embedded in lipid layers in a mosaic manner (Fig.4.5).  This discovery led to the proposal of 
+Fluid Mosaic Model . This model at present is the most accepted one. Cell membrane also c ontains 
+charged pores through which movement of materials takes place, both b y active and passive 
+transport.
+Fig: 4.4. Unit membrane94. The Cell eLearn.Punjab
+V: 1.1                                                      
+Fig. 4.5. Fluid Mosaic Model
+Transport of materials is one of the vital roles it plays for the cell . It ofers a barrier between the 
+cell contents and their environment, allowing only selective substances to pass through it, thus it 
+is known as diferentially permeable  or selectively permeable membrane. The substances which 
+are lipid soluble cross it more easily than others, therefore, it regu lates the low of materials and 
+ions to maintain a deinite gradient. Many small gas molecules, water, glucose etc. being neutral can 
+easily cross while ions, being charged particles, have some dii culty in crossing. Many substances
+which are not needed, constantly enter the cell by passive transport, oth ers are taken up against 
+the concentration gradient (they move from the area of low concentration to the area of high 
+concentration). This uphill movement of materials requires energy an d is termed as active transport. 
+The energy used for this movement is provided by ATP.
+In many animal cells, the cell membrane helps to take in materia ls by infolding in the form of 
+vacuoles. This type of intake is termed as endocytosis  which can be either phagocytosis  (to engulf104. The Cell eLearn.Punjab
+V: 1.1solid particles) or pinocytosis  (to take in liquid material). In neurons (nerve cells) the cell m embrane
+transmits nerve impulses from one part of the body to the other to keep coordi nation.
+Cell Wall
+The outer most boundary in most of the plant cells is cell wall. T he cell wall of plant cell is diferent from 
+that of prokaryotes, both in structure and chemical composition. It i s secreted by the protoplasm 
+of the cell. Its thickness varies in diferent cells of the plant. It is composed of three main layers: 
+primary wall, secondary wall and the middle lamella. The middle lamella  is irst to be formed in 
+between the primary walls  of the neighbouring cells. The primary wall is composed of cel lulose 
+and some deposition of pectin and hemicelluloses. Cellulose molecules are arranged in a criss 
+cross arrangement (Fig.4.6). The primary wall is a true wa ll and develops in newly growing cells. The 
+secondary wall  is formed on its inner surface and is comparatively thick and  rigid. Chemically it is 
+composed of inorganic salts, silica, waxes, cutin lignin etc.  Prokaryotic cell wall lacks cellulose; its 
+strengthening material is peptidoglycan or murein. Fungal cell wall contains chitin.
+Fig.4.6. Secret of the strength of plant structure is revealed  by electron microscope photographs of the cell walls. The cel lulose ibers 
+are arranged in layers, with the ibres of each layer at right angle to those of other layers.114. The Cell eLearn.Punjab
+V: 1.1Cell wall is very important. It provides a deinite shape to the cell a nd keeps it rigid. It does not act 
+as a barrier to the materials passing through it.
+Cytoplasm
+The living contents of the eukaryotic cell are divided into nucleus an d the cytoplasm, the two 
+collectively form protoplasm. Cytoplasm consists of an aqueous groun d substance containing a 
+variety of cell organelles and other inclusions such as insolubl e wastes and storage products. The 
+soluble part of the cytoplasm is called cytosol . It forms the ground substance of the cytoplasm. 
+Chemically it is about 90% water. It forms a solution containing  all the fundamental molecules of 
+life. In the cytosol, small molecules and ions may form true solu tions, and some large molecules 
+form colloidal solutions. Colloidal solution may be a sol (non-viscous) or a gel (viscous). Peripheral 
+parts of the cell are often like a gel.
+The most important function of the cytoplasm is to act as a store house of vital chemicals. It is also 
+a site for certain metabolic processes such as glycolysis.
+In living cells the cytoplasm contains several cell organelles suc h as endoplasmic reticulum, 
+mitochondria, Golgi complex, nucleus, plastids, ribosomes, lysos omes and centriole. The free 
+loating cell organelles e.g.  mitochondria move about in cytoplasm d ue to cytoplasmic streaming 
+movements. This is an active mass movement of cytoplasm.Animation 4.2: Cell Wall
+Source and Credit: gifsoup124. The Cell eLearn.Punjab
+V: 1.1Endoplasmic Reticulum
+Under an electron microscope a network of channels is seen extending th roughout the cytoplasm. 
+These channels are often continuous with plasma membrane and als o appear to be in contact 
+with the nuclear membrane. This entire system of channels is the E ndoplasmic Reticulum. These 
+membranes vary widely in appearance from cell to cell. The materi al present in these channels is 
+separated from the cytoplasmic materials by the spherical or tubul ar membranes, called cisternae .
+There are two morphological forms of endoplasmic reticulum; a roug h form with attached 
+ribosomes and a smooth form without ribosomes. The rough surfaced en doplasmic reticulum (RER) 
+is involved in the synthesis of proteins. 
+After synthesis the proteins are either 
+stored in the cytoplasm or exported 
+out of the cell through these channels. 
+The smooth surfaced endoplasmic 
+reticulum (SER) helps in metabolism 
+of a number of diferent types of 
+molecules particularly lipids. They also 
+help to detoxify the harmful drugs. 
+In some cells SER is responsible for 
+transmission of impulses, e.g. muscle 
+cells, nerve cells. In addition, SER also 
+plays an important role in the transport 
+of materials from one part of the cell to 
+the other. Endoplasmic reticulum also 
+provides mechanical support to the cell 
+so that its shape is maintained.
+Animation 4.3: Rough Endoplasmic Reticulum
+Source and Credit: Ameoba sisters134. The Cell eLearn.Punjab
+V: 1.1Fig. 4.7: Rough endoplasmic reticulum is marked by the pre sence of ribosomes attached to the membranes of endoplasmic re ticulum. 
+Proteins synthesized on ribosomes are pushed into channels of endoplasmic reticulum, from where they are transported to Golgi  
+Apparatus, on their way out of the cell.
+Ribosomes
+Cell contains many tiny granular structures known as ribosomes . Palade (1955) was the irst person 
+to study them. Eukaryotic ribosomes are composed of an almost equal a mount of RNA and protein, 
+hence they are ribonucleo-proteins particles. The RNA present in rib osome is called ribosomal 
+RNA. Ribosomes exist in two forms; either freely dispersed in cytopl asm or attached with RER as 
+tiny granules. Each eukaryotic ribosome consists of two sub-units . The larger subunit sediments 
+at 60S (S= Svedberg unit used in ultracentrifugation), while sm aller subunit sediments at 40S. Two 
+subunits on attachment with each other form 80S particle. This atta chment is controlled by the 
+presence of Mg2+ ions. The ribosomes are attached to messenger RNA through small ri bosomal 
+subunit. A group of ribosomes attached to mRNA is known as polysome  (Fig. 4.8).144. The Cell eLearn.Punjab
+V: 1.1                                           
+Fig. 4.8 mRNA attached to ribosomes forming polysomes.
+New ribosomes are assembled in the nucleolus of the nucleus from wh ere they are transported to 
+the cytoplasm via the pores in nuclear membrane. The factory of rib osome is the nucleolus, while 
+that of protein synthesis is the ribosomes.Animation 4.4: Ribosomes
+Source and Credit: Nature154. The Cell eLearn.Punjab
+V: 1.1Animation 4.5: Ribosomes
+Source and Credit: nature164. The Cell eLearn.Punjab
+V: 1.1Golgi Apparatus
+Golgi apparatus was discovered by Golgi in 1898. This appara tus, which was found virtually in all 
+eukaryotic cells, consists of stacks of lattened, membrane bound sa cs, called cisternae. These 
+cisternae together with associated vesicles are called Golgi complex. It is a complex system of 
+interconnected tubules around the central stacks. Cisternae stacks ar e continuously formed by 
+fusion of vesicles, which are probably derived by the budding of  SER. Their outer convex surface is 
+the forming face, while the inner concave surface is the maturing face. The cisternae break up into 
+vesicles from the latter. The whole stack consists of a number of cis ternae thought to be moving 
+from the outer to the inner face.
+ Fig. 4.9 Golgi Complex174. The Cell eLearn.Punjab
+V: 1.1                                    
+Fig. 4.10. :This igure shows relationship of endoplasmic reti culum with Golgi Apparatus, lysosome and plasma membrane.  Golgi 
+Apparatus has two ends, Forming Face and Maturation Face. Blebs from tips of SER fuse with Golgi Apparatus cisternae at  Forming 
+Face, whereas secretory granules.
+(transport vesicles) are pinched of at the Maturation Face of Golgi Ap paratus. The arrows show the 
+direction of low of protein product systhesized on ribosomes. These protei ns are converted into 
+glycoproteins in the Golgi Apparatus.
+Golgi complex is concerned with cell secretions. Secretions are produc ts formed within the cell on 
+ribosomes and then passed to the outside through endoplasmic reticulum  and Golgi Apparatus. The 
+secretions are converted into inished product and are packed inside m embrane, before export. For 
+example in mammals, the pancreas secretes granules containing en zymes that help in digestion. 
+The Golgi complex has a role in formation of these granules. The pr oteins or enzymes which have 
+to be transported out of the cell pass through the Golgi Apparatus. The most important function of 
+this apparatus is to modify the proteins and lipids by adding  carbohydrates and converting them 
+into glycoproteins or glycolipids.184. The Cell eLearn.Punjab
+V: 1.1Lysosomes
+Lysosomes are cytoplasmic organelles and are diferent from others du e to their morphology. 
+These were isolated as a separate component for the irst time by De Duve (19 49). Lysosomes (Lyso 
+= splitting; soma = body) are found in most eukaryotic cells. A ny foreign object that gains entry into 
+the cell is immediately engulfed by the lysosome and is completely b roken into simple digestible 
+pieces. The process is known as phagocytosis (eating process of a  cell). They are most abundant in 
+those animal cells which exhibit phagocytic activity. They are b ounded by a single membrane and 
+are simple sacs rich in acid phosphatase and several other hyd rolytic enzymes. These enzymes are 
+synthesized on RER and are further processed in the Golgi apparatu s. The processed enzymes are
+budded of as Golgi vesicles and are called as primary lysosomes  (Fig.4.11). Lysosomes contain 
+those enzymes which can digest the phagocytosed food particles.Animation 4.6: Golgi Apparatus
+Source and Credit: Ameoba sisters194. The Cell eLearn.Punjab
+V: 1.1Fig. 4.11: Lysosomes protect the cells from invading organisms or any other foreign object, (food) which are engulfed in the cell  as 
+phagocytic vacuoles. These fuse with primary lysosomes to form digestive vacuole (secondary lysosome) in which various lys osomal 
+enzymes digest various.
+components of the vacuole. Some times, under abnormal circumstances, e.g. starvation, or as a 
+normal physiological process the parts of the cell are engulfed by  primary lysosomes and digested 
+to generate energy. The lysosomes which eat parts of their own cell are known as autophagosomes. 
+The digestive vacuoles and autophagosomes are also known as Secondary  Lysosomes. 
+They are also involved in the autophagy (self eating). During this process some old, worn out parts 
+of cell, such as old mitochondria are digested. In this way, m aterials of cell may be recycled and cell 
+may be renewed. Their enzymes can also result in degeneration of cel l, as may occur during some 
+developmental processes. Lysosomes also release enzymes for extra cellula r digestion.
+Several congenital diseases have been found to be due to accumulation wi thin the cell of substances 
+such as glycogen or various glycolipids. These are also called  storage diseases and are produced 
+by a mutation that efect one of the lysosomal enzymes involved in the catab olism of a certain 
+substance. For example, in glycogenosis type II disease, the liver and muscle appear illed with 
+glycogen within membrane bound organelles. In this disease, an enzyme that degrades glycogen to 
+glucose, is absent. About twenty such diseases are known these days , which are because of absence 
+of a particular enzyme. For example Tay-Sach’s disease is bec ause of absence of an enzyme that is
+involved in the catabolism of lipids. Accumulation of lipids in  brain cells lead to mental retardation 
+and even death.204. The Cell eLearn.Punjab
+V: 1.1Animation 4.7: Lysosomes
+Source and Credit: Ameoba sisters214. The Cell eLearn.Punjab
+V: 1.1Peroxisome
+De-Duve and coworkers isolated in 1965 particles from liver cells an d other tissues which were 
+enriched with some oxidative enzymes, such as peroxidase, catalase,  glycolic acid oxidase and some 
+other enzymes. The name peroxisome was applied because this organell e is speciically involved in 
+the formation and decomposition of hydrogen peroxide in the cell.
+These are single membrane enclosed cytoplasmic organelles found both  in animal and plant 
+cells. These are characterised by containing H202 - producing oxidases and catalase. They are 
+approximately 0.5 nm in diameter. They have also been found in protozoa, yeast and man y cell 
+types of higher plants.
+Glyoxysomes
+Plants contain an organelle, which in addition to glycolic aci d oxidase and catalase also possess a 
+number of enzymes that are not found in animal cells. These organ elles, called glyoxysomes are 
+most abundant in plant seedlings, which rely upon stored fatty a cids to provide them with the 
+energy and material to begin the formation of a new plant. One of the primary activities in these 
+germinating seedlings is the conversion of stored fatty acids to carb ohydrates. This is achieved 
+through a cycle, glyoxylate cycle, the enzymes of which are located  in the glyoxysomes.
+In plants, peroxisomes play important role in both catabolic and anabolic pathways. In seeds rich 
+in lipids such as castor bean and soyabeans, glyoxysomes ar e the sites for breakdown of fatty acids 
+to succinate.
+This organelle is present only during a short period in the germi nation of the lipid-rich seed and is 
+absent in lipid-poor seed such as the pea.
+Vacuoles
+Although vacuoles are present both in animal and plant cells, they  are particularly large and 
+abundant in plant cells often occupying a major portion of the cel l volume and forcing the remaining 
+intracellular structures into a thin peripheral layer. These vacu oles are bounded by a single224. The Cell eLearn.Punjab
+V: 1.1membrane and are formed by the coalescence of smaller vacuoles duri ng the plant’s growth and 
+development. Vacuoles serve to expand the plant cell without diluting its cytoplasm and also 
+function as sites for the storage of water and cell products or metabol ic intermediates.
+The plant vacuole is the major contributor to the turgor that provides sup port for the individual 
+plant cell and contributes to the rigidity of the leaves and younger p arts of the plants.
+Animation 4.8: Vacuole
+Source and Credit: Ameoba sisters234. The Cell eLearn.Punjab
+V: 1.1Cytoskeleton
+Cytosol contains cytoskeletal fabric formed of microtubules , microilaments  and intermediate 
+ilaments . The main proteins that are present in cytoskeleton are tubulin (in microtubules), 
+actin, myosin, tropomyosin and others which are also found in m uscles. Several cell organelles 
+are derived from special assemblies of microtubules, for examples cilia, lagella, basal bodies and 
+centrioles. The movement of cyclosis and amoeboid movements are because of microilaments, 
+whereas intermediate ilaments are involved in determination of cell shap e and integration of 
+cellular compartments (Fig. 4.2).
+Microtubules  are long, unbranched, slender tubulin protein structures. One ver y important 
+function of mirotubules is their role in the assembly and disass embly of the spindle structure during 
+mitosis.
+Microilaments  are considerably more slender cylindres made up of contractile a ctin protein, 
+linked to the inner face of the plasma membrane. They are involved in  internal cell motion.
+Intermediate  ilaments have diameter in between those of microtubules & microilaments.  They 
+play role in the maintenance of cell shape.
+Centriole
+Animal cells, and cells of some microorganisms and lower 
+plants contain two centrioles located near the exterior 
+surface of the nucleus. In cross section each centriole 
+consists of a cylindrical array of nine microtubules. 
+However, each of the nine microtubules is further 
+composed of three tubules (Fig. 4.12). The two centrioles 
+are usually placed at right angle to each other. Just 
+before a cell divides, its centrioles duplicate and one pair 
+migrates to the opposite side of the nucleus. The spindle 
+then forms between them. They are absent in higher 
+plants. Centrioles play important role in the location of 
+furrowing during cell division, and in the formation of 
+cilia.Animation 4.9: Centrioles 
+Source and Credit: ibiblio244. The Cell eLearn.Punjab
+V: 1.1               
+                                    Fig. 4.12. Centrioles are made up of nine microtubule triplet s.
+Mitochondria
+Mitochondria are very important organelles of eukaryotic cells, becau se they are involved in the 
+manufacture and supply of energy to the cell. They are also known  as powerhouses of the cell 
+(Fig. 4.13). Under compound microscope they appear to be vesicles, rods or ilaments. Under an 
+electron microscope, they show complex morphology. Although their numb er, shape and internal 
+structure vary widely, a mitochondrion is bound by two membranes,  the outer membrane is 
+smooth, while the inner membrane forms infoldings into the inner ch amber called mitochondrial 
+matrix. These infolds are called cristae.  The mitochondrial membranes are similar in structure to 
+other cell membranes. Detailed studies have shown that mitochondria als o contain DNA as well as 
+ribosomes.
+The presence of ribosomes and DNA indicates that some proteins are syn thesized in them. It is a 
+self replicating organelle.
+The inner surface of cristae in the mitochondrial matrix has sm all knob like structures known as F1 
+particles (Fig. 4.13). Mitochondrial matrix contains in it a  large number of enzymes, coenzymes and 
+organic and inorganic salts which help in several vital metabol ic processes like Kreb’s cycle, aerobic254. The Cell eLearn.Punjab
+V: 1.1respiration, fatty acid metabolism etc. As a result of these metabolic  processes the energy extracted 
+from the organic food is transformed into energy rich compound ATP  (adenosine triphosphate), 
+and the ATP then provides energy to the cell on demand. The size and number of mitochondria 
+varies and depends on the physiological activity of the cell.
+Fig.4.13. : Diagrammatic representation of a mitochondrion cut l ongitudinally. The main features are shown. A crista is mad e of 
+lipoprotein membrane containing diferent enzymes as well a s F1 Particles embedded in it. After a special processin g the inner 
+mitochondrial membrane is ruptured and the F1 particles com e out on the surface.Animation 4.10: Mitochondria
+Source and Credit: ibiblio264. The Cell eLearn.Punjab
+V: 1.1Mitochondria extract energy from diferent components of food and convert i t in the form of ATP. 
+This energy is used for various cellular activities. The spent ener gy, which is in the form of ADP is 
+regenerated by the mitochondria into ATP. Mitochondria is therefore desc ribed as power house of 
+the cell.
+Plastids
+Membrane bound, mostly pigment containing bodies present in the cell s are called Plastids. Plastidr 
+are present in plant cells only. 
+There are three main types of plastids.
+1. Chloroplasts
+In photosynthetic plant cells, there are membrane bound structures con taining a green pigment, 
+called chloroplasts. The green pigment is an organic compound, chlorophyll, which helps the cell to 
+absorb light energy and utilize it to manufacture food. Chlorophyl l molecule resembles the haem 
+group of haemoglobin, a protein used in the transport of oxygen. The main diference between 
+these two molecules is that chlorophyll has Mg++ while haem has Fe++ as the central atom.Animation 4.11: Mitochondrial ATP synthase 
+Source and Credit: Jon Lund Stefensen274. The Cell eLearn.Punjab
+V: 1.1Chloroplasts vary in their shape and size with a diameter of abou t 4-6 nm. Under light microscope 
+they appear to be heterogeneous structures with small granules known a s grana  embedded in the 
+matrix. Under electron microscope, a chloroplast shows three main com ponents, the envelope, 
+the stroma and the thylakoid. The envelope is formed by a double membr ane, while stroma covers 
+most of the volume of the chloroplast. Stroma is a luid which surrou nds the thylakoids. It contains 
+proteins, some ribosomes and a small circular DNA. It is in th is part of the chloroplast where CO2 
+is ixed to manufacture sugars. Some proteins are also synthesized in this part. Thylakoids are the 
+lattened vesicles which arrange themselves to form grana and intergra na. A granum appears to be
+a pile of thylakoids stacked on each other like coins. On an avera ge, there are 50 or more thylakoids 
+piled to form one granum. On the layers of thylakoids chlorophyll  molecules are arranged and that 
+is why granum appears to be green (Fig.4.14). Each granum  is interconnected with others by the 
+non-green part called intergranum. Membranes of the grana are si tes where sun light energy is 
+trapped and where ATP is formed. Chloroplasts are self-replicati ng organelles.
+2. Chromoplasts
+They impart colours to the plants other than green. They are present in  the petals of the lower and 
+in the ripened fruit. They help in pollination and dispersal of  seeds. 
+3. Leucoplasts
+They are colourless. They are triangular, tubular or of some other shape. They are found in the 
+underground parts of the plant and store food.
+Fig. 4.14: Diagram of chloroplast showing the main structural com ponents.284. The Cell eLearn.Punjab
+V: 1.1NUCLEUS
+Presence of cell nucleus was reported in 1831 by Robert Brown. Its  early discovery was undoubtedly 
+due to its prominence in many cells, where it stands out as sligh tly darker than the surrounding 
+cytoplasm. It controls the life and activities of the cell. In anima l cells, it generally occupies the 
+central space, while in the case of plant cells it is pushed towa rds periphery due to the presence 
+of a large vacuole. Nucleus may be irregular or spherical in shape. Generally, the cells have one 
+nucleus and are called mononucleate . On the other hand, the cells with two nuclei are binucleate 
+and with more than two as multinucleate.
+Nucleus is only visible when the cell is in non-dividing stage.  It contains chromatin network and 
+soluble sap called nucleoplasm . In dividing cells, the nucleus disappears and the chromatin  material 
+in it is replaced by chromosomes. The heredity material is in the form of chromosomes, which 
+controls all the activities of the cell. DNA, RNA and proteins inclu ding enzymes form the chemical 
+composition of the nucleus. Nucleus consists of nuclear membrane, nucleoli, nucleoplasm and 
+chromosomes.
+Nuclear Membrane
+Nucleus is surrounded by a nuclear membrane which separates the nuclear material from the 
+cytoplasm. The nuclear membrane is actually a nuclear envelope c omposed of two membranes. 
+The outer membrane is at places continuous with the endoplasmic retic ulum, while the inner 
+membrane encloses the nuclear content. The outer and the inner membranes  are continuous at 
+certain points resulting in the formation of pores, the nuclear pores . The nuclear pores  allow the 
+exchange of materials between the nucleus and the cytoplasm. The num ber of nuclear pores is 
+highly variable. The undiferentiated cells (such as eggs) have numerous pores (about 30,000 per 
+nucleus), whereas diferentiated cells such as erythrbcytes have onl y 3 or 4 pores/nucleus. Each 
+pore has a deinite structure which controls the traic of substances passing through them (igs. 
+4.7, 4.10 and 4.16).
+Nucleolus
+It is a darkly stained body within the nucleus, and is withou t any membranous boundary to separate 
+it from the rest of the nuclear material. There may be one or more nucl eoli in the nucleus. The 
+ribosomal RNA (rRNA) is synthesized and stored in the nucleolus . It is composed of two regions, 
+the peripheral granular area composed of precursors of ribosomal subunits and the central ibrill294. The Cell eLearn.Punjab
+V: 1.1area consisting of large molecular weight RNA and rDNA. It is the nucleolus where ribosomes are 
+assembled and are then exported to the cytoplasm via nuclear pores.
+Animation 4.12: Nucleus
+Source and Credit: gifsoup
+Animation 4.13: Nucleus
+Source and Credit: ibiblio304. The Cell eLearn.Punjab
+V: 1.1Chromosomes
+Nucleus is often deeply stained with basic dyes because of the chr omatin material. During cell 
+division chromatin material is converted into darkly stained thread like structures known are 
+chromosomes. Under a compound microscope, chromosomes appear to be mad e of arms and 
+centromeres. Centromere is the place on the chromosome where spindle ibres are attached during 
+cell division. Each chromosome consists of two identical chromatids  at the beginning of cell division 
+(chromatid is exact replica of the chromosome) which are held together  at centromere (Fig.4.15).
+A chromosome is composed of DNA and proteins. All the information nec essary to control the 
+activities of the cell is located on the chromosomes in the form of genes, which are transferred 
+from one generation to the other. The number of chromosomes in all indivi duals of the same 
+species remains constant generation after generation. In man, each c ell contains 46 chromosomes, 
+frog cell has 26 and chimpanzee has 48 chromosomes. There are 8 chromosoms in the fruit ly, 
+Drosophila melanogaster , 16  chromosomes in onion, 48 in potato, and 14 in garden pea.  The number 
+of chromosomes in normal body cells is diploid (2n), whereas h aploid chromosome number (n) 
+is present in germ cells, e.g human sperms and eggs have 23, while those of Drosophila  have 4 
+chromosomes.
+Fig.4.15. : Structure of chromosome and its shape.314. The Cell eLearn.Punjab
+V: 1.1                    
+ Fig. 4.16 Structure of nucleus
+PROKARYOTIC AND EUKARYOTIC CELL
+Biologists have divided cells into two types: prokaryotic and eukaryoti c. The diferences between 
+these two types of cells are mainly based upon the structure of their n uclei. Eukaryotes have a 
+very well deined nucleus, in which nuclear material (chromosomes  or DNA) is enclosed in double 
+nuclear membrane. In prokaryotic cells, however the genetic material (DNA) is without any nuclear 
+membrane covering and is directly submerged in the cytoplasm. Or ganisms possessing prokaryotic 
+cells are called Prokaryotes and those possessing eukaryotic cells are called Eukaryotes. Prokaryotes
+include bacteria and blue green algae. Eukaryotes include all other unicellular or multicellular 
+organisms such as animals, plants, fungi and protista.
+Diagrams of prokaryotic and eukaryotic cells are given in Fig  4.2, 4.3, and 4.17. Prokaryotic cells 
+generally lack many of the membrane bounded structures found in eukaryotic cells. For example, 
+mitochondria, endoplasmic reticulum, chloroplasts and Golgi app aratus are absent in prokaryotic324. The Cell eLearn.Punjab
+V: 1.1cells. Since there is no nuclear membrane, a prokaryotic cell ha s no distinct nucleus and its DNA  
+molecule is directly suspended in cytoplasm. Prokaryotes have smal l sized ribosomes 70S compared 
+to eukaryotes 80S. In prokaryotes mitosis is missing and the cell divides by binary ission. Because 
+of their simpler structure, it was widely accepted for a long time that prokaryotic cells represent a
+more primitive stage of evolution than eukaryotic cells. Perhaps the most distinctive feature of 
+the prokaryotic cell is its cell wall, composed of polysaccharid e chains bound covalently to shorter 
+chains of amino acids forming peptidoglycan or murein. The en tire cell wall is often regarded as a 
+single huge molecule or molecular complex called sacculus The c ell wall of plants is generally made 
+up of cellulose and is diferently structured than that of a bacteri um.
+Fig. 4-17. Generalized Prokaryotic cell.334. The Cell eLearn.Punjab
+V: 1.1Animation 4.14: Prokaryote vs. Eukaryote
+Source and Credit: Ameoba sisters344. The Cell eLearn.Punjab
+V: 1.1 
+Q.1.     Fill in the blanks:
+            (i)       In eukaryotic cell chromatin material  is bounded b y --------------
+            (ii)      A group of ribosomes attached to mRNA i s known as —------------
+            (iii)     -------------- is the place on ch romosomes where spindle ibres are attached 
+                      during cell division.
+            (iv)     The endoplasmic reticulum with attached ribosomes is known as ------------
+            (v)      The soluble part of the cytoplasm is cal led.
+Q.2.     Write whether the statement is ‘true’ or ‘f alse’ and write the correct statement if it         
+             is false.
+            (i)       Cell membrane is present in all euka ryotic cells.
+            (ii)      Chloroplast and mitochondria do not ha ve hereditary material.
+            (iii)     Centriole is involved in cell secretions.
+            (iv)     Sometimes many ribosomes get attached to the sa me stretch of mRNA forming a  
+                      structure called the cytosome.
+            (v)      Mitochondria are very important organelles of the eukaryotic cells.
+Q.3.     Short Questions.
+            i.        Describe various movements involved in the tra nsport of materials across the cell 
+                      membrane.
+            ii.       State various structural modiications i n a cell involved in secretions.
+            iii.      List the processes blocked by mitochondr ial failure in a cell.
+            iv.      What will happen if a chromosome loses its centromere?
+            V.      How does autophagy help in converting a ta dpole larva into an adult amphibian?
+            vi.      Is there any similarity between bacterial  and plant cell wall?                                                               
+                                                                 Exercise354. The Cell eLearn.Punjab
+V: 1.1         
+Q.4.         Extensive Questions.
+                (i)          Compare structure and functi on of chloroplasts and mitochondria.
+                (ii)         State ‘Cell Theory’ and disc uss its emergence.
+                (iii)        Write notes on :
+                             (a)         Cytoskeleton                              (b)        Peroxisomes & Glyoxys omes
+                (v)         What might happen if some lys osomal enzymes are absent?
+                             Explain with examples.

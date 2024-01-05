@@ -1,0 +1,357 @@
+15. Variety of Life eLearn.Punjab
+V: 1.1CHAPTER
+5 Variety of Life
+Animation 5: Virus
+Source & Credit: whyiles25. Variety of Life eLearn.Punjab
+V: 1.1Over one and a half million species of animals and over a half  million species of plants are known. 
+To deal with such a large collection of dissimilar forms, certa inly we need some system by which 
+species can be classiied in a reasonable way. Many types of c lassiications are possible. We could , 
+for example , classify lowering plants according to their colour , height, or any other character. This 
+type of classiication is not meaningful since it does not provide an y information about the basic 
+diferences and similarities among diferent individuals.
+All organisms are related to one another at some point in their  evolutionary  histories . However, 
+some organisms are more closely related than others. Sparrows are m ore closely related to pigeons 
+than either to the insects. Classiication is based on relationship a mongst individuals, that is, similarity 
+in form or structure. Biologists have classiied all living thing s into groups showing similarities, 
+based upon homologies, comparative biochemistry, cytology and genetics . Large groups are divided 
+into smaller groups upto species level. “A species is a group of natural population which can 
+interbreed freely among themselves and produce fertil e ofsprings, but are reproductively 
+isolated from all other such groups in nature”.  However “interbreeding” cannot be used as 
+a criterion for species recognition among predominantly asexually  reproducing organisms. Each 
+species possessed its own distinct structural, ecological and beh avioral characteristics, hence 
+species are independent evolutionary units. Diferent species do not exchan ge genes between 
+them. Since long the living things are divided in two kingdoms: plants  and animals.  Next each 
+kingdom is divided into smaller groups called phyla (also d ivisions for plants, algae and fungi). 
+A phylum, in turn, is divided into classes,  classes into orders,  and an order into families . A family 
+contains related genera,  and a genus is composed of one or more species.  Species is the basic 
+unit of classiication. Conversely speaking, the organisms are gr ouped into larger, more inclusive 
+categories (taxa), each category is more general than the one below i t and has emergent properties. 
+The taxonomic categories from species to kingdom form a hierarchy a s described in the classiication 
+of corn.35. Variety of Life eLearn.Punjab
+V: 1.1Members of a lower category resemble one another more than do the members of  a higher taxon.
+NOMENCLATURE
+From the earliest times plants and animals have been given common n ames by the people. Since 
+no system was used in choosing common names, in many cases,  various regions had their own 
+names for the same plant or animal . Take ‘Onion’ for example;  its common urdu name is ‘Piyaz’ but 
+in diferent regions of Pakistan it is also known as ‘ganda’ or  ‘bassal’ or ‘vassal’. In diferent countries 
+it would have another set of names. Similarly ‘amaltas’, ‘arg vad’, ‘gurmala’, ‘golden shower’, purging 
+cassia’ are common names for the same plant. Thus the same plan t may have diferent names. In
+some cases, a single name refers to several diferent plants or anima ls. What is ‘blue bell’? Dozen of 
+plants with bell shaped lowers are called  ‘blue bells’ . Similarly the word ‘black bird’  would mean a 
+crow as well as a raven.Common names have no scientiic basis. T o a biologist, a ish is a vertebrate 
+animal with a backbone, ins and gills. But ‘silver ish’ i s an insect, and a ‘cray ish’, ‘jelly ish’ and 
+‘starish’ do not it the biologist’s deinition of a ish.
+Common names had long caused confusion. During the 18th century, Carlous Linnaeus (1707-1778), 
+a Swedish botanist, devised a system for naming and classifyi ng all the organisms known to him. 
+His system is used today internationally. He discarded the common names of plants  and gave 
+each one a scientiic name. He took the scientiic name from Latin word . Linnaeus publishes the 
+list of names of plants in 1753. The scientiic name of each pl ant had two parts. Usually, the name 
+referred to some characteristics of the organisms or the person who collected it. His system spread 
+rapidly and became so popular that he used it later on in namin g animals  and published his list in
+1758. Many of his names are in use today.Biological classiication of Corn, Zea mays
+                             Kingdom................ .................................... Plantae
+                             Division (Phylum)........ .............................. Anthophyta (Tracheophyta)
+                             Class ................ .......................................... Angiosperm ae
+                             Order ................. ........................................ Poales
+                             Family ............... ......................................... Poaceae
+                             Genus ................. ....................................... Zea
+                             Species ............... ....................................... mays45. Variety of Life eLearn.Punjab
+V: 1.1Linnaeus’s system of giving each species a scientiic name compr ising two words is known as 
+binomial nomenclature.  The irst name refers to the genus  (p1. genera) and is called generic name 
+and always begins with a capital letter. The speciic  name follows the generic name and begins with 
+small letter. Scientiic name for onion is Allium cepa,  for amaltas Cassia istula  and for man Homo 
+sapiens . Botanical name for potato is Solanum tuberosum  and for brinjal Solanum melangena . The 
+same generic name for potato and brinjal relects close relationship between theses two-species. 
+Every specie has only one scientiic name the world over. Initially th e classiication was based on 
+the appearance or morphology  of plants and animals but with advancement in the knowledge 
+of cytology, physiology, genetics and molecular biology the classi ication of organism has been 
+modiied.
+TWO TO FIVE KINGDOM CLASSIFICATION SYSTEMS
+Diferent classiication systems recognize two to six kingdoms. For cen turies , the living organisms 
+have been classiied into two kingdoms, plants and animals . Plants can prepare their own food 
+from simple inorganic material and store energy (autotrophs) , while animals can not synthesize 
+their own food from simple inorganic material and depend for their  food either on autotrophs 
+or on decaying organic matter  (heterotrophs) . Bacteria were included in plants. Many biologists 
+found this system satisfactory, while others found it unworkable’ for many unicellular organisms 
+like Euglena that have both plant like (presence of chlorophyll) an d animal like (lack of cell wall) 
+characters and also because it ignores the diferences between prokary otic and eukaryotic cells. 
+In 1866, Ernst Hackel proposed a third kingdom protista to accom modate Euglena like organisms 
+and bacteria. In 1937, E-Chatton suggested diferentiating terms procariotique  (from Greek pro, 
+meaning before, and karyon, meaning nucleus) used to describe bacteria and blue-green algae, 
+and the term eu-cariotique  (from Greek eu, mean true) to describe animal and plant cells. S ome 
+biologists also disagree about the classiication of fungi,  such as bread mold, yeast and mushrooms, 
+which resemble plants in many ways but are not autotrophs. Fung i are special forms of heterotrophs 
+that obtain energy and structural material by breaking down (decomposing)  and absorbing  food 
+substances from the surroundings, and possess chitin as a ma jor structural component in their cell 
+walls.
+A relatively recent system of classiication, the ive kingdom system, w as proposed by Robert 
+Whittaker (1969). This system of classiication shown in Fig 5.1 is based on three diferent levels of 
+cellular organization associated with three principal modes of nu trition- photosynthesis,55. Variety of Life eLearn.Punjab
+V: 1.1absorption  and ingestion.  The ive kingdoms proposed (i) the prokaryotic unicellular organi sms 
+(Monera)  such as bacteria, (ii) the eukaryotic predominantly unicellul ar organisms (Protista)  such 
+as Euglena  and  Amoeba , (iii) the eukaryotic multicellular autotrophs (Plantae),  (iv) the eukaryotic 
+multicellular reducers (Fungi) for example mushrooms and (v)  the eukaryotic multicellular 
+consumers (Animalia). Plants are autotrophic in nutritional mod e, making their own food by 
+photosynthesis such as mosses, ferns, lowering plants. Fungi a re heterotrophic organisms that 
+are absorptive in their nutritional mode. Most fungi are decomposers th at live on organic material, 
+secrete digestive enzymes and absorb small organic molecules whic h are produced by digestion. 
+Animals live mostly by ingesting food and digesting it within s pecialized cavities. They lack cellulose 
+and show movements for example birds and reptiles. In ive kingdom classiication, all eukaryotes 
+that did not it the deinition of plants, fungi or animalia were in cluded in Protista. Most Protists are 
+unicellular forms, but this kingdom also includes relatively  simple multicellular organisms that are 
+believed to be direct descendants of unicellular protists.
+Lynn Margulis and Karlene Schwartz (1988) modiied ive king dom classiication of Whittaker by 
+considering cellular organization , mode of nutrition, cytology, g enetic and organelles of symbiotic 
+origin (mitochondria , chloroplast). These ive kingdoms are Prokaryotae  (Monera), Protoctista  
+(Protists), Plantae, Animalia  and Fungi  (Fig 5.1).
+                                                                
+                                                                                Fig 5.1 Relationship of Fi ve kingdom65. Variety of Life eLearn.Punjab
+V: 1.1               
+           Fig. 5.2 Five kingdom classiication by Whitt aker75. Variety of Life eLearn.Punjab
+V: 1.1VIRUSES
+About a century ago at the time of Louis Pasteur (1822-1895) and Robert Koch (1843-1910), the 
+word “virus” was generally referred to as a poison associated  with disease and death. The present 
+notion of virus is entirely diferent. Now viruses are recognized as p articles of nucleic acid often with 
+a protein coat. They replicate in living cells and cause many d iseases such as inluenza, hepatitis, 
+small pox and AIDS. In this section the focus is on the properiies  of viruses and life cycle of bacterial 
+viruses, also known as bacteriophages. Some diseases caused by vi ruses shall also be discussed in 
+this section. The branch which deals with the study of viruses i s known as virology . 
+The word virus is derived from Latin word venome  meaning poisonous luid. It can be deined as 
+non cellular infectious entities which contain either RNA or DNA, n ormally encased in proteinaceous 
+coat, and reproduce only in living cells. Viruses utilize the biosynthetic machinery of the host for its 
+own synthesis and then transfer themselves eiciently to other cells.
+Some viral diseases have been known for centuries. In fact, the irst infectious disease against 
+which efective method of prevention was developed was a viral disease. In  1796, Edward Jenner 
+irst vaccinated an 8 years old boy with material removed from cowpox  lesion on the hand of 
+milkmaid. After six weeks the boy was inoculated with pus fr om a small pox victim, but he did 
+not develop the disease. Later, Jenner used material for vaccination from  cowpox lesions and 
+successfully vaccinated 23 persons. As the material he used wa s obtained from cow (latin vacca ), 
+latter the term vaccination  was used by Louis Pasteur for inoculation against disease.
+In 1884, one of Pasteur’s associates, Charles Chamberland, fou nd that bacteria can not pass through 
+porcelain ilters, while agent responsible for rabies (a disease w hich is transferred to human by bites 
+of rabid dogs, foxes, cats, bats and other animals) can pass  through these ilters. As in those days 
+the word virus was loosely used to describe any toxic substance that caused disease, those unseen 
+ilterable agents of disease were described as ilterable viruses. In 1892, Ivanowski discovered that 
+the agent which caused tobacco mosaic disease was ilterable. He obta ined bacteria free iltrate 
+from ground up infected plants and placed it on healthy leaves of tobacco. He observed that iltrate 
+produced the disease in healthy plants. After that, presence of simi lar ilter-passing, ultramicroscopic 
+agents was seen in the victims of many diseases, including foot a nd mouth disease (1898) and 
+yellow fever (1901).85. Variety of Life eLearn.Punjab
+V: 1.1The ilterable agents were irst puriied in 1935, when 
+Stanley was successful in crystallizing the tobacco mosaic 
+virus . Chemical analysis of these particles showed 
+that they contained only nucleic acid and protein. This 
+suggested that, unlike other forms, viruses are of simple 
+chemical composition.Bacteriophages, viruses that infect bacteria, were 
+discovered independently by Twort in 1915 and 
+D’Herelle in 1917. Twort observed that bacterial 
+colonies sometimes undergo Lysis (dissolved and 
+disappeared) and that this lysis can be transferred 
+from one colony to other. Even highly diluted 
+material from lysed colony can transfer the lytic 
+efect. However, heating the iltrate destroyed 
+its lytic property. From these observations he 
+concluded that lytic agent might be a virus. D’Herelle 
+rediscovered this phenomena in 1917 and used the 
+word bacteriophages meaning “bacteria eater”. 
+Animation 5.1: Virus
+Source and Credit: geocities95. Variety of Life eLearn.Punjab
+V: 1.1Characteristics
+Viruses are extremely small infectious agents, which can only  be seen under an electron microscope. 
+They range in size from 250 nanometer (nm) of poxviruses to the 20  nm of parvoviruses. They are 
+10 to 1000 times smaller than most bacteria, so they can pass thr ough the pores of ilter, from 
+which bacteria cannot pass. Viruses cannot be grown on artiici al media. They can reproduce only 
+in animal and plant cells or in microorganisms, where they reproduce by replication (a process by 
+which many copies or replicas of virus are formed). Thus the viruses are obligate intracellular 
+parasites . Viruses lack metabolic machinery for the synthesis of their ow n nucleic acid and protein. 
+They depend on the host cell to carry out these vital functions. During  reproduction in the host 
+cells, viruses may cause disease. All viruses are generally r esistant to broad range of available 
+antibiotics such as penicillin, streptomycin and others.
+Structure
+The complete, mature and infectious particle is known as virion . The virions are composed of 
+a central core of nucleic acid , either DNA or RNA, which is also known as the genome  and is 
+surrounded by a protein coat, the capsid . Capsid gives deinite shape to virion. Capsid is made up 
+of protein subunits known as capsomeres . The number 
+of capsomeres is characteristics of a particular virus. 
+For example 162 capsomeres are present in the capsid 
+of herpes virus  and 252 in the capsid of adenovirus  
+which cause some common colds. In some animal viruses 
+the nucleocapsid  (nucleic acid and capsid) is covered 
+by another membrane derived from the host cell, the 
+envelope . Non enveloped viruses are known as naked 
+virions. Animal and plant viruses may be polyhedron 
+(having many sides), helical (Spiral), enveloped or complex.
+Bacterio-phages occur in two structural forms having cubical or  helical symmetry. In general 
+appearance cubical phages are regular solid or icosahedral  (having 20 faces), and helical phages 
+are rod shaped. Many phages consist of head and tail. In those cases heads are polyhedral but 
+tails are rod shaped. Morphology of some viruses and bacteriophages  has been shown in Fig 5.3.The most recently discovered (1983) and least 
+upderstood micro organisms are the prions,  
+which may be infectious proteins. Their nature is 
+very controversial. They are composed of protein 
+only that contains the information that codes 
+for their own replication. All other organisms 
+contain their genetic information in nucleic acid 
+(DNA or RNA). Prions are responsible for mad 
+cow infection and mysterious brain infection in 
+man.105. Variety of Life eLearn.Punjab
+V: 1.1  
+Fig. 5.3 Diferent types of viruses
+Life Cycle of Bacteriophages
+Earlier researches on bacteriphages were mainly on limited numb er of phages that infect Escherichia 
+coli. Of these the best known phages are T phages (T for type).
+Among T phages, the T2 and T4 phages are mainly used in phage studies. The overall structure of 
+T4, studied with electron microscopy, resembles that of tadpole, consisti ng of head and tail (Fig 
+5.4). The head is an elongated pyramidal (having two triangul ar structures with common base), 
+hexagonal , prism -shaped structure, to which straight tail is  attached. Within the head double 
+stranded DNA molecule is present. The structure of phage tail is more complex than head. A layer 
+of distinct protein forms the inner tube or core, which is enclosed i n sheath  made up of another 
+type of protein. On one side of sheath is collar  and on other side is end plate. To end plate six tail115. Variety of Life eLearn.Punjab
+V: 1.1     Fig. 5.4 A Bacteriophage
+ibers  are attached, which are the structures for attachment. The volume of th e phage is about 
+1/1000 of the host.
+The bacteriophage replicates only inside the bacterial cell. The ir st step in the replication of a 
+bacteriophage is its attachment (adsorption)  to host cell at receptor site on the cell wall of 
+bacterium. During attachment, week chemical union between virion an d receptor site  takes place. 
+In the next step, penetration , the tail releases the enzyme lysozyme  to dissolve a portion of the 
+bacterial cell wall. The tail sheath contracts and tail core is  forced into the cell through cell wall and
+cell membrane. The virus injects its DNA into the cell just as the s yringe is used to inject the vaccine. 
+The protein coat, which forms the phage head and tail structure of virus remains outside the cell 
+(Fig 5.5). Many animal viruses, however enter the host cell as a whole.
+Immediately after entering the host cell , the viral nucleic acid tak es the control of the host’s 
+biosynthetic machinery and induces the host cell to synthesize neces sary viral components (DNA,   
+proteins), and starts multiplying . About 25 minutes after initial infection, approximately 200 new125. Variety of Life eLearn.Punjab
+V: 1.1bacteriophages are formed, bacterial cell bursts, i.e., it under goes lysis. Newly formed phages are 
+released to infect the bacteria and another cycle, the lytic  cycle begins (Fig. 5.6). The phage which 
+causes lysis of the host cell is known as lytic or virulent phage.
+Fig 5.5 A phage injecting its DNA in to host
+Animation 5.2: Viruses
+Source and Credit: geocities.ws135. Variety of Life eLearn.Punjab
+V: 1.1Video 5.3: Endoplasmic Reticulum (ER),Ribosomes
+Source and Credit: Sabaq
+Animation 5.4: Life Cycle of Bacteriophages
+Source and Credit: faculty.ccbcmd145. Variety of Life eLearn.Punjab
+V: 1.1Fig. 5.6 Replication of a bacteriophage. After adsorption and p enetration, the virus DNA undergoes prophage formation (1) In the  
+Iysogenic cycle, phages can exist harmlessly as a prophage with in the host cell for long periods of time. Each ti.ne th e bacterial 
+chromosome is replicated, the prophage also is replicated, an d hence all daughter bacterial cell are “infected”! with  the prophage. 
+Induction involves either a spontaneous or environmentally i nduced excision of the prophage from the bacterial chromosome. (2)  A 
+typical lytic cycle, involves synthesis and maturation  of phage and new phages are released.
+All infections of bacterial cells by phages do not result in lys is. In some cases viral DNA, instead of 
+taking over the control of host’s machinery, becomes incorporated into th e bacterial chromosome.
+Phage in this state is called prophage  and this process is known as lysogeny.  In this condition 
+the bacterium continues to live and reproduce normally. Viral DN A being the part of bacterial 
+chromosome passes to each daughter cell in all successive generation s. Some times, however, the 
+viral DNA gets detached from the host’s chromosome and lytic cycle s tarts. This process is called 
+induction.  Lysogenic bacteria are resistant to infection by the same or related p hages. The phage 
+which causes lysogeny is called temperate (lysogenic) phage .155. Variety of Life eLearn.Punjab
+V: 1.1Classiication of Viruses
+Virus morphology and nucleic acid properties are most important f or classifying plant, animal and 
+bacterial viruses. The genetic material may be DNA or RNA naked, enveloped or complex. On the 
+basis of morphology viruses are classiied into rod shaped (T.M. V), spherical (poliovirus) and tadpole 
+like bacteriophage viruses etc. Fig. 3.5 and 5.4.
+Some Viral Diseases
+There are many diseases which are caused by viruses. Only thos e are being mentioned here which 
+have been or are common in Pakistan.
+Small pox:  Smallpox, which is caused by pox viruses (the DNA enveloped vir us) is an ancient disease 
+that is known to have occurred as epidemic in China as early as  the twelfth century B.C. Until the 
+early twentieth century , small pox was a common disease throughout the world. In small pox, 
+raised luid-illed vesicles are formed on the body which become pus tules later on and form pitted 
+scars, the pocks . By 1950’s immunization and other control measures had largel y decreased the 
+danger, but it is still present in the third world countries where many people are afected. In 1980, 
+it was declared by World Health Organization that small pox ha s been eradicated from the world.
+Herpes simplex:  Herpes virus (DNA virus) is responsible for this disease. It is  naturally occurring 
+disease of mankind. In this vascular lesions in the epithelial layers of ectodermal tissues are formed. 
+Most commonly this disease occurs in the mouth, on the lips, and a t other skin sites.
+Inluenza:  Inluenza viruses are enveloped RNA viruses. Inluenza is wide sp read disease in man 
+and occurs in epidemic form.
+Mumps and Measles:  Mumps and Measles viruses belong to group paramyxoviruses . They are 
+large, enveloped, RNA viruses. Mumps is highly contagious, wid e spread, but seldom fatal. About 
+60% of adults are immune to it. Measles is one of the commonest diseas es of the childhood and 
+adult human population is equally susceptible the world over. Th is disease develops immunity in 
+its victim.
+Polio:  Poliomyelitis, caused by polio virus, is found all over the world  . It occurs mostly in childhood.165. Variety of Life eLearn.Punjab
+V: 1.1The age at which primary infection occurs varies with social a nd economic factors. The polioviruses
+are the smallest known viruses and contain RNA in spherical ca psid. Some common human viral 
+dieases are shown in Fig 5.7.
+Fig. 5.7 Some common human viral diseases
+Retroviruses
+RNA tumor viruses have been known for many years. These viruses ar e widely distributed in nature 
+and are associated with tumor production in a number of animal species, such as fowl, rodents 
+and cats. The most familiar of viruses is the human immunodeiciency virus (HIV)  which causes 
+acquired immune deiciency syndrome (AIDS).
+The single stranded RNA tumor viruses, which also include retroviruses (oncoviruses),  are 
+spherical in form , about lOOnm in diameter and enveloped by h ost plasma membrane. Although 
+a few retroviruses are non speciic that is they can infect any cell , most of them can infect only host175. Variety of Life eLearn.Punjab
+V: 1.1cells that possess required receptors. In the case of AIDS virus, the host cell possesses a receptor 
+that allows the viral adsorption and penetration in several types of leukocytes  (white blood cells) 
+and tissue cells. The retroviruses have a special enzyme called  reverse transcriptase,  which can 
+convert a single -stranded RNA genome into double stranded viral DNA.  Not only this DNA can 
+infect host cells, but it also can be incorporated into host genome as  a provirus  that can be passed 
+on to progeny cells. In this way, some of retroviruses can convert norm al cells into cancer cells.
+Acquired Immune Deiciency Syndrome (AIDS)
+The AIDS was reported by some physicians in early 1980’s in young males having one or more of 
+complex symptoms such as severe pneumonia , a rare vascular can cer, sudden weight loss, swollen 
+lymph nodes and general loss of immune functions. All these you ng patients were homosexuals. 
+Soon after the disease was discovered in nonhomosexual patients who were given blood (blood 
+transfusion) or blood products. In 1984 the agent causing the di sease was identiied by research 
+teams from Pasteur Institute in France and National Institute of heal th in USA. In 1986 the virus was 
+named as human immunodeiciency virus (HIV)  (Fig 5.8). The major cell infected by HIV is the 
+helper T-lymphocyte , which is major component of immune system. As the HIV infection  continues 
+in the host, the decrease of helper T-lymphocytes results in failu re of the immuhe system and the 
+infected person becomes susceptible to other diseases. Cells in centra l nervous system can also be 
+infected by HIV Fig. 5.9. Recent studies on HIV reveal that the viru s infects and multiplies in monkey 
+but does not cause disease in them, which means that HIV is host speciic.
+Fig. 5.8 Human immunodeiciency virus (HIV)185. Variety of Life eLearn.Punjab
+V: 1.1The HIV is transmitted by intimate sexual contact, contact with blood  and breast feeding. Healthcare 
+workers can also acquire HIV during professional activities. A voiding the direct contact with HIV is 
+important measure for preventing the disease. Prevention of’ intravenous d rugs with common 
+syringes and use of sterile needles/syringes and utensils is im portant. Now vaccine against HIV has 
+been synthesized and its experimental administration in humans  started in early 2001 in South 
+Africa.
+Fig 5.9 Infection cycle of HIV
+Hepatitis
+Hepatitis is an inlammation of the liver. It is usually caused by viral infection, toxic agents or drugs. 
+It is characterized by jaundice, abdominal pain, liver enlar gement, fatigue and some times fever. It 
+may be mild or can be acute and can lead to liver cancer. The d iferent types of viral hepatitis are 
+Hepatitis A  (formerly called infectious hepatitis is transmitted by contact w ith faeces from infected195. Variety of Life eLearn.Punjab
+V: 1.1individuals.) Hepatitis B  (serum hepatitis). Hepatitis C  (formerly called non-A, non-B hepatitis) 
+passes through blood, from mother to child during pregnancy an d afterward and by sexual contact. 
+Hepatitis D  (delta hepatitis), Hepatitis E  (a virus transmitted through the faeces of an infected 
+person), Hepatitis F, G  (caused by viruses yet unidentiied). Viruses of hepatitis A, B and C are 
+better known. Hepatitis A virus (HAV) is an RNA virus (non enveloped), which causes mild short 
+term, less virulent disease. Hepatitis C virus (HCV) is also RNA virus (enveloped) causes infusion 
+hepatitis, which is less severe than hepatitis A or hepatitis B, b ut hepatitis C often leads to chronic 
+liver disease. Most recent work of Halbur and coworker (2001) reveal s that pig could be the source 
+of infection of hepatitis E.
+Hepatitis B (HBV)  is the second major form of hepatitis. It is caused by DNA virus  which is very 
+common in Asia, China, Philippines, Africa and the Middl e East. Hepatitis B is transmitted by the 
+exchange of body luids, for example blood serum, breast milk an d saliva, from mother to child 
+during birth or afterward and by sexual contact.. During acu te attacks of Hepatitis B fatigue, loss of 
+appetite and jaundice are reported. Infected persons can recover compl etely and become immune 
+to the virus. People with chronic hepatitis infection are at the risk  of liver damage. Hepatitis can be
+controlled by adopting hygienic measures, with routine vaccination and screening of blood/ organ/ 
+tissue of the donor.
+Genetically engineered vaccine is available for HBV.
+Vaccine is also available for HAV but not for HCV.
+Animation 5.5: HIV
+Source and Credit: makeagif205. Variety of Life eLearn.Punjab
+V: 1.1Q.1.            Fill in the blanks
+                    (i)         C. Linneaus divided all known forms of life i nto two kingdoms: _______ a n d ____.                                         
+                                Bacteria were placed in the kingdom ________ because they have cell walls, and  
+                                protozoa were placed in the kingdom ___________because they move from place 
+                                to place and ingest food.  
+                    (ii)        The most common system of c lassiication used today, developed in 1969 by 
+                                        Robert Whittaker of Cornell University, uses ive kingdoms: _________ and_______ _.
+                    (iii)       Whittaker’s ive kingdom s ystem of classiication recognizes two basic types of  
+                                cells : __________ a nd _____________ .
+                    (iv)       In ive kingdom system of cl assiication proposed by Margulis and Schwartz  
+                                organelles of symbiotic or igin such a s an d _______ were also considered.
+                    (v)        A bacteriophage reproduces b y using the metabolic machinery of______________.
+                    (vi)       The protein coat that encloses th e viral genome is called :___________ It is made 
+                                up of__________ .
+                    (vii)      Retroviruses are __________ _ viruses which have speciic enzymes _______________
+                                by which they convert RNA  to DNA.
+                     (viii)      HIV infects _________ __ and the defects in these cells lead to failure in ___________ _ 
+                                 system.
+                    (ix)       Hepatitis is caused by ________ .
+                    (x)        Viral Hepatitis is of __ _______types. Hepatitis A and C are caused by ___________ 
+                                 virus whereas _______ __ virus is the causative agent of Hepatitis B.                                                                  EXERCISE

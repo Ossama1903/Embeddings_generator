@@ -1,0 +1,994 @@
+CHAPTER
+10    ELECTROCHEMISTRY
+Animation 10.1: ELECTROCHEMICAL CELLS
+Source & Credit: dynamicscience210 ELECTROCHEMISTRY eLearn.Punjab
+INTRODUCTION
+ Electrochemistry is concerned with the conversion of electrical energ y into chemical energy 
+in electrolytic cells as well as the conversion of chemical energy i nto electrical energy in galvanic or 
+voltaic cells.
+ In an electrolytic cell, a process called electrolysis takes pl ace. In this process electricity is 
+passed through a solution or the fused state of electrolyte. The electricity  provides suicient energy 
+to cause an otherwise non-spontaneous oxidation-reduction reaction to ta ke place. A galvanic 
+cell, on the other hand, provides a source of electricity. This s ource of electricity results from a 
+spontaneous oxidation-reduction reaction taking place in the solution .
+ First of all, we should learn, the theoretical background of oxi dation and reduction reaction 
+and try to understand the balancing of equation.
+Animation 10.2: ELECTROCHEMISTRY
+Source & Credit : spiritsd310 ELECTROCHEMISTRY eLearn.Punjab
+10.1 OXIDATION STATE AND BALANCING OF REDOX EQUATIO NS
+10.1.1 Oxidation Number or State
+ It is the apparent charge on an atom of an element in a molecule or an ion. It may be positive 
+or negative or zero.
+Rules for Assigning Oxidation Number
+(i)  The oxidation number of all elements in the free state is zer o. This is often shown as a zero 
+written on the symbol. For example, o
+2H, o
+Na, o
+Mg.
+(ii) The oxidation number of an ion, consisting of a single el ement, is the same as the charge on the 
+ion. For example, the oxidation number of K+, Ca2+, Al3+ , Br- , S2- are + 1, +2, +3, -1, -2, respectively.
+(iii) The oxidation number of hydrogen in all its compounds ex cept metal hydrides is +1. In metal 
+hydrides it is -1. (Na+H- , Mg2+ H2(-1)2)
+(iv) The oxidation number of oxygen in all its compounds except i n peroxides, OF2 and in super 
+oxides is -2. It is -1 in peroxides +2 in OF2 and -1/2 in super oxides.
+(v) In neutral molecules, the algebraic sum of the oxidation numb ers of all the elements is zero.
+(vi) In ions, the algebraic sum of oxidation number equals the charge on the ion.
+(vii) In any substance the more electronegative atom has the negative oxid ation number.
+Animation 10.3: Oxidation Number
+Source & Credit : alonsoformula410 ELECTROCHEMISTRY eLearn.Punjab
+10.1.2 To Find Oxidation Number of an Element in a C ompound or a Radical
+ The oxidation number or state of any atom of an element present in a compound or a radical 
+can be determined by making use of the above said rules.
+Example 1:
+ Calculate the oxidation number (O.N) of manganese in 4KMnO .
+Solution
+ (Oxidation number of K) + (oxidation number of Mn )+4 (oxid ation number of O) = 0
+ Where   oxidation number of K   = +1
+    oxidation number of O   = -2
+Let     oxidation number of Mn   = x
+ Putting these values in the above equation.
+     (+1) + x + 4(-2)    = 0
+ or       x    = +7
+Thus the oxidation state of Mn in 4KMnO is + 7.
+Example 2:
+ Calculate the oxidation number (O.N) of sulphur in 2-
+4SO .510 ELECTROCHEMISTRY eLearn.Punjab
+Solution
+ [oxidation number of S] + 4[oxidation number of O ]   = -2
+        x + 4 (-2 )    = -2
+         x    = +6
+ Thus the oxidation number of sulphur in 2-
+4SO  is + 6 .
+10.1.3 Balancing of Redox Equations by Oxidation Numbe r Method
+ Carry out the following steps for balancing of redox equations b y oxidation number method.
+(i)   Write down the skeleton equation of the redox reaction under cons ideration.
+(ii)  Identify the elements, which undergo a change in their oxid ation number during the reaction.
+(iii)  Record the oxidation number above the symbols of the element, w hich have undergone a 
+change in the oxidation number.
+(iv)  Indicate the change in oxidation number by arrows joining  the atoms on both sides of the 
+equation. It shows number of electrons gained or lost.
+(v)  Equate the increase or decrease in the oxidation number, i. e. electrons gained or lost by 
+multiplying with a suitable digit.
+(vi)  Balance the rest of the equation by inspection method.610 ELECTROCHEMISTRY eLearn.Punjab
+Example 3:
+ Balance the following equation by oxidation number method.
+    2 27 3 2 2K Cr O  + HCl KCl + CrCl  + Cl  + H O →
+Solution
+ Let us balance the equation stepwise:
+1.  Write the equation with the oxidation number of each element
+  
+Animation 10.4: Redox reation
+Source & Credit : dynamicscience710 ELECTROCHEMISTRY eLearn.Punjab
+  (+1)2(+6)2(-2)7 (-1)3 (+1)2 +1 -1 +1 -1 +3 -2o
+2 27 3 2 2 K Cr O  + HCl KCl + CrCl  + Cl  + H O →
+2 . Identify, those elements whose oxidation numbers have changed. E quation shows that Cr goes 
+from + 6 to +3 and it is reduced. Cl goes from -1 to zero and is  oxidized. Moreover, the oxidation 
+number of chlorine remains the same, i.e from -1 to -1 when KCl and CrCl3 are produced. So, 
+we should write HCl, twice on the left hand side. One of HCI on left side shows those Cl atoms 
+which do not change their oxidation numbers Other HCI shows those Cl atoms which undergo a 
+change in their oxidation numbers.
+   
+3.  Draw the arrows between the same elements whose oxidation numbers have changed. Also, 
+point out the change in oxidation number. Cr has changed its oxid ation number from + 6 to + 
+3 and chlorine has changed from -1 to zero . It means 6 electron s have been gained by two Cr 
+atoms and 1 electron has been lost by 1 chlorine atom.
+     
+    (1e-) oxidation 
++6 -1 o
+2 27 3 2 2 HCl + K Cr O  + HCl KCl + CrCl  + Cl + H O →  
+  2(+3e-)= +6e-reduction 
+4.  In order to balance the number of electrons lost and gained mul tiply HCl with six. In this way, 
+the 6 electrons lost by 6 Cl- will be gained by 2Cr+6 to give 2Cr+3. But do not multiply other HCl 
+molecules with anything at this moment.
+    2 27 3 2 2HCl + K Cr O  + 6HCl KCl + CrCl  + Cl  + H O →    reduction 
+-1 +6 -1 -1 +3 -1 o
+2 27 3 2 2 HCl + K Cr O  + HCl KCl + CrCl  + Cl + H O → 
+(does not change oxidation number ) oxidation810 ELECTROCHEMISTRY eLearn.Punjab
+5.  Let us, balance Cr atoms by multiplying CrCl3 by 2 . Balance Cl2 on right hand side, whose 
+oxidation number has changed by multiplying it with 3. In this way, the atoms which have been 
+oxidized and reduced get balanced.
+    2 27 3 2 2HCl + K Cr O  + 6HCl KCl + 2CrCl  + 3Cl  + H O →
+6 . To balance K atoms, multiply KCl by 2.
+   2 27 3 2 2 HCl + K Cr O  + 6HCl 2KCl + 2CrCl  + 3Cl  + H O →
+7. Now balance those atoms of chlorine which have not been oxidized or reduced. There are 8 such 
+chlorine atoms on the right hand side with KC1 and 2CrCl3. So multiply HCl with eight. This HCl 
+has produced KCl and CrCl3 .
+    2 27 3 2 2 8HCl + K Cr O  + 6HCl 2KCl + 2CrCl  + 3Cl  + H O →
+8 . Balance the rest of the equation by inspection method. To bala nce O atoms multiply H2O with 7.
+    2 27 3 2 2 8HCl + K Cr O  + 6HCl 2KCl + 2CrCl  + 3Cl  + 7 HO →
+or
+    2 27 3 2 2 K Cr O  + 14HCl 2KCl + 2CrCl  + 3Cl  + 7H O →
+ This is the inal balanced equation.
+10.1.4 Balancing of Redox Equations by Ion-Electron Method
+ The balancing of redox equations by the loss and gain of electr ons, usually involves quite 
+a few ions, which do not undergo change in valence and which are not really necessary for the 
+process of balancing. The ion-electron method eliminates all the un necessary ions and retains only 
+those, which are essential. Following, are the general rules for b alancing the redox equations by 
+ion-electron method.910 ELECTROCHEMISTRY eLearn.Punjab
+1. Write a skeleton equation that shows only those substances that are actu ally involved in the 
+reaction.
+2. Split the equation into two half reactions, one showing oxidation hal f reaction and the other 
+reduction half reaction.
+3. The element should not be written as a free atom or ion unless it r eally exists as such. It should 
+be written as a real molecular or ionic species.
+4. Balance each partial equation as to the number of atoms of each elemen t. In neutral or acidic 
+solution, H2O or H+ ions may be added for balancing oxygen and hydrogen atoms.  Oxygen atoms 
+are balanced irst. If the solution is alkaline, OH- may be used for each excess oxygen on one side 
+of the equation.
+5. Balance each half reaction as to the number of charges by addi ng electrons to either the left or 
+the right side of the equation.
+6. Multiply each half reaction by a number chosen so that the total nu mber of electrons lost by the 
+reducing agent equals the number of electrons gained by the oxidiz ing agent
+7. Add the two half reactions. Count the number of atoms of each element on  each side of the 
+equation and also check the net charge on each side, which should  be equal on both sides.
+          Balancing of redox equations by ion-electron method, ma king use of the above rules. There 
+are two types of such reactions Le. in acidic medium and basi c medium. Now, let us discuss one 
+example of each.
+Example 4: (acidic medium)
+ Balance the equation for the reaction of HCl with KMnO4 where Cl- is oxidized to Cl2 and MnO4- 
+is reduced to Mn2+. The skeleton equation which does not contain either H+ or H2O, is
+Solution
+ It is clear that Cl- is oxidized to Cl2 and MnO1-
+4 reduces to Mn2+
+ Splitting the equation into half-reactions,
+ Oxidation half reaction
+      -
+2Cl Cl→
+ Reduction half reaction
+     - 2+
+4MnO Mn →- - 2+
+42 Cl +MnO Cl +Mn →1010 ELECTROCHEMISTRY eLearn.Punjab
+ Balancing atoms on both sides of oxidation half reaction.
+    -
+2 2Cl Cl ............. (1)→
+ Now, balance the reduction half reaction. To balance O-atoms, add 4H2O on R.H.S. and to 
+balance H-atoms add 8H+ on L.H.S. The reason is that medium is acidic.
+    - 2+
+42 8H +MnO Mn +4H O            .............    (2)+→
+ Balancing the charges by adding electrons in equation (1) a nd (2), we get (3) and (4).
+    --
+2 2Cl Cl 2e .............. (3)→+
+    - - 2+
+42 8H  + MnO + 5e Mn  + 4H O          .........   (4)+→
+ For making the number of electrons lost in irst equation equal to the number of electron 
+gained in the second equation, multiply the irst equation by 5 and  second by 2. After adding both 
+equations and cancelling the common species on both sides, balanc ed equation is obtained.
+   --
+2
+- - 2+
+42
+- - 2+
+42 2                        [2Cl Cl +2e ]x5
+      [5e 8H  + MnO Mn + 4H O]x2
+10Cl 16H  + 2MnO 5Cl  + 2Mn  + 8H O+
++→
++→
++→
+Example 5: (basic medium)
+ Balance the following equation in basic aqueous solution by ion- electron method.
+   1- 2- -
+4 24 2 2 2MnO (aq)+C O (aq)+H O MnO (s)+CO (g)+OH (aq) →
+Solution
+ The following steps are involved in balancing of equation in bas ic aqueous solution by ion-
+electron method.1110 ELECTROCHEMISTRY eLearn.Punjab
+(i)  Identify those elements, which undergo change in oxidation n umber by writing number 
+above each element.
+ The elements undergoing a change in oxidation number are Mn a nd C.
+(ii)  Split the reaction into two half reactions, the oxidation and r eduction half reactions.
+    2-
+24 2C O CO →
+    (oxidation half reaction)
+    -1
+42MnO MnO →
+    (reduction half reaction)
+ The elements undergoing a change in oxidation number are Mn a nd C.
+(ii)  Split the reaction into two half reactions, the oxidation and r eduction half reactions.
+    2-
+24 2C O CO →
+    (oxidation half reaction)
+    -1
+42MnO MnO →
+    (reduction half reaction)
+Balancing of Oxidation Half Reaction:
+     -2
+24 2C O CO →
+ Balancing the C atoms in both sides of the half reaction.
+     -2
+24 2C O 2CO →
+Balancing the charges on both sides of the half reaction by add ing the appropriate number of 
+electrons to the more position side.78 ( 3 ) 28 22 44 44 2( 1 )
+1- 2- 1-
+4 24 2 2 2(MnO ) +(C O ) H O MnO  + CO  + (OH)+ − + − +− +− +− −+
+→1210 ELECTROCHEMISTRY eLearn.Punjab
+    -2 -
+24 2C O 2CO 2e ....... (1) →+
+ The oxidation half reaction is balanced.
+Balancing of Reduction Half Reaction:
+     -
+42MnO MnO →
+ Balance in O-atoms by adding OH- ions on the side needing the oxygen. Add two OH- ions for 
+each oxygen atom needed. So, we have to add 4OH- on R.H.S:
+     --
+42MnO MnO 4OH →+
+ Balance the hydrogen, by adding H2O on the other side of the half reaction. Add one H2O for 
+each two OH- ion. In this way, oxygen and hydrogen atoms are balanced.
+     --
+2422H O + MnO MnO 4OH →+
+ Balance the charges by adding three electrons to L.H.S. of equation
+    ---
+2423e  + 2H O + MnO MnO 4OH ....... (2) →+
+ The reduction half reaction is balanced.
+(iii)  Multiply each half reaction by an appropriate number , so that the number of electrons on 
+both the half reactions becomes equal. For this purpose, multiply th e oxidation half reaction by 3 
+and the reduction half reaction by 2.
+    -2 -
+24 23C O 6CO 6e ........ (3) →+
+  
+    ---
+242 2 x [3e  + 2H O + MnO MnO 4OH ] →+
+    ---
+2426e  + 4H O + 2MnO 2MnO 8OH ........ (4) →+1310 ELECTROCHEMISTRY eLearn.Punjab
+(iv)  Add the two half-reactions to get the net ionic equation and c ancel out anything appearing on 
+both sides of the equation. For this purpose, add equation and equati on (4).
+    -2 -
+24 2
+---
+242
+2- - -
+24 2 4 2 2                           3C O 6CO 6e
+6e  + 4H O + 2MnO 2MnO 8OH
+            3C O  + 4H O + 2MnO 6CO 2MnO 8OH→+
+→+
+→+ +
+Hence, the balance ionic equation is
+  - 2- -
+4 (aq) 2 4 2 2 (s) 2(g) (aq) 2MnO 3C O  + 4H O 2MnO 6CO 8OH + → ++
+10.2.0 ELECTROL YTIC CONDUCTION
+ We know, that most metals are conductors of electricity because of the r elatively free 
+movement of their electrons throughout the metallic lattice. This electronic conduction is simply 
+called metallic conduction.
+ Electrolytes in the form of solution or in the fused state have the abil ity to conduct electricity. 
+In this case, the current is not carried by free electrons throu gh the solution or through the fused 
+electrolyte. Here, the current is carried by ions having positive an d negative charges. These ions 
+are produced in the solution or in fused state due to ionization of the electrolyte. Ionization is the 
+process in which ionic compounds when fused or dissolved in w ater split up into charged particles 
+called ions.
+    fused 2+ -
+2 (s) (aq) (aq)PbBr      Pb   + Br  ฀฀฀฀ ฀฀ ฀฀฀ ฀
+    2HO +-
+(s) (aq) (aq)NaCl     Na   + Cl  ฀฀฀฀ ฀฀ ฀ ฀ ฀฀
+ Two electrodes are dipped in the solution of an electrolyte and electrol ysis takes place. This 
+forms an electrolytic cell An electrolytic cell is an electrochemical  cell in which electric current is used 
+to drive a non-spomaneous reaction. When a non-spontaneous reaction tak es place at the expense 
+of electrical energy, the process is called electrolysis. During th is non-spontaneous reaction, the 
+substances are deposited at respective electrodes and electrolyte is decompos ed. Examples of 
+electrolytic cells are Down’s cell and Nelson’s cell, etc.1410 ELECTROCHEMISTRY eLearn.Punjab
+10.2.1 Electrochemical Cells
+10.2.2 Electrolytic Cells.
+ Look at the arrangement as shown in Fig. (10.1). It represents, an electrolytic cell, The electrolyte 
+consists of positive and negative ions which are free to move in the solu tion. When a direct current 
+(D.C) source is connected to the electrodes of the cell, each electrode ac quires an electric charge.
+ Thus, on applying electric potential, the positive ions migrate towa rds the negative electrode, 
+called cathode and the negative ions move towards the positive electrode, call ed the anode.
+Animation 10.5: ELECTROCHEMICAL CELLS
+Source & Credit : dynamicscience1510 ELECTROCHEMISTRY eLearn.Punjab
+ This movement of ionic charges through the liquid brought by the application of electricity is 
+called electrolytic conduction and the apparatus used is known as  electrolytic cell.  
+When electrolytic conduction occurs, electrochemical reactions takes p lace. The ions in the liquid 
+come in contact with the electrodes. At the anode the negative ions give up el ectrons and are, 
+therefore, oxidized. At the cathode the positive ions pick up electrons an d are reduced. Thus during 
+electrolytic conduction, oxidation takes place at the anode and the reduc tion takes place at the 
+cathode. The liquid will continue to conduct electricity only as lon g as oxidation-reduction reactions, 
+occurring at the electrodes, continue.
+ The electrochemical reactions that occur at the electrodes during th e electrolytic conduction 
+constitute the phenomenon of electrolysis.
+ When a molten salt is electrolyzed , 
+the products a re predictable. When an aqueous 
+solution of a salt is electrolyzed, hydrogen and oxygen
+appear at the cathode and anode, respectively in 
+certain cases. The products formed from a few 
+electrolytes are shown in Table (10. 1).
+Ftg (10.1) The migration of ions in electrolytic cell
+Table (10.1a) Products of electrolysis
+(using inert electrodes of platinum or graphite)
+Electrolyte Cathode Anode
+2(molten)PbBr
+(molten)NaCl
+NaCl(aq)
+2CuCl (aq)
+4CuSO (aq)
+3KNO (aq)
+NaOH(aq)
+24H SO (aq)Pb(s)
+Na(s)
+2H (g)
+Cu(s)
+Cu(s)
+2H (g)
+2H (g)
+2H (g)2Br (g)
+2Cl (g)
+2Cl (g)
+2Cl (g)
+2O (g)
+2O (g)
+2O (g)
+2O (g)1610 ELECTROCHEMISTRY eLearn.Punjab
+Electrolyte Copper cathode Copper anode
+CuSO4(aq) Cu deposits Cu (s) dissolves to form CU2- ions
+Electrolyte Silver cathode Silver anode
+AgNO3(aq) and HNO3(aq) Ag deposits Ag (s) dissolves to form Ag+ ions
+Animation 10.6: Electrolytic Cells
+Source & Credit : dynamicscienceTable (10.1b) Products of electrolysis
+(when electrodes take part in the reaction)1710 ELECTROCHEMISTRY eLearn.Punjab
+10.2.3 Explanation of Electrolysis
+(a)  Fused Salts
+ When a fused salt is electrolyzed, the metal ions called cations arrive at the cathode which 
+being negatively, charged supply electrons to them and thus disch arge the cations. The anions 
+move towards the anode, give up their electrons and are thus discharg ed. In the case of fused lead 
+chloride, the equations for electrode processes are given as under.
+  At anode: 2+ -
+( ) ( s) Pb + 2e Pb →  (oxidation)
+  At cathode: --
+( ) 2(g)2Cl          Cl +2e →  (reduction)
+So, oxidation happens at anode and reduction at the cathode.
+ Similarly, for fused NaCl and fused PbBr2 the electrolytes are decomposed during electrolysis. 
+Fused Pb and Na are deposited at cathode and Cl2(g) and Br2 at anode.
+ Electrons low through the external circuit from anode to cathode. The el ectric current is 
+conducted through the cell by the ions and through the external circ uit by the electrons.
+(b)  Aqueous Solutions of Salts
+ The electrolysis of aqueous solutions is somewhat more complex. Its reason is the ability 
+of water, to be oxidized as well as reduced. Hence, the products of  electrolysis are not precisely 
+predictable. Some, metal cations are not discharged from their aqu eous solutions. While, 
+electrolyzing aqueous sodium nitrate (NaNO3) solution, sodium ions present are not discharged at 
+the cathode. A small concentration of hydronium and hydroxyl ions  arises from the dissociation of 
+water:
+   +-
+33NaNO Na +NO →
+   +-
+2 ( ) 3 (aq) (aq)2H O            H O  + OH →1810 ELECTROCHEMISTRY eLearn.Punjab
+Hydronium ions accept electrons from the cathode to form hydrogen atoms :
+ At cathode: +-
+3 (aq) (g ) 2 ( ) H O  + e H  + H O → (reduction)
+Animation 10.7: Electrolysis
+Source & Credit : revolvy1910 ELECTROCHEMISTRY eLearn.Punjab
+ Subsequently, hydrogen atoms combine rapidly to form hydrogen m olecules at the cathode.
+  
+   (g) (g) 2(g)H  + H H →
+  So, H2 gas evolves at the cathode.
+ The concentration of hydronium ions is only 10-7 moles dm-3 in pure water. When these are 
+discharged then more are formed by further dissociation of water m olecules. This gives a continuous 
+supply of such ions to be discharged. Sodium ions remain in  solution, while hydrogen is evolved 
+at the cathode. Thus, the reduction of the solute cations depends on th e relative ease of the two 
+competing reactions.
+ At the anode, both nitrate and hydroxide ions are present. Hydroxid e ions are easier to 
+discharge than nitrate ions. Nitrate ions remain in solution wh ile the electrode reaction is:
+ At anode: -
+(aq) (aq)OH    OH  + e−→  (oxidation)
+ 
+ The OH groups combine to give O2 gas as follows.
+    2(g) 2 ( ) 4OH   O  + 2H O → (anode)
+ 
+ So, O2 gas evolves at the anode.
+ 
+ But, remember that the expected order of the discharge of ions may a lso depend upon their 
+concentrations.
+10.2.4 Electrolytic Processes of Industrial Importanc e
+ Various types of electrolytic cels are employed on industrial scal e. Some of the important 
+ones are given here.
+(i)  Extraction of sodium by the electrolysis of fused sodium ch loride is carried out in Down’s cell. 
+In this case, molten sodium chloride is electrolyzed between iron cath ode and graphite anode. The 
+cell is planted to get sodium metal commercially chlorine is obtai ned as a by product.
+   
+     +-
+(s) ( ) ( )NaCl    Na  + Cl →2010 ELECTROCHEMISTRY eLearn.Punjab
+  At anode
+     --
+( ) (g)2Cl      2Cl  + 2e →  (oxidation)
+     (g) (g) 2(g)Cl  + Cl    Cl →
+  At cathode
+     +-
+( ) (s)2Na  + 2e 2Na →  (reduction)
+ By adding the two reactions at anode and cathode, the overall reaction is
+     +-
+( ) ( ) (s ) (g) 2Na  + 2Cl     2Na  + Cl →
+
+(ii)  Caustic soda is obtained on industrial scale by the electr olysis of concentrated aqueous 
+solution of sodium chloride using titanium anode and mercury or steel cathode This electrolysis is 
+carried out in Nelson cell and Castner- Kellner cell or Hg- cel l.
+   -
+(s) (a q) (aq) NaCl     Na  + Cl+฀
+At anode  --
+(g) 2 (g) 2Cl       Cl  + 2e →    (oxidation)
+At cathode  --
+2 ( ) 2(g) (aq)2H O  + 2e H  + 2OH →  (reduction)
+By combining, the electrode reactions and including Na+ ions, the overall reaction is
+  +- + -
+(aq) (aq) 2 (l) 2(g) 2(g) (aq) (aq)2Na  + 2Cl  + 2H O Cl H  + 2Na  + 2OH →+
+ Here, chlorine and hydrogen are obtained as by products, and Na+ is not discharged at 
+cathode.
+(iii) Magnesium and calcium metals are extracted by the electroly sis of their fused chlorides. Mg 
+and Ca are collected at cathodes while Cl2 at anodes
+(iv) Aluminium is extracted by electrolyzing fused bauxite, Al2O32H2O in the presence of fused 
+cryolite, Na3AlF6. This process is called Hall-Beroult process.
+(v) Anodized aluminium is prepared by making it an anode in  an electrolytic cell containing sulphuric 
+acid or chromic acid, which coats a thin layer of oxide on- i t. The aluminium oxide layer resists 
+attack for corrosive agents. The freshly anodized aluminium is h ydrated and can absorb dyes.2110 ELECTROCHEMISTRY eLearn.Punjab
+(vi) Electrolyticcell can also be used for the puriication of copper . Impure copper is made the 
+anode and a thin sheet of pure copper is made the cathode. Copper su lphate solution is used as 
+an electrolyte. The atoms of Cu from impure Cu- anode are converted to Cu2+ions and migrate 
+to cathode which is made up of pure Cu. In this way Cu anode i s puriied. Impurities are left at 
+anode.
+(vii) Copper, silver, nickel and chromium plating is done by various types of electrolytic cells. One 
+metal is deposited at the surface of another metal.
+10.2.5 Voltaic or Galvanic Cell
+ A voltaic or a galvanic cell consists of two half-cells that ar e electrically connected. Each half 
+cell is a portion of the total cell in which a half reaction takes place. Fig. (10.2) shows such a galvanic 
+cell. The left half cell consists of a strip of zinc metal dipp ed in 1.0 M solution of zinc sulphate giving 
+the following equilibrium:
+   2+ -
+(s) (aq)Zn        Zn +2e →
+Animation 10.8: Application of Electrolysis
+Source & Credit : electrical4u2210 ELECTROCHEMISTRY eLearn.Punjab
+.
+ The right half-cell is a copper metal strip that dips into 1 .0 M copper sulphate solution and the 
+equilibrium here is represented as follows:
+   2+ -Cu(s)      Cu +2e →
+These half-cells in Fig (10.2) are connected electrically by a  salt bridge. If the solutions were to mix, 
+direct chemical reactions would take place, destroying the half-cel ls. The salt bridge contains an 
+aqueous solution of potassium chloride in a gel. Zinc tends to lose electrons more readily than 
+copper.
+ Zn electrode takes on a negative charge relative to the copper electrode. If the external circuit 
+is closed by connecting the two electrodes as shown in the igure, electr ons low from the zinc 
+through the external circuit to copper electrode. The following half-c ell reactions occur at two 
+electrodes and cell potential at standard conditions is 1.1volts . I t is denoted by E°.
+ At anode  2+ -
+(s) (aq)Zn       Zn +2e →    (oxidation)
+ At cathode 2+ -
+(aq) (s)Cu +2e Cu  →   (reduction)
+Fig (10.2) A Galvanic cell consisting of Zn and Cu ele ctrodes at 25°C and 
+unit concentration of electrolytic solutions.2310 ELECTROCHEMISTRY eLearn.Punjab
+ The overall voltaic cell reaction is the sum of these two half cell r eactions.
+     
+  2 2+ o
+(s) (a q) (aq) (s) Zn  + Cu       Zn  + Cu                    E =1.1V+→
+This voltaic cell can be represented as follows;
+  2+ 2+ o
+(s) (aq) (a q) (s) Zn /Zn 1M Cu +1M/Cu                      E =1. 1V ฀
+ Note that reduction occurs at the copper electrode and oxidation occurs at the zinc electrode. 
+Sign ฀ shows the presence of salt bridge.
+Animation 10.9: Galvanic Cell
+Source & Credit : dynamicscience2410 ELECTROCHEMISTRY eLearn.Punjab
+Function of Salt Bridge
+ Let us, examine the purpose of the salt bridge. Since, zinc ion s are produced as electrons 
+leave the anode, we have a process which tends to produce a net positi ve charge in the left beaker. 
+Actually, the concentration of Zn2+ ions increase in the left compartment. Similarly, the arrival of th e 
+electrons at the copper cathode and their reaction with copper ions tend  to produce a net negative 
+charge in the right beaker.
+ The purpose of the salt bridge is to prevent any net charge accumu lation in either beaker 
+by allowing negative ions to leave the right beaker, difuse through the bridge and enter the left 
+beaker. If this difusional exchange of ions does not occur, the net charge accumulating in the 
+beakers would immediately stop the low of electrons through the external c ircuit and the oxidation-
+reduction reaction would stop.
+ Many other oxidation - reduction reactions can be carried out s uccessfully in galvanic cells 
+using diferent electrodes. It is natural to think of these cell process es as separated into two half-
+reactions which occur at the two electrodes. In a voltaic cell the electri c current in the external 
+circuit can be used to light a bulb, drive a motor and so on.
+Voltaic Cell is Reversible Cell
+ On the other hand, if the external circuit is replaced by a sour ce of electricity that opposes 
+the voltaic cell, the electrode reactions can be reversed. Now, the external  source pushes the 
+electrons in the opposite direction and supplies energy or work to the c ell so that the reverse non-
+spontaneous reaction occurs. Such, a cell is called a reversib le cell.
+ For the zinc-copper cell, the half cell reactions are reversed to g ive.
+ 2+ -
+(aq) (s) Zn +2e Zn →     (reduction)
+ 2+ -
+(s)Cu       Cu +2e →    (oxidation)
+and the overall reaction being reversed, becomes
+    2+ 2
+(aq) (s) (s) (aq)Zn  + Cu  Zn  + Cu+→2510 ELECTROCHEMISTRY eLearn.Punjab
+ Oxidation occurs at the copper electrode and reduction takes plac e at the zinc electrode 
+and the cell operates as an electrolytic cell in which energy from  an external source drives a non-
+spontaneous reaction.
+ When a cell operates as a voltaic the electrode at which reduction occu rs is called the cathode 
+while the electrode at which oxidation takes place is called the an ode. Hence in voltaic cell, Zn acts 
+as an anode and Cu acts as a cathode.
+10.3.0 ELECTRODE POTENTIAL
+ When a metal strip is placed in a solution of its own ions, ther e are two tendencies. The metal 
+atoms may dissolve as positive ions. In this way, the electrons a re deposited on the metal electrode. 
+On the other hand, the metal ions present in solution may take up elec trons from the metal and get 
+discharged as atoms.
+ It imparts a positive charge to the metal. In either case, a potential diference is set up between 
+the metal and the solution, which is called single electrode potential . 
+ The potential set up when an electrode is in contact with one molar sol ution of its own ions 
+at 298 K is known as standard electrode potential or standard redu ction potential of the element. 
+It is represented as E°.
+ Standard electrode potential of hydrogen has arbitrarily been chos en as zero, while the 
+standard electrode potentials of other elements can be found by compari ng them with standard 
+hydrogen electrode potential. The electrode potential, set up when a meta l piece is placed in a 
+solution containing its own ions, can be explained in terms of eq uilibrium between the atoms of 
+the metal and its ions in solution. It is believed that when a metal is placed in a solution, some of its 
+atoms tend to give electrons to the piece of metal and pass into the solution a s positively charged 
+ions. 
+ At the same time the metallic ions already present in solution tend to take up electrons from 
+the piece of metal and deposit themselves as neutral atoms. Whichever  tendency is greater in a 
+given case determines w hether the metal becomes negatively or positivel y charged, compared 
+with the solution. When equilibrium is eventually attained, the two op posing processes continue at 
+the same rate and there is no further change in the potential diference.2610 ELECTROCHEMISTRY eLearn.Punjab
+A rod of zinc , for example, will bear an accumulation of n egative charges. This is due to the net 
+ionization of some of its atoms. The negative charge on the Zn-rod will  attract an atmosphere 
+of positively charged zinc ions around the rod to form an electric al double layer as shown in Fig. 
+(10.3). The equilibrium can, therefore, be represented as:
+    2+ -
+(s) (aq)Zn       Zn +2e ฀
+Fig. (10.3) Equilibrium between zinc and its ions in s olution2710 ELECTROCHEMISTRY eLearn.Punjab
+10.3.1 Standard Hydrogen Electrode (SHE)
+ A standard hydrogen electrode which is used as a standard is  shown in Fig. (10.4). It consists 
+of a piece of platinum foil, which is coated electrolytically with  inely divided platinum black, to give 
+it a large surface area and suspended in one molar solution of H Cl. 
+Animation 10.10: ELECTRODE
+Source & Credit : senovasystems2810 ELECTROCHEMISTRY eLearn.Punjab
+Pure hydrogen gas at one atmosphere pressure is continuously bub bled into 1M HCl solution. The 
+platinum acts as an electrical conductor and also facilitates th e attainment of equilibrium between 
+the gas and its ions in solution. The potential of this electrode is a rbitrarily taken as zero.
+10.3.2 Measurement of Electrode Potential
+ In any measurement of electrode potential, the concerned electrode is joi ned electrolytically 
+with the standard hydrogen electrode (SHE) and a galvanic cell i s established. The two solutions are 
+separated by a porous partition or a salt bridge containing a con centrated solution of potassium 
+chloride. The salt bridge is used to provide a highly conducting  path between the two electrolytic 
+solutions. The potential diference is measured by a voltmeter which gi ves the potential of the 
+electrode, as the potential of SHE is zero. An oxidation or reduction m ay take place at SHE depending 
+upon the nature of the electrode which is coupled with it.
+Fig. (10.4) Standard hydrogen electrode (S.H.E)2910 ELECTROCHEMISTRY eLearn.Punjab
+ To measure the electrode potential of zinc, a galvanic cell is establ ished between zinc electrode 
+dipped in 1 M solution of its ions and standard hydrogen electrod e at 25 °C as shown in Fig (10.5). 
+Under the standard conditions, the voltmeter reads 0.76 volts and the delec tion is in such a 
+direction as to indicate that zinc has a greater tendency to give of elec trons than hydrogen has. In 
+other words, the half reaction 2+ -
+(s)Zn       Zn +2e → has greater tendency to occur than +-
+2(g)H 2H  + 2e →  
+by 0.76 volts. The standard electrode potential of zinc is, therefore,  0.76 volts. It is called oxidation 
+potential of Zn and is given the positive sign.
+The reduction potential Zn-electrode is -0.76 volt. The electrode reactions  will be shown as follows.
+  At anode  2+ -
+(s) (a q) Zn       Zn  + 2e →   (oxidation)
+  At cathode +-
+(aq) 2 (g) 2H  + 2e H →   (reduction)
+Fig (10.5) Electrode potential of zinc.3010 ELECTROCHEMISTRY eLearn.Punjab
+The electrode potential of copper can 
+also be measured using the same type 
+of galvanic cell in which copper is an 
+electrode dipped in 1 M solution of its ions 
+and connected with .SHE Fig (10.6). Under 
+standard conditions, the voltmeter reads 
+0.34 volts and the delection is in such a 
+direction, as to indicate that hydrogen has a 
+greater tendency to give of electrons than 
+copper has.
+     In other words, the half reaction 
++-
+2(g)H 2H  + 2e →  has a greater tendency to 
+occur than 2+ -
+(s)Cu Cu +2e →  by 0.34 volt. So 
+the standard electrode potential of Cu is 
+0.34 volts. It is called reduction potential 
+of Cu. When the sign is reversed, then the 
+-0.34 V is called oxidation potential of Cu electrode. The reactions  taking place at two electrodes 
+will be shown as follows.
+ At anode    +-
+2(g)H 2H  + 2e →
+ At cathode   2+ -
+(s) Cu +2e Cu →
+Fig (10.6) Electrode potential of copper
+Animation 10.11: Electric potential
+Source & Credit : wikipedia3110 ELECTROCHEMISTRY eLearn.Punjab
+      
+10.4 THE ELECTROCHEMICAL SERIES
+ When elements are arranged in the order of their standard, electrod e potentials on the 
+hydrogen scale, the resulting list is known as electrochemical series.
+ Such a series of elements is shown in Table (10.2). The electrod e potentials have been given 
+in the reduction mode as recommended by the International Union of P ure and Applied Chemists 
+(IUPAC). In some textbooks, half reactions are written in the oxidati on mode and the corresponding 
+potentials are oxidation potentials. The magnitude of the potential is not afected by the change 
+in mode but the signs are reversed. Therefore, before using standard  electrode potential data, 
+it is necessary to ascertain which mode is being used. An impor tant point to remember in using 
+reduction potential values is that they relate only to standard conditions  i.e. 1 M solution of ions, 
+25°C and one atmospheric pressure. Changes in temperature, conce ntration and pressure will 
+afect the values of reduction potential.
+Animation 10.12: ELECTROCHEMICAL
+Source & Credit : skleac3210 ELECTROCHEMISTRY eLearn.Punjab
+Element Electrode Standard Reduction Potential (E0)
+Li+-Li +e Li → -3.045
+K +-K +e K → -2.925
+Ca2+ -Ca +2e Ca → -2.87
+Na+-Na +e Na → -2.714
+Mg2+ -Mg +2e Mg →-2.37
+Al3+ -Al +3e Al → -1.66
+Zn 2+ -Zn +2e Zn → -0.76
+Cr3+ -Cr +3e Cr → -0.74
+Fe2+ -Fe +2e Fe → -0.44
+Cd2+ -Cd +2e Cd → -0.403
+Ni2+ -Ni +2e Ni → -0.25
+Sn2+ -Sn +2e Sn → -0.14
+Pb2+ -Pb +2e Pb → -0.126
+2H+-
+2 2H +2e H →(Reference Electrode) 0.000
+Cu2+ -Cu +2e Cu → +0.34
+Cu+-Cu +e Cu → +0.521
+2I--
+2I +2e 2I →+0.535
+Fe3+ -Fe +3e Fe → +0.771
+Ag+-Ag +e Ag →+0.7994
+Hg2+ -Hg +2e Hg →+0.885
+2Br--
+2Br +2e 2Br →+1.08
+2Cl--
+2Cl +2e 2Cl →+1.360
+Au3+ -Au +3e Au → +1.50
+2F--
+2F +2e 2F →+2.87Table (10.2) Standard reduction potentials (E°) of s ubstances at 298 K
+  
+ Increasing reduction potentials   Increasing strength as an oxidizing agent   Decreasing  reduction potentials   Increasing strength as a reducing agent3310 ELECTROCHEMISTRY eLearn.Punjab
+10.4.1 Applications of Electrochemical Series
+(i)  Prediction of the feasibility of a Chemical Rea ction
+ When we look at the electrochemical series, it is easy to predict w hether a particular reaction 
+will take place or not. For example, Cu2+ (aq) can oxidize solid zinc but Zn2+ (aq) cannot oxidize solid 
+copper. Standard reduction potential values of copper and zinc can  explain this
+   2+ - o
+(aq) (s ) Cu  + 2e Cu                            E =+0 .34volt →
+   2+ - o
+(aq) (s) Zn + 2e Zn                            E = -0 .76 volts →
+ Since zinc is being oxidized so the reverse reaction will be cons idered.
+   2+ - o
+(s) (aq)Zn       Zn  + 2e           E = -0.76 volts (oxidation) →
+ The overall reaction will thus be
+   2+ 2 o
+(aq) (s) (s) (aq) cellCu  + Zn u Zn                     E = 1.10 vo lts C+→+
+ The overall positive value for the reaction potential suggests that the p rocess is energetically 
+feasible. If the sum of E° values of the two half cell reactions i s negative, then the reaction will not 
+be feasible.
+(ii)  Calculation of the Voltage or Electromotive Fo rce (emf) of Cells:
+ In a galvanic cell, the electrode occupying a higher position i n the electrochemical series, will 
+act as anode and oxidation takes place on it. Similarly, the el ectrode occupying the lower position 
+in the series will act as a cathode and reduction will take plac e on it. Let us ind out a cell potential 
+or the emf of the cell already discussed as above. The half cel l reactions are:3410 ELECTROCHEMISTRY eLearn.Punjab
+                           2+ -
+(s) (aq)Zn      Zn  + 2e →    (oxidation half reaction)
+   2+ -
+(aq) (s)Cu  + 2e Cu →   (reduction half reaction)
+  2+ 2
+(aq) (s) (s ) (aq) Cu  + Zn u Zn C+→+    (complete cell reaction)
+The oxidation potential of Zn is positive. The reduction potential of Cu2+ is also positive. The cell 
+voltage or emf of the cell is given by
+    oo o
+cell oxi redE = E  + E
+    o
+cellE = 0.76 + 0.34 = 1.10 volts
+ The cell voltage or emf measures the force with which electrons move in the external circuit 
+and therefore measures the tendency of the cell reaction to takes place. Galvanic cells, thus, give 
+quantitative measure of the relative tendency of the various reactions to occu r.
+(iii)  Comparison of Relative Tendency of Metals an d Nonmetals to Get Oxidized or 
+Reduced
+ The value of the reduction potential of a metal or a nonmetal tells us  the tendency to lose 
+electrons and act as a reducing agent. It also gives the information  about the tendency of a species 
+to gain electrons and act as an oxidizing agent. Greater the value of  standard reduction potential of 
+a given species, greater is its tendency to accept electrons to under go reduction and hence to act 
+as an oxidizing agent. For example, ions like Au3+, Pt2+, Hg2+, Ag+, Cu2+ and the nonmetals elements 
+like F2, Cl2, Br2 and I2 which lie below the SHE, have a strong tendency to gain electrons a nd undergo 
+reduction.
+ The series tell us that strong oxidizing agents like F2, Cl2, Br2, etc. have a large positive value 
+of standard reduction potentials, while strong reducing agents ha ve large negative values like Li, K, 
+Ca, Na,etc. which lie above SHE.3510 ELECTROCHEMISTRY eLearn.Punjab
+(iv)  Relative Chemical Reactivity of Metals
+ Greater the value of standard reduction potential of a metal, smaller is its tendency to lose 
+electrons to change into a positive ion and hence lower will be its re activity. For example, metals like 
+Li, Na, K and Rb are highly reactive. Coinage metals, Cu, Ag, and Au are the least reactive because 
+they have positive reduction potentials.
+ Similarly, metals like Pb, Sn, Ni, Co and Cd which are very close to SHE react very slowly with 
+steam to liberate hydrogen gas, while the metals like Fe, Cr, Z n, Mn, Al and Mg which have more 
+negative reduction potentials react with steam to produce the metallic oxid es and hydrogen gas.
+(v)  Reaction of Matels with Dilute Acids
+ Greater the value of standard reduction potential of a metal, lesser is  its tendency to lose 
+electrons to form metal ions and so weaker is its tendency to displac e H+ ions from acids as H2 gas. 
+For example, metals like Au, Pt, Ag and Cu which have suicien tly high positive values of reduction 
+potentials, do not liberate hydrogen gas from acids. While, metals like Zn, Mg and Ca which are 
+close to the top of the series and have very low reduction potentials, lib erate hydrogen gas, when 
+they react with acids.
+(vi)  Displacement of One Metal by Another from its Solution
+ One metal will displace another metal from the aqueous solution of i ts salt if it lies above in 
+the electrochemical series. For example, Fe can displace Cu fr om CuSO4, Zn does not displace Mg 
+from solution of MgSO4.3610 ELECTROCHEMISTRY eLearn.Punjab
+10.5 MODERN BATTERIES AND FUEL CELLS
+ Those cells which cannot be recharged are called primary cel ls. Examples are dry cell, alkaline 
+battery, mercury and silver battery. Those ones which can be recha rged are called secondary cells. 
+Examples are lead-acid battery, Ni-Cd-battery and fuel cells. A few examples of some modern bat -
+teries and fuel cell are described in this section.
+10.5.1 Lead Accumulator or Lead-Acid Battery (Recharg eable)
+It is commonly used as a car battery. It is secondary or a stor age cell. Passing a direct current 
+through it must charge it. The charged cell can then produce elec tric current when required. The 
+cathode of a fully charged lead accumulator is lead oxide, PbO2 and its anode is metallic lead. The 
+electrolyte is 30% sulphuric acid solution (density 1.25 g cm-3). When the two electrodes are con -
+nected through an external circuit, it produces electricity by dis charge Fig (10.7). A single cell pro -
+vides around 2 volts. For 12 volts, 6 cells are connected in series.
+Animation 10.13: MODERN BATTERIES
+Source & Credit : technologystudent3710 ELECTROCHEMISTRY eLearn.Punjab
+Fig (10.7) Lead accumulator
+Animation 10.14: Hydraulic Accumulators
+Source & Credit : hydraulic3810 ELECTROCHEMISTRY eLearn.Punjab
+Discharging
+ At the anode the lead atoms release two electrons each to be oxidized to Pb2+ ions, which 
+combine with SO42- ions present in the electrolyte and get deposited on the anode as PbSO4.
+At the cathode
+ + 2-
+2(s) (aq) 4 (aq) 4 (s) 2 ( ) PbO  + 4H  + SO  + 2e PbSO  + 2H O →  (reduction)
+At the anode
+ 2-
+(s) 4 (aq) 4(s)Pb  + SO PbSO  + 2e−→      (oxidation)
+ The electrons released pass round an external circuit as an electr ic current to be used for 
+starting the engine of a vehicle, for lighting up of car lig hts and so on.
+ At the cathode the electrons from the anode are accepted by PbO2 and hydrogen ions from 
+the electrolyte then undergo a redox reaction to produce lead ions and wa ter as follows: 
+ The Pb2 ions then combine with the SO42 ions and they both deposit at the cathode as PbSO4. 
+When both electrodes are completely covered with PbSO4 deposits, the cell will cease to discharge 
+any more current until it is recharged. The overall reaction is
+   + 2-
+(s) 2(s) (aq) 4 (aq) 4(s) 2 ( )Pb  + PbO  + 4H  + 2SO 2PbSO  + 2H O →
+A typical 12-V car battery has six cells connected in series . Each delivers 2V Each cell contains two 
+lead grids packed with the electrode materials. The anode is spon gy lead , and cathode is powered 
+PbO4. The grid is immersed in an electrolytic solution of 3.2M≈  H2SO4 (30%). Fibre glass sheets 
+between the grids prevent shorting by accidental physic al contact.  When the cell is discharged, it 
+generates electrical energy as a voltaic cell.
+Recharging
+ During the process of recharging, the anode and the cathode of the ex ternal electrical source 
+are connected to the anode and the cathode of the cell respectively. Th e redox reactions at the 
+respective electrodes are then reversed. These reactions are summarized a s follows:3910 ELECTROCHEMISTRY eLearn.Punjab
+At anode   2-
+4(s) (s) 4 (aq)PbSO  + 2e Pb  + SO →    (reduction)
+At cathode  + 2- -
+4(s) 2 2(s) (aq) 4 (aq)PbSO  + 2H O PbO  + 4H  + SO 2e →   (oxidation)
+The overall reaction is
+   + 2-
+4(s) 2 (s ) 2(s) (aq) 4 (aq) 2PbSO  + 2H O Pb PbO + 4H  + SO →+
+During  the process of discharging, the concentration of the acid falls decreasing its density to 1.15g 
+cm3. After recharging, the acid is concentrated again bringing i ts density to its initial value of 1.25g 
+cm3. At the same time the voltage of the battery, which has dropped duri ng discharging, return to 
+around 12 volts.
+10.5.2 Alkaline Battery (non-rechargeable)
+ It is a dry alkaline cell, which uses zinc and mangan ese dioxide as reactants. Zinc rod serves 
+as the anode and manganese dioxide functions as the cathode. The electrolyte, however, contains 
+potassium hydroxide and is therefore basic (alkaline).
+The battery is enclosed in a steel container. The zinc anode is al so slightly porous giving it a larger 
+efective area. This allows the cell to deliver more current than the common  dry cell. It has also 
+longer life. The reactions in the alkaline battery.are shown as f ollows:
+  --
+(s) (aq) 2(s) Zn + 2OH    Zn(OH) + 2e →    (anode)
+  
+  --
+2(s) 2 ( ) 2 3(s) (aq)2MnO  + H O  + 2e Mn O  + 2OH →   (cathode)
+The overall reaction is
+   (s) 2(s) 2 (l) (s) 2 3(s)Zn  + 2MnO + H O Zn(OH)  + Mn O →
+The voltage of the cell is 1.5 V4010 ELECTROCHEMISTRY eLearn.Punjab
+10.5.3 Silver Oxide Battery
+ These tiny and rather expensive batteries Fig. 10.8 have become popular as power sources 
+in electronic watches, auto exposure cameras and electronic calcu lators. The cathode is of silver 
+oxide, Ag,0, and the anode is of zinc metal. The following reacti ons occur in a basic electrolyte.
+At the anode
+  --
+(s) (aq) 2(s)Zn  + 2OH  Zn(OH)  + 2e →   (oxidation)
+At the cathode
+  --
+2 (s) 2 ( ) (s) (aq)Ag O  + H O  + 2e 2Ag  + 2OH →  (reduction).
+Animation 10.15: Alkaline Battery
+Source & Credit : adafruit4110 ELECTROCHEMISTRY eLearn.Punjab
+The overall reaction is
+   (s) 2 (s) 2 (l) 2 (s)Zn  + Ag O  + H O Zn(OH) 2Ag →+
+The voltage of silver oxide battery is about 1.5 V
+10.5.4 Nickel Cadmium Cell (Rechargeable)
+ A strong cell that has acquired wide spread use in recent yea rs is the NICAD or nickel cadmium 
+battery. It is a rechargeable cell. The anode is composed of cad mium, which undergoes oxidation in 
+an alkaline electrolyte.
+At the anode
+  --
+(s) (a q) 2(s) Cd  + 2OH      Cd(OH)  + 2e →      (oxidation)
+Fig (10.8) A silver oxide battery4210 ELECTROCHEMISTRY eLearn.Punjab
+The cathode is composed of NiO2 which undergoes reduction.
+At the cathode
+  --
+2 2 ( ) 2 (s) (aq) NiO  + 2H O  + 2e Ni(OH)  + 2OH →     (reduction)
+The net cell reaction during the discharge is :
+  (s) 2(s) 2 ( ) 2(s) 2(s)Cd  + NiO  + 2H O Cd(OH)  + Ni(OH) →
+ Just like lead storage cell, the solid reaction products adhere to the electrodes. For  this reason, 
+the reaction is easily reversed during recharging. Because no ga ses are produced during either 
+charging or discharging, the battery can be sealed. It is use d in battery operated tools and portable 
+computers. It also inds its application in cordless razors, ph otolash units. It is light weight. Voltage 
+of the cell is 1.4 V.
+10.5.5 Fuel Cells (rechargeable)
+ Fuel cells are other means by which chemical energy may be converted into electrical energy. 
+When gaseous fuels, such as hydrogen and oxygen are allowed to undergo a reaction, electrical 
+energy can be obtained.
+ This cell inds importance in space vehicles. The cell is ill ustrated in Fig. (10.10). The electrodes 
+are hollow tubes made of porous compressed carbon impregnated with platinum, which acts as 
+a catalyst. The electrolyte is KOH. At the electrodes, hydrogen is ox idized to water and oxygen is 
+reduced to hydroxide ions.
+  --
+2(g) (a q) 2 ( ) [H  + 2OH 2H O  + 2e ] x 2 →  (anode)
+  
+  --
+2(g) 2 ( ) (aq)O  + 2H O  + 4e 4OH →    (cathode)
+  
+  2(g) 2(g) 2 ( )2H + O 2H O →    (overall reaction)
+ Such a cell runs continuously as long as reactants are su pplied.4310 ELECTROCHEMISTRY eLearn.Punjab
+Animation 10.16: Fuel Cells
+Source & Credit : solarenFig (10.10) Hydrogen - Oxygen Fuel cell4410 ELECTROCHEMISTRY eLearn.Punjab
+ This  fuel cell is operated at a high temperature so that the water f ormed as a product of 
+the cell reaction evaporates and may be condensed and used as drink ing water for an astronaut. 
+A number of these cells are usually connected together so that several kilowatts of power can be 
+generated.
+ The fuel cell produce electricity and pure water during space l ights. Fuel cell are light, portable 
+and sources of electricity. Many fuel cells do not produce polluta nts. Some other cell reactions in 
+fuel cell are :
+(i)   3 2 2 2 ()2NH  + 3/2 O N  + 3H O →
+(ii)   4 4 2 2 2 ()N H  +  O N  + 2H O →
+(iii)   4 2 2 2 ()CH  + 2O CO  + 2H O →
+ Fuel cells are very eicient. They convert about 75% of fuels bond ener gy into electricity.4510 ELECTROCHEMISTRY eLearn.Punjab
+KEY POINTS
+1. Electrochemistry is the branch of science which deals with the con version of electrical energy to 
+chemical energy and vice versa.
+2. Electrolytic conduction is carried out by the ions produced when a n ionic compound is in fused 
+state or dissolved in water. Electrolysis is the process in which  a chemical reaction takes place at 
+the expense of electrical energy. Electrolysis is used for the extracti on of elements and for the 
+commercial preparation of several compounds. It is also used for electroplating.
+3. A Galvanic or a voltaic cell produces electrical energy at the expense of chemical energy. Electrode 
+potential is developed when a metal is dipped into a solution of its own ions.
+4. The potential of standard hydrogen electrode is arbitrarily ixed as  0.00 volts. Electrode potential 
+of an element is measured when it is coupled with standard hydr ogen electrode. When elements 
+are arranged in order of their standard electrode potentials on the hyd rogen scale, the resulting 
+list is known as electrochemical series. Electrochemical series  is used to predict the feasibility of 
+a redox chemical reaction.
+5. Modern batteries and fuel cell include lead accumulator, alkal ine battery, silver oxide battery, 
+nickel cadmium cell and hydrogen oxygen fuel cell.
+6. The oxidation number is the apparent charge which an atom has  in a molecule. Redox chemical 
+equations can be balanced using oxidation number method and ion  electron method.4610 ELECTROCHEMISTRY eLearn.Punjab
+EXERCISE
+Q.1 Multiple choice questions. For each question there are four pos sible answers a, b, c and d. 
+Choose the one you consider correct.
+(i)  The cathodic reaction in the electrolysis of dil. H2SO4 with Pt electrodes is:-
+(a)  Reduction     (b)  Oxidation
+(c)  Both oxidation and reduction  (d)  Neither oxidation or reducti on
+(ii)  Which of the following statements is not correct about galvan ic cell?
+(a)  Anode is negatively charged  (b)  Reduction occurs at an ode
+(c)  Cathode is positively charged  (d)  Reduction occurs at ca thode
+(iii)  Stronger the oxidizing agent, greater is the:
+(a)  oxidation potential   (b) reduction potential
+(c)  redox potential    (d) E.M.F of cell
+(iv)  If the salt bridge is not used between two half cells, then the voltage.
+(a)  Decrease rapidly    (b)  Decrease slowly
+(c)  Does not change    (d)  Drops to zero
+(v)  If a strip of Cu metal is placed in a solution of FeSO4:
+(a)  Cu will be deposited   (b) Fe is precipitated out
+(c)  Cu and Fe both dissolve  (d) No reaction take place
+Q.2  Fill in the blank.
+(i)  The oxidation number of O-atom is ___________ in OF2 and is ___________ in H2O2.
+(ii)  Conductivity of metallic conductors is due to the low of _____ ___while that of electrolytes 
+is   due to low of_________ .
+(iii)  Reaction taking place at the ________is termed as oxida tion and at the _________  is called 
+as   reduction.
+(iv)  _________ is set up when a metal is dipped in its own  ions.
+(v)  Cu metal__________ the Cu-cathode when electrolysis is p erformed for CuSO4 solution 
+with Cu-  cathodes.
+(vi)  The reduction potential of Zn is __________ volts and its oxidation potential is __________ 
+volts.
+(vii) In a fuel cell,___________react together in the presence of ______ .4710 ELECTROCHEMISTRY eLearn.Punjab
+Q.3  Mark the following statements true or false.
+(i)  In electrolytic conduction, electrons low through the electrolyte.
+(ii)  In the process of electrolysis, the electrons in the external ci rcuit low from cathode to  
+ anode.
+(iii)  Sugar is a non-electrolyte in solid form and when diss olved in water will allow the passage of an  
+ electric current.
+(iv)  A metal will only allow the passage of an electric curren t when it is in cold state.
+(v)  The electrolytic products of aqueous copper (II) chloride soluti on are copper and chlorine.
+(vi)  Zinc can displace iron form its solution.
+(vii)  S.H.E. acts as cathode when connected with Cu-electrode.
+(viii)  A voltaic cell produces electrical energy at the expense of chemical energy.
+(ix)  Lead storage battery is not a reversible cell.
+(x)  Cr changes its oxidation number when K2Cr2O7 reacts with HCl.
+Q.4  (a)  Explain the term oxidation number with examples.
+(b)  Describe the rules used for the calculation of oxidation nu mber of an element in molecules and  
+ ions giving examples.
+(c)  Calculate the oxidation number of chromium in the following  compounds.
+(i) 3CrCl   (ii) 2 43Cr (SO )   (iii) 24K CrO   (iv) 2 27K Cr O
+(v) 3CrO  (vi) 23Cr O    (vii) 2-
+27Cr O
+(Ans: (i)+3,(ii)+3,(iii)+6,(iv)+6,(v) + 6(vi)+3)
+(d)  Calculate the oxidation numbers of the elements underlined in the following compounds.
+(i) 32Ca(ClO )   (ii) 23Na CO    (iii) 24Na PO    (iv) 3HNO
+(v) 2 43Cr (SO )   (vi) 3HPO    (vii) 24K MnO
+(Ans : (i) +5, (ii) +4, (iii) +5, (iv) +5, (v) +6 , ( vi)+5 (vii) + 6)
+Q.5  (a)  Describe the general rules for balancing a redox eq uation by oxidation number method.
+ (b)  Balance the following equations by oxidation number method
+(i)  3 32 2 2 Cu + HNO Cu(NO )  + NO  + H O →
+(ii)  3 32 2 Zn + HNO n(NO )  + NO + H O Z→
+(iii)  2 32 Br  + NaOH          NaBr + NaBrO  + H O →
+(iv)  2 22 2MnO  + HCl        MnCl  + H O + Cl →4810 ELECTROCHEMISTRY eLearn.Punjab
+(v)  4 2 2 7 2 4 2 43 2 43 2 4 2FeSO  + K Cr O  + H SO Fe (SO )  + Cr (SO )  + K SO  +  HO →
+(vi)  3 22HNO + HI NO+ H O + I →
+(vii)  24 4 2 2Cu + H SO CuSO  + SO  + H O →
+(viii)  24 2 2 2HI + H SO I  + SO  + H O →
+(ix)  24 2 24 4 2 2 NaCl + H SO  + MnO Na SO  + MnSO  + H O + Cl →
+Q.6  (a)  Describe the general rules for balancing a redox eq uation by ion-electron method.
+ (b)  Balance the following ionic equations by ion-electron method.
+(i) 3+ 2+ 2+ 4+Fe  + Sn Fe  + Sn →
+(ii)  1- 2- 2
+4 (aq) 2 4 (aq) (aq) 2(g)MnO  + C O       Mn  + CO+→
+(iii)  2- - 3+
+27 2 Cr O  + Cl 2Cr  + 3Cl →
+(iv)  1- 2
+32Cu + NO Cu  + 2NO+→
+(v)  2- 2 3+ 3
+27Cr O  + Fe Cr  + Fe++→    (acidic media)
+(vi)  2- 1- - 2-
+23 46 S O  + OCl Cl  + S O →     (acidic media)
+(vii)  1- 3- - 3-
+33 4IO  + AsO I  + AsO →     (acidic media)
+(viii)  3+ 1- 2- 3+
+3 27 Cr + BiO Cr O  + 3Bi →    (acidic media)
+(ix)  2- 3+
+3 3 27 3 4H AsO  + Cr O 3H AsO  + 2Cr →   (acidic media)
+(x)  - 1- -
+4 2(s) CN  + MnO CNO  + MnO →     (basic media)
+Q.7  Describe the electrolysis of molten sodium chloride, and a conc entrated solution of sodium 
+chloride.
+Q.8  What is the diference between single electrode potential and standa rd electrode potential? 
+How can it be measured? Give its importance.
+Q.9  Outline the important applications of electrolysis. Write the elec trochemical reactions 
+involved therein.Discuss the electrolysis of CuSO4 using Cu-electrodes and AgNO3 solution using 
+Ag electrode.
+Q.10  Describe the construction and working of standard hydrogen  electrode.
+Q.11  Is the reaction 3+ 2+ +Fe  + Ag  Fe  + Ag →  spontaneous? If not, write spontaneous reaction involving 
+these species.4910 ELECTROCHEMISTRY eLearn.Punjab
+Q.12  Explain the diference between
+(a)  Ionization and electrolysis.  (b) Electrolytic cell and vol taic cell
+(c)  Conduction through metals and molten electrolytes.
+Q.13  Describe a galvanic cell explaining the functions of elec trodes and the salt bridge.
+Q.14  Write comprehensive notes on:
+(a)  Spontaneity of oxidation reduction reactions.
+(b)  Electrolytic conduction.
+(c)  Alkaline, silver oxide and nickel-cadmium batteries, fuel  cell.
+(d)  Lead accumulator, its desirable and undesirable features .
+Q.15  Will the reaction be spontaneous for the following set of half  reactions.
+ What will be the value of cellE?
+  (i)  3+ -
+(aq) (s)Cr  + 3e Cr →
+ (ii)  + - 2+
+2(s) (aq) 2 ( )MnO  + 4H  + 2e Mn  + 2H O →
+ (Standard reduction potential for reaction
+ (i) = -0.74V and for the reaction  (ii) = + 1.28V).
+Q16.  Explain the following with reasons.
+(a)  A porous plate or a salt bridge is not required in lead s torage cell.
+(b)  The standard oxidation potential of Zn is 0.76 V and its  reduction potential is -0.76 V
+(c)  Na and K can displace hydrogen from acids but Pt, Pd  and Cu can not.
+(d)  The equilibrium is set up between metal atoms of electrode and  ions of metal in a cell.
+(e)  A salt bridge maintains the electrical neutrality in the cel l.
+(f)  Lead accumulator is a chargeable battery.
+(g)  Impure Cu can be puriied by electrolytic process.
+(h)  SHE acts as anode when connected with Cu electrode but as cath ode with Zn electrode.

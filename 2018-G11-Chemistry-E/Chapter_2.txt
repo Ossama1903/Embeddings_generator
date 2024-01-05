@@ -1,0 +1,349 @@
+CHAPTER
+2EXPERIMENTAL TECHNIQUES
+ IN CHEMISTRY
+Animation 2.1 :Basic Concepts
+Source & Credit: chem.ucsb22.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+Analytical chemistry is the science of chemical characte rization . A complete chemical 
+characterization of a compound must include both qualitative and q uantitative analyses.In qualitative 
+analysis, the chemist is concerned with the detection or identiication of the elements present in a 
+compound. Whereas in quantitative analysis, the relative amounts of the elements are determined. 
+A complete quantitative determination generally consists of four major steps (i) Obtaining a sample 
+for analysis (ii) Separation of the desired constituent (iii) Meas urement, and calculation of results (iv) 
+Drawing conclusion from the analysis. In this chapter, we wil l restrict ourselves to only important 
+techniques of separation. The students will practice these techni ques during their laboratory work 
+whereas their theoretical treatment is given here.
+2.1  FILTRATION
+The process of iltration is used to separate insoluble particles from  liquids. It can be performed with several 
+types of ilter media. Nature of the precipitate and other factors di ctate which ilter medium must be used. The 
+most convenient ways of iltration are either through a ilter paper or thr ough a ilter crucible.
+Animation 2.2: Filtration Assembly
+Source & Credit:eLearn.punajb32.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+2.1.1  Filtration Through Filter Paper
+Filtration  by a glass funnel and ilter paper is usually a  slow process. As the mixture is poured onto 
+the ilter paper, the solvent (water) passes through leaving behind the s uspended particles on the 
+ilter paper. Filter papers are available in a variety of porosites ( pore sizes) . Which pore size is to be 
+used, depends upon the size of particles in the precipitate. The ilter  paper should be large enough 
+so that it is one-fourth to one-half full of precipitate at the end of il tration. The funnel should, in 
+turn, be large enough for its rim to extend 1 to 2 cm above the top circ umference of the paper. If 
+the process of iltration is to run smoothly, the stem of the funnel shoul d remain continuously full 
+of liquid as long as there is liquid in the conical portion.
+Animation 2.3: iltration
+Source & Credit:shermanqmatrangas42.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+ The stem of the funnel should be several inches long so that it can extend a few centimeters down 
+into the receiving beaker, and the tip should touch the side of the beaker . In this way, the iltrate 
+runs down the side of beaker without splashing. A complete ilter pa per assembly is shown in 
+Fig(2.1).
+Folding of Filter Paper
+The folding of ilter paper is important and the following points s hould be kept in mind. The paper 
+should be folded twice. The irst fold should be along the diameter of  the paper.The second fold 
+should be such that edges do not quite match. 
+The paper should be opened on the slightly larger section. This provides a cone with three fold 
+thickness halfway around and one thickness the other halfway 
+around, and an apex angle very slightly greater than 60 degrees.
+The paper may then be inserted into 60 degree funnel, moistened 
+with water and irmly pressed down. The iltering operation could 
+be very time consuming if it were not aided by a gentle suction as 
+liquid passes through the stem. This suction cannot develop unless 
+the paper its tightly all around its upper circumference.
+Fluted Filter Paper
+The rate of iltration through conical funnel can be considerably increased using a Fluted Filter 
+Paper.  For preparation of such a paper ordinary ilter paper is folded  in such a way that a fan like 
+arrangement with alternate elevations and depressions at various folds is obtained Fig (2.2).
+Fig. (2.2) Fluted ilter paper
+Fig. (2.1)Filtration assembly52.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+2.1.2 Filtration Through Filter Crucibles
+Another convenient way to ilter a precipitate is by suction through a c rucible. Two types of crucibles 
+are generally used.
+Gooch Crucible
+It is made of porcelain having a perforated bottom which is covered w ith paper pulp or a ilter 
+paper cut to its size Fig (2.3 a). Quick iltration can be done by placing the Gooch crucible in a 
+suction iltering apparatus. It is useful for the iltration of prec ipitates, which need to be ignited at 
+high temperature. If its perforations are covered with asbestos mat then it may be used to ilter 
+solutions that react with paper e.g. concentrated HCl and KMnO4 solutions.
+Sintered glass crucible
+Sintered glass crucible is a glass crucible with a porous g lass disc sealed into the bottom. It is very 
+convenient to use because no preparation is needed as with the Gooch cruci ble Fig (2.3b)
+2.2 CRYSTALLIZATION
+Crystallization is the removal of a solid from solution by increas ing its concentration above the 
+saturation point in such a manner that the excess solid separates ou t in the form of crystals.
+Fig. (2.3a) Gooch Crucible     Fig. (2.3b) Sintered
+with iltering apparatus    glass Crucible62.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+The preparation of a chemical compound usually afords a crud e product and there is a need to 
+purify it by crystallization from a suitable solvent. The basi c principle of crystallization is the fact 
+that the solute should be soluble in a suitable solvent at high temperatu re and the excess amount 
+of the solute is thrown out as crystals when it is cooled. The proces s of crystallization involves the 
+following steps.
+Animation 2.4: crystilization
+Source & Credit: evilforalltime72.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+2.2.1  Choice of a Solvent
+The solvent is chosen on hit and trial basis and it is necessary  to try a number of solvents before 
+arriving at a conclusion. An ideal solvent should have the followi ng features.
+i. It should dissolve a large amount of the substance at its boilin g point and only a small amount  
+at the room temperature.
+ii. It should not react chemically with the solute.
+iii.  It should either not dissolve the impurities or the impuriti es should not crystallize from it 
+along with the solute.
+iv. On cooling it should deposit well-formed crystals of the pure c ompound.
+v. It should be inexpensive.
+vi. It should be safe to use and should be easily removable.
+The solvents which are mostly used for crystallization are, water, rectiied spirit (95% ethanol), 
+absolute ethanol, diethyl ether, acetone, chloroform, carbon tetrachlorid e, acetic acid and petroleum 
+ether. If none of the solvents is found suitable for crystallization,  a combination of two or more 
+miscible solvents may be employed. If the solvent is inlammable then precaution should be taken 
+while heating the solution so that it does not catch ire. In such cas es, water bath is used for heating 
+purpose.
+2.2.2  Preparation of the Saturated Solution
+After selecting a suitable solvent, the substance is then dissolved in a minimum amount of solvent 
+and is heated directly or on a water bath with constant stirring. Add more solvent to the boiling 
+solution if necessary until all the solute has dissolved.
+2.2.3  Filtration
+The insoluble impurities in the saturated solution are then removed by iltering the hot saturated 
+s olution, through a normal or a luted ilter paper. This avoids th e premature crystallization of the 
+solute on the ilter paper or in the funnel stem. If necessary hot water funnel should be used for 
+this purpose.82.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+2.2.4  Cooling
+The hot iltered solution is then cooled at a moderate 
+rate so that medium sized crystals are formed. Slow 
+cooling yields bigger crystals which are likely to include 
+considerable amount of solvent carrying impurities 
+with it and complicating the drying process.
+2.2.5  Collecting the Crystals
+When the crystallization is complete, the mixture of 
+crystals and the mother liquor is iltered through a 
+Gooch crucible using a vacuum pump. Full suction is 
+applied in order to drain the mother-liquor from the 
+crystals as efectively as possible. When the ilter cake 
+is rigid enough it is pressed irmly with a cork to drain 
+the left-over liquid. The crystals are then washed with a small portion of cold solvent and the process 
+is repeated several times. The mother liquor is quite often concentrated by evaporation and cooled 
+to obtain a fresh crop of crystals. The process of crystallizati on appears to be very simple yet the 
+success of operation lies in the amount or the percentage of crystall ized product obtained from the 
+crude substance.
+2.2.6  Drying of the Crystallized Substance
+Pressing it between several folds of ilter papers and repeating the pr ocess several times dries the 
+crystallized substance. This process has the disadvantage that th e crystals are crushed to a ine 
+powder and sometimes the ibres of ilter paper contaminate the product. A lternatively,the crystals 
+are dried in an oven provided the substance does not melt or decompose on h eating at 100° C.
+A safe and reliable method of drying crystals is through a vac uum desiccator. In this process the 
+crystals are spread over a watch glass and kept in a vacuum d esiccator for several hours. The 
+drying agents used in a desiccator are CaCl2 , silica gel or phosphorus pentaoxide.
+Animation 2.5: Cooling
+Source & Credit: Pulsecooling92.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+2.2.7  Decolourization of Undesirable Colours
+Sometimes during the preparation of a crude substance, the colouring  matter or resinous products 
+afect the appearance of product and it may appear coloured. Such impurities are conveniently 
+removed by boiling the substance in the solvent with the suicient quanti ty of inely powdered 
+animal charcoal and then iltering the hot solution. 
+The coloured impurities are adsorbed by animal charcoal and th e pure decolourized substance 
+crystallizes out from the iltrate on cooling.
+2.3 SUBLIMATION
+It is a process in which a solid, when heated, vapourizes 
+directly without passing through the liquid phase and these 
+vapours can be condensed to form the solid again. It is 
+frequently used to purify a solid. Examples of such solids ar e 
+ammonium chloride, iodine, naphthalene, benzoic acid, etc. 
+To carry out the process, the substance is taken in a watch-
+glass covered with an inverted funnel. The substance is then 
+heated slowly over a sand-bath and the funnel is cooled with 
+wet cotton. The pure solid deposits on the inner side of the 
+funnel Fig (2.4).
+Fig (2.4) SUBLIMATION
+Animation 2.6: SUBLIMATION
+Source & Credit: support-th102.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+2.4 SOL VENT EXTRACTION
+Solvent extraction is an important technique in chemical analysis.  According to this technique a 
+solute can be separated from a solution by shaking the solution wi th a solvent in which the solute 
+is more soluble and the added solvent does not mix with the solution. Usu ally it is done by placing 
+the solution and the second liquid into a separating funnel Fig ( 2.5). The funnel is stoppered and 
+the two liquids are shaken together.
+The most common laboratory example of solvent extraction is ether extraction.  This is used to 
+separate the products of organic synthesis from water. In a typica l organic synthesis, the aqueous 
+solution containing the organic product is shaken up with ether i n a separating funnel and allowed 
+to separate. 
+The inorganic impurities remain in aqueous phase whereas the organic compound goes to the 
+ether layer. The ether layer is separated and the organic product is  obtained by evaporating the 
+ether. Repeated extractions using small portions of solvent (ether) are mor e eicient than using a 
+single but larger volume of solvent. The technique is particularl y useful when the product is volatile 
+or thermally unstable.
+Solvent extraction is an equilibrium process and follo ws the distribution law or partition 
+law. This law states that a solute distributes itself  b etween two immiscible liquids in a 
+constant ratio of concentrations irrespective of the am ount of solute added.
+The law is based on experimental evidence. Consider, for example, th e distribution of iodine 
+between two immiscible solvents, water in the presence of KI and car bon tetrachloride. Iodine 
+reacts with iodide ion to produce tri-iodide ion in a reversible rea ction. 
+Animation 2.7: Solvent extraction
+Source & Credit: chem
+Fig.(2.5) Separating funnel112.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+The following dynamic equilibrium is established.
+    --
+23I  + I (aq)  I (aq) ฀
+                       soluble in CCl4  soluble in water
+At this point the rate at which iodine passes from CCl4 to water equals the rate at which it passes 
+from water to CCl4.
+So, if we add CCl4 to an aqueous solution of I3- ions, the iodine will transfer from the aqueous layer into the organ ic 
+layer. As a result,the brown colour of the tri-iodide ions fades a nd the purple colour of free iodine molecules 
+appears in organic phase. To achieve a good separation, the two liq uids are gently shaken to increase their area 
+of contact and improve the chances of transferring iodine molecules. No matter how much iodine is used, the 
+ratio of the inal concentrations at equilibrium is constant. The c onstant is called distribution coeicient, K and 
+is given by 
+K=[l2(CCl4)]/[3( )aqI−]
+2.5 CHROMATOGRAPHY
+Another important application of the distribution phenomenon is chroma tography. The word 
+chromatography originates from the Greek word “Khromatos” meaning col our writing.
+Chromatography is a method used primarily for the separation of a  sample of mixture. It involves 
+the distribution of a solute between a stationary phase and a mobile phase. The stationary phase 
+may be a solid or a liquid supported as a thin ilm on the sur face of an inert solid. The mobile phase 
+lowing over the surface of the stationary phase may be a gas or a l iquid.
+In chromatography, substances are separated due to their relative ain ities for the stationary 
+and mobile phases. The distribution of the components of a mixture b etween the two phases is 
+governed by distribution coeicient K.
+Concentration of a component in the moving phase
+           Concentration of that component in the Stationary phase
+The component of a mixture with a small value of K mostly remains in the stationary phase as the 
+moving phase lows over it. The component with a greater value of K remai ns largely dissolved in 
+the mobile phase and passes over the stationary phase quickly.
+Chromatography in which the stationary phase is a solid, is c lassiied as adsorption chromatography. 
+In this type, a substance leaves the mobile phase to become adsorbe d on the surface of the solid 
+phase.
+Chromatography in which the stationary phase is a liquid, i s called partition chromatography. In this 
+type, the substances being separated are distributed throughout both the stationary and mobile 
+phases.K=122.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+There   are  various techniques of chromatography. One such techn ique namely paper 
+chromatography is discussed below.
+2.5.1 PAPER CHROMATOGRAPHY
+It is a technique of partition chromatography. Here the stationary p hase is a liquid (say H2O) adsorbed 
+on paper. The adsorbed water behaves as an immiscible liquid towards the mobile phase, which 
+passes over the paper. The mobile phase is usually an organic liquid.
+There are three common ways of carrying out paper chromatography n amely (i) ascending (ii) 
+descending (iii) radial/circular. Only the ascending typ e will be discussed here. In this technique the 
+solvent is in a pool at the bottom of a vessel in which the paper is  supported and the solvent travels 
+upwards by capillary action.
+Animation 2.8:Chromatography
+Source & Credit: Support-th132.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+A solvent mixture, specially composed in accordance with the sampl e to be separated, is poured 
+into the chromatographic tank Fig (2.6). Cover the tank to homogenise i ts inner atmosphere. Take 
+about 20 cm strip of Whatmann's chromatographic paper No.1 an d draw on it a thin pencil line 
+about 2.5 cm from one end. Spot a point, on the pencil line, with th e sample mixture solution. To 
+facilitate identiication of the components of the mixture, spots of the know n compounds may also 
+be placed alongside.
+When the spots have dried, suspend the paper with clips so that the 
+impregnated end dips into solvent mixture to a depth of 5-6 mm. 
+Cover the tank. As the solvent front passes the spots, the solutes 
+begin to move upward. The rate at which they move depends on 
+their distribution coeicients. When the solvent front has risen to 
+about 3/4 th of the length of the paper, remove the strip, mark the 
+solvent front with a pencil and allow the strip to dry.
+Animation 2.9:  P APER CHROMATOGRAPHY
+Source & Credit: chem
+Fig. (2.6) Paper chromatography142.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+Once the paper is dried, the pattern on the paper is called a chrom atogram. The diferent components 
+of the mixture, if coloured, can visually be identiied. If colourl ess, the chromatogram has to be 
+developed by chemical methods or physical techniques used to identif y the spots. Each component 
+has a speciic retardation factor called Rf value. The Rf value is related to its distribution coeicient 
+and is given by:
+With reference to Fig 2.7 the chromatogram shows that the sample A con tains both components 
+B and C. The Rf values for B and C are given by:
+Rf(B)= x/y
+Rf(C)=z/y
+Uses of Chromatography
+The techniques of chromatography are very useful in organic 
+synthesis for separation, isolation and puriication of the 
+products. They are equally important in qualitative and 
+quantitative analyses and for determination of the purity of a 
+substance.
+Fig. (2.7) ChromatogramRf=Distance travelled by a component from the original spot
+Distance travelled by solvent from the original spot
+Animation 2.10: Uses of Chromatography
+Source & Credit: Dynamicscience152.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+KEY POINTS
+1. A complete characterization of a compound must include both quali tative and quantitative 
+analyses.
+2. A complete quantitative analysis of a compound generally involves fou r major steps.
+3. The process of iltration is used to separate insoluble particles fr om liquids and it can be performed with 
+several types of ilter media.
+4. If the process of iltration with the ilter paper is to run smoothly, th e stem of the funnel should remain 
+continuously full of liquid as long as there is liquid in th e conical portion.
+5. The iltering operation with the ilter paper could be very time consumin g if it were not aided by a gentle 
+suction as liquid passes through the stem. This suction cannot d evelop unless the paper its tightly all 
+around the upper circumference of the funnel.
+6. The rate of iltration can be considerably increased using a luted ilter paper.
+7. A solid compound is puriied by crystallization from  a suitable solvent. A solvent for crystallization s hould be 
+able to dissolve the solute at high temperature and th e maximum amount of the solute should be thrown 
+out by the solvent when the solution is cooled. The process of crystalli zation involves many steps.
+8. The process of sublimation involves converting a solid directly into va pours and these vapours are then 
+condensed to form solid again. It is frequently used to purify a  solid.
+9. Solvent extraction technique involves the separation of a solute from a s olution by shaking it 
+with an immiscible solvent in which the solute is more soluble.  The technique is mostly applied 
+to separate organic compounds from water.
+10. Repeated extractions using small portions of solvent are more eicien t than using a single 
+extraction but large volume of solvent.
+11. Solvent extraction is an equilibrium process and it is control led by distribution law. The 
+technique is particularly useful when the compound to be separa ted is volatile or thermally 
+unstable.
+12. Chromatography is a technique used for separating the componen ts of a mixture. These 
+components are distributed between a stationary and a mobile phase. T he stationary phase 
+may be a solid or a liquid supported on a solid. It adsorbs th e mixture under separation. The 
+mobile phase may be a liquid or a gas and while passing over the stationary phase, competes 
+with it for the constituents of the mixture.
+13. In paper chromatography, the stationary phase is water adsorbed on paper. The mobile 
+phase is usually an organic liquid.
+14. The techniques of chromatography are very useful in organic synth esis for separation, 
+isolation and puriication of the products.162.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+EXERCISE
+Q.1  Multiple choice questions.
+(i)  A iltration process could be very time consuming if it were n ot aided by a gentle suction which is   
+ developed:
+(a) if the paper covers the funnel upto its circumference.
+(b) if the paper has got small sized pores in it.
+(c) if the stem of the funnel is large so that it dips into the iltra te.
+(d) if the paper its tightly.
+(ii)  During the process of crystallization, the hot saturated solu tion:
+(a) is cooled very slowly to get large sized crystals.
+(b) is cooled at a moderate rate to get medium sized crystals.
+(c) is evaporated to get the crystals of the product.
+(d) is mixed with an immiscible liquid to get the pure crystal s of the product.
+(iii)  Solvent extraction is an equilibrium process and it is c ontrolled by.
+(a) law of mass action.   (b) the amount of solvent used.
+(c) distribution law.   (d) the amount of solute.
+(iv)  Solvent extraction method is a particularly useful technique f or separation when the product to be   
+ separated is:
+(a) non-volatile or thermally unstable.   (b) volatile or thermally  stable.
+(c) non-volatile or thermally stable.    (d) volatile or thermally u nstable.
+(v)  The comparative rates at which the solutes move in paper chromatog raphy, depend on:
+(a) the size of paper    (b) R values Of solutes.
+(c) temperature of the experiment.  (d) size of the chromatographic tan k used.
+Fill in the blanks.
+1. A complete chemical characterization of a compound must include__ _______.
+2. During iltration the tip of the stem of the funnel should touch the s ide of the beaker to 
+avoid_________.
+3. A luted ilter paper is used to_________ the process of iltration .
+4. A solvent used for crystallization is required to dissolve of the sub stance at its boiling point 
+and_______ at the room temperature.
+5. Repeated solvent extractions using small portions of solvent are_____ _____________ than using a 
+single extraction with larger volume of the solvent.172.EXPERIMENTAL TECHNIQUES IN CHEMISTRY eLearn.Punjab
+Q.3 Tick the correct sentences. If the sentence is incorrect, write the c orrect statements.
+(i) A qualitative analysis involves the identiication of elements presen t in a compound.
+(ii) If the process of iltration is to run smoothly, the stem of the fu nnel should remain empty.
+(iii)If none of the solvents is found suitable for crystallization a combination of two or more 
+immiscible solvents may be used.
+(iv) A solute distributes itself between two immiscible liquids in  a constant ratio of  concentrations 
+depending upon the amount of solvent added.
+(v) Paper chroma tography is a technique of partition chromatograp hy.
+Q.4    Why is there a need to crystallize the crude product?
+Q.5  A water insoluble organic compound aspirin is prepar ed by the reaction of salicylic acid with a mixture  
+ of acetic acid and acetic anhydride. How will you separate the product from the reaction mixture?
+Q.6  A solid organic compound is soluble in water as well as  in chloroform. During its preparation,   
+        it remains in aqueous layer. Describe a method to obtain from this layer.
+Q.7  The following igure shows a developed  chromatogram on paper with ive spots. 
+(i) Unknown mixture X
+(ii) Sample A 
+(iii) Sample B
+(iv) Sample C
+(v) Sample D
+Find out (i) the composition of unknown mixture X 
+(ii) which sample is impure and what is its composition.
+Q.8 In solvent extraction technique, why repeated extraction using sma ll portions of solvent are       
+          more eicient than using a single extraction but larger  volume of solvent?
+Q.9  Write down the main characteristics of a solvent selected for cr ystallization of a compound.
+Q.10  You have been provided with a mixture containin g three inks with diferent colours. Write down the  
+ procedure to separate the mixture with the help of paper chromatography .

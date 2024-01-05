@@ -1,0 +1,1344 @@
+CHAPTER
+9   SOLUTIONS
+Animation 9.1:  RAOUL T’S LAW
+Source & Credit:  rasirc29.SOLUTIONS eLearn.Punjab
+9.0.0 CONCEPT OF A SOLUTION
+ Every sample of matter with uniform properties and a ixed composition  is called a phase. 
+For example, water at room temperature and normal pressure exists as a single liquid phase, that 
+is, all the properties of water are uniform throughout this liquid phase. If a small amount of sugar 
+is added to this sample of water, the sugar dissolves but the sampl e remains as a single liquid pha.
+se. However, the properties and composition of this new liquid phase, now the sugar solution, are 
+diferent from those of pure water. As this solution of sugar in water  is containing two substances 
+(binary solution), so it is a mixture and since its properties a re uniform, therefore, it is homogeneous 
+in character.
+ A solution, on average, is a homogeneous mixture of two or more kinds of  diferent molecular 
+or ionic substances.  The substance which is present in large quantity is called a  solvent and the 
+other component in small quantity is called a solute. 
+ For a given solution, the amount of solute dissolved in a unit volume of  solution (or a unit 
+amount of solvent) is termed as the concentrat ion of the solution. Solutions  containing relatively 
+lower concentrations of solute are called dilute solutions, whereas those containing relatively higher 
+concentrations of solutes are called concentrated solutions.
+Animation 9.2: CONCEPT OF A SOLUTION
+Source & Credit: employees.csbsju39.SOLUTIONS eLearn.Punjab
+9.1.0 CONCENTRATION UNITS OF SOLUTIONS
+ There are various types of concentration units of solutions. They are discussed as follows.
+9.1.1 Percentage composition
+ The amounts of solute and solvent can be expressed in percentage compos ition by four 
+diferent ways.
+a.  Percentage weight/weight   
+b.  Percentage weight/volume
+c.  Percentage volume/weight   
+d.  Percentage volume/volume
+Animation 9.3: CONCENTRATION UNITS OF SOLUTIONS
+Source & Credit: chempaths.chemeddl49.SOLUTIONS eLearn.Punjab
+(a )  Percentage weight / weight
+ It is the weight of a solute dissolved per 100 parts by weight of solution. 5% w/w sugar solution 
+will contain 5 g of sugar dissolved in 100 g of solution in w ater. This solution contains 95 g of water.
+  Mass of solute% by weight = x100Mass of solution
+Example (1):
+ Calculate the percentage by weight of NaCl, if 2.0g of NaCl is  dissolved in 20 g of water.
+Animation 9.4: Percentage composition
+Source & Credit: dynamicscience59.SOLUTIONS eLearn.Punjab
+Solution:
+   Weight of NaCl         = 2.0g
+   Weight of sovent        = 20.0g
+   Weight of solution       = 20+2 = 22g
+   2.0g% of NaCl by weight     = x100               =9.09%  Answer22.0g
+(b )  Percentage Weight/Volume
+ It is the weight of a solute dissolved per 100 parts by volume of solu tion.  10 g of  glucose 
+dissolved in 100 cm3 of solution is 10% w/v solution of glucose. The quantity of the solven t is not 
+exactly known. In such solutions, the total volume of the solution is u nder consideration.
+(c)  Percentage Volume /Weight
+ It is the number of cm3 of a solute dissolved per 100 g of the solution.  If we dissolve 10 cm3 of 
+alcohol in water and the total weight of the solution is 100 g, then i t is 10% v/w solution of alcohol 
+in water. In such type of solutions, we don’t know the total volume of th e solution.
+(d)  Percentage Volume / Volume
+ It is the volume of a solute dissolved per 100 cm3 of the solution.  This unit of concentration 
+is best applicable to the solutions of liquids in liquids. A 1 2 % alcohol beverage is 12 cm3 of alcohol 
+per 100 cm3 of solution. In such solutions, the total volume of the solution may not be necessarily 
+equal to the sum of volumes of solute and the solvent.
+9.1.2 Molarity (M)
+ Molarity is the number of moles of solute dissolved per dm3 of the solution. To prepare one 
+molar solution of glucose in water, we take 180 g of glucose and a dd suicient water to make the 
+total volume 1 dm3 (llitre) in a measuring lask.69.SOLUTIONS eLearn.Punjab
+ In case of one molar solution of sucrose, 
+342 g of sucrose are dissolved in water  to make 
+it 1 dm3. Since the volume of 342 g of sucrose is 
+greater than 180 g of glucose so the volume of 
+water in 1 molar sucrose solution is less than that 
+of 1 molar glucose solution. Anyhow, to calculate 
+the volume of the solvent, we need to know the 
+density of the solute. Following formula is used to 
+prepare the solution of any molarity.
+  3Mass of solute 1Molarity(M) = xMolar mass of solute Volume of soultion ( dm ) 
+ or
+  3Number of moles of soluteMolarity(M) =Volume of soultion (dm )
+Examples (2):
+ Calculate the molarity of a solution containing 20.7 g of K2CO3 dissolved in 500 cm3 of the 
+given solution.
+Solution:
+   23 Mass of K CO  =20.7g
+   1
+23 Molar mass of K CO  =138gmol−
+   33volume of solution = 500cm  = 0.5dm
+Formula:  3Mass of solute 1Molarity = xMolar mass of solute Volume of soultion i n dm
+   
+  -3 -3
+-1 320.7g 1Molarity=  x    =0.3mol dm   =0.3mol dm  An swer138gmol 0.5dm
+Animation 9.5: Molarity (symbol, M )
+Source & Credit: chembuddy79.SOLUTIONS eLearn.Punjab
+9.1.3 Molality (m)
+ Molality is the number of moles of solute in 1000 g (1 kg) of th e solvent. In order to prepare 
+molal solutions, we don’t have to take any lask. 180 g of glucose w hen dissolved in 1000 g of water 
+gives one molal solution of glucose. The total mass of the solution is 1 180 g. We don’t know the 
+volume of the solution. In order to know the volume we need the density of the s olution. For one 
+molal sucrose solution, 342 g of sucrose are dissolved in 1000 g  of H2O.
+ So,one molal solution of diferent solutes in water have their own masses  and volumes.
+ In order to get the molality of any solution, we use the following equa tion.
+    Mass of solute 1Molality(m) = xMolar mass of solute Mass of solvent in k g
+  or
+  Number of moles of soluteMolality(m) =Mass of solvent in kg
+Example (3):
+ What is the molality of a solution prepared by dissolving 5g of toluene (C7H8) in 250g of 
+benzene.
+Solution:
+ Mass of toluene = 5g
+ Mass of benzene = 250g = 0.25kg
+ Molar mass of toluene = 12x7+1x8=92
+Formula used
+          
+  Mass of solute 1Molality(m) = xMolar mass of solute Mass of solvent in k g89.SOLUTIONS eLearn.Punjab
+  -15g 1Molality(m) = x92g mol 0.250 kg
+  -1 -1 5= mol kg = 0.217mol kg  Answer92x0.25
+    
+      =0.217m
+ The molality of a solution is indirect expression of the ratio of the moles of the solute to 
+the moles of the solvent. The molal aqueous solution of a solute say gluc ose or NaOH is dilute in 
+comparison to its molar solution. The reason is that in molal soluti on the quantity of the solvent is 
+comparatively greater.
+ The value of concentration given in the units of molality does not chan ge with temperature 
+but that of molarity does. The reason is that the volume of liquids ar e afected by the variation in 
+temperature.
+9.1.4. Mole Fraction (x)
+ This unit of concentration may be for any type, of solution i.e. ga s in gas, liquid in liquid or 
+solid in liquid, etc. This unit is also applicable to a solu tion having more than two components.
+ The mole fraction of any component in a mixture is the ratio of the nu mber of moles of it to 
+the total number of moles of all the components present.
+ Let there be three components A, B, C making a solution. The number of moles are na, nb, nc 
+respectively. If the mole fraction of A, B and C are denoted by xa, xb, xc respectively, Then,
+      A
+A
+ABCnX=n  + n  + n
+    
+      B
+B
+ABCnX=n  + n  + n
+      C
+C
+ABCnX=n  + n  + n
+ The sum of the mole fractions of all the components of a solution mus t be equal to one. There 
+are no formal units of mole fraction. Anyhow, we sometimes multiply  mole fraction by 100 to get 
+mole percent.99.SOLUTIONS eLearn.Punjab
+Example (4):
+ Calculate the mole fraction and mole percent of each component in a s olution having 92 g of 
+ethyl alcohol, 96 g of methyl alcohol and 90 g of water.
+Solution:
+ First of all get the number of moles of each component.
+ Mass in grams of the substanceNumber of moles of the substance         = Molecular mass in grams
+  -1
+25 Molar mass of ethyl alchohol (C H OH)    =  46 gmol
+  -192gNumber of moles of ethyl alchohol     = = 2 mol46 gmol
+  -1
+3 Molar mass of methyl alchohol (CH OH)    = 32 gmol
+   
+  -196gNumber of moles of methyl alchohol     =  = 3 mol32 gmol
+  -1
+2 Molar mass of water(H O)         = 18 gmo l
+  -190gNumber of moles of water          =   = 5 mol18 gmol
+ The mole fraction of any components is ratio of its moles to total numb er of moles.
+   ethyl alcohol22X   =   =  = 0.2  Answer2+3+5 10
+   methyl alcohol32X   =   =  = 0.3 Answer2+3+5 10
+   2HO55X   =   =  = 0.5 Answer2+3+5 10
+ Now, multiply the mole fractions with 100, to get mole percent.
+Animation 9.6: Mole Fraction (symbol, 
+x)
+Source & Credit: ima.umn109.SOLUTIONS eLearn.Punjab
+   Moles % of ethyl alcohol = 0.2x100 = 20 Answer
+   Moles % of methyl alcohol = 0.3x100 = 30  Answer
+   2 Moles % of H O = 0.5x100 = 50 Answer
+ In the  case of mixture of gases, one can determine the mole fraction from the partial pressure 
+data of the mixture. Hence
+   A
+A
+ABCpX=p +p +p B
+B
+ABCp,X =p +p +p C
+C
+ABCp,X =p +p +p
+Where pa, pb, pc are the partial pressures of various gases in the mixture.
+ Generally, we can say that
+  Partial pressure of that gasMole fraction of any gas= Total pressure of the mixture of gases
+9.1.5. Parts Per Million (ppm)
+ It is deined as the number of parts (by weight or volume) of a solu te per million parts (by 
+weight or volume) of the solution. 
+ This unit is used for very low concentrations of solutions, e.g. to express the impurities of 
+substances in water.
+  
+ 6 Mass of soluteParts per million (ppm) =   x 10Mass of solution
+Example (5):
+ Sea water has 5.65 x 10-3 g of dissolved oxygen in one kg of water. Calculate the concentration 
+of oxygen in sea water in parts per million
+   -3
+6 5.65x10 gppm of oxygen in sea water    =   x 10 =5.65 ppm  Answer1000g119.SOLUTIONS eLearn.Punjab
+9.1.6 Interconversion of Various Concentration Units  of Solutions
+ Sometimes, we get prepared solutions from the chemical supply houses . For example, 
+we are working with a solution whose molarity is given by the supp lier, but we need to know its 
+molality or w/w percentage. For such purpose, we need to convert one uni t of concentration into 
+other. These conversions are usually done if we know the formula mas ses and the densities of the 
+solutes or solutions. Following table shows the ive important chemicals  whose w/w%, molarities 
+and densities are given. 
+Animation 9.7: Parts Per Million (symbol, p p m)
+Source & Credit: media.tumblr129.SOLUTIONS eLearn.Punjab
+                  
+   
+One should be able to interconvert these concentration 
+units into each other and moreover to molalities and mole 
+fractions for laboratory work Let us do some calculations in 
+this respect.
+Example (6):
+ Calculate the molality of 8% w/w NaCl solution.
+ It means that 0.1367 moles of NaCl is dissolved in 0.092 kg of water.
+  Number of moles of solute 0.1367 molesMolality(m)= =Mass of solvent in kg 0.092 kg
+      =1.487 m  Answer
+ The given solution is 1.487 molal.Name
+of Acid%
+(w/w)Molarity
+(M dm-3)Density
+(gcm-3)
+H2SO4
+H3PO4
+HNO3
+HCl
+CH3COOH98%
+85.5%
+70.4%
+37.2%
+99.8%18
+4.8
+15.9
+12.1
+17.41.84
+1.70
+1.42
+1.19
+1.05
+Animation 9.8: Interconversion of Various Concentra tion Units of Solutions
+Source & Credit: mechanicaldesignforum139.SOLUTIONS eLearn.Punjab
+Example (7):
+ Hydrochloric acid available in the laboratory is 36% (w/w).  The density of HCl solution is 1.19 
+g cm-3. Determine the molarity of HCl solution.
+Solution:
+36% (w/w) HCl solution means that 36g of HCI dissolved in 100 g of solution.
+   Mass of HCl                  =36g
+   Mass of solution            =100g
+ In case  of molarity, the inal volume of solution is 1000 cm3. Convert this volume into mass, 
+by using density of 1.19 gcm-3.
+   3Mass of 1000cm  of HCl solution     =1000x1.19   =1190g
+   Since,    (Mass=volume x density)
+  100g of solution has HCl     =36g
+  1190x36so, mass of HCl in 1190g of solution    =   =428.4g100g
+  -1Molar mass of HCl           =36.5g mol
+  -1428.4gNumber of moles of HCl, in 428.4g of HCl    =    =11.7336.5gmol
+  So, 1000 cm3 solution of HCl has 11.73 moles of HCl
+  Hence, molarity of HCl =11.73mol dm-3
+  Answer
+Example (8):
+ 9.2 molar HClO4 is available in the market. The density of this solution is 1.54 gcm3. What is the 
+percentage by weight of HClO4.149.SOLUTIONS eLearn.Punjab
+Solution:
+  Molarity of HClO4    = 9.2g moles dm-3
+  Density of solution    = 1.54 gcm-3
+Let us calculate the mass of solution which is 1dm3 in volume and has 9.2moles of HClO4 in it.
+  Since,  Mass    = volume x density
+  Mass of 1000cm3 solution    3 -3=1000cm x1.54gcm =1540g
+  Molar mass of HCIO4    =100.5gm mol-1
+  9.2 moles of HCIO4 , can be converted to its mass
+  Mass of HCIO4      -1=100.5g mol  x 9.2mol = 924.6 g
+  Mass of H20 = mass of solution - mass of HCIO4 = 1540-924.6 = 615.4 g
+  % of HCIO4 by weight    4 mass of HClO 924.6= x100= x100 =60.04mass of solution 1540g
+  % of H2O by weight = 100-mass of HClO4 =100-60.04= 39.96 Answer
+9.2  TYPES OF SOLUTIONS
+ Most commonly, we come across solutions, where solute is a solid an d the solvent is a liquid. 
+As a matter of fact, all the three states of matter i.e. solid, liquid  or gas can act as solute or solvent. 
+Examples for nine possible types of solution are given in Table (9 .2).159.SOLUTIONS eLearn.Punjab
+State of Solute State of Solvent Example
+Gas
+Gas
+Gas
+Liquid
+Liquid
+Liquid
+Solid
+Solid
+SolidGas
+Liquid
+Solid
+Gas
+Liquid
+Solid
+Liquid
+Gas
+SolidAir
+O2 in water, CO2 in water.
+H2 adsorbed by palladium
+Mist, fog, clouds, liquid air pollutants.
+Alcohol in water, milk, benzene in toluene.
+Mercury in silver, butter, cheese.
+Sugar in water, jellies, paints.
+Dust particles in smoke.
+Metal alloys pearls, opals, carbon in iron (steel).
+9.2.1 Solutions of Solids in Liquids
+ When a solid comes in contact with a suitable liquid, it diss olves forming a solution i.e. a 
+homogeneous mixture. This process of dissolution can be explained i n terms of attraction between 
+the particles of a solute and that of a solvent. The molecules or ions i n solids are arranged in such 
+a regular pattern that the inter-molecular or inter-ionic forces are a t a maximum. Table (9.2) Common types and examples of solutions
+Animation 9.9:TYPES OF SOLUTIONS
+Source & Credit: blobs169.SOLUTIONS eLearn.Punjab
+The process of dissolution is to overcome these forces of attraction holding  together the solute 
+molecules or ions in the crystal lattice, by the solute-solvent forces. I n molecular crystals, the inter-
+molecular forces of attraction are either dipole-dipole or London disper sion type. These forces 
+are relatively weak and can easily be overcome. Hence, non-polar or l ess polar molecular crystals 
+usually dissolve in non-polar solvents like benzene.
+ In the  crystal lattice, the inter-molecular or inter-ionic forces of  attraction between highly polar 
+molecules or ions are quite strong, hence the polar solids fail to di ssolve in nonpolar solvents. These 
+strong electrostatic forces cannot be overcome or shattered by the weak solute-s olvent attractions. 
+Take the case of cane sugar. Due to hydrogen bonding, it has tightl y bound molecules, so it will not 
+be dissolved by solvents like kerosene oil, petrol, benzene, etc. It will be dissolved readily in water, 
+because water attracts sugar molecules almost in the same way as th e sugar molecules attract one 
+another. 
+ The inter-ionic forces of attraction are very strong in ionic solids  so, equally strong polar 
+solvents are needed to dissolve them. Such solids cannot be dissolved by moderately polar solvents 
+e.g. acetone. A moderately polar solvent, fails to dissolve sodium chlor ide, which is an ionic solid. 
+Thus the solubility principle is that “ like dissolves like’ .
+9.2.2 Solutions of Liquids in Liquids
+ The solutions of liquids in liquids may be divided into three c lasses.
+Animation 9.10: Solutions of Solids in Liquids
+Source & Credit: employees.csbsju179.SOLUTIONS eLearn.Punjab
+(i)  Completely Miscible Liquids
+ Liquids like alcohol and water or alcohol and ether mix in al l proportions. However, the 
+properties of such solutions are not strictly additive. Generally, the vol ume decreases on mixing 
+but in some cases it increases. Heat may be evolved or absorbed durin g the formation of such 
+solutions. These types of solutions can usually be separated by fr actional distillation.
+(ii)  Partially Miscible Liquids
+ A large number of liquids are known which dissolve into one an other up to a limited extent. 
+For example, ether 25 25CH O CH −−  dissolves water to the extent of about 1.2 % and water dissolves 
+ether up to the extent of about 6.5%.
+ As the mutual solubilities are limited, the liquids are only pa rtially miscible. On shaking equal 
+volumes of water and ether, two layers are formed. Each liquid lay er is a saturated solution of the 
+other liquid. Such solutions are called conjugate solutions. The m utual solubility of these conjugate 
+solutions is afected by temperature changes. Typical examples of s uch systems are:
+a.  Phenol-water system
+b.  Triethylamine-water system
+c.  Nicotine-water system
+Animation 9.11: Solutions of Liquids in Liquids
+Source & Credit: chem.purdue189.SOLUTIONS eLearn.Punjab
+Phenol-Water System (H2O + C6H5OH )
+ The example of phenol in water is interesting. If equal volumes of water and phenol are 
+mixed together, they show partial miscibility. It has been observed th at around room temperature, 
+phenol will dissolve in a lot of water giving us the upper layer a nd water will dissolve in a lot of 
+phenol giving us the lower layer.
+ At 250C the upper layer is 5% solution of phenol in water and the lower l ayer is 30% water in 
+phenol. These two solutions are conjugate solutions to each other. The lower  layer has a greater 
+density due to greater percentage of phenol. Water acts as a solute in th e lower layer while phenol 
+is a solute in the upper layer. When the temperature of water-phenol sy stem is increased, the 
+compositions of both layers change. Water starts travelling from upp er to the lower layer and 
+phenol travels from lower to the upper layer.
+ When the temperature of this system approaches 65.90C, a homogeneous mixture of two 
+components is obtained. This homogeneous mixture contains 34% phenol and 66% water. The  
+temperature of 65.90C at which two conjugate solutions merge into one another, is called c ritical 
+solution temperature or upper consulate temperature. Some other partially miscible pairs of liquids 
+have their own consulate temperatures with deinite compositions.
+ For example, water-aniline system has a single layer at 167.00 C with 15% water. Methanol-
+cyclohexane system has consulate temperature of 49.10 C with 29% methanol.
+(iii)  Liquids Practically Immiscible
+ Those liquids which do not dissolve into each other in any proporti on are immiscible.
+ Examples:  (i) Water and benzene (H20 + C6H6)
+   (ii) Water and carbon disulphide (H2O + CS2)
+9.3.0 IDEAL AND NON-IDEAL SOLUTIONS
+When two or more than two liquid substances are mixed, the solutions may be ideal or non-ideal.
+To distinguish between such solutions we look at the following aspects :-199.SOLUTIONS eLearn.Punjab
+ i.  If the for ces of interactions between the molecules of diferent comp onents are same as 
+when they were in the pure state, they are ideal solutions, otherwise non- ideal.
+ ii.  If the volume  of solution is not equal to the sum of the individ ual volumes of the components, 
+the solution is non-ideal.
+ iii. Ideal solutions have zero enthalpy change as their heat of sol ution.
+ iv. If the  solutions obey Raoult’s law, then they are ideal. This  is one of the best criterion for 
+checking the ideality of a solution
+ Let us irst study, the  Raoults’s law and then try to understand ideality of solutions, the 
+process of fractional distillation and the formation of azeotropes.
+Animation 9.12: Ideal and Non-Ideal Solutions
+Source & Credit: wikipedia209.SOLUTIONS eLearn.Punjab
+9.3.1 RAOULT’S LAW
+ Raoult’s law can be deined in these ways:
+ The vapour pressure ol a solvent above a solution is equal to the product of the vapour 
+pressure of pure solvent and the mole fraction of solvent in solution.
+ Mathematically, it can be written in equation form as follows:
+    o
+1p = p x                           ...............     (1)
+Where  p is the vapour pressure of solvent in the solution, p° is the va pour pressure of pure solvent 
+and x1 is the mole fraction of solvent.
+ We also known that
+ 12X  + X  = 1  (x2 is the mole fraction of solute)
+ or     12X  = 1 - X
+ Putting the value of x1 in equation (1)
+     o
+2 p = p (1 - X )
+ or     oo
+2 p = p  - p X
+ or     oo
+2 p -p = p X
+ or     o
+2p = p X .................(2)∆
+ Equation (2) gives another  deinition of Raoult’s law.  “The lowering of vapour pressure is 
+directly proportional to the mole of fraction of solute.”  Now rearrange equation (2) to get equation 
+(3).
+2op=X ................ (3)p∆219.SOLUTIONS eLearn.Punjab
+    
+	∆ p/p° is called relative lowering of vapour pressure and it is mor e important than actual 
+lowering of vapour pressure ( ∆p). The equation (3) gives us another deinition of Raoult’s law.  “The  
+relative lowering of vapour pressure is equal to the mole fraction of sol ute”.
+ The relative lowering of vapour pressure:
+(i)  is independent of the temperature
+(ii)  depends upon the concentration of solute.
+(iii)  is constant when equimolecular proportions of diferent solutes  are dissolved in the 
+same mass of same solvent.
+Animation 9.13: RAOULT’S LAW
+Source & Credit: rasirc229.SOLUTIONS eLearn.Punjab
+Example (9):
+ The vapour pressure of water at 30° C is 28.4 torr. Calculate th e vapour pressure of a solution 
+containing 70g of cane sugar (C12H22O11) in 1000g of water at the same temperature. Also calculate 
+the lowering of vapour pressure.
+Solution:
+ Mass of cane sugar dissolved       =70g
+ Molar mass of cane sugar        -1= 342 g mole
+ Number of moles of a compound      mass= molar mass
+ Number of moles of sugar, C12H22O11 (n2)     70g=    =0.20342g/mol
+ Mass of H2O in solution        =1000g
+ Number of moles of water, H20 (n1)      1000g=     =55.4918.02g/mol
+ Total number of moles        = 0.20 + 55.49= 55.69
+ Mole fraction of sugar, C12H22O11(x2)      2
+12n 0.2= 0.0036n +n 55.69= =
+ Mole fraction of water, H2O (x1)       1
+12n 55.49= 0.9964n +n 55.69= =
+ Vapour pressure of pure water       =28.4 torr
+ Applying the formula for vapour pressure of solution
+           o
+1p  = p X  = (28.4)(0.9964)  =28.29 torr
+ So, vapour pressure of solution      = 28.29 torr  Answer
+ Lowering of vapour pressure, ∆p     = 28.4 - 28.29 = 0.11 torr  Answer239.SOLUTIONS eLearn.Punjab
+9.3.2 Raoult’s Law (when both components are volatile )
+ Raoult’s law can be applied to understand the relationship between mole fractions of two 
+volatile components and their vapour pressures before making the solution  and after making the 
+solution. Consider two liquids ‘A’ and ‘B’ with vapour pressur es p°A and p°B in the pure state at a 
+given temperature. After making the solution, the vapour pressures of both  liquids are changed. 
+Let the vapour pressures of these liquids in solution state be pA and pB with their mole fractions xA 
+and xB respectively.
+ Applying Raoult’s law to both components
+  o
+A AAp =p x
+  o
+B BBp =p x 
+  oo
+t A B AA BBP=p +p =p x +p x where Pt is total vapour pressure)
+since  ABx +x =1
+  BAx =1-x
+  oo
+t AA B AP = p x  + p (1 - x )
+  o oo
+t AA B BAP = p x  + p  - p x
+  oo o
+t A BA BP = (p  - p )x  +  p ............ (4)
+ The  component A is low boiling liquid and B is high boili ng liquid. The vapour pressure of A 
+is more than B at a given temperature.
+ Equation (4) is a equation of straight line If a graph is p lotted between xBor mole % of B on 
+x-axis and Pt on y-axis, a straight line will be obtained Fig (9.1).
+ Only  those pairs of liquids give straight lines which form i deal solutions. So, Raoult’s law is 
+one of the best criterion to judge whether a solution is ideal or not.249.SOLUTIONS eLearn.Punjab
+All the  possible solutions of two components A and B have their vapour  pressures on the straight 
+line connecting p°A with p°B. All such solutions will be ideal. Each point on this straig ht line represents 
+the vapour pressure of a solution, at a given temperature, with the corres ponding contribution of 
+both the components A and B. The two dotted lines represent the partial pr essures of the individual 
+components of solution. They show the increase of vapour pressure of a component with increase 
+in its mole fraction in solution.
+ In order to explain it, consider a point G on the straight line. Th is point represents the vapour 
+pressure of solution with 30% moles contribution of the component B and  70% of component A.
+ Since, A is more volatile component, so its contribution towards the vap our pressure of 
+solution is represented by pA. 
+ The contribution of the less volatile component B is represented by pB. Similarly, we can 
+calculate the relative contributions of A and B towards the total vapour pressure of solution by 
+taking other points along the line joining po
+A to po
+B.
+ The total vapour pressure of the solution (Pt) corresponding to the point G will be equal to the 
+sum of the vapour pressures of the individual components (pA + pB) as shown in the Fig. (9.1).Fig. (9.1) Graph between composition
+and vapour pressure259.SOLUTIONS eLearn.Punjab
+9.4  VAPOUR PRESSURES OF LIQUID -LIQUID SOLUTIONS
+ Binary mixtures of miscible liquids may be classiied as ( i) ideal (ii) non-ideal or real solutions.
+ The vapour pressures of solutions provides a simple picture about th eir behaviour. Let us 
+discuss the vapour pressures of ideal and real solutions one by on e.
+(i)  Ideal solutions
+ An ideal solution is that which obeys Raoult’s law.  Some typical ideal solution forming liquid 
+pairs are: benzene-toluene, benzene-ether, chlorobenzene-bromobenzene, ethyl  iodide-ethyl 
+bromide, etc.
+Animation 9.14:VAPOUR PRESSURES OF LIQUID LIQ-
+UID SOLUTIONS
+Source & Credit: chem.purdue269.SOLUTIONS eLearn.Punjab
+Fractional Distillation of Ideal Mixture of Two Liqui ds
+ Let us have two liquids A and B which form a completely misci ble solution. A is a more volatile 
+component so its boiling point is less than B. If we have various s olutions of these two components 
+and a graph is plotted between compositions on x-axis and temperatur e on y-axis, then two curves 
+are obtained as shown in the Fig. (9.2). 
+ The  upper curve represents the composition of the vapours of diferent sol utions while the 
+lower curve represents the composition of the liquid mixtures. The reason  is that at any temperature 
+the composition of vapou rs is d ife r e n t from the composition of li quid mixture.
+ Consider the temperature, corresponding to the point G. It is the boiling  point of solution 
+corresponding to composition I. It  meets liquid curve at point H and  the vapour curve at the point 
+C. The composition of liquid mixture corresponding to the point H is  shown by the point I. At point I 
+the mixture has greater percentage of B and less percentage of A. Whi le at the same temperature the 
+vapours of the mixture have the composition K. At the point K, the percentag e of A is comparatively 
+greater than B when we compare it with composition of liquid mixtur e corresponding to point I. 
+Because A is a low boiling liquid, it is present in the vapour state in greater percentage than at point 
+I.
+Fig (9.2) Composition - temperature curve of an ideal so lution.279.SOLUTIONS eLearn.Punjab
+ If the  temperature of the mixture is maintained corresponding to poin t G, the distillate will 
+have greater percentage of A and the residue will have greater percentage of B. The reason is that 
+the fraction going to distillate is that which is in vapour state an d it has greater % of A. The distillate 
+of composition K is again subjected to distillation. Its boiling p oint is X, and at this temperature the 
+distillate of composition Z is obtained. This distillate of compositi on Z is further distilled. In this way, 
+the distillate becomes more and more rich in A and residue is more and more rich in B. So, process 
+of distillation is repeated again and again to get the pure component A. Thus we can completely 
+separate the components by fractional distillation.  Such liquid mixtures, which distil with a change 
+in composition, are called zeotropic mixtures.  For example, methyl alcohol-water solution can be 
+separated into pure components by distillation.
+ii.  Non-Ideal Solutions (azeotropic mixtures)
+ Many solutions do not behave ideally. They show deviations from Raou lt’s Law due to 
+diferences in their molecular structures i.e. size, shape and in termolecular forces. Formation of 
+such solutions is accompanied by changes in volume and enthalp y. The vapour pressure deviations 
+may be positive or negative in such solutions.
+ Azeotropic mixtures are those which boil at constant temperature and di stil over without 
+change in composition at any temperature like a pure chemical comp ound.  Such mixtures can not 
+be regarded as chemical compounds as changing the total pressur e alongwith the boiling point 
+changes their composition. Whereas, for a chemical compound, the c omposition remains constant 
+over a range of temperature and pressure.
+ The deviations of solutions are of two types:
+ (a)  Positive deviations
+ (b)  Negative deviations
+(a)  Positive Deviations
+ If a graph is plotted between composition and vapour pressure of a solution which shows 
+positive deviation from Raoult’s law, the total vapour pressure curve ris es to a maximum. The vapour 
+pressure of some of solutions are above the vapour pressure of either of the pure components.289.SOLUTIONS eLearn.Punjab
+ Let us consider the mixture of A and B components at point C in Fi g (9.3 ). At the point C Fig 
+(9.3 ), the mixture has the highest vapour pressure and, therefore, the lowest, boiling point.
+ On distilling this type of solution, the irst fraction will be a  constant boiling point mixture 
+i.e. azeotropic mixture having a ixed composition corresponding to the maximum point. For this 
+type of solution, it is not possible to bring about complete separation of  components by fractional 
+distillation. Ethanol-water mixture is an example of this type. It boils at 78.1°C with 4.5% water and 
+95.5 % alcohol. 78.1oC is lower than the boiling point of ethanol (78.5°C) and water ( 100°C).
+(b)  Negative Deviations
+ For this type of solution, the vapour pressure curve shows a minimu m. Let us consider a point 
+E in Fig (9.3). Here, the more volatile component A is in excess. O n distilling this solution, the vapours 
+will contain more of A and the remaining mixture becomes richer i n less volatile component B’. 
+Finally, we reach the point D where vapour pressure is minimum a nd the boiling point is maximum. 
+At this point, the mixture will distill over unchanged in compositi on.
+ Therefore, it is  not possible to separate this type of solution completely  into its components. 
+We can give the example of hydrochloric acid solution in water for this type of solutions. HCl forms 
+an azeotropic mixture with water, boiling at 110oC and containing 20.24% of the acid.Fig (9.3 ) Non-ideal solutions and azeotropic mixtures for  positive deviation299.SOLUTIONS eLearn.Punjab
+9.5  SOLUBILITY AND SOLUBILITY CURVES
+ Whenever a solid solute is put in a liquid solvent then the molecules or ions break away 
+from the surface of the solid and pass into the solvent. These particl es of solid are free to difuse 
+throughout the solvent to give a uniform solution. The solute and solvent molec ules are constantly 
+moving about in the solution phase because of kinetic energy possessed by them. In this way some 
+of the particles of the solute may come back towards the solid due to col lisions. These molecules 
+or ions are entangled in its crystal lattice and get deposited on it. This is called re-crystallization 
+or precipitation.If excess of solid is present in the solution then the rate of dissolution and rate of 
+crystallization become equal. This is a state of dynamic equili brium.
+ The  concentration of the solute at equilibrium with the solution is c onstant for a particular 
+solvent and at a ixed temperature. The solution thus obtained is called  saturated solution of the 
+solid substance and the concentration of this solution is termed as i ts solubility.
+So the solubility is  deined as the concentration 
+of the solute in the solution when it is in 
+equilibrium with the solid substance at a 
+particular temperature.
+ Solubility is expressed in terms of number 
+of grams of solute in 1000g of solvent. At a 
+particular temperature, saturated solution of 
+NaCl in water at 0°C contains 37.5g of NaCl in 
+lOOg of water. Similarly  the solubility of CuSO4 
+in water at 0°C is 14.3g/100g, while at 100°C it 
+is 75.4g/100g.
+ To determine the  solubility of substance, 
+a saturated solution of a solid is prepared at 
+a constant temperature. Then this solution 
+is iltered. A known volume of this solution is 
+evaporated in a china dish and from the mass 
+of the residue, the solubility can be calculated.
+Animation 9.15: SOLUBILITY AND SOLUBILITY CURVES
+Source & Credit: dynamicscience309.SOLUTIONS eLearn.Punjab
+Solubility Curves
+ Temperature has a marked efect on the solubility of many substanc es. A graical representation 
+between temperature and solubility of solution is called solubility c urves.There are two types of 
+solubility curves.
+(a)  Continuous solubility curves
+(b)  Discontinuous solubility curves
+(a)  Continuous Solubility Curves
+ Continuous solubility curves don’t show sharp breaks anywhere. According to Fig.(9.4). KCIO3, 
+K2Cr2O7, Pb(NO3)2 and CaCI2 are showing continuous solubility curves. The solubility curves of KCl, 
+NaCl and NaNO3 give the straight lines. NaCl shows a very small change of solu bility from 0°C to 
+100°C increase of temperature. 
+ Ce2(SO4)3 shows the exceptional behaviour whose solubility decreases with the in crease in 
+temperature and becomes constant from 40°C onwards. Anyhow, it show s continuous solubility 
+curve.
+Fig (9.4) Continuous solubility curves319.SOLUTIONS eLearn.Punjab
+(b)  Discontinuous Solubility Curves
+ Sometimes, the solubility 
+curves show sudden changes of 
+solubilities and these curves are 
+called discontinuous solubility 
+curves. The best examples in 
+this reference are Na2SO4.10 H20, 
+CaCl2.6 H2O. Actually, these curves 
+are combination of two or more 
+solubility curves. At the break 
+a new solid phase appears and 
+another solubility curve of that new 
+phase begins. It is the number of 
+molecules of water crystallization 
+which changes and hence solubility 
+changes, Fig (9.5).
+9.5.1 Fractional Crystallisation
+ The curves in Fig (9.4) show that the variation in solubility w ith temperature is diferent for 
+diferent substances. For example, the change in solubility in ca se of KNO3 is very rapid with changing 
+temperature, while such a change is more gradual in other cases like KBr, KCl, alanine, etc.
+These diferences in the behaviour of compounds provide the basis for  fractional crystallisation, 
+which is a technique for the separation of impurities from the chem ical products.
+ By using  the method, the impure solute is dissolved in a hot solvent in which the desired solute 
+is less soluble than impurities. As the hot solution is cooled, the d esired solute being comparatively 
+less soluble, separates out irst from the mixture, leaving impurities  behind. In this way, pure desired 
+product crystallizes out from the solution.Fig (9.5) Discontinuous solubility curves329.SOLUTIONS eLearn.Punjab
+9.6  COLLIGATIVE PROPERTIESOF SOLUTIONS
+ The colligative properties are the properties of solution that depend on the number of solute 
+and solvent molecules or ions. Following are colligative properties of d ilute solution.
+(i)  Lowering of vapour pressure
+(ii)  Elevation of boiling point
+(iii)  Depression of freezing point
+(iv)  Osmotic pressure
+Animation 9.16: Fractional  Crystallisation
+Source & Credit: mind42339.SOLUTIONS eLearn.Punjab
+ The practical applications of colligative properties are numerous.  The study of colligative 
+properties has provided us with methods of molecular mass determinati on and has also contributed 
+to the development of solution theory.
+9.6.1 Why Some of the Properties are Called Colligat ive
+ The reason for these properties to be called colligative can be explain ed by considering three 
+solutions. Let us take 6 g of urea, 18 g of glucose and 34.2 g of sucrose and dissolve them separately 
+in 1 kg of H20. 
+Animation 9.17: COLLIGATIVE PROPERTIESOF SOLU-
+TIONS
+Source & Credit: web.mst
+Animation 9.18: Why Some of the Properties are 
+Called Colligative
+Source & Credit: web.mst349.SOLUTIONS eLearn.Punjab
+This  will produce 0.1 molal solution of each substance. Pure H2O has certain value of vapour 
+pressure at a given temperature. In these three solutions, the vapour press ures will be lowered. 
+The reason is that the molecules of a solute present upon the surface of a solution decrease the 
+evaporating capability. Apparently, it seems that sucrose solution s hould show the maximum 
+lowering of vapour pressure while urea should have the minimum low ering of vapour pressure. 
+The reality is that the lowering of vapour pressure in all these solu tions will be same at a given 
+temperature. Actually, the number of particles of the solute in all th e solutions are equal. We have 
+added 1/10th of Avogadro’s number of particles (6.02 x 1022). The lowering of vapour pressure 
+depends upon the number of solute particles and not upon their molar mass and structures. Well, 
+it should be kept in mind that these three solutes are non-volatile and n on-electrolyte.
+ The boiling points of these solutions are higher than that of pure s olvent. It is observed that 
+the boiling point elevation of these three solutions is 0.052 oC. Similarly, freezing points will be 
+depressed for these solutions and the value of depression in these three ca ses is 0.186°C. The 
+reason again is that the elevation of boiling point and the depression of freezing point depend 
+upon number of particles of solute.
+ Now, let us deduce the values of elevation of the boiling point and the d epression of the 
+freezing point of water for 1 molal solutions. For that purpose, try to dissolve 60 g of urea. 180 
+g of glucose and 342 g of sugar separately in 1 kg of water. If, it is possible then the elevation of 
+boiling point and depression of freezing point of water will be 0. 52 oC and 1.86 oC, respectively. All 
+the three solutions will boil at 100.52 °C and freeze at -1.86 oC. These values of elevation of boiling 
+point and depression of freezing point are called molal boiling p oint constants and molal freezing 
+point constants of H2O denoted by Kb and Kf respectively.
+ These are also named as ebullioscopic and cryoscopic constants , respectively. These constants 
+depend upon the nature of solvent and not upon the nature of solute. Followi ng Table (9.3) give the 
+values of Kb and Kf for some common solvents.
+Solvent B.P.(0C) Kb(0C/m) F.P.(0C) Kf(0C/m)
+H2O
+Ether
+Aceticacid
+Ethanol
+Benzene100
+34.4
+118
+79
+800.52
+2.16
+3.07
+1.75
+2.700
+-116.3
+17
+-114.5
+5.51.86
+1.79
+3.90
+1.99
+5.10Table (9.3) Kb and Kf values for some solvents359.SOLUTIONS eLearn.Punjab
+To observe the colligative properties, following condition should be fuli lled by the solutions.
+(i) Solution should be dilute
+(ii) Solute should be non-volatile
+(iii) Solute should be non-electrolyte.
+ Now, let us  discuss these colligative properties one by one. (We wil l not discuss osmotic 
+pressure over here).
+9.6.2 Lowering of Vapour Pressure
+ The particles can escape from all over the surface of a pure solven t Fig. (9.6a). When the 
+solvent is containing dissolved non-volatile non-electrolyte solute particles , the escaping tendency 
+of solvent particles from the surface of the solution decreases and its vapour pressure is lowered 
+Fig (9.6 b)
+ A quantitative relationship between the change of vapour pressure of a solvent due to addition 
+of non-volatile and non-electrolyte solute and the mole fraction of solute ha s been given by Raoult.
+ According to equation (3), Raoult says that relative lowering of vap our pressure isequal to the 
+mole fraction of solute.
+      2op=xp∆
+Fig (9.6) Lowering of vapour pressure369.SOLUTIONS eLearn.Punjab
+ If n2 and n1 are the number of moles of a solute and solvent respectively, then
+      2
+2
+12nx=n +n
+  So,
+    2
+o
+12pn=p n +n∆
+ For a dilute solution, n2 can be ignored in denominator
+Hence,     2
+o
+1pn=pn∆
+ The number of moles of solute and solvent are obtained by dividing th eir masses in grams 
+with their respective relative molecular masses. If W1 and W2 are the masses of solvent and solute 
+while M1 and M2 are their relative molecular masses receptively, then
+    1
+1
+1Wn=M and  2
+2
+2Wn=M
+     2
+2
+o
+1
+1W
+pM=Wp
+M∆
+  21
+o
+21pW M= x ............ (5)pMW∆
+ 
+  o
+21
+2
+1p WMM = x ............. (6)pW฀ 
+ The molecular mass (M2) of a non-volatile solute 
+can be calculated from the equation (6).
+ Animation 9.19: Lowering of Vapour Pressure
+Source & Credit: thunderscientiic379.SOLUTIONS eLearn.Punjab
+ Example 10:
+ Pure benzene has a vapour pressure of 122.0 torr at 32°C. When 20g of a non- volatile  solute 
+were dissolved in 300g of benzene, a vapour pressure of 120 torr wa s observed. Calculate the 
+molecular mass of the solute. The molecular mass of benzene being 7 8.1.
+Solution
+Let the molecular mass of the solute be     = M2
+Mass of solute dissolved (W2)       = 20 g
+Vapour pressure of pure solvent (p°)     = 122.0 torr
+Vapour pressure of solution (p)       = 120.0 torr
+Lowering of vapour pressure ( ∆p)      = 122.0 - 120.0 = 2.0 torr
+Mass of solvent (W1)         = 300 g
+Molar mass of solvent (M1)        = 78.1
+Formula applied    21
+o
+21pW M=xpMW∆
+      o
+21
+2
+1p WMM= xpW∆
+  Putting the values
+    -1
+2122.0 20x78.1M = x =317.6 g mol  Answer2.0 300389.SOLUTIONS eLearn.Punjab
+9.6.3 Elevation of Boiling Point
+ The presence of a non-volatile non-electrolyte solute in the solution decreas es the vapour 
+pressure of the solvent. Greater, the concentration of solute, greater will be the lowering of vapour 
+pressure. Therefore, the temperature at which a solvent in the solution sta te boils is increased. 
+In order to understand it, determine the vapour pressures of a solvent at various temperatures. 
+Plot a graph between temperatures on x-axis and vapour pressures on y-axis. A rising curve is 
+obtained with the increase of temperature. The slope of the curve at high temperature is greater, 
+which shows that at high temperature the vapour pressure increases m ore rapidly. Temperature 
+T1 on the curve AB which is for the pure 
+solvent, corresponds to the boiling point 
+of the solvent. The solvent boils when its 
+vapour pressure becomes equal to the 
+external pressure represented by p°.
+ When the solute is added in the 
+solvent and vapour pressures are 
+plotted vs temperatures, then a curve 
+CD is obtained. This curve is lower than 
+the curve AB because vapour pressures 
+of solution are less than those of pure 
+solvent. Solution will boil at higher 
+temperature T2 to equalize its pressure 
+to p°. The diference of two boiling 
+points gives the elevation of the boiling 
+point ∆Tb. 
+ The higher the  concentration of 
+solute, the greater will be the lowering 
+in vapour pressure of solution and hence higher will be its boili ng point. So, elevation of boiling 
+point ∆Tb is directly proportional to the molality of solution.
+    bbT  = K m          ................    (8)∆
+Where Kb is called the ebullioscopic constant or molal boiling point consta nt.
+Fig (9.7) Elevation of boiling temperature curve399.SOLUTIONS eLearn.Punjab
+ According to equation (8), molality of any solute determines the elevati on of boiling point of 
+a solvent. You may dissolve 6 g of urea in 500 g of H2O or 18 g of glucose in 500 g of H2O both give 
+0.2 molal solution and both have same elevation of boiling points i.e.  0.1 °C, which is l/5th of 0.52°C. 
+We say that  ∆Tb (not T) is a colligative property. We know that
+   Mass of solute 1Molality(m) = xMolar mass of solute Mass of solvent in k g
+or   22
+2 1 21W 1 1000 Wm =  = .......... (9)M W/1000 M W
+Putting the value of m from equation (9) into equation (8 )
+    2
+bb
+211000 WT  = K  ......... (10)MW∆
+Animation 9.20: Elevation of Boiling Point
+Source & Credit: gif2ly409.SOLUTIONS eLearn.Punjab
+ 
+ Rearranging equation (10)
+ Molecular mass (M2) b2
+b1KW=  x  x 1000               ............  (11)TW∆
+ Equation (11) can be used  to determine the molar mass of a non-vol atile and nonelectrolyte 
+solute in a volatile solvent.
+9.6.4 Measurement of Boiling Point Elevation: Landsb erger’S Method
+ This is one of the best methods for the measurement of boiling point eleva tion of a solution. 
+The apparatus consists of four major parts.
+(a) An inner tube with a hole in its side. This tube is gradu ated.
+(b) A boiling lask which  sends the solvent vapours into the grad uated tube through a   
+          rosehead.
+(c) An outer tube, which receives hot solvent 
+vapours coming from the side hole of the  
+           inner tube.
+(d) A thermometer which can read up to 
+0.01K.
+ The solvent is placed in the inner tube. 
+Some solvent is also taken in a separate 
+lask and its vapours are sent into this tube. 
+These vapours cause the solvent in the tube 
+to boil by its latent heat of condensation. This 
+temperature is noted which is the boiling 
+point of the pure solvent. 
+ The supply of the vapours is temporarily 
+cut of and a weighed  pellet of the solute is 
+dropped in the inner tube. The vapours of the 
+solvent are again passed through it until the 
+solution is boiled. This temperature is again 
+noted. Fig (9.8).Fig (9.8) Landsberger method for measurement of elevat ion
+of boiling point419.SOLUTIONS eLearn.Punjab
+ Now, the supply of the solvent vapours is cut of. The  thermometer and the rosehead are 
+removed and the volume of the solution is measured. The diference of the two boiling points gives 
+the value of ∆Tb. The following formula is used to calculate the molecular mass of solute.    
+          
+Example 11:
+ The boiling point of water is 99.725 °C. To a sample of 600g  of water are added 24.0 g of a 
+solute having molecular mass of 58 g mol-1, to form a solution. Calculate the boiling point of the 
+solution.
+Solution
+Boiling point of pure H2O    o=99.725 C
+Mass of solvent (H2O) W1    =600 g
+Mass of solute (W2)     =24.00 g
+Molar mass of solute (M2)    -1=58 g mol
+The molal boiling point constant of H2O (Kb) o=0.52 C
+Formula
+   2
+bb
+121000 WT  = K x W x M∆
+   o 0.52 x 1000 x 24.00= = 0.358 C600 x 58
+ Boiling point of solution = boilingpoint of pure solvent + elevation of boiling point
+   o=99.725 + 0.358 =100.083 C  Answerb2
+2
+b1K 1000 WM  =  ............ (11)TW∆429.SOLUTIONS eLearn.Punjab
+9.6.5 Depression of the Freezing Point of a Solvent  by a Solute
+ The freezing point of a substance is the temperature at which the sol id and liquid phases of 
+the substance co-exist. Freezing point is also deined as that temperature at which its solid  and 
+liquid phases have the same vapour pressures.  When a non-volatile solute is added to a solvent, 
+its vapour pressure is decreased. At the freezing point, there are two th ings in the vessel i.e. liquid 
+solution and the solid solvent. The solution will freeze at that temperatur e at which the vapour 
+pressures of both liquid solution and solid solvent are same. It mea ns that a solution should freeze 
+at lower temperature than pure solvent.
+ In  order to understand it, plot a graph between vapour pressure temp erature for pure sol -
+vent and that of solution. The curve ABC is for the pure solvent. The sol vent freezes at temperature 
+T1 corresponding to the point B when the vapour pressure of freezing solven t is p°. The portion of 
+the curve BC is for the solid solvent. This portion has a greater slop , showing that the change of 
+vapour pressure with the change of temperature is more rapid Fig (9 .9).
+Fig (9.9) Depression of freezing point curve439.SOLUTIONS eLearn.Punjab
+ The  curve  DEC for the solution will meet the curve BC at the point E. This is the freezing point 
+of solution T2, and corresponds to the vapour pressure p which is lower than p° . The reason is that 
+vapour pressure of solution is less than the pure solvent. 
+ Depression of freezing point = freezing point of pure solvent - freezin g point of solution.
+ So,      f 12T =T-T∆
+ This depression in freezing point ∆Tf is related to the molality (m) of the solution. The  rela -
+tionship is similar to that of elevation of the boiling point.
+Animation 9.21: Depression of the Freezing Point of  a Solvent by a Solute
+Source & Credit: cod449.SOLUTIONS eLearn.Punjab
+ 
+     fTm∆∝
+     ffT =K m                .............      (12)∆
+ Kf is called the molal freezing point constant or the cryoscopic consta nt and m is the molality 
+of  the solution. To get the inal expression, let us put the following ex pression (9) of molality into 
+the equation (12) i.e.
+     2
+211000 Wm = ......... (9)M xW
+  We get  2
+ff
+211000 WT  =K  .................. (13)M xW∆
+ Where W2= mass of solute and M2= molar mass of the solute, W1= mass of solvent  in kg Re -
+arranging equation (13)
+     f2
+2
+f1K 1000 WMolar mass of solute (M )=  ......... (14)TW∆
+9.6.6 Measurement of Freezing Point Depression Beckm ann’s Freezing Point 
+Apparatus:
+ There are many methods but Beckmann’s method is easy to perform The apparatus consists 
+of three major parts. Fig.(9.10).
+a.  A freezing tube with a side arm. It contains solvent or solution  and is itted with a stirrer and 
+a Beckmann’s thermometer.
+b.  An outer larger tube into which the freezing tube is adjusted. The  air jacket in between these 
+tubes help to achieve a slower and more uniform rate of cooling.
+c.  A large jar containing a freezing mixture. Around 20 to 2 5g of the solvent is taken in the freez -
+ing tube. The bulb of the thermometer, is immersed in the solvent. Firs t of all, approximate freezing 
+point of the solvent is measured by directly cooling the freezing point tube in the freezing mixture.459.SOLUTIONS eLearn.Punjab
+ The freezing tube is then put in the air jacket and cooled slowly.  In this way, accurate freezing 
+point of the solvent is determined. Now, the solvent is re-melted by removing the tube from the 
+bath and weighed amount of 0.2 to 0.3 g of the solute is introduced in the side tube.
+ The freezing point of the solution is determined while stirring the s olution. The diference 
+of the two freezing points gives the value of ∆Tf and the following formula is used to calculate the 
+molar mass of solute.
+    f2
+2
+f1K 1000 WM =  ......... (14)TW∆
+Example 12:
+ The freezing point of pure camphor is 178.4°C. Find the freezi ng point of a solution containing 
+2.0 g of a non-volatile compound, having molecular mass 140, in 40g of camphor. The molal freezing 
+point constant of camphor is 37.7 °C kg mol-1.
+Fig (9.10) Beckmann's freezing point apparatus469.SOLUTIONS eLearn.Punjab
+Solution:
+Freezing point of camphor    = 178.4 °C
+Mass of solute (W2)      =2.00g
+Mass of solvent (W1)      = 40 g
+Molar mass of solute (M2)    = 140
+Molal freezing point constant of solvent  = 37.7° C kg mol-1.
+Freezing point of solution     = ?
+Applying the equation
+     2
+ff
+121000 WT  =K  W x M∆
+ We have to calculate, the freezing point of solution, so irst we get the d epression in  freezig 
+point ∆Tf then subtract it from freezing point of pure solvent.
+     o
+f37.7 x 1000 x 2T = =13.46 C40 x 140∆
+Freezing point of solution o=178.4 - 13.4 = 164.94 C  Answer
+9.6.7 Applications of Boiling Point Elevation and F reezing  Point Depression 
+Phenomena
+ Apart from the molecular mass determination, the presence of a solute increases the liquid 
+range of the solution both by raising the boiling point and lowerin g the freezing point. The most 
+important application of this phenomenon is the use of an antifreeze i n the radiator of an’automo -
+bile. The solute is ethylene glycol, which is not only completely mi scible with water but has a very 
+low vapour pressure and non-volatile in character. When mixed with  water, it lowers the freezing 
+point as well as raises the boiling point. 
+ During winter it protects a car by preventing the liquid in the ra diator from freezing, as wa -
+ter alone, if it were used instead. In hot summer, the antifreeze soluti on also protects the radiator 
+from boiling over.479.SOLUTIONS eLearn.Punjab
+ Another, common  application is the use of NaCl or KNO3 to lower the melting point of ice. 
+One can prepare a freezing mixture for use in an ice cream mac hine.
+9.7.0 ENERGETICS OF SOLUTION
+ In a solution, the distances between solute and solvent molecules or ions  increase somewhat 
+as compared with their pure states. This increase in the distance of solvent molecules requires 
+energy to overcome the cohesive intermolecular forces. Hence, it is an endoth ermic process. Sim -
+ilarly, the separation of solute molecules also needs energy so it is also an endothermic process. 
+The intermixing of solute with solvent molecules is to establish new in termolecular forces between 
+unlike molecules. It releases energy and thus is an exothermic phen omenon. The strengths of the 
+two type of forces will decide whether the process of dissolution will be endothermic or exother -
+mic.
+Animation 9.22: Applications of Boiling Point Eleva tion and Freezing Point Depression 
+Phenom ena
+Source & Credit: lifestyle489.SOLUTIONS eLearn.Punjab
+ Thus, the process of dissolution occurs with either an absorption or release of energy. This is 
+due to breakage and re-establishment of intermolecular forces of attrac tion between solute and 
+solvent molecules.
+ When potassium nitrate is dissolved in water, the temperature of the sol ution decreases. It 
+shows it to be an endothermic process. The solution of lithium chlori de in water produces heat, 
+showing that the process of dissolution is exothermic. The quantity of heat energy, that is absorbed 
+or released when a substance forms solution, is termed as heat of sol ution.
+ So, the enthalpy or heat of solution of a substance is deined as the h eat change when one 
+mole of the substance is dissolved in a speciied number of moles of solvent at a given tempera -
+ture. It is given the symbol  soluH∆ . The soluH∆  gives the diference between the energy possessed by 
+the solution after its formation and the original energy of the components  before their mixing i.e.
+      solu solution componentsH =H -H∆
+ Here, soluH∆  is the  energy content of solution after its formation, while componentsH  represents the 
+energy contents of components before their mixing. However, both these factors  can not actually 
+be measured, only their diference i.e. the change soluH∆  is practically measurable. If the value of 
+soluH∆ is negative, it would mean that the solution is having less energy tha n the components from 
+which it was made, hence the dissolution process is an exothermic one. On the other hand, an 
+endothermic process would have a positive soluH∆  value. In Table (9.4) are given values of heats of 
+solution of diferent ionic solids in water at ininite dilution.
+Table (9.4) Heats of solution
+of some ionic solids
+Sub-
+stanceHeats of
+solution (kJ mol-
+1)
+NaCl
+NH4NO3
+KCl
+KI
+NH4Cl
+LiCl
+Li2CO34.98
+26.0
+17.8
+21.4
+16.2
+-35.0
+-12.8499.SOLUTIONS eLearn.Punjab
+ The magnitude  of heat of solution gives information regarding the s trength of intermolecular 
+forces of attraction between components which mix to form a solution.
+ When one mole of sodium chloride (58.5g) is dissolved in 10 mol es of water (180g), then 2.008 
+kJ of energy is absorbed.
+  
+    22 NaCl+10H O NaCl (10H O)   H=+2.008kJ. →∆
+9.7.1 Hydration Energy of Ions
+ When an ionic compound, say potassium iodide is dissolved in water, the irst step, is the 
+separation of K+ and I ions from solid. In the second step, these separated ions ar e surrounded by 
+solvent molecules. The irst step breaks the lattice to separate the ions.
+Animation 9.23: ENERGETICS OF SOLUTION
+Source & Credit: ntu509.SOLUTIONS eLearn.Punjab
+Since, energy is required to accomplish this step, so this step is  endothermic. The amount of en -
+ergy needed to separate a crystalline compound into isolated ions (or a toms) is known as lattice 
+energy. The lattice energy of ionic solids is always higher than  molecular solids.
+ In  the second step, the ions are brought into water and get hydrated (solvated) Fig (9.11). A 
+hydrated ion is attracted by the solvent dipoles and energy is released , so this step is exothermic. 
+The energy given out by this step is known as the hydration energy ( or solvation energy).
+    +- + -
+2 K  + I  + xH O K (aq)+I (aq) →
+ The inal equation will be as follows:
+    +-
+2 Kl(s) + xH O K (aq) + I (aq) →Table (9.5) Hydration energies
+of common ions
+Ion ∆H0
+(ion mole-1)
+H+
+Li+
+Na+
+Ag+
+K+
+Mg2+
+Cu2+
+NH4+
+F-
+Cl-
+Br-
+OH--1075
+-499
+-390
+-464
+-305
+-1891
+-1562
+-281
+-457
+-384
+-351
+-460519.SOLUTIONS eLearn.Punjab
+ The  values of hydration energies of individual ions, i.e. cation s and anions are given in Table 
+(9.5). It is interesting to compare these values with the ionic radii  of the ions. Greater the size of 
+monovalent cation, lesser is the heat of hydration. Divalent and trivalent cations have higher values 
+due to high charge densities. Anions also show a deinite trend of h eat of hydration, depending 
+upon their sizes.
+ On diluting  a concentrated solution, there is a further heat chan ge. This heat change de -
+pends on the amount of water used for dilution. The heat of dilution g radually decreases, so that 
+eventually increasing the dilution produces no further heat change. This occurs when there are 
+800-1000 moles of water to one mole of solute. This stage is called i ninite dilution and the heat of 
+solution is expressed as:
+  -1
+2 soln NaCl(s) + H O NaCl(aq) Na (aq) Cl (aq) H = + 4.9 8kJ mol+−→ +∆ ฀
+Fig (9.11) Interaction  between water molecules and cations and anions provide the energy- necessary
+to overcome both the intermolecular forces between wate r molecules and the ionic bond in a potassium 
+iodide529.SOLUTIONS eLearn.Punjab
+9.8  HYDRATION AND HYDROL YSIS
+9.8.1 Hydration
+When ionic compounds are dissolved in water, they are dissociated i nto ions. Negative ions are 
+surrounded by water molecules. The partial positively charged hyd rogen atoms of water surround 
+and attract the anions with electrostatic forces of attraction. Similar ly positive ions of solute create 
+attractions with partial negative oxygen atoms of water molecules. In th is way, all the ions in the 
+aqueous solution are hydrated.
+ The process in which water molecules surround and interact with  solute ions or molecules is 
+called hydration.
+Animation 9.24: Hydration Energy of Ions
+Source & Credit: arizona539.SOLUTIONS eLearn.Punjab
+ The ions, which are surrounded by water molecules, are called hydrated ions. The number of 
+water molecules, which surround a given ion depends upon the size of the ions and the magnitude 
+of its charge (charge/area). If the size of the ion is small an d is highly charged positive ion, it has 
+high charge density. Hence, greater number of water molecules will  surround it.
+Animation 9.25: HYDRATION AND HYDROLYSIS
+Source & Credit: i-biology.net549.SOLUTIONS eLearn.Punjab
+Negatively charged ions have low charge density, and have smaller number of water molecules
+surrounding them. Hence, the ion with high charge density has a  greater ability to attract polar 
+water molecules than ions with smaller charge density.
+9.8.2 Hydrates
+ The crystalline substances, which contain chemically combin ed water in deinite proportions is 
+called a hydrate. Hydrates are mostly, produced when aque -
+ous solution of soluble salt is evaporated. The formation of 
+hydrates is not limited to salts but is common with acids, 
+bases and elements. The water molecules are attached with 
+cations in the hydrates. Anyhow, in CuSO4 .5H20, four water 
+molecules, are attached with Cu2+ and one with SO42-. The 
+reason is that Cu2+ has a greater charge density. The size of 
+Cu2+ is much smaller than SO42-, which has same amount of 
+charge.
+Animation 9.26: Hydration
+Source & Credit: rebloggy
+Animation 9.27: Hydrates
+Source & Credit: wikipedia559.SOLUTIONS eLearn.Punjab
+Water of Crystallization
+Those water molecules, which combine with substances as they are c rystallized from aqueous 
+solutions, are called water of crystallization or water of hydration . Some familiar examples are as 
+follows:  22(COOH) .2H O  (oxalic acid), 22BaCl .2H O , 23 2Na CO .10H O  , 22MgCl .6H O , 247 2Na B O .10H O  (borax), 
+42CaSO .2H O  (gypsum), 42MgSO .7H O  (epsom salt) and 32AlCl .6H O .
+9.8.3 Hydrolysis
+ When NaCl is  dissolved in water, the resulting solution is neutr al i.e. the concentration of 
+each of H+ and OH- ions are equal to 10-7 M, as in pure water. But this balance between H+ and OH- 
+ions can be disturbed with resulting change in the pH of solution  when other salts are dissolved in 
+water. 
+ It is  commonly, observed that diferent salts, upon dissolving in water, do not always form 
+neutral solutions. For example, 4NH Cl , 3AlCl , 4CuSO  give acidic solutions in water. On the other hand, 
+23Na CO  and 3CH COONa  form basic solutions in water. These interactions between salts and  water are 
+called hydrolytic reactions and the phenomenon is known as hydrol ysis.It involves the reactions 
+of the ions of diferent salts to give acidic or basic solutions. It i s the decomposition of compounds 
+with water, in which water itself is decomposed.
+ The hydrolysis of the salts mentioned above are shown as follows:
+    +-
+42 4NH Cl + H O NH OH + H  + Cl ฀
+    +-
+32 3AlCl  + 3H O Al(OH)  + 3H  + 3Cl ฀
+    + 2-
+42 2 4 CuSO  + 2H O Cu(OH)  + 2H  + SO ฀
+ These hydrolytic reactions, produce weak bases 3Al(OH) , 4NH OH  and 2Cu(OH) . But, Cl- and SO42- 
+are weak conjugate bases of HCl and H2SO4. They are not hydrolysed in water. H+ ions remain free 
+in solution and so their solution are acidic in character. 
+ The Ka values of HCl and H2SO4 are very high  as compared to Kb values of 3Al(OH) , 4NH OH  and 
+2Cu(OH) . For 3CH COONa  the reaction with water is
+    
+    +-
+3 23CH COONa + H O CH COOH + Na  + OH ฀569.SOLUTIONS eLearn.Punjab
+ The  acetate ion is hydrolyzed in water to give CH3COOH and OH- becomes free. +Na is not 
+hydrolysed. 
+The  result is that the solution becomes basic in nature. .Similar ly, 34Na PO , 34Na AsO  etc give basic 
+solutions in water due to the formation of a Na+ ,OH- and weak acids 34Na PO  and 34H AsO , which are 
+least dissociated. The dissolution of KCl, Na2SO4, KBr, etc in water give neutral solutions. Because 
+these salts are not hydrolysed in water. Their positive ions K+, Na+ are not hydrolysed by water. 
+Similarly, their negative ions Cl-, Br-, SO42- are also not hydrolysed. It means that the salts of strong 
+bases and strong acids are not hydrolysed by water.
+ Anyhow, the  salts derived from weak acids and weak bases may  not give neutral solutions. It 
+depends upon the pKa and pKb values of acid and base produced.
+Animation 9.28: Hydrolysis
+Source & Credit: i-biology.net579.SOLUTIONS eLearn.Punjab
+KEY POINTS
+1. A solution, on average, is a homogeneous mixture of two or more kind s of diferent molecular or 
+ionic substances. The substance, which is present in a large quantity is called a solvent and the 
+other in small quantity is, called a solute.
+2. Solutions containing relatively lower concentrations of solute are ca lled dilute solutions, where -
+as those containing relatively higher concentrations of solutes are cal led concentrated solutions. 
+Solubility is the concentration of a solute in a solution, when the sol ution is at equilibrium with 
+the solute at a particular temperature.
+3. The concentration of a solution may be expressed in a number of ways. i) percentage composi -
+tion, ii) molarity, iii) molality, iv) mole fraction, v) parts p er million.
+4. Solutions may be ideal or non-ideal. Those solutions, which ob ey Raoult’s law are ideal solutions. 
+Raoult’s law tells us that the lowering of vapour pressure of a solven t by a solute, at a constant 
+temperature, is directly proportional to the concentration of solute.
+5. Many solutions  do not behave ideally, as they show deviations fr om Raoult’s law. A solution may 
+show positive or negative deviation from Raoult’s law. Such liquid m ixtures, which distill without 
+change in composition, are called azeotropic mixtures.
+6. Colligative properties of a solution are those properties, which depen d on the number of solute 
+and solvent molecules or ions and are independent of the nature of solute.  Lowering of vapour 
+pressure, elevation of boiling point and depression of freezing point and osmotic pressure are 
+the important colligative properties of solutions.
+7. Elevation of boiling point of a solvent in one molal solution is ca lled molal boiling point constant 
+or ebullioscopic constant. Depression of freezing point of a solvent in one molal solution is 
+called molal freezing point constant or cryoscopic constant.
+8. The enthalpy or heat of solution of a substance is the heat chang e when one mole of the sub -
+stance is dissolved in a speciied number of moles of solvent at a gi ven temperature.
+9.  The process in which water molecules surround and interact with solute ions or molecules is 
+called hydration. The crystalline substances, which contain m olecules of water in their crystal 
+lattices, are called hydrates. They are mostly produced, when aqu eous solutions of soluble alts 
+are evaporated.
+10. Salts of weak acids with strong bases react with water to prod uce basic solutions, whereas salts 
+of weak bases with strong acids react to give acidic solutions. Su ch reactions are called hydro -
+lytic reactions, and the salts are said to be hydrolysed. Salts of  strong acids and strong bases do 
+not hydrolyse and give neutral solution.589.SOLUTIONS eLearn.Punjab
+EXERCISE
+Q 1.  Choose the correct answer for the given ones.
+i)   Molarity of pure water is
+(a) 1    (b) 18    (c) 55.5   (d) 6
+ii)   18 g glucose is dissolved in 90 g of water. The relative l owering of vapour pressure is equal to
+(a) 1/5   (b) 5.1   (c) 1/51   (d) 6
+iii)  A solution of glucose is 10% w/v. The volume in which 1 g mole of it is dissolved will be
+(a) 1dm3   (b) 1.8dm3   (c) 200cm3   (d) 900cm3
+iv)  An aqueous solution of ethanol in water may have vapour pressur e
+(a)  equal to that of water   (b)  equal to that of ethanol
+(c)  more than that of water   (d)  less than that of water
+v)   An azeotropic mixture of two liquids boils at a lower temperatur e than either of them when:
+(a)  it is saturated
+(b)  it shows positive deviation from Raoult’s law
+(c)  it shows negative deviation from Raoult’s law
+(d)  it is metastabl
+(vi) In  azeotropic mixture showing positive deviation from Raoult’s l aw, the volume of the mixture 
+is
+(a)  slightly more than the total volume of the components
+(b)  slightly less than the total volume of the components
+(c)  equal to the total volume of the components
+(d)  none of these
+(vii)  Which of the following solutions has the highest boiling’p oint?
+(a)  5.85 % solution of sodium chloride   (b)  18.0 % solu tion of glucose
+(c)  6.0 % solution of urea     (d)  All have the same boiling  point
+(viii)  Two solutions of NaCl and KCl are prepared separately b y dissolving same amount of the sol -
+ute in water. Which of the following statements is true for these solution s?
+(a)  KCl solution will have higher boiling point than NaCl sol ution
+(b)  Both the solutions have diferent boiling points
+(c)  KCl and NaCl solutions possess same vapour pressure
+(d)  KCl solution possesses lower freezing point than NaCl solution599.SOLUTIONS eLearn.Punjab
+(ix)  The molal boiling point constant is the ratio of the elevation in  boiling point to
+(a)  molarity     (b)  molality
+(c)  mole fraction of solvent  (d)  mole fraction of solute
+(x)  Colligative properties are the properties of
+(a)  dilute solutions which behave as nearly ideal solutions
+(b)  concentrated solutions which behave as nearly non-ideal soluti ons
+(c)  both (i) and (ii)
+d)   neither (i) nor (ii)
+Q 2.  Fill in the blanks with suitable words
+(i)   Number of molecules of sugar in 1 dm3 of 1M sugar solution is______ .
+(ii)  100g of a 10% aqueous solution of NaOH contains 10g of NaOH in______ g of water.
+(iii)  When an azeotropic mixture is distilled, its ______  remains constant.
+(iv)  The molal freezing point constant is also known as_______ _____ constant.
+(v)  The  boiling point of an azeotropic solution of two liquids is  lower than either of them because 
+the solution shows___________ from Raoult’s law.
+(vi)  Among equimolal aqueous solutions of NaCl, BaCl2 and FeCl3, the maximum depression in 
+freezing point is shown by____________solution.
+(vii)  A solution of ethanol in water shows_________ deviations a nd gives azeotropic solution with________
+boiling point than other components.
+(viii)  Colligative properties are used to calculate____________ of  a compound.
+(ix)  The hydration energy of Br- ion is__________ than that of F- ion.
+(x)  The acqueous solution of NH4Cl is______ while that of Na2SO4 is_____.
+Q 3.  Indicate True or False from the given statements
+(i)  At a deinite temperature the amount of a solute in a given saturated  solution is ixed.
+(ii) Polar solvents readily dissolve non-polar covalent compounds.
+(iii) The solubility of a substance decreases with increase in temperature, if the heat of a solution 
+is negative.
+(iv) The rate of evaporation of a liquid is inversely proportional to th e intermolecular forces of at -
+traction.
+(v) The molecular mass of an electrolyte determined by lowering of vap our pressure is less than 
+the theoretical molecular mass.
+(vi) Boiling point elevation is directly proportional to the molality of the solution and inversely pro -
+portional to boiling point of solvent.609.SOLUTIONS eLearn.Punjab
+(vii)  All solutions containing 1g of non-volatile non-electrolyte solu tes in some solvent will have 
+the same freezing point.
+(viii)  The freezing point of a 0.05 molal solution of a non-volati le non-electrolyte in water is -0.93 0C.
+(ix)  Hydration and hydrolysis are diferent process for Na2SO4.
+(x)  The hydration energy of an ion only depends upon its charg e.
+Q4.  Deine and explain the followings with one example in each ca se.
+(a)  A homogeneous phase   (f)  Zeotropic solutions
+(b)  A concentrated solution   (g)  Heat of hydration
+(c)  A solution of solid in a solid  (h)  Water of crystalliz ation
+(d)  A consulate temperature   (i)  Azeotropic solution
+(e)  A non-ideal solution    (j)  Conjugate solution
+Q5.  (a)  What are the concentration units of solutions. Compare mol ar and molal solutions
+  (b)  One has one molal solution of NaCl and one molal solution  of glucose.
+(i) Which solution has greater number of particles of solute?
+(ii) Which solution has greater amount of the solvent?
+(iii) How do we convert these concentrations into weight by weight percenta ge?
+Q6.  Explain the following with reasons
+(i)  The concentration in terms of molality is independent of temperatu re but molarity depends 
+upon temperature.
+(ii) The sum of mole fractions of all the components is always eq ual to unity for any solution.
+iii) 100 g of 98 % H2SO4 has a volume of 54.34 cm3 of H2SO4 .(Density = 1.84 g cm-3)
+iv) Relative lowering of vapour pressure is independent of the temperature.
+v)  Colligative properties are obeyed when the solute is non-electrolyte, and  also when the solu -
+tions are dilute.
+vi) The total volume of the solution by mixing 100 cm3 of water with 100 cm’3of alcohol may not be 
+equal to 200 cm3. Justify it.
+vii) One molal solution  of urea, in water is dilute as compared to one molar solution of urea, but 
+the number of particles of the solute is same. Justify it.
+viii) Non-ideal solutions do not obey the Raoult’s law.619.SOLUTIONS eLearn.Punjab
+Q7.  What are non ideal solutions? Discuss their types and give th ree example of each.
+Q8.(a) Explain fractional distillation. Justify the two curves when composition is plotted against 
+boiling point of solutions.
+(b) The solutions showing positive and negative deviations cannot be fr actionally distilled at their 
+speciic compositions. Explain it.
+Q9(a) What are azeotropic mixtures? Explain them with the help of graphs?
+ (b) Explain the efect of temperature on phenol-water system.
+Q10.(a) What are colligative properties? Why are they called so?
+ (b) What is the physical signiicance of Kb and Kf values of solvents?
+Q 11. How do you explain that the lowering of vapour pressure is a  colligative property? How do we 
+measure the molar mass of a non volatile, non- electrolyte solute in a vol atile solvent?
+Q12. How do you justify that
+(a)  boiling points of the solvents increase due to the presence of solu tes.
+(b)  freezing points are depressed due to the presence of solutes.
+(c)  the boiling point of one molal urea solution is 100.52 °C b ut the boiling point of two molal 
+urea solution is less than 101.040C.
+(d)  Beckmann’s thermometer is used to note the depression in freezing point.
+(e)  in summer the antifreeze solutions protect the liquid of the radia tor from boiling over.
+(f)   NaCl and KNO3 are used to lower the melting point of ice.
+Q13. What is Raoult’s law. Give its three statements. How this law c an help us to understand the 
+ideality of a solution.
+Q 14. Give graphical explanation for elevation of boiling point of a  solution. Describe one method 
+to determine the boiling point elevation of a solution.
+Q 15. Freezing points of solutions are depressed when non-volatile sol utes are present in volatile 
+solvents. Justify it. Plot a graph to elaborate your answer. Also, g ive one method to record the 
+depression of freezing point of a solution.629.SOLUTIONS eLearn.Punjab
+Q16. Discuss the energetics of solution. Justify the heats of solutions  as exothermic and endother -
+mic properties.
+Q17.(a) Calculate the molarity of glucose solution when 9 g of it are dissolved in 250 cm3 of solution. 
+(Ans: 0.2 mol dm-3)
+(b)  Calculate the mass of urea in 100 g of H2O in 0.3 molal solution. 
+(Ans: 1.8g)
+(c) Calculate the concentration of a solution in terms of molality, w hich is obtained by mixing 250 g 
+of 20% solution of NaCl with 200 g of 40 % solution of NaCl.
+(Ans: 6.94m)
+Q18.(a) An aqueous solution of sucrose has been labeled as 1 mol al. Find the mole fraction of the 
+solute and the solvent. 
+(Ans: 0.0176, 0.9823)
+(b) You are provided with 80% H2SO4 w/w having density 1.8 g cm-3 . How much volume of this H2SO4 
+sample is required to obtain one dm3 o f 20% w/w H2SO4, which has a density o f 1.25 g cm-3.
+(Ans: 173.5cm1)
+Q19. 250  cm3 of 0.2 molar K2SO4 solution is mixed with 250 cm3 of 0.2 molar KCl solution. Calculate 
+the molar concentration of K+ ions in the solution. 
+(Ans: 0.3 molar)
+Q 20. 5g  of NaCl are dissolved in 1000 g of water. The densi ty of resulting solution is 0.997 g/cm3. 
+Calculate molality, molarity and mole fraction of this solution. A ssume that the vol ume of the 
+solution is equal to that of solvent.
+(Ans: M = 0.08542, m = 0.0854, Mole fraction of NaCl= 0. 00154, Mole fraction of H2O =0.9984.)
+Q 21. 4.675g of a compound with empirical formula C3H3O were dissolved in 212.5 g of pure ben -
+zene. The freezing point of solution, was found 1.020C less than that of pure benzene. The molal 
+freezing point constant of benzene is 5.10C. Calculate (i) the relative molar mass and (ii) the mo -
+lecular formula of the compound.
+(Ans:110gmol-1, C6H6O2)
+Q 22. The boiling point of a solution containing 0.2 g of a su bstance A in 20.0 g of ether (molar mass 
+= 74) is 0.17 K higher than that of pure ether. Calculate the m olar mass of A. Molal boiling point 
+constant of ether is 2.16 K. 
+(Ans: 127gmol-1)
+Q 23. 3 g of a non-volatile, non-electrolyte solute ‘X’ are dissolved in 50 g of ether (molar mass = 74) 
+at 293 K. The vapour pressure of ether falls from 442 torr to 426 torr under these conditions. 
+Calculate the molar mass of solute ‘X’. 
+(Ans: 122.6 g mol-1)

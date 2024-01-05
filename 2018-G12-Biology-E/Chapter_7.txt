@@ -1,0 +1,353 @@
+CHAPTER
+21 Cell Cycle
+Animation 21 : Cell cycle
+Source & Credit: Wikispaces221. Cell Cycle eLearn.Punjab
+INTRODUCTION
+     
+  The cell undergoes a sequence of changes, which involves  period of growth, replication 
+of DNA, followed by cell division. This sequence of change s is called cell cycle.
+       It comprises two phases viz., interphase which is the period of non-apparent 
+division and the period of division also known as mitotic phase . Each phase is further 
+subdivided into diferent sub-phases.
+INTERPHASE
+         The period of life cycle of cell (cell cycle) between tw o consecutive divisions is 
+termed as the interphase or misleadingly called resting phase. It is the period of great 
+biochemical activity and can further be divided into G1-phase, S-phase and G2-phase.
+ G1 (Gap 1) is the period of extensive metabolic activity, in whi ch cell normally grows 
+in size, speciic enzymes, are synthesized and DNA bas e units are accumulated for the 
+DNA synthesis. Post-mitotic cell can exit the cell cycle dur ing G1 entering a phase called 
+G0, and remain for days, weeks, or in some cases (e.g., nerve cells and cells of the eye 
+lens) even the life time of the organism without proliferating  further. Following the G1 is 
+the S-phase (synthesis phase) during which the DNA is s ynthesized and (chromosome 
+are replicated)  which initiates G2 phase (pre-mitotic phase), thus preparing the cell for 
+division e.g., energy storage for chromosome movements, mitosis speciic proteins, 
+RNA and microtubule subunits (for spindle ibers) synthes ize. Cells then proceed to 
+next phase which is the period of division). At each stage,  there are speciic check 
+points, which determine the fate of new phase according to c ell’s internal make up. 
+Length of each phase is variable. In the case of human c ell, average cell cycle is about 
+24 hours, mitosis takes 30 minutes, G1 9 hours, the S-phase 10 hours, and G2 4.5 hours 
+whereas full cycle in yeast cells is only 90 minutes.321. Cell Cycle eLearn.Punjab
+    
+Fig. 21.1 The fate of a single parental chromosome throughout the  eukaryotic cell cycle.421. Cell Cycle eLearn.Punjab
+MITOSIS
+  
+ It is the type of cell division, which ensures the same n umber of chromosomes in the 
+daughter cells as that in the parent cells. In spite of sl ight diferences, major steps of 
+mitosis are similar in plants as well as in animals. H owever, to avoid the confusion 
+our statement will base on the animal cell. It can take pla ce in haploid as well as in 
+diploid cells in nearly all parts of the body if and whe n required.
+     Mitosis is a continuous process, but conventionally it may  be divided into two 
+phases, i.e., karyokinesis, which involves the division of nucleus and cytokinesis that 
+refers to the division of the whole cell (Fig.21.2).
+Fig 21.2 The stages of mitosis and cytokinesis in an anim al cell.521. Cell Cycle eLearn.Punjab
+Karyo kinesis
+At the beginning of the process in an animal cell, the pa rtition of the centriole takes place, 
+which have been duplicated during interphase but presen t in the same centrosome. 
+Early in the mitosis the two pair of centrioles separate and migrate to opposite sides 
+of the nucleus, establishing the bipolarity of the dividing cells.
+Three sets of microtubules (ibers) originate from each pai r of centrioles. One set the 
+astral microtubules, radiate outward and form aster, other two sets of microtubules 
+compose the spindle. The kinetochore microtubules attach to chr omosomes at 
+kinetochores and polar microtubules do not interact the chromosome s but instead 
+interdigitate with polar microtubules from the opposite pole. Th ese microtubules are 
+composed of a protein tubulin and traces of RNA.
+This specialized microtubule structure including aster a nd spindle is called mitotic 
+apparatus. This is larger than the nucleus, and is des igned to attach and capture 
+chromosomes, aligning them and inally separating them so th at equal distribution of 
+chromosomes is ensured.
+Karyokinesis can further be divided into prophase, metapha se, anaphase and telophase 
+for thorough understanding, though it is a continuous process.
+Prophase
+During interphase (non-dividing phase) of the cell cycle the chromosomes are not 
+visible even with electron microscope, but using histologic sta ins for DNA, a network621. Cell Cycle eLearn.Punjab
+of very ine threads can be visualized. This network is ca lled as chromatin.
+The chromatin material gets condensed by folding and the c hromosomes appear as 
+thin threads (0.25 mm - 50 mm in length) at the beginning of prophase. 
+Chromosomes become more and more thick ultimately each chromos ome is visible 
+having two sister chromatids, attached at centromere. Towards th e end of prophase, 
+nuclear envelope disappears and nuclear material is re leased in the cytoplasm, nucleoli 
+disappear. Mitotic apparatus is organized (as described above). Cytoplasm becomes 
+more viscous.
+Metaphase
+     Each metaphase chromosome is a duplicated structure w hich consists of two 
+sister chromatids, attached at a point called centromere or pr imary constriction. The 
+centromere has special area, the kinetochore, with speciic  base arrangement and 
+special proteins where kinetochore ibers of mitotic apparatus  attach.
+The kinetochore ibers of spindle attach to the kinetochore regi on (specialized area 
+in centromere) of chromosome, and align them at the equator of the spindle forming 
+equatorial plate or metaphase plate. Each kinetochore gets two ibers one from each 
+pole.
+Anaphase
+       It is the most critical phase of the mitosis, which e nsures equal distribution of 
+chromatids in the daughter cells. The kinetochore ibers of spindle contract towards 
+their respective poles, at the same time polar microtubules e longates exert force and 
+sister chromatids are separated from centromere. As a resu lt, half sister chromatids 
+travel towards each pole. 
+Telophase
+      Reaching of the chromosomes at opposite poles terminates anaphase and start 
+telophase. The chromosomes decondense due to unfolding, ultim ately disappear as 
+chromatin. Mitotic apparatus disorganizes nuclear membrane  and nucleoli reorganize, 
+resulting two nuclei at two poles of the cell.
+Cytokinesis
+     During late telophase the astral microtubules send sig nals to the equatorial region 
+of the cell, where actin and myosin are activated which for m contractile ring, followed 
+by cleavage furrow, which deepens towards the center of the  cell, dividing the parent 
+cell into two daughter cells.721. Cell Cycle eLearn.Punjab
+      Mitotic events in plant cells are generally similar  to the events observed in animal 
+cells but there are some major diferences. Most higher pl ants lack visible centrioles, 
+instead they have its analogous region from which the spindl e microtubules radiate. 
+Moreover, shape of the plant cell does not change greatly comp ared with an animal 
+cell- because it is surrounded by a rigid cell wall. At cytokinesis, in place of contractile 
+ring a membrane structure, phragmoplast is formed from ves icle which originate from 
+Golgi complex. These vesicles originate actually during me taphase, line up in the center 
+of the dividing cell, where they fuse to form phragmoplast a t the end of telophase. 
+The membrane of vesicles becomes the plasma membrane of daughter cells. These 
+vesicles also contain materials for future cell wall such as precursors of cellulose and 
+pectin (Fig.21.3).
+Fig 21.3 Mitosis in a higher plant cell821. Cell Cycle eLearn.Punjab
+Importance of mitosis
+        In mitosis the hereditary material is equally di stributed in the daughter cell. As 
+there is no crossing over or recombination, the genetic informa tion remains unchanged 
+generation after generation, thus continuity of similar inform ation is ensured from 
+parent to daughter cell. Some organisms, both plants and an imals, undergo asexual 
+reproduction. Regeneration, healing of wounds and replacem ent of older cells all are 
+the gifts of mitosis. Development and growth of multicellular org anisms depends upon 
+orderly, controlled mitosis. Tissue culture and cloning see k help through mitosis. For 
+all this an organism requires managed, controlled and pr operly organized process of 
+mitosis, which otherwise may result malfunction, unwanted tu mors and lethal diseases 
+like cancer.
+Cancer (uncontrolled cell division)
+          The multiplication of cells is so carefully re gulated and responsive to speciic 
+needs of the body, that process of cell death and birth are balanced to produce a steady 
+state. Sometime the control, that regulates the cell multiplicati on, breaks down. A cell 
+in which this occurs, begins to grow and divide in unregu lated fashion without body’s 
+need for further cells of its type. When such cells produ ce new cells which continue to 
+proliferate in incontrolled fashion, an unwanted clone of ce lls, called tumor is formed, 
+which can expand indeinitely. Tumors arise frequently,  especially in older animals and 
+humans, and are of two basic types. Some tumors are of smal l size and localized (not 
+transferred to other parts) called benign. The cells in th is type usually behave like the 
+normal cells and have little deleterious efects,, only due to either its interference with 
+normal cells or its hormone-like secretions.921. Cell Cycle eLearn.Punjab
+                   
+Fig: 21.4 result of meiosis,four haploid cells, each 
+with half as many chromosomes as the original cells.1021. Cell Cycle eLearn.Punjab
+ In contrast, the cells composing a malignant tumor or cancer , divide more rapidly, 
+mostly invade surrounding tissues, get into the body’s circul atory system, and set up 
+areas of proliferation, away from their site of original app earance. This spread of: tumor 
+cells and establishment of secondary areas of growth is ca lled as metastasis.
+Cancer cells can be distinguished from normal cells be cause they are less  diferentiated 
+than normal cells, exhibit the characteristics of rapidly growing cells, i.e is, high nucleus 
+to cytoplasm ratio, prominent nucleoli and many mitosis. 
+The presence of invading cells in otherwise normal tissue  is an indication of malignancy. 
+Cancer is caused mainly by mutations in somatic cells. S econdly, the cancer results 
+from the accumulation of as few as three to as many as twenty  mutations, in genes that 
+regulate cell divisidn. These mutations bring two basic ch anges in the cancer cells. First, 
+the metastatic cells break their contact with other cells and overcome the restrictions 
+on cell movement provided by basal lamina and other barrier s, ultimately metastatic 
+cells can invade other parts of the body. Secondly, they prol iferate, unlimitedly, without 
+considering the checks or programmes of the body.
+MEIOSIS
+     
+   Meiosis is the special type of cell division in which the number of chromosomes in 
+daughter cells is reduced to half, as compared to the pare nt cell. In animals at the time 
+of gamete formation, while in plants when spores are produc ed. Each diploid cell after 
+meiosis produces four haploid cells, because it involves two consecutive divisions after 
+single replication of DNA. Two divisions, are meiosis I and  meiosis II. The irst meiotic 
+division is the reduction division, whereas second meiotic di vision is just like the mitosis. 
+Both divisions can further be divided into substages like pr ophase 1, metaphase 1, 
+anaphase 1, telophase 1 and same names are used for me iosis II also (Fig.21.4).
+Prophase I
+This is very prolonged phase, and difers from the prophas e of mitosis, because in this 
+chromosomes behave as homologous pairs. Each diploid cell ha s two chromosomes 
+of each type, one member from each parent, because of fus ion of male and female 
+gametes. Each chromosome has two chromatids, because chromosom es have been 
+replicated during interphase. The interphase of meiosis lacks G2 stage. These similar 
+but not necessarily identical chromosomes are called as hom ologous chromosomes. 
+Prophase 1 further consists of the followings stages.1121. Cell Cycle eLearn.Punjab
+Leptotene:      
+          The chromosomes become visible, shorten and thick . The size of the nucleus 
+increases and homologous chromosomes start getting closer to each  other.1221. Cell Cycle eLearn.Punjab
+Zygotene:      First essential phenomenon of meiosis i.e., pairing of homol ogous 
+chromosomes called synapsis starts. This pairing is high ly speciic and exactly pointed, 
+but with no deinite starting point(s). Each paired but not fus ed, complex structure is 
+called bivalent or tetrad.
+Pachytene:  The pairing of homologous chromosomes is completed. Chromosomes  
+become more and more thick. Each bivalent has four chromatid s, which wrap around 
+each other. Non-sister chromatids of homologous chromosomes excha nge their 
+segments due to chiasmata formation, during the process call ed crossing over. In this 
+way reshuling of genetic material occurs which produces recombinations. Pachytene 
+may lasts for days, weeks or even years, whereas leptotene  and zygotene can last only 
+for few hours.
+Diplotene:      The paired chromosomes repel each other and begin to separ ate. Separation 
+however, is not complete, because homologous chromosomes remain united by their
+point of interchange (chiasmata). Each bivalent has at leas t one such point, the 
+chromatids otherwise are separated (Fig. 21.5).
+Fig. 21.5 Chiasmata formation1321. Cell Cycle eLearn.Punjab
+Diakinesis :     During this phase the condensation of chromosomes reaches  to its 
+maximum. At the same time separation of the homologous chromosome s (started 
+during diplotene) is completed, but still they are united a t one point, more often at 
+ends. Nucleoli disappear.
+Metaphase I
+     Nuclear membrane disorganizes at the beginning of this phase. Spindle ibers originate 
+and the kinetochore ibers attach to the kinetochore of homologous c hromosome from 
+each pole and arrange bivalents at the equator. The sister chromatids of individual 
+chromosome in bivalent behave as a unit.
+Anaphase I
+      The kinetochore ibers contract and the spindle or pole  ibers elongate, which 
+pull the individual chromosome (each having two chromatids) tow ards their respective 
+poles. It may be noted here that in contrast to anaphase of mitos is, sister chromatids 
+are not separated. This is actually reduction phase becau se each pole receives half of 
+the total number of chromosomes.1421. Cell Cycle eLearn.Punjab
+Telophase I
+Nuclear membrane reorganizes around each set of chromosome s at two poles, nucleoli 
+reappear thus two nuclei each with half number of chromosom es are formed, later on 
+cytoplasm divides thus terminating the irst meiotic division. I t is also to be noted that 
+chromosomes may decondense during this stage.
+Meiosis II
+After telophase I two daughter cells experience small inte rphase, but in contrast to 
+interphase of mitosis there is no replication of chromosomes.
+Prophase II, metaphase II, anaphase II and telophase II  are just like the respective 
+phases of mitosis during which the chromosomes, condense, m itotic apparatus forms, 
+chromosomes arrange at the equator, individual/sister chromati ds move apart, and 
+ultimately four nuclei at the respective poles of two daughter cells (formed after meiosis 
+I) are formed. Cytokinesis takes place and four haploid c ells, with half of the number of 
+chromosomes (chromatids) are formed.
+Importance of Meiosis
+     Crossing over and random assortment of chromosomes are two signiicant happenings 
+of meiosis. During crossing over, parental chromosomes exchan ge segments with 
+each other which results in a large number of recombinati ons. At the same time 
+during anaphase the separation of homologous chromosomes is ra ndom, which gives 
+very wide range of variety of gametes. Both these phenomena c ause variations and 
+modiications in the genome. These variations are not only the b ases of evolution, but 
+also make every individual speciic, particular and uniq ue in his characteristics. Even 
+the progeny of very same parents, i.e., brothers and sister s are not identical to each 
+other.
+Meiosis usually takes place at the time of sexual cell (g amete) formation, spore formation 
+in plants, thus having the number of chromosomes in each, w hich is restored after 
+fertilization and maintains chromosome number constant genera tion after generation. 
+Had meiosis not been the process, the chromosome number may have been doubled 
+after every generation. Can you imagine the consequences?1521. Cell Cycle eLearn.Punjab
+MEIOTIC ERRORS (NON-DISJUNCTION)
+       Meiosis is an orderly occurring phenomenon, which ensur es every phase with 
+appropriate inish, but some times, at any point the result ma y be unexpected, causing 
+abnormalities.One of such abnormalities is chromosome non-di sjunction, in which  
+chromosomes fail to segregate during anaphase and telophase  and do not inish with 
+equal distribution of chromosome among all the daughter nucle i. This results either 
+increase or decrease in the number of chromosomes, causin g serious physical, social 
+and mental disorders. This non-disjunction may be in autos ome or in sex chromosome. 
+Some examples of each type may be discussed below in som e detail.
+Down’s Syndrome (Mongolism)
+      It is one of the consequences of autosomal non-disjuncti on in man, during which 
+21st pair of chromosome fails to segregate, resulting in gam ete with 24 chromosome. 
+When this gamete, fertilizes normal gamete the new individ ual will have 47 (2n + 1) 
+chromosomes. Non-disjunction appears to occur in the ova and is  related to the age of 
+mother. The chances of teenage mother having Down’s syndrome child is one in many 
+thousands, forty years old mother, one in hundred chances a nd by forty-ive the risk-is 
+three times greater. The afected individuals have lat, broa d face, squint eyes with the 
+skin fold in the inner corner, and protruding tongue, menta l retardation, and defective 
+development of central nervous system.
+Autosomal non-disjunction may occur in other than 21st chromosome  which usually 
+results in abortion, or death in very early age.
+Klinefelter’s Syndrome
+         These individuals have additional sex chromosome  e.g., 47 chromosomes (44 
+.autosome + XXY). They are phenotypically male but have fr equently enlarged breasts, 
+‘tendency to tallness, obesity, small testes with no sperms a t ejaculation and under 
+developed secondary sex characters.
+Males with 48 chromosomes (44 autosomes + XXXY), with 49 ch romosomes (44 
+autosomes + XXXXY) and with 47 chromosomes (44 autosomes + XY Y) are also observed 
+(Fig. 21.6).
+Turner’s Syndrome
+These afected individuals have one missing X chromosome wi th only 45 •chromosomes 
+(44 autosomes + X). Individuals with this condition often do not survive pregnancy and 
+are aborted. Those who survive have female appearance with short stature, webbed 
+neck, without ovaries and complete absence of germ cells.1621. Cell Cycle eLearn.Punjab
+ 
+ 
+Frequency Chromosomes Sex Syndrome
+Births Abortions
+1/700 1/40 Trisomy 21 M or F Down
+1/15,000 1/33 Trisomy 13 M or F Patau
+1/6,000 1/200 Trisomy 18 M or F Edward
+1/6,000 1/18 XO F Turner
+1/1,500 0 XXX or (XXXX) F Metafemale
+1/1,500 0 XXY or (XXXY) M Klinefelter
+1/1,000 ? XYY M Jacobs
+Fig. 21.6 Non-disjunction of autosomes (a) Non disjunction occ urring during meiosis I and
+meiosis II, gametes (asterisks mark points of non-disjunction), (b) Fre quency of syndromes1721. Cell Cycle eLearn.Punjab
+Necr osis and Apoptosis
+     Cells in an organism depend upon various extracellu lar and intracellular signals for 
+its regulated, controlled activities like cell division, patter n formation, diferentiation, 
+morphogenesis and motility. Each cell is predestined to its fate i.e., what responsibility 
+it has to take and in which way. Even the death of the cell is programmed.
+         Programmed cell death helps in proper control of multicellular development, which 
+may lead to deletion of entire structure (e.g., the tail of de veloping human embryos) 
+or part of structure (e.g., tissue between developing digits) . Cell death even controls 
+the number of neurons, because most of the neurons in the hu man body die during 
+development.
+          Cell death in multicellular organisms is contr olled by two fundamentally diferent 
+ways, i.e., either the cell commits suicide in the absen ce of survival signals (trophic 
+factors) or cells are murdered by killing signals from other cells.
+            Internal programme of events and sequence of morphological changes by 
+which cell commits suicide is collectively called as apop tosis (Greek word that means 
+dropping of or falling of).1821. Cell Cycle eLearn.Punjab
+ 
+During this process the dying cells 
+shrink and condense ultimately split 
+up, thus releasing small membrane 
+bounded apoptotic bodies, which are 
+generally phagocytosed by other cells 
+(Fig.21.7). Intracellular constituents 
+are not released freely in extracellular 
+atmosphere which otherwise might 
+have deleterious efects. In contrast 
+to suicide, the cell death due to tissue 
+damage is called necrosis, during which 
+the Fig21.7 typical cell swells and bursts, 
+releasing the intracellular contents, 
+which can damage neighbouring cells 
+and cause inlammation.
+Fig: 21.7 Ultrastructural features of cell death by apoptosis1921. Cell Cycle eLearn.Punjab
+1. Mongolism is also known as_______ .
+2. During_______  homologous chromosomes get close to each other.
+3. ________phase precedes G2 phase.
+4. Polar microtubules during anaphase.
+5. Mitotic apparatus is formed during_______ of cell division.
+6. The chromosome number (44+1) denotes______Syndrome.
+7. Intracellular contents are released during the type of cell death called ---------.EXERCISE
+Q.1 Fill in the blanks.
+ Q.3  Write true / false against each statement, if It i s false, rewrite tfhettmie 
+statement
+1. Meiosis occurs in haploid cells only.
+2. Cell cycle is comprised of two phases i.e. karyokinesis and cytokinesis.
+3. A point where non-sister chromatids cross  each other is called kinetochore.
+4. G0 stands for no gap,
+5. Full life cycle of yeast cells require 90 seconds to be completed.
+6. Crossing over takes place during metaphase I.2021. Cell Cycle eLearn.Punjab
+7. Autosomal non disjunction may occur in chromosomes other than  21st    chromosome, 
+8. Benign tumors are always non localized,
+9. Cancer is caused mainly by mutations in germ cells.
+10. Genetic informations remain unchanged during mitosis.
+11. Homologous chromosomes are necessarily identical.
+12. The cells are kept alive due to trophic factors.
+13. Cytokinesis involves the division of cytochromes.
+14. Phragmoplast is a type of fragmentation.
+1.  Diferentiate between necrosis and apoptosis.
+2. What are the functions of mitotic apparatus?
+3. How can you identify the cancer cells?
+4. Give importance and signiicance of meiosis.
+5. Deine chromosomal non disjunction.
+6. What are symptoms of turner’s syndrome?
+7. Deine cell cycle. Highlight its importance and signiican ce.
+8. Is interphase a resting phase? Why?
+9. In what respect does mitosis in plant cells difer from that in animal cells?
+ 
+1. How does cytokinesis occur in animals cells? In which wa y does it difer from that in 
+plant cell?
+2. Why and how do the chromosomes get separated during anaphas e of mitosis?
+3. What is the role of centriole in an animal cell? How is thi s function carried out in 
+plant cell?
+4. In what respect can cell death be regarded beneicial?
+5. Compare mitosis with meiosis and describe their importance.
+6. Deine disjunction and discuss its efect.
+7. Describe meiosis and explain its signiicance.Q.4.                Short questions
+Q3.               Extensive questions.

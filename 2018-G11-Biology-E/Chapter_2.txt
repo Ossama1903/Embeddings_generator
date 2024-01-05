@@ -1,0 +1,548 @@
+CHAPTER
+2 Biological Molecules
+Animation 2.1 : Molecular Biology 
+Source & Credit: godandscience22. Biological Molecules eLearn.Punjab
+V: 1.1INTRODUCTION TO BIOCHEMISTRY
+Biochemistry is a branch of Biology, which deals with the stud y of chemical components and 
+the chemical processes in living organisms. A basic knowledge of Biochemistry is essential 
+for understanding anatomy and physiology, because all of the str uctures of an organism have 
+biochemical organization. For example, photosynthesis, respiration,  digestion, muscle contraction 
+can all be described in biochemical terms.
+All living things are made of certain chemical compounds, whi ch are generally classiied as organic 
+and inorganic. Most important organic compounds in living orga nisms are carbohydrates, proteins, 
+lipids and nucleic acids. Among inorganic substances are water, carbon dioxide, acids, bases, and 
+salts.
+Typically an animal and a bacterial cell consists of chemi cals as shown in the following table.
+                  Table 2.1 Chemical composition of a Bacterial and a Mammalian cell.
+      Chemical components                                   % total cell weight
+               Bacterial cell              Mammalian cell
+1 Water                        70                         17 
+2 Proteins                        15                         18
+3 Carbohydrates                         3                          4
+4 Lipids                         2                          3
+5 DNA                         1                        0.25
+6 RNA                         6                         1.1
+7 Other organic molecules
+(Enzymes, hormones,
+metabolites)                        2                           2
+8 Inorganic ions
+(Na+, K+, Ca++, Mg++
+Cl-, SO4-- etc)                        1                          1
+The survival of an organism depends upon its ability to take some c hemicals from its environment 
+and use them to make chemicals of its living matter. For this reas on, cells of every organism are32. Biological Molecules eLearn.Punjab
+V: 1.1constantly taking in new substances and changing them chemic ally in various ways i.e. building 
+new cellular materials and obtaining energy for their needs. Li fe of an organism depends upon the 
+ceaseless chemical activities in its cells. This chemical acti vity is maintained with a high degree of 
+organization. All the chemical reactions taking place within a  cell are collectively called metabolism.
+Metabolic processes are characterized as anabolism and cataboli sm. Those reactions in which 
+simpler substances are combined to form complex substances are called anabolic reactions. 
+Anabolic reactions need energy. Energy is released by the break d own of complex molecules into 
+simpler ones, such reactions are called catabolic reactions. Ana bolic and catabolic reactions go hand 
+in hand in the living cells. Complex molecules are broken down a nd the resulting smaller molecules 
+are reused to form new complex molecules. Interconversions of carbohyd rates, proteins, and lipids 
+that occur continuously in living cells are examples of co-ordina ted catabolic and anabolic activities.
+ 
+Animation 2.2: Introduction to BioChemistry
+Source and Credit: wikidoc42. Biological Molecules eLearn.Punjab
+V: 1.1IMPORTANCE OF CARBON
+Carbon is the basic element of organic compounds. 
+Due to its unique properties, carbon occupies the 
+central position in the skeleton of life.
+Carbon is tetravalent. It can react with many other 
+known elements forming covalent bonds.
+When a carbon atom combines with four 
+atoms or radicals, the four bonds are arranged 
+symmetrically in a tetrahedron, and result to give a 
+stable coniguration. The stability associated with the tetravalency of carbon atoms makes it a 
+favourable element for the synthesis of complicated cellular structur es. Carbon atoms can also 
+combine mutually forming stable, branched or unbranched cha ins or rings. This ability of carbon 
+is responsible for the vast variety of organic compounds. C - C b onds form a skeleton of organic 
+molecules as shown in Fig. 2.1     
+Fig. 2.1. : Unbranched and branched chains, and ring stru cture form and by C-C bonds.Covalent bonds result when two or more 
+atoms complete their electron shells by 
+sharing electrons. When an electron pair 
+is shared between two atoms, a single 
+covalent bond results. An example is the 
+bond between two hydrogen atoms to form 
+a hydrogen molecule. Covalent bond stores 
+large amount of energy.52. Biological Molecules eLearn.Punjab
+V: 1.1Carbon combines commonly with H, O, N, P and S. Combinations  with these and other elements 
+contribute to the large variety of organic compounds. Carbon and h ydrogen bond (C-H bond) is the 
+potential source of chemical energy for cellular activities. Carbon -oxygen association in glycosidic 
+linkages provides stability to the complex carbohydrate molecules.  Carbon combines with nitrogen 
+in amino acid linkages to form peptide bonds and forms proteins which are very important due to 
+their diversity in structure and functions.
+Large organic molecules (macromolecules) such as cellulose, fa ts, proteins, etc. are generally 
+insoluble in water, hence they form structures of cells. They also serve as storage for smaller 
+molecules like glucose, which in turn are responsible for provid ing energy to the body.
+Small molecules, such as glucose, amino acids, fatty acid s etc. serve either as a source of energy, 
+or as subunits to build macromolecules. Some small molecules ar e so unstable that they are 
+immediately broken down to release energy e.g. ATP. Such substanc es serve as immediate source 
+of energy for cellular metabolism.
+ 
+ 
+Animation 2.3: Carbon
+Source and Credit: Rebloggy62. Biological Molecules eLearn.Punjab
+V: 1.1IMPORTANCE OF WATER
+Water is the medium of life. It is the most abundant compound in a ll organisms. It varies from 65 
+to 89 percent in diferent organisms. Human tissues contain about 2 0 per cent water in bone cells 
+and 85 percent in brain cells. Almost all reactions of a ce ll occur in the presence of water. It also 
+takes part in many biochemical reactions such as hydrolysis of macromolecules. It is also used as a 
+raw material in photosynthesis. 
+Solvent properties
+Due to its polarity, water is an excellent solvent for polar substances . Ionic substances when dissolved 
+in water, dissociate into positive and negative ions. Non-ionic subs tances having charged groups in 
+their molecules are dispersed in water. When in solution, ions an d molecules move randomly and 
+are in a more favourable state to react with other molecules and ions. It is because of this property 
+of water that almost all reactions in cells occur in aqueous medi a. In cells all chemical reactions are
+catalyzed by enzymes which work in aqueous environment. Nonpola r organic molecules, such as 
+fats, are insoluble in water and help to maintain membranes wh ich make compartments in the cell.
+Heat capacity
+Water has great ability of absorbing heat with minimum of chan ge in its own temperature. The 
+speciic heat capacity of water - the number of calories required to raise the temperature of 1g of 
+water from 15 to 16°C is 1.0. This is because much of the energ y is used to break hydrogen bonds. 
+Water thus works as temperature stabilizer for organisms in the en vironment and hence protects 
+living material against sudden thermal changes.
+ 
+Animation 2.4: Heat Capacity
+Source and Credit: dynamicscience72. Biological Molecules eLearn.Punjab
+V: 1.1Heat of vaporization
+Water absorbs much heat as it changes from liquid to gas. Heat of vaporization is expressed as 
+calories absorbed per gram vaporized. The speciic heat of vaporiza tion of water is 574 Kcal/kg, 
+which plays an important role in the regulation of heat produced  by oxidation. It also provides 
+cooling efect to plants when water is transpired, or to animals when  water is perspired. Evaporation 
+of only two ml out of one liter of water, lowers the temperature of the remai ning 998 ml by 1°C.
+Ionization of water
+The water molecules ionize to form H+ and OH- ions: 
+                                                             H20          m           H+      +          OH-
+This reaction is reversible but an equilibrium is maintained.  At 25°C the concentration of each of 
+H+ and OH- ions in pure water is about 10-7 mole/litre. The H+ and OH- ions afect, and take part in 
+many of the reactions that occur in cells. 
+Protection
+Water is efective lubricant that provides protection against damage resu lting from friction. For 
+example, tears protect the surface of eye from the rubbing of eyelids, water also forms a luid 
+cushion around organs that helps to protect them from trauma.
+CARBOHYDRATES
+Carbohydrates occur abundantly in living organisms. They ar e found in all organisms and in almost 
+all parts of the cell. Cellulose of wood, cotton and paper, starches  present in cereals, root tubers, cane 
+sugar and milk sugar are all examples of carbohydrates. Carbohydrates play both structural and 
+functional roles. Simple carbohydrates are the main source of ener gy in cells. Some carbohydrates 
+are the main constituents of cell walls in plants and micro-orga nisms.
+The word carbohydrate literally means hydrated carbons. They a re composed of carbon, hydrogen 
+and oxygen and the ratio of hydrogen and oxygen is the same as i n water. Their general formula 
+is Cx (H20 )y where(x) is the whole number from three to many thousands whereas y may be the 
+same or diferent whole number. Chemically, carbohydrates are dein ed as polyhydroxy aldehydes 
+or kentones, or complex substances which on hydrolysis yield poly hydroxy aldehyde or ketone 
+subunits. (Hydrolysis involves the break down of large molecules into smaller ones utilizing water 
+molecules).82. Biological Molecules eLearn.Punjab
+V: 1.1The sources of carbohydrates are green plants. These are the pr imary products of photosynthesis. 
+Other compounds of plants are produced from carbohydrates by var ious chemical changes.
+Carbohydrates in cell combine with proteins and lipids and the resultant compounds are called 
+glycoproteins and glycolipids, respectively. Glycoproteins and g lycolipids have structural role in 
+the extracellular matrix of animals and bacterial cell wall.  Both these conjugated molecules are 
+components of biological membranes.
+Classiication of Carbohydrates
+Carbohydrates are also called ‘saccharides’ (derived from Greek w ord ‘sakcharon’ meaning sugar) and 
+are classiied into three groups: (i) Monosaccharides (ii) Olig osaccharides, and (iii) Polysaccharides.
+Monosaccharides:  These are simple sugars. They are sweet in taste, are easily solu ble in water, 
+and cannot be hydrolysed into simpler sugars. Chemically they  are either polyhydroxy aldehydes or 
+ketones. All carbon atoms in a monosaccharide except one, have a hyd roxyl group. The remaining 
+carbon atom is either a part of an aldehyde group or a keto group.  The sugar with aldehyde group 
+is called aldo-sugar; and with the keto group as keto-sugar. These are indicated in the case of two 
+trioses sketched below (Fig. 2.2).
+Fig. 2.2: Structure of glyceraldehyde, a 3C Sugar (C3H6O3). The aldehyde form is glyceraldehyde, whereas ketonic form is dihydroxyacetone.92. Biological Molecules eLearn.Punjab
+V: 1.1In nature monosaccharides with 3 to 7 carbon atoms are found. T hey are called trioses (3C), tetroses 
+(4C), pentoses (5C), hexoses (6C), and heptoses (7C). They h ave general formula (CH2O)n. where n is 
+the whole number from three to seven thousands.
+Two trioses mentioned above are, intermediates in respiration and photos ynthesis. Tetroses are 
+rare in nature and occur in some bacteria. Pentoses and hexoses ar e most common. From the 
+biological point of view the most important hexose is glucose. It is an  aldose sugar. Structure of 
+ribose and glucose is given below (Fig. 2.3).
+                                                                                                
+        
+              
+          
+                               
+                                                                Fig. 2.3 Stru cture of Ribose and Glucose.
+Most of the monosaccharides form a ring structure when in solution . For example ribose will form 
+a ive cornered ring known as ribofuranose, whereas glucose will form six cornered ring known as 
+glucopyranose ( Fig. 2.4).102. Biological Molecules eLearn.Punjab
+V: 1.1          
+                  Fig. 2.4 Ribose and glucose form ring shap ed structures.
+In free state, glucose is present in all fruits, being abundant in grapes, igs, and dates. Our blood 
+normally contains 0.08% glucose. In combined form, it is foun d in many disaccharides and 
+polysaccharides. Starch, cellulose and glycogen yield glucose on complete hydrolysis. Glucose is 
+naturally produced in green plants which take carbon dioxide from the air and water from the soil 
+to synthesize glucose.
+                                                                      light energy
+                                        6CO2    +    12H20       8      C6H12O6   +    6O2    +   6H2O
+                                                                      chlorophyll
+As indicated in the equation, energy is consumed in this process  which is provided by sunlight. This 
+is why the process is called Photosynthesis. It is noteworthy that f or the synthesis of 10g of glucose 
+717.6 Kcal of solar energy is used. This energy is stored in the glucose molecules as chemical energy 
+and becomes available in all organisms when it is oxidized in  the body.
+Oligosaccharides:  These are comparatively less sweet in taste, and less soluble in water . 
+On hydrolysis oligosaccharides yield from two to ten monosacchari des. The ones yielding two 
+monosaccharides are known as disaccharides, those yielding th ree are known as trisaccharides 
+and so on. The covalent bond between two monosaccharides is called glycosidic bond.112. Biological Molecules eLearn.Punjab
+V: 1.1Physiologically important disaccharides are maltose, sucrose, a nd lactose (see Fig. 2.5). Most familiar 
+disaccharide is sucrose (cane sugar) which on hydrolysis  yields glucose and fructose, both of which 
+are reducing sugars. Its molecular formula is C12H22O11. Its structural formula is given in Fig. 2.5. 
+  Fig. 2.5 A disaccharide. Note carefully the glycosidic l inkage between the two monosaccharides.
+Animation 2.5: Carbohydrates
+Source and Credit: answers122. Biological Molecules eLearn.Punjab
+V: 1.1Polysaccharides: Polysaccharides are the most complex and the most abundant carboh ydrates 
+in nature. They are usually branched and tasteless. They are f ormed by several monosaccharide 
+units linked by glycosidic bonds (Fig. 216). Polysaccha rides have high molecular weights and are 
+only sparingly soluble in water. Some biologically important polysaccharides are starch, glycogen, 
+cellulose, dextrins, agar, pectin, and chitin.
+Starch: It is found in fruits, grains, seeds, and tubers. It is the main source of carbohydrates 
+for animals. On hydrolysis, it yields glucose molecules. Sta rches are of two types, amylose and 
+amylopectin. Amylose starches have unbranched chains of  gluc ose and are soluble in hot water. 
+Amylopectin starches have branched chains and are insoluble i n hot or cold water. Starches give 
+blue colour with iodine.Animation 2.6: Structural Features of Polysaccharides
+Source and Credit: biologie.uni-hamburg
+Animation 2.7: Starch
+Source and Credit: dynamicscience132. Biological Molecules eLearn.Punjab
+V: 1.1                                      
+Fig 2.6.: Polysaccharides are polymers of monosaccharides.  
+  
+Glycogen:  It is also called animal starch. It is the chief form of car bohydrate stored in animal 
+body. It is found abundantly in liver and muscles, though fou nd in all animal cells. It is insoluble in 
+water, and gives red colour with iodine. It also yields glucose on  hydrolysis.
+Cellulose:  It is the most abundant carbohydrate in nature. Cotton is the pure for m of cellulose. 
+It is the main constituent of cell walls of plants and is high ly insoluble in water. On hydrolysis it 
+also yields glucose molecules. It is not digested in the human di gestive tract. In the herbivores, it 
+is digested because of micro-organisms (bacteria, yeasts, protozoa)  in their digestive tract. These 
+micro-organisms secrete an enzyme called cellulase for its diges tion. Cellulose gives no colour with 
+iodine.142. Biological Molecules eLearn.Punjab
+V: 1.1LIPIDS
+The lipids are a heterogenous group of compounds related to fatty a cids. They are insoluble in water 
+but soluble in organic solvents such as ether, alcohol, chloroform and benzene. Lipids include fats, 
+oils, waxes, cholesterol, and related compounds. 
+   
+Lipids as hydrophobic compounds, are components of cellular mem branes. Lipids are also used to 
+store energy. Because of higher proportion of C-H bonds and very low proportion of oxygen, lipids 
+store double the amount of energy as compared to the same amount of any carbohydrate. Some 
+lipids provide insulation against atmospheric heat and cold and  also act as water proof material. 
+Waxes, in the exoskeleton of insects, and cutin, an additional pr otective layer on the cuticle of 
+epidermis of some plant organs e.g. leaves, fruits, seeds etc., are some of the main examples.
+Lipids have been classiied as acylglycerols, waxes, phospholi pids, sphingolipids, glycolipids and 
+terpenoid lipids including carotenoids and steroids. The structu re of some of these lipids is given 
+below.
+Acylglycerols
+Acylglycerols are composed of glycerol and fatty acids (Fig. 2 .7). The most widely spread acyl glycerol 
+is triacyl glycerol, also called triglycerides or neutral lipi ds. Chemically, acylglycerols can be deined 
+as esters of fatty acids and alcohol. An ester is the compound prod uced as the result of a chemical 
+reaction of an alcohol with an acid and a water molecule is relea sed as shown below:
+                                           C2H5OH   +   HOOCCH3        8   C2H5OCOCH3   +   H20
+                                            alcohol        acetic acid             an ester
+As indicated by dotted squares, OH is released from alcohol and  H from an acid.
+H and OH combine and form a water molecule. Fatty acids are one of the most important components 
+of triglycerides.152. Biological Molecules eLearn.Punjab
+V: 1.1   Fig. 2.7: Triacylglycerol is composed of one glycerol and thre e fatty acid molecules.
+ 
+Animation 2.8: Triglyceride
+Source and Credit: i-biology162. Biological Molecules eLearn.Punjab
+V: 1.1Fatty acids contain even numbers ( 2-30) of carbon atoms in s traight chain attached with hydrogen 
+and having an acidic group COOH (carboxylic group). They  may contain no double bond (saturated 
+fatty acids) or up to 6 double bonds (unsaturated fatty acids). In animals the fatty acids are straight 
+chains (Fig. 2.8.), while in plants these may be branched or ringed. Solubility of fatty acids in organic 
+solvents and their melting points increase with increasing number of carbon atoms in chain. Palmitic 
+acid (C16) is much more soluble in organic solvent than butyric acid (C4). The melting point of palmitic 
+acid is 63.1°C as against -8°C for butyric acid.
+Fig. 2.8: Some fatty acids with carbon numbers 2-18 are show n. Oleic acid is an unsaturated fatty acid (note a doub le bond between 
+C9 and C10). Other fatty acids are saturated.
+Fats containing unsaturated fatty acids are usually liquid a t room temperature and are said to be 
+oils. Fats containing saturated fatty acids are solids. Anima l fats are solid at room temperature, 
+whereas most of the plant fats are liquids. Fats and oils are li ghter than water and have a speciic 
+gravity of about 0.8. They are not crystalline but some can be cry stallized under speciic conditions.
+Waxes
+Waxes are widespread as protective coatings on fruits and leaves. Some insects also secrete wax. 
+Chemically, waxes are mixtures of long chain alkanes (with od d number of carbons atoms ranging 
+from C25 to C35) and alcohols, ketones and esters of long chain fatty acids. Wa xes protect plants from 
+water loss and abrasive damage. They also provide water barrier f or insects, birds and animals 
+such as sheep.172. Biological Molecules eLearn.Punjab
+V: 1.1Phospholipids
+Phospholipids are derivatives of phosphatidic acid (Fig.2.9.) , which are composed of glycerol, 
+fatty acids and phosphoric acid. Nitrogenous bases such as c holine, ethanolamine and serine 
+are important components of phospholipids. They are widespread i n bacteria, animal and plant 
+cells and are frequently associated with membranes. Phosphatidy lcholine is one of the common 
+phospholipids.
+Fig. 2.9.: Phosphatidic acid is composed of glycerol, 2 fatty  acids (on Cl and C2), and a phosphoric acid on C3 of glycerol. In phospholipid 
+a nitrogenous base (e.g. choline) is attached to phosphoric a cid in phosphatidic acid.
+Terpenoids
+Terpenoids are a very large and important group of compounds whi ch are made up of simple 
+repeating units, isoprenoid units. This unit by condensation in diferent ways gives rise to compounds 
+such as rubber, carotenoids, steroids, terpenes etc. Lipids cons titute major source of energy, and 
+play an important role in the structure of membranes of the cell and  of organelles found in the cell. 
+They also provide insulation, mechanical protection and protection fr om water loss and abrasive 
+damage.
+PROTEINS
+Proteins are the most abundant organic compounds to be found in cel ls and comprise over 50% of 
+their total dry weight. They are present in all types of cells and  in all parts of the cell.182. Biological Molecules eLearn.Punjab
+V: 1.1Proteins perform many functions. They build many structures of the cell. All enzymes are proteins 
+and in this way they control the whole metabolism of the cell. As h ormones, proteins regulate 
+metabolic processes. Some proteins (e.g. hemoglobin) work as carrier s and transport speciic 
+substances such as oxygen, lipids, metal ions, etc. Some protein s called antibodies, defend the 
+body against pathogens. Blood clotting proteins prevent the loss of blood  from the body after an 
+injury. Movement of organs and organisms, and movement of chromosomes  during anaphase of 
+cell division, are caused by proteins.
+Proteins are polymers of amino acids, the compounds containing c arbon, nitrogen, oxygen and 
+hydrogen. The number of amino acids varies from a few to 3000 or  even more in diferent proteins.
+Amino acids:  About 170 types of amino acids have 
+been found to occur in cells and tissues. Of these, 
+about 25 are constituents of proteins. Most of the 
+proteins are however, made of 20 types
+of amino acids.
+All the amino acids have an amino group (-NH2) and a 
+carboxyl group (-COOH) attached to the same carbon 
+atom, also known as alpha carbon. They have the 
+general formula as:
+Animation 2.9: Amino Acid
+Source and Credit: wikipedia192. Biological Molecules eLearn.Punjab
+V: 1.1R may be a hydrogen atom as in glycine, or CH3 as in alanine, or any other group. So amino acids
+mainly difer due to the type or nature of R group.
+Amino acids are linked together to form polypeptides proteins . The amino group of one amino 
+acid may react with the carboxyl group of another releasing a mol ecule of water. For example, 
+glycine and alanine may combine as shown in Fig.2.10.
+The linkage between the hydroxyl group of carboxyl group of one a mino acid and the hydrogen of
+amino group of another amino acid release H20 and C - N link, to form a bond called peptide bond .
+The resultant compound glycylalanine, has two amino acid subu nits and is a dipeptide. A dipeptide
+has an amino group at one end and a carboxyl group at the other e nd of the molecule. So both 
+reactive parts are again available for further peptide bonds to produ ce tripeptides, tetrapeptides, 
+and pentapeptides etc, leading to polypeptide chains.
+ 
+                                                     Fig. 2.10 Peptide linkage - formation of peptide bond
+STRUCTURE OF PROTEINS
+Each protein has speciic properties which are determined by the nu mber and the speciic sequence 
+of amino acids in a molecule, and upon the shape which th e molecule assumes as the chain folds 
+into its inal, compact form. There are four levels of organization w hich are described below.202. Biological Molecules eLearn.Punjab
+V: 1.1Primary structure:  The primary structure comprises the number and sequence of amin o acids 
+in a protein molecule. F. Sanger was the irst scientist who determin ed the sequence of amino acids 
+in a protein molecule. After ten years of careful work, he conclud ed, that insulin is composed of 51 
+amino acids in two chains. 
+One of the chains had 21 amino acids and the other had 30 am ino acids and they were held together 
+by disulphide bridges. Haemoglobin is composed of four chain s, two alpha and two beta chains. 
+Each alpha chain contains 141 amino acids, while each beta  chain contains 146 amino acids (Fig. 
+2.11). The size of a protein molecule is determined by the type of am ino acids and the number of 
+amino acids comprising that particular protein molecule. 
+Fig. 2.11. Polypeptide chains in keratin (ibrous protein )  and in haemoglobin (globular protein) are held together to form res pective 
+functional proteins.
+Now we know that there are over 10,000 proteins in the human body whi ch are composed of 
+unique and speciic arrangements of 20 types of amino acids. T he sequence is determined by the 
+order of nucleotides in the DNA. The arrangement of amino acids i n a protein molecule is highly 
+speciic for its proper functioning. If any amino acid is not in its normal place, the protein fails to 
+carry on its normal function. The best example is the sickle cel l hemoglobin of human beings. In this 
+case only one amino acid in each beta chain out of the 574 amin o acids do not occupy the normal 
+place in the proteins (in fact this particular amino acid is replaced by some other amino acid), and 
+the hemoglobin fails to carry any or suicient oxygen, hence leadin g to death of the patient.212. Biological Molecules eLearn.Punjab
+V: 1.1Secondary  structure: The polypeptide chains in a protein molecule usually do not lie la t. They 
+usually coil into a helix, or into some other regular coniguration.  One of the common secondary 
+structures is the a-helix. It involves a spiral formation of the basic polypeptide c hain. The a-helix 
+is a very uniform geometric structure with 3.6 amino acids in ea ch turn of the helix. The helical 
+structure is kept by the formation of hydrogen bonds among amino ac id molecules in successive 
+turns of the spiral. b-pleated sheet is formed by folding back of the polypeptide.
+Tertiary structure:  Usually a polypeptide chain bends and folds upon itself form ing a globular 
+shape. This is the proteins’ tertiary conformation. It is maintai ned by three types of bonds, namely 
+ionic, hydrogen, and disulide (-S-S-). For example, in aqu eous environment the most stable tertiary 
+conformation is that in which hydrophobic amino acids are bur ied inside while the hydrophilic 
+amino acids are on the surface of the molecule.
+Quaternary structure:  In many highly complex proteins, polypeptide tertiary chains are 
+aggregated and held together by hydrophobic interactions, hydrogen a nd ionic bonds. This speciic 
+arrangement is the quaternary structure. Haemoglobin, the oxygen ca rrying protein of red blood 
+cells, exhibits such a structure.
+Fig 2.12 Three levels of protein structures compared with a t elephone wire222. Biological Molecules eLearn.Punjab
+V: 1.1Classiication of proteins
+Because of the complexity of structure and diversity in their function , it is very diicult to classify 
+proteins in a single well deined fashion. However, according to thei r structure, proteins are 
+classiied as follows:
+Fibrous proteins:  They consist of molecules having one or more polypeptide chains in the form 
+of ibrils. Secondary structure is most important in them. They ar e insoluble in aqueous media. They 
+are non-crystalline and are elastic in nature. They perform stru ctural roles in cells and organisms. 
+Examples are silk iber (from silk worm, and spiders’ web) myosin (in muscle cells), ibrin (of blood 
+clot), and keratin (of nails and hair).
+Globular proteins:  These are spherical or ellipsoidal due to multiple folding of pol ypeptide 
+chains. Tertiary structure is most important in them. They are sol uble in aqueous media such as salt 
+solution, solution of acids or bases, or aqueous alcohol. They ca n be crystallized. They disorganize 
+with changes in the physical and physiological environment. Ex amples are enzymes, antibodies, 
+hormones and hemoglobin.
+NUCLEIC ACIDS (DNA AND RNA)
+Nucleic acids were irst isolated in 1869 by F. Miescher from the nuclei of pus cells. Due to their 
+isolation from nuclei and their acidic nature, they were named n ucleic acids. Nucleic acids are of 
+two types, deoxyribonucleic acid or DNA and ribonucleic acid or  RNA. DNA occurs in chromosomes, 
+in the nuclei of the cells and in much lesser amounts in mitoc hondria and chloroplasts. RNA is 
+present in the nucleolus, in the ribosomes, in the cytosol and in smaller amounts in other parts of 
+the cell.232. Biological Molecules eLearn.Punjab
+V: 1.1
+                                   Fig. 2.13. Structu ral formula of ATP (a nucleotide) 
+Nucleic acids are complex substances. They are polymers of uni ts called nucleotides. DNA is made 
+up of deoxyribonucleotides, while RNA is composed of ribonucleotides.  Each nucleotide is made 
+of three subunits, a 5-carbon monosaccharide (a pentose sugar), a nitrogen containing base, and 
+a phosphoric acid. Pentose sugar in ribonucleotide is ribos e, while in deoxyribonucleotide it is 
+deoxyribose. Nitrogenous bases are of two types, single-ringed pyr imidines, and double-ringed 
+Purines. Pyrimidines are cytosine (abbreviated as C), thymin e (abbreviated as T), and uracil 
+(abbreviated as U). Purines are adenine (abbreviated as A) and guanine (abbreviated as G). Phosphoric 
+acid (H3PO4  ) has the ability to develop ester linkage with OH group of Pentose sug ar. In a typical 
+nucleotide the nitrogenous base is attached to position 1 of pentose sugar,  while phosphoric acid 
+is attached to carbon at position 5 of pentose sugar (Fig 2.13 ).242. Biological Molecules eLearn.Punjab
+V: 1.1                                                                     
+              
+                                               
+                                                                            Fig. 2.14 : Components of ATP, a nuc leotide.
+The compound formed by combination of a base and a pentose sugar is called nucleoside. A 
+nucleoside and a phosphoric acid combine to form a nucleotide. E ach nucleotide of RNA contains 
+ribose sugar, whereas sugar in each nucleotide of DNA is deoxyri bose (one oxygen removed from 
+OH group at carbon number 2). ATP is also an important nuc leotide used as an energy currency by 
+the cell (Fig.2.14.) 
+DNA (Deoxyribonucleic acid )
+DNA is the heredity material. It controls the properties and potential ac tivities of a cell. It is made of four 
+kinds of nucleotides namely d-adenosine monophosphate (d-AMP),  d -guanosine monophosphate 
+(d-GMP), d-cytidine monophosphate (d-CMP), and d-thymidine mon ophosphate (d-TMP). These 
+nucleotides are united with one another through phosphodiester linkages  in a speciic sequence to 
+form long chains known as polynucleotide chains (Fig.2.15).  Two nucleotides join together to form 
+dinucleotide whereas three join together to form trinucleotide. Nicotinamid e adenine dinucleotide, 
+abbreviated as NAD, is an example of dinucleotide. It is an impor tant coenzyme in several oxidation-
+reduction reactions in the cell.252. Biological Molecules eLearn.Punjab
+V: 1.1Animation 2.10:  DNA
+Source and Credit: Mysciencebook262. Biological Molecules eLearn.Punjab
+V: 1.1Nitrogenous
+baseNucleosides
+(ribose +
+nitrogenous
+base)Nucleotides (ribose + 
+nitrogenous 
+base+phosphoric  
+acid)Nucleosides
+(deoxyribose +
+nitrogenous  
+base)Nucleotides (deoxyribose 
++ nitrogenous base + 
+phosphoric  acid)
+Adenine
+Uracil
+Guanine
+Cytosine
+ThymineAdenosine
+Uridine
+Guanosine
+CytidineAMP, ADP, ATP
+UMP, UDP, UTP
+GMP, GDP, GTP
+CMP, CDP, CTPd-Adenosine
+d-Guanosine
+d-Cytidine
+d-ThymidinedAMP, dADP, dATP
+dGMP, dGDP. dGTP
+dCMP, dCDP, dCTP
+dTMP, dTDP. dTTP
+In 1951 Erwin Chargaf provided data about the ratios of diferent bases present in this molecule. 
+This data suggested that adenine and thymine are equal in ratio and so are guanine and cytosine 
+as shown below in Table 2.2.
+     Table 2.2: Relative amounts of bases in DNA from various  organisms (on percentage basis).
+Source of DNA Adenine Guanine Thymine Cytosine
+Man 30.9 19.9 29.4 19.8
+Sheep 29.3 21.4 28.3 21.0
+Wheat 27.3 22.7 27.1 22.8
+Yeast 31.3 18.7 32.9 17.1
+Maurice Wilkins and Rosalind Franklin used the technique of X-ray difraction to determine the 
+structure of DNA. At the same time James D. Watson and Francis Cri ck built the scale model of DNA. 
+All the data thus obtained strongly suggested that DNA is made of two polynucleotide chains or 
+strands. The two strands are coiled round each other in the form of a double helix. Coiling of two 
+strands is opposite i.e. they are coiled antiparallel to each other. The two chains are held together 
+by weak bonds (hydrogen bonds). Adenine (A) is always oppos ite to thymine (T), and guanine (G) 
+and cytosine (C) are opposite to each other. There are two hydrogen bonds  between A and T pair, 
+and three hydrogen bonds between G and C pair. The two strands are wound around each other 
+so that there are 10 base pairs in each turn of about 34 Angstrom  units (one Angstrom = one 
+100-millionth of a centimeter) (Fig.2.15).   List of ribonucleotides and deoxyribonucleotides            
+RNA                                                    DNA272. Biological Molecules eLearn.Punjab
+V: 1.1 
+Fig. 2.15 Model of DNA. Double helical structure of DNA proposed b y Watson & Crick (b). A hypothetical sequence of nucleotid es (on 
+the left side) shows hydrogen bonding between the complemen tary bases. Note a double boud between A and T, and trip le bond 
+between C and G (a).
+ 
+The amount of DNA is ixed for a particular species, as it depend s upon the number of chromosomes. 
+The amount of DNA in germ cells (sperms and ova) is one half to th at of somatic cells (Table 2.3).282. Biological Molecules eLearn.Punjab
+V: 1.1Table 2.3 Amount of DNA/nucleus in diferent types of cells of a chicken (bird) and a carp 
+(ish).
+Type of cell                 Amount of DNA/nucleus(in  picogram)
+               Chicken                                                   Crap
+Red Blood Cells                    2.3                          3.3
+Liver cells                  2.4                          3.3
+Kidney cells                  2.4                          3.3
+Sperm cells                  1.3                          1.6
+RNA (Ribonucleic Acid)
+Like DNA, RNA is a polymer of ribonucleotides. The RNA molecules  occur as single strand, which 
+may be folded back on itself, to give double helical characteristic s. The nitrogenous bases form the 
+usual complementary pairing viz. cytosine (C) with guanine ( G) and uracil (U) with adenine (A). RNA 
+is synthesized by DNA in a process known as  transcription.
+Types of RNA
+Three main types of RNAs — messenger RNA (abbreviated as mRNA) , transfer RNA (abbreviated as 
+tRNA), and ribosomal RNA (abbreviated as rRNA) are recognized . All these three types of RNAs are 
+synthesized from DNA in the nucleus and then are moved out in the c ytoplasm to perform their 
+speciic functions.
+Messenger RNA (mRNA) : As the name indicates it takes the genetic message from the nucleus 
+to the ribosomes in the cytoplasm to form particular proteins. Messenger  RNA carries the genetic 
+information from DNA to ribosomes, where amino acids are arranged according to the information 
+in mRNA to form speciic protein molecule. This type of RNA consis ts of a single strand of variable 
+length. Its length depends upon the size of the gene as well as th e protein for which it is taking the 
+message. For example, for a protein molecule of 1,000 amino acids , mRNA will have the length of 
+3,000 nucleotides. mRNA is about 3 to 4% of the total RNA in the cel l.Haemophilus inluenzae is the irst microbe to have the genome completely sequenced and this was 
+published on July 28, 1995.All the information for the structure and functioning of a cell is  stored in DNA. For example in the 
+chromosome of the bacterium E.coli, each of the paired strand of DN A contains about 5 million 
+bases arranged in a particular linear order, the information in those bases is divided into units of 
+several hundred bases each. Each unit is a gene, a unit of bi ological inheritance. The E.coli genome 
+consists of 4,639,221 base pairs, which code for at least 428 8 proteins.292. Biological Molecules eLearn.Punjab
+V: 1.1Transfer RNA (tRNA): It comprises about 10 to 20% of the cellular RNA. Transfer RNA molecules 
+are small, each with a chain length of 75 to 90 nucleotides. It transfers amino acid molecules to the 
+site where peptide chains are being synthesized. There is one specii c tRNA for each amino acid. 
+So the cell will have at least 20 kinds of tRNA molecules. Trans fer RNA picks up amino acids and 
+transfers them to ribosomes, where they are linked to each other to form pr oteins.
+Ribosomal RNA (rRNA):  It is the major portion of RNA in the cell, and may be up to 80%  of the 
+total RNA. It is strongly associated with the ribosomal protein where 40 to 50% of it is present. It 
+acts as a machinery for the synthesis of proteins. On the surf ace of the ribosome the mRNA and 
+tRNA molecules interact to translate the information from genes into a sp eciic protein.
+Animation 2.11: RNA
+Source and Credit: Shapiro Group302. Biological Molecules eLearn.Punjab
+V: 1.1Animation 2.12: RNA
+Source and Credit: Shapiro Group312. Biological Molecules eLearn.Punjab
+V: 1.1CONJUGATED MOLECULES
+Two diferent molecules, belonging to diferent categories, usually comb ine together to form 
+conjugated molecules. Carbohydrates may combine with proteins to for m glycoprotein or with lipids 
+to form glycolipids. Most of the cellullar secretions are glycoprotei n in nature. Both glycoproteins 
+and glycolipids are integral structural components of plasma m embranes. Lipoprotein formed by 
+combination of lipids and proteins are basic structural framew ork of all types of membranes in the 
+cells. 
+Nucleic acids have special ainity for basic proteins. They ar e combined together to form 
+nucleoproteins. The nucleohistones are present in chromosomes. These conj ugated proteins 
+are not only of structural, but also are of functional signiican ce. They play an important role in 
+regulation of gene expression.
+Animation 2.13: Conjugated Molecules
+source and Credit: fractalield322. Biological Molecules eLearn.Punjab
+V: 1.1                                                                           
+1 .    Fill in the blanks.
+         i.     The sum of all the chemical reactions takin g place within a cell is called
+                 _______________________.
+         ii.     ______________________ is the basic element of organic compounds.
+         iii.    All the amino acids have an amino group a nd a carboxyl group attached to the same
+                 _______________________ atom.
+         iv.    ________________________ is the most abu ndant carbohydrate in nature.
+         V.    Adenine and guanine are double ringed bases and are called _______________________.
+2 .    Write whether the statement is ‘true’ or ‘fals e’ and write the correct statement if it is
+        false.
+         i.      A small proportion of water molecules are in  ionized form
+         ii.     The covalent bond among two monosaccharides is  called a peptide bond.
+         iii.    Glycogen is also called plant starch.
+         iv.    Adenine is always opposite to guanine, cytosin e and thymine are opposite to each other 
+                 in DNA molecule.
+         V.     DNA molecule is made of two polynucleotide stran ds
+3.        Short questions.
+           i.          Name the carbohydrates suitable as f ood for man.
+           ii.         Why are fats considered as high en ergy compounds?
+           iii.        What is the function of mRNA?
+           iv.        What is the general formula for ami no acids?
+           v.         What is the percentage of water in brain  cells of man?
+4.        Extensive questions.
+           i.          Describe the importance of water for li fe.
+           ii.         Describe what do you know about polysa ccharides.
+           iii.        Write a short note on amino acids.                                                                            Exercise

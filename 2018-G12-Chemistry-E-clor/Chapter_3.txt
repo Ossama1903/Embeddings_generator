@@ -1,0 +1,420 @@
+CHAPTER
+3GROUP IIIA AND
+GROUP IVA ELEMENTS
+Animation 3.1 : Periodic Table
+Source and Credit: eLearn.Punjab2
+3. Group IIIA and Group IVA Elements eLearn.PunjabProperties B Al Ga In Tl
+Atomic number 5 13 31 49 81
+Electronic configurations [He]2s22p1[Ne]3s23p1[Ar] 3d104s24p1[Kr]4d105s25p1[Xe]4f14 5d106s26p1
+Ionization energy (kJ/ mol) 801 577 579 558 589
+Electron affinity (kJ/mol) -27 -45 -29 -29 -30
+Electronagetivity  2.0 1.5 1.6 1.7 1.8
+Atomic radius (pm)  80 125 126 144 148
+Ionic radius of 1+ion (pm) 20 52 60 81 95
+Melting points (°C) 2300 660 30 157 304
+Boiling points (°C)  2550 2467 2403 2080 1457
+Density (g/cm3)  2.33 2.7 5.93 7.3  11.85The Group IIIA of the Periodic Table comprises the elements boron, 
+aluminium, gallium, indium and thallium.Electronic configurations and some physical properties of group IIIA elements are shown in Table 3.1. IN THIS CHAPTER YOU WILL LEARN
+Table 3.1 Electronic Configurations and Physical Properties of Group 
+IIIA Elements1. The names, electronic configurations and occurrence of IIIA and IVA group elements.2. The peculiar properties of boron and carbon in their respective groups.3. The preparation and properties of borax and orthoboric acid.4. The reactions of aluminium.5. Structures and properties of oxides of carbon and silicon, silicates, silicones and their uses.6. The uses of silicon and germanium in semi-conductor industries and lead in paints.
+3.1 GROUP IIIA ELEMENTS3
+3. Group IIIA and Group IVA Elements eLearn.PunjabThe small size and high nuclear charge make boron non-metallic 
+while all the other elements of this group are metals. The abrupt in-crease in metallic character from B to Al is associated with the increased size of aluminium atom. The increase in the atomic size is not regu-lar in this group. This is due to the presence of d electrons in heavi-er members which have poor shielding effect than s and p electrons.
+Boron is not an abundant element. It occurs in traces in most soils and has been found to be essential in very small amounts for the proper growth of many plants.Boron is always found in nature combined with oxygen, usually as oxyborate ions. Boron occurs principally as salts of various polyboric acids.
+3.1.1 Occurrence (Boron and Aluminium)
+Name of Minerals
+of Boron Chemical Formula
+Borax or Tincal Na2B4O7.10H2O
+Colemanite Ca2B6O11.5H2O
+Orthoboric Acid H3BO3Table 3.2 Common Minerals of Boron 
+Aluminium is the third most abundant element in the 
+earth’s crust (after oxygen and silicon)4
+3. Group IIIA and Group IVA Elements eLearn.PunjabThe other elements of group IIIA gallium, indium and thallium are relatively 
+rare and are obtained as by-products during the processing of other metals.It occurs primarily as alumino-silicate minerals found in the rocks of the outer 
+portion of the earth.Name of Minerals of
+AluminiumChemical Formula
+FeldsparKAlSi3O8 or K2O.
+Al2O3.6SiO2
+Mica (Muscovite) KH2Al3(SiO4)3
+Kaolin (Clay) H2Al2(SiO4)2.H2O or
+Al2O3 .2SiO2.2H2O
+Corundum Al2O3 
+Emerald AIF2SiO4
+Gibbsite (Al2O3.3H2O or AlO (OH)3) 
+Bauxite Al2O3.2H2O
+CryoliteNa3AIF6 
+Diaspore(Al2O3.H2O or AlO (OH)Table 3.3 Common Minerals of Aluminium5
+3. Group IIIA and Group IVA Elements eLearn.PunjabBoron is the first member of the Group IIIA, it shows many 
+dissimilarities with the members of its own group.The difference in the properties of boron and those of the other members of the series is mainly due to the large difference in their sizes and ionization energies.
+1. Boron is the only elementinGroupIIIAwhichisnon-metallic in behaviour
+2. It is the only element with less than four electrons in the outermost shell which is not a metal.3.1.2 Peculiar Behaviour of Boron
+3. Boron always uses all the three of its valence electrons for bonding purposes and its common oxidation states are + 3 and -3.4. One of the outstanding features of the chemistry of boron is its ability to form molecular addition compounds.5. Boron does not form ionic compounds with sulphate, nitrate or other anions because boron does not from a stable cation.
+3.2 COMPOUNDS OF BORON
+3.2.1 Borax (Sodium Tetraborate Na2B4O7.lOH2O)
+Borax is the sodium salt of tetraboric acid. It is the most important of all borates.6
+3. Group IIIA and Group IVA Elements eLearn.PunjabBorax occurs as a natural deposit called tincal in the dried up lakes of Tibet
+ and California.Occurrence:
+Manufacture:
+1. Formally borax was manufactured by treating a hot solution of boric acid with 
+the proper amount of soda ash.
+2. Now-a-days borax is almost exclusively obtained from calcium borate. Finely powdered colemanite is boiled with Na
+2CO3 solution, when CaCO3  
+precipitates out and a mixture of borax and sodium metaborate is formed.
+The clear solution from the top is taken off and is then allowed to crystallize, when crystals of borax separate out. To get more borax, CO
+2 is blown through the mother-liquor, the sodium metaborate is 
+decomposed into borax, which separates out in the form of fine crystals.22
+3 3 2 3 24 7 2 2
+Boric acid                                                            Borax(s) (s) (s) ( ) (g) 4H BO  + Na CO       Na B O  + 6H O  + CO a b  → + l
+261 1 2 3 3 247 2
+Colemanite(s) (s) (s) (s) (s) Ca B O  + 2Na CO         2CaCO  + Na B O  + 2NaBO  →
+2 2 2 3 247
+Sodium metaborate                                                                            Borax(s) (g) (s) (s)      4NaBO  + CO         Na CO  + Na B O  →7
+3. Group IIIA and Group IVA Elements eLearn.Punjab3.  Borax may also be obtained from tincal (Na2B4O7.10H2O) by treating tincal 
+with water and subsequently evaporating the clear solution, when crystals 
+of borax separate out.
+Properties:
+1. Borax is a white, crystalline solid. It is sparingly soluble in cold water 
+but is more soluble in hot water: 100 grams of water dissolve 3 grams of decahydrate at 10°C and 99.3 grams at 100°C. If a saturated solution be allowed to crystallize above 62°C, octahedral crystals of the pentahydrate, Na
+2B4O7.5H2Oseparate out, if the temperature is below 62°C, the decahydrate 
+is formed. Its aqueous solution is alkaline in nature due to hydrolysis. 
+The hydrolysis is prevented in the presence of glycerine.
+2. When heated, borax loses water and swells up into a white porous mass due to the expulsion of water: on further heating it melts into a clear transparent glass, which dissolves many metallic oxides forming coloured beads. This reaction forms the basis of borax bead test.247 2 3 3
+                                                                        Strong a l kali                    Weak acid(s) ( ) (aq) (s) Na B O  + 7H O       2NaOH      +    4H BO  → l
+247 2 247 2 23
+                                                               Glassy mass(s) (s) (s) (s) Na B O .10H O     Na B O  + 2NaBO  + B O∆ →
+3. Its aqueous solution reacts with HCl or H2SO4 to form boric acid:
+247 2 3 3
+247 2 4    Borax                                                                                                    Boric acid(s) (aq) (aq) (s)
+(s) (aq)NA B O  + 2HCI  + 5H O   2NaCl  + 4H BO
+NA B O  + H SO  + 5 →
+2 24 3 3( ) (s) (s) H O      Na SO  + 4H BO  → l8
+3. Group IIIA and Group IVA Elements eLearn.PunjabSo, a strong alkali (NaOH) is formed which is highly ionized. On the other hand, 
+boric acid (H3BO3) is ionized to a little extent, because it is a weak acid. Hence, 
+solution of borax as a whole is alkaliine in nature.5. Borax when dissolved in water ionizes as:
+Hydrolysis of B4O7-2 occurs as follows:4. When borax is heated with ammonium chloride, boron nitride is produced:
+Prepare a loop at the end of a platinum wire. Heat the wire and take a little 
+powdered borax on the hot loop. Heat again, borax first swells up and then melts into colourless, glasslike bead on the loop. Now put a few grains of the substance, under examination, on the beads and re-heat it first in the oxidizing flame and then in the reducing flame.6. Borax Bead Test
+Chemistry of the Borax-bead Test:
+Borax, when fused, is decomposed into sodium metaborate and boric anhydride.247 4 23 2(s) (aq) (s) (s) (s) ( ) Na B O  + 2NH Cl   2NaCl  + 2BN  + B O  + 4H O  → l
+2
+247 47(s) (s) (s) Na B O       2Na  + B O+- →
+2
+47 2 3 3(s) ( ) (s) ( ) B O  + 7H O       4H BO  + 2OH-- → ll
+247 2 23(s) (s) (s) Na B O         2NaBO  B O  → +9
+3. Group IIIA and Group IVA Elements eLearn.PunjabUses of Borax:
+1. It is used to prepare borate glass, which is heat resistant.
+2. It is used in softening of water.3. It is employed in borax bead test, for the detection of metallic cations.4. It is used in metallurgical operations.5. It is used as a flux in welding and in metallurgy.6. It is employed in making washing powders.7. It is used in leather industry for tanning and dyeing.
+3.2.2 Boric Acids
+There are four important boric acids.Out of these orthoboric acid is the most important and the stable one. The remaining acids are stable in solid state and change into orthoboric acid in solution:(i) Orthoboric Acid, H
+3BO3
+(ii) Metaboric Acid, HBO2
+(iii) Tetraboric Acid, H2B4O7
+(iv) Pyroboric Acid, H6B4O98. It is used in cosmetics, soaps, textiles, paints, medicine, match industry and as a preservative.2 3 22(s) + (s) (s) CuO B O           Cu (BO )  →The metallic oxide formed from the substance, under examination, combines with B
+2O3 giving the coloured metallic borates. With cupric 
+oxide, the beads are coloured blue in the oxidizing flame because cupric borates are blue in colour.10
+3. Group IIIA and Group IVA Elements eLearn.PunjabOrthoboric Acid or Boric acid (H3BO3)
+It is a white crystalline chemical substance (triclinic), sparingly soluble in
+cold water (2.6% at 40 0C) but dissolves readily in hot water (37% at 107°C). 
+This temperature variation in solubility forms the basis for its separation and purification.
+On commercial scale, boric acid is prepared from a natural calcium borate called colemanite (Ca
+2B6O11. 5H2O) by suspending it in boiling water 
+while, sulphur dioxide is passed through it. Boric acid crystallizes out from the solution while, the other product CaSO
+3 remains in the solution.1. From ColemanitePreparation of Boric acid on Commercial Scale
+From Borax:
+A hot concentrated solution of borax is treated with a calculated quantity of conc. H
+2SO4. On cooling, crystals of boric acid formed separate out.2 2 33
+247 2 3 3    Metaboric acid                                       Boric acid
+      Tetraboric acid                                      (s) ( ) (s)
+(s) ( ) (s)     HBO  + H O      H BO
+     H B O  + 5H O  4H BO →
+ →l
+l
+649 2 3 3 Boric acid
+     Pyroboric acid                                           Boric acid(s) ( ) (s)      H B O  + 3H O   4H BO  → l
+2 6 11 2 2 2 3 3 3
+Colemanite(s) (g) ( ) (aq) (s) Ca B O .5H O  + 2SO  + 4H O     2CaSO  + 6H BO  → l11
+3. Group IIIA and Group IVA Elements eLearn.PunjabProperties of Boric Acid
+1. Boric acid is a white lustrous crystalline solid having a soft soapy touch, 
+very slightly   soluble in cold water but fairly soluble in hot.2. It is volatile in steam.3. It reacts with ethyl alcohol forming ethyl borate.
+4. When heated strongly, it swells to frothy mass losing water molecules. It is first converted into metaboric acid, thep to tetra boric acid and finally to boric anhydride.
+5. It is a very weak acid and ionizes to a very limited extent mainly as a 
+monobasic acid.
+6. Its solution has no effect on methyl orange, although it turns blue litmus 
+red.7. It is partially neutralised by caustic soda to give borax.2 4 7 24 2 24 3 3
+Borax                                                                                                                    Boric acid(s) (aq) ( ) (s) (s) Na B O  + H SO  + 5H O     Na SO  + 4H BO  → l
+3 3 25 25 3 3 2( s ) () () () H BO  + 3C H OH      (C H ) BO  + 3H O  → l ll
+o
+o100  C
+33 2 2
+140  C
+247 2                                                 Metaboric Acid
+                                                   Tetraboric a(s) (s) ( )
+(s) (s) ( )H BO   HBO  + H O
+4HBO    H B O  + H O  →
+  →l
+l
+Red
+hot
+247 23 2cid
+                                                   Boric anhydride(s) (s) ( ) HBO   2 BO  +  HO   → l
+33 2 4(s) ( ) (s) H BO  + H O    [B(OH) ]  + H-+ → l12
+3. Group IIIA and Group IVA Elements eLearn.Punjab8. When boric acid is neutralized by soda ash (Na2CO3), borax is obtained.
+9. Boric acid being a weak acid, cannot be titrated with alkalies in the usual 
+manner. In the presence of glycerol, however, it can be titrated against a standard alkali using phenolphthalein as an indicator.
+Uses of Boric Acid
+1. Boric acid is used in medicines as an antiseptic, e.g. dusting powder, boric ointment and boric solution is used as an eye-wash.2. It is used in pottery as a glaze because borate glazes are more fusible than silicate glazes and possess a higher coefficient of expansion.3. It is also used in candle industry for stiffening of wicks.
+When a piece of aluminium sheet is exposed to moist air it acquires a thin, continuous coating of aluminium oxide, which prevents further attack on the metal by atmospheric oxygen and water under normal conditions. Because of this aluminium sheets are said to be corrosion-free. However, if the aluminium powder is heated to 800°C and above, the metal will react with air to form aluminium oxide, Al
+2O3, and aluminium nitride, AIN. The 
+reaction is accompanied by the evolution of heat and intense white light. This property of aluminium is made use of in flash light photography.3.3 REACTIONS OF ALUMINIUM
+1. Reaction with Air3 3 247 2(aq) (aq) (aq) ( ) 4H BO  + 2NaOH        Na B O  + 7H O  → l
+3 3 2 3 247 2 2
+                                                                                       Borax(aq) (aq) (s) ( ) (g) 4H BO  + Na CO         Na B O  + 6H O  + CO  → l13
+3. Group IIIA and Group IVA Elements eLearn.PunjabBecause of its ability to combine with both oxygen and 
+nitrogen, the metal is often used to remove air bubbles from molten metals. Salt solutions corrode aluminium badly so aluminium and aluminium alloys are not suitable for marine use.
+Heated aluminium combines with the halogens, sulphur, nitrogen, phosphorus and carbon, accompanied by the evolution of heat.2. Reaction with Non-Metals
+Aluminium on heating with hydrogen forms aluminium hydride.
+Aluminium is amphoteric. It dissolves in both acids and bases with the liberation of hydrogen gas. Aluminium reacts slowly with dilute acid and more rapidly with concentrated hydrochloric acid to displace hydrogen.3. Reaction with Acids and Alkalies
+ (aq)  (g) (s) (aq) 322Al  + 6HCl       2AlCl  + 3H  →2 23
+2(s) (g) (s)
+(s) (g) (s )4Al  + 3O             2Al O
+2Al  + N              2AlN →
+ →
+(g )  (S) (s) 232Al  + 3Cl    2AlCl  →
+23(s) (g) (s) 2Al  + 3H              2AlH  →14
+3. Group IIIA and Group IVA Elements eLearn.PunjabAluminium does not react with dilute sulphuric acid. However, it is oxidized 
+by hot concentrated sulphuric acid to liberate sulphur dioxide gas.
+Aluminium does not react with nitric acid at any concentration, probably because of the formation of protective layer of aluminium oxide. The acid is said to render the aluminium passive. Nitric acid is, therefore, frequently transported in aluminium containers.Aluminium dissolves in both sodium and potassium hydroxides to form a soluble aluminate, with the evolution of hydrogen.
+ (aq)  (g) (s) (aq) 2 ( ) 422Al  + 2NaOH  + 6H O     2NaAl(OH)  + 3H  →
+USES
+ 6.   It is non-toxic and can be used for making food and brewing equipments and in packaging. 7.   Aluminium readily forms alloys with other metals like copper, magnesium, nickel and zinc.1.
+  A
+luminium is very-light (nearly three times less dense than iron) but posseses 
+high tensile strength. These properties account for its extensive use in the transport industries, in the construction of aircrafts, ships and cars.
+2.
+  I
+t is an excellent conductor of both electricity and heat. Thus, it is used as 
+heat exchanger in chemical, oil and other industries. Heavy duty electrical cables are made of aluminium metal.
+3.
+  A
+luminium is an excellent reflector of radiant energy. For this reason, it is 
+commonly used to insulate buildings. Aluminium foil is also used to jam radar.
+4.
+  I
+t is non-magnetic and is thus used in navigational equipment.
+5.
+  I
+t is a good reducing agent and can thus be used for this purpose in the 
+chemical and steel industries.
+ 8.   At homes, aluminium is found in the form of cooking utensils, window frames and kitchen foil. 9.   Aluminium is used for making petrol and milk storage tanks because it reflects heat and prevents them of being over heated in the sun.4 2 2 2 43 2(s) (aq) (aq) ( ) (g) 2Al  + 6H SO      Al (SO )  + 6H O  + 3SO  → 15
+3. Group IIIA and Group IVA Elements eLearn.Punjab3.4 GROUP IVA ELEMENTS
+Group IVA of the periodic table comprises elements, carbon, silicon,
+ germanium, tin and lead.
+Properties C Si Ge Sn Pb
+Atomic number 6 14 32 50 82
+Electronic 
+configurations[He]2s22p2[Ne]3s23p2[Ar]3d104s24p2[Kr]4d105s25p2[Xe]4f145d106s26p2
+Ionization energy (kj/ mol) 1086 736 760 707 715
+Electron affinity (kj/mol) -122.5 -120 -116 -121  -101
+Electronagetivity   2.5 1.8 1.8 1.8  1.8
+Atomic radius (pm) 77 117 122 140 154 
+Ionic radius of 2+ion (pm) 60 71 73 93 121
+Melting points (°C)3570 1410 937 232  328
+Boiling points (°C) sublimes 2355 2830 2270 1750
+Density gm/cm
+3 
+at (20°C) 2.33 2.7 5.93 7.3  11.85Table 3.4 Electronic Configurations and Physical Properties of Group IVA 
+Elements
+There is a marked change of properties from carbon to lead.This  gradation  
+is of such nature, however, that there are very few similarities between the extreme members.Thus carbon and lead differ very considerably; far more, for example, 
+than do lithium and caesium in group IA. The electronic configurations of IVA group elements along with their physical properties are given in Table 3.4.16
+3. Group IIIA and Group IVA Elements eLearn.Punjab
+1. C arbon and silicon both form acidic oxides, whereas the oxides of germanium, 
+tin and lead are amphoteric in nature.
+2.
+ B
+oth carbon and silicon form covalent bonds. Their oxides are acidic and both 
+form hydrides and chlorides.
+The elements of group IVA are characterized by a 
+set of four valence electrons, which form two pairs.In the first three elements of IVA group, carbon, silicon and germanium, all the four outermost electrons are used as valency electrons, while in tin and lead either all four (stannic and plumbic compounds) or only one of the pairs of electrons (stannous and plumbous compound) is used for bonding.
+The increase in electropositive character from carbon through silicon, 
+tin, and lead is pronounced. This trend is shown also by the. increase in the metallic character of the elements with increased atomic mass.The pair of valence electrons that do not readily take part in chemical 
+combination is termed as inert pair. As in other groups, the inert pair effect is most marked in the element of highest atomic mass, namely lead. Carbon and silicon are the only non-metals in Group IVA. Carbon has the peculiar property of forming long carbon chains, silicon formslong chains of alternating silicon and oxygen atoms.17
+3. Group IIIA and Group IVA Elements eLearn.Punjab1. All the elements of this group show a valency of four.
+2. All of them form hydrides, MH4.
+3. They form tetrachlorides, MCI4.
+4. They also form the dioxides, MO2The Following are the Common Properties of Group IVA Elements:
+Carbon occurs naturally in the two states. One is crystallline (graphite, diamond) form and the other is amourphous (coal, charcoal) form.3.4.1 Occurrence of Carbon
+Minerals
+of Carbon Chemical 
+Formula
+Limestone 
+(calcite)CaCO3
+Dolomite MgCO3.CaCO3
+Magnesite Mg CO3
+3.4.2 Occurrence of Silicon
+Silicon is very abundant, about 25% of the mass of the Earth’s crust being due to this element. Silicon, unlike carbon, is not found in free state. 
+Minerals of Silicon Chemical Formula
+Analcite (a zeolite)  NaAl(SiO3)2.H2O
+Asbestos CaMg3(SiO3)4
+Kaolin (pottery clay) H2Al(SiO4)2.H2O
+Zircon ZrSiO4
+Talc (or soapstone) H2Mg3 (SiO3)4
+Silicon is found as a major constituent of rocks either in the form of silica or silicates. Most minerals other than sulphides, sulphates, phosphates, and carbonates contain a high proportion of silicon.As oxide, it is found as quartz in the following forms:Rock crystal, amethyst quartz, smoky quartz, rose quartz and milky quartz.Sand is largely silicon dioxide (silica). Opal is a hydrated variety of quartz.18
+3. Group IIIA and Group IVA Elements eLearn.Punjab3.4.3 Peculiar Behaviour of Carbon
+Carbon differs from the remaining members of Group IV-A in the following 
+respects:1. Carbon and silicon are nonmetals while the other members of the family are metalloids or metals.2. Catenation or self linkage. Carbon has a tendency to form long chains of identical atoms. The type of linkage of identical atoms with each other is called catenation or self-linkage . The property of catenation decreases on moving down the group 
+from carbon to lead. The maximum tendency of catenation associated with carbon forms the basis of the carbon compounds which constitute organic chemistry.
+Three oxides of carbon are known:(i) Carbon monoxide, CO (ii) Carbon dioxide, CO
+2 (iii) Carbon 
+suboxide, C3O2   Out of these, the last one is of little importance.3.5 COMPOUNDS OF CARBON AND SILICON
+3.5.1 Structure of Oxides of Carbon
+Carbon monoxide is diatomic molecule having triple bond between the two atoms.It is very slightly polar. The electronic structure of carbon monoxide can be represented as
+It is usually written as:
+  
+It might appear from the above structure that the molecule should have a 
+large dipole moment, but in fact the molecule has a small dipole moment (0.112D). Structure of Carbon Monoxide (CO)
+C     Od-                  d+ C     Ox
+x.→.C   Ox
+x.....x
+x.19
+3. Group IIIA and Group IVA Elements eLearn.PunjabStructure of the Carbon Dioxide
+Carbon dioxide exists in the gaseous 
+state as linear molecules. The observed C-O bond distance is 115 pm and is in agreement with the Structure shown. Solid CO
+2 has a 
+face-centered cubic structure. Being linear its dipole moment is zero. 
+3.5.2 Oxides of Silicon
+Silicon Dioxide
+Silicon dioxide, SiO2 called silica, is probably the most common 
+and the most important compound of silicon. In silica every 
+silicon atom is attached tetrahedrally to four oxygen atoms and each oxygen atom has two close silicon neighbours.
+Vitreous silica possesses the following interesting and useful properties.
+1. High transparency to light.2. Very refractory, does not soften below 1500 to 1600°C.3. Very low thermal expansion.4. Excellent insulator.5. Hard, brittle and elastic.6. Insoluble in water and inert toward many reagents.7. It is resistant towards all acids except HF.
+Quartz, the common crystalline form of silicon dioxide, is a hard, brittle, 
+refractor, colourless solid which differs very markedly from carbon dioxide.20
+3. Group IIIA and Group IVA Elements eLearn.PunjabThe silicon atom can be approached closely by four oxygen atoms and 
+forms a single bond to each at tetrahedral angles. This structure can be continued in three dimensions to produce a continuous giant silicon oxygen network extending out to give the massive silicon dioxide crystal.
+In the interior of the silica network every silicon atom is bonded 
+tetrahedrally to four oxygen atoms and every oxygen atom is bonded to two silicon atoms. The overall ratio of silicon to oxygen atoms is 1:2 and the simplest formula for silica therefore is SiO
+2.
+The silicon oxygen bonds are strong and keep the atoms firmly in place.                                                  Note, however, that it is not the molecular formula for silica but the whole chunk of silica must be considered to be essentially one molecule. The atoms of silicon and oxygen at the surface of the chunk do not have all their valence forces satisfied, as is shown by the high surface activity of silica.Both carbon and silicon have four electrons in their valence shells and both also form four covalent bonds. So, why should  there be a big difference between CO
+2 and SiO2 ?
+The answer lies in the fact that silicon atoms are much larger than carbon atoms and thus tend to surround themselves with more oxygen neighbours; silicon forms only single bonds to oxygen atoms whereas carbon may form double bonds. Carbon, in fact, forms double bonds to each of the two oxygen atoms to produce a small, symmetrical, linear molecule CO
+2,which is volatile and reasonably reactive.
+In each of the various crystalline forms of silica, there is a special pattern which is repeated throughout the crystal in a regular definite crystal lattice. The regular tetrahedral arrangement of four oxygen atoms around each silicon persists in each crystalline form but the Si-O-Si bond angles and the rotation about each Si-O bond are different in the different polymorphic species.21
+3. Group IIIA and Group IVA Elements eLearn.Punjab
+Fig. 3.1 Structure of silicon dioxide 
+When crystalline silica is heated sufficiently it melts to give a viscous liquid 
+having a random structure, presumably with the silicon atoms still on the average close to four oxygen atoms and the oxygen atoms close to two silicon atoms. When this liquid silica is cooled it does not crystallize readily, but usually it under supercools  tremendously and eventually becomes rigid without having undergone orientation into a regular crystal pattern. This rigid, highly under supercooled liquid is called vitreous silica or silica glass (frequently incorrectly referred to as fused quartz).
+This is a sodium salt of metasilicic acid H
+2SiO3 It is known as water glass 
+or soluble glass. It is prepared by fusing sodium carbonate with pure sand. The process is carried out in a furnace called reverberatory furnace.The compounds derived from silicic acids are termed as silicates.3.5.3 Silicates and their Uses
+1. Sodium silicate, Na2SiO322
+3. Group IIIA and Group IVA Elements eLearn.Punjab1. It is used as a filler for soap in soap industry.
+2. It is used in textile as a fire proof.3. It is used as furniture polish.4. It is also used in calico printing.Uses of Sodium Silicate:
+Many important silicate rocks contain aluminium. The weathering of these rocks results in the disintegration of the complex silicates which they contain. The boiling and freezing of water in the rocks, and the chemical action of water and carbon dioxide convert these compounds into potassium carbonate, sand and clay. The following reaction explains the weathering of potassium feldspar.2. Aluminium SilicateWhen crystals of soluble coloured salts like nickel chloride, ferrous sulphate, 
+copper sulphate or cobalt nitrate, etc. are placed in a solution of sodium 
+silicate, they produce a very beautiful growth, like plant, which is called 
+chemical garden.Sodium silicate is soluble in water and its solution is strongly alkaline due to the hydrolysis.
+Chemical GardenProperties:23 2 2 3 2
+                                                              Sodium silicate(s) (s) (s) (g) Na CO  + SiO     Na SiO  + CO  →23
+3. Group IIIA and Group IVA Elements eLearn.PunjabPure clay, which has the formula shown above, is white and is called kaolin.
+ It is used to make porcelain and china wares. Ordinary clay contains compounds of iron and other metals and it has a yellow or reddish yellow colour. Impure clays can be more easily fused because they contain oxides of iron, calcium, magnesium and other metals which form easily fusiable silicates with sand. Such clays are used to make bricks, tiles, and stonewares. Due to the presence of ferric oxide, the articles of this clay turn reddish when heated in a kiln.
+Stoneware is usually glazed to give it a less porous surface by throwing 
+salt upon the articles while they are hot. This treatment produces sodium aluminate and sodium aluminium silicate, which melt readily and cover the entire surface. When the article cools, the covering solidifies, producing a compact, smooth, waterproof surface. China wares are made from a mixture of kaolin, bone ash, and feldspar; the mixture fuses when heated and fills the pores between the grains of kaolin.
+The use of clay in making pottery and other ceramic articles depends upon 
+the plasticity of the paste. When soaked in water the clay progressively hydrates, and the paste becomes more plastic. When the clay is heated the water of hydration is lost, and a hard rock like mass is formed.2 23 2 2 3 2 2 3 2 23 2 2 2(s) (aq) ( ) (s) (s) (s) K O.Al O .6SiO  + H CO  + H O       K CO  + 4SiO  +  Al O .(SiO ) .2H O  → l
+3. Talc or Soapstone
+The magnesium silicate, Mg3H2(SiO3)4, is commonly known as talc 
+or soapstone. It is physically greasy to touch. Therefore it is used in making cosmetics. It is also used in making household articles.
+                                                 
+                                                    
+Asbestos is hydrated calcium magnesium silicate CaMg3(SiO3)4. It is 
+commonly used in making incombustible fabrics and hardboard, etc.                                        4. Asbestos24
+3. Group IIIA and Group IVA Elements eLearn.Punjab3.5.4 Silicones
+The chemistry of silicon is, in many respects, very much like the chemistry 
+of carbon. Just as carbon forms the compounds carbon dioxide (CO2), 
+carbon tetrachloride (CCI4), and methane (CH4), similarly silicon forms 
+silicon dioxide (SiO2), silicon tetrachloride (SiCl4), and silane (SiH4).
+The silicon atom holds four methyl groups, Si(CH3)4 , just as the carbon 
+atom, C(CH3)4.If a compound of silicon containing chlorine atoms and methyl 
+groups, SiCl2(CH3)2, is allowed to react with water, hydrogen chloride (HCI) 
+comes out, and the silicon atoms join together through oxygen atoms.                                       
+By this reaction we can make synthetically the silicon oxygen chains found in the mineral silicates, which we have just been discussing. A difference is that here we have -CH
+3 groups instead of oxygen atoms joined to silicon 
+as side chains. Such a compound is called a silicone; this particular one is a methyl silicone. Other alkyl groups may also be substituted for the methyl groups and the molecular chain can be made of various lengths.25
+3. Group IIIA and Group IVA Elements eLearn.PunjabProperties and Uses of the Silicones
+Some of the methyl silicones are oily liquids and they become more 
+viscous as the chain length increases. They are used as lubricants, either incorporated in greases or as oils, in bearings, gears, etc. They are also used in hydraulic brakes and other hydraulic systems. The outstanding physical attribute of silicone oil is its very small change in viscosity with change in temperature, compared with the behaviour of other oils of similar viscosity.
+If the temperature is dropped from 100°C to 0°C the viscosity of petroleum oil may increase about one hundred folds, whereas that of silicone oil will increase less than four folds. In the presence of air or oxygen at temperature as high as 300°C, silicone oils remain free from acid formation, oxidation and similar phenomena, which frequently limit the usefulness of petroleum products and other synthetic organic liquids.
+Methyl silicones of high molecular mass resemble rubber and are used in 
+making rubber like tubing and sheets.
+Silicone molecules can be made in such a way that bridges, or cross linkages 
+bind one long molecule to another at several points along the chain. These compounds have resinous properties and are extensively used in electrical insulation.
+Another interesting and important application of silicones is their use in the 
+treatment of various surfaces to make them water repellent. A silicone film covers the surface and repels water like a grease film. Much of the leak of electricity through the moisture film on ceramic electrical insulators can be prevented by a silicone film; cloth, plastics, asbestos, glass, leather, and paper, even filterpaper and blotting paper become strongly water repellent when covered with a silicone film.26
+3. Group IIIA and Group IVA Elements eLearn.PunjabA semiconductor is a 
+substance that has different resistances to the passages of an electric current under different circumstances. Semiconductors include the elements germanium, selenium and silicon, and the compounds lead sulphide, silicon carbide, cadmium sulphide, lead telluride, gallium arsenide and indium antimonide.3.6  SEMICONDUCTORS
+Semiconductors conduct electricity  better than insulators, but not as well as good conductors like metals. This gives them their name, which means “half conductors. ” How well they conduct electricity depends upon their temperature. When a metal is heated, its resistance increases, when a semiconductor is heated its resistance decreases.
+Semiconductors are also sensitive to light. The greater the intensity of 
+the light that shines on them, the better they conduct electricity. The effects that light and heat energy have on semiconductors make them extremely useful. They are used in photoelectric cells and in solar batteries.
+The electrons of semiconductors do not carry electric current as readily 
+as the electrons of good electric conductors like metals. However, when the atoms of the material absorb heat or light, the electrons become less tightly bound to their atoms. They can now conduct electricity.27
+3. Group IIIA and Group IVA Elements eLearn.PunjabAnother special property of semiconductors is the way they behave when 
+they are joined to another material, which may be a metal or a different semiconductor. The junction between the different materials forms a boundary. It allows electricity to pass more properly and is used in transistors. Transistors are much smaller and less complicated than old fashioned electronic tubes. They are used in radio, television, computers and calculators.
+Varoius oxides of lead, basic lead carbonate and lead 
+chromate are commonly used as pigments in paints.
+                                                 
+                                                    3.7 USES OF LEAD COMPOUNDS IN PAINTS
+1. Lead Suboxide, Pb2O
+It is black powder, obtained on heating plumbous oxalate in the absenceof air.
+                                                 
+                                                    Pb2O is decomposed by heat into Pb and PbO.
+Other than pigment, it is also used in the manufacture of lead storage batteries.24 2 2(s) (s) (g) (g) 2PbC O    Pb O  + 3CO  + CO∆ →
+2. Lead Monoxide (Litharge, Massicot) PbO
+Litharge varies in colour from pale yellow to reddish yellow, possibly owing to the existence of two forms, a rhombic (yellow) and a tetragonal (red). It is slightly soluble in water. It is usually used in preparing flint glass and paints. If litharge is boiled with water and olive oil, lead oleate which is a sticky adhesive mass is formed and glycerin passes into solution. Litharge is used in preparing oils and varnishes and in the manufacturing of flint glass.28
+3. Group IIIA and Group IVA Elements eLearn.PunjabWhen lead is heated in air at about 340°C, it absorbs oxygen and 
+forms a bright scarlet crystalline powder of read lead or minium. 3. Triplumbic Tetraoxide, (red lead, minium), Pb3O4 
+It decomposes at 470°C
+Red lead is used for a variety of purposes. Its principal uses are in the manufacture of storage batteries, as a pigment in paints applied to steel and iron to retard corrosion, and as an ingredient in the manufacture of flint glass, matches and ceramic glazes.
+When red lead is treated with concentrated nitric acid , it is decomposed into lead nitrate and lead dioxide.
+4. Lead Dioxide, PbO2 
+Lead dioxide is a reddish brown powder. It is not very soluble in water, but it does dissolve in alkaline water to yield soluble plumbates. It is not affected by dilute acids.
+5. White Lead 
+Basic lead carbonate 2PbCO3.Pb(OH)2  is an amorphous white pigment. It 
+mixes readily with linseed oil and has a good covering power. If improperly prepared, it becomes crystalline and its covering power is reduced.
+ 
+White lead is not suitable for use as a good pigment since it is darkened by the hydrogen sulphide which is frequently present in the atmosphere.2 34
+                                          Triplumbic tetraoxide(s) (g) (g) 3Pb  + 2O   Pb O  →
+34 2(s) (s) 2Pb O       6PbO  + O  →
+3 4 3 32 2 2(s) (aq) (s) (s) Pb O  + 4HNO   2Pb(NO )  + PbO  + 2H O  →29
+3. Group IIIA and Group IVA Elements eLearn.Punjab6. Lead Chromate (PbCrO4)  
+It is used as a pigment under the name of chrome yellow. Orange or 
+red basic lead chromates are formed when lead chromate is boiled with dilute alkali hydroxide and are used as pigments. The stable yellow modification of lead chromate is monoclinic. Mixture of lead chromate with lead sulphate or barium sulphate are also used as yellow pigments.30
+3. Group IIIA and Group IVA Elements eLearn.PunjabKey Points
+1. Boron occurs in traces and has been found to be important for the growth of 
+many plants.2. Borax (Na
+2B3O7-10H2O), colemanite (Ca2B6O11.5H2O), orthoboric acid (H3BO3) 
+are the common minerals of boron.3. Aluminium, after oxygen and silicon, is the third most abundant element in the earth’s crust. Feldspar (K
+2O.Al2O3.6SiO2), corundum (Al2O3), bauxite (Al2O3.2H2O) 
+and cryolite (Na3AlF6) are the common minerals of aluminium.
+4. The pair of outermost electrons that does not readily take part in chemical combination is termed as inert pair.5. When heated, borax fuses, loses water of crystallization and swells up into a white porous mass. It is employed in borax bead test for identification of coloured salts.6. When a hot concentrated solution of borax is treated with a calculated quantity of conc. H
+2SO4, on cooling crystals of boric acid are produced.
+7. When aluminium is burnt in oxygen a brilliant light is produced.8. The electronic configuration of group IVA elements show that they have four electrons in their valence shells, two electrons of which are in s-orbital and the remaining two are in  p-orbitals.9.  Feldspar, potash mica and zircon are the famous minerals of silicon.10. Silica has a net work structure in which every silicon atom is bonded tetrahedrally to four oxygen atoms and every oxygen atom is bond ed to two silicon atoms.11. Sodium silicate, aluminium silicate, talc and asbestos are commercially important compounds of silicon and oxygen called silicates.12. Methyl silicones can be used as lubricants and for water proofing.13. Semiconductors conduct electricity better than insulators. They are also light sensitive.14. Oxides of lead are used as pigments.31
+3. Group IIIA and Group IVA Elements eLearn.PunjabQ. 4. What is the action of an aqueous solution of borax on litmus?
+Q. 5. Give equations to represent the following reactions.        (a) Borax is heated with CoO         (b) Al
+2O3 is heated with NaOH solutionQ.2. Indicate True Or False i) Boron always uses all the three of its valence eletrons for bonding purposes. ii) Diaspore is an ore of carbon. iii) Emerald is an ore of aluminium that has the chemical formula AlO
+3.2SiO2. 
+2H2O.
+ iv) An aqueous solution of borax is feebly acidic in nature. v) In case of borax bead test, of cupric oxide, the beads are coloured blue in the reducing flame.vi) Boric acid can be titrated with sodium hydroxide.vii) Carbon and silicon are the only non-metals in Group IVA.viii) PbO is commonly known as litharge. ix) Basic lead carbonate is a reddish brown pigment. x) Aluminium oxide (Al
+2Q3) is also called bauxite.EXERCISE
+Q.1. Fill in the blanks. i )        ______________________ acid has the chemical formula HBO
+2.
+ii)        Aluminium normally occurs as____________________ minerals found in the rocks of outer portion of the earth.iii)       Aluminium gives ________________________gas with hot concentrated H
+2SO4.
+iv)       Boron forms------------------------------------------- bond in its compounds.v)        The chemical formula of white lead is ___________________ .vi)       ___________________ is the only element with less than four electrons in the outer most shell that is not a metal.vii)      In the Group IIIA of the periodic table,___________________ is a semi-metal.viii)     Borax that occurs as a natural deposit, is called________________________.ix) Cryolite is an important mineral of aluminium and its formula  is_____________________x)   A __________________________is a substance that has different resistances to the passage of an electric current under different circumstances.32
+3. Group IIIA and Group IVA Elements eLearn.PunjabQ. 13. What is the importance of oxides of lead in paints?
+Q. 14. Give the names, electronic configurations  occurrence of Group-IIIA elements of the periodic table.Q. 15. Discuss the peculiar behaviour of boron with respect to the other members of Group- IIIA elements.Q. 16. (a) What is borax?           (b) Describe its commercial preparation.           (c) Outline the principal uses of borax.           (d) How does borax serve as a water softening agent?Q. 17. (a) What is boric acid?           (b) How is boric acid prepared in laboratory?           (c) Give properties and uses of boric acid.Q. 18.(a) Give the names alongwith the formulas of three important ores of aluminium.          (b) How and under what conditions does aluminium react with the following:          i) Oxygen       ii) Hydrogen      iii) Halogens   iv) Acids     v) AlkaliesQ. 19. Give the names, electronic configurations and occurrence of Group-IVA elements of the periodic table.Q. 20. Discuss the peculiar behaviour of carbon with respect to the other members of  Group-IVA of the periodic table.Q.21 (a) What are silicones?         (b) Give a brief summary of the principal properties of silicones.          (c) Outline the uses pf silicones.         (d) What are silicates?         (e) Describe the important uses of silicates.Q. 6. Why is aluminium not found as a free element? Explain the chemistry of borax bead test.Q. 7. How does orthoboric acid react with:         (a) Sodium hydroxide (b) Ethyl alcoholQ. 8. How will you convert boric acid into borax and vice versa?Q. 9. Why are liquid silicones preferred over ordinary organic lubricants?Q. 10. Explain:        (a) CO
+2 is non-polar in nature.
+        (b) CO2 is acidic in character.
+Q. 11. Why is CO2  a gas at room temperature while SiO2 is a solid?
+Q. 12. Give the names and the formulas of different acids of boron.

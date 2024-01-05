@@ -1,0 +1,380 @@
+CHAPTER13 CARBOXYLIC ACIDS 
+Animaton 13.1:  Addition of HCl to a carbonyl group  
+Source & Credit : Ch.imperial2 3
+13. CARBOXYLIC ACIDS 13. CARBOXYLIC ACIDS eLearn.Punjab eLearn.Punjab13.1    INTRODUCTION1. How to name carboxylic acids and their derivatives.
+2.
+ The commercial method for the preparation of acetic acid.
+3.
+ The relationship between the structure of carboxyl group and its reactivity.
+4.
+ The 
+effect of hydrogen bonding on the physical properties of carboxylic acids.
+5.
+ The ways of preparing four derivaties of carboxylic acids and the conversion 
+of these derivatives back to carboxylic acids.
+6.
+ About amino acids and their significance.IN THIS CHAPTER YOU WILL LEARN:
+Animaton 13.2: Carboxyl
+Source & Credit : Phschool
+Carboxylic acids are further classified as mono, di, tri or poly carboxylic acids as they contain one, two, three or many carboxyl groups respectively in their molecules.Aliphatic monocarboxylic acids
+Aliphatic dicarboxylic acids
+                                                              
+Organic compounds containing                         as a functional group are called
+carboxylic acids. The               group which itself is made up of a carbonyl 
+group (> C = 0) and a hydroxyl group (-0H) is called a carboxyl group (Carb from carbonyl and oxyl from hydroxyl). Carboxylic acid may be an aliphatic
+or an aromatic depending upon whether          is attached to an alkyl 
+group (or a hydrogen atom) or an aryl group. Their general formulas are:(- C - OH) 
+(- C - OH) 
+(- C - OH) 
+In this chapter we will discuss, in some detail, the chemistry of 
+monocarboxylic acids only.Aromatic monocarboxylic acid                                    Aromatic dicarboxylic acid:4 5
+13. CARBOXYLIC ACIDS 13. CARBOXYLIC ACIDS eLearn.Punjab eLearn.Punjab13.2 NOMENCLATURE OF CARBOXYLIC ACIDS
+The aliphatic monocarboxylic acids are commonly called fatty acids because 
+higher members of this series such as palmitic acid (C15H31COOH), stearic 
+acid (C17H35COOH), etc. are obtained by the hydrolysis of fats and oils.
+The aliphatic monocarboxylic acids may be given common names or IUPAC names.
+13.2.1 Common or Trivial names
+The common names of carboxylic acids were derived from the source from which they are isolated. The irritation caused by an ant bite is due to formic acid (Latin word formica, ant). It was first isolated by the distillation of red ants. Similarly acetic acid was first isolated from vinegar and butyric acid was named after butyrum means butter.
+13.2.2 The IUPAC Nomenclature
+The IUPAC names of saturated monocarboxylic acids are alkanoic acids. These are derived from the names of the alkanes containing the same number of carbon atoms as the acid. The ending “e” of the alkane name is dropped and suffix-oic acid is added. Thus acetic acid gets the name ethanoicaeid.
+The position of substituents are indicated by Arabic numerals with the carboxyl group given number 1 as shown below:
+The common and IUPAC names of the some common monocarboxylic acids are given in the table below.Table(13.1) Common and IUPAC names of some common carboxylic acids.
+Structural Formula Common Name IUPAC Name
+H  COOH Formic acid Methanoic acid
+CH3COOH Acetic acid Ethanoic acid
+CH3  CH2  COOH Propionic acid Propanoic acid
+CH3  CH2  CH2  COOH Butyric acid Butanoic acid
+CH3  CHCOOCH
+             
+            CH3Iso-Butyric acid 2-Methylpropanoic acid
+13.3 GENERAL METHODS OF PREPARATION
+A number of methods for the preparation of carboxylic acids have already been discussed in the previous chapters. However, they are recalled again with different examples.
+1. From Primary Alcohols and Aldehydes
+Primary alcohols and aldehydes are readily oxidised to corresponding 
+carboxylic acids by oxidising agents such as potassium dichromate in an acidic medium.
+Animaton 13.5 : Undergo oxidation
+ource & Credit : Biologie.uni-hamburg.de6 7
+13. CARBOXYLIC ACIDS 13. CARBOXYLIC ACIDS eLearn.Punjab eLearn.PunjabAnimaton 13.6 : Nucleophilic substitution
+ource & Credit : Wikipedia.org
+Aldehydes are easily oxidised to corresponding carboxylic 
+acids even by mild oxidizing agents such as Tollen’s Reagent (Ammoniacal silver nitrate).
+2. From Alkanenitriles
+Compounds having a cyanide ( - C 
+≡ N) group are called nitriles. 
+Hydrolysis of an alkanenitrile on boiling with mineral acids or alkalis yields 
+corresponding carboxylic acid.
+Animaton 13.7 : Grignard Reagent Attacking a Ketone
+ource & Credit : BenettonplayIt may be noted that acid produced has one carbon atom more than the original alkyl halide.Alkanenitriles can be prepared by treating alkyl halide with alcoholic 
+potassium cyanide.
+3. From Grignard Reagent
+Carboxylic acids can be prepared by the action of Grignard reagent with 
+carbon dioxide. This reaction is either carried out by passing carbon dioxide through the ethereal solution of corresponding Grignard reagent or by adding Grignard reagent to crushed dry ice suspended in ether. The addition product on reaction with a mineral acid produces carboxylic acid.8 9
+13. CARBOXYLIC ACIDS 13. CARBOXYLIC ACIDS eLearn.Punjab eLearn.Punjab4. By the Hydrolysis of Esters
+The appropriate ester on boiling with concentrated sodium 
+hydroxide yields sodium salt of the acid.This resulting salt when treated with dilute HC1 gives the free carboxylic acid.
+5. By the Oxidative Cleavage of Alkenes
+Alkenes when heated with alkaline KMnO4 are cleaved at the double bond to 
+form carboxylic acids.
+13.4 PHYSICAL CHARACTERISTICS
+(i) Smell
+The first three aliphatic acids i.e. formic acid, acetic acid and propionic 
+acid are colourless liquids and have pungent smell. The next three acids C
+4 to C6 are colourless liquids with somewhat unpleasant smell.
+(ii) Solubility
+Among the aliphatic acids, the first four members are very soluble in water due to hydrogen bonding.
+(iii) Boiling Point
+The boiling points of carboxylic acids are relatively high due to intermolecular hydrogen bonding.
+The molecular mass determination 
+in non-polar solvent like benzene shows that Carboxylic acids exist as cyclic dimers.
+HCOOH                               CH3COOH                                       C2H5COOH
+373K(100°C)                        391K(118°C)                                   424K(141°C)Boiling Points
+Melting Points
+The melting points of carboxylic acids increase irregularly with the increase in molecular mass. It has been observed that the melting points of carboxylic acids containing even number of carbon atoms are higher than the next lower and higher members containing odd number of carbon atoms e.g.,10 11
+13. CARBOXYLIC ACIDS 13. CARBOXYLIC ACIDS eLearn.Punjab eLearn.Punjab3 2 322 322 2 CH  CH COOH, CH CH CH COOH, CH CH CH  CH COOH
+(3 carbon)                                         (4 carbon)                             (5 carbon)
+Melting
+points              251K(-22°C)                     267 K (-6°C)                    237 K (-36°C)
+                                                                                                                 
+13.5 REACTIVITY OF CARBOXYL GROUP (  C  OH)
+The carboxyl group displays the chemistry of both the carbonyl 
+and the hydroxyl groups. In most reactions of carboxylic acids the carboxyl group is retained however, the reactivity of these molecules is a consequence of the presence of the carbonyl group.
+13.6 Reactions of Carboxylic Acids
+Carboxylic acids undergo the following type of reactions.a)   The reactions in which hydrogen atom of the carboxyl group is involved (salt 
+formation).
+b)   The reactions in which OH group is replaced by another group.c)    The reactions involving carboxyl group as a whole.
+(a) Reactions Involving H Atom of the Carboxyl Group
+Carboxylic acids are weaker acids than mineral acids. They furnish H
++ when 
+dissolved in water.
+In the presence of water (H2O), the proton breaks away as H3O+ ion.
+1. Reactions with Bases
+Carboxylic acids react with bases (NaOH, KOH) to form salts 
+3 32 CH COOH + NaOH CH COONa + H O →
+2. Reactions with Carbonates and BicarbonatesCarboxylic acids decompose carbonates and bicarbonates evolving carbon dioxide gas with effervescence.
+-+
+3 23 3 22 2CH COOH+Na CO 2CH COO Na +CO +H O →
++
+3 3 3 22 CH COOH + NaHCO CH COO Na + CO + H O−→
+3. Reactions with MetalsCarboxylic acids react with active metals (Na, K, Ca, Mg etc) to form their salts with the evolution of hydrogen gas.
+-+
+3 3 22 2CH COOH+2Na 2CH COO Na +CO +H →
+(b) Reactions Involving the  OH Group of Carboxylic Acids
+                                                        The carboxylic acid contains 
+ C  OH functional group, and like the 
+carbonyl group of aldehydes and ketones, is susceptible to attack by a nucleophile. The addition of a nucleophile to the carboxyl group is always followed by the displacement of the 
+OH group by some other 
+group, producing a carboxylic acid derivative. The OH group can thus be 
+replaced by X, OR and NH2 to form halides, esters and amides,respectively.  
+1 . Reactions with PCI5 and SOCI2
+(a) 3 53 3CH COOH + PCl CH COCl + POCl +HCl →
+(b) 3 23 2 CH COOH + SOCl CH COCl + SO + HCl →12 13
+13. CARBOXYLIC ACIDS 13. CARBOXYLIC ACIDS eLearn.Punjab eLearn.PunjabMechanism
+Animaton 13.8 : Ester formation
+ource & Credit : Dynamicscience2. Formation of an Ester
+When carboxylic acids are heated with alcohols in the presence of concentrated
+H2SO4, esters are formed.
+24H SO
+3 25 3 25 2 CH COOH + C H OH CH COOC H + H O ����������MechanismThe various steps of the above reactions are as follows:
+(i) Protonation of Carboxylic Acid
+(iii) Hydrogen Ion Transfer(ii) Attack of CH3  CH2OH
+(iv) Elimination of Water and H+
+Esters have fruity smell and are used as artificial flavours. Flavours of some 
+estersare listed in the table.14 15
+13. CARBOXYLIC ACIDS 13. CARBOXYLIC ACIDS eLearn.Punjab eLearn.PunjabEster Flavour
+Amylacetate
+Isobutyl formate
+Benzylacetate
+Ethyl butyrate
+Amyl butyrate
+Octyl acetateBanana
+Raspberry
+Jasmine
+Pineapple
+Apricot
+Orange
+Mechanism
+(i)        3 33 4CH COOH + NH CH COONH →
+Heat -+
+3
+4 3 22 CH COO N H CH CONH + H O   →
+(ii)
+(iii)4. Formation of Acid Anhydride
+Carboxylic acids are dehydrated on heating strongly in the presence of 
+phosphorus pentoxide.
+3.Formation of Amide (Reaction with ammonia)
+Carboxylic acids react with ammonia to form ammonium salts which on heating produce acid amides.
+                                                                                
+(c) Reactions Involving Carboxyl Group (  C  OH) 
+i. Partial Reduction to Alcohols
+Carboxylic acids on reaction with lithium aluminium hydride (LiAIH4) are reduced 
+to alcohols.
+ii) Complete Reduction to Alkanes
+Carboxylic acids on reduction with HI and red phosphorus give alkanes.
+P
+33CH COOH + 6HI CH  →32 2CH + 2H O + 3I
+13.7 ACETIC ACID
+It is the most important carboxylic acid. Its dilute solution is known as vinegar.
+Acetic acid can be prepared by any of the general methods described earlier.16 17
+13. CARBOXYLIC ACIDS 13. CARBOXYLIC ACIDS eLearn.Punjab eLearn.Punjab13.7.1 Laboratory Methods
+1. By the Oxidation of Ethyl Alcohol or Acetaldehyde
+When ethyl alcohol is oxidised with K2Cr2O7 and dilute H2SO4, acetic acid
+ is produced.
+3CH [ ][ ]2 27
+24O K Cr O
+2 33 H SOCH OH + O CH CHO CH COOH  → →
+2. By the Hydrolysis of Methyl Cyanide
+Ethanenitrile on hydrolysis with dilute HCI, gives acetic acid through acetamide.
+13.7.2 Manufacture of Acetic Acid
+1 . From Acetylene
+Acetylene is treated with 20% H2SO4 and 1.0% HgSO4 at 80°C to give ethanal 
+(acetaldehyde) which is then oxidised using V2O5 to give acetic acid.
+2. Acetic acid is also prepared commercially by the oxidation of ethyl 
+alcohol.Ethyl alcohol can be commercially prepared from molasses by 
+a process called fermentation.It is oxidized by potassium dichromate in the presence of conc. sulphuric acid to give acetaldehyde which is further oxidized under the same conditions to give acetic acid.
+13.7.3 Physical Characteristics
+Acetic acid is a colourless liquid with a boiling point 118°C. It has a strong vinegar odour and sour taste. The pure acid freezes to an ice like solid at 17 °C, therefore, it is called glacial acetic acid. It is miscible with water, alcoholand ether in all proportions.
+13.7.4 Reactions of Acetic Acid
+Chemical reactions of acetic acid have already been discussed in the general properties of the carboxylic acids.
+13.7.5 Uses of Acetic Acid
+Acetic acid is used:i)     as a coagulant for latex in rubber industry.ii)  in the manufacture of plastics (polyvinyl acetate) rayon (cellulose acetate) and silk.
+iii)   in medicine as a local irritant.
+iv)   as a solvent in the laboratory for carrying out reactions.v)    in the manufacture of pickles.vi)  in the manufacture of many organic compounds like acetone, acetates 
+and esters.
+13.8 AMINO ACIDS
+Amino acids are organic compounds containing both amino and carboxyl groups. They are represented by the general formula:18 19
+13. CARBOXYLIC ACIDS 13. CARBOXYLIC ACIDS eLearn.Punjab eLearn.PunjabR is different for different amino acids. The amino group may be present at 
+any carbon atom other than that of the carboxyl group ( COOH). They are 
+referred to as α, β, γ depending upon whether the amino group is present 
+on the α, β, or γ carbon atom relative to the carboxyl group. Almost all the 
+naturally occurring amino acids are α  amino acids. These amino acids are 
+very important because they are the building blocks of proteins. Proteins are very important for us.
+The amino acids which contain two carboxyl groups are called acidic amino acids while those containing two amino groups are called basic amino acids. For example, glutamic acid and aspartic acid are acidic amino acids while lysine is a basic amino acid. 
+About twenty amino acids have been identified as the constituents of most of 
+the animal and plant proteins.
+  
+Out of twenty amino acids which are required for protein synthesis, the human body can synthesize only ten. The amino acids which body can synthesize are called non-essential amino acids. The remaining ten amino 
+acids which the body is not able to synthesize are called essential amino acids. 13.8.1 Essential and Non-essential Amino Acids
+The essential amino acids must be supplied to our bodies 
+through our diet because they are required for proper health and growth. The deficiency of essential amino acids may cause diseases.
+Although amino acids can be named according to IUPAC system, they are generally known by their trivial names. These trivial names usually reflect the origin or an obvious property of the compound. 13.8.2 Nomenclature of Amino Acids
+Glycine, for example is so named, because it has a sweet taste (Greek glykys - sweet) and the tryosine was first isolated from cheese (from Greek tryos-cheese). For the sake of simplicity, each amino acid has been given an abbreviation w’hich generally consists of the first three letters of the common name. For example, the simplest amino acid is glycine H
+2NCH2 COOH. It may be 
+abbreviated as Gly. Similarly, alanine CH3  CH  COOH may be represented as Ala.
+                                                                                                            
+                                                                             NH2    
+Table 13.2 Names, structural formulae and other features 
+of amino acidsNames, structural formulae and other features of some amino acids are given in Table 13.2.
+Name  Nature Abbreviation Structural formula
+1 Glycine Neutral Gly CH2  COOH
+NH2
+2 Alanine Neutral Ala CH3  CH  COOH
+           NH2
+3 Valine Neutral Val CH3  CH  CH  COOH
+           CH3   NH2
+4  Proline  Neutral Pro H2C  CH2
+H2C    CHCOOH
+           NH
+5  Aspartic acid Acidic Asp HOOC  CH2  CH  COOH
+                           NH2
+6  Glutamic acid Acidic Gla HOOC  CH2 CH2 CH  COOH
+                                     NH2
+7  Lysine Basic Lys CH2 (CH2)3 CH  COOH
+NH2                             NH2
+8  Histidine Basic His CH = C  CH2 CH  COOH
+N      NH            NH2
+    CH
+13.8.3 Structure of Amino Acids
+The amino acids exist as dipolar ion called Zwitter ion. It has positive as well as negative ends within the same molecule. In the formation of Zwitter ion, the proton goes from the carboxyl group to amino group. The Zwitter ionic structure of an amino acid may be written as:20 21
+13. CARBOXYLIC ACIDS 13. CARBOXYLIC ACIDS eLearn.Punjab eLearn.PunjabAnimaton 13.9 : Formation of the peptide bond 
+ource & Credit : Researchpeptides
+The dipolar structure is also called internal salt. All α- amino acids exist largely 
+in dipolar ionic forms.
+13.8.4 Acidic and Basic Characters of Amino Acids
+1. When an acid is added to an amino acid the carboxylate ion accepts the proton 
+and, therefore, the basic character is due to this group.On the basis of dipolar ion structure, the acidic and basic reactions of amino acids
+ may be represented as :
+2. When an alkali is added to an amino acid,  NH3 group releases the proton 
+and therefore the acidic character is due to this group.
+When hydrogen cyanide is added to an aldehyde in the presence of ammonia, 
+α - amino acid is obtained.13.8.5 Synthesis of Amino Acids
+Amino acids can be synthesized by the following reactions.1. By the reaction of 
+α - bromoacid with ammonia.
+α - amino nitdle upon acidic hydrolysis yields an α - amino acid:
+2. The Strecker Synthesis
+1. Esterification13.8.6 Reactions of Amino Acids
+Amino acids undergo many chemical reactions characteristics of either amino group or carboxyl group.
+Amino acids form aminoester when treated with an alcohol in the presence of
+ catalytic amount of a strong acid.22 23
+13. CARBOXYLIC ACIDS 13. CARBOXYLIC ACIDS eLearn.Punjab eLearn.Punjab
+Amino acids react with nitrous acid to produce α - hydroxy carboxylic acid 
+and nitrogen gas.2. Reaction with Nitrous Acid
+Ninhydrin reacts with amino acid to form an intensely coloured 
+bluish violet product. The ninhydrin reaction is also widely used to “visualize’’ amino acids separated by paper chromatography.13.8.7 Test of Amino Acids
+Ninhydrin Test
+Peptides are the compounds formed by the condensation of two or more same or different a-amino acids. The condensation occurs between amino acids with the elimination of water. In this case, the carboxyl group of one amino acid and amino group of another amino acid gets condensed with elimination of water. The resulting 
+ CO  NH  linkage is called a peptide linkage.13.8.8 Peptidos and Proteins
+The formation of peptide is shown below:
+If a large number of amino acids (hundreds to thousands) are joined by peptide bonds, the resulting polymide is called a polypeptide .
+Depending upon the number of amino acids per molecule, the peptides are dipeptides, tripeptides, polypeptides, etc. The formation of peptide bonds can continue until a molecule containing several hundred thousand amino acids is formed. Such a molecule is called polypeptide or protein. By convention 
+a peptide having molecular mass upto 10,000 is called a polypeptide while 
+a peptide having a molecular mass more than 10,000 is called a protein.
+                                                                                              
+                                      
+1.
+ Organic 
+compounds containing carboxyl group (  C  OH) are called carboxylic 
+acids. There are two classes of carboxylic acids i.e., aliphatic and aromatic carboxylic acids. Aliphatic carboxylic acids are also called fatty acids
+2.
+ Carboxylic 
+acids can be produced by the oxidation of alcohols and aldehydes 
+and by the hydrolysis of nitriles.
+3.
+ Lower members of the series are water soluble 
+and have pungent smell. 
+Solubility decreases with the increase in molecular mass.
+4.
+ Carboxylic 
+acids have higher boiling points than the corresponding alcohols. 
+Boiling point increases with the increase in the molar mass.
+5.
+ Acid 
+chlorides, acid amides, esters and acid anhydrides are called derivatives 
+of carboxylic acids.KEYPOINTS
+6. Acetic acid is synthesized on commercial scale from acetylene.7. Carboxylic acids containing amino group in their molecules are called amino 
+acids. They are classified as neutral, basic and acidic amino acids.
+8. Amino acids join together to produce peptides. A polypeptide has a molecular 
+mass upto 10,000 whereas the molecular mass of protein is greater than 10,000.24 25
+13. CARBOXYLIC ACIDS 13. CARBOXYLIC ACIDS eLearn.Punjab eLearn.PunjabQ. 1 Fill in the blanks.
+(i)  Formula of malonic acid is___________________.
+(ii) Methyl nitrile upon acidic hydrolysis produces_______________ .
+(iii) Melting points of carboxylic acids containing even number of carbon atoms 
+are________________ than the next lower and higher members containing odd 
+number of carbon atoms.
+(iv) Acetic acid on heating with_____________produces acetic anhydride.
+(v) Acid chloride and acid anhydride are called_______________ of acid.
+(vi) Pure acetic acid is called ________________ .
+(vii) Fox mula of alanine is_____________________.
+(viii) Proline is a__________________ amino acid.
+(ix) A peptide having a molecular mass more than 10000 is called_______________.
+Q. 2 Indicate True and False.
+(i) Acetic acid exists as a dimer in benzene.
+(ii) First three aliphatic acids have fruity smells.
+(iii) Carboxylic acids on reduction with LiAlH4 produce alkenes.
+(iv) Acetic acid on dehydration produces CO and H2.
+(v) Sodium formate on heating with soda lime produces NaHCO3 and hydrogen.
+(vi) Amino acids exist as Zwitter ion.
+(vii) Histidine is an acidic amino acid.
+(viii) A peptide having molecular mass upto 10000 is called protein.
+(ix) Phthalic acid is a monocarboxylic acid.
+(x) Formula of glycine is CH2COOH.(iii) Which acid is used in the manufacture of synthetic fibre(a) formic acid            (b) oxalic acid                    (c) carbonic acid                (d) acetic acid
+(iv) Which following derivative can not be prepared directly from acetic acid.
+(a) acetamide             (b) acetyl chloride            (c) acetic anyhdride       (d) ethyl acetate
+(v) Which reagent is used to reduce a carboxylic group to an alcohol.
+(a) H
+2/Ni                      (b) H2/Pt                             (c) NaBH4                              (d) LiAlH4
+(vi) The solution of which acid is used for seasoning of food.(a) formic acid           (b) acetic acid                    (c) benzoic acid             d) butanoic acid
+(vii) Organic compounds X and Y react together to form organic compound Z. What 
+type of compounds can X, Y and Z be?                                       X                                           Y                                           Z           (a)                    alcohol                                  ester                                    acid           (b)                    acid                                        ester                                   alcohol           (c)                    ester                                      alcohol                                 acid           (d)                    alcohol                                  acid                                      ester
+(viii) An aqueous solution of an organic compound reacts with sodium carbonate to 
+produce carbon dioxide gas. Which one of the following could be the organic com-pound.(a) CH
+2 = CH  CH3                                                      (b) CH3  CHO
+(c) CH3COOC2H5                                                           (d) CH3  CH2  COOHEXERCISE
+Q. 3 Multiple choice questions. Encircle the correct answer.(i) Acetic acid is manufactured by(a) distillation               (b) fermentation          (c) ozonolysis        (d) esterification
+(ii) A carboxylic acid contains
+(a) a hydroxyl group                                        (b) a carboxyl group(c) a hydroxyl and carboxyl group                (d) a carboxyl and an aldehydic group(ix) Which of the following is not a fatty acid?(a) propanoic acid                                                   (b) acetic acid(c) phthalic acid                                                        (d) butanoic acid
+(x) Acetamide is prepared by
+(a) heating ammonium acetate                            (b) heating methyl cyanide(c) heating ethyl acetate                                         (d) the hydrolysis of methyl cyanide26 27
+13. CARBOXYLIC ACIDS 13. CARBOXYLIC ACIDS eLearn.Punjab eLearn.PunjabQ. 4 Write down the structural formulae of the followings
+(i) Valeric acid                      (ii) Propionic acid                               (iii) Oxalic acid               (iv) Benzoic acid                  (v) Acetic anhydride                           (vi) Acetyl chloride
+Q. 5 Write down the names of the following compounds by IUPAC system.(i)  
+                                           (ii)  
+(iii)  
+                               (iv)  
+(v)  CH2COOH                                                  (vi)  HCOOC3H7
+      NH2
+Q. 6 (a)  How is acetic acid manufactured? What is glacial acetic acid?
+(b) How would you convert acetic acid into the following compounds?
+(i) Methane                              (ii) Acetyl chloride                                    (iii) Acetamide(iv) Acetic anhydrideQ. 10  What happens when the following compounds are heated.
+(i) Calcium acetate                                                (ii) Sodium formate and soda lime(iii) Ammonium acetateQ. 11 What are amino acids? Explain their different types with one example in each case.
+Q. 12  Write a short note on acidic and basic characters of an amino acid.
+Q. 13  What is a peptide bond? Write down the formula of a dipeptide.
+Q. 14  What are zwitter ions?
+Q. 15  What are a amino acids, proteins and peptides? How are they related?
+Q. 16 Study the facts given in (a), (b) and (c) below and then answer questions 
+which follow.(a) A is an organic compound made up of C, H and O. It has a vapour density 15.[Hint: Molecular mass = 2 x vapour density].
+Q. 7 (a)  What are fatty acids ?
+(b) What is vinegar? Describe how is vinegar prepared from ethanol?
+Q. 8 How would you carry out the following conversions?
+(i) Acetic acid into acetamide                             (ii) Acetic acid into acetone
+Q. 9 Write down the mechanisms of the following reactions.(i) between acetic acid and ethanol                  (ii) between acetic acid and ammonia(iii) between acetic acid and thionyl chloride(b) On reduction A gives a compound ‘X’ which has the following properties.(i) X is a colourless liquid miscibie with water.(ii) X is neutral to litmus.(iii) When X is warmed with a few drops of conc. H
+2SO4  followed by a little salicylic 
+acid a characteristic smell is produced.(c) When X is subjected to strong oxidation, it gives compound B, which has the following properties.(i) B is a pungent smelling mobile liquid.(ii) It is miscible with water, alcohol or ether.(iii) It is corrosive and produces blisters on contact with skin.(iv) B can be obtained by passing the vapours of A with air over platinum black catalyst.(v) B liberates H, with sodium.(vi) It givesCO
+2 with NaHCO3.
+1.
+ What is the molecular mass of A?
+2.
+ Identify A, X and B.
+3.
+ Give five appropriate reactions to confirm the identities of A, X and B.
+4.
+ State one large-scale use of either A, X or B.

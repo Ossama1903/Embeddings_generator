@@ -1,0 +1,521 @@
+CHAPTER
+13 Gaseous 
+Exchange
+Animation 13.1: Gaseous Exchange
+Source & Credit: Wikispaces213. Gaseous Exchange eLearn.Punjab
+V: 1.1NEED OF RESPIRATORY GAS EXCHANGE
+At all levels of activities in living organisms an uni nterrupted supply of energy is required. Respiration 
+is one of the most important metabolic activities of  all organisms. Respiration occurs at two levels, i. e, 
+organismic and cellular level. Organismic respiratio n is also known as breathing or ventilation. The 
+cellular respiration is directly involved in the produ ction of energy, necessary for all living activities. 
+Cellular respiration is the process by which cell ut ilizes oxygen, produces carbon dioxide, extracts and  
+conserves the energy from food molecules in biologica lly useful form, such as, ATP.
+ADVANTAGES AND DISADVANTAGES OF 
+GAS EXCHANGE IN AIR AND IN WATER
+Exchange of gases during organismic respiration is carried out only by difusion. Respiratory gases 
+are exchanged between body luid and outside medium w hich may be water or air. There is no active 
+transport mechanism to move respiratory gases across biological membranes. For that matter, air is 
+better respiratory’ medium than water. Oxygen can be o btained more easily from air than from water 
+because of many reasons.
+Firstly, the oxygen content of air is much higher tha n the oxygen content of equal volume of water. A 
+liter of water cannot contain even 10 ml of oxygen wh ereas oxygen content of fresh air is about 200 ml 
+per liter. Secondly, oxygen difuses about 8000 times more quickly in air than in water.
+Breathing or ventilation is directly involved in the ex change of gases .The ventilation of water is far 
+more diicult than the ventilation of air, because wa ter is 8000 times more dense than air .In terms 
+of viscosity the water is 50 times more viscous, which  makes it more diicult for exchange of gases as 
+compared to air.313. Gaseous Exchange eLearn.Punjab
+V: 1.1GASEOUS EXCHANGE IN PLANTS
+Plants like animals also get their energy from respiration. In plants, in contrast to animals, no special 
+organ or system is present for gaseous exchange as they exist in higher animals. Every cell of plant 
+carries out exchange of gases according to its needs. The transpor t system of plants which includes 
+conducting tissues i.e. xylem and phloem is not involved in the tran sport of gases in the plants. 
+In most cells of mesophyll which are specialized for photosynthes is, there are present large air 
+spaces. These air spaces are directly involved in gaseous exchan ge. Stomata are the main sites of 
+exchange of gases in plants. Stomata are largely present in the l eaves and in young stem. In older 
+stems, cork tissue is present which is formed of dead cells. Th e cork tissue has special pores called
+lenticels which are involved in gaseous exchange. Land plants get their oxygen directly from air which 
+enters through stomata. Enormous number of stomata are. present on the l eaves. It is estimated 
+that there are 12000 stomata per square centimeter of leaf surface in  Tobacco plant. These stomata 
+lead to the intercellular spaces (spaces between cells) of mesophyl l tissue. The air spaces are 
+comparable to honey comb. These 
+air spaces may comprise up to 40% 
+of the total volume of the leaf. The 
+exchange of gases between and the 
+moist surface of mesophyll cells 
+takes place promptly (Fig 13.1). The 
+roots of the land plants get their 
+oxygen from the air existing in the 
+spaces between the soil particles. 
+Aquatic plants obtain their oxygen 
+by difusion from dissolved oxygen 
+in water.
+                                                                                           Fig. 13.1 St omata on leaf surface413. Gaseous Exchange eLearn.Punjab
+V: 1.1Photorespiration and its Consequences
+Respiratory activity which occurs in plants during daytime is  called photorespiration . In the process 
+of photorespiration carbon dioxide is released and oxygen is abs orbed. The oxygen absorbed is 
+not useful to produce energy such as ATP. In other words photorespi ration is a light dependent 
+process during which oxygen is absorbed and carbon dioxide i s released. This oxygen is derived 
+from the early reaction of photosynthesis.
+The photorespiration is a process in which ribulose bisphosphate carboxylase/oxygenase (rubisco) 
+ixes oxygen instead of carbon dioxide which results in lowering the overall rate of carbon dioxide 
+ixation and plant growth. 
+Ribulose 1,5 bisphosphate (RuBP) reacts with oxygen in  photorespiration
+The irst step of photorespiration during which RuBP reacts with ox ygen is carried out by rubisco, 
+the most abundant protein in chloroplasts and probably the most ab undant protein in the world. 
+The rubisco is carboxylase as well as oxygenase. When rubis co acts as carboxylase it adds carbon 
+dioxide to RuBP, which is an accepter molecule. On the other hand when rubisco is oxygenase 
+it adds oxygen to RuBP. Both these reactions compete with each other. When  RuBP reacts with 
+oxygen, a two carbon compound glycolate is produced.
+                                   RuBP            +           O2          8   Glycolate
+The glycolate thus produced difuses into the membrane bounded organel les known as peroxisomes . 
+In the peroxisomes the glycolate is converted into glycine, through a ser ies of reactions.
+                                                       Glycolate                8   glycine
+The glycine is the simplest amino acid which soon after its form ation difuses into the mitochondria  
+where two glycine molecules are converted into serine and synthesis a molecule of carbon dioxide 
+is formed.
+                                        2 glycine          8         serine     +     CO2513. Gaseous Exchange eLearn.Punjab
+V: 1.1The pathway in which RuBP is converted into serine is called ph otorespiration. The process of 
+photorespiration uses ATP and NADPH produced in the light reactions  just like Calvin-Benson 
+cycle.  But, in fact, photorespiration is reverse of Calvin cycle. During photorespiration carbon 
+dioxide is released instead of ixation into carbohydrates. In most p lants photorespiration reduces 
+the amount of carbon ixed into -carbohydrates by 25%.
+In a hot and dry day the level of oxygen inside the leaf rises. T his is because the stomata close to 
+prevent the loss of water. The level of carbon dioxide falls because i t is being consumed and the 
+level of oxygen rises because closed stomata do not let it go out.
+It is interesting that apparently the photorespiration reduces the photosy nthetic process and it is 
+not essential for plants and many plants grow normally without th e process of photorespiration. It 
+is also observed that if photorespiration is inhibited chemically , the plant can, still grow. Then why 
+does photorespiration exist? The common simple answer to this question  is that the active site of 
+rubisco is evolved to bind both carbon dioxide and oxygen together. Ori ginally it was not a problem 
+as there was little oxygen in the atmosphere and the carbon dioxid e binding activity was the only 
+one used. The photorespiration started when the quantity of oxygen becam e more.
+RESPIRATORY ORGANS IN REPRESENTATIVE
+AQUATIC AND TERRESTRIAL ANIMALS
+ Properties of respiratory surfaces in animals
+Respiratory surfaces in animals are the sites where gaseous exch ange takes place. The respiratory 
+surfaces in most animals exhibit the following features :
+1. Large surface and moisture:
+The surface area should be extremely large and kept moist as it is  seen in the lungs in the land 
+vertebrates and in the gills in the case of ishes.
+2. Thin epithelium:
+The distance across which difusion has to take place should be little. In most animals the epithelium 
+which separates air and blood is only two cell thick. As a res ult the distance for difusion is very 
+short.613. Gaseous Exchange eLearn.Punjab
+V: 1.13. Ventilation:
+Ventilation maintains a steep difusion gradient. There is 
+a big diference in the concentration of the gases at two 
+points which brings about difusion.
+4. Capillary network:
+The respiratory site should possess extensive network of 
+capillaries through which blood should low all the ime at 
+an adequate speed. In this way steep difusion gradient is 
+maintained which helps in rapid difusion of oxygen.
+Respiration in Hydra
+Hydra has no specialized organs for respiration. Exchange 
+of gases i.e., intake of oxygen and removal of carbon dioxide, 
+occurs through the entire general surface in contact with 
+water. Exchange of oxygen in and carbon dioxide out also 
+occurs in cells lining the digestive cavity. In this way the 
+surface lining of the enteron acts., as an eicient respiratory 
+surface (Fig. 13.2).
+Fig 13.2 Respiration in Hydra 
+Animation 13.2: Hydra
+Source and Credit: carnivoraforum713. Gaseous Exchange eLearn.Punjab
+V: 1.1Respiration in Earthworm
+Although earthworm is much complex than hydra, yet it does not ha ve any specialized respiratory 
+organs. The exchange of gases occurs mainly through skin. Sk in is richly supplied with blood capillaries 
+and is always kept moist by the secretion of epidermal mucous gl and cells and also by coelomic 
+luid exuding out through the dorsal pores. Oxygen dissolved on the w et surface passes through 
+the cuticle and epidermal cells into the blood. In the blood, oxyg en combines with haemoglobin 
+to form oxyhaemoglobin.Oxyhaemoglobin releases up oxygen at the tissue level. In earthworm, 
+blood does not come into direct contact with tissue cells so oxygen must d ifuse through the tissue 
+luids and coelomic luids. Carbon dioxide is removed from the tiss ues by the blood and carried in 
+the plasma to skin, from where it is excreted ((Fig. 13.3) 
+Animation 13.4: Respiration in Earthworm
+Source and Credit: waterwereldAnimation 13.3: hydra
+Source and Credit: gifsoup813. Gaseous Exchange eLearn.Punjab
+V: 1.1     
+     Fig. 13.3 Respiration in Earthworm
+RESPIRATION IN COCKROACH
+Cockroach has specialized organs for respiration. The respirator y system of the cockroach is very 
+specialized. It consists of branching systems of air tubules c alled tracheae lined by chitin. The main 
+tracheal trunk communicates with exterior by 10 pairs of apertures  called spiracles , present on 
+the lateral sides of the body. Two pairs are in thorax while the res t eight are in each of the eight913. Gaseous Exchange eLearn.Punjab
+V: 1.1abdominal segments. The main tracheae divide 
+and subdivide forming very ine thin-walled 
+tubules called tracheoles . These tracheoles end 
+into blind ducts partly illed with luid, in which 
+the oxygen dissolves. These surround the organs 
+and the tissues and directly supply oxygen to the 
+living cells. A concentration gradient is set up 
+between them and the spiracular openings and 
+oxygen difuses into the trachea from the outside 
+air. The movement of the air through the tracheal 
+trunks transfers gases through inspiration and 
+expiration. Air is pumped in and out of the 
+tracheae by the expansion and contraction of 
+the abdominal muscles (Dorsoventral muscles). 
+When abdomen expands, the irst four pairs 
+of spiracles open, air rushes in through these 
+spiracles into tracheoles. Abdomen contracts, the 
+anterior four pairs of spiracles close and posterior 
+six pairs of spiracles open. This forces air through 
+the tubes and eventually out of the body. In this 
+way exhalation and inhalation take place. From 
+the spiracles air enters into trachea and then 
+tracheole, from where gaseous exchange between 
+tissue cells and air in tracheole takes place. Thus 
+air is directly supplied through tracheoles to the 
+tissue cells. Blood is not involved in transport of 
+gases(Fig.l3.4).
+Fig. 13.4 Respiration in Cockroach1013. Gaseous Exchange eLearn.Punjab
+V: 1.1Animation 13.5: COCKROACH
+Source and Credit: presentmam
+Animation 13.6: Gas Exchange in Fish
+Source and Credit: s-cool.co.uk1113. Gaseous Exchange eLearn.Punjab
+V: 1.1Respiration in ish 
+Fish respires through the gills which are paired structures pr esent on either side of the body almost 
+at the junction of head and trunk. Gills are most efective and highl y modiied for gaseous exchange 
+in aquatic animals. They are in four to ive pairs which may  open through gill slits and are visible on
+the surface of the pharynx (cartilaginous ish) or are placed i n bronchial cavities which are covered 
+by operculum . Gills have great surface area for gaseous exchange. The gill s urface is all the time 
+ventilated by constant low of water. Heart pumps the blood directly to the gills from where 
+oxygenated blood is carried to all the parts of the body. The deoxygena ted blood from diferent 
+parts of the body is received by heart. The heart of the ish is sing le circuit and the blood lows in 
+only one direction. The blood enters the posterior side of heart and after passing through diferent 
+chambers it is pumped into the gills. Water enters through the m outh and after passing over the 
+gills move out of the body through the gill openings (Fig. 13.5)
+      
+       Fig. 13.5 Water lows unidirectionally over the gills  of a ish.1213. Gaseous Exchange eLearn.Punjab
+V: 1.1Respiration in Frog
+In frog, the gaseous exchange occurs through the lungs, by ski n, and buccal chamber which are 
+richly supplied with blood vessels. The gaseous exchange through  the skin is known as cutaneous 
+respiration. 
+Gaseous exchange through the lungs is called pulmonary respiration . In frog the air enters 
+through the nostrils, when the nostrils are open; the mouth is closed . After entry of air the nostrils 
+close, the loor of buccal cavity is raised, air is pushed into th e lungs. This intake of air is known as 
+inhalation or inspiration . Expiration occurs exactly in reverse order in sequence of inspi ration.
+                  Fig. 13.6 Two stages in inspiration (b uccal respiration)
+Animation 13.7: Respiration in Frog   
+Source and Credit: clipartbest1313. Gaseous Exchange eLearn.Punjab
+V: 1.1Lungs in frog are simple sacs almost like balloon when they are fully expanded. The inner surface 
+of lung is increased by thin walled air chambers. The wal ls of these air chambers are richly supplied 
+with capillaries. These blood containing areas in the lungs a re the main sites for gaseous exchange. 
+The consumed air after gaseous exchange moves out of the lungs through  the nostrils. The removal 
+of consumed air out of the lungs, after gaseous exchange has occu rred, is called exhalation or 
+expiration  (Fig. 13.6).
+Respiration in birds
+Respiratory system in birds is the most eicient and elaborate. The b irds are very active animals 
+with high metabolic rate, and thus need large amount of oxygen. Th e respiratory system in the birds 
+is so arranged that there is one way low of the air through the lung s and the air is renewed after 
+inspiration. In the lungs of birds, tiny thin walled ducts c alled parabronchi  are present instead of 
+alveoli. These parabronchi are open at both ends and the air; is  constantly ventilated. The walls of the 
+parabronchi are chief sites of gaseous 
+exchange. The direction of the blood 
+low in the lungs is opposite to that of the 
+air low through the parabronchi. This 
+counter current exchange increases the 
+amount of oxygen which enters blood. 
+Lungs in birds are very eicient in this 
+respect as well, because no stale of air 
+remains in the parabronchi. 
+The lungs have also developed several 
+extensions known as air sacs which reach 
+all parts of the body and even penetrate 
+some of the bones. In most birds the air 
+sacs are nine in number which become 
+inlated by air at atmospheric pressure 
+when the rib articulations are rotated 
+forward and upward. The inlated air 
+sacs act as bellows and send air into the 
+parabronchi for gaseous exchange.
+Fig. 13.7 The Respiratory System of Bird1413. Gaseous Exchange eLearn.Punjab
+V: 1.1Respiration in man
+In man respiratory system includes lungs and air passages  which are responsible for carrying fresh 
+air to the respiratory sites. 
+Air Passage Ways
+Air passage ways consist of nostrils, nasal cavities, phary nx, larynx, trachea, bronchi, bronchioles 
+and alveolar ducts which ultimately lead into the alveolar sac. N asal cavities are lined with mucous 
+membrane of ciliated epithelium. Each nasal cavity is subdivid ed into three passage ways by the 
+projection of bones from the walls of the internal nose. Air enters th e nasal cavity through nostril 
+and the larger dust particles are trapped by the hair and mu cus in the nostrils. Air, while passing 
+through the nasal cavity, becomes moist, warm and iltered of small er foreign particles by mucous Animation 13.8: Respiration in Frog   
+Source and Credit: clipartbest1513. Gaseous Exchange eLearn.Punjab
+V: 1.1membrane. The nasal cavity leads into the throat or pharynx by two internal openings. The pharynx 
+is a muscular passage lined with mucous membrane. The air  is channelized from the pharynx into 
+the larynx.
+The larynx  or voice box is a complex cartilaginous structure surrounding the upper end of the 
+trachea. One of the cartilages, the epiglottis has a muscularly c ontrolled, hinge-like action and 
+serves as a lid which automatically covers the opening of the lar ynx during the act of swallowing so 
+as to prevent the entry of food or liquids into the larynx. The openi ng of larynx is called glottis and 
+is also lined with mucous membrane. In the glottis the mucous m embrane is stretched across into 
+two thin edged ibrous bands called vocal cords,  which help in voice production, when vibrated by 
+air.
+Fig. 13.8 Events in the throat associated with breathing (a) and swallowing (b). The commonly held belief that th e epiglottis closes 
+downward upon the larynx when food is swallowed is not quite true. The closure is probably never complete; the degree of cl osure 
+is determined partly by the backward movement of the tongue  during swallowing (which forces the epiglottis into a more or le ss 
+horizontal position) and partly by the upward movement of the  larynx (which brings it up under the epiglottis). Food does not enter 
+the partly open larynx and obstruct breathing primarily becau se the epiglottis diverts the food mass to one side of the ope ning and 
+safely down the esophagus.
+The trachea  or wind Pipe  is a tubular structure lying ventral to the oesophagus and extends to the
+chest cavity or thorax where it is divided into right and left bron chi. In the wall of trachea there 
+are a series of C shaped cartilage rings which prevent the trachea  from collapsing and keep the 
+passage of air open. Each bronchus on entering the lung divides  and subdivides progressively into1613. Gaseous Exchange eLearn.Punjab
+V: 1.1smaller and smaller bronchi . When the smaller bronchi attain a diameter of one mm or less, th en 
+they are called bronchioles . Bronchi have thesame cartilage rings as the trachea, but the rin gs are 
+progressively replaced by irregularly distributed cartilage pl ates and the bronchioles totally lack 
+cartilages. Bronchioles are made up of mainly circular smooth muscles.
+The bronchioles continue to divide and subdivide deep into the lungs a nd inally open into a large
+number of air-sacs. Air-sac is the functional unit of the lun gs. Each air-sac consists of several 
+microscopic single layered structures called alveoli . Overlying the alveoli there is a rich network of 
+blood capillaries to produce an excellent site for the exchange of g ases.
+The lungs are closed sacs that are connected to the outside by way of the trachea and the nostrils 
+or mouth. Lungs are spongy because of the presence of millions of alveoli. Lungs are placed in 
+the chest cavity. Chest cavity is bounded by ribs and muscles on the sides. The loor of the chest is 
+called diaphragm .Diaphragm is a sheet of skeletal muscles. Lungs are covered with double layered 
+thin membranous sacs called pleura (Fig. 13.9).
+                                                                         
+                                                                          Fig. 13.9 Human respiratory organs1713. Gaseous Exchange eLearn.Punjab
+V: 1.1MECHANICS OF VOLUNTARY AND INVOLUNTARY
+REGULATION OF BREATHING IN MAN
+Breathing is a process in which fresh air containing more oxy gen is pumped into the lungs and air 
+with more carbon dioxide is pumped out of the lungs. In other words  breathing is a mechanical 
+process consisting of two phases, inspiration and expiration. Dur ing inspiration, fresh air moves in 
+and in expiration air with low O2 and high CO2 content moves out of the lungs. During rest breathing Animation 13.9: Respiratory System   
+Source and Credit: pleasanton.k121813. Gaseous Exchange eLearn.Punjab
+V: 1.1occurs rhythmically at the frequency of 15 to 20 times per minute in humans. To understand the 
+mechanism of breathing we should keep in mind three aspects related  to lungs and associated 
+structures.
+1.    Lungs are spongy in nature. The lungs themselves neith er pull air in nor can they push it out.   
+       During inspiration passive expansion of elastic lungs occurs and expiration is due to a passive 
+       contraction of lungs.
+2.    The loor of the chest cavity is diaphragm, which is a m uscular sheet. The snape of the 
+        diaphragm is more domelike when its muscles are relax ed. On the other hand when the 
+        muscles of the diaphragm contract its shape becomes les s domelike.
+3.      Walls of the chest cavity are composed of ribs and interc ostal muscles. When muscles between  
+        the ribs contract, the ribs are elevated and when muscles  between ribs are relaxed the ribs 
+         settle down. 
+Inspiration
+During inspiration the space inside the chest cavity is increased  in two ways. Firstly, the muscles of 
+ribs contract and elevate the ribs upwards and forwards and sec ondly, the muscles of diaphragm
+          Fig. 13.10 Movement of Diaphragm1913. Gaseous Exchange eLearn.Punjab
+V: 1.1also contract and diaphragm becomes less domelike. This downwar d movement of diaphragm 
+and outward and upward movement of the ribs causes increase in the chest cavity and reduces 
+pressure. When the pressure from the lungs is removed they expand. W ith the expansion of the 
+lungs vacuum is created inside the lungs in which the air  rushes from the outside due to higher 
+atmospheric pressure. This is called inspiration (Fig. 13.1 0,13.11)
+Expiration
+During expiration the muscles of ribs are relaxed and the ribs  move downward and inward. In 
+this way from the sides of chest cavity the space becomes less. At th e same time the muscles 
+of diaphragm also relax becoming more domelike 
+and the chest cavity is also reduced from the loor. 
+This reduction in space of the chest cavity exerts 
+pressure on the lungs. When lungs are pressed the 
+qir inside lungs moves out of the lungs and this is 
+expiration. (Fig. 13.10, 13.11)
+                                                                         
+                                                                                                            Fig. 13.11In Premature infant, respiratory distress syndrome  is 
+common, especially for infant with a gestation age of less 
+than 7 months. This occurs because enough surfactant 
+(mixture of lipoprotein molecules produced by the secretary 
+cells of the alveolar epithelium which forms a layer over the  
+surface of the luid within the alveoli to reduce the surface  
+tension) is not produced to reduce the tendency of the lungs  
+to collapse.2013. Gaseous Exchange eLearn.Punjab
+V: 1.1TRANSPORT OF RESPIRATORY GASES
+Intake of oxygen and release of carbon dioxide by blood passing through capillaries of alveoli is 
+brought about by the following factors.
+1.    Difusion of oxygen in and carbon dioxide out occurs becau se  
+        of diference in partial pressures of these gases.
+2.   Within the rich network of capillaries surrounding the al veoli, 
+       blood is distributed in extremely  thin layers and, theref ore,  
+       exposed to large alveolar surface.
+3.   Blood in the lungs is separated from the alveolar air by extr emely thin membranes of the  
+      capillaries and alveoli.
+Transport of Oxygen
+In human beings the respiratory pigment is haemoglobin. It is c ontained in the red blood corpuscles. 
+Haemoglobin readily combines with oxygen to form bright red oxyhaem oglobin. Oxyhaemoglobin 
+is unistable and splits into the normal purple-red coloured haemog lobin and oxygen in the 
+conditions of low oxygen concentration and less pressure.Carbonic a nhydrase enzyme present in 
+R.B.C. facilitates this activity. In this way haemoglobin acts as an eicient oxygen carrier. A small 
+proportion of oxygen also gets dissolved in the blood plasma.
+                                     Hb + O2            m  HbO2
+Haemoglobin can absorb maximum oxygen at the sea level. The max imum amount of oxygen 
+which normal human blood absorbs and carries at the sea-level i s about 20ml/100ml of blood. This 
+is the maximum capacity of haemoglobin for oxygen when it is fu lly oxygenated. Under normal 
+conditions, blood of alveoli of the lungs is not completely oxygenated. When an oxygen tension is 
+115mm mercury, haemoglobin is 98 percent saturated and, therefore,  contains 19.6 ml of oxygen 
+per 100ml of blood. This means that haemoglobin can be almost com pletely oxygenated by an 
+oxygen pressure of 100 mm mercury, which is present in the lu ngs. Any higher oxygen pressure 
+would have the same result. When oxygen pressure falls below 60 mm mercury, as in many cells and 
+tissues, the oxygen saturation of haemoglobin decreases very sharpl y. This results in the liberation2113. Gaseous Exchange eLearn.Punjab
+V: 1.1of large quantities of oxygen from haemoglobin. In 
+this way in the tissue where oxygen tension is low 
+oxyhaemoglobin dissociates rapidly.
+There are three important factors which afect the capacity of haemoglob in to combine with oxygen.
+1. Carbon dioxide
+When carbon dioxide pressure increases, the oxygen tension decrease s, the capacity of haemoglobin 
+to hold oxygen becomes less. In this way increased carbon dioxid e tension favours the greater 
+liberation of oxygen from the blood to the tissue. 
+2. Temperature
+Rise in temperature also causes a decrease in the oxygen-carrying capacity of blood, e.g., in the 
+increased muscular activity.
+3. pH
+The pH of blood also inluences the degree to which oxygen binds to ha emoglobin. As the pH of the 
+blood declines, the amount of oxygen bound to haemoglobin also declines . This occurs because 
+decreased pH results from an increase in hydrogen ions, and the hydrogen ions combine with the 
+protein part of the haemoglobin molecules, causing a decrease in th e ability of haemoglobin to 
+bind oxygen. Conversely, an increase in blood pH results in an increased ability of haemoglobin to 
+bind oxygen.
+Transport of Carbon Dioxide
+Carbon dioxide is more soluble than oxygen and 
+dissolves freely in the tissue luid surrounding the 
+cells. From the tissue luid, dissolved carbon dioxide 
+passes to the plasma within the blood capillaries.
+Carbon dioxide is transported in the blood in several diferent states.
+1. Some of the carbon dioxide (about 20%) is carried as carboxy haemoglobin. Carboxyhaemoglobin 
+is formed when carbon dioxide combines with amino group of ha emoglobin.
+2. Other plasma proteins also carry about 5% carbon dioxide fr om the body luids to the capillaries 
+of lungs.As a scuba diver descends in the sea, the pressure of th e 
+water on his body prevents normal expansion of the lungs. 
+To compensate, the diver breaths pressurized air from air 
+cylinders, which has a greater pressure than sea level ai r 
+pressure.
+Carbon dioxide which is much more important than oxygen 
+as a regulator of normal alveoler ventilation (Breathing) but 
+under certain circumstances a reduced P02 (partial pressure 
+of the oxygen) in the arterial blood does play an important 
+stimulatory role especially during conditions of shock.2213. Gaseous Exchange eLearn.Punjab
+V: 1.13. About 70% carbon dioxide is carried as bicarbonate ion comb ined with sodium in the plasma. As 
+carbon dioxide from tissue luid enters the capillaries it combines  to form carbonic acid.
+                                                        
+                                                          Corbonic anhydrase 
+                                CO2        +     h2O          7 H2CO3
+The carbonic acid splits quickly and ionizes to produce hyd rogen ions and bicarbonate ions.
+                                                  H2CO3  7  H+ + HCO3-
+When blood leaves the capillary bed most of the carbon dioxide is  in the form of bicarbonate 
+ions. All these reactions are reversible. In the lungs bicarbona te ions combine with hydrogen ions 
+to form carbonic acid which splits into water and carbon diox ide. It is this carbon dioxide which 
+difuses out from the capillaries of the lungs into the space of alveol ar sac.
+                    HCO3-       +      H+             7  H2CO3          7        CO2        +        H2O
+4. Small amount of carbon dioxide is also carried by corpus cles combined with potassium.
+Carbon Dioxide Concentration
+in Arterial And Venous Blood
+It has been found that arterial blood contains about 50 ml of carb on dioxide per 100 ml of blood 
+whereas venous blood has 54 ml of carbon dioxide per 100 ml of b lood. In this way each 100 ml 
+of blood takes up just 4 ml of carbon dioxide as it passes throug h the tissues and gives of 4 ml of 
+carbon dioxide per 100 ml of blood as it passes through the lu ngs.
+Respiratory Disorders
+Cancer
+Many problems in the respiratory system can take place if insid e lining is exposed continuously 
+to unhealthy air, containing smoke and other pollutants. Lung ca ncer is one of the most serious 
+diseases of respiratory system. Cancer or carcinoma is basical ly malignant tumor of potentially 
+unlimited growth that expands locally by invasion and systemica lly by metastasis. Cancer can 
+occlude respiratory passages as the tumor replaces lung tissue. Smoking especially in young adults 
+is the most potential threat of lung cancer. The chances of lung ca ncer are ten times more in those2313. Gaseous Exchange eLearn.Punjab
+V: 1.1persons who smoke or live in smoky and congested areas as compared to those who do not smoke. 
+It is now estimated that 90% of lung cancer is caused by smokin g. Recent research indicates that 
+more than ten compounds of tar of tobacco smoke are involved in causing  cancer.
+Tuberculosis
+Tuberculosis is a disorder of respiratory system. In fact, it i s the general name of a group of diseases 
+caused by Mycobacterium tuberculosis . Pulmonary tuberculosis is a disease of lungs in which in side 
+of the lung is damaged resulting in cough and fever. It is mor e common in poor people. Malnutrition 
+and poor living conditions facilitate Mycobacterium  to grow. The disease is curable with proper 
+medical attention. It is a contagious disease.
+Asthma
+Asthma is a serious respiratory disease associated with severe parox ysm of diicult breathing, 
+usually followed by a period of complete relief, with recurrence of attack at more or less frequent 
+intervals. It is an allergic reaction to pollen, spores, cold, hu midity, pollution etc which manifests itself 
+by spasmodic contraction of small bronchiole tubes. Asthma resul ts in the release of inlammatory 
+chemicals such as histamines into the circulatory system that c ause severe contraction of the 
+bronchiole.
+Emphysema
+Emphysema is a break down of alveoli. This respiratory probl em is more common among smokers. 
+The substances present in the smoke of the tobacco weaken the wall of a lveoli. The irritant substances 
+of smoke generally cause “smoker’s cough” and 
+coughing bursts some of the weakened alveoli. In the 
+result of constant coughing the absorbing surface of 
+the lung is greatly reduced. The person sufering from 
+emphysema cannot oxygenate his blood properly and 
+least exertion makes him breathless and exhausted.
+Emphysema produces increased airway resistance because the br onchioles are obstructed as a 
+result of inlammation and because damaged bronchioles collapse d uring expiration, trapping air 
+within the alveolar sacs.
+Role of Respiratory Pigments
+Various types of respiratory pigments are present in diferent anima ls. The pigment combines with 
+oxygen reversibly and increase the oxygen carrying capacity of  the blood. Haemoglobin is the mostIn patients with emphysema, alveolar walls degenerate 
+and small alveoli combine to form larger alveoli. The result 
+is fewer alveoli, but alveoli with an increased volume an d 
+decreased surface area. Although the enlarged alveoli 
+are still ventilated, there is inadequate surface area for 
+complete gas exchange, and the physiological dead air 
+space is increased.2413. Gaseous Exchange eLearn.Punjab
+V: 1.1important protein present in many animals including man. Ha emoglobin in man increases the oxygen 
+carrying capacity of the blood to about 75 times. You are familia r with its chemical composition.
+Myoglobin is haemoglobin-like iron-containipg protein pigment occu rring in muscle ibers. 
+Myoglobin is also known as muscle haemoglobin. It serves as an  intermediate compound for the 
+transfer of oxygen from haemoglobin to aerobic metabolic processes of the muscle cells. It can 
+also store some oxygen. Myoglobin consists of just one polypeptide chai n associated with an iron-
+containing ring structure which can bind with one molecule of ox ygen. The ainity of myoglobins 
+to combine with oxygen is much higher as compared to haemoglobin.  
+Lung capacities
+In an adult human being when the lungs are fully inlated the total inside capacity of lungs is about 
+5 litres. Normally when we are at rest or asleep the exchange is onl y about half a litre. The volume 
+of air taken inside the lungs and expelled during exercise is a bout 3.5 litres. In other words, there 
+is a residual volume of 1.5 litres even during exercise which ca nnot be expelled.
+Normally, at rest we inhale and exhale 15-20 times per minute. Du ring exercise the breathing rate 
+may rise to 30 times per minute. The increased rate and depth of b reathing during exercise allows 
+more oxygen to dissolve in blood and supplied be to the active muscl es. The extra carbon dioxide 
+which the muscle puts into the blood is removed by deep and fast br eathing. There is a little change 
+in the composition of inhaled and exhaled air during rest or exer cise in most of the constituents of 
+the air as seen in the Table 13.1Diving relex
+Aquatic mammals especially cetaceans can stay in the depth of the ocean for about two hours 
+without coming up for air.
+Diving mammals have almost twice the volume of blood in relation to their  body weight as 
+compared to non divers. Most of the diving mammals have high concen tration of myoglobin in 
+their muscles. Myoglobin binds extra oxygen. 
+When a mammal dives to its limit the diving relex is activated. The breathing stops, the rate of 
+heart beat slows down to one tenth of the normal rate, theconsumption of oxyg en and energy 
+is reduced. The blood is redistributed but most of the blood goes to the brain and heart which 
+can least withstand anoxia. Skin muscles and digestive organs and other internal organs receive 
+very little blood while an animal is submerged because these area s can survive with less oxygen. 
+Muscles shift from aerobic to anaerobic respiration.2513. Gaseous Exchange eLearn.Punjab
+V: 1.1                           Table 13.1. Changes in the composition of the breath ed air
+                       
+Inhaled % Exhaled %
+Oxygen 21 16
+Carbon dioxide 0.04 4
+Water vapours variable saturated
+Nitrogen 79 792613. Gaseous Exchange eLearn.Punjab
+V: 1.1EXERCISE
+Q .1      Fill in the blanks
+              (i)      _____________ is the most abunda nt protein in the world.
+              (ii)    Haemoglobin is a complex molecule whi ch contains 9512 atoms and __________amino 
+                      acids.
+              (iii)   The opening of larynx is called _ ____________________.
+                (iv)    When the smaller bronchi attain the diameter of____________mm or less they are called   
+                      bronchioles
+              (v)    There are about ____________ stomata per square centimeter of leaf surface of tobacco  
+                      plant     
+Q.2.      Write whether the statement is true or fals e. Correct the statement if it is false.
+             (i)      ATP is generated during organismic  respiration .
+             (ii)     Water is a better respiratory medium th an air.
+             (iii)    The earthworm does not possess special ized organs for respiration.
+             (iv)    In parabronchi of birds, the blood low s in the opposite direction of air low.
+             (v)     Ring shaped cartilages are present in  trachea of man.
+Q.3.      Short questions
+             (i)          How does breathing difer from res piration?
+             (ii)         How much carbon dioxide is pr esent in venous and arterial blood?
+             (iii)        How does air always remain in  the lungs of human beings?
+             (iv)        What are the products which are pr oduced during photorespiration?2713. Gaseous Exchange eLearn.Punjab
+V: 1.1             (v)         How much denser is a water medium  than air medium for exchange of respiratory
+                          gases?
+Q.4      Extensive questions
+             (i)          In what ways is air a better respiratory medium than water?
+             (ii)         What is photorespiration? Give its c onsequences.
+             (iii)        Describe briely the properties of res piratory surfaces in cockroach.
+             (iv)        In what ways is respiration in birds the most eicient and elaborate?
+             (v)         Discuss the mechanical aspects of breathing in man.
+             (vi)        Write a detailed note on respiratory p igments.
+             (vii)       List the air passage way in sequ ence from nostrils to alveoli. Describe the structure 
+                          of alveolus in detail.

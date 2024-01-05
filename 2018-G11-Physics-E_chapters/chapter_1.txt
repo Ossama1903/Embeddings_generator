@@ -1,0 +1,1170 @@
+
+Chapter
+MEASUREMENTS
+Learning Objectives
+At the end of this chapter the students will be able to:
+1.
+Understand what is Physics.
+2.
+Understand that all physical quantities consist of a numerical magnitude and a unit.
+3.
+Recall the following base quantities and their units: mass (kg), length (m), time (s),
+current (A), temperature (K), luminous intensity (cd) and amount of substance (mol).
+4.
+Describe and use base units, supplementary units, and derived units.
+5.
+Understand and use the scientific notation.
+6.
+Use the standard prefixes and their symbols to Indicate decimal sub-multiples or
+multiples to both base and derived units.
+7.
+Understand and use the conventions for indicating units.
+8.
+Understand the distinction between systematic errors and random errors.
+9.
+Understand and use the significant figures.
+10. Understand the distinction between precision and accuracy.
+11. Assess the uncertainty in a derived quantity by simple addition of actual, fractional
+or percentage uncertainties.
+12. Quote answers with correct scientific notation, number of significant figures and
+units in all numerical and practical work.
+13. Use dimensionality to check the homogeneity of physical equations,
+14. Derive formulae in simple cases using dimensions.
+E
+versince man has started to observe, think and reason he has been wondering about
+the world around him. He tried to find ways to organize the disorder prevailing in the observed
+facts about the natural phenomena and material things in an orderly manner. His attempts
+resulted in the birth of a single discipline of science, called natural philosophy. There was a
+1
+---
+
+huge increase in the volume of scientific knowledge up till the
+beginning of nineteenth century and it was found necessary
+to classify the study of nature into two branches, the
+biological sciences which deal with living things and physical
+sciences which concern with non-living things. Physics is an
+important and basic part of physical sciences besides its
+other disciplines such as chemistry, astronomy, geology etc.
+Physics is an experimental science and the scientific method
+emphasizes the need of accurate measurement of various
+measurable features of different phenomena or of man made
+Areas of Physics
+objects, This chapter emphasizes the need of thorough
+Mechanics
+understanding and practice of measuring techniques and
+Heat & thermodynamics
+recording skills.
+Electromagnetism
+Optics
+Sound
+1.1
+INTRODUCTION TO PHYSICS
+Hydrodynamics
+Special relativity
+At the present time, there are three main frontiers of
+General relativity
+Quantim mechanics
+fundamental science. First, the world of the extremely large,
+Atomic physical
+the universe itself, Radio telescopes now gather information
+Molecular physics
+from the far side of the universe and have recently detected,
+Nuclear physics
+Solid-state physical
+as radio waves, the "firelight" of the big bang which probably
+Particle physics
+started off the expanding universe nearly 20 billion years
+Superconductivity
+ago. Second, the world of the extremely small, that of the
+Super fluidity
+Plasma physics
+particles such as, electrons, protons, neutrons, mesons and
+Magneto hydrodynamics
+others. The third frontier is the world of complex matter. It is
+Space physics
+also the World of "middle-sized" things, from molecules at
+one extreme to the Earth at the other. This is all
+fundamental physics, which is the heart of science.
+But what is physics? According to one definition, physics
+Interdisciplinary areas
+deals with the study of matter and energy and the
+of Physics
+relationship between them. The study of physics involves
+Astrophysics
+investigating such things as the laws of motion, the structure
+Biophysics
+of space and time, the nature and type of forces that hold
+Chemical physics
+Engineering physica
+different materials together, the interaction between different
+Geophysics
+particles, the Interaction of electromagnetic radiation with
+Medical physical
+matter and so on.
+Physical oceanography
+Physics of music
+By the end of 19th century many physicists started believing
+that every thing about physics has been discovered.
+However, about the beginning of the twentieth century many
+new experimental facts revealed that the laws formulated by
+the previous investigators need modifications. Further
+researches gave birth to many new disciplines in physics
+such as nuclear physics which deals with atomic nuclei,
+2
+---
+
+The measurement of a base quantity involves two steps: first,
+the choice of a standard, and second, the establishment of a
+procedure for comparing the quantity to be measured with
+the standard so that a number and a unit are determined as
+the measure of that quantity.
+An ideal standard has two principal characteristics: it is
+accessible and it is invariable. These two requirements are
+often incompatible and a compromise has to be made
+between them.
+1.3 INTERNATIONAL SYSTEM OF UNITS
+Table 1.1
+In 1960, an international committee agreed on a set of
+Physical
+definitions and standard to describe the physical
+SI Unit
+Quantity
+Symbol
+quantities. The system that was established is called the
+Length
+metre
+m
+System International (SI).
+Mass
+kilogram
+kg
+Time
+second
+o
+Due to the simplicity and convenience with which the units
+Electric
+in this system are amenable to arithmetical manipulation, it
+ampore
+A
+current
+is in universal use by the world's scientific community and
+Thermodynamic
+by most nations. The system International (SI) is built up
+kalvin
+K
+temperature
+from three kinds of units: base units, supplementary units
+Intensity of
+and derived units.
+candela
+od
+light
+Amount of
+mole
+mal
+Base Units
+substance
+There are seven base units for various physical quantities
+namely: length, mass, time, temperature, electric current,
+luminous intensity and amount of a substance (with special
+reference to the number of particles).
+The names of base units for these physical quantities
+together with symbols are listed in Table 1.1. Their
+standard definitions are given in the Appendix 1.
+Supplementary Units
+Table 1.2
+The General Conference on Weights and Measures has not
+Supplementary units
+yet classified certain units of the SI under either base units
+Physical
+SI Unit
+Symbol
+or derived units. These SI units are called supplementary
+Quantity
+units. For the time being this class contains only two units of
+Plane angle
+radian
+rad
+Sold angle
+steradian
+purely geometrical quantities, which are plane angle and the
+at
+solid angle (Table1.2).
+4
+---
+
+particle physics which is concerned with the ultimate particles
+Do You Know?
+of which the matter is composed, relativistic mechanics which
+deals with velocities approaching that of light and solid state
+physics which is concerned with the structure and properties
+of solids, but this list is by no means exhaustive.
+Physics is most fundamental of all sciences and provides
+other branches of science, basic principles and fundamental
+laws, This overlapping of physics and other fields gave birth
+to new branches such as physical chemistry, biophysics,
+astrophysics, health physics etc. Physics also plays an
+important role in the development of technology and
+engineering.
+Science and technology are a potent force for change in
+the outlook of mankind. The information media and fast
+Computer chips are made from
+waters of the metalloid silicon. a
+means of communications have brought all parts of the
+serticonductor.
+world in close contact with one another. Events in one part
+of the world immediately reverberate round the globe.
+We are living in the age of information technology. The
+computer networks are products of chips developed from
+the basic ideas of physics. The chips are made of silicon.
+For Your information
+Silicon can be obtained from sand. It is upto us whether we
+mäke a sandcastle or a computer out of it.
+Distance
+(m)
+10-20
+1.2 PHYSICAL QUANTITIES
+Diameter of a
+nucleus
+10-10
+Diameter
+The foundation of physics rests upon physical quantities in
+of an atom
+terms of which the laws of physics are expressed.
+Therefore, these quantities have to be measured accurately.
+Height of a
+100
+person
+Among these are mass, length, time, velocity, force, density,
+Diameter
+temperature, electric current, and numerous others.
+of the earth
+1010
+Distance to the
+Physical quantities are often divided into two categories:
+sun
+Distance to the
+base quantities and derived quantities. Derived quantities
+nearest star
+are those whose definitions are based on other physical
+1020
+Diameter of the
+Milky Way Galaxy
+quantities. Velocity, acceleration and force etc. are usually
+viewed as derived quantities. Base quantities are not
+Distance to the
+1000
+nearest galaxy
+defined in terms of other physical quantities. The base
+quantities are the minimum number of those physical
+Order of magnitude of some
+quantities in terms of which other physical quantities can
+distances
+be defined. Typical examples of base quantities are length,
+mass and time.
+3
+---
+
+Radian
+The radian is the plane angle between two radii of a circle
+which cut off on the circumference an arc, equal in length
+to the radius, as shown in Fig. 1.1 (a).
+1 rad
+Steradian
+o
+The steradian is the solid angle (three-dimensional angle)
+subtended at the centre of a sphere by an area of its surface
+equal to the square of radius of the sphere. (Fig. 1.1 b),
+Derived Units
+SI units for measuring all other physical quantities are
+Fig. 1.7(a)
+derived from the base and supplementary units. Some of
+the derived units are given in Table, 1.3.
+Table 1.3
+Physical
+In terms of base
+Unit
+Symbol
+quantity
+units
+Force
+newton
+N
+kg m s
+BE
+Work
+joule
+J
+N m k kg m s *
+Power
+watt
+W
+Pressure
+pascal
+Pa
+Nm2=kgm's
+Electric
+coulomb
+C
+As
+charge
+Fig. 1.1(b)
+Scientific Notation
+Numbers are expressed in standard form called scientific
+notation, which employs powers of ten. The internationally
+accepted practice is that there should be only one non-
+zero digit left of decimal. Thus, the number 134.7 should
+be written as 1.347 x 102 and 0.0023 should be expressed
+as 2.3 x 10
+Conventions for Indicating Units
+Use of SI units requires special care, more particularly in
+writing prefixes.
+Following points should be kept in mind while using units.
+(I)
+Full name of the unit does not begin with a capital
+letter even if named after a scientist e.g.,newton.
+5
+---
+
+(ii)
+The symbol of unit named after a scientist has
+initial capital letter such as N for newlon.
+(iii)
+The prefix should be written before the unit without
+any space, such as 1 x 10 m is written as 1 mm.
+Standard prefixes are given in table 1.4.
+Table 1.4
+(iv)
+A combination of base units is written each with
+Some Prefixes for Powers of Ton
+one space apart. For example, newton metre is
+Factor
+Profix
+Symbol
+written as N m.
+10th
+atto
+a
+(v)
+Compound prefixes are not allowed. For example,
+10"
+femto
+t
+1puF may be written as 1pF.
+10°
+pico
+P
+10°
+neno
+n
+(vi)
+A number such as 5.0 x 10 cm may be expressed
+10"
+micro
+11
+in scientific notation as 5.0 x 10 m.
+102
+milli
+m
+102
+centi
+C
+(vii)
+When a multiple of a base unit is raised to a power,
+10"
+decl
+d
+the power applies to the whole multiple and not the
+10
+deca
+da
+base unit alone. Thus, 1 km2 = 1 (km)2 = 1 x 106 m².
+10
+kilo
+k
+M
+(viii)
+Measurement in practical work should be recorded
+10°
+mega
+to
+giga
+G
+immediately in the most convenient unit, e.g.,
+10"
+tera
+T
+micrometer screw gauge measurement in mm, and
+10th
+peta
+P
+the mass of calorimeter in grams (g). But before
+10th
+eza
+E
+calculation for the result, all measurements must be
+converted to the appropriate SI base units.
+1.4 ERRORS AND UNCERTAINTIES
+All physical measurements are uncertain or imprecise to
+some extent. It is very difficult to eliminate all possible errors
+or uncertainties in a measurement. The error may occur due
+to (1) negligence or inexperience of a person (2) the faulty
+apparatus (3) inappropriate method or technique. The
+uncertainty may occur due to inadequacy or limitation of an
+instrument, natural variations of the object being measured
+or natural imperfections of a person's senses. However, the
+uncertainty is also usually described as an error in a
+measurement. There are two major types of errors.
+(i) Random error
+(ii) Systematic error
+Random error is said to occur when repeated
+measurements of the quantity, give different values under
+6
+---
+
+the same conditions. It is due to some unknown causes.
+Repeating the measurement several times and taking an
+average can reduce the effect of random errors.
+Systematic error refers to an effect that influences all
+measurements of a particular quantity equally, It produces
+a consistent difference in readings. It occurs to some
+definite rule. It may occur due to zero error of instruments,
+poor calibration of instruments or incorrect markings etc.
+Systematic error can be reduced by comparing the
+instruments with another which is known to be more
+accurate. Thus for systematic error, a correction factor can
+be applied.
+1.5 SIGNIFICANT FIGURES
+As stated earlier physics is based on measurements. But
+For Your information
+unfortunately whenever a physical quantity is measured,
+Interval (s)
+there is inevitably some uncertainty about its determined
+Age of the universe
+5x10
+value. This uncertainty may be due to a number of
+Age of the Earth
+1.4k10"
+reasons. One reason is the type of instrument. being used.
+One year
+3.2x10
+We know that every measuring instrument is calibrated to
+One day
+8.6x10"
+a certain smallest division and this fact put a limit to the
+Time between
+normal heartbests
+8x10°
+degree of accuracy which may be achieved while
+Period of audible
+measuring with it. Suppose that we want to measure the
+sound waves
+1x10'
+length of a straight line with the help of a metre rod
+Period of typical
+radio waves
+ticio
+calibrated in millimetres. Let the end point of the line lies
+Period of vibration
+between 10.3 and 10.4 cm marks. By convention, if the end
+of an atom in a
+sólid
+1x10
+of the line does not touch or cross the midpoint of the
+Period of visible
+smallest division, the reading is confined to the previous
+light waves
+2x10
+IS
+division. In case the end of the line seems to be touching
+Approximate Values of Some
+or have crossed the midpoint, the reading is extended to
+Time Intervals
+the next division.
+By applying the above rule the position of the edge of a line
+recorded as 12.7 cm with the help of a metre rod calibrated
+in millimetres may lie between 12.65 cm and 12.75 cm.
+Thus in this example the maximum uncertainty is = 0,05 cm.
+It is, in fact, equivalent to an uncertainty of 0.1 cm equal to
+the least count of the instrument divided into two parts, half
+above and half below the recorded reading.
+The uncertainty or accuracy in the value of a measured
+quantity can be indicated conveniently by using significant
+figures. The recorded value of the length of the straight line
+7
+---
+
+i.e. 12.7 cm contains three digits (1. 2, 7) out of which two
+digits (1 and 2) are accurately known while the third digit
+i.e. 7 is a doubtful one. As a rule:
+In any measurement, the accurately known digits and
+the first doubtful digit are called significant figures.
+interesting Information
+In other words, a significant figure is the one which is
+known to be reasonably reliable. If the above mentioned
+Mass (kg)
+measurement is taken by a better measuring instrument
+10-30
+Electron
+which is exact upto a hundredth of a centimetre, it would
+Proton
+have been recorded as 12.70 cm. In this case, the number
+10-25
+Uranium atom
+of significant figures is four. Thus, we can say that as we
+improve the quality of our measuring instrument and
+10-20
+DNA molecule
+techniques, we extend the measured result to more and
+Call
+more significant figures and correspondingly improve the
+10-15
+experimental accuracy of the result. While calculating a
+10-10
+result from the measurements, it is important to give due
+attention to significant figures and we must know the
+10-5
+Mosquito
+following rules in deciding how many significant figures
+are to be retained in the final result.
+100
+Book
+Car
+(1)
+All digits 1,2,3,4,5,6,7,8,9 are significant. However,
+105
+zeros may or may not be significant. In case of
+zeros, the following rules may be adopted.
+1010
+Oil tankar
+1016
+An
+a) A zero between two significant figures is itself
+significant.
+Mount Everest
+1020
+b) Zeros to the left of significant figures are not
+significant. For example, none of the zeros in
+1075
+Earth
+0.00467 or 02.59 is significant.
+1030
+Sun
+c) Zeros to the right of a significant figure, may or
+Order of magnitude of some
+may not be significant. In decimal fraction,
+masses.
+zeros to the right of a significant figure are
+significant. For example, all the zeros in 3.570
+or 7.4000 are significant. However, in integers
+such as 8,000 kg, the number of significant
+zeros is determined by the accuracy of the
+measuring instrument. If the measuring scale
+has a least count of 1 kg then there are four
+significant figures written in scientific notation
+8
+---
+
+as 8.000 x 10° kg. If the least count of the scale
+is 10 kg. then the number of significant figures
+will be 3 written in scientific notation as
+8.00 10 kg and so on.
+d) When a measurement is recorded in scientific
+notation or standard form, the figures other than
+the powers of ten are significant figures.
+For example, a measurement recorded as
+8.70 x 104 kg has three significant figures.
+(#)
+In multiplying or dividing numbers, keep a number
+of significant figures in the product or quotient not
+more than that contained in the least accurate
+factor i.e., the factor containing the least number of
+significant figures. For example, the computation of
+the following using a calculator, gives
+5.348 x10 ² x3.64x104
+=
+1.45768982x1
+10
+1.336
+Do You Know
+Mass can be thought of 83 a form
+As the factor 3.64 X 10*, the least accurate in the above
+not energy. in fact the mass is
+highly concentrated form of energy
+calculation has three significant figures, the answer should
+Einstein's famous equation, E*mo
+be written to three significant figures only. The other
+means
+figures are insignificant and should be deleted, While
+Energy = mass X spood of Light
+According to this equation 1 kg
+deleting the figures, the last significant figure to be retained
+mass in actually 9x 10 (0) energy
+is rounded off for which the following rules are followed.
+a) If the first digit dropped is less than 5, the last digit
+retained should remain unchanged.
+b) If the first digit dropped is more than 5. the digit to be
+retained, is increased by one.
+c)
+If the digit to be dropped is 5, the previous digit which
+is to be retained is increased by one if it is odd and
+retained as such if it is even. For example, the
+following numbers are rounded off to three significant
+figures as follows. The digits are deleted one by one.
+43.75
+is rounded off as
+43.8
+56.8546
+is rounded off as
+56.8
+73.650
+is rounded off as
+73.6
+64.350
+is rounded off as
+64.4
+9
+---
+
+Following this rule, the correct answer of the computation
+given in section (ii) is 1,46 X 10 3.
+(iii)
+In adding or subtracting numbers, the number of
+decimal places retained in the answer should equal
+the smallest number of decimal places in any of the
+quantities being added or subtracted. In this case,
+the number of significant figures is not important. It
+is the position of decimal that matters. For example,
+suppose we wish to add the following quantities
+expressed in metres.
+i)
+72.1
+ii)
+2.7543
+For your information
+3.42
+4.10
+0.003
+1.273
+75.523
+8.1273
+Correct answer:
+75.5 m
+8.13 m
+In case (i) the number 72,1 has the smallest number of
+decimal places, thus the answer is rounded off to the same
+position which is then 75.5 m. In case (ii), the number 4.10 has
+the smallest number of decimal places and hence, the answer
+is rounded off to the same decimal positions which is
+then 8.13m.
+1.6 PRECISION AND ACCURACY
+In measurements made in physics, the terms precision
+and accuracy are frequently used. They should be
+distinguished clearly. The precision of a measurement is
+We use many devices to measure
+physical quantitios, such as length,
+determined by the instrument or device being used and the
+time and temperature They all have
+accuracy of a measurement depends on the fractional or
+some limit of precision.
+percentage uncertainty in that measurement.
+For example, when the length of an object is recorded as
+25.5 cm by using a metre rod having smallest division in
+millimetre, it is the difference of two readings of the initial
+and final positions. The uncertainty in the single reading as
+discussed before is taken as + 0.05 cm which is now
+doubled and is called absolute uncertainty equal to
+10.1cm. Absolute uncertainty, in fact, is equal to the least
+count of the measuring instrument.
+Precision or absolute uncertainty (least count) = + 0.1 cm
+10
+---
+
+0.1cm
+Fractional uncertainty = =
+0.004
+25.5
+cm
+0.1cm
+Percentage uncertainty =
+100
+= 0,4%
+25.5cm
+Another measurement taken by vernier callipers with least
+count as 0.01 cm is recorded as 0,45 cm. It has
+Precision or absolute uncertainty (least count) = + 0.01 cm
+Fractional uncertainty = 0,45 cm cm = 0,02
+0,01
+Percentage uncertainty = 0.45cm 0.1cm
+-
+100
+= 2,0%
+Thus the reading 25.5 cm taken by metre rule is although
+less precise but is more accurate having less percentage
+uncertainty or error.
+For your information
+Whereas the reading 0,45 cm taken by vernier callipers
+Colour printing uses just four
+is more precise but is less accurate. In fact, it is the
+colours- cyan. magenta, yellow and
+relative measurement which is important. The smaller a
+black to produce The entire range of
+colours. All the colours in this book
+physical quantity, the more precise instrument should be
+have been made from just these
+used. Here the measurement 0,45 cm demands that a
+four colours.
+more precise instrument, such as micrometre screw
+gauge, with least count 0.001 cm, should have been
+used. Hence, we can conclude that
+A precise measurement is the one which has less
+absolute uncertainty and an accurate measurement
+is the one which has less fractional or percentage
+uncertainty or error.
+1.7 ASSESSMENT OF TOTAL
+UNCERTAINTY IN THE FINAL RESULT
+To assess the total uncertainty or error, it is necessary to
+evaluate the likely uncertainties in all the factors involved in
+that calculation. The maximum possible uncertainty or
+error in the final result can be found as follows. The proofs
+of these rules are given in Appendix 2.
+11
+---
+
+1. For addition and subtraction
+Absolute uncertainties are added: For example, the
+distance x determined by the difference between two
+separate position measurements
+For your information
+x1=10.5 * 0,1 cm and X2 = 26,8 + 0,1 cm is recorded as
+X=X2-X = 16.3 + 0.2 cm
+2. For multiplication and division
+Percentage uncertainties are added. For example the
+maximum possible uncertainty in the value of resistance R
+of a conductor determined from the measurements of
+potential difference V and resulting current flow I by using
+R If V/1 is found as follows:
+5.2 + 0.1 y
+=0.84 + 0.05A
+The %age uncertaintyfor Vis=6.2V =
+X 100 = about 2%
+0.05A
+The %age uncertainty for
+X
+100 = about 6%
+Hence total uncertainty in the value of resistance R when V
+is divided by / is 8% The result is thus quoted as
+R = 884 A 6,19 VA = 6.19 ohms with a % age
+uncertainty of 8%
+that is
+R = 6.2 + 0.5 ohms
+These are not decoration pieces
+of glass but are the earliest
+The result is rounded off to two significant digits because
+known exquisite and sensitive
+thermometers, built by the
+both V and R have two significant figures and uncertainty,
+Accademia del Gimento (1657-
+being an estimate only, is recorded by one significant
+1667), in Florence They contained
+nicohol, some times coloured red
+figure.
+for easier reading
+3.
+For power factor
+Multiply the percentage uncertainty by that power. For
+example, in the calculation of the volume of a sphere using
+12
+---
+
+v=
+%age uncertainty in V=3x% age uncertainly in radius r.
+Intéresting Information
+As uncertainty is multiplied by power factor, it increases the
+precision demand of measurement If the radius of a small
+sphere is measured as 2.25 cm by a vernier callipers with
+°C
+least count 0,01 cm, then
+7000
+6000
+outer part of Sun
+the radius r is recorded as
+5000
+4000
+Absolute uncertainty = Least count = 1 0.01 am
+3000
+R
+Signature lamp
+6
+2000
+%age uncertainty 0.01 cm x 100 =
+0,4%
+2.25cm
+roaring Bunsen
+1000
+Total percentage uncertainty in V = 3 x 0.4 -1.2%
+500
+700
+aluminium matte
+600
+3
+Thus volume
+800
+400
+mum hols
+4 3 x3.14x(2.25cm)3
+300
+200
+=47.689 cm³ with 1.2% uncertainty
+100
+water bolls
+alcohol noils
+Thus the result should be recorded as
+human body
+y =47.7 + 0.6 cm
+0
+los melts
+nersury freezes
+coidest weather
+4. For uncertainty in the average value of
+-100
+alcoholi fronges
+many measurements.
+becomes liquid
+-200
+(I)
+Find the average value of measured values.
+-273
+abstitute unreadable text
+(II)
+Find deviation of each measured value from the
+Some Specific Temperatures
+average value.
+(III)
+The mean deviation is the uncertainty in the
+average value.
+For example, the six readings of the micrometer
+screw gauge to measure the diameter of a wire in
+mm are
+1.20,1.22,1.23,1.19,1.22,1.21
+13
+---
+
+Then
+Average = 1.20 + + 1.23 + 1.19 + 1.22
+1.22 +1.21
+6
+= 1.21 mm
+The deviation of the readings, which are the difference
+without regards to the sign, between each reading and
+average value are 0.01, 0.01, 0.02, 0.02, 0.01, 0,
+Mean of deviations = 0.01+0.01+0.02+0.02+0.01+0
+6
+= 0.01 mm
+Thus, likely uncertainty in the mean diametre 1.21 mm is
+0.01 mm recorded as 1.21 # 0.01 mm.
+5. For the uncertainty in a timing experiment
+The uncertainty in the time period of a vibrating body is
+found by dividing the least count of timing device by the
+number of vibrations. For example, the time of 30
+vibrations of a simple pendulum recorded by a stopwatch
+accurate upto one tenth of a second is 54.6 S, the period
+For your information
+Travel time of light
+T=546s= S with uncertainty 0.1s 30 =0.003 s
+Moon to Earth
+1 min 20s
+Sun to Earth
+8 min 20s
+Thus, period T is quoted as T= 1.82 I 0.003 S
+Pluto to Earth
+5 h 20s
+Hence, it is advisable to count large number of swings to
+reduce timing uncertainty
+Example 1.1: The length, breadth and thickness of a
+sheet are 3.233m, 2.105 m and 1.05 cm respectively.
+Calculate the volume of the sheet correct upto the
+appropriate significant digits.
+Solution: Given length / =3.233 m
+Breadth b = 2.105m
+Thickness h = 1.05cm a 1.05 X 10 m
+Volume V =1xbxh
+= 3.233m x 2.105m x 1.05 x 10 -2 m
+14
+---
+
+7.14573825 x 10 m³
+As the factor 1,05 cm has minimum number of significant
+figures equal to three, therefore, volume is recorded upto 3
+significant figures, hence, V = 7.15x10"m
+Example 1.2: The mass of a metal box measured by a
+lever balance is 2.2 kg. Two silver coins of masses 10,01 g
+and 10.02 g measured by a beam balance are added to it.
+What is now the total mass of the box correct upto the
+appropriate precision.
+Solution: Total mass when silver coins are added to box
+=2.2 kg + 0.01001 kg + 0.01002 kg
+= 2.22003 kg
+For Your Information
+Since least precise is 2.2 kg. having one decimal place,
+hence total mass should be to one decimal place which is
+the appropriate precision. Thus the total mass = 2.2 kg.
+Example 1.3: The diameter and length of a metal
+cylinder measured with the help of vernier callipers of least
+count 0,01 cm are 1.22 cm and 5.35 cm. Calculate the
+Atomic Clock
+volume V of the cylinder and uncertainty in it.
+The destino atomic frequency
+standard at the National Institute
+Solution: Given data is
+of Standards and Technology in
+Calorado (USA) II is the primary
+candard for the unit of time
+Diameter d = 1.22 cm with least count 0.01 cm
+Length / = 5.35 cm with least count 0.01 cm
+Absolute uncertainty in length = 0.01 cm
+%age uncertainty in length = 5.35cm 0.01cm
+x 100 = 0,2%
+Absolute uncertainty in diameter = 0.01 cm
+0.01cm
+%age uncertaintyin diameter=
+x
+100 = 0,8%
+1.22cm
+As volume is
+V = nd? 4
+15
+---
+
+total uncertainty in V=2 (%age uncertainty in diameter)
++ (%age uncertainty in length)
+-2x0.8+0.2=1,8%
+Then V = x(1.22cm)2 x 5.35 cm = 6.2509079 cm³ with
+4
+1,8% uncertainty
+Thus
+V- (6.2 # 0.1) cm³
+Where 6.2 cm³ is calculated vojume and 0.1cm is the
+uncertainty in it.
+1,8 DIMENSIONS OF PHYSICAL QUANTITIES
+Each base quantity is considered a dimension denoted by
+a specific symbol written within square brackets. It stands
+for the qualitative nature of the physical quantity. For
+example, different quantities such as length, breadth,
+diameter, light year which are measured in metre denote
+the same dimension and has the dimension of length [L]
+Similarly the mass and time dimensions are denoted by
+[
+M ] and [ T ]. respectively. Other quantities that we
+measure have dimension which are combinations of these
+dimensions. For example, speed is measured in metres
+per second. This will obviously have the dimensions of
+length divided by time. Hence we can write.
+Dimension of length
+Dimensions of speed = Dimension of time
+Similarly the dimensions of acceleration are
+[a]=[L][T2]=[LT"]
+and that of force are
+Using the method of dimensions called the dimensional
+analysis, we can check the correctness of a given formula
+or an equation and can also derive it. Dimensional analysis
+16
+---
+
+makes use of the fact that expression of the dimensions
+can be manipulated as algebraic quantities.
+(i) Checking the homogeneity of physical equation
+In order to check the correctness of an equation, we are to
+show that the dimensions of the quantities on both sides of
+the equation are the same, irrespective of the form of the
+formula. This is called the principle of homogeneity of
+dimensions,
+Example 1.4: Check the correctness of the relation
+where V is the speed of transverse wave on a
+m
+stretched string of tension F. length / and mass m.
+Solution:
+Dimensions of L.H.S. of the equation = [v] = [ LT ]
+Dimensions of R.H.S. of the equation =([F]x[I]x[m`])"
+= X = [ LT `]
+Since the dimensions of both sides of the equation are the
+same, equation is dimensionally correct.
+(ii) Deriving a possible formula
+The success of this method for deriving a relation for a
+physical quantity depends on the correct guessing of
+various factors on which the physical quantity depends.
+0
+Example 1.5: Derive a relation for the time period of a
+simple pendulum (Fig. 1.2) using dimensional analysis, The
+various possible factors on which the time period T may
+depend are :
+i)
+Length of the pendulum (1)
+ii)
+Mass of the bob (m)
+m
+iii)
+Angle e which the thread makes with the vertical
+IV)
+Acceleration due to gravity (g)
+Fig. 12
+17
+---
+
+Solution:
+The relation for the time period T will be of the form
+Txm"x/"x0'xg
+or
+=
+(1.1)
+where we have to find the values of powers a, b, C and d.
+Writing the dimensions of both sides we get
+[T] = constant
+Do You Know?
+Comparing the dimensions on both sides we have
+Anchor
+[T]=[T]2d
+[M]°=[M]"
+[L]°=[L]]"
+Pallot
+Equating powers on both the sides we get
+-2d=1
+or
+d=-1/2
+Escape wheel
+a=0
+and
+b+d=0
+or
+b=-d=1/2
+and
+Pendulum
+Substituting the values of a, b, e and d in Eq. 1.1
+(regulating device)
+T
+The device which made the
+pendulum clock practical
+Or
+T=constant
+g
+The numerical value of the constant cannot be determined
+by dimensional analysis, however, it can be found by
+experiments.
+Example 1.6: Find the dimensions and hence, the SI
+units of coefficient of viscosity 1 in the relation of Stokes'
+law for the drag force F for a spherical object of radius /
+moving with velocity V given as F=6 ANTY
+Solution: 6xis a number having no dimensions. It is not
+accounted in dimensional analysis. Then
+18
+---
+
+[F]=[nrv]
+or
+Substituting the dimensions of F, r. and vin R.H.S.
+or
+[n]=[ML`T"]
+Thus, the SI unit of coefficient of viscosity is kg m' sul
+SUMMARY
+Physics is the study of entire Physical World.
+The most basic quantities that can be used to describe the Physical World are
+mass, length and time. All other quantities, called derived quantities, can be
+described in terms of some combinations of the base quantities.
+The internationally adopted system of units used by all the scientists and almost all
+the countries of the World is International System (SI) of Units. It consists of seven
+base units, two supplementary units and a number of derived units.
+Errors due to incorrect design or calibrations of the measuring device are called
+systematic errors. Random errors are due to unknown causes and fluctuations in
+the quantity being measured.
+The accuracy of a measurement is the extent to which systematic error make a
+measured value differ from its true value.
+The accuracy of a measurement can be indicated by the number of significant
+figures, or by a stated uncertainty.
+The significant figures or digits in a measured or calculated quantity are those
+digits that are known to be reasonably reliable.
+The result of multiplication or division has no more significant figures than any factor
+in the input data. Round off your calculator result to correct number of digits,
+in case of addition or subtraction the precision of the result can be only as great as
+the least precise term added or subtracted.
+Each basic measurable physical property represented by a specific symbol written
+within square brackets is called a dimension. All other physical quantities can be
+derived as combinations of the basic dimensions.
+Equations must be dimensionally consistent. Two terms can be added only when
+they have the same dimensions.
+19
+---
+
+QUESTIONS
+1.1 Name several repetitive phenomenon occurring in nature which could serve as
+reasonable time standards,
+1.2
+Give the drawbacks to use the period of a pendulum as a time standard.
+1.3 Why do we find it useful to have two units for the amount of substance, the
+kilogram and the mole?
+1,4 Three students measured the length of a needle with a scale on which minimum
+division is 1mm and recorded as (i) 0.2145 m (ii) 0.21 m (iii) 0.214m. Whichrecor
+is correct and why?
+1.5 An old saying is that "A chain is only as strong as its weakest link" What
+analogous statement can you make regarding experimental data used in a
+computation?
+1.6 The period of simple pendulum is measured by a stop watch. What type of errors
+are possible in the time period?
+1.7 Does a dimensional analysis give any information on constant of proportionality
+that may appear in an algebraic expression? Explain.
+1,8 Write the dimensions of (i) Pressure (ii) Density
+1.9 The wavelength n of a wave depends on the speed V of the wave and its frequency
+f. Knowing that
+[A]=[.L].
+[v]=[ L T '
+and
+[f]=[T`]
+Decide which of the following is correct,
+f=v
+or
+1
+NUMERICAL PROBLEMS
+1.1 A light year is the distance light travels in one year. How many metres are there in
+one light year: (speed of light = 3.0 x 10 , ms`).
+(Ans: 9.5x1015m)
+1.2 a) How many seconds are there in 1 year?
+b) How many nanoseconds in 1 year?
+c) How many years in 1 second?
+[Ans. (a) 3.1536x10's, (b) 3. 1536x10" ns (c) 3.1 x 10 5 yr]
+1.3 The length and width of a rectangular plate are measured to be 15.3 cm and 12.80 cm,
+respectively. Find the area of the plate.
+(Ans: 196 cm ²
+20
+---
+
+1.4
+Add the following masses given in kg upto appropriate precision. 2.189, 0.089,
+11.8 and 5.32.
+(Ans: 19.4 kg)
+1,5 Find the value of 'g' and its uncertainty using T
+=2n
+140
+from the following
+measurements made during an experiment
+Length of simple pendulum / = 100 cm.
+Time for 20 vibrations = 40.2 S
+Length was measured by a metre scale of accuracy upto 1 mm and time by stop
+watch of accuracy upto 0.1 S.
+(Ans: 9.76 + 0.06 ms 2)
+1.6 What are the dimensions and units of gravitational constant G in the formula
+F=G mym
+(Ans:
+1.7 Show that the expression Vy=vi +at is dimensionally correct, where V, is the velocity
+at t =0. a is acceleration and VI is the velocity at time t.
+1,8 The speed V of sound waves through a medium may be assumed to depend on
+(a) the density P of the medium and (b) its modulus of elasticity E which is the ratio
+of stress to strain. Deduce by the method of dimensions, the formula for the speed
+of sound.
+(Ans: Constant E
+V =
+1,9 Show that the famous "Einstein equation" E = me2 is dimensionally consistent.
+1.10 Suppose, we are told that the acceleration of a particle moving in a circle of radius
+r with uniform speed V is proportional to some power of E. say r and some power
+of v.say V determine the powers of rand v7
+(Ans: n = 1.m = 2)
+21
+---

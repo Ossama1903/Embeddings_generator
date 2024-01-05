@@ -1,0 +1,1625 @@
+
+Chapter
+12
+ELECTROSTATICS
+Learning Objectives
+At the end of this chapter the students will be able to:
+1.
+Understand and describe Coulomb's law.
+2.
+Describe that a charge has a field of force around it.
+3.
+Understand fields of like and unlike charges.
+4.
+Appreciate the principle of inkjet printers and photostat copier as an application of
+electrostatic phenomena.
+5.
+Explain the electric intensity in a free space and in other media.
+6.
+State and prove Gauss's law.
+7.
+Appreciate the applications of Gauss's law.
+8.
+Explain electric potential at a point in terms of work done in bringing a unit positive
+charge from infinity to that point.
+9.
+Relate electric field strength and potential gradient.
+10.
+Find expression for potential at a point due to a point charge.
+11.
+Describe and derive the value of electric charge by Millikan's method.
+12.
+Calculate the capacitance of parallel plate capacitor.
+13.
+Recognize the effect of dielectric on the capacitance of parallel plate capacitor.
+14.
+Understand and describe electric polarization of dielectric.
+15.
+Know the process of charging and discharging of a capacitor through a resistance
+and calculate the time constant.
+16.
+Find energy expression of a charged capacitor.
+T
+he study of electric charges at rest under the action of electric forces is known as
+electrostatics. An electric force is the force which holds the positive and negative charges
+that make up atoms and molecules. The human body is composed entirely of atoms and
+molecules, thus we owe our existence to the electric force.
+1
+---
+
+12.1 COULOMB'S LAW
+We know that there are two kinds of charges, namely,
+positive and negative charges. The charge on an electron is
+assumed to be negative and charge on a proton is positive.
+Moreover, we also learnt that like charges repel each other
+and unlike charges attract each other. Now we investigate
+the quantitative nature of these forces. The first
+measurement of the force between electric charges was
+made in 1874 AD by Charles Coulomb, a French military
+engineer. On the basis of these measurements, he deduced
+a law known as Coulomb's law. It states that
+A lightning flash
+The force between two point charges is directly proportional
+to the product of the magnitudes of charges and inversely
+proportional to the square of the distance between them.
+It is mathematically expressed as
+Fx9192
+or
+2
+r
+F=k9,92
+(12.1)
+where F is the magnitude of the mutual force that acts on
+each of the two point charges q, , q2 and r is the distance
+F
++q,
++92
+F2+
+between them. The force F always acts along the line joining
+the two point charges (Fig. 12.1), k is the constant of
+(a)
+&
+>
+proportionality. Its value depends upon the nature of medium
+between the two charges and system of units in which F, q
+F
+F29
+and r are measured. If the medium between the two point
++q.
+-q2
+charges is free space and the system of units is SI, then k is
+€
+->
+represented as
+(b)
+Fig 12.1 (a) Repulsive forces
+K=4760
+(12.2)
+between like charges and (b)
+attractive forces between unlike
+charges
+where E. is an electrical constant, known as permittivity of
+free space. In SI units, its value is 8.85 x 10 Nm3
+Substituting the value of E. the constant
+k C2
+Thus Coulomb's force in free space is
+F = 1 9192
+(12.3)
+p2
+2
+---
+
+As stated earlier, Coulombs' force is mutual force, it means
+that if q, exerts a force on q2 then q2 also exerts an equal and
+opposite force on q1. If we denote the force exerted on q2 by q,
+as F21 and that on charge q, due to q2 as F12, 12 then
+F-
+(12.4)
+F29
+92
+The magnitude of both these two forces is the same and is
+A
+F21
+given by Eq. 12.3. To represent the direction of these forces
+we introduce unit vectors. If is the unit vector directed from
+q2
+q,toq,andrist the unit vector directed from q2 to q.. then
+12.5 (a)
+(a)
+9,
+and
+12.5 (b)
+Fu
+The forces F.and F, are shown in Fig. 12.2 (a & b). It can be
+To
+seen that so Eqs. 12.5 (a & b) show that
+(b)
+Fig. 12.2
+F21=-F12
+The sign of the charges in Eqs. 12.5 (a & b) determine
+whether the forces are attractive or repulsive.
+Table 2.1
+We shall now consider the effect of medium between the two
+Material
+E,
+charges upon the Coulomb's force. If the medium is an
+insulator, it is usually referred as dielectric. It has been found
+Vacuum
+1
+that the presence of a dielectric always reduces the
+Air (1 atm)
+1.0006
+Ammonia (liquid)
+22-25
+electrostatic force as compared with that in free space by a
+Bakelite
+5-18
+certain factor which is a constant for the given dielectric. This
+Benzene
+2.284
+constant is known as relative permittivity and is represented
+Germanium
+16
+by E,. The values of relative permittivity of different dielectrics
+Glass
+4.8-10
+are given in Table 12.1.
+Mica
+3-7.5
+Paraffined paper
+2
+Thus the Coulomb's force in a medium of relative permittivity
+Plexiglas
+3.40
+E, is given by
+Rubber
+2.94
+Teflon
+2.1
+(12.6)
+Transformer oil
+2.1
+Water (distilled)
+78.5
+It can be seen in the table that E, for air is 1.0006. This value is
+so close to one that with negligible error, the Eq. 12.3 gives
+the electric force in air.
+Example 12.1: Charges q, = 100 uC and q2 = 50 uC are
+located in xy-plane at positions r,=3.0j = and r2 = 4.0i respectively,
+3
+---
+
+where the distances are measured in metres, Calculate the
+force on q2 (Fig. 12.3).
+Solution: q, = 100 HC,
+50 uC
+Position vector of q2 relative to q,
+=4i-3j
+r= magnitude of /(mm) +(-3m) =5m
+0
+92
+o
+r,=4.01
+Fig. 12.3
+9 x 10 9 Nm2-2 (5m)2 x4i-3
+F21
+Magnitude of F21 (-1.08) = 1.8 N
+Direction of -1.08 - axis
+12.2 FIELDS OF FORCE
+Newton's universal gravitational law and Coulomb's law
+enable us to calculate the magnitude as well as the directions
+of the gravitational and electric forces, respectively. However
+one may question, (a) What are the origins of these forces?
+(b) How are these forces transmitted from one mass to
+another or from one charge to another?
+The answer to (a) is still unknown; the existence of these
+forces is accepted as it is. That is why they are called basic
+forces of nature.
+To describe the mechanism by which electric force is
+transmitted, Michael Faraday (1791-1867) introduced the
+concept of an electric field. According to his theory, it is the
+intrinsic property of nature that an electric field exists in the
+space around an electric charge. This electric field is
+considered to be a force field that exerts a force on other
+charges placed in that field. For example, a charge q
+produces an electric field in the space surrounding it. This
+4
+---
+
+field exists whether the other charges are present in space or
+not. However, the presence of field cannot be tested until
+another charge q. is brought into the field. Thus the field of
+charge q interacts with qo to produce an electrical force. The
+interaction between q and q. is accomplished in two steps:
+(a) the charge q produces a field and (b) the field interacts
+with charge q. to produce a force F on 9. These two steps are
+illustrated in Fig. 12.4.
+In this figure the density of dots is proportional to the strength
+of the field at the various points. We may define electric field
+strength or electric field intensity E at any point in the field as
+(a)
+E-F
+(12.7)
+90
+where F is the force experienced by a positive test charge 9.
+placed at the point. The test charge q. has to be very small so
+F=q.E
+that it may not distort the field which it has to measure.
+Since electric field intensity is force per unit charge, it is
+measured in newton per coulomb in SI units. It is a vector
+quantity and its direction is the same as that of the force F.
+(b)
+The force experienced by a test charge q. placed in the field
+Fig. 12.4 (a) Dots surrounding the
+of a charge q in vacuum is given by Eq. (12.3),
+positive charge indicate the presence
+Eq. 12.7 can be used to evaluate electric intensity due to a
+of the electric field. The density of the
+point charge q at a point distant r from it. Place a positive test
+dots is proportional to the strength of
+the electric field at different points.
+charge q. at this point. The Coulomb's force that this charge
+(b) Interaction of the field with the
+will experience due to q is
+charge q.
+(12.8)
+where r is a unit vector directed from the point charge q to the
+test point where q. has been placed, i.e. the point where the
+electric intensity is to be evaluated. By Eq. 12.7
+E-F-1_99, 90 F 4, r2 90 i
+(12.9)
+Example 12.2: Two positive point charges q, = 16.0 C
+and q2 = 4.0 C are separated by a distance of 3.0 m, as
+<- d
+shown in Fig. 12.5. Find the spot on the line joining the two
++9,
+P
++92
+charges where electric field is zero.
+3.0 m
+Solution: Between the charges, the two field contribution
+Fig. 12.5
+has opposite directions, and electric field would be zero at a
+5
+---
+
+point P, where the magnitude of E1 equals that of E2. In the
+Fig. 12.5, let the distance of P from q2 be d.
+AtP,
+E,=E2,
+which implies that,
++Go
+1
+q,
+4, (3.0-d)2 4, d2
++90
+16.0 x 10 6 C
+4.0x1066
+or
++90
++90
+9+d2-6d
+d2
+or
+d2+2-3=0, which gives d=+1 m, .3m
+(a)
+There are two possible values of d, the negative value
+corresponds to a location off to the right of both the charges
+where magnitudes of E1 and E2 are equal but directions are
+same. In this case E1 and E2 do not cancel at this spot. The
+positive value corresponds to the location shown in figure
+and is the zero field location, hence, d = + 1.0m.
++q
+12.3 ELECTRIC FIELD LINES
+A visual representation of the electric field can be obtained in
+terms of electric field lines; an idea proposed by Michael
+(b)
+Faraday. Electric field lines can be thought of a "map" that
+provides information about the direction and strength of the
+Fig. 12.6 (a) Apositive test charge +9.
+placed anywhere in the vicinity of a
+electric field at various places. As electric field lines provide
+positive point charge +q, experiences
+information about the electric force exerted on a charge, the
+a repulsive force directed radially
+lines are commonly called "lines of force".
+outward. (b) the electric field lines are
+directed radially outward from the
+To introduce electric field lines, we place positive test
+positive point charge +q.
+charges each of magnitude q. at different places but at equal
+distances from a positive charge +q as shown in the figure.
+Each test charge will experience a repulsive force, as
+indicated by arrows in Fig. 12.6(a). Therefore, the electric
+field created by the charge +q is directed radially outward.
+Fig. 12.6 (b) shows corresponding field lines which show the
+field direction. Fig. 12.7 shows the electric field lines in the
+vicinity of a negative charge -q. In this case the lines are
+directed radially "inward", because the force on a positive
+test charge is now of attraction, indicating the electric field
+points inward.
+Figures 12.6 and 12.7 represent two dimensional pictures of
+the field lines. However, electric field lines emerge from the
+Fig. 12.7 The electric field lines are
+charges in three dimensions, and an infinite number of lines
+directed radially inward towards a
+could be drawn.
+negative point charge -q.
+The electric field lines "map" also provides information about
+6
+---
+
+the strength of the electric field. As we notice in
+Figs. 12.6 and 12.7 that field lines are closer to each other
+near the charges where the field is strong while they
+continuously spread out indicating a continuous decrease in
+the field strength.
+"The number of lines per unit area passing
+perpendicularly through an area is proportional
+to the magnitude of the electric field".
+The electric field lines are curved in case of two identical
+separated charges. Fig. 12.8 shows the pattern of lines
+Fig.
+The electric field lines for
+associated with two identical positive point charges of equal
+two identical positive point charges.
+magnitude. It reveals that the lines in the region between two
+like charges seem to repel each other. The behaviour of two
+identical negatively charges will be exactly the same. The
+middle region shows the presence of a zero field spot or
+neutral zone.
+The Fig. 12.9 shows the electric field pattern of two opposite
++q
+q
+charges of same magnitudes. The field lines start from
+positive charge and end on a negative charge. The electric
+field at points such as 1, 2, 3 is the resultant of fields created
+by the two charges at these points. The directions of the
+resultant intensities is given by the tangents drawn to the field
+lines at these points.
+Fig.
+12.9
+Attractive forces between
+unlike charges
+In the regions where the field lines are parallel and equally
+spaced, the same number of lines pass per unit area and
++q
+-9
+therefore, field is uniform on all points. Fig.12.10 shows the
+field lines between the plates of a parallel plate capacitor. The
+field is uniform in the middle region where field lines are
+equally spaced.
+We are now in a position to summarize the properties
+of electric field lines.
+1)
+Electric field lines originate from positive charges
+and end on negative charges.
+2)
+The tangent to a field line at any point gives the
+direction of the electric field at that point.
+3)
+The lines are closer where the field is strong and the
+Fig 1210 In the central region of a
+lines are farther apart where the field is weak.
+parallel plate capacitor the electric
+field lines are parallel and evenly
+4)
+No two lines cross each other. This is because E has
+spaced, indicating that the electric
+field there has the same magnitude
+only one direction at any given point. If the lines cross,
+and direction at all points.
+E could have more than one direction.
+7
+---
+
+(1)
+Xerography (Photocopier)
+Fig.12.11 illustrates a photocopy machine. The copying
+page to be copied - face down
+lens
+lamp
+toner cartridge
+drum
+containing black
+toner dust
+printed image
+paper on which the
+heated rollers
+image is printed
+Fitz Tour Intermation
+Fig.
+1211 The basics of photocopying. The lamp transfers an image of the page to
+the drum, which leaves a static charge. The drum collects toner dust and transfers
+it
+to the paper. The toner is melted onto the page.
+process is called xerography, from the Greek word "xeros"
+and "graphos", meaning "dry writing". The heart of machine
+is a drum which is an aluminium cylinder coated with a layer
+of selenium. Aluminium is an excellent conductor. On the
+other hand, selenium is an insulator in the dark and becomes
+a conductor when exposed to light; it is a photoconductor. As
+a result, if a positive charge is sprinkled over the selenium it
+will remain there as long as it remains in dark. If the drum is
+exposed to light, the electrons from aluminium pass through
+the conducting selenium and neutralize the positive charge.
+If the drum is exposed to an image of the document to be
+This computer Image shows the
+copied, the dark and light areas of the document produce
+electric field lines generated by the
+corresponding areas on the drum. The dark areas retain their
+fish at the top of the picture. Through
+positive charge, but light areas become conducting, lose
+the electric field, the presence of
+other fish can be detected, such as
+their positive charge and become neutral.
+the one silhouetted at the bottom.
+In this way, a positive charge image of the document remains
+on the selenium surface. Then a special dry, black powder
+called "toner" is given a negative charge and spread over the
+drum, where it sticks to the positive charged areas.
+The toner from the drum is transferred on to a sheet of paper
+on which the document is to be copied. Heated pressure
+8
+---
+
+rollers then melt the toner into the paper which is also given
+an excess positive charge to produce the permanent
+impression of the document.
+(ii)
+Inkjet Printers
+An inkjet printer (Fig. 12.12 a) is a type of printer which uses
+electric charge in its operation. While shuttling back and forth
+across the paper, the inkjet printer "ejects" a thin stream of
+ink. The ink is forced out of a small nozzle and breaks up into
+extremely small droplets. During their flight, the droplets pass
+through two electrical components, a "charging electrode"
+and the "deflection plates" (a parallel plate capacitor). When
+the printhead moves over regions of the paper which are not
+to be inked, the charging electrode is left on and gives the ink
+droplets a net charge. The deflection plates divert such
+charged drops into a gutter and in this way such drops are not
+able to reach the paper. Whenever ink is to be placed on the
+Flg. 12.12 (a) An inkjet printer.
+paper, the charging control, responding to computer, turns off
+the charging electrode. The uncharged droplets fly straight
+through the deflection plates and strike the paper. Schematic
+diagram of such a printer is shown by Fig. 12.12 (b).
+Charging
+Deflection plates
+electrode
+Nozzie of
+printhead
+Gutter
+Charging
+Paper
+control
+Ink
+supply
+instructions from computer
+Flg. 12.12 (b) An inkjet printhead ejects a steady flow of ink droplets. The charging
+electrodes are used to charge the droplets that are not needed on the paper.
+Charged droplets are deflected into a gutter by the deflection plates, while
+uncharged droplets fly straight onto the paper,
+B
+Inkjet printers can also produce coloured copies.
+12.5 ELECTRIC FLUX
+When we place an element of area in an electric field, some
+of the lines of force pass through it (Fig. 12.13a a).
+The number of the field lines passing through a certain element
+of area is known as electric flux through that area. It is usually
+denoted by Greek letter O. For example the flux 0 through the
+area A in Fig. 12.13 (a) is 4 while the flux through B is 2.
+Fig. 12.13 (a) Electric flux through a
+In order to give a quantitative meaning to flux, the field lines
+surface normal to E.
+are drawn such that the number of field lines passing through
+9
+---
+
+a unit area held perpendicular to field lines at a point
+represent the intensity E of the field at that point. Suppose at
+a given point the value of E is 4NC1. This means that if 1m2
+A
+E
+area is held perpendicular to field lines at this point, 4 field
+lines will pass through it. In order to establish relation
+between electric flux O. electric intensity E and area A we
+consider the Fig. 12.13 (b,c,d) which shows the three
+dimensional representation of the electric field lines due to a
+uniform electric field of intensity E.
+Fig. 12.13 (b) Maximum
+In 12.13 (b), area is held perpendicular to the field lines,
+then EA lines pass through it. The flux Q. in this case is
+A
+.=EA
+(12.10)
+E
+where A denotes that the area is held perpendicular to field
+lines. In Fig.12.13 (c), area A is held parallel to field lines and,
+as is obvious no lines cross this area, so that flux 0. in this
+case is
+.=EA=0
+(12.11)
+Fig. 12.13 (c) Minimum
+where A1 indicates that A is held parallel to the field lines.
+Fig. 12.13 (d) shows the case when A is neither perpendicular
+A
+nor parallel to field lines but is inclined at angle 0 with the
+lines. In this case we have to find the projection of the area
+which is perpendicular to the field lines. The area of this
+B
+E
+projection, (Fig. 12.13c is A COS 0. The flux 0 in this case is
+A
+.=EAcos 0
+A cos8
+Usually the element of area is represented by a vector area A
+whose magnitude is equal to the surface area A of the
+Fig.12.13(d)
+element and whose direction is direction of normal to the
+area. The electric flux 0. through a patch of flat surface in
+terms of E and A is then given by
+EAcose=E.A
+(12.12)
+where 0 is the angle between the field lines and the normal to
+the area.
+Electric flux, being a scalar product, is a scalar quantity. Its SI
+unit is Nm2
+12.6 ELECTRIC FLUX THROUGH A
+SURFACE ENCLOSING A CHARGE
+Let us calculate the electric flux through a closed surface, in
+shape of a sphere of radius r due to a point charge q
+10
+---
+
+placed at the centre of sphere as shown in Fig. 12.14. To
+E
+apply the formula Q. = E.A for the computation of electric flux,
+the surface area should be flat. For this reason the total
+AA
+surface area of the sphere is divided into n small patches with
+areas of magnitudes , , . If n is very large,
+each patch would be a flat element of area. The
+corresponding vector areas are , , , ,
+respectively. The direction of each vector area is along
++q
+perpendicular drawn outward to the corresponding patch.
+The electric intensities at the centres of vector areas
+AA
+, are E1, E2
+E respectively.
+According to Eq.12.12, the total flux passing through the
+closed surface is
+Fig. 12.14 The total electric flux through
+the surface of the sphere due to a
+= E. AA, + E + E, (12.13)
+charge q at its centre is q/e.
+The direction of electric intensity and vector area is same at
+each patch. Moreover, because of spherical symmetry, at the
+surface of sphere,
+E
+(12.14)
+P.=EA,+++......
++q
+=Ex(AA,+AA,+AA,+
++AA,
+spherical surface area)
+0.2%
+(12.15)
+Fig. 12.15
+Now imagine that a closed surface S is enclosing this sphere.
+It can be seen in Fig. 12.15 that the flux through the closed
+surface S is the same as that through the sphere. So we can
+conclude that total flux through a closed surface does not
+depend upon the shape or geometry of the closed surface. It
+depends upon the medium and the charge enclosed.
+OF
+of
+a.
+12.7 GAUSS'S LAW
+a,
+Suppose point charges q19 q2 93.
+,
+q are arbitrarily
+a
+distributed in an arbitrary shaped closed surface as shown in
+Fig. 12.16. Using idea given in previous section, the electric
+flux passing through the closed surface is
+Fig. 12.16
+11
+---
+
+&0
++9,)
+charge enclosed by closed surface)
+(12.16)
+where
+Q=q,+q2+q,+ + 9n is the total charge enclosed
+by closed surface. Eq. 12.16 is mathematical expression of
+Gauss's law which can be stated as,
+"The flux through any closed surface is
+1/eg times the total charge enclosed in it".
+12.8 APPLICATIONS OF GAUSS'S LAW
+Gauss's law is applied to calculate the electric intensity due
+to different charge configurations. In all such cases, an
+imaginary closed surface is considered which passes
+through the point at which the electric intensity is to be
+evaluated. This closed surface is known as Gaussian
+surface. Its choice is such that the flux through it can be easily
+evaluated. Next the charge enclosed by Gaussian surface is
+calculated and finally the electric intensity is computed by
+applying Gauss's law Eq.12.16. We will illustrate this
+procedure by considering some examples.
+(a) Intensity of Field Inside a Hollow Charged
+Sphere
++
++
+Suppose that a hollow conducting sphere of radius R is given
+a positive charge q. We wish to calculate the field intensity
++
+Gaussian Surface
+first at a point inside the sphere.
++
++
++
+R'
++
+Now imagine a sphere of radius R<R to be inscribed within
+the hollow charged sphere as shown in Fig. 12.17. The
++
++
+surface of this sphere is the Gaussian surface. Let 0 be flux
++
++
+through this closed surface. It can be seen in the figure that
+the charge enclosed by the Gaussian surfaces is zero.
+R
++
+Applying Gaussian law, we have
++
++
++
+Flg. 12.17
+Since
+D. =E.A=0 as A=0, therefore, E=0
+12
+---
+
+Thus the interior of a hollow charged metal sphere is a field
+free region. As a consequence, any apparatus placed within
+a metal enclosure is "shielded" from electric fields.
+Do You Know?
+(b)
+Electric Intensity Due to an Infinite Sheet of
+To eliminate stray electric field
+Charge
+interference, circuits of sensitive
+electronics devices such as T.V and
+Suppose we have a plane sheet of infinite extent on which
+Computers are often enclosed within
+positive charges are uniformly distributed. The uniform
+metal boxes.
+surface charge density is, say, o. A finite part of this sheet is
+shown in Fig. 12.18. To calculate the electric intensity E at a
+point P. close to the sheet, imagine a closed Gaussian
+surface in the form of a cylinder passing through the sheet,
+whose one flat face contains point P. From symmetry we can
+conclude that E points at right angle to the end faces and
+away from the plane. Since E is parallel to the curved surface
+of the cylinder, so there is no contribution to flux from the
+E
+curved wall of the cylinder. While it will be,
+EA + EA = 2 EA, through the two flat end faces of the closed
+E
+cylindrical surface, where A is the surface area of the flat
+faces (Fig. 12.18). As the charge enclosed by the closed
+surface is OA, therefore, according to Gauss's law,
+Fig. 12.18 The closed surface is in
+X enclosed closed surface
+charge by
+the form of a cylinder whose one face
+contains the point P at which electric
+intensity has to be determined.
+XOA.
+(12.17)
+Therefore,
+2EA
+=
+XOA
+or
+E=20
+(12.18)
+2sp
+In vector form,
+E=26a
+(12.19)
+where is a unit vector normal to the sheet directed away from it.
+(c)
+Electric Intensity Between Two Oppositely
++
+Charged Parallel Plates
+Suppose that two parallel and closely spaced metal plates of
+infinite extent separated by vacuum are given opposite
+charges. Under these conditions the charges are essentially
+concentrated on the inner surfaces of the plates. The field
+Fig 12.19 The lines of force between
+lines which originate on positive charges on the inner face
+the plates are normal to the plates
+of one plate, terminate on negative charges on the inner
+and are directed from the positive
+face of the other plate (Fig. 12.19). Thus the charges
+plate towards the negative one.
+13
+---
+
+are uniformly distributed on the inner surface of the plate in a
+form of sheet of charges of surface density o = q/A, where A
+is the area of plate and q is the amount of charge on either of
+the plates.
+Imagine now, a Gaussian surface in the form of a hollow box
+with its top inside the upper metal plate and its bottom in the
+space between the plates as shown in Fig. 12.20. As the field
+lines are parallel to the sides of the box, therefore, the flux
+through the sides is zero. The field lines are uniformly
+distributed on the lower bottom face and are directed
+Fig. 12.20 Dotted rectangle
+represents the cross section of
+normally to it. If A is the area of this face and E the electric
+Gaussian box with its top inside the
+intensity at its site, the flux through it would be EA. There is no
+upper metal plate and its bottom in
+flux through the upper end of the box because there is no field
+the dielectric between the plates.
+inside the metal plate. Thus the total flux 0. through the
+Gaussian surface is EA. The charge enclosed by the
+Gaussian surface is OA. Applying Gauss's law
+.= 1 XOA
+1
+or
+EA
+so
+or
+(12.20)
+&g
+The field intensity is the same at all points between the plates.
+The direction of field is from positive to negative plate because
+a unit positive charge anywhere between the plates would be
+repelled from positive and attracted to negative plate and
+these forces are in the same direction. In vector form
+E=
+(12.21)
+Eg
+where r is a unit vector directed from positive to negative plate.
+12.9 ELECTRIC POTENTIAL
+Let us consider a positive charge qo which is allowed to move
+B
+in an electric field produced between two oppositely charged
+parallel plates as shown in Fig. 12.21 (a). The positive charge
+will move from plate B to A and will gain K.E. If it is to be moved
++q
+from A to B, an external force is needed to make the charge
+move against the electric field and will gain P.E. Let us impose
+Q.E
+a condition that as the charge is moved from A to B, it is moved
+A
+keeping electrostatic equilibrium, i.e., it moves with uniform
+Flg. 12.21 (a)
+velocity. This condition could be achieved by applying a force
+F equal and opposite to q.E at every point along its path
+14
+---
+
+as shown in Fig. 12.21 (b). The work done by the external
+force against the electric field increases electrical potential
+energy of the charge that is moved.
+B +
+F
+Let WAB be the work done by the force in carrying the positive
+charge 9. from A to B while keeping the charge in equilibrium.
+The change in its potential energy AU=WAB
+or
+U-U=WAB
+(12.22)
+a.E
+A
+where UA and UBI are defined to be the potential energies at
+Fig. 12.21 (b)
+points A and B, respectively.
+To describe electric field we introduce the idea of electric
+potential difference. The potential difference between two
+points A and B in an electric field is defined as the work done
+in carrying a unit positive charge from A to B while keeping the
+charge in equilibrium, that is,
+Do You Know?
+(12.23)
+where VA and VB are defined electric potentials at point A and
+B respectively. Electric potential energy difference and
+electric potential difference between the points A and B are
+related as
+AU=q.AV=W18
+(12.24)
+Thus the potential difference between the two points can be
+defined as the difference of the potential energy per unit
+charge.
+An ECG records the "voltage"
+between points on human skin
+generated by electrical process in the
+As the unit of P.E. is joule, Eq.12.23 shows that the unit of
+heart. This ECG is made in running
+potential difference is joule per coulomb. It is called volt such that,
+position providing information about
+the heart's performance under stress.
+1
+(12.25)
+1coulomb
+That is, a potential difference of 1 volt exists between two
+points if work done in moving a unit positive charge from one
+point to other, keeping equilibrium, is one joule.
+In order to give a concept of electric potential at a point in an
+electric field, we must have a reference to which we assign
+zero electric potential. This point is usually taken at infinity.
+Thus in Eq. 12.23, if we take A to be at infinity and choose
+VA=0, the electric potential at B will be VB=W or dropping
+the subscripts.
+v=w
+(12.26)
+15
+---
+
+which states that the electric potential at any point in an
+electric field is equal to work done in bringing a unit positive
+charge from infinity to that point keeping it in equilibrium. It is
+to be noted that potential at a point is still potential difference
+between the potential at that point and potential at infinity.
+Do You Know?
+Both potential and potential differences are scalar quantities
+because both /and q. are scalars.
+Electric Field as Potential Gradient
+Electrodes connected
+to detection and
+In this section we will establish a relation between electric
+recording device
+intensity and potential difference. As a special case, let us
+consider the situation shown in Fig. 12.21 (b). The electric
+field between the two charged plates is uniform, let its value
+be E. The potential difference between A and B is given by the
+equation
+EEG (Normal alpha rhythm)
+VB VA = WAB
+(12.27)
+where - (the negative sign is needed
+Potential
+difference
+because F must be applied opposite to q.E so as to keep it in
+equilibrium). With this, Eq. 12.27 becomes
+Time
+V- VA = q.Ed 90 =-Ed
+or
+(12.28)
+d d
+EEG (Abnormal)
+If the plates A & B are separated by infinitesimally small
+distance Ar, the Eq. 12.28 is modified as
+E ==Av
+(12.29)
+Potential
+difference
+The quantity AV gives the maximum value of the rate of
+Ar
+Time
+change of potential with distance because the charge has
+been moved along a field line along which the distance Ar
+between the two plates is minimum. It is known as potential
+In electroencephalography the
+gradient. Thus the electric intensity is equal to the negative of
+potential differences created by the
+the gradient of potential. The negative sign indicates that the
+electrical activity of the brain are used
+direction of E is along the decreasing potential.
+for diagnosing abnormal behaviour.
+The unit of electric intensity from Eq. 12.29 is volt/metre which
+is equal to NC 1 as shown below:
+volt
+1
+=
+1
+joule/coulomb = 1 newton X metre = 1 newton
+metre
+metre
+metre X coulomb coulomb
+16
+---
+
+Electric Potential at a Point due to a Point
+Charge
+Let us derive an expression for the potential at a certain point in
+the field of a positive point charge q. This can be accomplished
+by bringing a unit positive charge from infinity to that point
+keeping the charge in equilibrium. The target can be achieved
+using Eq. 12.29 in the form AV = -E Ar. provided electric
+intensity E remains constant. However in this case E varies
+inversely as square of distance from the point charge, it no
+B
+more remains constant so we use basic principles to compute
+the electric potential at a point. The field is radial as shown in
+Fig. 12.22.
+Let us take two points A and B, infinitesimally close to each
+other, so that E remains almost constant between them. The
+distance of points A and B from q are r and respectively
+Fig. 12.22
+and distance of midpoint of space interval between A and B is
+r from q. Then according to Fig. 12:22,
+(12.30)
+Ar=ra-ra
+(12.31)
+As represents mid point of interval between A and B so
+r=[4+TB
+(12.32)
+Do You Know?
+The magnitude of electric intensity at this point is,
+(12.33)
+As the points A and B are very close then, as a first
+approximation, we can take the arithmetic mean to be equal
+o geometric mean which gives
+Fish and other sea creatures produce
+rB
+electric fields in a variety of ways.
+Sharks have special organs, called
+the ampullae of Lorenzini, that are
+very sensitive to electric field and can
+herefore,
+(12.34)
+detect potential difference of the
+order of nanovolt and can locate their
+hus, Eq. 12.33 can be written as
+prey very precisely.
+(12.35)
+Now, if a unit positive charge is moved from B to A, the work
+lone is equal to the potential difference between And B,
+17
+---
+
+V-Vg=E(rg-ra)
+(12.36)
+Substituting value of from Eq. 12.35,
+(12.37)
+Do You Know?
+(12.38)
+To calculate absolute potential or potential at A, point B is
+Electrodes connected
+assumed to be infinity point so that V=0 and hence
+to detection and
+recording device
+1110
+This gives,
+(12.39)
+ERG (Normal)
+The general expression for electric potential V at a distance
+A
+r from qis,
+Potential
+(12.40)
+difference
+Example 12.3: Two opposite point charges, each of
+magnitude q are separated by a distance 2d. What is
+Time
+the electric potential at a point P mid-way between them?
+Solution:
+ERG (Abnormal)
+=0
+Potential
+difference
+So potential at P due to opposite charges is zero.
+12.10 ELECTRON VOLT
+Time
+Referring Fig. 12.21, we know that when a particle of charge
+q moves from point A with potential VA A to a point B with
+The electrical activity of the retina of the
+potential VB keeping electrostatic equilibrium, the change in
+eye generates the potential differences
+used in electroretinography.
+potential energy AU of particlei is,
+(12.41)
+If no external force acts on the charge to maintain equilibrium,
+this change in P.E. appears in the form of change in K.E.
+Suppose charge carried by the particle is q = e = 1.6 x 10 th C.
+18
+---
+
+Thus, in this case, the energy acquired by the charge will be
+AK.E=qAV=eAV=(1.6x101C)(AV)
+Moreover, assume that AV=1 volt, hence
+AK.E=qAV=(1.6x101C)x(1
+volt)
+AK.E = =(1.6x101h)x(CxV)=1.6x1019J
+The amount of energy equal to 1.6 x 10-19 J is called one
+electron-volt and is denoted by 1eV. It is defined as "the
+amount of energy acquired or lost by an electron as it
+traverses a potential difference of one volt". Thus,
+(12.42)
+Example 12.4: A particle carrying a charge of 2e falls
+through a potential difference of 3.0V. Calculate the energy
+acquired by it.
+Solution:
+q=2e
+,
+AV=3.0V
+The energy acquired by the particle is
+AK.E=qAV=(2e)(3.0V)=6.0eV
+=6.0x1.6x101J=9.6 x 1019
+J
+12.11 ELECTRIC AND GRAVITATIONAL
+FORCES (A COMPARISON)
+In chapter 4, we pointed out that gravitational force is a
+conservative force, that is, work done in such a field is
+independent of path. It can also be proved that Coulomb's
+electrostatic force is also conservative force. The electric
+force between two charges is similar in form to
+the gravitational force between the two point masses,
+F=Gmm2 * Both forces vary inversely with the square of the
+distance between the two charges or the two masses.
+However, the value of gravitational constant G is very small
+1
+as compared to electrical constant It is because of this
+4,
+fact that the gravitational force is a very weak force as
+compared to electrostatic force. As regards their qualitative
+aspect, the electrostatic force could be attractive or repulsive
+while, on the other hand, gravitational force is only attractive.
+Another difference to be noted is that the electrostatic force is
+medium dependant and can be shielded while gravitational
+19
+---
+
+force lacks this property.
+12.12 CHARGE ON AN ELECTRON BY
+MILLIKAN'S METHOD
+In 1909, R.A Millikan devised a technique that resulted in
+precise measurement of the charge on an electron.
+A
+C
+M
++
+W,
+P
+H
+S
+0
+D
+W2
+V
+P'
+L
+Fig. 12.23 (a)
+A schematic diagram of the Millikan oil drop experiment is
+shown in Fig. 12.23 (a). Two parallel plates PP' are placed
+inside a container C, to avoid disturbances due to air
+currents. The separation between the plates is d. The upper
+plate P has a small hole H, as shown in the figure. A voltage V
+is applied to the plates due to which the electric field E is
+setup between the plates. The magnitude of its value is
+E = V/d. An atomizer A is used for spraying oil drops into the
+container through a nozzle. The oil drop gets charged
+F, qE
+because of friction between walls of atomizer and oil drops.
+These oil drops are very small, and are actually in the form of
+mist. Some of these drops happen to pass through the hole in
+the upper plate. The space between the plates is illuminated
+Oil drop
+by the light coming from the source S through the lens L and
+window W1. The path of motion of these drops can be
+carefully observed by a microscope M.
+F, mg
+A given droplet between the two plates could be suspended
+in air if the gravitational force F = mg acting on the drop is
+Fig. 12.23 (b) Oii drop balanced by
+the gravitational force and the
+equal to the electrical force F, = qE, as shown in Fig. 12.23(b).
+Coulombforce
+The F. can be adjusted equal to F by adjusting the voltage. In
+this case, we can write,
+F.=F,
+(12.43)
+or
+qE=mg
+If Vis the value of p. d. between the plates for this setting, then
+20
+---
+
+E=
+we may write a
+q mgd
+(12.44)
+In order to determine the mass m of the droplet, the electric
+field between the plates is switched off. The droplet falls under the
+action of gravity through air. It attains terminal speed V, almost at the
+instant the electric field is switched off. Its terminal speed V1 is
+determined by timing the fall of the droplet over a measured
+distance. Since the drag force F due to air acting upon the droplet
+when it is falling with constant terminal speed is equal to its weight.
+Hence, using Stokes's law
+F F=6nrv,=mg
+where r is the radius of the droplet and n is the coefficient of
+viscosity for air. If p is the density of the droplet, then
+m=
+(12.45)
+4
+Hence.
+rv,
+3
+or
+Knowing the value of r, the mass m can be calculated by
+using Eq. (12.45). This value of m is substituted in Eq. 12.44
+to get the value of charge q on the droplet.
+Millikan measured the charge on many drops and found that
+each charge was an integral multiple of a minimum value of
+charge equal to 1.6 X 10-19 C. He, therefore, concluded that this
+minimum value of the charge is the charge on an electron.
+Example 12.5: In Millikan oil drop experiment, an oil drop
+of mass 4.9 x 10 15 kg is balanced and held stationary by the
+electric field between two parallel plates. If the potential
+difference between the plates is 750 V and the spacing
+between them is 5.0 mm, calculate the charge on the droplet.
+Assume g = 9.8 ms2
+Solution:
+Mass of drop=m=4.9x1015 kg
+Potential difference=V=7501
+Spacing between plates = mm = 5.0x103m
+21
+---
+
+For the droplet of the charge q, we have
+q - mgd . 4.9 x 10-15 kg x 9.8 ms -2 X 5.0x10-3 m
+V
+750 V
+q= 3.2 X 10 19 C
+12.13
+CAPACITOR
+A capacitor is a device that can store charge. It consists of
++Q
+-Q
+two conductors placed near one another separated by
+vacuum, air or any other insulator, known as dielectric.
+Usually the conductors are in the form of parallel plates, and
+the capacitor is known as parallel plate capacitor. When the
+d
+plates of such a capacitor are connected to a battery of
+S
+voltage V (Fig. 12.24), it establishes a potential difference of
+V
+V volts between the two plates and the battery places a
+Flg 12.24
+charge +Q on the plate connected with its positive terminal
+and a charge -Q on the other plate, connected to its negative
+terminal. let Q be the magnitude of the charge on either of the
+plates. It is found that
+OC V or = CV or c-v
+(12.46)
+The proportionality constant C is called the capacitance of
+the capacitor. As we shall see later, it depends upon the
+geometry of the plates and the medium between them. It is a
+measure of the ability of capacitor to store charge. The
+capacitance of a capacitor can be defined as the amount of
+charge on one plate necessary to raise the potential of that
+plate by one volt with respect to the other. The SI unit of
+capacitance is coulomb per volt, which because of its
+For Your Information
+frequent use, is commonly called farad (F), after the famous
+One farad is an enormous amount of
+English scientist Faraday.
+capacitance. For practical purposes
+its sub-multiple units are used which
+"The capacitance of a capacitor is one farad if a
+are given below,
+charge of one coulomb, given to one of the plates
+1 micro-farad = 1HF = 10 farad
+of a parallel plate capacitor, produces a potential
+1 pico-farad = 1 PF=10" farad
+difference of one volt between them".
+12.14 CAPACITANCE OF A PARALLEL
+PLATE CAPACITOR
+Consider a parallel plate capacitor consisting of two plane
+metal plates, each of area A, separated by a distance d as
+shown in Fig. 12.24. The distance d is small so that the
+electric field E between the plates is uniform and confined
+22
+---
+
+almost entirely in the region between the plates. Let initially
+the medium between the plates be air or vacuum. Then
+For Your Information
+according to Eq. 12.46,
+C-=V
+(12.47)
+where Q is the charge on the capacitor and V is the potential
+difference between the parallel plates. The magnitude E of
+electric intensity is related with the distance d by Eq. 12.28 as
+E=VI
+(12.48)
+As Q is the charge on either of the plates of area A. the
+surface density of charge on the plates is as
+0=01
+As already shown in section 12.8, the electric intensity
+The electric field lines between the
+plates of a parallel-plate capacitor.
+between oppositely charged plates is given by E== Eg
+two
+Small bits of thread are suspended in
+oil and become aligned with the
+Substituting the value of O, we have
+electric field. Note that the lines are
+equally spaced, indicating that the
+electric field there is uniform.
+(12.49)
+Ag
+It gives
+(12.50)
+If an insulating material, called dielectric, of relative
+permittivity E, is introduced between the plates, the
+capacitance of capacitor is enhanced by the factor E,.
+V.
+Capacitors commonly have some dielectric medium, thereby
+E, is also called as dielectric constant.
+(a)
+Following experiment gives the effect of insertion of dielectric
+between the plates of a capacitor.
+Consider a charged capacitor whose plates are connected to
+a voltmeter (Fig. 12.25 a). The deflection of the meter is a
+measure of the potential difference between the plates.
+When a dielectric material is inserted between the plates,
+V
+reading drops indicating a decrease in the potential
+difference between the plates (Fig. 12.25 b). From the
+definition, C = Q/V, since V decreases while Q remains
+(b)
+constant, the value of C increases. Then Eq. 12.50 becomes,
+V< V.
+c__-Asge,
+(12.51)
+Fig. 12.25 Effect of a dielectric on the
+capacitance of a capacitor.
+23
+---
+
+Eq. 12.50 shows the dependence of a capacitor upon the
+area of plates, the separation between the plates and
+medium between them.
+Dividing Eq. 12.51 by Eq.12.50 we get expression for
+dielectric constant as,
+E, = Groud
+(12.52)
+vac
+From Eq. 12.52 dielectric co-efficient or dielectric constant is
+For Your Information
+defined as
+"The ratio of the capacitance of a parallel plate
+capacitor with an insulating substance as
+medium between the plates to its capacitance
+with vacuum (or air) as medium between them".
+12.15 ELECTRIC POLARIZATION OF
+DIELECTRICS
+A collection of capacitors used in
+The increase in the capacity of a capacitor due to presence of
+various appliances.
+dielectric is due to electric polarization of dielectric.
+The dielectric consists of atoms and molecules which are
+electrically neutral on the average, i.e, they contain equal
+amounts of negative and positive charges. The distribution of
+these charges in the atoms and molecules is such that the
+centre of the positive charge coincides with the centre of
+negative charge. When the molecules of dielectric are
+subjected to an electric field between the plates of a
+capacitor, the negative charges (electrons) are attracted
+towards the positively charged plate of the capacitor and the
+positive charges (nuclei) towards the negatively charged
+plate. The electrons in the dielectric (insulator) are not free to
+move but it is possible that the electrons and nuclei can
+undergo slight displacement when subjected to an electric
+field. As a result of this displacement the centre of positive
+and negative charges now no longer coincide with each other
+and one end of molecules shows a negative charge and the
+other end, an equal amount of positive charge but the
+molecule as a whole is still neutral. Two equal and opposite
+charges separated by a small distance are said to constitute
+a dipole. Thus the molecules of the dielectric under the action
+of electric field become dipoles and the dielectric is said to be
+polarized.
+The effect of the polarization of dielectric is shown in
+24
+---
+
+Fig. 12.26. The positively charged plate attracts the negative
+end of the molecular dipoles and the negatively charged plate
+attracts the positive end. Thus the surface of the dielectric
+which is in contact with the positively charged plate places a
+H
+layer of negative charges on the plate. Similarly the surface of
+#
+the dielectric in contact with the negatively charged plate
+places a layer of positive charges. It effectively decreases the
+#
+surface density of the charge o on the plates. As the electric
+intensity E between the plates is so E decreases due to
+so
+polarization of the dielectric. This results into a decrease of
+potential difference between the plates due to presence of
+Fig. 12.26
+dielectric as demonstrated by the experiment described in the
+previous section.
+12.16 ENERGY STORED IN ACAPACITOR
+A capacitor is a device to store charge. Alternatively, it is
+possible to think of a capacitor as a device for storing
+electrical energy. After all, the charge on the plate possesses
+electrical potential energy which arises because work is to be
+done to deposit charge on the plates. This is due to the fact
+that with each small increment of charge being deposited
+during the charging process, the potential difference
+between the plates increases, and a larger amount of work is
+needed to bring up next increment of charge.
+Initially when the capacitor is uncharged, the potential
+difference between plates is zero and finally it becomes V
+when q charge is deposited on each plate. Thus, the average
+potential difference is 0+V-1V +
+2
+2
+Therefore
+P.E.=Energy=1qv =
+Using the relation q = CVfor capacitor we get
+Energy = 1/2 CV2
+(12.53)
+It is also possible to regard the energy as being stored in
+electric field between the plates, rather than the potential
+energy of the charges on the plates. Such a view point is
+useful when electric field strength between the plates instead
+of charges on the plates causing field is to be considered.
+This relation can be obtained by substituting V = Ed and
+C = Ae,e/d in Eq. 12.53,
+25
+---
+
+R
++q
+-q
+=
+C
+= 2 1 (Ad)
+B
+S
+.
+A
+As (Ad) is volume between the plates so
+(12.54)
+V.
+Volume
+This equation is valid for any electric field strength.
+Flg 12.27 Charging a capacitor
+12.17 CHARGING AND DISCHARGING A
+CAPACITOR
+q
+Cv,=q
+Many electric circuits consist of both capacitors and
+resistors. Fig. 12.27 shows a resistor-capacitor circuit called
+R-C-circuit. When the switch S is set at terminal A, the R-C
+0.63q,
+combination is connected to a battery of voltage Vo which
+Large RC
+starts charging the capacitor through the resistor R.
+Small! RC
+The capacitor is not charged immediately, rather charges
+RC
+L.
+build up gradually to the equilibrium value of q. = CV. The
+Fig. 12.28
+growth of charge with time for different resistances is shown
+in Fig. 12.28. According to this graph a = 0 at t = 0 and
+R
++q
+-q
+increases gradually with time till it reaches its equilibrium
+value q. = CV. a* The voltage V across capacitor at any instant
+C
+can be obtained by dividing q by C, as V = q/C.
+How fast or how slow the capacitor is charging or
+S
+B
+discharging, depends upon the product of the resistance R
+A
+o
+and the capacitance C used in the circuit. As the unit of
+product RC is that of time, so this product is known as time
+constant and is defined as the time required by the capacitor
+to deposit 0.63 times the equilibrium charge 90. The graphs of
+(a)
+Fig.12.28 show that the charge reaches its equilibrium value
+a
+sooner when the time constant is small.
+CV.
+Fig. 12.29(a) illustrates the discharging of a capacitor
+through a resistor. In this figure, the switch S is set at point B,
+Large RC
+so the charge +q on the left plate can flow anti-clockwise
+through the resistance and neutralize the charge -q on the
+Small RC
+right plate.
+The graphs in Fig. 12.29(b) shows that discharging begins at
+t=0 when q = CV, and decreases gradually to zero. Smaller
+(b)
+t
+values of time constant RC lead to a more rapid discharge.
+Fig. 12.29 Discharging a capacitor
+26
+---
+
+Example 12.6: The time constant of a series RC circuit is
+t= RC. Verify that an ohm times farad is equivalent to second.
+Solution: Ohm's law in terms of potential difference V,
+current I and resistance R can be written as,
+V=IR
+Putting I = q/t, this equation transforms into the equation,
+Interesting Application
+v=4R
+The charging/discharging of a
+capacitor enables some windshield
+wipers of cars to be used
+intermittently during a light drizzle. In
+or
+R=Vxt
+this mode of operation the wipers
+remain off for a while and then turn on
+briefly. The timing of the on-off cycle is
+According to equation nq=CV,C=qN
+determined by the time constant of a
+resistor-capacitor combination.
+Multiplying this equation with above equation gives,
+RC=
+Hence
+1 ohm X 1 farad = 1 second
+where ohm is the unit of resistance R.
+SUMMARY
+The Coulomb's law states that the force between two point charges is directly
+proportional to the product of the magnitudes of charges and inversely proportional to
+the square of the distance between them.
+Electric field force per unit charge at a point is called electric field strength or electric
+field intensity at that point.
+The number of the field lines passing through a certain element of area is known as
+electric flux through that area, denoted by O.
+The electric flux 0 through a vector area A, in the electric field of intensity E is given by
+0 = E.A = EA cos0 where 0 is the angle between the field lines and the normal to
+surface area.
+Gauss's law is stated as "the flux through any closed surface is 1/eg times the total
+charge enclosed in it.
+The interior of a hollow charged metal sphere is a field free region.
+The electric intensity between two oppositely charged parallel plates is E=2
+The amount of work done in bringing a unit positive charge from infinity to a point
+against electric field is the electric potential at that point.
+27
+---
+
+Capacitance of a capacitor is a measure of the ability of a capacitor to store charge.
+The
+capacitance of a parallel plate capacitor is
+The increase in the capacitance of a capacitor due to presence of dielectric is due to
+electric polarization of the dielectric.
+QUESTIONS
+12.1
+The potential is constant throughout a given region of space. Is the electrical field
+zero or non-zero in this region? Explain.
+12.2
+Suppose that you follow an electric field line due to a positive point charge. Do
+electric field and the potential increase or decrease?
+12.3
+How can you identify that which plate of a capacitor is positively charged?
+12.4
+Describe the force or forces on a positive point charge when placed between parallel
+plates
+(a)
+with similar and equal charges
+(b)
+with opposite and equal charges
+12.5
+Electric lines of force never cross. Why?
+12.6
+If a point charge q of mass m is released in a non-uniform electric field with field lines
+pointing in the same direction, will it make a rectilinear motion?
+12.7
+Is E necessarily zero inside a charged rubber balloon if balloon is spherical? Assume
+that charge is distributed uniformly over the surface.
+12,8
+Is it true that Gauss's law states that the total number of lines of forces crossing any
+closed surface in the outward direction is proportional to the net positive charge
+enclosed within surface?
+12.9
+Do electrons tend to go to region of high potential or of low potential?
+PROBLEMS
+12.1
+Compare magnitudes of electrical and gravitational forces exerted on an object
+(mass = 10.0 g, charge = 20.0 uC) by an identical object that is placed 10.0 cm from
+the first. = 6.67x10*" Nm2kg2
+(Ans: Fo = 5.4 x 10")
+28
+---
+
+12.2 Calculate vectorially the net electrostatic force on q as shown in the figure.
+q=4.0uc
+10 0.60m
+0,60 m
+07
+(Ans: F=0.058 iN)
+a = 1.0uc
+-1.0
+12.3
+A point charge q = 8.0 x 10 C is placed at the origin. Calculate electric field at a
+point 2.0 m from the origin on the z-axis.
+[Ans: (-1.8x102 k)NC*
+12.4
+Determine the electric field at the position r = (4i+3) caused by a point charge
+q = 5.0 X 10° C placed at origin. [Ans: (1440) + 1080 )N C ]
+12.5
+Two point charges, q, = -1.0 x 10 6 C and q2 = 4.0 x 10 * C, are separated by a
+distance of 3.0 m. Find and justify the zero-field location. (Ans: 3.0 m)
+12.6
+Find the electric field strength required to hold suspended a particle of mass
+1.0 x10 kg and charge 1.0uc between two plates 10.0 cm apart. (Ans: 9.8 vm")
+12.7
+A particle having a charge of 20 electrons on it falls through a potential difference of
+100 volts. Calculate the energy acquired by it in electron volts (eV) [Ans: (2.0x10'eV)]
+12.8
+In Millikan's experiment, oil droplets are introduced into the space between two flat
+horizontal plates, 5.00 mm apart. The plate voltage is adjusted to exactly 780V so
+that the droplet is held stationary. The plate voltage is switched off and the selected
+droplet is observed to fall a measured distance of 1.50 mm in 11.2 S. Given that the
+density of the oil used is 900 kg m3, and the viscosity of air at laboratory temperature
+is 1.80x105 Nm S, calculate
+a)
+The mass, and
+b)
+The charge on thedroplet(Assumeg=9.8ms
+[Ans: (a) 5.14x10115 kg, (b) 3.20 x 10 ¹9 C]
+12.9
+A proton placed in a uniform electric field of 5000 NC1 directed to right is allowed to
+go a distance of 10.0 cm from A to B. Calculate
+(a)
+Potential difference between the two points
+(b)
+Work done by the field
+(c)
+The change in P.E. of proton
+(d)
+The change in K.E. of the proton
+(e)
+Its velocity
+(mass of proton is 1.67x102kkg)
+(Ans: -500 V, 500 eV, -500 eV, 500 eV, 3.097 X 10° ms*)
+12.10 Using zero reference point at infinity, determine the amount by which a point charge
+of 4.0 x 10 C alters the electric potential at a point 1.2 m away, when
+(a)
+Charge is positive
+(b)
+Charge is negative
+(Ans: +3.0 X 102 V, -3.0x102 V)
+29
+---
+
+12.11 In Bohr's atomic model of hydrogen atom, the electron is in an orbit around the
+nuclear proton at a distance of 5.29 X 10 m with a speed of 2.18 X 108 ms1.
+(e = 1.60x10-18 C, mass of electron = 9.10x10 kg). Find
+(a)
+The electric potential that a proton exerts at this distance
+(b)
+Total energy of the atom in eV
+(c)
+The ionization energy for the atom in eV
+(Ans: +27.20 V, -13.6 eV, +13.60 eV)
+12.12 The electronic flash attachment for a camera contains a capacitor for storing the
+energy used to produce the flash. In one such unit, the potential difference between
+the plates of a 750 uF capacitor is 330 V. Determine the energy that is used to
+produce the flash.
+(Ans: 40.8J)
+12.13 A capacitor has a capacitance of 2.5x10 F. In the charging process, electrons are
+removed from one plate and placed on the other one. When the potential difference
+between the plates is 450 V, how many electrons have been transferred?
+(e =1.60x101°C)
+(Ans: 7.0x1013 electrons)
+30
+---

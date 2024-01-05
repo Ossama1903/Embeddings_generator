@@ -1,0 +1,395 @@
+CHAPTER16 ENVIRONMENTAL CHEMISTRY
+Animation 16.1 : Water Pollution
+Source and Credit :  rohma242 3
+16. ENVIRONMENTAL CHEMISTRY 16. ENVIRONMENTAL CHEMISTRY eLearn.Punjab eLearn.Punjab16.1    INTRODUCTION1. The meaning of environmental pollution.
+2.
+ The sources of air pollutants like CO, SO2, oxides of nitrogen, etc.
+3.
+ Effects of polluted air on environment.
+4.
+ The causes of water pollution.
+5.
+ The preparation of potable water.
+6.
+ About 
+the solid waste and its management like dumping and incineration, 
+treatment of industrial waste and recycling of solid waste.IN THIS CHAPTER YOU WILL LEARN:
+Environmental chemistry deals with the chemicals and other pollutants in 
+the environment. In this we study the sources, reactions, transportation of the chemicals and other toxic substances especially created by human ac-tivity in the environment and their adverse effects on human beings. This branch of chemistry is interrelated with all other branches of science, i.e. biol-ogy, physics, medicine, agriculture, public health and sanitary engineering, etc.
+16.1.1 Components of the Environment
+The environment consists of the following components:
+(i)    Atmosphere                                            (ii)  Hydrosphere(iii)  Lithosphere                                            (iv)  Biosphere
+(i) AtmosphereIts thickness is about 1000 km above the surface of the earth 
+and half of its mass is concentrated in the lower 5.6 km.The gases in the atmosphere absorb most of the cosmic rays and the ma-jor portion of the harmful electromagnetic radiation coming from the sun. 
+The absorption of these harmful radiation protects the life on the earth.
+The layer of gases surrounding the earth is called atmosphere. It con-
+sists of various gases in different proportions i.e., N
+2 (78%), O2 (21%), Ar (0.9 
+%), CO2 (0.03 %) and trace amounts of H2, O3, CH4, CO, He, Ne, Kr and Xe.
+It also contains varying amounts of water vapours. The gases present in the atmosphere are essential for sustaining life on earth i.e., O
+2 is required for breathing, CO2 is required for plant 
+photosynthesis, N2 is used by nitrogen fixing bacteria and water 
+vapours are responsible for sustaining various forms of life on the earth. Atmosphere also maintains the heat balance of the earth.
+(ii) Hydrosphere
+The hydrosphere includes all water bodies, mainly oceans, rivers, 
+streams, lakes, polar ice caps, glaciers and ground water reservoirs (water below   earth surface). Oceans contain 97% of earth’s water but because of high salt contents this water cannot be used for human consumption. The polar ice caps and glaciers consist of 2% of the earth’s total water supply. Only 1% of the total earth’s water resources are available as fresh water i.e., surface water; river, lake, stream and ground water. The fresh water is being used by agriculture (69%), industry (23%) and for domestic purposes (8%).
+It consists of rigid rocky crust of earth and extends to the depth of 100 km. The mantle and core are the heavy interior of the earth, making up most of the earth’s mass. The 99.5 % mass of the lithosphere is made of 11 elements, which are oxygen (~ 46.60 %), Si (~27.72 %), Al (8.13 %), Fe (5.0 %), Ca (3.63 %), Na (2.83 %), K (2.59 %), Mg (2.09 %) and Ti, H
+2 and P 
+(total less than 1 %). The elements present in trace amounts (0.1 to 0.02 %) are C, Mn, S, Ba, Cl, Cr, F, Zr, Ni, Sr and V. These elements mostly occur in the form of minerals.(iii) Lithosphere4 5
+16. ENVIRONMENTAL CHEMISTRY 16. ENVIRONMENTAL CHEMISTRY eLearn.Punjab eLearn.PunjabBiosphere is the region of earth capable of supporting life. It includes 
+lower atmosphere, the oceans, rivers, lakes, soils and solid sediments that actively interchange materials with all types of living organisms i.e., human beings, animals and plants. Ecosystem is a smaller unit of biosphere which consists of community of organisms and their interaction with environment i.e., animals, plants and microorganisms which lie in a definite zone and depend on the physical factors such as soil, water, and air.Any substance in the environment which adversely affects the human health, quality of life and the natural functioning of ecosystem, is known as environmental pollutant . With continuous rapid growth in population, 
+urbanization, industrialization and transportation, environmental pollution is spreading in almost every city of the world. The quantity of pollutants affecting the environments have increased rapidly in the last half-century and they have adversely affected human health and eco-system.(iv) Biosphere/Ecosphere
+16.2 TYPES OF POLLUTION
+16.2.1 Air Pollution
+The atmosphere is polluted when harmful substances which damage 
+the environment, human health and quality of life are mixed in it. The main sources of air pollution are:
+The waste products given out from chimneys of industrial units and 
+exhaust of automobiles may contain gases such as sulphur dioxide, sulphur trioxide, nitrogen oxides, carbon monoxide, hydrocarbons, ammonia, compounds of fluorine and radioactive materials. These waste products are called primary pollutants.The primary pollutants in the atmosphere through various reactions produce secondary pollutants such as sulphuric acid, carbonic 
+acid, hydrofluoric acid, peroxyacetyl-nitrate (PAN), ozone, aldehydes, ketones and peroxybenzol. All these compounds are toxic and their concentration in the atmosphere must be controlled. The sources for some of the main primary air pollutants are described below:
+1. Carbon Monoxide
+It is a colourless, odourless and highly toxic gas. It is three times lighter than 
+air. It is soluble in water.
+Natural sources of carbon monoxide emission are volcanic eruption, 
+natural gas emission and oxidation of methane in the atmosphere.Sources
+(a) Natural
+Fuel burning in various types ot transportation i.e., motor vehicles, 
+railways and aircraft is the major source (75%) of carbon monoxide in the atmosphere. Other sources of carbon monoxide emission are forest fires, combustion of fossil fuel and agricultural products. Carbon monoxide is also emitted from industries in which any type of fuel is burnt in air. (b) Human Activities
+These industries include iron and steel, petroleum, cement, brick kilns, 
+paper and pulp, etc.Incomplete combustion and dissociation of CO
+2 at high 
+temperature also produces CO.
+Carbon monoxide is highly poisonous gas and causes suffocation 
+if inhaled. It binds blood haemoglobin more strongly than oxygen thus excluding oxygen from normal respiration. The CO poisoning can be reversed by giving high pressure oxygen. Exposure to high concentration of CO results in headache, fatigue, unconsciousness and eventually death (if such exposure is sustained for longer period).6 7
+16. ENVIRONMENTAL CHEMISTRY 16. ENVIRONMENTAL CHEMISTRY eLearn.Punjab eLearn.Punjab2. Nitrogen Oxides (NOx)
+Sources:
+Bacterial action produces NOx mainly NO(a) Natural
+Nitrogen oxides are generally produced by combustion of coal, oil, 
+natural gas and  gasoline. Both oxides result from the oxidation of nitrogeneous compounds present in fossil fuel. The burning of fuel in the presence of air in internal combustion engine also produces NO.(b) Human Activities
+high temperature
+22N + O 2NO  →
+The residence time of NO and NO2 in the atmosphere are 4 and 
+3 days respectively. Due to photochemical reactions, NOx are 
+converted to HNO3 which is carried down in either rain fall or as dust.Nitrogen dioxide is produced when nitric oxide reacts with oxygen.
+22 2NO + O 2NO →
+3. Sulphur Oxides, SO2
+Sources:
+On global scale most of sulphur dioxide is produced by volcanoes (67%) 
+and by oxidation of sulphur containing gases produced by decomposition of organic matter.(a) NaturalLarge quantities of hydrocarbons are emitted by different trees and 
+plants in the atmosphere. Paddy fields produce a significant amount of methane in the atmosphere. Sources4. Hydrocarbons
+(a) Natural:These gases (SO
+2 and SO3) because of their pungent odour are very irritant 
+and suffocating. Through various reactions in the atmosphere they form 
+sulphate aerosols. These aerosols cause severe respiratory troubles particularly among older people. Sulphur dioxide is the major source of acid deposition in the atmosphere.22 32SO + O 2SO →The gases nitric oxide, NO and nitrogen dioxid, NO2 are represented by NOx.
+Air is polluted with SO2 due to combustion of coal (containing 1-9%S), 
+crude oil and other fossil fuel in power plants and petroleum industry, etc.(b) Human Activities
+22 S + O SO→Automobiles are the major source of hydrocarbons emission. In addition to this, petroleum, coal, wood, incinerators, refuse burning and solvent evaporator also contribute towards the emission of hydrocarbons into the atmosphere.(b) Human ActivitiesAnother natural source of methane is the anaerobic decomposition of organic matter by bacteria in water sediments and in soils. Methane has a mean residence time of about 3 -7 years in the atmosphere.
+Bacteria
+2 24 2CH O CO + CH→
+16.2.2 The Effects of Polluted Air on Environment
+1. Acid Rain
+Acid rain which now-a-days is termed as acid deposition, was discovered 
+by Angus Smith in Great Britain in the mid seventeenth century but this phenomenon gained importance as a serious environmental problem in 1950’s. Initially it was referred to the precipitation which was more acidic than natural rain.8 9
+16. ENVIRONMENTAL CHEMISTRY 16. ENVIRONMENTAL CHEMISTRY eLearn.Punjab eLearn.PunjabAnimation 16.2 : Acid rain 
+Source and Credit : kidsgenAnimation 16.3 : Acid rain 1
+Source and Credit : s-coolDue to the presence of CO2 in the atmosphere the natural rain itself forms 
+carbonic acid:
+The pH of unpolluted rain water should be 5.6.The 
+rain water has pH less than 5 is considered truly acidic.In the atmosphere SO
+z and NOx are transformed by reactions with oxygen 
+and water into H2SO4 and HNO3 respectively. These acids get mixed with rain.
+The acid deposition includes both wet (rain, snow, fog) and dry acidic
+ deposition.2 2 23 CO (g) + H O(aq) H CO (aq) →
+(hydrocarbon,smoke,metal oxides)
+2 2 2 24 SO  + 1/2O  + H O H SO  →
+In some countries due to release of HCI by volcanic eruption there is temporary
+acid rain.Acidification of the soil and rocks can leach metals like aluminium, mercury, lead and calcium and discharges them into water bodies. These heavy metals are accumulated in the fishes and are health hazards for humans and birds as they eat these fishes. The elevated concentration of aluminium is harmful for fish as it clogs the gills thus causing suffocation. Acidification of the soil can also leach nutrients thus damaging leaves and plants and growth of forest. It also damages building materials such as steel, paint, plastic, cement, masonry work and sculptural materials especially of marble and limestone.2. Smog
+The word smog is a combination of smoke and fog. If it contains high 
+contents of SO
+2 it is chemically reducing in nature and is known as 
+‘reducing smog’. The main cause of reducing smog is combustion of coal. Photochemical smog consists of higher concentrations of oxidants like ozone and is also termed as oxidizing smog, it is a yellowish brownish grey haze which is formed in the presence of water droplets and chemical reactions of pollutants in the air. 
+It has unpleasant odour because of its gaseous components. The main 
+reactants of photochemical smog are nitric oxide NO and unburnt hydrocarbons. Nitric oxide is oxidized to nitrogen dioxide within minutes to hours depending upon the concentration of pollutant gas.
+The yellow colour in photochemical smog is due to the presence of nitrogen 
+dioxide.The following conditions are required for the formation of smog:10 11
+16. ENVIRONMENTAL CHEMISTRY 16. ENVIRONMENTAL CHEMISTRY eLearn.Punjab eLearn.PunjabAnimation 16.4 : Smog 
+Source and Credit : citylab
+1. There must be sufficient NO ,hydrocarbons and volatile organic                           
+compounds (VOC) emitted by the vehicular traffic.
+2.
+ Sunlight, so that some of the chemical reactions may occur at a rapid rate.
+3.
+ The movement of air mass must be little so that reactions are not disturbed.
+The overall result of photochemical smog in afternoon is the built 
+up of oxidizing 
+agents such as H2O2, HNO3, peroxyacetyl nitrate (PAN) and ozone in the air.
+PAN is an eye irritant and is also toxic to plants.
+3. Ozone
+Ozone, O3, is a gas having low boiling point. It is present in small concentrations 
+throughout the atmosphere.The amount of ozone in the atmosphere 
+is expressed in Dobson units (DU). The normal amount of overhead ozone is about 350 DU.
+The ozone layer, 25 - 28 km high, in the stratosphere surrounds the globe 
+and filters most of the harmful ultraviolet (UV) rays in the sunlight before they could reach on the earth. Therefore, if there is substantial reduction in the ozone layer the life on earth would be threatened. In 1980’s a large hole in the ozone layer over Antarctic was discovered which represented a major environmental crisis.Ozone is produced in most of the tropical regions by the photochemical reactions of oxygen, from where it is transported to polar regions. It acts as a pollutant and causes various health problems i.e., damages eyes and aggravates asthma, decreases the elasticity of lung tissues, coughing, chest discomfort, etc. It is harmful to the plants and other materials i.e., attacks rubber, reduces durability and appearance of paint and causes fabric dyes to fade. 
+Animation 16.5 : Ozone concentration
+Source and Credit : wikipediaThe amount of ozone is less in the regions closer to the equator.
+The thickness of the ozone layer has been decreasing over Antarctic during the spring time since the mid 1970’s. By the mid 1980’s loss in ozone at some altitudes over Antarctica resulted in about 50% depletion of the total overhead amount. The region in which ozone depletes substantially in every year during Sep-Nov is now termed as “ozone hole”.
+The concentration of ozone in the stratosphere is being depleted through 
+various chemical reactions not only above Antarctica but worldwide.
+The stratosphere where the ozone layer exists in the atmosphere is 
+approximately at 15 to 40 kilometer altitudes and is just above the troposphere which extends to an altitude of 0-15 kilometer from the earth. The temperature in troposphere decreases with the increasing altitude from 15 to - 56°C, it is because the air near the earth is heated by radiation reemitted from the earth.12 13
+16. ENVIRONMENTAL CHEMISTRY 16. ENVIRONMENTAL CHEMISTRY eLearn.Punjab eLearn.PunjabWhereas the temperature in stratosphere increases with increase 
+of altitude i.e., -56 to-2 °C. The ozone is the main chemical species present in stratosphere which absorbs the ultraviolet radiation and increases the temperature in the upper part of the ozone layer. 
+Role of Chlorofluorocarbons (CFCs) in Destroying Ozone 
+Chlorofluorocarbons used as refrigerants in air conditioning and 
+in aerosol sprays are inert in the troposphere but slowly diffuse into stratosphere, where they are subjected to ultraviolet radiation generating Cl
+0 free radicals. Chlorofluorocarbons (CFCs) play an effective 
+role in removing O3 in the stratosphere due to following reactions.
+32 CFCl CFCl + Cl→
+32 Cl + O ClO + O→ 
+2 ClO + O Cl + O→ 
+A single chloride free radical can destroy upto 100,000 ozone molecules.
+16.2.3 Water Pollution
+Water is essential for life on earth. All living organisms contain 
+water in them. To sustain life every human being drinks several litres of water daily. Marine life is also impossible without water.
+Surface and ground water which are vital resources of fresh water are vulnerable to contamination. The human activities such as livestock waste, landfills, agriculture, pesticides, oil leaks and spills, disposal of industrial effluents on open land, water bodies, septic tanks, detergents, mining, petroleum and natural gas production may result in the contamination of the surface and ground waters.Animation 16.6 : Water Pollution1
+Source and Credit : masters
+1. Livestock Waste
+Mostly the livestock waste is either being dumped on the open land 
+or is discharged into sewage, canals or rivers. This practice pollutes the surface and ground water posing serious health problems to the population. Chemical and bacterial contents in livestock waste can contaminate surface and ground water causing such infectious diseases as dysentery, typhoid and hepatitis.
+2. Oil Spillage
+Petroleum or crude oil is a complex mixture of many compounds 
+mainly hydrocarbons. The petroleum products are used as fuel, lubricant, for manufacturing petrochemicals, plastics, electrical appliances, synthetic rubber and detergents, etc. 
+Sea water gets polluted by accidental oil spills and leakage from cargo 
+oil tankers in sea, tanker trucks, pipelines leakage during off shore exploration and leakage of underground storage tanks. Many petroleum products are poisonous and pose serious health problems to humans, animals and aquatic life. Hydrocarbons particularly polycyclic aromatics are known to be carcinogenic even at very low concentrations. The marine organisms are severely affected by soluble aromatic fractions of oil (C-10 or less). The spilled oil damages the marine life often causing death. The light transmission through surface of water is affected by oily layer on it thus photosynthesis of the plants and dissolved oxygen in water is decreased.14 15
+16. ENVIRONMENTAL CHEMISTRY 16. ENVIRONMENTAL CHEMISTRY eLearn.Punjab eLearn.Punjab3. Detergents
+Detergents are excessively used in industries and household as cleaning 
+agents. The amount of disposed detergents in waste water is increasing day-by-day. This waste water when discharged in rivers or sea, greatly affects the aquatic life. Detergent contents of waste water mobilize the bound toxic ions of heavy metals such as Pb, Cd and Hg from sediments into water.
+4. Pesticides
+Pests harm crops and transmit diseases both to human beings and 
+animals. Pesticides are the substances that can directly kill an unwanted organism or otherwise control by interfering with its reproduction process. 
+The current ability to produce large amounts of food on relatively small 
+amount of land has been made possible around the world by the use of pesticides. At present more than ten thousand different types of synthetic organic pesticides have been formulated. They are broadly classified into several principal types according to their general chemical nature.
+The most important and widely used pesticides are insecticides 
+(which kill insects), herbicides (which kill undesired plants) and fungicides (which control the growth of fungus on the plant).
+The use of various pesticides also helped in the eradication of diseases such as malaria, yellow fever, bubonic plague and sleeping sickness.
+Wide spread use of pesticides for getting greater crop yields if not properly checked and controlled has associated risks of contaminating the soil, plants and the water. The drainage water from the agricultural land (where the pesticides are being used) mostly contains pesticides. 
+Therefore if the use of any type of pesticide is not properly controlled it enters through various roots i.e., agricultural food products and drinking water into the food chain and thus pose serious health problems to both human beings and animals.Organic chemicals in drinking water do not have any healthy effects on human or animal health. At best, some organic chemicals may have no detrimental effects at low concentrations. But many compounds once thought safe, especially the synthetic organic chemicals, can have serious and substantial heath risks, even at very low concentrations. At even higher concentrations, most of the compounds are tasteless and odourless. It is now known that many of the light molecular weight chlorinated hydrocarbons in drinking water are carcinogens and they have no safe levels. That is they cannot be consumed through air, food, or water without the risk of adverse health effects.
+When synthetic organic chemicals are ingested through food or drinking water, they can cause health problems. At high concentrations they can cause nausea, dizziness, tremors, and blindness. At lower concentrations, at which these compounds become tasteless and odourless, humans may develop skin eruptions or central nervous system impairment. At still lower concentrations when ingested over months or years, the compounds can cause health problems. With human or animal carcinogens, there is often a long period of time between exposure and manifestation of the disease.
+5. Industrial Waste Effluents
+The finished products in any chemical related manufacturing industries 
+i.e., leather tanneries, fertilizers, oil refining, petrochemical, textiles, paper pulp and paper board, rubber products, agrochemicals, leather goods, etc. are always accompanied by some byproducts and waste effluents. The waste products may be in the form of waste heat, smoke, solid or waste water effluents.
+The industrial waste pollutants may contain organic chemicals including highly toxic synthetic organic compounds and heavy metals i.e., Pb, Cd, Cr, Hg, As, Sb etc. oils and greases, mineral acids, etc.
+The toxic organic compounds and heavy metals and metalloidsThe toxic organic compounds and heavy metals and metalloids 
+results in contamination of both surface and ground water used for irrigation and potable water supply. This also causes irreversible degradation of the environment causing serious health problems for public and marine life.16 17
+16. ENVIRONMENTAL CHEMISTRY 16. ENVIRONMENTAL CHEMISTRY eLearn.Punjab eLearn.PunjabIt must be mentioned here that heavy metals such as Pb, Cd, Cr, As, Hg, etc. 
+are highly toxic and do not have any safe limits; they have accumulation effects when ingested through food or water and cause various health problems like anemia, kidney diseases, nervous disorder, high blood pressure, etc.
+6. Leather Tanneries
+The effluents are discharged onto the open land or put into the sewage system. These industries are the big source of chromium (VI) pollution in the environment. Chromium (VI) is highly toxic and is known to cause cancer.Many leather tanning units, varying from the cottage scale to big industrial units, are working in and around many big cities of Pakistan. They use large quantities of chromium (VI) salts for leather tanning. They are producing good variety of exportable leather, but only some units have the facility of waste water treatment by reducing Cr (VI) into trivalent state followed by alkaline precipitation of Cr (OH)
+3.
+16.3 F ACTORS AFFECTING THE QUALITY OF WATER
+The terms dissolved oxygen, biochemical oxygen demand and chemical oxygen demand are frequently used in measuring the quality of water. These terms are described as follows:
+In water the most important oxidizing agent is dissolved molecular 
+oxygen (O
+2) the concentration of which ranges from 4 - 8 ppm. 
+The organic matter is oxidized with the help of this dissolved oxygen in water.It is a parameter to determine the quality of water. The dissolved oxygen value less than 4 ppm indicates that water is polluted.1. Dissolved Oxygen (DO)2. Biochemical Oxygen Demand (BOD)
+It is the capacity of organic matter in natural water to consume oxygen 
+within a period of five days. The value of BOD is the amount of oxygen consumed as a result of biological oxidation of dissolved organic matter in the sample. 
+The oxidation reaction is catalyzed by microorganisms which are already present in the natural water. It is measuredexperimentally by calculating the concentration of oxygen at the beginning and at the end of five days period, in which a sealed water sample is maintained in the dark at constant temperature either at 20°C or 25°C.
+3. Chemical Oxygen Demand (COD)
+The organic content of water which consumes oxygen during 
+chemical oxidation is evaluated by its chemical oxygen demand. The oxygen demand of water can be determined directly by treating it with dichromate ions Cr
+2O72- which is a powerful oxidizing agent. 
+The organic matter in water is oxidized, while the remaining dichromate is determined titremetrically:
+Value of COD is a direct measure of chemically oxidizable matter in water. Higher values of COD will indicate more pollution.
+16.3.1 Purification of Water
+The surface or ground water is normally used for drinking and other 
+domestic purposes. The quality of untreated surface or ground water varies largely from place to place. Ground water is usually more clean than the surface water.
+Depending upon its quality it may or may not need further treatment to make it fit for human consumption. The surface water, however, is invariably contaminated and requires treatment to make it potable i.e., safe for human consumption.18 19
+16. ENVIRONMENTAL CHEMISTRY 16. ENVIRONMENTAL CHEMISTRY eLearn.Punjab eLearn.PunjabThe raw water is treated to remove all the foreign materials and make 
+it useable for drinking and other domestic purposes. The treatment is carried out in various stages i.e., aeration to settle suspended matters, coagulation of small particles and suspended matters, precipitation and removal of solid matters and finally treating the water with chlorine to kill viruses and bacteria.
+The quality of raw water is improved by aeration. In this process air is 
+passed through water to remove the dissolved gases such as foul smelling H
+2S, organosulphur compounds and volatile organic compounds. Some 
+of the organic materials in the raw water which could be easily oxidized with air produce CO
+2 in the aeration process. The remaining portions of 
+organic material if necessary are removed by passing water over activated carbon. Aeration process also oxidizes water soluble Fe
+2+ to Fe3+ which 
+then forms insoluble Fe(OH)3 and can be removed as solid. Aeration also
+ improves the oxygen level of raw water.1. Aeration
+2. Coagulation
+The materials which are suspended or present in the colloidal form 
+in raw water are removed by coagulation. The coagulant such as aluminium sulphate or alum is added to the raw water, which causes the precipitation of suspended impurities. For example, aluminium hydroxide is precipitated when alum is added to water in alkaline medium i.e.,
+242 4 3 2 2 4 3 24 2 K SO .Al (SO ) .24H O + 3Ca(OH) 3CaSO + 2Al(OH) + K SO + 24H O →
+Many suspended particles get adsorbed on the surface of gelatinous aluminium hydroxide precipitate. Ferric salts are also commonly used as coagulants but they are difficult to handle because an insoluble ferric oxide is produced in the pH range from 3.0 to 13.0.3. Water Disinfection by Chlorine
+Chlorine is frequently used to disinfect water. Chlorine treatment is very 
+effective in killing the pathogens that may cause serious water-borne diseases such as typhoid and cholera which have killed many thousands of people around the world. The most commonly used disinfecting agent is hypochlorous acid HOCI. This neutral covalent compound kills microorganisms readily by passing through their cell membranes. The hypochlorous acid is not stable thus it cannot be stored, it is therefore generated by either dissolving molecular chlorine gas or sodium and calcium hypochlorites in water.Disinfection by chlorine is inexpensive.
++-
+22Cl + H O HOCl + H + Cl →
+Generating HOCI from sodium or calcium hypochlorites avoides the transportation and use of chlorine cylinders.
+Fig. 16.1 Purification of WaterThe process of coagulation can remove more than 80% of the suspended solids in the raw water.The surface or ground water may also contain calcium and magnesium salts which make the water hard.The hard water is then appropriately treated to remove Ca
+2+ and Mg2+.20 21
+16. ENVIRONMENTAL CHEMISTRY 16. ENVIRONMENTAL CHEMISTRY eLearn.Punjab eLearn.PunjabHarmful effects of chlorination of water are due to its reactions with 
+dissolved ammonia and organic matters present in water. The hypochlorous acid reacts with dissolved ammonia to form chloramines NH
+2Cl, NHCl2 
+and especially nitrogen trichloride NCI3 which is a powerful eye irritant.
+3 32 NH + 3HOCl NCl + 3H O →
+The alkaline pH can prevent the formation of chloramines.Chlorination of water containing organic materials also forms some organic compounds which are toxic. For example, if phenol is present in water then chlorinated phenols are formed which have offensive odour and taste and are toxic. 
+Chloroform CHCl
+3 is formed when hypochlorous acid reacts with organic 
+matter (humic acid) dissolved in water. Chloroform is suspected liver carcinogen and also has negative reproduction and development effects in humans. The risk of bladder and rectal cancer increases by drinking chlorinated water. To avoide the formation of toxic compounds with chlorine, ozone or chlorine dioxide is used for the disinfection of water.
+16.4 SOLID WASTE MANAGEMENT
+The disposal of domestic refuse, commercial and industrial solid wastes or semisolid materials are studied under the title solid waste management. The domestic municipal solid waste mostly consists of papers, vegetables, plastics, wood, glass, rubber, leather, textile, metals and food wastes.
+Water covers more than 70% of the earth and is valuable source for food and minerals. Sea and rivers have long been used for dumping waste of industrial and municipal discharges such as acids, refinery wastes, pesticides waste, construction and demolition debris, explosives, domestic refuse, garbage and radioactive waste, etc. The dumping of waste materials in water has damaged the marine environment and caused health hazards to human beings.16.4.1 Effects of Dumping Waste in Sea and Rivers16.4.2 Landfill
+The municipal solid waste is mainly disposed off by dumping it in a landfill. 
+The landfill is a large hole in the ground or even a bare piece of land. When the landfill becomes full with waste it is covered by soil or clay. The site of land is selected on a number of factors such as topography, location of the ground, water table, nature of the solid waste, type of soil and rock and location of disposal zone in the surface water and ground water flow system. The ground water which seeps in the landfill and liquid from the waste itself all percholate through the refuse producing leachate. The leachate contains dissolved, suspended and microbial contaminants.The gases which are produced in landfills from the waste are methane, ammonia, hydrogen sulphide and nitrogen. The leachate contains volatile organic acids such as acetic acid and various fatty acids, bacteria, heavy metals and salts of common inorganic ions such as Ca
+2+. The 
+micropollutants present in municipal solid waste include common volatile organic compounds such as toluene and dichloremethane.
+16.4.3 Incineration of the Muncipal Solid Waste
+Incineration is a waste treatment process in which solid waste is burned at 
+high temperatures ranging from 900 to 1000 °C. The burning of the solid waste in the incinerator consumes all combustible materials leaving behind the non-combustible materials and the ash residues. The ash residues of the incinerator are disposed off on the land or landfills. The incineration may reduce the volume of the waste by two third. The combustible components of garbage such as paper, plastics and wood provide fuel for the fire. In incineration the heat of combustion may be used in producing steam which runs the turbines to produce electricity.
+16.4.4 Treatment of Industrial Waste
+The industrial and hazardous wastes are disposed off in landfill or the waste16.4.4 Treatment of Industrial Waste
+The industrial and hazardous wastes are disposed off in landfill or the waste 
+is first incinerated and the residual ash is then disposed off in the landfill. The landfill for the hazardous waste is monitored more regularly for the leakage of the leachate and its design is almost same as that of landfill for22 23
+16. ENVIRONMENTAL CHEMISTRY 16. ENVIRONMENTAL CHEMISTRY eLearn.Punjab eLearn.Punjab16.4.5 Incineration otlnckistrial and Hazardous Waste
+A general process of high temperature incineration system consists of a 
+rotary kiln which accepts all types of wastes including liquid, solid or sludge. The wastes are burned at temperatures between 650° to 1100°C. Ash from the rotating chamber is collected at waste tank and the remaining liquid gaseous materials are passed to the secondary chamber. This chamber is non-rotating and hence the temperature range of 950° to 1300°C is maintained. In this chamber organic molecules are completely destroyed. The gases produced are then cooled to 230°C by evaporating water spray. The cooled gases are then passed through scrubber system which eliminates the surviving particulates and acid forming components like CO
+2. 
+Ash residues and waste water produced in the rotating and secondary chambers are disposed off in the land fills, Fig. 16.2.
+Fig. 16.2 Incineration of industrual waste
+the municipal solid waste, except it has more lining of clay and plastic so that the leachate does not contaminate soil and ground water around.
+Animation 16.7 : Recycling
+Source and Credit : nasaAlthough the volume of solid waste is reduced to a much lesser extent by burning it in the incinerator, it is not a clean process of the disposal of solid wastes, as it produces air pollution and also toxic ash. Incineration of the solid waste is a significant source of dioxins which is a class of carcinogen compounds. Smoke stacks from incineration may emit oxides of nitrogen and sulphur which lead to acid rain. Heavy metals such as lead, cadmium, mercury, etc., may also be present in the leachate of the incinerators.
+16.4.6 Recycling of Waste
+In recycling some of the used or waste materials are not discarded 
+after their initial use but are processed so that they can be used again. The purpose of recycling is to conserve sources such as raw material and energy. The volume of the waste is also much reduced by recycling of the materials.The most common domestic materials that are recycled are paper, plastic, glass and aluminium.
+The largest item which is recycled is newspaper and in its recycling process 
+the release of chlorine or other bleaching acids and organic solvents is significantly less as compared to formation of these compounds during the processing of virgin newspaper.To improve the whiteness of the recycled newspaper it is blended with the virgin newspaper or sometimes treated with peroxides and hydrosulphites. In recycling process the fibre of the newspaper becomes shorter so it can be recycled again and again for five times.24 25
+16. ENVIRONMENTAL CHEMISTRY 16. ENVIRONMENTAL CHEMISTRY eLearn.Punjab eLearn.PunjabAnimation 16.9 : Recycling of plastic 
+Source and Credit : emazeAnimation 16.8 : Recycling1 
+Source and Credit : mansfieldmaThe recycling of plastics is done by reprocessing, 
+depolymerization or transformation.In reprocessing the used plastics are remelted and styrene which is used for manufacturing of different products e.g., the original use of polystyrene is for the manufacturing of foam, packaging, cutlery, furniture, etc. but after its reprocessing it is used mostly for the manufacturing of toys, trays, etc.
+The depolymerization is a process in which the used plastics are converted back into their original components by a chemical or thermal process so that these can be subsequently polymerized again e.g., polyethylene terephthalate can be thermally depolymeirzed in the presence of a catalyst and heat into its original components. The transformation is a process in which used plastics are converted into low quality substances which are latter used for the production of other materials e.g., cracking of polyethylene at high temperatures gives its monomers which are used for the manufacturing of lubricants.1. Environmental chemistry is the branch of chemistry in which we study the 
+sources, reactions, transportation and effects of the pollutants on the 
+environment. The environment consists of four components.
+2.
+ The primary air pollutants 
+are carbon monoxides, sulphur dioxide, sulphur 
+trioxide, nitrogen oxides and hydrocarbons.
+3.
+ The acid rain is due to the oxides of sulphur 
+and nitrogen which get mixed with 
+rain water in the presence of pollutants to form sulphuric and nitric acids. The acid rain affects the soil, water and sculptural materials.
+4.
+ The 
+main cause of photochemical smog is the presence of oxidants such as 
+nitrogen oxides in the atmospheres. The hydrocarbons also play a key role for smog formation.
+5.
+ The ozone 
+is a protective layer in the stratosphere which absorbs harmful 
+ultraviolet radiation of the sun and thus blocks them to reach on the earth.
+6.
+ Water which 
+is an essential requirement for all the living beings on the earth 
+is being polluted by livestock waste, oil spillage, detergents, pesticides and industrial wastes. The water pollution results in many infectious diseases such as dysentery, typhoid, hepatitis and in some cases also cancer.
+7.
+ The 
+potable water is purified by aeration, coagulation and chlorination. Although 
+chlorination has saved many thousand lives by killing viruses and bacteria, it also forms some chlorinated organic compounds in water which are toxic.
+8. The domestic municipal solid waste consists of paper, plastic, vegetables, wood, 
+glass, rubber, leather, textile, metals and food wastes. The waste whether domestic or industrial is managed by disposing it off in the landfills or it is initially incinerated and then the resulting ash is disposed off in the land or in landfills. The dumping of waste in ocean, sea and rivers have damaged the marine environment and caused health hazards for human beings.
+9. In the recycling process instead of dumping the waste products i.e., paper, 
+plastic, glass and aluminium, they are processed and made reusable.This process also reduces the volume of the waste.KEY POINTS26 27
+16. ENVIRONMENTAL CHEMISTRY 16. ENVIRONMENTAL CHEMISTRY eLearn.Punjab eLearn.PunjabEXERCISE
+Q. 1 Fill in the blanks
+1.
+ Only__________ 
+of the total earth’s water resources are available as fresh water.
+2.
+ ___________ 
+is a smaller unit of biosphere which consists of community of 
+organisms and their interaction with environment.
+3.
+ Carbon 
+monoxide is highly poisonous gas and causes suffocation if inhaled, it 
+binds blood ______________ more strongly than oxygen thus excluding oxygen from normal respiration.
+4.
+ The 
+elevated concentration of__________ is harmful for fish as it clogs the gills 
+thus causing suffocation.
+5.
+ The 
+ozone layer in the __________ surrounds the globe and filters most of the 
+harmful UV rays in the sunlight before they could reach the earth.
+6.
+ The presence of______________ 
+in livestock waste can contaminate surface and 
+ground water causing various infectious diseases.
+7.
+ The substances 
+which can directly kill the unwanted organisms are called 
+______________.
+8.
+ ______________ is frequently used to disinfect water.
+9.
+ Incineration 
+is not a clean process because it produces air pollution and toxic 
+______________.
+10.
+ A 
+process in which some of the used or waste materials are not discarded 
+after their initial use but are processed so that it can be used again is called ______________.
+Q. 2 Indicate true or false.1.
+ Half of the mass of the atmosphere is concentrated in lower 10 km.
+2.
+ The oceans cover approximately 71 percent of the earth.
+3.
+ The volcanoes produce 55 % of SO2.
+4.
+ The reducing smog is due to the presence of nitric oxide.
+5.
+ Ozone 
+is produced in the polar regions by the photochemical reaction of 
+oxygen.
+6.
+ The temperature in the troposphere decreases with 
+the increasing altitude 
+from 15 to -56° C.
+7. Incineration is a waste treatment process in which solid waste is dumped in a 
+land fill.8. Acid rain is due to the presence of oxides of sulphur and nitrogen which get mixed 
+with the rain water.
+9. The heavy metals have a safe limit where they are not toxic.10.The reprocessing of the plastics is to convert back to their components by a 
+chemical or thermal process so that these can be used again.
+Q. 3 Multiple choice questions. Encircle the correct answer.
+(i) The pH range of the acid rain is
+(a) 7-6.5                              (b)6.5-6                               (c) 6-5.6                   (d) lessthan 5
+(ii) Peroxyacetylnitrate (PAN) is an irritant to human beings and it affects
+(a) eyes                               (b) ears                              (c) stomach                     (d) nose
+(iii) To avoid the formation of toxic compounds with chiorine which substance is 
+used for disinfecting water.(a) KMnO
+4                           (b) O3                                 (c) Alums           (d) Chloramines
+(iv) A single chloride free radical can destroy how many ozone molecules(a) 100                                 (b) 100000                       (c) 10000                          (d) 10
+(v) Fungicides are the pesticides which
+(a) control the growth of fungus                                        (b) kill insects(c) kill plants                                                                           (d) kill herbs
+(vi) Ecosystem is a smaller unit of
+(a) lithosphere                 (b) hydrosphere               (c) atmosphere      (d) biosphere
+(vii) The main pollutant of leather tanneries in the waste water is due to the salt of:
+(a) lead                  (b) chromium(VI)                           (c) copper       (d) chromium (III)
+(viii) In purification of potable water the coagulant used is
+(a) nickel sulphate            (b) copper sulphate        (c) barium sulphate    (d) alum28
+16. ENVIRONMENTAL CHEMISTRY eLearn.Punjab(ix) The temperature in the non-rotating chamber in the incineration of 
+industrial and hazardous waste process has a range
+         (a) 900 to 1000° C     (b) 250 to 500° C        
+         (c) 950 to 1300 °C      (d) 500 to 900 °C
+(x) Newspaper can be recycled again and again by how many times?
+(a) 2                                   (b) 3                                       (c) 4                                   (d) 5
+Q. 4 Discuss in detail the components of the environment.Q. 5 Describe the natural and human sources of carbon monoxide, nitrogen 
+oxides and sulphur oxides.
+Q. 6 What is acid rain and how does it affect our environment.Q. 7 What is smog? Explain the pollutants which are the main cause of 
+photochemical smog.
+Q. 8 Why is ozone layer depleting? What will happen when the concentration of 
+ozone will be decreased?
+Q. 9 How is oil spillage affecting the marine life?Q.10 How detergents are threat to aquatic animal life?Q. 12  Explain how pesticides are dangerous to human beings.
+Q. 13  Discuss industrial waste effluents.
+Q. 14  How water is purified i.e., made potable. Discuss in detail.
+Q. 15  What are leachates?
+Q. 16  Explain the process of incineration of industrial waste.

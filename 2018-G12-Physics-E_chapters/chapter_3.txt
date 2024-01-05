@@ -1,0 +1,1448 @@
+
+Chapter
+14
+ELECTROMAGNETISM
+Learning Objectives
+At the end of this chapter the students will be able to:
+1.
+Appreciate that a force might act on a current carrying conductor placed in a
+magnetic field.
+2.
+Define magnetic flux density and the tesla.
+3.
+Derive and use the equation BIL sine with directions.
+4.
+Understand how the force on a current carrying conductor can be used to measure
+the magnetic flux density of a magnetic field using a current balance.
+5.
+Describe and sketch flux patterns due to a long straight wire.
+6.
+Define magnetic flux and the weber.
+7.
+Derive and use the relation = B.A.
+8.
+Understand and describe Ampere's law.
+9.
+Appreciate the use of Ampere's law to find magnetic flux density inside a solenoid.
+10.
+Appreciate that there acts a force on a charged particle when it moves in a uniform
+magnetic field and in electric field.
+11.
+Describe the deflection of beams of charged particles moving in a uniform magnetic
+field.
+12.
+Understand and describe method to measure e/m.
+13.
+Know the basic principle of cathode ray oscilloscope and appreciate its use.
+14.
+Derive the expression of torque due to couple acting on a coil.
+15.
+Know the principle, construction and working of a galvanometer.
+16.
+Know how a galvanometer is converted into a voltmeter and an ammeter.
+17.
+Describe and appreciate the use of AVO meter/multimeter.
+18.
+Read through analogue scale and digital display on electrical meters.
+E
+lectric current generates magnetic field. At the same time, a changing magnetic field
+produces electric current. This interplay of electricity and magnetism is widely used in a
+number of electrical devices and appliances in modern age technology.
+56
+---
+
+14.1 MAGNETIC FIELD DUE TO CURRENT
+IN A LONG STRAIGHT WIRE
+Take a straight, thick copper wire and pass it vertically
+through a hole in a horizontal piece of cardboard. Place
+small compass needles on the cardboard along a circle with
+the centre at the wire. All the compass needles will point in
+the direction of N - S. Now pass a heavy current through the
+wire. It will be seen that the needles will rotate and will set
+themselves tangential to the circle (Fig. 14.1 a). On reversing
+the direction of current, the direction of needles is also
+reversed. As the current through the wire is stopped, all the
+needles again point along the N - S direction.
+Following conclusions can be drawn from the above
+mentioned experiment:
+(i)
+A magnetic field is set up in the region
+surrounding a current carrying wire.
+(ii)
+The lines of force are circular and their
+Fig. 14.1 (a)
+direction depends upon the direction of
+current.
+(iii)
+The magnetic field lasts only as long as the
+current is flowing through the wire.
+The direction of the lines of force can be found by a rule
+concluded directly from the above experiment which is stated
+as follows:
+If the wire is grasped in fist of right hand with
+the thumb pointing in the direction of the
+current, the fingers of the hand will circle the
+wire in the direction of the magnetic field.
+This is known as right hand rule and is illustrated in
+Fig. 14.1 (b).
+R.H.
+14.2 FORCE ON A CURRENT CARRYING
+CONDUCTOR IN A UNIFORM MAGNETIC
+B
+FIELD
+We have seen that a current carrying conductor sets up its
+own magnetic field. If such a conductor is placed in an
+Fig. 14.1 (b)
+external magnetic field, the magnetic field of the conductor
+will interact with the external magnetic field, as a result of
+which the conductor may experience a force. To demonstrate
+57
+---
+
+Do You Know?
+this effect, consider a rod of copper, capable of moving on a
+If the middle finger of the right hand
+pair of copper rails. The whole arrangement is placed in
+points in the direction of the magnetic
+between the pole pieces of a horseshoe magnet so that the
+field, the thumb in the direction of
+copper rod is subjected to a magnetic field directed vertically
+current, the force on the conductor
+will be normal to the palm towards the
+upwards (Fig. 14.2).
+reader.
+conduction
+B
+rails
+B
+B
+B
+90
+F
+F
+6
++
+Fig. 14.2
+When a current is passed through the copper rod from a
+battery, the rod moves on the rails. The relative directions of
+the current, magnetic field and the motion of the conductor
+are shown in Fig. 14.3. It can be seen that the force on a
+conductor is always at right angles to the plane which
+Fig. 14.3
+contains the rod and the direction of the magnetic field. The
+magnitude of the force depends upon the following factors:
+(i)
+The force F is directly proportional to sina where a is
+the angle between the conductor and the field. From
+Do You Know?
+this, it follows that the force is zero if the rod is placed
+parallel to the field and is maximum when the
+Wire 1
+Wire 2
+conductor is placed at right angles to the field.
+sina
+-F
+F
+7,
+1,
+(ii)
+The force F is directly proportional to the current /
+flowing through the conductor. The more the current,
+Repulsion
+greater is the force.
+(in)
+Foc
+(iii)
+The force F is directly proportional to the length L of
+the conductor inside the magnetic field.
+A
+FxL
+F
+-F
+12
+(iv)
+The force F is directly proportional to the strength of
+the applied magnetic field. The stronger the field, the
+Attraction
+(b)
+greater is the force. If we represent the strength of the
+field by B, then
+(a) Two long parallel wires carrying
+currents 1, and 12 in opposite direction
+Fx
+repel each other. (b) The wires attract
+Combining all these factors,
+each other when the currents are in
+Fx sina
+the same direction.
+58
+---
+
+or
+= KILL B sina
+where k is constant of proportionality. If we follow SI units, the
+value of k is 1. Thus in SI units
+F=ILB sina
+(14.1)
+Eq.14.1 provides a definition for the strength of magnetic
+field. If/=1A, L = 1 m and a = 90°, then F = B. Thus B, the
+strength of magnetic field which is also known as magnetic
+induction is defined as the force acting on one metre length of
+the conductor placed at right angle to the magnetic field when
+For Your Information
+1 A current is passing through it. In SI units the unit of B is
+X
+X
+X
+X
+tesla. Amagnetic field is said to have a strength of one tesla if
+it exerts a force of one newton on one metre length of the
+X
+conductor placed at right angles to the field when a current of
+X
+x
+X
+one ampere passes through the conductor. Thus
+Out of page
+Into page
+1T=1NA'm
+Convention to represent direction
+It can be seen that the force on a current carrying conductor is
+given both in magnitude and direction by the following
+equation:
+F=/LxB
+(14.2)
+where the vector L is in the direction of current flow. The
+magnitude of the vector / L X B is I L B sina, where a is the
+angle between the vector L and B. This gives the magnitude
+of the force. The direction of the force F (Fig. 14.3) is also
+correctly given by the right hand rule of the cross product of
+N
+vectors of L and B i.e., rotate L to coincide with B through the
+smaller angle. Curl the fingers of right hand in the direction of
+rotation. The thumb points in the direction of force. In some
+situations the direction of the force is conveniently
+determined by applying the following rule:
+Consider a straight current carrying conductor held at right
+angle to a magnetic field such that the current flows out of the
+plane of paper i.e., towards the reader as shown in
+Fig. 14.4. It is customary to represent a current flowing
+towards the reader by a symbol dot (*) and a current flowing
+away from him by a cross (x).
+S
+In order to find the direction of force, consider the lines of
+Fig. 14.8 The magnetic force on the
+force (Fig. 14.4). The two fields tend to reinforce each other
+current carrying conc ctor placed at
+on left hand side of the conductor and cancel each other on
+right angle to a magnede field.
+the right side of it. The conductor tends to move towards the
+weaker part of the field i.e., the force on the conductor will be
+directed towards right in a direction at right angles to both the
+59
+---
+
+conductor and the magnetic field. This rule is often referred as
+extension of right hand rule. It can be seen that the direction of
+the force is the same as given by the direction of the vector L B.
+Example 14.1: A20.0 cm wire carrying a current of 10.0A Ais
+placed in a uniform magnetic field of 0.30 T. If the wire makes
+an angle of 40° with the direction of magnetic field, find the
+magnitude of the force acting on the wire.
+Solution:
+Length of the wire =L=20.0cm=0.20m
+Current = I = 10.0A
+Strength of magnetic field = B=0.30T
+Angle = a=40°
+Substituting these values in the equation
+F=IBLsina
+10.0Ax0.30 Tx0.20 m X sin40 = 0.39N
+14.3 MAGNETIC FLUX AND FLUX DENSITY
+A
+SO
+Like electric flux, the magnetic flux O through a plane
+B
+element of area A in a uniform magnetic field B is given by dot
+product of B and A (Fig. 14.5).
+(a)
+OB = B.A
+OR = BA cos0
+(14.3)
+Note that A is a vector whose magnitude is the area of the
+element and whose direction is along the normal to the
+surface of the element, 0 is the angle between the directions
+A
+of the vectors B and A.
+B
+In Fig. 14.5 (b) the field is directed along the normal to the
+area, so 0 is zero and the flux is maximum, equal to BA.
+When the field is parallel to the plane of the area (Fig. 14.5c),
+(b)
+the angle between the field and normal to area is 90° i.e.,
+0 = 90°, so the flux through the area in this position is zero.
+A
+In case of a curved surface placed in a non uniform magnetic
+field, the curved surface is divided into a number of small
+90°
+surface elements, each element being assumed plane and
+B
+the flux through the whole curved surface is calculated by
+sum of the contributions from all the elements of the surface.
+From the definition of tesla, the unit of magnetic flux is NmA"
+(c)
+Fig. 14.5
+which is called weber (Wb).
+60
+---
+
+According to Eq. 14.3, the magnetic induction B is the flux per
+unit area of a surface perpendicular to B, hence it is also
+called as flux density. Its unit is then, Wbm3. Therefore,
+magnetic induction, i.e., the magnetic field strength is
+measured in terms of Wbm" -2 or NA*m (tesla).
+Example 14.2: The magnetic field in a certain region is
+given by B = (40i-18k) Wbm2 How much flux passes through
+a 5.0 cm2 area loop in this region if the loop lies flat in the
+xy- plane?
+Solution:
+Magneticinduction=B=401-18k
+Area of the loop = AA =5.0x10*m²
+Flux (=Qg=B.AA
+=(40i-18k).(5.0x10*m'k)
+= 90x104
+14.4 AMPERE'S LAW AND DETERMINATION
+OF FLUX DENSITY B
+We know that an electric current produces a magnetic field.
+Ampere, after carrying out a series of experiments,
+generalized his results into a law known as Ampere circuital
+law by which the magnetic flux density B at any point due to a
+current carrying conductor can be easily computed as
+explained below:
+B
+Consider a closed path in the form a circle of radius
+r
+enclosing the current carrying wire (Fig.14.6). This closed
+path is referred as Amperean path. Divide this path into small
+AL
+elements of length like AL. Let B be the value of flux density at
+the site of AL. Determine the value of B.AL. If 0 is the angle
+between B and AL, then
+Fig. 14.6 Ampere's law to find the
+B.AL = BAL cos0
+magnetic field in the vicinity of this
+B cos0 represents the component of B along the element of
+long, straight, current-carrying wire.
+length AL i.e., Component of B parallel to AL. Thus B.AL
+represents the product of the length of the element AL and
+the component of B parallel to AL. Ampere stated that the
+sum of the quantities B.AL for all path elements into which the
+complete loop has been divided equals Ho times the total
+current enclosed by the loop, where Ho is a constant, known
+61
+---
+
+as permeability of free space. In SI units its value is
+4r X 10 WbA'm This can be mathematically expressed as
++ (B.AL). + + (B.AL) Ho!
+N
+or
+[B.AL),=
+(14.4)
+where (B.AL) is the value of B.AL along the r th element and
+N is the total number of elements into which the loop has
+been divided. This is known as Ampere's circuital law.
+Field Due to a Current Carrying Solenoid
+A solenoid is a long, tightly wound, cylindrical coil of wire.
+When current passes through such a coil, it behaves like a
+For Your Information
+bar magnet. The magnetic field produced by it is shown in
+Fig. 14.7(a). The field inside a long solenoid is uniform and
+-
+I
+much strong whereas out side the solenoid, it is so weak that
+it can be neglected as compared to the field inside.
+The value of magnetic filed B can be easily determined by
+applying Ampere's circuital law. Consider a rectangular loop
+abcd as shown in Fig. 14.7 (b). Divide it into four elements of
+length ab = E11 bc=l2 cd = l3 and da=ls
+by
+A solenoid
+00000000000
+S
+N
+I,
+b
+(a)
+(b)
+Fig. 14.7
+Applying Ampere's law, we have
+B.AL),+(B.AL)2+(B.AL)+(B.AL).=uoX current enclosed
+Now we will calculate the value of B.AL for each of the
+elements. First we will consider the element ab = l, that lies
+inside the solenoid. Field inside the solenoid is uniform and is
+parallel to (Fig. 14.7b), so
+62
+---
+
+=1,B
+For the element cd=h. that lies outside the solenoid , the
+field B is zero, so
+(B.AL),==0
+Do You Know?
+Again B is perpendicular to l2and la inside the solenoid and is
+Phantom bar magnet
+zero outside, so
+/
+.AL)2=(B.AL).=0
+N
+N
+S
+enclosed
+rut
+The current loop can be imagined to
+be a phantom bar magnet with a north
+To find the current enclosed, consider the rectangular
+pole and a south pole.
+surface bounded by the loop abcda.
+If n is the number of turns per unit length of the solenoid, the
+rectangular surface will intercept ne, turns, each carrying a
+current I. So the current enclosed by the loop is ne, I. Thus
+Ampere's law gives
+For Your Information
+or
+B=H,nl
+(14.5)
+The field B is along the axis of the solenoid and its direction is
+N
+S
+N
+S
+given by right hand grip rule which states "hold the solenoid in
+the right hand with fingers curling in the direction of the
+current, the thumb will point in the direction of the field".
+(a) Attraction
+Example 14.3: A solenoid 15.0 cm long has 300 turns of
+wire. A current of 5.0 A flows through it. What is the magnitude
+Note
+of magnetic field inside the solenoid?
+current
+reversal
+Solution:
+N
+S
+S
+N
+Length of the solenoid = L = 15.0 cm = 0.15m
+I
+Total number of turns = N = 300
+(b) Repulsion
+Current = =5.0A
+The "phantom" magnet included for
+Permeability of free space = 410 WbA*m
+each loop helps to explain the
+attraction and repulsion between the
+N
+loops
+Number of turns per unit
+=2000 turns/m
+Magnetic field = B=H,nl
+63
+---
+
+=4x107 WbA'm X 2000 m 1 5.0A
+B=1.3x102 Wbm2
+14.5 FORCE ON A MOVING CHARGE INA
+MAGNETIC FIELD
+We have seen that a current carrying conductor, when placed
+in a magnetic field, experiences a force. The current through
+the conductor is because of the motion of charges. Actually
+the magnetic field exerts force on these moving charges due
+to which the conductor experiences force. We are interested
+in calculating the force exerted on the moving charges.
+B
+Consider the situation as shown in Fig. 14.8 where we see a
+portion of the wire that is carrying a current I. Suppose there
+are n charge carriers per unit volume of the wire, and that
+each is moving with velocity V as shown. We will now find how
+A
+long it takes for all the charge carriers originally in the wire
+segment shown to exit through the end area A.
+The volume of the wire segment is AL. Because there are n
+charge carriers per unit volume, the number of charge carrier
+Fig. 14.8
+in the segment is n AL. If the charge on a charge carrier is q,
+each of it, as it crosses the end area, will transport a charge q
+through it. Assuming the speed of the carriers to be V, the
+carrier entering the left face of the segment takes a time
+At = L/v to reach the right hand face. During this time, all the
+charge carriers originally in the segment, namely n AL, will
+exit through the right hand face. As each charge carrier has a
+charge q, the charge AQ that exits through the end area in
+time At= L/vis
+For Your Information
+AQ=nALq
+V
+B
+Then, from the definition of the current, the current I through
+the conductor is
+F
+=nAqv
+(14.6)
+By Eq. 14.2, the force on the segment L of a conductor,
+carrying current / is given by
+R.H.
+Fl=/LxB
+The moving charge experiences a
+Substituting the value of the current I,
+magnetic force F because of the
+magnetic field B.
+F,=nAqvLxB
+(14.7)
+64
+---
+
+In Fig. 14.8, it can be seen that the direction of the segment L
+is the same as the direction of the velocity of the charge
+carriers. If L is a unit vector along the direction of the segment
+L and V, a unit vector along the velocity vector V, then L=v
+vL=vLL
+=vvl=vL
+Substituting the value of vL in Eq. 14.7, we have
+F=nAq(vL)xB
+=nALqvxB
+n AL is the total number of charge carries in the segment L, so
+the force experienced by a single charge carrier is
+AL =
+Thus the force experienced by a single charge carrier moving
+with velocity V in magnetic field of strength B is
+F=q(vxB)
+(14.8)
+Although the q.14.8 has been derived with reference to
+charge carrier moving in a conductor but it does not involve
+any parameter of the conductor, so the Eq. 14.8 is quite
+general and it holds for any charge carrier moving in a
+magnetic field.
+If an electron is projected in a magnetic field with a velocity V,
+it will experience a force which is given by putting q = - e in
+Eq. 14.8 where e is the magnitude of the electronic charge.
+F=-evxB
+(14.9)
+In case of proton, F is obtained by putting q = + e.
+F=+evxB
+(14.10)
+69
+B
+Note that in case of proton or a positive charge the direction
+of the force is given by the direction of the vector V X B i.e.,
+rotate V to coincide with B through the smaller angle of
+rotation and curl the fingers of right hand in the direction of
+rotation. Thumb will point in the direction of the force. This is
+illustrated in Fig. 14.9 in which the proton enters into a
+magnetic field, as shown in figure, along the direction of
+dotted line. It experiences a force in the upward direction as
+Fia
+Magnetic force F is
+given by the vector VXI B. As a result of this force the proton is
+perpendicular to both the magnetic
+deflected upwards as shown in Fig. 14.9. The direction of the
+field B and the velocity V and causes
+the particle's trajectory to bend in a
+force on a moving negative charge will be opposite to that of
+vertical plane.
+positive charge. Due to this force, the electron is deflected in
+the downward direction as it enters into a magnetic field. It
+65
+---
+
+may be noted that the magnitude of the force on a moving
+charge carrier is qvBsine where 0 is the angle between the
+velocity of the carrier and the magnetic field. It is maximum
+when 0 = 90° i.e., when the charged particle is projected at
+right angles to the field. It is zero when 0 = 0° i.e., a charged
+particle projected in the direction of the field experiences no
+force.
+14.6 MOTION OF CHARGED PARTICLE IN
+ANELECTRIC AND MAGNETIC FIELD
++
+When an electric charge q is placed in an electric field E, It
+E
+experiences a force F parallel to electric field (Fig. 14.10). It is
++
+given by
+q
+F
+F=qE
+If the charge is free to move, then it will accelerate
++
+according to Newton's second law as
+a
+(14.11)
+Fig. 14.10
+m
+m
+If electric field is uniform, then acceleration is also uniform
+and hence, the position of the particle at any instant of time
+can be found by using equations of uniformly accelerated
+motion.
+When a charge particle q is moving with velocity V in a region
+where there is an electric field E and magnetic field B, the
+total force F is the vector sum of the electric force
+Do You Know?
+q E and magnetic force q (vxB) that is,
+F=F.+Fb
+E
+F=qE+q(vxB)
+(14.12)
+V
+This force F is known as the Lorentz force. It is to be pointed
+F
+out that only the electric force does work, while no work is
+done by the magnetic force which is simply a deflecting force.
+14.7 DETERMINATION OF elm OF AN
+ELECTRON
+Let a narrow beam of electrons moving with a constant speed
+V be projected at right angles to a known uniform magnetic
+The electric force F that acts on a
+positive charge is parallel to the
+field B directed into plane of paper. We have seen that
+electric field E and causes the
+electrons will experience a force
+particle's trajectory to bend in a
+orizontal plane.
+F=-evxB
+66
+---
+
+The direction of the force will be perpendicular to both V and
+B. As the electron is experiencing a force that acts at right
+B (into paper)
+angle to its velocity, so it will change the direction of the
+x
+x
+x
+x
+x
+velocity. The magnitude of velocity will remain unchanged.
+V
+x
+x
+The magnitude of the force is evBsin0. As 0 is 90°, so
+x
+x
+x
+x
+F
+F = evB. As both V and B do not change, the magnitude of Fis
+x
+x
+x
+x
+x
+x
+constant. Thus the electrons are subjected to a constant
+x
+x
+x
+x
+force evB at right angle to their direction of motion. Under the
+F
+action of this force, the electrons will move along a circle as
+x
+x
+r
+x
+x
+x
+shown in Fig. 14.11.
+x
+x
+x
+x
+x
+x
+V
+The magnetic force F = Bev provides the necessary
+x
+x
+F
+x
+x
+x
+centripetal force mv to the electron of mass m to move along
+-g
+x
+x
+V
+x
+x
+x
+a circular trajectory of radius . Thus we have
+Fig 14.11 An electron is moving
+mv
+perpendicular to a constant magnetic
+Bev =
+field. The magnetic force F causes
+r
+the particle to move on a circular path.
+e
+V
+or
+m
+Br
+(14.13)
+If V and r are known, e/m of the electron is determined. The
+radius r is measured by making the electronic trajectory
+visible. This is done by filling a glass tube with a gas such as
+hydrogen at low pressure. This tube is placed in a region
+occupied by a uniform magnetic field of known value. As
+electrons are shot into this tube, they begin to move along a
+circle under the action of magnetic force. As the electrons
+move, they collide with atoms of the gas. This excites the
+atoms due to which they emit light and their path becomes
+visible as a circular ring of light (Fig. 14.12). The diameter of
+the ring can be easily measured.
+In order to measure the velocity V of the electrons, we should
+know the potential difference through which the electrons are
+accelerated before entering into the magnetic field. If V is
+this potential difference, the energy gained by electrons
+Fig. 14.12
+during their acceleration is Ve. This appears as the kinetic
+energy of electrons
+1 mv = Ve
+2
+2
+Ve
+or
+V
+=
+m
+Substituting the value of vin Eq. 14.13, we have
+20
+2V
+(14.14)
+m
+B2r2
+67
+---
+
+Example 14.4: Find the radius of an orbit of an electron
+moving at a rate of 2.0x 107 ms" in a uniform magnetic field of
+1.20x10"T.
+Solution:
+Speed of the electron
+=v=2.0x10'ms
+Magnetic field strength
+=B=1.20x10°T
+Mass of the electron
+=m=9.11x10g
+Charge on electron
+=e =1.61x10th
+The radius of the orbit is
+9.11x10-31 kgx2.0107ms
+1.61x10-19 Cx1.20x10-3
+r=9.43x102m
+Example 14.5: Alpha particles ranging in speed from
+1000 ms to 2000 ms" enter into a velocity selector where the
+electric intensity is 300 Vm and the magnetic induction
+0.20T. Which particle will move undeviated through the field?
+Solution:
+eE
+E = 300Vm^=300NC
+B =0.20T
+Only those particles will be able to pass through the plate for
+which the electric force eE acting on the particles balances
+Bev
+the magnetic force Bev on the particle as shown in the figure.
+Therefore
+eE=Bev
+Thus, the selected speed
+300 NC-1 =1500ms-
+The alpha particles having a speed of 1500 ms" will move
+undeviated through the field.
+14.8 CATHODE RAY OSCILLOSCOPE
+Cathode ray oscilloscope (CRO) is a very versatile electronic
+instrument which is, in fact, a high speed graph plotting
+device. It works by deflecting beam of electrons as they pass
+through uniform electric field between the two sets of parallel
+plates as shown in the Fig. 14.13(a). The deflected beam then
+falls on a fluorescent screen where it makes a visible spot.
+68
+---
+
+F= Filament
+A,,A,,A, = Anodes
+C= Cathode
+X X = Horizontal deflection plates
+G= Grid
+Y Y= Vertical deflection plates
+S= Fluorescent screen
+G
+A,
+A2
+A,
+X
+Y
+C
+F
+S
+x
+Y
+It can display graphs of functions which rapidly vary with time.
+Fig. 14.13 (a)
+It is called cathode ray oscilloscope because it traces the
+desired waveform with a beam of electrons which are also
+called cathode rays.
+The beam of the electrons is provided by an electron gun
+which consists of an indirectly heated cathode, a grid and
+three anodes. The filament F heats the cathode C which
+V
+emits electrons. The anodes A1, A2, A3 which are at high
+positive potential with respect to cathode, accelerate as well
+as focus the electronic beam to fixed spot on the screen S.
+The grid G is at a negative potential with respect to cathode. It
+controls the number of electrons which are accelerated by
+anodes, and thus it controls the brightness of the spot formed
+on the screen.
+Now we would explain how the waveform of various voltages
+Saw tooth voltage waveform
+is formed in CRO.
+Fig. 14.13 (b)
+The two set of deflecting plates, shown in Fig. 14.13(a) are
+usually referred as X and y deflection plates because a
+voltage applied between the X plates deflects the beam
+horizontally on the screen i.e., parallel to x-axis. A voltage
+applied across the y plates deflects the beam vertically on the
+screen i.e., along the y-axis. The voltage that is applied
+across the X plates is usually provided by a circuit that is built
+in the CRO. It is known as sweep or time base generator. Its
+output waveform is a saw tooth voltage of period T
+(Fig. 14.13-b). The voltage increases linearly with time for a
+period T and then drops to zero. As this voltage is impressed
+across the X plates, the spot is deflected linearly with time
+along the x-axis for a time T. Then the spot returns to its
+Fig. 14.13 (b)
+hree dimensional view of CRO
+starting point on the screen very quickly because a saw tooth
+voltage rapidly falls to its initial value at the end of each
+69
+---
+
+period. We can actually see the spot moving on the x-axis. If
+the time period T is very short, we see just a bright line on the
+screen.
+If a sinusoidal voltage is applied across the y plates when,
+simultaneously, the time base voltage is impressed across
+the X plates, the sinusoidal voltage, which itself gives rise to a
+vertical line, will now spread out and will appear as a
+sinusoidal trace on the screen. The pattern will appear
+stationary only if the time T is equal to or is some multiple of
+the time of one cycle of the voltage on y plates. It is thus
+necessary to synchronize the frequency of the time base
+generator with the frequency of the voltage at the y plates.
+This is possible by adjusting the synchronization controls
+provided on the front panel of the CRO.
+(a)
+Uses of CRO
+The CRO is used for displaying the waveform of a given
+voltage. Once the waveform is displayed, we can measure
+the voltage, its frequency and phase. For example,
+Fig. 14.14(a) shows the waveform of an alternating voltage.
+As the y-axis is calibrated in volts and the x-axis in time, we
+can easily find the instantaneous value and peak value of the
+voltage. The time period can also be determined by using the
+time calibration of x-axis. Information about the phase
+difference between two voltages can be obtained by
+simultaneously displaying their waveforms. For example, the
+II
+waveforms of two voltages are shown in Fig. 14.14(b). These
+(b)
+waveforms show that when the voltage of I is increasing, that
+of II is decreasing and vice versa. Thus the phase difference
+Fig. 14.14
+between these voltages is 180°.
+14.9 TORQUE ONA CURRENT CARRYING
+COIL
+Consider a rectangular coil carrying a current 1. The coil is
+capable of rotation about an axis. Suppose it is placed in uniform
+magnetic field B with its plane along the field (Fig. 14.15). We
+know that a current carrying conductor of length L when placed
+in a magnetic field experiences a force F = 1 B sinO where 0 is
+the angle between conductor and the field. In case of sides AB
+and CD of the coil, the angle 0 is zero or 180°, so the force on
+these sides will be zero. In case of sides DA and BC, the angle 0
+is 90° and the force on these sides will be
+70
+---
+
+F,=F2=1LB
+X
+where L is the length of these sides, F, is the force on the side
+DA and F2 on BC. The direction of the force is given by the
+vector /LxB. It can be seen that F, is directed out of the plane
+of paper and F2 2 into the plane of paper (Fig. 14.15 a).
+Therefore, the forces F, and F2 being equal and opposite
+form a couple which tends to rotate it about the axis. The
+C
+D
+torque of this couple is given by
+=Force X Moment arm
+=ILBxa
+N
+F2
+F,
+S
+I
+where a is the moment arm of the couple and is equal to the
+B
+length of the side AB or CD. La is the area A of the coil,
+B
+A
+t=IBA
+(14.15)
+X
+Fig 14.15 (a)
+Note that the Eq. 14.15 gives the value of torque when the
+field B is in the plane of the coil. However if the field makes an
+angle a with the plane of the coil, as shown in Fig 14.15(b),
+D
+the moment arm now becomes a cosa. So
+F2
+axis
+a
+F,
+t=IL Bx acosa
+CX
+C
+a x cosa
+or
+t=IBA cosa
+(14.16)
+(Top view of coil)
+Fig 14.15 (b)
+14.10 GALVANOMETER
+A galvanometer is an electrical instrument used to
+detect the passage of current. Its working depends upon
+the fact that when a conductor is placed in a magnetic
+field, it experience a force as soon as a current passes
+through it. Due to this force, a torque T acts upon the
+conductor if it is in the form of a coil or loop.
+=NIBA cosa
+where N is the number of turns in the coil, A is its area, I is
+current passing through it, B is the magnetic field in which the
+coil is placed such that its plane makes an angle a with the
+direction of B. Due to action of the torque, the coil rotates and
+71
+---
+
+o
+thus it detects the current. The construction of a moving coil
+galvanometer is shown in Fig. 14.16 (a).
+A rectangular coil C is suspended between the concave
+F
+shaped poles N and S of a U-shaped magnet with the help of
+a fine metallic suspension wire. The rectangular coil is made
+M
+of enameled copper wire. It is wound on a frame of non-
+magnetic material. The suspension wire F is also used as
+one current lead to the coil. The other terminal of the coil is
+C
+connected to a loosely wound spiral E which serves as the
+second current lead. A soft iron cylinder D is placed inside the
+N
+D
+S
+coil to make the field radial and stronger near the coil as
+shown in Fig. 14.1 16 (b).
+When a current is passed through the coil, it is acted upon by
+a couple which tends to rotate the coil. This couple is known
+as deflecting couple and is given by NIBA cosa. As the coil is
+placed in a radial magnetic field in which the plane of the coil
+is always parallel to the field (Fig. 14.16 b), so a is always
+zero. This makes cosa = 1 and thus,
+Deflecting couple = NIBA
+As the coil turns under the action of deflecting couple,
+the suspension wire Fig. (14.16a a) is twisted which gives
+rise to a torsional couple. It tends to untwist the
+suspension and restore the coil to its original position.
+(a)
+This couple is known as restoring couple. The restoring
+couple of the suspension wire is proportional to the
+angle of deflection 0 as long as the suspension wire
+obeys Hooke's law. Thus
+Restoring torque=c0
+where the constant C of the suspension wire is known as
+N
+S
+torsional couple and is defined as couple for unit twist.
+(b)
+Under the effect of these two couples, coil comes to rest
+when
+Deflecting torque = Restoring torque
+Fig 14.10 (a) Moving coil
+NIBA=cA
+galvanometer (b) Concave pole
+piece and soft iron cylinder makes the
+field radial and stronger,
+or
+(14.17)
+BAN
+C
+Thus
+1x0
+since
+= Constant
+BAN
+Thus the current passing through the coil is directly
+proportional to the angle of deflection.
+72
+---
+
+There are two methods commonly used for observing the
+angle of deflection of the coil. In sensitive galvanometers the
+angle of deflection is observed by means of small mirror
+attached to the coil along with a lamp and scale arrangement
+Fig.14.17). A beam of light from the lamp is directed towards
+the mirror of the galvanometer. After reflection from the mirror
+OM
+it produces a spot on a translucent scale placed at a distance
+of one metre from the galvanometer. When the coil rotates,
+the mirror attached to coil also rotates and spot of light moves
+08
+along the scale. The displacement of the spot of light on the
+scale is proportional to the angle of deflection (provided the
+Fig. 14.17
+angle of deflection is small).
+The galvanometer used in school and college laboratories is
+a pivoted type galvanometer. In this type of galvanometer,
+the coil is pivoted between two jewelled bearings. The
+restoring torque is provided by two hair springs which also
+serve as current leads. A light aluminium pointer is attached
+Upper spring
+to the coil which moves over a scale (Fig. 14.18). It gives the
+angle of deflection of the coil.
+It is obvious from Eq.14.17 that a galvanometer can be made
+Pointer
+more sensitive (to give large deflection for a given current) if
+Iron
+coil
+c/BAN is made small. Thus, to increase sensitivity of a
+core
+galvanometer, C may be decreased or B, A and N may be
+increased. The couple C for unit twist of the suspension wire
+can be decreased by increasing its length and by decreasing
+Permanent
+magnet
+its diameter. This process, however, cannot be taken too far,
+as the suspension must be strong enough to support the coil.
+Lower spring
+Another method to increase the sensitivity of galvanometer is
+to increase N, the number of turns of the coil. In case of
+Fig 14.18
+suspended coil type galvanometer, the number of turns can
+not be increased beyond a limit because it will make the coil
+heavy. To compensate for the loss of sensitivity, in case
+fewer turns are used in the coil, we increase the value of the
+magnetic field employed. We define current sensitivity of a
+galvanometer as the current, in microamperes, required to
+produce one millimetre deflection on a scale placed one
+metre away from the mirror of the galvanometer.
+When the current passing through the galvanometer
+is
+discontinued, the coil will not come to rest as soon as the
+current flowing through the coil is stopped. It keeps on
+oscillating about its mean position before coming to rest. In
+the same way if the current is established suddenly in a
+galvanometer, the coil will shoot beyond its final equilibrium
+position and will oscillate several times before coming to rest
+73
+---
+
+at its equilibrium position. As it is annoying and time
+consuming to wait for the coil to come to rest, artificial ways
+are employed to make the coil come to rest quickly. Such
+galvanometer in which the coil comes to rest quickly after the
+current passed through it or the current is stopped from
+flowing through it, is called stable or a dead beat
+galvanometer.
+Ammeter
+An ammeter is an electrical instrument which is used to
+measure current in amperes. This is basically a
+R,
+galvanometer. The portion of the galvanometer whose
+motion causes the needle of the device to move across the
+scale is usually known as meter - movement. Most meter
+1.
+is
+movements are very sensitive and full scale deflection is
+S
+obtained with a current of few milliamperes only. So an
+ordinary galvanometer cannot be used for measuring large
+15-1-1
+currents without proper modification.
+/
+Suppose we have a galvanometer whose meter - movement
+(coil) has a resistance R9 and which gives full scale deflection
+when current Io is passed through it. From Ohm's law we
+Fig. 14.19 An ammeter is a
+galvanometer which is shunted by a
+know that the potential difference V which causes a current Ig
+proper low resistance.
+to pass through the galvanometer is given by
+Vg=14R
+If we want to convert this galvanometer into an ammeter
+which can measure a maximum current I, it is necessary to
+connect a low value bypass resistor called shunt. The shunt
+resistance is of such a value so that the current Ig for full scale
+deflection of the galvanometer passes through the
+galvanometer and the remaining current (I - Id passes
+through the shunt in this situation (Fig. 14.19)
+The shunt resistance R, can be calculated from the fact that
+as the meter - movement and the shunt are connected in
+parallel with each other, the potential difference across the
+meter - movement is equal to the potential difference across
+the shunt.
+10 Rg ,=(I-I)R,
+or
+(14.18)
+The resistance of the shunt is usually so small that a piece of
+74
+---
+
+copper wire serves the purpose. The resistance of the
+ammeter is the combined resistance of the galvanometer's
+meter - movement and the shunt. Usually it is very small. An
+ammeter must have a very low resistance so that it does not
+disturb the circuit in which it is connected in series in order to
+measure the current.
+Voltmeter
+A voltmeter is an electrical device which measures the
+potential difference in volts between two points. This, too, is
+made by modifying a galvanometer. Since a voltmeter is
+R,
+R2
+always connected in parallel, it must have a very high
+resistance so that it will not short the circuit across which the
+voltage is to be measured. This is achieved by connecting a
+very high resistance Rn placed in series with the meter -
+V
+movement (Fig.14.20). Suppose we have a meter -
+movement whose resistance is Rg and which deflects full
+Flg. 14.20 A galvanometer in series
+scale with a current I In order to make a voltmeter from it
+with a high resistance acts as a
+voltmeter.
+which has a range of V volts, the value of the high resistance
+R should be such that full scale deflection will be obtained
+when it is connected across V volt. Under this condition the
+current through the meter - movement is Ig. Applying Ohm's
+law (Fig. 14.20) we have
+V=1,(R+R)
+Rh = I V
+(14.19)
+g
+If the scale of the galvanometer is calibrated from 0 to
+V volts, the combination of galvanometer and the series
+resistor acts as a voltmeter with range 0 - V volts. By properly
+arranging the resistance R1 any voltage can be measured.
+Thus, we see that a voltmeter possesses high resistance.
+It may be noted that a voltmeter is always connected across
+the two points between which potential difference is to be
+measured. Before connecting a voltmeter, it should be
+assured that its resistance is very high in comparison with the
+resistance of the circuit across which it is connected
+otherwise it will load the circuit and will alter the potential
+difference which is required to be measured.
+Example 14.6: What shunt resistance must be connected
+across a galvanometer of 50.0 a resistance which gives full
+scale deflection with 2.0 mA current, so as to convert it into an
+ammeter of range 10.0A?
+75
+---
+
+Solution:
+Resistance of galvanometer = R = 50.0 $
+Current for full scale deflection = 10 = 2.0 mA
+Current to be measured
+= I = 10.0A
+The shunt resistance R, is given by
+I
+R2 = I g I Rg = 10.0 2.0x10~3 A 2.0x10-3 A A x
+50.0
+A
+=
+0.01
+a
+g
+Ohmmeter
+It is a useful device for rapid measurement of resistance. It
+consists of a galvanometer, and adjustable resistance r and
+a cell connected in series (Fig.14.21-a). The series
+resistance r is so adjusted that when terminals C and d are
+short circuited, i.e., when R=0, the galvanometer gives full
+scale deflection. So the extreme graduation of the usual
+scale of the galvanometer is marked 0 for resistance
+measurement. When terminals C and d are not joined, no
+current passes through the galvanometer and its deflection is
+zero. Thus zero of the scale is marked as infinity
+(Fig. 14.21-b). Now a known resistance R is connected
+F.
+across the terminals C and d. The galvanometer deflects to
+some intermediate point. This point is calibrated as R. In this
+c
+d
+way the whole scale is calibrated into resistance. The
+resistance to be measured is connected across the terminals
+R
+C and d. The deflection on the calibrated scale reads the
+value of the resistance directly.
+(a)
+00
+14.11 AVO METER - MULTIMETER
+as
+5
+0
+Scale
+10mA
+It is an instrument which can measure current ir
+(b)
+amperes, potential difference in volts and resistance ir
+Fig. 14.21 A moving coil
+galvanometer is converted into an
+ohms. It basically consists of a sensitive moving coi
+ohmmeter.
+galvanometer which is converted into a multirange ammeter
+voltmeter or ohmmeter accordingly as a current measuring
+76
+---
+
+circuit or a voltage measuring circuit or a resistance measuring
+circuit is connected with the galvanometer with the help of a
+x,
+Voltage measuring
+switch known as function switch (Fig.14.22). Here X, Y are the
+circuit
+main terminals of the AVO meter which are connected with the
+FS
+circuit in which measurement is required. FS is the function
+X2
+X
+Current measuring
+selector switch which connects the galvanometer with relevant
+circuit
+measuring circuit.
+Resistance measuring
+X3
+circuit
+Voltage Measuring Part of AVO Meter
+The voltage measuring part of the AVO meter is actually a
+Y
+multirange voltmeter. It consists of a number of resistances
+each of which can be connected in series with the moving coil
+Fig. 14.22
+x,
+galvanometer with the help of a switch called the range
+switch (Fig. 14.23). The value of each resistance depends
+X
+FS
+upon the range of the voltmeter which it controls.
+R,
+R,
+R,
+R,
+Alternating voltages are also measured by AVO meter.
+Y
+AC voltage is first converted into DC voltage by using diode
+5V
+15V
+50V
+as rectifier and then measured as usual.
+150V
+Range
+Current Measuring Part of AVO Meter
+switch
+The current measuring part of the AVO meter is actually a
+multirange ammeter. It consists of a number of low
+resistances connected in parallel with the galvanometer. The
+Fig. 14.23
+values of these resistances depend upon the range of the
+ammeter (Fig. 14.24).
+5 mA
+a
+The circuit also has a range selection switch RS which is
+R,
+used to select a particular range of the current.
+b
+FS
+50 mA
+Resistance Measuring Part of AVO Meter
+R2
+C
+The resistance measuring part of AVO meter is, in fact, a
+500 mA
+Y
+R1
+multirange ohmmeter. Circuit for each range of this meter
+consists of a battery of emf V. and a variable resistance rs
+Fig. 14 24
+connected in series with galvanometer of resistance Rg.
+When the function switch is switched to position X3
+X,
+Fig. 14.22), this circuit is connected with the terminals X, Y of
+he AVO meter (Fig.14.25a).
+X
+V.
+Before measuring an unknown resistance by an ohmmeter it
+r.
+S first zeroed which means that we short circuit the terminals
+R
+(, Y and adjust r to produce full scale deflection.
+Y
+Digital Multimeter (DMM)
+Another useful device to measure resistance, current and
+Fig. 14.25
+voltage is an electronic instrument called digital multimeter.
+77
+---
+
+It is a digital version of an AVO meter. It has become a very
+4087
+popular testing device because the digital values are
+displayed automatically with decimal point, polarity and the
+unit for V, A or Q. These meters are generally easier to use
+because they eliminate the human error that often occurs in
+reading the dial of an ordinary AVO meter. A portable DMM is
+shown in Fig. 14.26.
+g.14.26
+SUMMARY
+A magnetic field is set up in the region surrounding a current carrying conductor.
+The right hand rule states, "If the wire is grasped in the fist of right hand with the
+thumb pointing in the direction of current, the fingers of the hand will circle the wire in
+the direction of the magnetic field".
+The strength of the magnetic field or magnetic induction is the force acting on one
+metre length of the conductor placed at right angle to the magnetic field when 1 A
+current is passing through it.
+A magnetic field is said to have a strength of one tesla if it exerts a force of one
+newton on one metre length of the conductor placed at right angle to the field when a
+current of one ampere passes through the conductor.
+The magnetic flux QB through plane element of area A in a uniform magnetic field B
+is given by dot product of B and A.
+Ampere circuital law states the sum of the quantities B. AL for all path elements into
+which the complete loop has been divided equals P times the total current enclosed
+by the loop.
+The force experienced by a single charge carrier moving with velocity V in magnetic
+field of strength B is F=q(vxB).
+Cathode ray oscilloscope (CRO) is a high speed graph plotting device. It works by
+deflecting beam of electrons as they pass through uniform electric field between the
+two sets of parallel plates.
+A torque may act on a current carrying coil placed in a magnetic field.
+t=1AB cosa
+A galvanometer is an electric device which detects the flow of current. It usually
+consists of a coil placed in a magnetic field. As the current passes through the coil,
+the coil rotates, thus indicating the flow of current.
+Agalvanometer is converted into an ammeter by properly shunting it.
+A galvanometer is converted into a voltmeter by connecting a high resistance in
+series.
+78
+---
+
+QUESTIONS
+14.1
+A plane conducting loop is located in a uniform magnetic field that is directed along
+the x-axis. For what orientation of the loop is the flux a maximum? For what
+orientation is the flux a minimum?
+14.2
+A current in a conductor produces a magnetic field, which can be calculated using
+Ampere's law. Since current is defined as the rate of flow of charge, what can you conclude
+about the magnetic field due to stationary charges? What about moving charges?
+14.3
+Describe the change in the magnetic field inside a solenoid carrying a steady current
+I, if (a) the length of the solenoid is doubled but the number of turns remains the
+same and (b) the number of turns is doubled, but the length remains the same.
+14.4
+At a given instant, a proton moves in the positive X direction in a region where there is
+magnetic field in the negative Z direction. What is the direction of the magnetic
+force? Will the proton continue to move in the positive X direction? Explain.
+14.5
+Two charged particles are projected into a region where there is a magnetic field
+perpendicular to their velocities. If the charges are deflected in opposite directions,
+what can you say about them?
+14.6
+Suppose that a charge q is moving in a uniform magnetic field with a velocity V. Why
+is there no work done by the magnetic force that acts on the charge q?
+14.7
+If a charged particle moves in a straight line through some region of space, can you
+say that the magnetic field in the region is zero?
+14.8
+Why does the picture on a TV screen become distorted when a magnet is brought
+near the screen?
+14.9
+Is it possible to orient a current loop in a uniform magnetic field such that the loop will
+not tend to rotate? Explain.
+14.10 How can a current loop be used to determine the presence of a magnetic field in a
+given region of space?
+14.11 How can you use a magnetic field to separate isotopes of chemical element?
+14.12 What should be the orientation of a current carrying coil in a magnetic field so that
+torque acting upon the coil is (a) maximum (b) minimum?
+14.13 A loop of wire is suspended between the poles of a magnet with its plane parallel to
+the pole faces. What happens if a direct current is put through the coil? What
+happens if an alternating current is used instead?
+14.14 Why the resistance of an ammeter should be very low?
+14.15 Why the voltmeter should have a very high resistance?
+79
+---
+
+PROBLEMS
+14.1
+Find the value of the magnetic field that will cause a maximum force of
+7.0 x 10 N on a 20.0 cm straight wire carrying a current of 10.0A.
+(Ans: 3.5 X 10 T)
+14.2 How fast must a proton move in a magnetic field of 2.50 x 10 T such that the
+magnetic force is equal to its weight?
+(Ans:4.09x10*ms")
+14.3
+A velocity selector has a magnetic field of 0.30 T. If a perpendicular electric field
+of 10,000 Vm* is applied, what will be the speed of the particle that will pass
+through the selector?
+(Ans: 3.3x104ms")
+14.4
+A coil of 0.1 m x ( 0.1 m and of 200 turns carrying a current of 1.0 mA is placed in
+a uniform magnetic field of 0.1 T. Calculate the maximum torque that acts on the
+coil.
+(Ans: 2.0x104 Nm)
+14.5
+A power line 10.0 m high carries a current 200 A. Find the magnetic field of
+the wire at the ground.
+(Ans: 4.0x106T)
+14.6
+You are asked to design a solenoid that will give a magnetic field of 0.10 T, yet
+the current must not exceed 10.0 A. Find the number of turns per unit length
+that the solenoid should have.
+(Ans: 7.96x103
+14.7 What current should pass through a solenoid that is 0.5 m long with 10,000
+turns of copper wire so that it will have a magnetic field of 0.4T?
+(Ans: 16.0A)
+14.8 A galvanometer having an internal resistance R9 = 15.0 a gives full scale
+deflection with current Io = 20.0 mA. It is to be converted into an ammeter of
+range 10.0A. Find the value of shunt resistance R2
+(Ans: 0.030 02
+14.9
+The resistance of a galvanometer is 50.0 a and reads full scale deflection with a
+current of 2.0 mA. Show by a diagram how to convert this galvanometer
+into voltmeter reading 200 V full scale.
+(Ans: R = 99950 $ a)
+14.10
+The resistance of a galvanometer coil is 10.0 a and reads full scale with a current
+of 1.0 mA. What should be the values of resistances R,, R2 and R3 to convert this
+galvanometer into a multirange ammeter of 100, 10.0 and 1.0 A as shown in the
+Fig.P.14.10?
+(Ans: R, .0001 Q, R2 = 0.001 Q, R3 = 0.01 (2)
+R,
+R2
+R,
+0
+100A
+10A
+1A
+Fig. P.14.10
+80
+---

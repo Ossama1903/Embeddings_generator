@@ -1,0 +1,1432 @@
+
+Chapter 19
+DAWN OF MODERN PHYSICS
+Learning Objectives
+At the end of this chapter the students will be able to:
+1.
+Distinguish between inertial and non-inertial frames of references.
+2.
+Describe the postulates of special theory of relativity and its results.
+3.
+Understand the NAVASTAR navigation system.
+4.
+Understand the concept of black body radiation.
+5.
+Understand and describe how energy is distributed over the wavelength range for
+several values of source temperature.
+6.
+Know Planck's assumptions.
+7.
+Know the origin of quantum theory.
+8.
+Show an appreciation of the particle nature of electromagnetic radiation.
+9.
+Describe the phenomenon of photoelectric effect.
+10.
+Explain photoelectric effect in terms of photon energy and work function.
+11.
+Explain the function of photocell and describe its uses.
+12.
+Describe Compton's effect.
+13.
+Explain the phenomena of pair production and pair annihilation.
+14.
+Describe de-Broglie's hypothesis of wave nature of particles.
+15.
+Describe and interpret qualitatively the evidence provided by electron diffraction for
+the wave nature of particles.
+16.
+Understand the working principle of electron microscope.
+17.
+Understand and describe uncertainty principle.
+the early part of the twentieth century, many experimental and theoretical problems
+remained unresolved. Attempts to explain the behaviour of matter on the atomic level with
+the laws of classical physics were not successful. Phenomena such as black body radiation,
+the photoelectric effect, the emission of sharp spectral lines by atoms in a gas discharge
+tube, and invariance of speed of light, could not be understood within the framework of
+classical physics. To explain these observations a revolutionary framework of explanation
+was necessary which we call modern physics. Its two most significant features are relativity
+and quantum theory. The observations on objects moving very fast, approaching the speed
+of light, are well explained by the special theory of relativity. Quantum theory has been able
+to explain the behaviour of electromagnetic radiation as discrete packets of energy and the
+particles on a very small scale are dominated by wave properties.
+Classical physics is still valid in ordinary processes of everyday life. But to explain the
+behaviour of tiny or very fast moving particles, we have to use the above mentioned
+theories. In this chapter, we shall discuss various aspects of theory of relativity and quantum
+175
+---
+
+theory. Before introducing special theory of relativity, some
+related terms are discussed briefly.
+19.1 RELATIVE MOTION
+When we say a ball is thrown up, the 'up' direction is only for
+that particular place. It will be 'down' position for a person on
+the diametrically opposite side of the globe. The concept of
+direction is purely relative. Similarly, the rest position or the
+motion of an object is not same for different observers. For
+example, the walls of the cabin of a moving train are
+stationary with respect to the passengers sitting inside it but
+are in motion to a person stationary on the ground. So we
+cannot say whether an object is absolutely at rest or
+absolutely in motion. All motions are relative to a person or
+instrument observing it.
+Let us perform an experiment in two cars moving with
+constant velocities in any direction. Suppose a ball is thrown
+straight up. It will come back straight down. This will happen in
+both cars. But if a person in one car observes the experiment
+done in the other car, will he observe the same? Suppose now
+one car is stationary. The person in the other car, which is
+moving with constant velocity, throws a ball straight up. He will
+receive the ball straight down. On the other hand, the fellow
+sitting in the stationary car observes that the path of the ball is
+a parabola. Thus, when experimenters observe what is going
+on in their own frame of reference, the same experiment gives
+identical observations. But if they look into other frames, they
+observe differently.
+19.2 FRAMES OF REFERENCE
+We have discussed the most commonly used Cartesian
+coordinate system. In effect, a frame of reference is any
+coordinate system relative to which measurements are taken.
+The position of a table in a room can be located relative to the
+walls of the room. The room is then the frame of reference.
+For measurements taken in the college laboratory, the
+laboratory is the reference frame. If the same experiment is
+performed in a moving train, the train becomes a frame of
+reference. The position of a spaceship can be described
+relative to the positions of the distant stars. A coordinate
+system based on these stars is then the frame of reference.
+An inertial frame of reference is defined as a coordinate
+system in which the law of inertia is valid. That is, a body at
+176
+---
+
+rest remains at rest unless an unbalanced force produces
+acceleration in it. Other laws of nature also apply in such a
+system. If we place a body upon Earth it remains at rest
+unless an unbalanced force is applied upon it. This
+observation shows that Earth may be considered as an
+inertial frame of reference. A body placed in a car moving with
+a uniform velocity with respect to Earth also remains at rest,
+so that car is also an inertial frame of reference. Thus any
+frame of reference which is moving with uniform velocity
+relative to an inertial frame is also an inertial frame.
+When the moving car is suddenly stopped, the body placed in
+it, no longer remains at rest. So is the case when the car is
+suddenly accelerated. In such a situation, the car is not an
+inertial frame of reference. Thus an accelerated frame is a
+non-inertial frame of reference. Earth is rotating and
+revolving and hence strictly speaking, the Earth is not an
+inertial frame. But it can often be treated as an inertial frame
+without serious error because of very small acceleration.
+19.3 SPECIAL THEORY OF RELATIVITY
+The theory of relativity is concerned with the way in which
+observers who are in a state of relative motion describe
+physical phenomena. The special theory of relativity treats
+problems involving inertial or non-accelerating frames of
+reference. There is another theory called general theory of
+Do You Know?
+relativity which treats problems involving frames of reference
+accelerating with respect to one another. The special theory
+of relativity is based upon two postulates, which can be
+stated as follows:
+1. The laws of physics are the same in all inertial frames.
+2. The speed of light in free space has the same value for all
+observers, regardless of their state of motion.
+The speed of light emitted by
+flashlight is c measured by two
+The first postulate is the generalization of the fact that all
+observers, one on the moving track
+and the other on the road.
+physical laws are the same in frames of reference moving with
+uniform velocity with respect to one another. If the laws of
+physics were different for different observers in relative motion,
+the observer could determine from this difference that which of
+them were stationary in a space and which were moving. But
+such a distinction does not exist, so this postulate implies that
+there is no way to detect absolute uniform motion. The second
+postulate states an experimental fact that speed of light in free
+space is the universal constant 'c' (c = 3 X 108 ms"). These
+simple postulates have far-reaching consequences. These
+177
+---
+
+include such phenomena as the slowing down of clocks and
+contraction of lengths in moving reference frames as
+measured by a stationary observer. Some interesting results
+of the special theory of relativity can be summarized as
+follows without going into their mathematical derivations.
+Time Dilation
+According to special theory of relativity, time is not absolute
+quantity. It depends upon the motion of the frame of
+reference.
+Suppose an observer is stationary in an inertial frame. He
+measures the time interval between two events in this frame.
+Let it be to. This is known as proper time. If the observer is
+moving with respect to frame of events with velocity V or if the
+frame of events is moving with respect to observer with a
+uniform velocity V, the time measured by the observer would
+not be to. but it would be t given by
+t =
+to
+v2
+(19.1)
+c2
+As the
+quantity 1 2 2 is always less than one, so t is greater
+than to i.e., time has dilated or stretched due to relative motion
+of the observer and the frame of reference of events. This
+astonishing result applies to all timing processes - physical,
+chemical and biological. Even aging process of the human
+body is slowed by motion at very high speeds.
+Length Contraction
+The distance from Earth to a star measured by an observer in
+a moving spaceship would seem smaller than the distance
+measured by an observer on Earth. That is, if you are in
+motion relative to two points that are a fixed distance apart,
+the distance between the two points appears shorter than if
+you were at rest relative to them. This effect is known as
+length contraction. The length contraction happens only
+along the direction of motion. No such contraction would be
+observed perpendicular to the direction of motion. The length
+of an object or distance between two points measured by an
+observer who is relatively at rest is called proper length " If
+an object and an observer are in relative motion with speed V,
+then the contracted length 'e' is given by
+178
+---
+
+(19.2)
+Mass Variation
+According to special theory of relativity, mass of an object is a
+varying quantity and depends upon the speed of the object.
+An object whose mass when measured at rest is m. will have
+an increased mass m when observed to be moving at speed
+V. They are related by
+mo
+m =
+(19.3)
+c2
+The increase in mass indicates the increase in inertia the
+object has at high speeds. As V approaches C, it requires a
+larger and larger force to change the speed of the object.
+As
+therefore 1-23
+0
+Thus
+m x
+An infinite mass would require an infinite force to accelerate
+it. Because infinite forces are not available, hence, an object
+cannot be accelerated to the speed of light'c in free space.
+In our everyday life, we deal with extremely small speeds,
+compared to the speed of light. Even the Earth's orbital speed
+is only 30 kms On the other hand, the speed of light in free
+space is 300,000 kms1. This is the reason why Newton's laws
+are valid in everyday situations. However, when
+experimenting with atomic particles moving with velocities
+approaching speed of light, the relativistic effects are very
+prominent, and experimental results cannot be explained
+without taking Einstein's equations into account.
+Energy 1 Mass Relation
+According to special theory of relativity, mass and energy are
+different entities but are interconvertible. The total energy E
+and mass m of an object are related by the expression
+=mc2
+(19.4)
+where m depends on the speed of the object. At rest, the
+energy equivalent of an object's mass m. is called rest mass
+energy Eo.
+179
+---
+
+E.=m.c2
+(19.5)
+As mc2 is greater than m.c2, the difference of energy
+(mc2-m.c2) is due to motion, as such it represents the kinetic
+energy of the mass. Hence
+K.E. = (m-m.)c2
+(19.6)
+From equation 19.4 above, the change in mass m due to
+change in energy AE is given by
+Am-AE
+Because c2 is a very large quantity, this implies that small
+changes in mass require very large changes in energy. In our
+everyday world, energy changes are too small to provide
+measurable mass changes. However, energy and mass
+changes in nuclear reactions are found to be exactly in
+accordance with the above mentioned equations.
+NAVSTAR Navigation System
+The results of special theory of relativity are put to practical
+use even in everyday life by a modern system of navigation
+satellites called NAVSTAR. The location and speed
+anywhere on Earth can now be determined to an accuracy of
+about 2 cms1. However, if relativity effects are not taken into
+account, speed could not be determined any closer than
+about 20 cms1. Using these results the location of an aircraft
+after an hour's flight can be predicted to about 50 m as
+compared to about 760 m determined by without using
+relativistic effects.
+Example 19.1: The period of a pendulum is measured to be
+3.0 S in the inertial reference frame of the pendulum. What is
+its period measured by an observer moving at a speed of
+0.95 C with respect to the pendulum?
+Solution:
+t=3.0 S, = 0.95 t=?
+Using
+t
+=
+C2
+3.0
+3.0
+t =
+9.6s
+(0.95c)
+1-(0.95)2
+c2
+180
+---
+
+Example 19.2: A bar 1.0 m in length and located along
+x-axis moves with a speed of 0.75 C with respect to a
+stationary observer. What is the length of the bar as
+measured by the stationary observer?
+Solution:
+l==1.0m,
+Using
+l =
+Example 19.3: Find the mass m of a moving object with
+speed 0.8 C.
+Solution:
+Using
+may
+or
+m =
+or
+m=1.67mg
+19.4 BLACKBODYRADIATION
+small
+When a body is heated, it emits radiation. The nature of
+hole
+radiation depends upon the temperature. At low temperature, a
+body emits radiation which is principally of long wavelengths in
+the invisible infrared region. At high temperature, the proportion
+of shorter wavelength radiation increases. Furthermore, the
+amount of emitted radiation is different for different
+wavelengths. It is of interest to see how the energy is distributed
+among different wavelengths at various temperatures. For
+example, when platinum wire is heated, it appears dull red at
+about 500 °C, changes to cherry red at 900°C, becomes orange
+internal
+incident
+red at 1100°C, yellow at 1300°C and finally white at about
+cavity
+radiation
+1600°C. This shows that as the temperature is increased, the
+radiation becomes richer in shorter wavelengths.
+(a) Absorption of radiation
+In order to understand the distribution of radiation emitted from
+Fig. 19.1
+a hot body, we consider a non-reflecting object such as a solid
+181
+---
+
+that has a hollow cavity within it. It has a small hole and the
+radiation can enter or escape only through this hole. The
+small
+hole
+inside is blackened with soot to make it as good an absorber
+and as bad a reflector as possible. The small hole appears
+black because the radiation that enters is reflected from the
+inside walls many times and is partly absorbed at each
+reflection until none remains. Such a body is termed as black
+body and has the property to absorb all the radiation entering
+it. A black body is both an ideal absorber (Fig. 19.1 a) and an
+ideal radiator (Fig. 19.1 b).
+Intensity Distribution Diagram
+internal
+emerging
+cavity
+radiation
+Lummer and Pringsheim measured the intensity of emitted
+energy with wavelength radiated from a black body at
+(b)
+Emission of radiation
+different temperatures by the apparatus shown in Fig. 19.2.
+Fig. 19.1
+The amount of radiation emitted with different wavelengths is
+shown in the form of energy distribution curves for each
+temperature in the Fig. 19.3.
+black body cavity
+For Your Information
+region of
+furnace
+visible
+spectrum
+rock salt
+T=1650 K
+thermopile
+prism (transmits
+(radiation detector)
+and disperses all
+wavelengths)
+infrared
+1450 K
+spectrometer
+Fig. 19.2
+These curves reveal the following interesting facts.
+1260 K
+1000 K
+1. At a given temperature, the energy is not uniformly
+distributed in the radiation spectrum of the body.
+2.
+At a given temperature T, the emitted energy has
+0
+1
+2
+3
+4
+5
+6
+maximum value for a certain wavelength Amax and the
+Wavelength
+Fig 19.3
+product x Tremains constant
+Results of Lummer and
+Pringsheim's experiments: graphs of
+x T = Constant
+intensity of radiated energy against
+(19.7)
+wavelength from a blackbody
+The value of the constant known as Wien's constant is
+about 2.9 X 10 m K. This equation means that as T
+182
+---
+
+increases, Amax shifts to shorter wavelength.
+3.
+For all wavelengths, an increase in temperature causes
+an increase in energy emission. The radiation intensity
+increases with increase in wavelengths and at a
+particular wavelength Amex , it has a maximum value. With
+further increase in wavelength, the intensity decreases.
+4
+The area under each curve represents the total energy
+(E) radiated per second per square metre over all
+wavelengths at a particular temperature. It is found that
+area is directly proportional to the fourth power of kelvin
+temperature T. Thus
+E x T4
+or
+E=OT'
+(19.8)
+where o is called Stefen's constant. Its value is 5.67 X 10
+Wm2 and the above relation is known as Stefen-
+Boltzmann law.
+Planck's Assumption
+Electromagnetic wave theory of radiation cannot explain the
+energy distribution along the intensity-wavelengths curves.
+The successful attempts to explain the shape of energy
+distribution curves gave rise to a new and
+non-classical view of electromagnetic radiation. In 1900, Max
+Planck founded a mathematical model resulting in an
+equation that describes the shape of observed curves
+exactly. He suggested that energy is radiated or absorbed in
+discrete packets, called quanta rather than as a continuous
+wave. Each quantum is associated with radiation of a single
+frequency. The energy E of each quantum is proportional to
+its frequency f, and
+E=hf
+(19.9)
+where h is Planck's constant. Its value is 6.63x10-34 Js. This
+fundamental constant is as important in physics as the
+constant C, the speed of light in vacuum.
+Max Planck received the Nobel Prize in physics in 1918 for
+his discovery of energy quanta.
+The Photon
+Planck suggested that as matter is not continuous but
+consists of a large number of tiny particles, so is the radiation
+energy from a source. He assumed that granular nature of
+183
+---
+
+radiation from hot bodies was due to some property of the
+atoms producing it. Einstein extended his idea and
+postulated that packets or tiny bundles of energy are integral
+part of all electromagnetic radiation and that they could not
+be subdivided. These indivisible tiny bundles of energy he
+called photons. The beam of light with wavelength a consists
+of stream of photons travelling at speed C and carries energy
+hf. From the theory of relativity momentum p of the photon is
+related to energy as
+E =pc
+(19.10)
+Thus
+pc = hf
+or p = hf C h
+(19.11)
+The table 19.1 relates the quanta emitted in different regions
+of the electromagnetic spectrum with energy. At the high end,
+Y- radiation with energy - 1 MeV is easily detected as quanta
+by a radiation detector and counter. At the other end, the
+energy of photon of radio waves is only about 10-10 eV. So
+millions of photons are needed to detect a signal and hence
+wave properties of radio waves predominate. The quanta are
+Table: 19.1 Electromagnetic spectrum
+Frequency, H2
+Wavelength. in
+1025
+10
+1032
+400 mm
+10
+18
+Gamma rays
+10
+IUMI
+10
+10th
+450
+10th
+X rays
+10
+10
+1 nm
+1012
+10
+10th
+Ultraviolet
+10"
+500
+10th
+VISIBLE
+10
+I am
+104
+10
+totà
+Infrared
+10
+350
+10th
+10
+à
+10"
+Microwaves
+10
+I em
+18"
+Short radio waves
+10
+600
+10°
+I
+10th
+Television and FM radio
+10
+10
+AM radio
+102
+10
+650
+10th
+1 km
+10°
+10th
+10th
+Long radio waves
+10°
+18°
+700
+10th
+182
+10"
+10
+184
+---
+
+so close together in energy value that radio waves are
+detected as continuous radiation.
+The emission or absorption of energy in steps may be
+extended to include any system such as a mass oscillating on
+a spring. However, the energy steps are far too small to be
+detected and so any granular nature is invisible. Quantum
+effects are only important when observing atomic sized
+objects, where h is a significant factor in any detectable
+energy change.
+Example 19.4: Assuming you radiate as does a blackbody
+at your body temperature about 37 °C, at what wavelength do
+you emit the most energy?
+Solution:
+T = 37 °C = 310K
+Wien's constant = 2.9x10~3 mk
+7-max = ?
+Using Max x T=Constant
+m = 9.35 um
+The radiation lies in the invisible infrared region and is
+independent of skin colour.
+Example 19.5: What is the energy of a photon in a beam of
+infrared radiation of wavelength 1240 nm?
+Solution:
+a = 1240 nm
+E = ?
+Using
+E =hf=h
+E 6.63x10-34 Jsx3x108 ms 1.6x10-19
+J
+124010-9 m
+or
+E = 1.0 eV
+19.5 INTERACTION OF ELECTROMAGNETIC
+RADIATION WITH MATTER
+Electromagnetic radiation or photons interact with matter in
+three distinct ways depending mainly on their energy. The
+three processes are
+185
+---
+
+(i) Photoelectric effect
+(ii) Compton effect
+(iii) Pair production
+incident
+light
+Photoelectric Effect
+X
+The emission of electrons from a metal surface when
+colour
+exposed to light of suitable frequency is called the
+filter
+photoelectric effect. The emitted electrons are known as
+photoelectrons.
+The photoelectric effect is demonstrated by the apparatus
+shown in Fig. 19.4. An evacuated glass tube X contains two
+th
+electrodes. The electrode A connected to the positive
+Fig 102
+Experimental arrangement
+terminal of the battery is known as anode. The electrode C
+to observe photoelectric effect.
+connected to negative terminal is known as cathode. When
+monochromatic light is allowed to shine on cathode, it begins
+to emit electrons. These photoelectrons are attracted by the
+positive anode and the resulting current is measured by an
+ammeter. The current stops when light is cut off, which
+Photoelectric
+proves, that the current flows because of incident light. This
+current
+421
+current is, hence, called photoelectric current. The maximum
+1.
+energy of the photoelectrons can be determined by reversing
+13
+the connection of the battery in the circuit i.e., now the anode
+I,
+A is negative and cathode C is at positive potential. In this
+condition the photoelectrons are repelled by the anode and
+&
+V2
+0
+the photoelectric current decreases. If this potential is made
+-V
++V
+more and more negative, at a certain value, called stopping
+potential Vo. the current becomes zero. Even the electrons of
+Fig 19.5 Characteristic curves of
+maximum energy are not able to reach collector plate. The
+photocurrent vs. applied voltage for
+maximum energy of photoelectrons is thus
+two intensities of monochromatic
+light.
+1
+mvmax=V.e
+(19.11)
+2
+where m is mass, vis velocity and e is the charge on electron.
+4
+If the experiment is repeated with light beam of higher
+4>1
+intensity, the amount of current increases but the current
+stops for the same value of Vo. The Fig. 19.5 shows two
+f,
+curves of photoelectric current as a function of potential V
+-V
+0
+V
+where I2 > I If, however, the intensity is kept constant and
+experiment is performed with different frequencies of
+Fig 19.6
+Characteristic curves of
+photocurrent vs. applied voltage for
+incident light, we obtain the curves shown in Fig. 19.6. The
+light of different frequencies.
+current is same but stopping potential is different for each
+frequency of incident light, which indicates the proportionality
+of maximum kinetic energy with frequency of light f.
+186
+---
+
+The important results of the experiments are
+1.
+The electrons are emitted with different energies. The
+maximum energy of photoelectrons depends on the
+particular metal surface and the frequency of incident
+For Your Information
+light.
+2.
+There is a minimum frequency below which no electrons
+are emitted, however intense the light may be. This
+threshold frequency f. varies from metal to metal.
+K.E.
+3.
+Electrons are emitted instantaneously, the intensity of
+light determines only their number.
+0
+f
+These results could not be explained on the basis of
+electromagnetic wave theory of light. According to this
+theory, increasing the intensity of incident light should
+A graph of the maximum kinetic
+energy of photoelectrons vs. light
+increase the K.E. of emitted electrons which contradicts the
+frequency. Below a certain
+experimental result. The classical theory cannot also explain
+frequency, for no photoemission
+occurs.
+the threshold frequency of light.
+Explanation on the Basis of Quantum Theory
+Einstein extended the idea of quantization of energy
+proposed by Max Planck that light is emitted or absorbed in
+quanta, known as photons. The energy of each photon of
+frequency f as given by quantum theory is
+E=hf
+A photon could be absorbed by a single electron in the metal
+surface. The electron needs a certain minimum energy called
+the work function 'O' to escape from the metal surface. If the
+energy of incident photon is sufficient, the electron is ejected
+instantaneously from the metal surface. A part of the photon
+energy (work function) is used by the electron to break away
+from the metal and the rest appears as the kinetic energy of
+the electron. That is,
+Incident photon energy - Work function = Max. K.E. of photoelectron
+or
+hf- max
+(19.12)
+This is known as Einstein's photoelectric equation.
+When K.Emax of the photoelectron is zero, the frequency f is
+equal to threshold frequency for hence the Eq. 19.12 becomes
+hf.-=0
+or
+=hf.
+(19.13)
+Hence, we can also write Einstein's photoelectric equation as
+187
+---
+
+K.Emax =hf-hfg
+(19.14)
+It is to be noted that all the emitted electrons do not possess
+quartz or glass tube
+the maximum kinetic energy, some electrons come straight
+out of the metal surface and some lose energy in atomic
+cathode
+collisions before coming out. The equation 19.14 holds good
+only for those electrons which come out with full surplus
+energy.
+Albert Einstein was awarded Nobel Prize in physics in 1921
+anode
+for his explanation of photoelectric effect.
+Note that the phenomenon of photoelectric effect cannot be
+explained if we assume that light consists of waves and
+cathode
+energy is uniformly distributed over its wavefront. It can only
+be explained by assuming light consists of corpuscles of
+energy known as photon. Thus it shows the corpuscular
+nature of light.
+anode
+Photocell
+A photocell is based on photoelectric effect. A simple
+Fig 19.7 Simple photo-emissive cell
+photocell is shown in Fig. 19.7. It consists of an evacuated
+glass bulb with a thin anode rod and a cathode of an
+appropriate metal surface. The material of the cathode is
+selected to suit to the frequency range of incident radiation
+over which the cell is operated. For example sodium or
+potassium cathode emits electrons for visible light, cesium
+coated oxidized silver emits electrons for infrared light and
+some other metals respond to ultraviolet radiation. When
+photo-emissive surface is exposed to appropriate light
+(a)
+(Fig. 19.8 a), electrons are emitted and a current flows in the
+external circuit which increases with the increase in light
+Flg 19.B Sound track on a film which
+intensity. The current stops when the light beam is
+varies the intensity of light reaching
+interrupted. The cell has wide range of applications. Some of
+the photo cell.
+these are to operate:
+1.
+Security systems
+light
+2.
+Counting systems
+3.
+Automatic door systems
+sound track
+4.
+Automatic street lighting
+load resistor
+5.
+Exposure meter for photography
+R
+(b)
+6.
+Sound track of movies (Fig. 19.8 b)
+to amplifier
+Fig. 19.8 Photocell detection circuit
+Example 19.6: A sodium surface is illuminated with light of
+for sound track of movies.
+wavelength 300 nm. The work function of sodium metal
+188
+---
+
+is 2.46 eV.
+(a)
+Find the maximum K.E. of the ejected electron.
+(b)
+Determine the cut off wavelength for sodium.
+Solution:
+a = 300 nm, ©=2.46eV
+(a)
+Energy of incident photon
+E=hf=nd
+or 6.63x10-34 Jsx3x108 m ms-1 6.63x10-19
+J
+E=4.14eV
+Now K.Emax =hf-0=4.14 eV - 2.46 eV = 1,68 eV
+(b) 0=2.46eV=3.94x10-19j
+Using
+or hc J 108 ms-¹ = 5.05x10-7 m
+No = 505 mm
+The cut off wavelength is in the green region of the visible
+spectrum
+Compton Effect
+Arthur Holly Compton at Washington University in 1923
+studied the scattering of X-rays by loosely bound electrons
+from a graphite target (Fig. 19.9 a). He measured the
+wavelength of X-rays scattered at an angel 0 with the original
+Detector
+direction. He found that wavelength 2 of the scattered X-rays
+Scattered
+photon
+is larger than the wavelength 2, of the incident X-rays. This is
+known as Compton effect. The increase in wavelength of
+scattered X-rays could not be explained on the basis of
+C
+classical wave theory. Compton suggested that X-rays
+consist of photons and in the process of scattering the
+X-rays
+photons suffer collision with electrons like billiard balls
+(Fig.19.9 b & c). In this collision, a part of incident photon
+energy and momentum is transferred to an electron. Applying
+(a)
+energy and momentum conservation laws to the process, he
+Fig. 19.9 (a) Compton's scattering
+derived an expression for the change in wavelength Ah
+experiment
+known as Compton shift for scattering angle 0 as
+189
+---
+
+(19.15)
+P. = h/2,
+where m® is the rest mass of the electron. The factor
+has
+Photon
+moc
+Free electron
+dimensions of length and is called Compton wavelength and
+E
+has the numerical value
+h Js
+moc = m
+(b)
+If the scattered X-ray photons are observed at 0 = 90°, the
+Pg=h/h,
+Compton shift AN equals the Compton wavelength. The
+Eq.19.15 was found to be in complete agreement with
+Compton's experimental result, which again is a striking
+confirmation of particle like interaction of electromagnetic
+E,
+waves with matter.
+P.
+Arthur Holly Compton was awarded Nobel Prize in physics in
+1927 for his discovery of the effect named after him.
+(c)
+Example 19.7: A 50 keV photon is Compton scattered by a
+quasi-free electron. If the scattered photon comes off at 45°,
+(b) Aphoton collides with an
+electron and (c) Both are scattered
+what is its wavelength?
+Solution:
+E = 50 keV=50x103x1.6x10-19
+Using
+or
+ms-1
+0.0248nm
+Now
+=0.2429x10" m x 0.293
+X'-i=0.0007 nm
++0.0007 nm
+N = 0.0248 nm + 0.0007 nm = 0.0255 nm
+190
+---
+
+Pair Production
+In the previous sections you have studied that a low energy
+photon interacting with a metal is usually completely
+absorbed with the emission of electron (Photoelectric effect)
+and a high energy photon such as that of X-rays is scattered
+by an atomic electron transferring a part of its energy to the
+electron (Compton effect). A third kind of interaction of very
+high energy photon such as that of y-rays with matter is pair
+production in which photon energy is changed into an
+electron-positron pair. A positron is a particle having mass and
+charge equal to that of electron but the charge being of
+opposite nature i.e. positive. The creation of two particles with
+photon
+electron
+equal and opposite charges is essential for charge
+conservation in the universe. The positron is also known as
+antiparticle of electron or anti-electron. The interaction
+usually takes place in the electric field in the vicinity of a heavy
+positron
+nucleus
+nucleus as shown in the Fig. 19.10 so that there is a particle to
+take up recoil energy and momentum is conserved.
+Pair Production
+In the process, radiant energy is converted into matter in
+accordance with Einstein's equation E = mc2, and hence, is
+Fig. 19.10
+also known as materialization of energy. For an electron or
+positron, the rest mass energy = m.c2 = 0.51 MeV. Thus to
+create the two particles 2 X 0.51 MeV or 1.02 MeV energy is
+required. For photons of energy greater than 1.02 MeV, the
+probability of pair production occurrence increases as the
+energy increases and the surplus energy is carried off by the
+two particles in the form of kinetic energy. The process can be
+represented by the equation
+Energy required
+Kinetic energy
+Energy of photon =
++
+for pair production
+of the particles
+hf = 2m,c2 + K.E. (e-) + K.E. (e+)
+(19.16)
+19.6 ANNIHILATION OF MATTER
+It is converse of pair production when a positron comes close
+to an electron they annihilate or destroy each other. The
+matter of two particles changes into electromagnetic energy
+producing two photons in the y-rays range.
+e
++ e
+Y
++
+Y
+The two photons are produced travelling in opposite
+directions (Fig. 19.11) so that momentum is conserved. Each
+191
+---
+
+photon has energy 0.51 MeV equivalent to rest mass energy
+of a particle.
+The existence of positron was predicted by Dirac in 1928 and
+it was discovered in the cosmic radiation in 1932 by Carl
+Anderson. It gradually became clear that every particle has a
+corresponding antiparticle with the same mass and charge (if
+it is a charged particle) but of opposite sign. Particles and
+antiparticles also differ in the signs of other quantum
+numbers that we have not yet discussed. A particle and its
+antiparticle cannot exist together at one place. Whenever
+they meet, they annihilate each other. That is, the particles
+disappear, their combined rest energies appear in other
+7 photon
+forms. Proton and antiproton annihilation has also been
+observed at Lawrence Berkeley Laboratory.
+electron
+19.7 WAVE NATURE OF PARTICLES
+It has been observed that light displays a dual nature, it acts
+as a wave and it acts as a particle. Assuming symmetry in
+nature, the French physicist, Louis de Broglie proposed in
+positron
+1924 that particles should also possess wavelike properties.
+As momentum p of photon is given by equation 19.11.
+Fig. 19.11
+p=h
+de Broglie suggested that momentum of a material particle of
+mass m moving with velocity V should be given by the same
+expression. Thus
+p=n=mv
+or
+p h mv
+(19.17)
+where r is the wavelength associated with particle waves.
+Do You Know?
+Hence an electron can be considered to be a particle and it
+can also be considered to be a wave. The equation 19.17 is
+called de Broglie relation.
+Light is, in short, the most refined
+form of matter (Louis de Broglie
+An object of large mass and ordinary speed has such a small
+1892-1987).
+wavelength that its wave effects such as interference and
+diffraction are negligible. For example, a rifle bullet of mass
+20 g and flying with speed 330 ms" will have a wavelength X
+given by
+kgx330ms Js = 1x10-34 m
+192
+---
+
+This wavelength is so small that it is not measurable or
+detectable by any of its effects.
+On the other hand for an electron moving with a speed of
+x 10 m s ,
+= 7 x 10 - 10
+This wavelength is in the X-rays range. Thus, diffraction
+effects for electrons are measurable whereas diffraction or
+interference effects for bullets are not.
+Electron,
+Davisson and Germer Experiment
+gun
+A convincing evidence of the wave nature of electrons was
+provided by Clinton J. Davisson and Laster H. Germer. They
+Detector
+showed that electrons are diffracted from metal crystals in
+exactly the same manner as X-rays or any other wave. The
+apparatus used by them is shown in Fig. 19.12, in which
+electrons from heated filament are accelerated by an
+Nickel
+adjustable applied voltage V. The electron beam of energy
+crystal
+Ve is made incident on a nickel crystal. The beam diffracted
+from crystal surface enters a detector and is recorded as a
+current I. The gain in K.E. of the electron as it is accelerated
+by a potential Vin the electron gun is
+Fig.19.12 Experimental arrangement
+of Davisson and Germer for electron
+diffraction.
+given by
+Ve
+or
+mv²=2Ve : =2mVe
+or
+mv
+=
+2m me
+From de Broglie equation
+a = mv h
+h
+Thus
+a = 2 2Vme
+(19.18)
+In one of the experiments, the accelerating voltage V was 54
+volts, hence
+a = h = 6.63x10-34
+a = 1.66x10-10
+This beam of electrons diffracted from crystal surface was
+obtained for a glancing angle of 65°, According to Bragg's
+193
+---
+
+equation
+d sin 0 = m).
+For 1st order diffraction m=1
+For nickel
+d=0.91x1010 m
+Thus
+2x0.91x10-10 m x sin 65 ° =
+which gives
+=1.65x1010m
+Thus, experimentally observed wavelength is in excellent
+agreement with theoretically predicted wavelength.
+For Your Information
+Diffraction patterns have also been observed with protons,
+neutrons, hydrogen atoms and helium atoms thereby giving
+Screen
+substantial evidence for the wave nature of particles.
+For his work on the dual nature of particles, Prince Louis
+Double slit
+Victor de Broglie received the 1929 Nobel Prize in physics.
+00
+Clinton Joseph Davisson and George Paget Thomson
+shared the Nobel Prize in 1937 for their experimental
+Image of the
+confirmation of the wave nature of particles.
+Beam of
+double slit
+electrons
+Wave Particle Duality
+(a)
+Interference and diffraction of light confirm its wave nature,
+while photoelectric effect proves the particle nature of light.
+Screen
+Similarly, the experiments of Davisson and Germer and
+G.P. Thomson reveal wave like nature of electrons and in the
+experiment of J.J. Thomson to find elm we had to assume
+particle like nature of the electron. In the same way we are
+forced to assume both wavelike and particle like properties
+for all matter: electrons, protons, neutrons, molecules etc.
+Beam of
+and also light, X-rays, y-rays etc. have to be included in this.
+electrons
+In other words, matter and radiation have a dual 'wave-
+particle' nature and this new concept is known as wave
+(b)
+particle duality. Niels Bohr pointed out in stating his principle
+of complementarity that both wave and particle aspects are
+(a) If electrons behaved as discrete
+particles with no wave properties
+required for the complete description of both radiation and
+they would pass through one or the
+matter. Both aspects are always present and either may be
+other of the two slits and strike the
+revealed by an experiment. However, both aspects cannot
+screen causing it to glow and
+produce exact images of the silts (b)
+be revealed simultaneously in a single experiment, which
+in reality the screen reveals a pattern
+aspect is revealed is determined by the nature of the
+of bright and dark fringes similar to
+experiment being done. If you put a diffraction grating in the
+light is used and interference occurs
+between the light waves coming from
+path of a light beam, you reveal it as a wave. If you allow the
+each slit
+light beam to hit a metal surface, you need to regard the
+beam as a stream of particles to explain your observations.
+There is no simple experiment that you can carry out with the
+194
+---
+
+beam that will require you to interpret it as a wave and as a
+particle at the same time. Light behaves as a stream of
+photons when it interacts with matter and behaves as a wave
+in traveling from a source to the place where it is detected. In
+effect, all micro-particles (electrons, protons, photons, atoms
+etc.) propagate as if they were waves and exchange energies
+as if they were particles - that is the wave particle duality.
+Example 19.8: A particle of mass 5.0 mg moves with speed
+of 8.0ms+1. Calculate its de Broglie wavelength.
+Solution:
+m=5.0mg=5.0x10* kg =
+v=80ms
+h=6.63x10**,
+Js
+Using = 1.66x10-29 m
+Example 19.9: An electron is accelerated through a
+Potential Difference of 50 V. Calculate its de Broglie
+wavelength.
+Solution:
+m=9.1x10-31kg,
+Vo=50V,
+2=?
+e=1.6x10-19 C
+1mv2 = vo
+p=mv=,2mVe
+then
+p
+2
+6.63x10-34
+Js
+2x9.1x10-31 kg x 50 JC - x 1.6x10-19 C
+=1.74x10-10 m
+Uses of Wave Nature of Particles
+The fact that energetic particles have extremely short
+de Broglie wavelengths has been put to practical use in many
+ultra-modern devices of immense importance such as
+electron microscope.
+195
+---
+
+Electron Microscope
+Electron microscope makes practical use of the wave nature
+electron source
+of electrons which is thousands of time shorter than visible
+light which enables the electron microscope to distinguish
+details not visible with optical microscope. In an electron
+microscope, electric and magnetic fields rather than optical
+magnetic
+lenses are used to focus electrons by means of
+condenser
+electromagnetic forces that are exerted on moving charges.
+The resulting deflections of the electrons beams are similar
+specimen
+to the refraction effects produced by glass lenses used to
+magnetic
+focus light in optical microscope. The electrons are
+objective
+accelerated to high energies by applying voltage from 30 kV
+to several megavolts. Such high voltages give extremely
+short wavelength and also give the electron sufficient energy
+to penetrate specimen of reasonable thickness. A resolution
+first image
+of 0.5 to 1 nm is possible with a 50 kV microscope as
+compared to best optical resolution of 0.2 um. A schematic
+intermediate
+diagram of the electron microscope is shown in the Figure
+image projector
+19.13. The magnetic conducting lens concentrates the beam
+from an electron gun on to the specimen. Electrons are
+scattered out of the beam from the thicker parts of the
+specimen. The transmitted beam therefore has spatial
+differences in density that correspond to the features of the
+second stage
+specimen. The objective and intermediate lenses produce a
+magnified image
+real intermediate image and projection lens forms the final
+image which can be viewed on a fluorescent screen or
+photographed on special film known as electron micrograph.
+A three dimensional image of remarkable quality can be
+Electron microscope ( Block Diagram)
+achieved by modern versions called scanning electron
+Fig. 19.13
+microscopes.
+19.8 UNCERTAINTY PRINCIPLE
+Position and momentum of a particle cannot both be
+measured simultaneously with perfect accuracy. There is
+always a fundamental uncertainty associated with any
+Do You Know?
+measurement. This uncertainty is not associated with the
+measuring instrument. It is a consequence of the wave
+In the subatomic world few things can
+particle duality of matter and radiation. This was first
+be predicted with 100% precision.
+proposed by Werner Heisenberg in 1927 and hence is known
+as Heisenberg Uncertainty Principle. This fundamental
+uncertainty is completely negligible for measurements of
+position and momentum of macroscopic objects but is a
+predominant fact of life in the atomic domain. For example, a
+stream of light photons scattering from a flying tennis ball
+196
+---
+
+hardly affects its path, but one photon striking an electron
+drastically alters the electron's motion. Since light has also
+wave properties, we would expect to be able to determine the
+position of the electron only to within one wavelength of the
+light being used. Hence, in order to observe the position of an
+electron with less uncertainty and also for minimizing
+diffraction effect, we must use light of short wavelength. But it
+will alter the motion drastically making momentum
+measurement less precise. If light of wavelength a is used to
+locate a micro particle moving along x-axis, the uncertainty in
+its position measurement is
+Ax=2
+At most, the photon of light can transfer all its momentum
+(h)
+to the micro particle whose own momentum will then be
+uncertain by an amount
+Ap= =
+Multiplying these two uncertainties gives
+AXAP=1/F)=h
+e
+(19.19)
+The equation 19.19 is the mathematical form of uncertainty
+principle. It states that the product of the uncertainty Ax in the
+For Your information
+position of a particle at some instant and the uncertainty Ap in
+the x-component of its momentum at the same instant
+You can never accurately describe all
+aspects of a subatomic particle at
+approximately equals Planck's constanth.
+once.
+There is another form of uncertainty principle which relates
+the energy of a particle and the time at which it had the
+energy. If the AE is the uncertainty in our knowledge of the
+energy of our particle and if the time interval during which
+the particle had the energy E+ 12 is then
+AE.At=h
+(19.20)
+Thus more accurately we determined the energy of a particle,
+the more uncertain we will be of the time during which it has
+that energy.
+According to Heisenberg's more careful calculations, he
+found that at the very best
+197
+---
+
+(19.21)
+.
+(19.22)
+where
+n=h=1.05x10~* Js
+Wener Karl Heisenberg received Nobel Prize for physics in
+1932 for the development of quantum mechanics.
+Example 19.10: The life time of an electron in an excited
+state is about 10-8 S. What is its uncertainty in energy during
+this time?
+Solution:
+Using uncertainty principle
+.t=h
+Js
+E=1.05102,
+Example 19.11: An electron is to be confined to a box of the
+size of the nucleus (1.0 x10-14 m). What would the speed of
+the electron be if it were so confined?
+Solution:
+Maximum uncertainty in the location of electron equals the
+size of the box Itself that Is AX = 1.0 x 10-14 m. The minimum
+uncertainty in the velocity of electron is found from
+Heisenberg uncertainty principle
+Ap 2 AX
+or
+MAV mAV h
+AV 2 mAx h = 1.05 x 10 34 Js = 1.1510s
+For confinement In the box, the speed should be greater than
+the speed of light. Because this is not possible, we must
+conclude that an electron can never be found inside the
+nucleus.
+198
+---
+
+SUMMARY
+An inertial frame of reference is defined as a coordinate system in which the law of
+inertia is valid. A frame of reference that is not accelerating is an inertial frame of
+reference.
+The special theory of relatively treats problems involving inertial or non-accelerating
+frames of reference. It is based upon two postulates.
+(i)
+The laws of physics are the same in all inertial frames.
+(ii)
+The speed of light in free space has the same value for all observers,
+regardless of their state of motion.
+E = mc IS an important result of special theory of relativity
+A black body is a solid block having a hollow cavity within it. It has small hole and the
+radiation can enter or escape only through this hole.
+Stephen Boltzmann law states that total energy radiated over all wave length at a
+particular temperature is directly proportional to the fourth power of that Kelvin
+temperature.
+The emission of electrons from a metal surface when exposed to ultraviolet light is
+called photoelectric effect. The emitted electrons are known as photoelectrons.
+When X-rays are scattered by loosely bound electrons from a graphite target, it is
+known as Compton effect.
+The change of very high energy photon into an electron, positron pair is called pair
+production.
+When a positron comes close to an electron, they annihilate and produce two
+photons in the Y - rays range. It is called annihilation of matter.
+Position and momentum of a particle cannot both be measured simultaneously with
+perfect accuracy. There is always a fundamental uncertainty associated with any
+measurement. It is a consequence of the wave particle duality of matter and
+radiation. It is known as Heisenberg uncertainty principle.
+QUESTIONS
+19.1
+What are the measurements on which two observers in relative motion will always
+agree upon?
+19.2
+Does the dilation means that time really passes more slowly in moving system or
+that it only seems to pass more slowly?
+19.3
+If you are moving in a spaceship at a very high speed relative to the Earth, would you
+notice a difference (a) in your pulse rate (b) in the pulse rate of people on Earth?
+199
+---
+
+19.4
+If the speed of light were infinite, what would the equations of special theory of
+relativity reduce to?
+19.5 Since mass is a form of energy, can we conclude that a compressed spring has more
+mass than the same spring when it is not compressed?
+19.6
+As a solid is heated and begins to glow, why does it first appear red?
+19.7
+What happens to total radiation from a blackbody if its absolute temperature is
+doubled?
+19.8
+A beam of red light and a beam of blue light have exactly the same energy. Which
+beam contains the greater number of photons?
+19.9 Which photon, red, green, or blue carries the most (a) energy and
+(b)
+momentum?
+19.10 Which has the lower energy quanta? Radiowaves or X-rays
+19.11
+Does the brightness of a beam of light primarily depends on the frequency of
+photons or on the number of photons?
+19.12 When ultraviolet light falls on certain dyes, visible light is emitted. Why does this not
+happen when infrared light falls on these dyes?
+19.13 Will bright light eject more electrons from a metal surface than dimmer light of the
+same colour?
+19.14 Will higher frequency light eject greater number of electrons than low frequency light?
+19.15 When light shines on a surface, is momentum transferred to the metal surface?
+19.16 Why can red light be used in a photographic dark room when developing films, but a
+blue or white light cannot?
+19.17
+Photon A has twice the energy of photon B. What is the ratio of the momentum of A to
+that of B?
+19.18 Why don't we observe a Compton effect with visible light?
+19.19 Can pair production take place in vacuum? Explain
+19.20 Is it possible to create a single electron from energy? Explain.
+19.21 If electrons behaved only like particles, what pattern would you expect on the screen
+after the electrons passes through the double slit?
+19.22 If an electron and a proton have the same de Broglie wavelength, which particle has
+greater speed?
+19.23 We do not notice the de Broglie wavelength for a pitched cricket ball. Explain why?
+19.24 If the following particles have the same energy, which has the shortest wavelength?
+Electron, alpha particle, neutron, proton.
+19.25 When does light behave as a wave? When does it behave as a particle?
+19.26 What advantages an electron microscope has over an optical microscope?
+19.27 If measurements show a precise position for an electron, can those
+measurements show precise momentum also? Explain.
+200
+---
+
+PROBLEMS
+19.1 A particle called the pion lives on the average only about 2.6 X 10 S when at rest
+in the laboratory. It then changes to another form. How long would such a particle
+live when shooting through the space at 0.95 c?
+[Ans. 8.3 X 10-superscript(6) s]
+19.2
+What is the mass of a 70 kg man in a space rocket traveling at 0.8 C from us as
+measured from Earth?
+[Ans. 116.7 kg]
+19.3
+Find the energy of photon in
+(b)
+Radiowave of wavelength 100 m
+(c)
+Green light of wavelength 550 nm
+(d) X-ray with wavelength 0.2 nm
+[Ans. (a) 1.24 x 10 6 eV (b) 2.25 eV (c) 6200 eV
+19.4
+Yellow light of 577 nm wavelength is incident on a cesium surface. The stopping
+voltage is found to be 0.25 V. Find
+(a)
+the Maximum K.E. of the photoelectrons
+(b)
+the work function of cesium
+[Ans. (a) 4 x 10 20 J (b) 1.91 eV
+19.5 X-rays of wavelength 22 pm are scattered from a carbon target. The scattered
+radiation being viewed at 85° to the incident beam. What is Compton shift?
+[Ans. 2.2x10-12 m]
+19.6
+A 90 keV X-ray photon is fired at a carbon target and Compton scattering occurs.
+Find the wavelength of the incident photon and the wavelength of the scattered
+photon for scattering angle of (a) 30° (b) 60°
+[Ans. 13.8 pm (a) 14.1 pm (b) 15 pm]
+19.7 What is the maximum wavelength of the two photons produced when a positron
+annihilates an electron? The rest mass energy of each is 0.51 MeV.
+[Ans. 2.44x1012
+19.8
+Calculate the wavelength of
+(a)
+a 140 g ball moving at 40ms
+(b)
+a proton moving at the same speed
+(c)
+an electron moving at the same speed
+[Ans. (a) 1.18 x 10 ¹ m (b) 9.92 nm (c) 1.82 x 10 5 m]
+19.9
+What is the de Broglie wavelength of an electron whose kinetic energy is 120 eV?
+[Ans. 1.12x10 m]
+19,10 An electron is placed in a box about the size of an atom that is about 1.0 x 10-10 m.
+What is the velocity of the electron?
+[Ans. 7.29x10°n ms*)
+201
+---

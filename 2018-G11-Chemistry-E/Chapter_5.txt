@@ -1,0 +1,1545 @@
+CHAPTER
+5   ATOMIC STRUCTURE 
+Animation 5.1: Atomic Structure
+Source & Credit: nuceng25.ATOMIC STRUCTURE eLearn.Punjab
+5.1 SUB-ATOMIC PARTICLES OF ATOM
+ We  are familiar with the nature of matter, which is made up of  extremely small particles called 
+atoms. According to Dalton’s theory, atoms were considered to be ultimate p articles which could 
+not be divided any further. Our ideas about structure of atom have un dergone radical changes 
+over the years. A number of subatomic particles have been discovered. T he experiments which led 
+to the discovery of electron, proton and neutron are described below.
+Animation 5.2: Atomic nucleus Model
+Source & Credit : myweb.rollins35.ATOMIC STRUCTURE eLearn.Punjab
+5.1.1Discovery of Electron (Cathode Rays)               
+ A gas discharge tube is itted with two metallic electrodes acting a s cathode and anode. The 
+tube is illed with a gas, air or vapours of a substance at an y desired pressure. The electrodes are 
+connected to a source of high voltage. The exact voltage required depend s upon the length of the 
+tube and the pressure inside the tube. The tube is attached to a vac uum pump by means of a small 
+side tube so that the conduction of electricity may be studied at any value of low pressure Fig (5.1).
+It is observed that current does not low through the gas at ordinary p ressure even at high voltage 
+of 5000 volts. When the pressure inside the tube is reduced and a  high voltage of 5000-10000  volts 
+is applied, then an electric discharge takes place through the ga s producing a uniform glow inside 
+the tube. When the pressure is reduced further to about 0.01 torr, th e original glow disappeares. 
+Some rays are produced which create luorescence on the glass wall opposite to the cathode. 
+These rays are called cathode rays. The  colour of the glow or the l uorescence produced on the 
+walls of the glass tube, depends upon the composition of glass.
+Animation 5.3: Cathode Rays
+Source & Credit : wikipedia45.ATOMIC STRUCTURE eLearn.Punjab
+5.1.2 Properties of Cathode Rays
+To  study the properties of cathoe rays systematic investigations were made by many scientists. 
+They established the following properties of cathode rays.       
+1. Cathode rays are negativelycharged. In 1895, J Perrin showe d that when the cathode rays passed 
+between the poles of the magnet, the path of the negatively charged partic les was curved downward 
+to point 2 by the magnetic ield. Fig (5.2)
+ In 1897, J. Thomson established their electric charge by the ap plication of electric ield, the cathode 
+ray particles were delected upwards (towards the positive plate) to poin t 3. Fig. (5.2) 
+Thomson found that by carefully controlling the charge on the pl ates when the plates and the 
+magnet were both around the tube, he could make the cathode rays stri ke the tube at point 1 
+again Fig.(5.2). In other words, he was able to cancel the efect of the magnetic ield by applying an 
+electric ield that tended to bend the path of the cathode rays in the opposi te direction.
+Fi g (5.1) Projduct ion of the cath,ode rays55.ATOMIC STRUCTURE eLearn.Punjab
+2. They produce a greenish luorescence on striking the walls of th e glass tube. These rays also 
+produce luorescence in rare earths and minerals. When placed in  the path of these rays, alumina 
+glows red and tin stone yellow.Fig (5.2) Delection of cathode rays
+in electric and magnetic ields
+Fig (5.3) Cathode rays cast a shadow of an opaque object65.ATOMIC STRUCTURE eLearn.Punjab
+3.  Cathode rays cast a shadow when an opaque object is placed in their path. This  proves that 
+they travel q straight line perpendicular to the surface of cathode F ig (5.3).
+4.  These rays can drive a small paddle wheel placed in th eir path. This  shows that these rays 
+possess momentum. From this observation, it is inferred that cathode r ays are not rays but material 
+particles having a deinite mass and velocity Fig (5.4).
+Animation 5.4: X-ray Safety template
+Source & Credit : adm.uwaterloo
+Fig (5.4) cathode rays derive a sman paddle wheel75.ATOMIC STRUCTURE eLearn.Punjab
+5.  Cathode rays can produce X-rays when they strike an anod e particularly with large atomic 
+mass Fig (5.18).
+6.  Cathode  rays can produce heat when they fall on matter e.g . when cathode rays from a 
+concave cathode are focussed on a platinum foil, it begins to glow.
+7.  Cathode rays can ionize gases.
+8.  They can cause a chemical change, because they have a redu cing efect.
+9.  Cathode rays can pass through a thin metal foil like alu minum or gold foil.
+10.  The  e/m value of cathode rays shows that they are simply electrons. J.J. Thomson concluded 
+from his experiments that cathode rays consist of streams of negati vely charged particles. Stoney 
+named these particles as electrons. Thomson also determined the charg e to mass ratio (e/m) of 
+electrons. He found that the e/m value remained the same no matter whi ch gas was used in the 
+discharge tube. He concluded that all atoms contained electrons.
+5.1.3 Discovery of Proton (Positive Rays)
+ In 1886, German physicist, E. Goldstein took a discharge tube provided with a cathode having 
+extremely ine holes in it. When a large potential diference is appli ed between electrodes, it is 
+observed that while cathode rays are travelling away from cathode, ther e are other rays produced 
+at the same time. These rays after passing through the perforated cathode produce a glow on 
+the wall opposite to the anode. Since these rays pass through the ca nals or the holes of cathode, 
+they are called canal rays. These rays are named as positive ra ys owing to the fact that they carry 
+positive  charge Fig (5.5).
+Fig (5.5) Production of positive rays85.ATOMIC STRUCTURE eLearn.Punjab
+Reason for the Production of Positive Rays
+ These positive rays are produced, when high speed 
+cathode rays (electrons) strike the molecules of a gas 
+enclosed in the discharge tube. They knock out electrons 
+from the gas molecules and positive ions are produced, 
+which start moving towards the cathode Fig (5.5).
+                                     →- +-M+e M +2e
+5.1.4 Properties of Positive Rays
+1.  They are delected by an electric as well as a 
+magnetic ield showing, that these are positively charged.
+2.  These rays travel in a straight line in a direction 
+opposite to the cathode rays.
+3.  They produce lashes on ZnS plate.
+4.  The  e/m value for the positive rays is always smaller than that of electrons and depends 
+upon the nature of the gas used in the discharge tube. Heavier the g as, smaller the e/m value. 
+When hydrogen gas is used in the discharge tube, the e/m value is  found to be the maximum in 
+comparison to any other gas because the value of’m’ is the lowest for th e positive particle obtained 
+from the hydrogen gas. Hence the positive particle obtained from hydr ogen gas is the lightest 
+among all the positive particles. This particle is called proton,  a name suggested by Rutherford.
+The mass of a proton is 1836 times more than that of an electron.
+5.1.5 Discovery of Neutron
+ Proton and electron were discovered in 1886 and their properties were completely determined 
+till 1895. It is very strange to know that upto 1932 it was thought that an atom was composed of 
+only electrons and protons. Rutherford predicted in 1920 that some kind of neutral particle having 
+mass equal to that of proton must be present in an atom, because he noti ced that atomic masses 
+of atoms could not be explained,if it were supposed that atoms had on ly electrons and protons.
+Chadwick discovered neutron in 1932 and was awarded Nobel pri ze in Physics in 1935.
+Animation 5.5: Protons
+Source & Credit : wikipedia95.ATOMIC STRUCTURE eLearn.Punjab
+Experiment
+ A stream of a-particles produced from a polonium source was d irected at beryllium (9
+4Be) 
+target. It was noticed that some penetrating radiation were produced. Th ese radiations were called 
+neutrons because the charge detector showed them to be neutral Fig (5.6 ). The nuclear reaction is 
+as follows.
+      
+	 	 	 	 	 	 (a	-paricle)
+Actually a-particles and the nuclei of Be ate re-arranged and ex tra neutron is emitted.
+Fig (5.6) Bombardment of Be with a- particles and discovery of neutron4 9 12 1
+24 60He Be C n+ →+105.ATOMIC STRUCTURE eLearn.Punjab
+5.1.6 Properties of Neutron
+1.  Free neutron decays into a proton +1P  with the emission of an electron −0
+1e and a neutrino 0
+0n.
+       1 1 00
+0 1 10n P en+−→ ++
+2.  Neutrons cannot ionize gases.
+3.  Neutrons are highly penetrating particles.
+4.  They can expel high speed protons from parain, water, paper  and cellulose.
+5.  When neutrons travel with an energy 1.2 Mev (Mega electron volt 106), they are called fast  
+           neutrons but with  energy below 1ev are called slow neu trons. Slow neutrons are usually more  
+         efective than fast ones for the ission purposes.
+6.  When neutrons are used as projectiles, they can carry out the n uclear reactions. A fast  
+                    neutron ejects an a-particle from the nucl eus of nitrogen atom and boron is produced, alongwith  
+         and a-particles.
+       14 1 11 4
+705 2N n B He+→ +
+7.  When  slow moving neutrons hit the Cu metal then γ  gamma radiations are emitted. The 
+radioactive 66
+29Cu is converted into 66
+30Zn
+    65 1 66
+29 0 29 () Cu n Cu hv raditions γ +→ + −
+     
+Animation 5.6: chad wicks experiment
+Source & Credit : sites.google
+66 66 0
+29 30 1   (electron) Cu Zn e− →+115.ATOMIC STRUCTURE eLearn.Punjab
+Actually, neutron is captured by the nucleus of 65
+29Cu and 66
+29Cu is produced. This radio active 66
+29Cu  
+emits an  electron ( b-particle) and its atomic number increases by one unit. Becau se of their intense 
+biological efects they are being used in the treatment of cancer.
+5.1.7 Measurement of e
+m Value of Electron
+ In 1897, J.J Thomson devised an instrument to measure the e/m valu e of electron. The 
+apparatus consists of a discharge tube shown in Fig. (5.7).  
+ The cathode rays are allowed to pass through electric and magneti c ields. When both the 
+ields are of then a beam of cathode rays, consisted of electrons, prod uces bright luminous spot 
+at P1 on the luorescent screen. 
+The  north and south poles of magnetic ield are perpendicular to the plane of paper in the diagram. 
+The electrical ield is in the plane of paper. When only magnetic ield is applied, the cathode rays are 
+delected in a circular path and fall at the point P3. When only electric ield is applied, the cathode 
+rays produce a spot at P2. Both electric and magnetic ields are then applied simultaneously  and 
+their strengths adjusted in such a way that cathode rays again hit the point P1.  
+In this way by comparing the strengths of the two ields one can deter mine the e/m value of 
+eIlectrons. It comes out to be 1.7588 x 1011 coulombs kg-1. This means that 1 kg of electrons have 
+1.7588 x 1011 coulombs of charge.  
+Fig (5.7) Measurement of e/m value of an electron by J .J. Thomson125.ATOMIC STRUCTURE eLearn.Punjab
+5.1.8 Measurement of Charge on Electron - Millikan's  Oil Drop Method
+ In 1909, Millikan determined the charge 
+on electron by a simple arrangement. The 
+apparatus consists of a metallic chamber.It 
+has two parts. The chamber is illed with air, 
+the pressure of which can be adjusted by a 
+vacuum pump. 
+There are two electrodes A and A’ These 
+electrodes are used- to generate an electrical 
+ield in the space between the electrodes. 
+The upper electrode has a hole in it as shown 
+in Fig (5.8).
+ A ine spray of oil droplets is created by 
+an atomizer. A few droplets passes through 
+the hole in the top plate and into the region 
+between the charged plates, where one of them is observed though a mic roscope. This droplet, 
+when illuminated perpendicularly to the direction of view, appears  in the microscope as bright 
+speck against a dark background. The  droplet falls under the force of gravity without applying the 
+electric ield. The velocity of the droplet is determined. The velocity of the droplet (V1) depends 
+upon its weight, mg.
+    1v mga           ..............            (1)
+where ’m’ is the mass of the droplet and  ‘g’ is the acceleration  due to gravity. After that the air 
+between the electrodes is ionized by X-rays. The  droplet under obser vation  takes up an electron 
+and gets charged. Now, connect A and A’ to a battery which genera tes an electric ield having a 
+strength, E. The droplet moves upwards against the action of gravi ty with a velocity (v2).
+    2v Ee mga −             ..............            (2)
+where ‘e’ is the charge on the electron and Ee is the upward driving  force on the droplet due to 
+applied electrical ield of strength E.
+  Dividing equation (1) by (2)
+  
+     
+1
+2v mg
+v Ee-mg=           
+                                                                        ..............            (3)
+Fig (5.8) Millikan's oil drop method for
+determination of charge of electron135.ATOMIC STRUCTURE eLearn.Punjab
+ The  values of v1 and v2 are recorded with the help of microscope. The factors like g and E  are 
+also known. Mass of the droplet can be determined by varying the elec tric ield in such a way that 
+the droplet is suspended in the chamber. Hence ‘e’ can be calcu lated.
+  By changing the strength of electrical ield, Millikan found that the charge on each droplet 
+was diferent. The  smallest charge which he found was 1.59 x  10-19 coulombs, which is very close 
+to the recent value of 1.6022 x 10-19 coulombs. This smallest charge on any droplet is the charge of  
+one electron. The other drops having more than one electron on them, have d ouble or triple the 
+amount of this charge. The charge present on an electron is the sma llest charge of electricity that 
+has been measured so far.
+Mass of Electron
+ The value of charge on electron is 1.602 x 10-19 coulombs, while e/m of electron is 1.7588 x 
+1011 coulombs kg-1. So,
+       =11 -1 = 1.7588x10  coulombs kg
+  -19e 1.6022×10 coulombs=m Mass of electrons
+  Mass of electron= 
+     -19
+11 -11.6022×10 coulombs
+1.7588×10 coulombs kg
+Rearranging
+   Mass of electron= 9.1095x10-31  kg
+Properties of Fundamental Particles
+The Table (5.1) shows the properties of three fundamental particles electron, proton and neutron 
+present in an atom.
+Table (5.1) Properties of three fundamental particles
+Mass
+(amu)Mass
+(kg) Relative
+chargeCharge
+(coul)Particle
+1.0073 -271.6726 x 10+1 -19+1.6022 x 10Proton
+1.0087 -271.6750 x 100 0 Neutron
+5.4858x10-4 -319.1095 x 10-1 -19-1.6022 x 10Electron145.ATOMIC STRUCTURE eLearn.Punjab
+5.2 Rutherford's Model of Atom (Discovery of Nucleus)
+In 1911, Lord Rutherford performed 
+a classic experiment. He studied 
+the scattering of high speed 
+a-particles. which were emitted 
+from a radioactive metal (radium or 
+polonium)
+ A beam of a-partides was 
+directed onto a gold foil of 0.00004 
+cm thickness as target through a 
+pin-hole in lead plate, Fig (5.9). 
+ A photographic plate or a 
+screen coated with zinc sulphide 
+was used as a detector. Whenever, 
+an a-partide struck  the screen, lash 
+of light was produced at that point. It was observed that most of the pa rticles went through the 
+foil undelected. Some were delected at fairly large angles and a few  were delected backward. 
+Rutherford proposed that the rebounding particles must have collided w ith the central heavy 
+portion of the atom which he called as nucleus.      
+ On the basis of these experimental observations, Rutherford proposed the planetary model 
+(similar to the solar system) for an atom in which a tiny nucl eus is surrounded by an appropriate  
+number of electrons. Atom as a whole being neutral, therefore, the nu cleus must be having the 
+same number of protons as there are number of electrons surroundin g it.
+ In Rutherford’s model for the structure of an atom, the outer electrons c ould  not be stationary. 
+If they were, they would gradually be attracted by the nucleus ti ll they ultimately fall into it. Therefore, 
+to have a stable atomic structure, the electrons were supposed to be moving around the nucleus 
+in closed orbits. The nuclear atom of Rutherford was a big step ahead towards understanding the 
+atomic structure, but the behaviour of electrons remained unexplained in the atom.
+ Rutherford’s planet-like picture was Electron defective and unsa tisfactory because the moving 
+electron must be accelerated towards the nucleus Fig (5.10). 
+ Fig (5.9) Rutherford's experiment for scattering 0f a-partices155.ATOMIC STRUCTURE eLearn.Punjab
+Therefore, the radius of the orbiting electron should become smaller and smaller and the electron 
+should fall into the nucleus. Thus, an atomic structure as pr oposed by Rutherford would collapse.
+5.3 PLANCK'S QUANTUM THEORY
+ Max  Planck proposed the quantum theory in 1900 to explain th e emission and absorption of 
+radiation. According to his revolutionary’ theory, energy travels in a discontinuous manner and it is 
+composed of large number of tiny discrete units called quanta. T he main points of his theory are:
+(i)  Energy is not emitted or absorbed continuously. Rather, it is  emitted or absorbed in a 
+discontinuous manner and in the form of wave packets. Each wa ve packet or quantum is associated 
+with a deinite amount of energy. In case of light, the quantum of en ergy is often called photon.
+(ii)  The  amount of energy associated with a quantum of rad iation is proportional to the frequency 
+(v) of the radiation. Frequency is the number of waves passing through a point per sec ond.
+    E  v∝
+    E = hv 																.............................						 								(4)
+Fig (5.10) Rotation of electron around the
+nucleus and expected spiral path165.ATOMIC STRUCTURE eLearn.Punjab
+ Where ’h’ is a constant known as Planck’s constant and its va lue is 6.626x10-34 Js. It is, in fact, 
+the ratio of energy and the frequency of a photon.
+(iii)  A body can emit or absorb energy only in terms of quanta .
+     E = hv
+ The frequency ‘v ‘ is related to the wavelength of the photon as
+     l v=c/
+ Greater the wavelength, smaller the frequency of photon
+  So,    l E=hc/             ............................(5)
+ Wavelength is the distance between the two adjacent crests or troughs an d expressed in o
+A, 
+nm or pm. (1o
+A =10 -10’m’, lnm = 10-9m, lpm=10-12m) 
+ Greater  the wavelength associated with the photon, smaller is its energy .  Wave number (v) 
+is the number of waves per unit length, and is reciprocal to wavel ength.
+                                                                         l = 1/v 
+ Putting the value of  l = 1/v  in equation (5)
+     E = h c v                 ............................(6)
+ So, the energy of a photon is related to frequency, wavelength and w ave number.
+Greater  the wave number of photons, greater is the energy associated wi th them. The relationships 
+of energy, frequency, wavelength, wave number about the photon of ligh t are accepted by scientists 
+and used by Bohr in his atomic model.
+5.4 BOHR’S MODEL OF ATOM
+ Bohr made an extensive use of the quantum theory of Planck and pr oposed that the electron, 
+in the hydrogen atom, can only exist in certain permitted quantized energy levels. The main 
+postulates of Bohr’s theory are:
+(i)  Electron revolves in one  of the circular orbits outside the  nucl eus. Each orbit has a ixed 
+energy and a quantum number is assigned to it.
+(ii)  Electron present in a particular orbit neither emits nor a bsorbs energy  while moving in the 
+same ixed orbits. The energy is emitted or absorbed only when an elec tron jumps from one orbit 
+to another.175.ATOMIC STRUCTURE eLearn.Punjab
+(iii)  When an electron jumps, the energy change AE is given by  the Planck’s equation
+  E฀=E2-E1 = hv                          ..................    (7)
+ Where E฀   is the energy diference of any two orbits with energies E1 and E2 Energy is absorbed 
+by the electron when it jumps from an inner orbit to an outer orbit a nd is emitted when the electron 
+jumps from outer to inner orbit. Electron can revolve only in those orbits  having a ixed angular 
+momentum (mvr). The angular momentum of an orbit depends upon its  quantum number and it 
+is an integral multiple of the factor h/2 π i.e.
+                 pnhmvr=2           ............................          (8 )
+Where n = 1,2,3,.............
+ The permitted values of angular momenta are, therefore, ph
+2 , p2h
+2  , p3h
+2   ..............
+The electron is bound to remain in one of these orbits and not in between  them. So, angular 
+momentum is quantized.
+Derivation of Radius and Energy of Revolving Electro n in nth Orbit.
+ By applying these ideas, Bohr derived the expression for the rad ius of the nth orbit in hydrogen 
+atom.
+ For a general atom, consider an electron of charge ‘e’ revolving ar ound the nucleus having 
+charge Ze+. Z being the proton number 
+and e+ is the charge on the proton Fig 
+(5.11).
+ Let m be the mass of electron, r 
+the radius of the orbit and v the velocity 
+of the revolving electron. According to 
+Coulombs law, the electrostatic force of 
+attraction between the electron and the 
+nucleus will be given by the f ollowing 
+formula .
+ 
+                                             
+ Fi'g (5.11) .E, lectr.o n rev. olvingv +m an atom wit h nuclear charge Ze (If Z=l, 
+then the picture is for H-atom)185.ATOMIC STRUCTURE eLearn.Punjab
+   
+    
+0∈ is the vacuum permittivity and its value is 8.84 x 10-12C2J-1m-1. This force of attraction is balanced 
+by the  2mv
+r Therefore, for balanced conditions, we can write
+  or
+   2mv
+r p=∈2
+2
+0Ze
+4r
+ 2mv  p=∈2
+2
+0Ze
+4r              .........................          (9 )
+  Rearranging the equation (9)
+  p=∈2
+2
+0Zer4 mv             ..........................          (1 0)
+According to equation (10), the radius of a moving electron is i nversely proportional to the square 
+of its velocity. It conveys the idea, that electron should move faster near er to the nucleus in an orbit 
+of smaller radius. It also tells, that if hydrogen atom has man y possible orbits, then the promotion 
+of electron to higher orbits makes it move with less velocity.
+ The determination of velocity of electron is possible while moving in th e orbit. In order 
+to eliminate the factor of velocity from equation (10), we use Bohr’s postulate (iv). The angular 
+momentum of the electron is given by.
+       
+       pnhmvr = 2
+  Rearranging the equation of angular momentum
+       p=nh
+2 mrv  
+                   Taking square
+      p22
+2
+2 22nhv=4 mr                    ...................         (11 ) +- 2
+22
+00Ze .e Ze
+4πr 4 πr=∈∈195.ATOMIC STRUCTURE eLearn.Punjab
+ Substituting the value of v2 from eq. (11) into eq. (10), we get
+      
+      p
+pe2 2 22
+22
+0Ze ×4 m rr = 4 mn h
+ Rearranging the above equation, we get
+    e
+p=22
+0
+2nhrmZe           ..............................        (1 2)
+ For hydrogen atom Z = 1, so the equation for radius of H-atom is
+   ee
+pp= =22 2
+2 00
+22nh hr ( )nme me       ............................          (13)
+ According  to the equation (13), the radius of hydrogen atom is d irectly proportional to the 
+square of number of orbit (n). So, higher orbits have more radii  and vice versa. The collection of 
+parameters e
+p2
+0
+2h()me in equation (13) is a constant factor.
+When we  put the value of 0∈, h2 π, m and e2 alongwith the units then the calculations show that it 
+is equal to 0.529 x I0-10 m or 0.529 o
+A.( 10-10 m = l o
+A)
+ Hence   r=0.529 o
+A(n2)           ..............................      (14 )
+ By putting the values of na s 1,2.3,4............. the radi i of orbits of hydrogen atom are
+    n=1  r1=0.529 o
+A  n=4   r4=8.4 o
+A
+    n=2  r2=2.11 o
+A  n=5   r5=13.22 o
+A
+    n =3  r3=4.75 o
+A   
+ The  comparison of radii shows that the distance between orbits of H -atom goes on increasing 
+as we move from 1st orbit to higher orbits. The orbits are not equally spaced.
+   21 32 43r -r <r -r <r -r <..........................
+The  second orbit is four times away from the nucleus than irst or bit, third orbit is nine times 
+away and similarly fourth orbit is sixteen times away.205.ATOMIC STRUCTURE eLearn.Punjab
+Energy of Revolving Electron
+ The total energy of an electron in an orbit is composed of two parts,  the kinetic energy which 
+is equal to 2 1mv2 and the potential energy. The value of potential energy can be calcu lated as follows.
+ The electrostatic force of attraction between the nucleus and the electron is given by pe2
+2
+0Ze
+4r . 
+If the electron moves through a small distance dr, then the work done for moving electron is given 
+by
+   
+ pe2
+2
+0Zedr
+4r     because work=(force x distance)
+ In order to calculate the potential energy of the electron at a distanc e r from the nucleus, we 
+calculate the total work done for bringing the electron from ininity to a point at a distance r from 
+the nucleus. This can be obtained by integrating the above expression  between the limits of ininity 
+and r.
+  pp p p p∞ ∞∞ = = = = − ∈∈ ∈ ∈ ∈  ∫∫r rr 22 2 2 2
+22
+00 0 0 0Ze dr Ze dr Ze -1 Ze -1 Ze
+4r 4 r 4 r 4 r 4r
+ The work done is the potential energy of electron, so
+ Work done =     pe= −2
+potential
+0ZeE4r                           ........................ .......        (15)
+The  minus sign indicates that the potential energy of electron decreas es, when it is brought from 
+ininity to a point at a distance ’r’ from the nucleus. At ininity , the electron is not being attracted by 
+any thing and the potential energy of the system is zero. Whereas a t a point nearer the nucleus, it 
+will be attracted by the nucleus and the potential energy becomes l ess than zero. The quantity less 
+than zero is negative. For this reason, the potential energy given by equ ation (15) is negative.215.ATOMIC STRUCTURE eLearn.Punjab
+The  total energy (E) of the electron, is the sum of kinetic and potenti al charges.
+ So,   kinetic potential EE E= +  
+   pe2
+2
+o1 Ze=  mv  - 2 4r          ..............................                   (16)
+ 
+ Now, we want to eliminate the factor of velocity from equation (16). So,  from equation (9), 
+substitute the value of mv2 in eq. (16)
+ Since         p=∈2
+2
+0Zemv4r      ...................................                     (9)
+  
+      pp= −∈∈22
+00Ze ZeE8r 4r    
+      
+Simplifying it,     p= −∈2
+0ZeE8r               .................................... ..                        (17)
+Now substitute the value of r from eq (12) into eq (17) we get
+ Since       ∈22nh
+mZe      ..............................                          (12)
+              24
+n 2 22
+0-mZ eE8 nh=∈        ..............................                          (18)
+ Where En is the energy of nth orbit.
+ For hydrogen atom , the number of protons in nucleus is one, so (  Z = 1).
+      4
+n 22 2
+0me 1E8 hn= −∈                ................................                          (19)225.ATOMIC STRUCTURE eLearn.Punjab
+ Eq.(19) gives the energy of electron revolving around the nucleus of hydrogen atom.
+ The  factors outside the brackets in equation (19) are all consta nts. When the values of these 
+constants are substituted along with their units, then it comes out to be 2.178 x 10 -18 J. The equation 
+(19) can be written as,
+   
+    
+-18
+n 21E  = -2.178x10 Jn                  .............................                          (20)
+ This equation (20) gives the energy associated with electron in th e nth orbit of hydrogen atom. Its 
+negative value shows that electron is bound by the nucleus i.e. electron is under the force of attraction of the 
+nucleus. Actually, the electron has been brought from ininity to di stance r from the nucleus. 
+ The  value of energy obtained for the electron is in joules/atom. If, this quantity is multiplied 
+by Avogadro’s number and divided by 1000, the value of En will become
+    23 18
+-1
+n 26.02 10 2.18 10 1E kJmol1000 n−××× =−×
+    -1
+n 21313.315E kJmoln= −            ....................................                         (21)
+ This  energy is associated with 1.008g of H-atoms i.e. with Avogadro’s number of atoms of 
+hydrogen.
+ Substituting, the values of n as 1,2,3,4,5, etc. in equation (2 1), we get the energy associated 
+with an electron revolving in 1st, 2nd, 3rd, 4th and 5th orbits of  H-atom.
+    -1
+1 21313.31E  = -  = -1313.31 kJmol1
+    = −-1
+2 21313.31E = -328.32 kJmol2
+    = −-1
+3 21313.31E = -145.92 kJmol3235.ATOMIC STRUCTURE eLearn.Punjab
+ = −-1 1313.31E = - 82.08 kJmol
+ = −-1
+5 21313.31E = -52.53 kJmol5
+ 
+ ∞= −∞-1
+21313.31E = 0 kJmol (electron is free from the nucleus)
+ The values of energy diferences between adjacent orbits can be calc ulated as follows
+E2-E1    = (-328.32)-(-1313.31)  = 984.99 kJmol-1 
+E3-E2    = (-145.92)-(-328.32)  = 182.40 kJmol-1 
+E4-E3    = (-82.08)-(-145.92)  = 63.84 kJmol-1 
+ The diferences in the values of 
+energy go on decreasing from lower 
+to higher orbits.
+     
+21 32 43E -E >E -E >E -E >..........................
+ The energy diference between 
+irst and ininite levels of energy is 
+calculated as:
+   E„ - E1 = 0 - (-1313.31) = 1313.31 
+kJmol-1
+1313.31 kJmol-1 is the ionization 
+energy of hydrogen. This value 
+is the same as determined 
+experimentally.  These values show 
+that the energy diferences between 
+adjacent orbits of Bohr’s model of hydrogen atom go on decreasing sh arply. 
+Keep in mind, that distances between adjacent orbits increase. The F ig (5.12) makes the idea 
+clear. 
+Fig (5.12) Energy values associated with an
+electron in vanous orbits in hydrogen atom245.ATOMIC STRUCTURE eLearn.Punjab
+5.5 SPECTRUM
+ When  a radiation of light is passed through a prism, the ra diation undergoes refraction or 
+bending. The extent of bending 
+depends upon the wavelength of 
+the photons. A radiation of longer 
+wavelength is bent to a smaller 
+degree than the radiation of a 
+shorter wavelength. Ordinary, 
+white light consists of radiation 
+of all wavelengths, and so after 
+passing through the prism, white 
+light is splitted up into radiations of 
+diferent wavelengths.
+ The colours of visible 
+spectrum are violet, indigo, blue, 
+green, orange, yellow and red and 
+their wavelengths range from 400 
+nm to 750 nm. In addition to the 
+visible region of the spectrum, there 
+are seven other regions. Ultraviolet, 
+X-rays, y-rays and cosmic rays are 
+towards the lower wavelength end 
+of the spectrum and they possess 
+the photons with greater energies. On the other side of the visible regi on, there lies infrared, 
+microwave and radio frequency regions. Fig. (5.13) shows the c ontinuity of wavelengths for all 
+types of regions of spectrum. Hence, a visual display or dispe rsion of the components of white 
+light, when it is passed through a prism is called a spectr um. 
+Fig (5.13) The visible and other
+regions of spectrum255.ATOMIC STRUCTURE eLearn.Punjab
+Spectrum is of two types.
+ (i)  Continuous spectrum (ii)  Line spectrum
+ 5.5.1 Continuous Spectrum
+ In this type of spectrum, the boundry line between the colours cann ot be marked. The colours 
+difuse into each other. One colour merges into another without any d ark space. The best example 
+of continuous spectrum is rainbow. It is obtained from the light em itted by the sun or incandescent 
+(electric light) solids. It is the characteristic of matter in bul k. 
+5.5.2 Atomic or Line Spectrum
+When an element or its compound is volatilized on a lame and the lig ht emitted is seen through 
+a spectrometer, We see distinct lines separated by dark spaces. T his type of spectrum is called 
+line spectrum or atomic spectrum. This is characteristic of an atom. The number of lines and 
+the distance between them depend upon the element volatilized. For exampl e, line spectrum of 
+sodium contains two yellow coloured lines separated by a deinite di stance. Similarly, the spectrum 
+of hydrogen consists of a number of lines of diferent colours havin g diferent distances from 
+each other. It has also been observed that distances between the lines for  the hydrogen spectrum 
+decrease with the decrease in wavelength and the spectrum becomes conti nuous after a certain 
+value of wavelength Fig (5.14).
+Fig (5.14) Atomic spectrum of hydrogen265.ATOMIC STRUCTURE eLearn.Punjab
+ Atomic spectrum can also be observed when elements in gaseous state ar e heated at high 
+temperature or subjected to an electric discharge.
+ There are two ways in which an atomic spectrum can be viewed.
+(i)  Atomic emission spectrum
+(ii)  Atomic absorption spectrum
+5.5.3 Atomic Emission Spectrum
+When solids are volatilized or elements in their gaseous states are h eated to high temperature or 
+subjected to an electrical discharge, radiation of certain wavelength s are emitted. The spectrum 
+of this radiation contained bright lines against a dark backg round. This is called atomic emission 
+spectrum. Fig (5.15)
+5.5.4 Atomic Absorption Spectrum
+ When a beam of white light is passed through a gaseous sample of an element, the element 
+absorbs certain wavelengths while the rest of wavelengths pass thr ough it. The spectrum of this 
+radiation is called an atomic absorption spectrum. The wavelength s of the radiation that have been 
+absorbed by the element appear as dark lines and the backgroun d is bright, Fig (5.16).
+Fig (5.15) Atomic emission spectrum275.ATOMIC STRUCTURE eLearn.Punjab
+Fig (5.16) Atomic absorption spectrum
+ It is  interesting to note that the positions or the wavelengths of lines  appearing in both 
+emission and absorption spectra are exactly the same. In emission spectrum, these lines appear 
+bright because the corresponding wavelengths are being emitted by the element, whereas they 
+appear dark in absorption spectrum because the wavelengths are bein g absorbed by the element.
+5.5.5 Hydrogen Spectrum
+ Hydrogen-spectrum is an important example of atomic spectrum. H ydrogen is illed in a 
+discharge tube at a very low pressure a bluish light is emitted f rom the discharge tube. This light 
+when viewed through a spectrometer shows several isolated sharp lines. 
+ These are called spectral lines. The wavelengths of these lines lie in the visible, ultraviolet and 
+infrared regions. These spectral lines can be classiied into i ve groups called spectral series. These 
+series are named after their discoverers as shown below.
+(i)  Lyman series (U.V region)    (ii)  Balmer series (visib le region)
+(iii)  Paschen series (LR region)    (iv)  Brackett series (I. R region)
+(v)  Pfund series (I.R region)285.ATOMIC STRUCTURE eLearn.Punjab
+ The irst four series were discovered before Bohr’s atomic model (1913 ). The wave numbers 
+(m-1) of the series of lines in hydrogen spectrum are given in Tabl e (5.2).
+ It is seen from the Table (5.2) that as we proceed from Lyman s eries to Pfund series, the wave 
+numbers (m-1) of spectral lines decrease. The lines of Balmer series have been
+given speciic names as H α, H β ........, etc.
+Table (5.2)Wave numbers (m-1) of various series of hydrogen spectrum.
+Lyman series
+(U.V. region)Balmer series
+(Visible region)Paschen series
+(I.R. region)Brackett series
+(I.R. region)Pfund series
+(I.R. region)
+82.20 x 105
+5
+á 1  (5.21 x Hl 10ine)5.30 x 1052.46 x 1051.34 x 105
+97.20 x 105
+5
+â 2  (0.60 x Hl 10ine)7.80 x 1053.80 x 1052.14 x 105
+102.20 x 105
+5
+ã ( 23.5 x Hl 10ine)9.12 x 1054.61 x 105
+105.20 x 105
+5
+ä 2  (4.35 x Hl 10ine)9.95 x 105
+106.20 x 105525.18 x 10
+107.20 x 105
+5.5.6 Origin of Hydrogen Spectrum on the Basis of Bo hr’s Model
+According to Bohr, electron in hydrogen atom may revolve in any orbi t depending upon its energy. 
+When hydrogen gas is heated or subjected to an electric discharge, its electron moves from one 
+of the lower orbit to higher orbit, absorbing particular wavelength of  energy. Subsequently, when 
+it comes back, the same energy is released. This energy is obs erved as radiation of particular 
+wavelengths in the form of bright lines seen in the certain region of  the emission spectrum of 
+hydrogen gas.295.ATOMIC STRUCTURE eLearn.Punjab
+The spectral lines of Lyman series are produced when the electron ju mps from n2= 2, 3,4,5, to, n, 
+= 1 (Lyman did not know this reason). Similarly, spectral lines of Balmer series discovered in 1887 
+originated when an electron jumps from n2 = 3, 4, 5, 6,................. to n1= 2orbit.
+ In  the same way, Paschen, Brackett and Pfund series of lines  are produced as a result of 
+electronic transitions from higher orbits to 3rd, 4th and 5th orbits , respectively Fig (5.17).
+ 
+Calculations of Wave Numbers of Photons of Various Spec tral Series by Bohr’s Theory
+ The wavelength ( l ) or wave number ( v) of a spectral line depends on the quantity of energy 
+emitted by the electron. Suppose, an electron jumps from n2 to n, and emits a photon of light. 
+According to Bohr’s equation of energy
+Fig (5.17) Electronic transitions in hydrogen atom and series of spectral lines, justiied by Bohr's model atom305.ATOMIC STRUCTURE eLearn.Punjab
+     24
+1 22 2
+01-Z meE8 nh=∈
+     24
+2 22 2
+02-Z meE8 nh=∈
+E1 and  E2 are the energies of electrons in n1 and n2 respectively. The energy diference between the 
+two can be calculated as follows:
+ ∆= = ∈ 24
+21 22 2 2
+0 12Z me 1 1E E -E - Joules8 hnn              ..........................                (22)
+ For H-atom; Z - 1
+ and =∈4
+-18
+22
+0me2.18 x 10 J8h(by putting the values of constants)
+ 
+   = -18
+22
+1211ÄE 2.18x10 - Joulesnn          ......................................             (23)
+With the help of equation (23), the energy diference between any two orb its of Hatom can be 
+calculated where nt is the lower level and n2 is higher level. It is not necessary that n1 and n2 are 
+adjacent orbits.
+ Since      ÄE  = hv
+ Therefore    4
+22 2 2
+0 12me 1 1hv -8 hnn= ∈ 
+     = ∈ 4
+23 2 2
+0 12me 1 1v - Hz8 hnn                  ...............................      (24)315.ATOMIC STRUCTURE eLearn.Punjab
+ Frequency (v) has the units of the cycles s-1 or Hz. (1 Hz = 1 cycle s-1)
+ Equation (24)  gives us the frequency of a photon emitted, when electr on jumps from higher 
+orbit to lower orbit in H-atom. The frequency values go on decreasing between adjacent levels.
+Calculation of Wave Number
+ Since       v=cv
+ Putting in equation (24)
+ Therefore     24
+23 2 2
+0 12Z me 1 1cv -8 hnn= ∈ 
+   = ∈ 24
+-1
+23 2 2
+0 12Z me 1 1v -m8 hc n n          ..............................       (25)
+The value of the factor 4
+23
+0me
+8 hc∈ in eq. (25) has been calculated to be 1.09678 x 107m-1
+This is called Rydberg constant. Putting Z = 1 for hydrogen a tom, the equation (25)becomes.
+    7 -1
+22
+1211v 1.09678 10 - mnn= ×               ..........................        (26 )
+Equation (26) gives the values of wave number of photons emitted or abs orbed when the electron 
+jumps between n1 and n2 orbits.
+  Let us calculate, the wave numbers of lines of various series.325.ATOMIC STRUCTURE eLearn.Punjab
+Lyman Series: Fig. (5.17)
+ 
+Fitrst line  n1 = 1(lower orbit),  n2 = 2 (higher orbit)
+    = ×= 7 5 -1
+2211v 1.09678 10 - 82.26x10 m12
+ Second line  n1 = 1  n2 = 3
+    = ×= 7 5 -1
+2211v 1.09678 10 - 97.49x10 m13
+ Limiting line  n1 = 1  n2 = ∞
+    = ×= ∞7 5 -1
+2211v 1.09678 10 - 109.678x10 m1
+ Limiting line is developed, when electron jumps from ininte orbit to,  n = 1
+ The  values of all these wave numbers lie in the U.Y region of th e spectrum. It means that 
+when electron of H-atom falls from all the possible higher levels to n  = 1, then the photons of 
+radiation emitted lie in the range of U.V region.
+Balmer Series: Fig (5.17)
+ Fitrst line  n1 = 2,  n2 = 3
+    = ×= 7 5 -1
+2211v 1.09678 10 - 15.234x10 m23335.ATOMIC STRUCTURE eLearn.Punjab
+Second line  n1 = 2  n2 = 4
+    = ×= 7 5 -1
+2211v 1.09678 10 - 20.566x10 m24
+ Third line  n1 = 2  n2 = 5
+    = ×= 7 5 -1
+2211v 1.09678 10 - 23.00x10 m25
+ Limiting line  n1 = 2  n2 = ∞
+    = ×= ∞7 5 -1
+2211v 1.09678 10 - 27.421x10 m2
+ The limiting line of Balmer series lies in U.V region, while oth er lines fall in visible region. 
+Similarly, we can calculate the wave numbers for all the lines  of Paschen, Brackett and Pfund series. 
+These three series of lines lie in the infrared region.
+5.5.7 Defects of Bohr’s Atomic Model
+1.  Bohr’s theory can successfully explain the origin of the sp ectrum of H-atom and ions like 
+He+1, Li+2 and Be+3, etc. These are all one electron systems. But this theory is not able to explain the 
+origin of the spectrum of multi-electrons or poly-electrons system li ke He, Li and Be, etc.
+2.  When the spectrum of hydrogen gas is observed by means of a high resolving power 
+spectrometer, the individual spectral lines are replaced by several ver y ine lines, i.e. original lines 
+are seen divided into other lines. The Hα- line in the Balmer series is found to consist of ive - 
+component lines. This is called ine structure or multiple struc ture. Actually, the appearance of 
+several lines in a single line suggests that only one quantum num ber is not suicient to explain the 
+origin of various spectral lines.345.ATOMIC STRUCTURE eLearn.Punjab
+3.  Bohr  suggested circular orbits of electrons around the nucleu s of hydrogen atom, but 
+researches have shown that the motion of electron is not in a single plane, but takes place in three 
+dimensional space. Actually, the atomic model is not lat.
+4.  When  the excited atoms of hydrogen (which give an emission line spectrum) are placed in a 
+magnetic ield, its spectral lines are further split up into cl osely spaced lines. This type of splitting 
+of spectral lines is called Zeeman efect. So, if the source which is producing the Na - spectrum 
+is placed in a weak magnetic ield, it causes the splitting of tw o lines of Na into component lines. 
+Similarly, when the excited hydrogen atoms are placed in an electr ical ield, then similar splitting 
+of spectral lines takes place which is called “Stark efect”. Boh r’s theory does not explain either 
+Zeeman or Stark efect.
+ However, in 1915, Sommorfeld suggested  the moving electrons might d escribe in addition to 
+the circular orbits elliptic orbits as well wherein the nucleus lies at one of the focii of the ellipse.
+5.6 X-RA YS AND ATOMIC NUMBER
+ X-rays are produced when rapidly moving electrons collide with  heavy metal anode in the 
+discharge tube. Energy is released in the form of electromagnetic waves when the electrons are 
+suddenly stopped. In the discharge tube, the electrons produced by a  heated tungsten ilament are 
+accelerated by high voltage Fig. (5.18). It gives them suicient en ergy to bring about the emission 
+of X-rays on striking the metal target. X-rays are emitted from the target in all directions, but only a 
+small portion of them is used for useful purposes through the wind ows. The wavelength of X-rays 
+produced depends upon the nature of the target metal. Every metal has  its own characteristic 
+X-rays.355.ATOMIC STRUCTURE eLearn.Punjab
+The  X-rays are passed through a slit in platinum plate and then emerged through aluminum 
+window. This is thrown on a crystal of K4[Fe(CN)6], which analyses the X-ray beam. The rays are 
+difracted from the crystal and are obtained in the form of line sp ectrum of X-rays. This is allowed 
+to fall on photographic plate. This line spectrum is the charac teristic of target material used. This 
+characteristic X-rays spectrum has discrete spectral lines. T hese are grouped into K-series, L-series 
+and M-series, etc. Each series has various line as K α, K β, L α, L β, M α, M β etc.
+A systematic and comprehensive study of X-rays was undertaken by  Moseley in 1913-1914. His 
+researches covered a range of wavelengths 0.04 - 8 A. He employed thi rty eight diferent elements 
+from aluminium to gold, as target in X-rays tube. Moseley was able to draw the following important 
+conclusions from a detailed analysis of the spectral lines whi ch he obtained.
+(i)  The spectral lines could be classiied into two distinct  groups. One of shorter wavelengths 
+are identiied by K-series and the other of comparatively longer waveleng ths are identiied by 
+L-series. 
+(ii)  If the target element is of higher atomic number the wavelength  of X-rays becomes shorter.
+(iii)  A  very simple relationship was found between the frequenc y (v) of a particular line of X-rays 
+and the atomic number Z of the element emitting it.
+       v  = a(Z-b)           ..................            (27)Fig (5.18) Production of X-rays365.ATOMIC STRUCTURE eLearn.Punjab
+ Here ‘a’ and ‘b’ are the constants characteristic of the metal und er consideration. This linear 
+equation (27) is known as Moseley’s Law. ‘a” is proportionality   constant and ‘b’ is called screening 
+constant of the metals.
+This  law states that the frequency of a spectral line in X-ray spectrum varies as the square of 
+atomic number of an element emitting it.  This law convinces us that it is the atomic number and 
+not the atomic mass of the element which determines its characteristic properties, both physical 
+and chemical. If value of v for K-series are plotted against Z, then a straight line is obtai ned.
+Importance of Moseley Law
+(i) Moseley arranged K and Ar, Ni and Co in a proper way i n Mendeleev’s periodic table.
+(ii) This law has led to the discovery of many new elements like Tc(43), Pr(59), Rh(45).
+(iii) The atomic number of rare earths have been determined by th is law.
+5.7 WAVE-PARTICLE NATURE OF MATTER (DUAL NATURE OF 
+MATTER)
+ Planck’s quantum theory of radiation tells us that light shows a dual character. It behaves 
+both as a material particle and as a wave. This idea was exten ded to matter particles in 1924 by 
+Louis de- Broglie. According to de-Broglie, all matter particles in motion have a dual character. It 
+means that electrons, protons, neutrons, atoms and molecules possess the  characteristics of both 
+the material particle and a wave.
+This is called wave-particle duality in matter. de-Broglie deri ved a mathematical equation which 
+relates the wavelength ( l) of the electron to the momentum of electron.
+             h=mvl   ........................                   (28) 
+ Here l = de-Broglie’s wavelength,
+  m = mass of the particle
+  v = velocity of electron
+ According to this equation, the wavelength associated with an electron  is inversely proportional 
+to its momentum (mv).375.ATOMIC STRUCTURE eLearn.Punjab
+ This equation is derived as follows.
+ According to Planck’s equation
+   E = hv          ........................                   
+ According to Einstein’s mass energy relationship
+   2E = mc
+          ........................                   (29)
+ Where ’m’ is the mass of the material particle which has to con vert itself into a photon; ‘and c’ 
+is the velocity of photon. Equating two values of energy;
+       2hv=mc
+ Since
+       lcv=
+ So,    l2 hc = mc
+  or 
+ lh=mc         ........................        (30)
+According  to equation (30), the wavelength of photon is inversely pr oportional to the momentum of 
+photon. Considering that nature is symmetrical, we apply this equ ation (30) to the moving electron 
+of mass’m’ and velocity V. This idea gives us the de-Broglie’s eq uation (28)
+       lh=mv            ........................                   (28)
+ According  to equation (28), the wavelength of electron is inversely proportional to momentum 
+of electron. Now, consider an electron which is moving with a velocity  of 2.188x106 ms-1 in the irst 
+orbit of Bohr’s model of hydrogen atom. Then, wavelength associating  with it, can be calculated 
+with the help of equation(28)
+   h = 6.626x10-34 Js
+   me = 9.108x10-31 kg
+   
+   l−
+−×
+× ××34
+31 6 -16.626 10 Js=9.108 10 kg 2.188 10 ms  Since 2 -2(J = kg m  s )
+    l=0.33x10-9m      (10-9m=1mm)
+    l=0.33 nm
+ This value of wavelength ( l)of electron while moving in the irst orbit of H-atom is comparable 
+to the wavelength of X-rays and can be measured.385.ATOMIC STRUCTURE eLearn.Punjab
+ If we imagine a proton moving in a straight line with the same vel ocity as mentioned for 
+electron, it’s wavelength will be 1836 times smaller than that of elec tron. Similarly, an α-particle 
+moving with the same velocity should have a wavelength 7344 times smal ler as compared to that 
+of ejectron. Now, consider a stone of mass one gram moving with a veloc ity of 10 ms-1, then its 
+wavelength will be:
+    l−
+−×
+×34
+3 -16.626 10 Js=10 kg 10ms
+      = 6.626x10-30 m
+This wavelength is so small, that it cannot be measured by any c onceivable method. It means that 
+heavy material particles have waves associated with them, but they ca nnot be captured and we say 
+that the macroscopic bodies don’t have the waves.
+5.7.1 Experimental Veriication of Dual Nature of Matt er
+ In 1927, two  American scientists, Davisson and Germer did a n experiment to verify the wave 
+nature of moving electron. Electrons were produced from heated tungsten il ament and accelerated 
+by applying the potential diference through charged plates. Davisson  and Germer proved that the 
+accelerated electrons undergo difraction, like waves, when they fall on a nickel crystal. In this way, 
+the wave nature of electron got veriied. Davisson ahd Germer got the nobel priz e for inventing 
+an apparatus to prove the matter waves and de Broglie got the separate nob el prize for giving the 
+equation of matter wave.
+5.8 HEISENBERG'S UNCERTAINTY PRINCIPLE
+ According to Bohr’s theory, an electron is a material particle and its position as well as 
+momentum can be determined with great accuracy. But with the advent of  the concept of wave 
+nature of electron, it has not been possible for us to measure simul taneously the exact position 
+and velocity of electron. This was suggested by Heisenberg, in 1 927. 
+ Suppose, that Δx is the uncertainty in the measurement of the position and Δp is the uncertainty 
+in the measurement of momentum of an electron, then
+        p∆∆ ≥hxp4395.ATOMIC STRUCTURE eLearn.Punjab
+This  relationship is called uncertainty principle. This equ ation shows that if Δx is small then Δp 
+will be large and vice versa. So, if one quantity is measured ac curately then the other becomes 
+less accurate. Hence, certainty in the determination of one quantity i ntroduces uncertainty in the 
+determination of the other quantity.
+ The uncertainty principle is applicable only for microscop ic particles like electrons, protons 
+and neutrons, etc. and has no signiicance for large particles,  i.e. macroscopic particles.
+ Compton’s  efect can help us understand the uncertainty principl e, Suppose, we wish to 
+determine the position of electron. Visible light cannot help us, beca use the wavelength of visible 
+light is millions time large as compared to the diameter of electron.  For this purpose, we have to 
+use X-rays which have very short wavelength as  compared to that of visible light. When this photon 
+of X-rays strikes an electron, the momentum of electron will chang e. In other words, uncertainty 
+of momentum will appear due to change of velocity of electron. Smaller  the wavelength of X-rays, 
+greater will be the energy of the photon. Hence, the collision of X-rays  with electron will bring about 
+the greater uncertainty in momentum. So, an efort to determine the exact posi tion of electron has 
+rendered its momentum uncertain. When we use the photons of longer wa velength to avoid the 
+change of momentum, the determination of the position of electron becomes im possible.
+Concept of Orbital
+ Following this principle, the Bohr’s picture of an atom does not appear to be satisfactory. 
+In Bohr’s atom, the electrons are moving with speciic velocities in orb its of speciied radii, and 
+according to uncertainty principle, both these 
+quantities cannot be measured experimentally. 
+A theory involving quantities, which cannot be 
+measured does not follow the tradition of scientiic 
+work.
+ In  order to solve this diiculty, Schrodinger, 
+Heisenberg and Dirac worked out wave theories 
+of the atom. The best known treatment is that 
+of Schrodinger. He set up a wave equation 
+for hydrogen atom. According to Schrodinger, 
+although the position of an electron cannot be 
+found exactly, the probability of inding an electron 
+at a certain position at any time can be found. 
+Fig (5.19) Probable electron density diagram for hydrog en atom.405.ATOMIC STRUCTURE eLearn.Punjab
+The solution of the wave equation gives probability of inding an electr on present in a given small 
+region of space. When the probability of inding the electron at a di stance r from the nucleus is 
+calculated for the hydrogen atom in the ground state, Fig (5.19)  is obtained.
+The maximum probability of inding the electron is at a distance of 0.053 nm. It is the same radius 
+as calculated for the Bohr’s irst orbit. There is a possibility that the electron is either closer to the 
+nucleus or outside the radius of 0.053 nm, where probability of inding electron decreases sharply. 
+ 
+    The volume of space in which there is 95% chance of inding  an electron is called atomic orbital. 
+The term orbital should not be confused with the term orbit as used i n the Bohr’s theory. The 
+orbital can be regarded as a spread of charge surrounding th e nucleus. This is often called the 
+“electron cloud”.
+5.8.1 Quantum Numbers  
+Schrodinger  wave equation, has been solved for hydrogen a t o m .  I t  m a y  h a v e  d i f f e r e n t  
+solutions. Quantum numbers are the sets of numerical values whic h give the acceptable solutions 
+to Schrodinger wave equation for hydrogen atom.  An electron in an a tom is completely described 
+by its four quantum numbers. You know that a complete address of a person comprises his name, 
+city in which he lives, the block, street and the house number. O n the similar grounds, quantum  
+numbers serve as identiicatio numbers or labels, which completely  describe an electron. These 
+quantum numbers specify position of electron in an atom. 
+There are four quantum numbers which can describe the electron c ompletely. 
+(1)  Principal quantum number (n) 
+(2)  Azimuthal quantum number ( ) 
+(3)  Magnetic quantum number (m) 
+(4)  Spin quantum number (s)  Let us discuss these quantum numbers one by one.
+Principal Quantum Number (n)
+The diferent energy levels in Bohr’s atom are represented by ‘n’. Thi s is called principal quantum 
+number by Schrodinger. Its values are non-zero, positive integers u pto ininity.    
+ 
+n = 1, 2, 3, 4, 5,.........................,415.ATOMIC STRUCTURE eLearn.Punjab
+The  value of n represents the shell or energy level in which the elec tron revolves around the 
+nucleus. Letter notations K, L, M, N, etc are also used to denote the vari ous shells. For example, 
+when n =1, it is called K shell, for n = 2, it is L shell  and so on. The values of n also determine the 
+location of electron in an atom, i.e the distance of electron from the nu cleus, greater the value of 
+‘n’ greater will be the distance of electron from the nucleus. It is a quantitative measure of the size 
+of an electronic shell, ‘n’ also provides us the energy of electron in  a shell. Bohr’s results help us to 
+know the relationships of distance and energy of electron.
+Azimuthal Quantum Number (  )
+ It has already been mentioned in the defects of Bohr’s model that a s pectrometer of high 
+resolving power shows that an individual line in the spectrum is f urther divided into several very ine 
+lines. This thing can be explained by saying that each shell  is divided into subshells. So, only principal 
+quantum number (n) is not suicient to explain the line spectrum.  There is another subsidiary 
+quantum number called azimuthal quantum number and is u sed to represent the subshells. The 
+values of azimuthal quantum number ( ) are
+    =0, 1, 2, 3, ...................................... ...............(n-1)
+ Its value depends upon n. These values represent diferent subshells , which are designated 
+by small letters, s, p, d, f. They stand for sharp, princi pal, difused and fundamental, respectively. 
+These are the spectral terms used to describe the series of lines observed  in the atomic spectrum. 
+The values of azimuthal quantum number always start from zero.
+ A subshell may have diferent shapes depending upon the value of (‘’). It may be spherical, 
+dumb-bell, or some other complicated shapes. The value of  ‘ ’ is related to the shape of the 
+subshell as follows:
+   = 0    s-subshell    spherical
+   = 1    p-subshell    dumb-bell
+   = 2    d-subshell    (complicated shape)425.ATOMIC STRUCTURE eLearn.Punjab
+ The relationship between principal and azimuthal quantum n umbers is as follows.
+ n = 1  K-shell {  = 0  {s-subshell  should be called as 1s
+ n = 2  L-shell 0
+1=
+=
+  s-subshell
+p-subshell
+
+      2s
+2p
+ n = 3  M-shell 0
+1
+2=
+=
+=
+
+  s-subshell
+p-subshell
+d-subshell
+
+      3s
+3p
+3d
+ n = 4  N-shell 0
+1
+2
+3=
+==
+=
+
+
+  s-subshell
+p-subshell
+d-subshell
+f-subshell
+
+
+      4s
+4p
+4d
+4f
+ In 1s, 2s, ........, etc, the digit represents the value of pr incipal quantum number.’  ’ values also 
+enable us to calculate the total number of electrons in a given subs hell. The formula for calculating 
+electrons is 2 (2  + 1).
+ 
+  when  = 0   s-subshell   total electrons = 2
+     = 1   p-subshell   total electrons = 6
+     = 2   d-subshell   total electrons = 10
+     = 3   f-subshell   total electrons = 14
+Magnetic Quantum Number (m)
+ In the defects of Bohr’s model, it has been mentioned that strong magn etic ield splits the 
+spectral lines further. In order to explain this splitting, a third quantum number called the magnetic 
+quantum number (m) has been proposed.
+ Its values are
+    m = 0, ± 1, ± 2, ± 3,..........................
+ The value of’m’ depends upon values of ‘ ’435.ATOMIC STRUCTURE eLearn.Punjab
+when  = 0  s-subshell   m=0
+   = 1  p-subshell   m=0, ±1(p-subshell has three degenerate orb itals)
+   = 2  d-subshell   m=0,±1, ±2(d-subshell has ive degenerate orbitals)
+   = 3  f-subshell  m=0,±1, ±2, ±3(f-subshell has  seven d egenerate orbitals)
+ This above description shows that for a given value of ‘’ the total values of’m’ are (2  +1).
+ Actually, the value of m gives us the information of degeneracy of  orbitals in space. It tells 
+us the number of diferent  ways in which a given s, p, d or f -subshell can be arranged along x, y 
+and z-axes in the presence of a magnetic ield. Thus, diferent va lues of’m’ for a given value of ‘ ‘, 
+represent the total number of diferent space orientations for a subshell.
+ In case of s-subshell  = 0, so, m = 0. It implies that s-subshell of any energy level  has only one 
+space orientation and can be arranged in space only in one way along x, y and z-axes. So s-subshell 
+is not sub-divided into any other orbital. The shape of’s’ orbital  is such that the probability of inding  
+the electron in all the directions from the nucleus is the same. It i s a spherical and symmetrical 
+orbital. Fig (5.20).
+ For p-subshell,   = 1 and m = 0, ±1. These values of’m’ imply that p-subsh ell of any energy 
+level has three space orientations  and can be arranged in spac e along x, y, and z axes Fig. (5.21). 
+These three orbitals are perpendicular to each other and named as px, py, and pz. They have egg 
+shaped lobes which touch each other at the origin. They are dispos ed symmetrically along one of 
+the three axes called orbital axis. In the absence of the magnetic iel d, all the three p-orbitals have 
+the same energy and are called degenerate orbitals. Since, they are th ree in number, so these 
+orbitals are said to be 3-fold degenerate or triply degenerate.
+ For d-subshell  = 2 m = 0, ±1, ±2. It  implies that it has ive space orientati ons and are 
+designated as dxy (m = -2), dyz (m = -1), dzx(m = +1), dx2
+-y2(m = +2) and dz2(m - 0) Fig. (5.22).
+ All  these ive d-orbitals are not identical in shape. In the absen ce of a magnetic ield, all ive 
+d-orbitals have the same energy and they are said to be ive fold degener ate orbitals.
+  For f-subshell,  = 3 and m = 0, ±1, ±2, ±3. They have complicated shapes. 
+ The whole discussion shows that magnetic quantum number determin es the orientation of 
+orbitals, so it is also called orbital orientation quantum number.
+Spin Quantum Number (s)
+Alkali metals have one electron in their outermost shell. We can record  their emission spectra, 
+when the outermost electron jumps from an excited state to a ground state. W hen the spectra are 
+observed by means of high resolving power spectrometer, each line in  the spectrum is found to 
+consist of pair of lines, this is called doublet line structure. We should keep it in mind, that doublet 
+line structure is diferent from the ine spectrum of hydrogen (as w e have discussed in azimuthal 
+quantum number).445.ATOMIC STRUCTURE eLearn.Punjab
+It should be made clear that lines of doublet line structure are wi dely separated from each other, 
+while those of ine structure are closely spaced together.
+ In  1925, Goudsmit and Uhlenbech suggested that an electron while moving in an orbital 
+around the nucleus also rotates or spins about its own axis either i n a clockwise or anti-clockwise 
+direction. This is also called self-rotation. This spinning el ectron is associated with a magnetic ield 
+and hence a magnetic moment. Hence, opposite magnetic ields are genera ted by the clockwise 
+and anti-clockwise spins of electrons. This spin motion is res ponsible for doublet line structure in 
+the spectrum.
+ The  four quantum numbers of all the electrons in the irst four shells are summarized in 
+Table (5.3). Notice, that each electron has its own set of quantum n umbers and this set is diferent 
+for each electron.
+Table (5.3) Quantum Numbers of Elections
+Principal
+Quantum
+Number ‘n’Azimuthal
+Quantum
+number ‘  ’Magnetic
+Quantum
+number ‘m’Spin
+Quantum
+number ‘s’Number of
+electrons
+accommodated
+1                  K 0                        
+s 0+½,-½2
+2                  L 0                        
+s
+1                       
+p0
++1,	0,	−1+½,-½
++½,-½2 
+          6        8
+3                 M0                        
+s
+1                        
+p
+2                        
+d0
++1,	0,	−1
++2,	+1,	0,	−1,	−2+½,-½
++½,-½
++½,-½2 
+            6       18
+            10
+4                 N0                        
+s
+1                       
+p
+2                        
+d
+3                          
+f0
++1,	0,	−1
++2,	+1,	0,	−1,	−2
++3,	+2,	+1,	0,	−1,	−2,	−3+½,-½
++½,-½
++½,-½
++½,-½2
+             6        32
+            10
+            14455.ATOMIC STRUCTURE eLearn.Punjab
+5.8.2 Shapes of Orbitals
+ In section 5.8.1, we were introduced to the four types of orbitals  depending upon the values 
+of azimuthal quantum number. These orbitals are s, p, d and  f having azimuthal quantum number 
+values as  = 0,1, 2,3, respectively. Let us, discuss the shapes of these, or bitals.
+Shapes of s-Orbitals
+ s-orbital has a spherical shape and is usually repres ented by a circle, which in turn, represents 
+a cut of sphere, Fig. (5.20). With the increase of value of pri ncipal quantum number (n), the size of 
+s-orbital increases. 2s-orbital is larger in size than ls- orbital. 2s-orbital is also further away form the 
+nucleus Fig. (5.20). The probability for inding the electron i s zero between two orbitals. This place 
+is called nodal plane or nodal surface.
+Fig (5.20) Shapes of s-orbitals with
+increasing principal quantum number465.ATOMIC STRUCTURE eLearn.Punjab
+Shapes of p-Orbitals
+ There  are three values of magnetic quantum numbef for p-subshel l. So, p-subshell has 
+three orientations in space i.e. along x, y and z-axes. All the th ree p-orbitals namely, px, py and pz 
+have dumb-bell shapes, Fig. (5.21). So, p-orbitals have direc tional character which determines the 
+geometry of molecules. All the p-orbitals of  all the energy levels ha ve similar shapes, but with the 
+increase of principal quantum number of the shell their sizes  are increased.
+Shapes of d-Orbitals
+ For d subshell there are ive values of magnetic quantum number. S o, there are ive space 
+orientations along x, yand z-axes. Fig (5.22). They are desi gnated as dxy, dyz, dxz, 22x -yd , 2zd.The lobes 
+of irst three d-orbitals lie between the axis. The other lie on the axis.
+They  are not identical in shape. Four d-orbitals out of these ive con tain four lobes each, while the 
+ifth orbital dz2 consists of only two lobes, Fig (5.22). In the absence of magneti c ield, all the ive 
+d-orbitals are degenerate. The shape of f-orbital is very complicated .
+Fig (5.20) Shapes of p-orbitals475.ATOMIC STRUCTURE eLearn.Punjab
+5.9 ELECTRONIC DISTRIBUTION
+In order to understand the distribution of electrons in an atom, we s hould know the following facts. 
+1.  An orbital like s, px, py, pz and dxy, etc. can have at the most two electrons.
+2. The maximum number of electrons that can be accommodated in  a shell is given by 2n2 formula 
+where n is principal quantum number and it cannot have zero va lue.
+ Moreover, following rules have been adopted  
+to distribute the electrons in subshells or orbitals.
+ 1.  Aufbau principle
+ 2.  Pauii’s exclusion principle
+ 3.  Hand’s rule
+ But, before we use these rules, the subshells should be arranged according to (n + ) rule, 
+Table(5.4). This rule says that subshells are arranged in  the increasing order of (n + ) values and if 
+any two subshells have the same (n + ) values, then that subshell is placed irst whose n value is 
+smaller. 
+ The arrangement of subshells in ascending order of their energy  may be as follows: 1s, 2s, 2p, 
+3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s and so no.
+Fig (5.22) Shapes of d-orbitals485.ATOMIC STRUCTURE eLearn.Punjab
+Aufbau Principle
+  The electrons should be illed in energy 
+subshells in order of increasing energy values. 
+The electrons are irst placed in Is, 2s, 2p and 
+soon.
+Pauli’s Exclusion Principle
+ This principle can be stated as follows:
+ It is impossible for two electrons residing 
+in the same orbital of a poly-electron atom to 
+have the same values of four quantum num-
+bers, or Two electrons in the same orbital 
+should have opposite spins ( ↓↑).
+Hund’s Rules
+ If, degenerate orbitals are available and more than one electrons a re to be placed in them, 
+they should be placed in separate orbitals with the same spin ra ther than putting them in the same 
+orbital with opposite spins.
+ According to the rule, the two electrons in 2p subshell of carbon will be distributed as follows.
+      o
+6 xyzC 1 2 2p 2p 2pss↓↑ ↓↑ ↑ ↓
+=
+ The three orbitals of 2p subshell are degenerate.n  n + 
+1s 1 0 1 + 0 = 1
+2s 2 0 2 + 0 = 2
+2p 2 1 2 + 1 = 3
+3s 3 0 3 + 0 = 3
+3p 3 1 3 + 1 = 4
+3d 3 2 3 + 2 = 5
+4s 4 0 4 + 0 = 4
+4p 4 1 4 + 1 = 5
+4d 4 2 4 + 2 = 6
+4f 4 3 4 + 3 = 7
+5s 5 0 5 + 0 = 5
+5p 5 1 5 + 1 = 6
+5d 5 2 5 + 2 = 7
+5f 5 3 5 + 3 = 8
+6s 6 0 6 + 0 = 6
+6p 6 1 6 + 1 = 7
+6d 6 2 6 + 2 = 8
+6f 6 3 6 + 3 = 9
+7s 7 0 7 + 0 = 7Table (5.4) Arrangement of orbitals
+according to (n+1) rule495.ATOMIC STRUCTURE eLearn.Punjab
+5.9.1 Electronic Coniguration of Elements
+ Keeping in view the rules mentioned above, the electronic conigurations of  irst thirty six 
+elements are given in Table (5.5).
+Element Atomic
+numberElectron Coniguration
+Notation
+Hydrogen 1
+1s↑
+Helium 2 1s2
+Lithium 3
+21s 2s↑
+Beryllium 4 1s22s2Table (5.5) Electron conigurations of elements505.ATOMIC STRUCTURE eLearn.Punjab
+Element Atomic
+numberElectron Coniguration
+Notation
+Boron 5
+0022
+xyz 1s 2s 2p 2p 2p↑
+Carbon 6
+022
+xyz 1s 2s 2p 2p 2p↑↑
+Nitrogen 7
+22
+xyz 1s 2s 2p 2p 2p↑↑ ↑
+Oxygen 8
+22 2
+xyz 1s 2s 2p 2p 2p↑↑
+Fluorine 9
+22 2 2
+x yz 1s 2s 2p 2p 2p↑
+Neon 1022 2 2 2
+xyz 1s 2s 2p 2p 2p
+Sodium 11
+[Ne]3s↑
+Magnesium 12
+[Ne]3s↑↓
+Aluminum 13
+002
+xyz [Ne]3s 3p 3p 3p↑
+Silicon 14
+02
+xyz [Ne]3s 3p 3p 3p↑↑
+Phosphorus 15
+2
+xyz [Ne]3s 3p 3p 3p↑↑↑
+Sulphur 16
+22
+xyz [Ne]3s 3p 3p 3p↑↑
+Chlorine 17
+22 2
+x yz [Ne]3s 3p 3p 3p↑
+Argon 1822 2 2
+xyz [Ne]3s 3p 3p 3p
+Potassium 19
+[Ar] 4s↑
+Calcium 202[Ar] 4s
+(continued on next page)Table (5.5) continued515.ATOMIC STRUCTURE eLearn.Punjab
+Element Atomic
+numberElectron Coniguration
+Notation
+Scandium 21
+22 2000 02
+xy yz xz x -y z [Ar] 4s 3d 3d 3d 3d 3d↑
+Titanium 22
+22 200 02
+xy yz xz x -y z [Ar] 4s 3d 3d 3d 3d 3d↑↑
+Vanadium 23
+22 2002
+xy yz xz x -y z [Ar] 4s 3d 3d 3d 3d 3d↑↑↑
+Chromium 24
+22 2xy yz xz x -y z [Ar] 4 3d 3d 3d 3d 3ds↑↑ ↑ ↑ ↑ ↑
+Manganese 25
+22 222
+y zx zx - y zxy [Ar] 4s 3d 3d 3d 3d 3d↑↑↑ ↑
+Iron 26
+22 222 2
+xz x -y zxy yz [Ar] 4s 3d 3d 3d 3d 3d↑↑ ↑
+Cobalt 27
+22 22
+x -y zxy yz xz [Ar] 4s 3d 3d 3d 3d 3d↑↑
+Nickel 28
+2
+222
+zxy yz xz x -y[Ar] 4s 3d 3d 3d 3d 3d↑
+Copper 29
+22 22222 2
+xy yz xz x -y z[Ar] 4s3d 3d 3d 3d 3d↑
+Zinc 30
+22 222 2 2 2 2
+xy yz xz x -y z[Ar] 4s 3d 3d 3d 3d 3d
+Gallium 31
+002 10
+z [Ne]4s 3d 4p 4p 4pxy↑
+Germanium 32
+02 10
+z [Ne]4s 3d 4p 4p 4pxy↑↑
+Arsenic 33
+2 10
+z [Ne]4s 3d 4p 4p 4pxy↑↑↑
+Selenium 34
+2 10 2
+z [Ne]4s 3d 4p 4p 4pxy↑↑
+Bromine 35
+2 10 2 2
+z [Ne]4s 3d 4p 4p 4pxy↑
+Krypton 362 10 2 2 2
+z [Ne]4s 3d 4p 4p 4pxy525.ATOMIC STRUCTURE eLearn.Punjab
+KEY POINTS
+1. Matter is made up of extremely small particles called atoms.
+2. Cathode rays and positive rays were discovered during discharg e tube experiments. The 
+properties of cathode rays showed them to be negatively charged partic les called electrons, 
+whereas, the positive rays were found to contain positively charged pa rticles called protons.
+3. Neutron was discovered through artiicial radioactivity.
+4. Electrons, protons and neutrons are regarded as the fundamental particles of an atom.
+5. Rutherford discovered the nucleus and successfully explained the p resence of moving electrons 
+around the nucleus.
+6. In 1905, Planck put forward his famous Planck’s qua ntum theory.
+7. Neil Bohr explained the structure of hydrogen atom by using Plan ck’s quantum theory. He also 
+calculated the radius and energy of electron in the nth shell of hy drogen atom.
+8. Bohr’s atomic model successfully explained the origin of line s pectrum and the lines present in 
+the spectrum of hydrogen atom in the visible and invisible regions.
+9. X-rays are produced when rapidly moving electrons collide with heavy metal anode in the 
+discharge tube.
+10. Moseley discovered a simple relationship between the frequency of X-ra ys and the atomic 
+number of the target element.
+11. de-Broglie discovered wave particle duality of material particles. According to him, all material 
+particles in motion have a dual character. Davisson and Germer exper imentally veriied the 
+wave concept of an electron.
+12. Heisenberg pointed out that it is not possible for us, to measure the ex act position and the 
+exact momentum of electron simultaneously.
+13. After the failure of Bohr’s atomic model, Schrodinger developed the wa ve mechanical model 
+of  hydrogen atom. According to him, although the position of an el ectron cannot be found 
+exactly, the probability of inding an electron at a certain position  at any time can be calculated.
+14. An electron in an atom is completely described by its four quan tum numbers. Three out of 
+these four quantum numbers, have been derived from Schrodinger wave eq uation, when it is 
+solved for hydrogen atom.535.ATOMIC STRUCTURE eLearn.Punjab
+EXERCISE
+Q1.  Select the most suitable answer for the given one.
+(i)  The nature of the positive rays depend on
+(a)  the nature of the electrode    (b)   the nature of the discharge tube
+(c)  the nature of the residual gas   (d)   all of the above
+(ii)  The velocity of photon is
+(a)  independent of its wavelength  (b)  depends on its wavelength
+(c)  equal to square of its amplitude  (d)  depends on its sourc e
+(iii)  The wave number of the light emitted by a certain source is 2 x 106 m-1. The wavelength of this light will  
+ be
+(a)  500 nm  (b)  500 m  (c)  200nm  (d)  5xl07m
+(iv)  Rutherford’s model of atom failed because
+(a)  the atom did not have a nucleus and electrons
+(b)  it did not account for the attraction between protons and neutrons
+(c)  it did not account for the stability of the atom
+(d)  there is actually no space between the nucleus and the electrons
+(v)  Bohr model of atom is contradicted by
+(a)  Planck’s quantum theory    (b)  dual nature of matter
+(c)  Heisenberg’s uncertainty principle (d)  all of the ab ove
+(vi)  Splitting of spectral lines when atoms are subjected to strong electric ield is called,
+(a)  Zeeman efect   (b)  Stark efect
+(c)  Photoelectric efect  (d)  Compton efect
+(vii)  In the ground state of an atom, the electron is present
+(a)  in the nucleus     (b)  in the second shell
+(c)  nearest to the nucleus   (d)  farthest from the nucleus
+(viii)  Quantum number values for 2p orbitals are
+(a)  n = 2,  = 1   (b)  n = 1,  = 2
+(c)  n = 1,  = 0   (d)  n = 2,  = 0
+(ix)  Orbitals having same energy are called
+(a)  hybrid orbitals   (b)  valence orbitals
+(c)  degenerate orbitals  (d)  d-orbitals
+(x)  When 6d orbital is complete, the entering electron goes into
+(a)  7f  (b)  7s  (c)  7p  (d)  7d545.ATOMIC STRUCTURE eLearn.Punjab
+Q2.  Fill in the blanks with suitable words.
+(i)  b-particles are nothing but ___________ moving with a very hig h speed.
+(ii)  The charge on one mole of electrons is___________coulomb s.
+(iii)  The mass of hydrogen atom is_____________ grams.
+(iv)  The mass of one mole of electrons is_______________ .
+(v)  Energy is ___________ when electron jumps from higher to  a lower orbit.
+(vi)  The ionization energy of hydrogen atom can be calculated from ______model of atom.
+(vii)  For d-subshell, the azimuthal quantum number has valu e of ___________.
+(viii)  The number of electrons in a given subshell is given by  formula__________ .
+(ix)  The electronic coniguration of H+ is___________ .
+Q3.  Indicate true or false as the case may be.
+(i)  A neutron is slightly lighter particle than a proton.
+(ii)  A photon is the massless bundle of energy but has mom entum.
+(iii)  The unit of Rydberg constant is the reciprocal of unit of  length.
+(iv)  The actual isotopic mass is a whole number.
+(v)  Heisenberg’s uncertainty principle is applicable to ma croscopic bodies.
+(vi)  The nodal plane in an orbital is the plane of zero electron density.
+(vii)  The number of orbitals present in a sublevel is given by the formula (2  + 1).
+(viii)  The magnetic quantum number was introduced to explain Zeeman and Stark efect.
+(ix)  Spin quantum number tells us the direction of spin of el ectron around the nucleus.
+Q 4:  Keeping in mind the discharge tube experiment, answer the f ollowing questions.
+(a)  Why is it necessary to decrease the pressure in the disch arge tube to get the cathode
+rays?
+(b)  Whichever gas is used in the discharge tube, the nature of the cathode rays  remains the 
+same. Why?
+(c)  Why e/m value of the cathode rays is just equal to that of elec tron?
+(d)  How the bending of the cathode rays in the electric and magneti c ields  shows that they 
+are negatively charged?
+(e)  Why the positive rays are also called canal rays?
+(f)  The e/m value of positive rays for diferent gases are difer ent but those for cathode 
+rays  the e/m values are the same. Justify it.
+(g)  The e/m value for positive rays obtained from hydrogen gas i s 1836 times less than that  
+of cathode rays. Justify it.
+Q5 (a)  Explain Millikan’s oil drop experiment to determine the charge of an electron.
+(b)  What is J.J Thomson’s experiment for determining e/m value of  electron?555.ATOMIC STRUCTURE eLearn.Punjab
+(c)  Evaluate mass of electron from the above two experiments.
+Q6 (a) Discuss Chadwick’s experiment for the discovery of neu tron. Compare the properties of electron,  
+  proton and neutron.
+(b)  Rutherford’s atomic model is based on the scattering of a-particles from a thin gold foil. Discuss  
+ it and explain the conclusions.
+Q7. (a)  Give the postulates of Bohr’s atomic model. W hich postulate tells us that orbits are stationary and  
+  energy is quantized?
+(b)  Derive the equation for the radius of nth orbit of hydrogen atom using Bohr’s model.
+(c)  How does the above equation tell you that
+(i)  radius is directly proportional to the square of the number of  orbit.
+(ii) radius is inversely proportional to the number of protons in th e nucleus.
+(d)  How do you come to know that the velocities of electrons in higher orbits, are less than those in  
+ lower orbits of hydrogen atom?
+(e)  Justify that the distance gaps between diferent orbits go on in creasing from the lower to the  
+ higher orbits.
+Q8  Derive the formula for calculating the energy of an electron  in nth orbit using Bohr’s model. Keeping in  
+ view this formula explain the following:
+(a)  The potential energy of the bounded electron is negative.
+(b)  Total energy of the bounded electron is also negative.
+(c)  Energy of an electron is inversely proportional to n2, but energy of higher orbits are 
+always greater than those of the lower orbits.
+(d)  The energy diference between adjacent levels goes on decreasing  sharply.
+Q9.  (a)  Derive the following equations for hydrogen atom, which  are related to the
+ (i)  energy diference between two levels, n1 and n2.
+ (ii)  frequency of photon emitted when an electron jumps from n2to n1.
+ (iii)  wave number of the photon when the electron jumps from n2 to n1.
+(b)  Justify that Bohr’s equation for the wave number can explain  the spectral lines of Lyman, Balmer  
+ and Paschen series.
+Q10.  (a) What is spectrum. Diferentiate between continuous spectru m and line spectrum.
+(b)  Compare line emission and line absorption spectra.
+(c)  What is the origin of line spectrum?
+Q11.  (a)  Hydrogen atom and He+ are mono-electronic system, but the size of He+ is much smaller than H+,  
+  why?
+(b)  Do you think that the size of Li+2 is even smaller than He+? Justify with calculations.565.ATOMIC STRUCTURE eLearn.Punjab
+Q12. (a) What are X-rays? What is their origin? How was the idea of atomic number derived from   
+          the  discovery of X-rays?
+(b)  How does the Bohr’s model justify the Moseley’s equation?
+Q13.  Point out the defects of Bohr’s model. How these defects are partia lly covered by dual nature  
+          of  electron and Heisenberg’s uncertainty principle?
+Q14. (a) Briely discuss the wave mechanical model of atom. How has it given the idea of orbital.   
+          Compare orbit and orbital.
+(b)  What are quantum numbers? Discuss their signiicance.
+(c)  When azimuthal quantum number has a value 3, then there a re seven values of magnetic 
+quantum number. Give reasons.
+Q15.  (a) Discuss rules for the distribution of electrons in ener gy subshells and in orbitals.
+(b)      What is (n + ) rule. Arrange the orbitals according to this rule. Do you think that this 
+rule is applicable to degenerate orbitals?
+(c)  Distribute electrons in orbitals of 57La, 29Cu, 79Au, 24Cr, 531, 86Rn.
+Q16  Draw the shapes of s, p and d-orbitals. Justify these by  keeping in view the azimuthal and  
+         magnetic  quantum numbers.
+Q17  A photon of light with energy 10-19 J is emitted by a source of light.
+(a)      Convert this energy into the wavelength, frequency and wave number of the photon in 
+terms of meters, hertz and m-1, respectively.
+(Ans:1.51xl014s-1; 1.98x10-6m; 5xl05m-1)
+(b)  Convert this energy of the photon into ergs and calculate the wa velength in cm, frequency 
+in Hz  and wave number in cm-1.
+  [h = 6.626x 10-34 Js or 6.625x 10-27 ergs, c = 3x108 ms-1 or 3x 10+10 cms-1]
+(Ans:1.51xl014s-1; 1.98xl0-4cm; 5xl03cm-1)
+Q18  The formula for calculating the energy of an electron in h ydrogen atom given by Bohr’s model
+       e=24
+n 222
+0-m eE8 hn
+          Calculate the energy of the electron in irst orbit of hydr ogen atom. The values of various 
+parameters are                          same as provided in  Q19.      
+(Ans:-2.18xlO-18J)
+Q 19  Bohr’s equation for the radius of nth orbit of electron in hydrogen atom is
+       p∈=22
+0
+n 2hnrem575.ATOMIC STRUCTURE eLearn.Punjab
+(a)  When the electron moves from n = 1 to n = 2, how much does the radius of the orbit 
+increases. 
+(Ans: 1.587 o
+A)
+(b)  What is the distance travelled by the electron when it goes from n=2 to n=3 and n=9 
+ton=10?
+ [ e0 = 8.85x 10-12 c2J-1 m-1 , h = 6.624 x.10-34 js, p = 3.14, m = 9.108x 10-31 kg, e = 1.602 x 10-19c]
+ while doing calculations take care of units of energy parameter.
+   [J = kgm2 s-2, c = kg1/2 m3/2 s-1]       
+(Ans: 2.65 o
+A; 10.05 o
+A)
+Q 20  Answer the following questions, by performing the calcul ations.
+(a)     Calculate the energy of irst ive orbits of hydrogen atom and  determine the energy   
+diferences between them.
+(b)  Justify that energy diference between second and third orbits i s approximately ive 
+times smaller than that between irst and second orbits.
+(c)  Calculate the energy of electron in He+ in irst ive orbits and  justify that the energy 
+diferences are diferent from those of hydrogen atom.
+(d)  Do you think that groups of the spectral lines of He+ are at diferent places than those 
+for hydrogen atom? Give reasons.
+Q 21  Calculate the value of principal quantum number if an  electron in hydrogen atom revolves in   
+          an orbit of  energy- 0.242 xlO-18 J.          
+(Ans:n=3)
+Q 22  Bohr’s formula for the energy levels of hydrogen atom for any  system say H, He+,Li2+ ,etc. is
+       e=24
+n 22
+02-Z e mE8 hn
+    or
+       2
+n 2ZE -Kn=
+ For hydrogen:Z = 1 and for He+, Z = 2.
+(a) Draw an energy level diagram for hydrogen atom and He+ .
+(b)  Thinking that K = 2.18 x 10-18J, calculate the energy needed to remove the electron from   
+          hydrogen atom and from He+.         
+(Ans: 2.18 x 10-18J; 8.72x10-18J)585.ATOMIC STRUCTURE eLearn.Punjab
+(c)  How do you justify that the energies calculated in (b) are th e ionization energies of H and He+?
+(d)  Use Avogadro’s number to convert ionization energy values in kJ mol-1 for H and He+.
+(Ans: 1313.3kJmol-1; 5249.4kJmol-1)
+(e) The experimental values of ionization energy of H and He+ are 1331  kJ mol-1 and 5250  kJ mol-1, 
+ respectively. How do you compare your values with experimental values ?  
+(Ans: 5249kJ mol-1)
+Q 23 Calculate the wave number of the photon when the electron jumps fr om
+ (i)  n = 5   to  n = 2.          (Ans: 2.3 x 106 m-1)
+ (ii)  n = 5   to  n = 1          (Ans: 1.05 x 107 m-1 )
+ In which series of spectral lines and spectral regions these p hotons will appear.
+(Ans: (i) Balmer Series (ii) Lyman Series)
+Q 24  A photon of a wave number 102.70 x 10 m is emitted when el ectron jumps from higher to n = 1.
+(a)  Determine the number of that orbit from where the electron falls.      
+(Ans: n=4)
+(b)  Indicate the name of the series to which this photon belongs.   
+(Ans: Lyman series)
+(c)      If the electron will fall from higher orbit to n = 2, then calculate the wave number of the photon  
+ emitted. Why this energy diference is so small as compared to th at in part (a)?
+(Ans: 20.5 x 105m-1)
+Q 25. (a) What is de-Broglie’s wavelength of an electron in meters  travelling at half a speed of light?
+   [m = 9.109 x 10-31 kg , c = 3 x 108 ms-1]
+(Ans: l=0.048 o
+A)
+(b)   Convert the mass of electron into grams and velocity of light in to cms-1 and then calculate 
+the wavelength of an electron in cm.        (Ans:0.048x10-8 cm)
+(c)  Convert the wavelength of electron from meters to
+ (i) nm  (ii) o
+A   (iii) pm.         
+(Ans: 0.0048nm; 0.048; 4.85o
+Apm)

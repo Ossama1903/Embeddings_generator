@@ -1,0 +1,1027 @@
+CHAPTER
+1    BASIC CONCEPTS
+Animation 1.1: Spectrometer
+Source & Credit: gascell21.BASIC CONCEPTS eLearn.Punjab
+1.1 ATOM
+Long time ago, it was thought that matter is made up of simple, ind ivisible particles. Greek 
+philosophers thought that, matter could be divided into smaller and  smaller particles to reach 
+a basic unit, which could not be further sub-divided. Democritus  (460-370 B.C.) called these 
+particles atomos, derived from the word “atomos” means indivisible. H owever, the ideas of Greek 
+philosophers were not based on experimental evidences.
+In the late 17th century, the quantitative study of the composition of pu re substances disclosed 
+that a few elements were the components of many diferent substances. It w as also investigated 
+that how, elements combined to form compounds and how compounds cou ld be broken down 
+into their constituent elements.
+In 1808, an English school teacher, John Dalton, recognized tha t the law of conservation of matter 
+and the law of deinite proportions could be explained by the existence of atoms. He developed 
+an atomic theory; the main postulate of which is that all matter is composed of atoms of diferent 
+elements, which difer in their properties.
+Atom is the smallest particle of an element, which can take part in a chemical reaction.  For 
+example, He and Ne, etc. have atoms, which have independent existence w hile atoms of hydrogen, 
+nitrogen and oxygen do not exist independently.
+The modern researches have clearly shown that an atom is further composed of subatomic 
+particles like electron, proton, neutron, hypron, neutrino, anti-ne utrino, etc. More than 100 such 
+particles are thought to exist in an atom. However, electron, proton and neutron are regarded as 
+the fundamental particles of atoms.
+Animation 1.2: Atom
+Source & Credit: 123gifs31.BASIC CONCEPTS eLearn.Punjab
+A Swedish chemist J. Berzelius- (1779-1848) determined the atomi c masses of elements. A number 
+of his values are close to the modern values of atomic masses. Berz elius also developed the system 
+of giving element a symbol.
+1.1.1   Evidence of Atoms  
+It is not possible actually to see the atoms but the nearest possibility  to its direct evidence is by 
+using an electron microscope. A clear and accurate image of an object that is smaller than the 
+wavelength of visible light, cannot be obtained. Thus an ordinary optical microscope can measure 
+the size of an object upto or above 500 nm (lnm = 10-9m). However, objects of the size of an atom 
+can be observed in an electron microscope. It uses beams of electrons i nstead of visible light, 
+because wavelength of electron is much shorter than that of visible l ight. 
+Animation 1.3:Made of Atom
+Source & Credit: imgur41.BASIC CONCEPTS eLearn.Punjab
+Fig. (1.1) shows electron microscopic photograph of a piece of 
+a graphite which has been magniied about 15 millions times. 
+The bright band in the igure are layers of carbon atoms.
+In the 20th century, X-ray work has shown that the diameter of 
+atoms are of the order 2x10-10 m which is 0.2 nm. Masses of atoms 
+range from 10-27 to 10-25 kg. They are often expressed in atomic 
+mass units (amu) when 1 amu is = 1.661 x 10-27 kg. The students 
+can have an idea about the amazingly small size of an atom from  
+the fact that a full stop may have two million atoms present in it.
+ Fig (1.1) Electron microscopic
+photograph of graphite
+1.1.2  Molecule
+A molecule is the smallest particle of a pure substance  which can exist independently.  It may 
+contain one or more atoms. The number of atoms present in a molecule d etermines its atomicity. 
+Thus molecules can be monoatomic, diatomic and triatomic, etc., if  they contain one, two and three 
+atoms respectively. Molecules of elements may contain one, two or more same type of atoms. For 
+example, He, Cl2, O3, P4, S8. On the other hand, molecules of compounds consist of diferent kind  of 
+atoms. For example, HCl, NH3, H2SO4,C6H12O6.
+The sizes of molecules are deinitely bigger than atoms. They depend upon the number of atoms 
+present in them and their shapes. Some molecules are so big that they  are called macromolecules. 
+Haemoglobin is such a macromolecule found in blood. It helps to c arry oxygen from our lungs to 
+all parts of our body. Each molecule of haemoglobin is made up of nearly 10,000 atoms and it is 
+68,000 times heavier than a hydrogen atom.
+1.1.3  Ion
+Ions are those species which carry either positive or  negative charge.  Whenever an atom of an 
+element loses one or more electrons, positive ions are formed.51.BASIC CONCEPTS eLearn.Punjab
+A suicient amount of energy is to be provided to a neutral atom to ionize it.
+ +-A A  + e→
+This A+ is called a cation. A cation may carry +1, +2, +3, etc.ch arge or charges. The number of charges 
+present on an ion depends upon the number of electrons lost by the atom . Anyhow, energy is always 
+required to do so. Hence the formation of the positive ions is an endotherm ic process. The most 
+common positive ions are formed by the metal atoms such as Na+, K+, Ca2+, Mg2+ , Al3+, Fe3+, Sn4+, etc. 
+The chapter on chemical bonding will enable us to understand the feasibilities of their formation.
+When a neutral atom picks up one or more electrons, a negative ion is produced, which is called an 
+anion.
+    -B +e B−→
+Energy is usually released when an electron is added to the is olated neutral atom, Therefore, the 
+formation of an uninegative ion is an exothermic process.The most common negative ions are 
+2,Cl , ,F Br S−− − −etc. 
+The cations and anions possess altogether diferent properties from their  corresponding neutral 
+atoms. There are many examples of negative ions which consist of gr oup of atoms like OH-, CO32-, 
+SO42-, PO43-, MnO41-, Cr2O72-  etc. The positive ions having group of atoms are less common e.g. NH4+ 
+and some carbocations in organic chemistry.
+1.1.4 Molecular Ion
+When an atom loses or gains an electron, it forms an ion. Simila rly, a molecule may also lose or 
+gain an electron to form a molecular ion, e.g., CH4+, CO+, N2+ 
+Cationic molecular ions are more abundant than anionic ones. 
+These ions can be generated by passing high energy electron 
+beam or α-particles or X-rays through a gas. The break down 
+of molecular ions obtained from the natural products can 
+give important information about their structure.
+Animation 1.4: Molecules
+Source & credit: wikimedia61.BASIC CONCEPTS eLearn.Punjab
+1.2 RELATIVE ATOMIC MASS
+Relative atomic mass is the mass of an atom of an element as compared to the mass of an 
+atom of carbon taken as 12.
+The unit used to express the relative atomic mass is called atomic  mass unit (amu) and it is 1/12 
+th of the mass of one carbon atom, On carbon -12 scale, the relative atomic mass of 12
+6C
+            is 12.0000 
+amu and the relative atomic mass of 1
+1H is 1.008 amu. The masses of the atoms are extremely 
+small. We-don’t have any balance to weigh such an extremely small mass, that is why we use the 
+relative atomic mass unit scale. 
+The relative atomic masses of some elements are given in the following  Table (1.1).
+Table (1.1) Relative atomic masses of a few element s
+ElementRelative Atomic Mass
+(amu) ElementRelative Atomic Mass
+(amu)
+H
+O
+Ne1.008
+15.9994
+20.1797Cl
+Cu
+U35.453
+63.546
+238.0289
+These element have atomic masses in fractions and will be explai ned in the following article on 
+isotopes.
+1.3 ISOTOPES
+In Dalton’s atomic theory, all the atoms of an element were considered a like in all the properties 
+including their masses. Later on, it was discovered that atoms of the same element can possess 
+diferent masses but same atomic numbers. Such atoms of an element are called isotopes . 
+So isotopes are diferent kind of atoms of the same element having same atom ic number, but 
+diferent atomic masses. The isotopes of an element possess same chemica l properties and same 
+position in the periodic table. This phenomenon of isotopy was irst d iscovered by Soddy. Isotopes 
+have same number of protons and electrons but they difer in the number  of neutrons present in 
+their nuclei.71.BASIC CONCEPTS eLearn.Punjab
+Carbon has three isotopes written as 12
+6C , 13
+6C , 14
+6C and expressed as C-12, C-13 and C-14. Each of these 
+have 6-protrons and 6 electrons. However, these isotopes have 6, 7 and 8  neutrons respectively. 
+Similarly, hydrogen has three isotopes  1
+1H, 2
+1H ,  3
+1H called protium, deuterium and tritium. Oxygen 
+has three, nickel has ive, calcium has six, palladium has  six, cadmium has nine and tin has eleven 
+isotopes.
+1.3.1 Relative Abundance of Isotopes
+The isotopes of all the elements have their own natural abundance. Th e properties of a particular 
+element, which are mentioned in the literature, mostly correspond to the m ost abundant isotope 
+of that element. The relative abundance of the isotopes of elements can b e determined by mass 
+spectrometry. Animation 1.5: Basic Concepts
+Source & Credit: pixshark81.BASIC CONCEPTS eLearn.Punjab
+Table (1.2) shows the natural abundance of some common isotopes.
+Table (1.2) Natural abundance of some common isotopes .
+Element Isotope Abundance (%) Mass (amu)
+Hydrogen
+Carbon
+Nitrogen
+Oxygen
+Sulphur
+Chlorine
+Bromine
+We know at present above 280 diferent isotopes occur in nature. They in clude 40 radioactive 
+isotopes as well. Besides these about 300 unstable radioactive isotopes  have been produced 
+through artiicial disintegration. The distribution of isotopes among  the elements is varied and 
+complex as it is evident from the Table (1.2). The elements like ars enic, luorine, iodine and gold, 
+etc have only a single isotope. They are called mono-isotopic elements.
+In general, the elements of odd atomic number almost never possess more than two stable isotopes. 
+The elements of even atomic number usually have larger number of is otopes and isotopes whose 
+mass numbers are multiples of four are particularly abunda nt. For example, l6O, 24Mg, 28Si, 40Ca and 
+56Fe form nearly 50% of the earth’s crust. Out of 280 isotopes that oc cur in nature, 154 have even 
+mass number and even atomic number.
+1.3.2 Determination of Relative Atomic Masses of Is otopes by Mass Spectrometry
+Mass spectrometer is an instrument which is used to m easure the exact masses of diferent 
+isotopes of an element.  In this technique, a substance is irst volatilized and then ioni zed with the 
+help of high energy beam of electrons. The gaseous positive ions, thus  formed, are separated on 
+the basis of their mass to charge ratio (m/e) and then recorded in the form of peaks. Actually mass 
+spectrum is the plot of data in such a way that (m/e) is plotted as abscissa (x-axis) and the relative 
+number of ions as ordinate (y-axis).12H, H 
+12 13C, C 
+14 15N, N 
+16 17 18O, O, O 
+32 33 34 36S, S, S, S 
+36 37Cl, Cl 
+79 81Br, Br 99.985, 0.015
+98.893, 1.107
+99.634, 0.366
+99.759, 0.037,0.204
+95.0, 0.76, 4.22, 0.014
+75.53, 24.47
+50.54, 49.491.007825, 2.01410
+12.0000, 13.00335
+14.00307 15.00011
+15.99491, 16.99914, 17.9916
+31.97207, 32.97146, 33.96786, 35.96709
+34.96885, 36.96590
+78.918, 80.91691.BASIC CONCEPTS eLearn.Punjab
+First of all, Aston’s mass spectrograph was designed to identify  the isotopes of an element 
+on the basis of their atomic masses. There is another instrument ca lled Dempster’s mass 
+spectrometer. This was designed for the identiication of elements which  were available in 
+solid state.
+The substance whose analysis for the separation of isotopes is req uired, is converted into the 
+vapour state. The pressure of these vapours is kept very low, that is,  10-6 to 10-7 torr. These 
+vapours are allowed to enter the ionization chamber where fast moving electrons arc thrown 
+upon them. The atoms of isotopic element present in the form of vapours, are ionized. These 
+positively charged ions of isotopes of an element have diferent masses dep ending upon the 
+nature of the isotopes  present in them.
+The positive ion of each isotope has its own (m/e) value. When a potentia l diference (E) of 
+500-2000 volts is applied between perforated accelerating plates, then these positive ions are 
+strongly attracted towards the negative plate. In this way, the ions a re accelerated.
+These ions are then allowed to pass through a strong magnetic ield of  strength (H), which will 
+separate them on the basis of their (m/e) values. Actually, the magn etic ield makes the ions 
+to move in a circular path. The ions of deinite m/e value will move i n the form of groups one 
+after the other and fall on the electrometer.
+The mathematical relationship for (m/e) is
+2m/e = H r/2E
+Where H is the strength of magnetic ield, E is the strength of electric al ield, r is the radius of 
+circular path. If E is increased, by keeping H constant then radius will increase and positive ion 
+of a particular m/e will fall at a diferent place as compared  to the irst place. This can also be 
+done by changing the magnetic ield. Each ion sets up a minute el ectrical current.
+Electrometer is also called an ion collector and develops the electrical current. The strength of 
+the current thus measured gives the relative abundance of ions of a dei nite m/e value.
+Similarly, the ions of other isotopes having diferent masses are mad e to fall on the collector 
+and the current strength is measured. The current strength in eac h case gives the relative 
+abundance of each of the isotopes. The same experiment is performed with C-12 isotope and 
+the current strength is compared. 
+This comparison allows us to measure the exact mass number of th e isotope Fig. (1.2), shows 
+the separation of isotopes of Ne. Smaller the (m/e) of an isotope, sma ller the radius of curvature 
+produced by the magnetic ield according to above equation.101.BASIC CONCEPTS eLearn.Punjab
+In modern spectrographs, each ion strikes a detector, the ionic curr ent is ampliied and is fed to the 
+recorder. The recorder makes a graph showing the relative abunda nce of isotopes plotted against 
+the mass number.
+The above Fig (1.3) shows a computer plotted graph for the isotopes of  neon.
+The separation of isotopes can be done by the methods based on their p roperties. Some important 
+methods are as gaseous difusion, thermal difusion, distillation,  ultracentrifuge, electromagnetic 
+separation and laser separation.
+1.3.3 Average Atomic Masses
+Table (1.1) of atomic masses of elements shows many examples of  fractional values. Actually 
+the atomic masses depend upon the number of possible isotopes and their natural abundance. 
+Following solved example will throw light on this aspect.
+Example (1):
+A sample of neon is found to consist of 20
+10Ne, 21
+10Ne and 22
+10Ne in the percentages of 90.92%, 0.26%, 
+8.82% respectively. Calculate the fractional atomic mass of neon.
+Solution:
+The overall atomic mass of neon, which is an ordinary isotopic m ixture, is the average of the de-
+termined atomic masses of individual isotopes. Hence
+Average atomic mass =   20x90.92 21x0.26 22x8.8220.18100Answer++=
+Fig (1.3) Computer plotted graph 
+for the isotopes of neon
+ Fig(1.2) Diagram of a simple Mass 
+Spectrometer111.BASIC CONCEPTS eLearn.Punjab
+Hence the average atomic mass of neon is 20.18 amu
+It is important to realize that no individual neon atom in the sample has a mass of 20.18 amu. For 
+most laboratory purposes, however, we consider the sample to consist of atoms with this average 
+mass.
+1.4 ANAL YSIS OF A COMPOUND - EMPIRICAL AND MOLECULA R 
+FORMULAS
+Before we go into the details of empirical and molecular formulas of  a compound, we should be 
+interested to know the percentage of each element in the compound. For this purpose all the 
+elements present in the compound are irst identiied. 
+This is called qualitative analysis. After that the compound is subjected to quantitative analysis 
+in which the mass of each element in a sample of the compound i s determined. From this we 
+determine the percentage by mass of each element. The percentage of an el ement in a compound 
+is the number of grams of that element present in 100 grams of the c ompound.
+Example (2):
+8.657 g of a compound were decomposed into its elements and gave 5. 217 g of carbon, 0.962 g of 
+hydrogen, 2.478 g of oxygen. Calculate the percentage composition  of the compound under study.
+Solution:
+Applying the formula
+Mass of carbon 5.217Percentage of carbon = x 100 =  x 100  60.28 AnswerMass of the compound 8.657g
+g=
+Mass of hydrogen 0.962Percentage of hydrogen = x 100 = x 100  11.11 AnswerMass of the compound 8.657g
+g=
+Mass of oxygen 2.478Percentage of oxygen = x 100 = x 100  28.62 AnswerMass of the compound 8.657g
+g=Mass of the element in the compoundPercentage of an element = x  100mass of the compound121.BASIC CONCEPTS eLearn.Punjab
+The above results tell us that in one hundred grams of the given comp ound, there are 60.26 grams 
+of carbon, 11.11 grams of hydrogen and 28.62 grams of oxy gen.
+Percentage composition of a compound can also be determined theoreticall y if we know the formula 
+mass of the compound. The following equation can be used for this purpose.
+Mass of the element in one mole of the compoundPercentage of an element = x 100Formula mass of the compound
+1.4.1 Empirical Formula
+It is the simplest formula that gives the small whole number ratio b etween the atoms of diferent 
+elements present in a compound. In an empirical formula of a com pound, AxBy, there are x atoms 
+of an element A and y atoms of an element B. 
+The empirical formula of glucose (C6H12O6) is CH2O and that of benzene (C6H6) is CH.
+Empirical formula of a compound can be calculated following the steps mentioned below:
+1. Determination of the percentage composition.
+2. Finding the number of gram atoms of each element. For this purpose  divide the mass of each 
+element (% of an element) by its atomic mass.
+3. Determination of the atomic ratio of each element. To get this, divide the num ber of moles of 
+each element (gram atoms) by the smallest number of moles.
+4. If the atomic ratio is simple whole number, it gives the empirical formula, otherwise multiply 
+with a suitable digit to get the whole number atomic ratio.
+Example (3):
+Ascorbic acid (vitamin C) contains 40.92% carbon, 4.58% h ydrogen and 54.5% of oxygen by mass. 
+What is the empirical formula of the ascorbic acid?
+Solution:
+From the percentages of these elements, we believe that in 100 grams of  ascorbic acid, there are 
+40.92 grams of carbon, 4.58 grams of hydrogen and 54.5 g rams of oxygen.131.BASIC CONCEPTS eLearn.Punjab
+Divide these masses of the elements (or percentages) by their atomic masses  to get the number of 
+gram atoms.
+ 
+    14.58gNo. of gram atoms of hydrogen =  =  4.54  gram atoms1.008 gmol−
+    154.5gNo. of gram atoms of oxygen =  =  3.406 gram atoms16 gmol−
+Atomic ratio is obtained by dividing the gram atoms with 3.406,  which is the smallest number.
+      
+ 
+   
+To convert them into whole numbers, multiply with three
+     C:H:O = 3(1 : 1.33 : 1) = 3 : 4 : 3 Answ er
+This  whole number ratio gives us the subscripts for the empiri cal formula of the ascorbic acid 
+i.e.,C3H4O3.
+1.4.2 Empirical Formula from Combustion Analysis
+Those organic compounds which simply consist of carbon, hydr ogen and oxygen can be analyzed 
+by combustion. The sole products will be CO2 and H2O. These two products of combustion are 
+separately collected.3.41 4.54 3.406C:H:O =  :  : 3.406 3.406 3.406140.92gNo. of gram atoms of carbon =  =   3.41 gram atoms12.0 gmol−
+C:H:O = 1 : 1.33 : 1141.BASIC CONCEPTS eLearn.Punjab
+Combustion Analysis
+A weighed sample of the organic compound is placed in the combu stion tube. This combustion tube 
+is itted in a furnance. Oxygen is supplied to burn the compound . Hydrogen is converted to H2O 
+and carbon is converted to CO2. These gases are absorbed in Mg (ClO4)2 and 50% KOH respectively. 
+(Fig 1.4). The diference in the masses of these absorbers gives us  the amounts of H2O and CO2 
+produced. The amount of oxygen is determined by the method of diference.
+Following formulas are used to get the percentages of carbon, hydrogen  and oxygen, respectively.
+The percentage of oxygen is obtained by the method of diference.
+% of oxygen = 100 - (% of carbon + % of hydrogen) .
+Example (4):
+A sample of liquid consisting of carbon, , hydrogen and  oxy gen was subjected to combustion 
+analysis. 0.5439 g of the compound gave 1.039 g of CO2, 0.6369. g of H2O.
+Determine the empirical formula of the compound.
+Solution:
+Mass of organic Compound  = 0.5439 g
+Mass of carbon dioxide   = 1.039g
+Mass of water     = 0.6369 g 
+Fig(1.4) Combustion analysis
+2 Mass of CO 12.00% of carbon =  x  x 100Mass of organic compound 44.00
+2 Mass of H O 2.016% of hydrogen =  x  x 100Mass of organic compound 18151.BASIC CONCEPTS eLearn.Punjab
+Element % No. of Gram
+atomsAtomic
+RatioEmpirical
+formula
+C
+H
+O
+1.4.3 Molecular Formula
+That formula of a substance which is based on the actual molec ule is called molecular formula. It 
+gives the total number of atoms of diferent elements present in the molecule of  a compound. For 
+example, molecular formula of benzene is C6H6 while that of glucose is C6H12O6.
+The empirical formulas of benzene and glucose are CH and CH2O respectively, so for these 
+compounds the molecular formulas are the simple multiple of empir ical formulas. Hence
+Molecular formula = n (Empirical formula)
+Where ‘n’ is a simple integer. Those compounds whose empirical  and molecular formulae are the 
+same are numerous. For example, H2O, CO2, NH3 and C12H22O11 have same empirical and molecular 
+formulas. Their simple multiple ‘n’ is unity. Actually the  value of ‘n’ is the ratio of molecular mass 
+and empirical formula mass of a substance.
+Molecular massn = Empirical formula mass0.6369g 2.016x x1000.5439 18
+                         =13.11g1.039g 12.00x x1000.543 44.00
+                         =52.108g
+100 (52.108 13.11)
+                     =34.77−+52.1084.3412=
+13.11 = 13.011.008
+34.77 = 2.1716.004.3422.17=
+13.0162.17=
+2.1712.17=26CHO161.BASIC CONCEPTS eLearn.Punjab
+Example (5):
+The combustion analysis of an organic compound shows it to contai n 65.44% carbon, 5.50% 
+hydrogen and 29.06% or oxygen. What is the empirical formula of the compound? If the molecular 
+mass of this compound is 110.15 g.mol-1. Calculate the molecular formula of the compound.
+Solution:
+First of all divide the percentage of each element by its atomic mass  to get the number of gram 
+atoms or moles.
+     65.44 g of CNo of gram atoms of C =  = 5.45 gram ato ms of C12 g / mol
+Molar ratio:                 
+C :  H : O
+5.45 : 4.46 : 1.82
+                  
+Divide the number of gram atoms by the smallest number i.e 1.82
+                                                      C  : H                  : O
+                                                     5.45
+1.82   : 5.46
+1.82                 :       1.82
+1.82
+                                                         3    :   3               : 1
+Carbon, hydrogen  and oxygen are present in the given organic com pound in the ratio of 3:3:1. So 
+the empirical formula is C3H3O.5.50 g of HNo of gram atoms of hydrogen =  =  5.46 gram atoms of H1.008 g / mol
+29.06 g of ONo of gram atoms of oxygen =  = 1.82 gra m atoms of O16.00 g / mol171.BASIC CONCEPTS eLearn.Punjab
+In order to determine the molecular formula, irst calculate the empiri cal formula mass. 
+Empirical formula mass  = 12 x 3 + 1.008 x 3 + 16 x 1 = 55.05 g/mol
+Molar mass of the compound  = 110.15g.mol-1
+Molar mass of the compound 110.15n =  =   = 2Empirical formula mass 55.05
+Molecular formula                       = n (empirical formula)
+                                                        = 2 (C3H3O) =C6H6O2  Answer
+There are many possible structures for this molecular formula.
+1.5 CONCEPT OF MOLE
+We know that atom is an extremely small particle. The mass of an individual atom is extremely 
+small quantity. It is not possible to weigh individual atoms or even  small number of atoms directly. 
+That is why, we use the atomic mass unit (amu) to express the atom ic masses.
+For the sake of convenience, the atomic mass may be given in any unit of measurement i.e. grams, 
+kg, pounds, and so on.
+When the substance at our disposal is an element then the atomic mass  of that element expressed 
+in grams is called one gram atom. It is also called one gram  mole or simply a mole of that element.
+Mass of an element in gramsNumber of gram atoms or moles of an elem ent =  Molar mass of an element 
+For example
+1 gram atom of hydrogen   = 1.008 g 
+1 gram atom of carbon  = 12.000 g
+and         1 gram atom of uranium         = 238.0 g
+It  means that one gram atom of diferent elements have diferent masses in  them. One mole of 
+carbon is 12 g, while 1 mole of magnesium is 24g. It also s hows that one atom of magnesium is 
+twice as heavy as an atom of carbon.
+The  molecular mass of a substance expressed in grams is cal led gram molecule or gram mole or 
+simply the mole of a substance.181.BASIC CONCEPTS eLearn.Punjab
+Mass of molecular substance in gramsNumber of gram molecules or moles of a m olecular substance =  Molar mass of the substance
+For example
+1 gram molecule of water   = 18.0 g
+1 gram molecule of H2SO4  = 98.0 g
+and   1 gram molecule of sucrose  = 342.0 g
+It means that one gram molecules of diferent molecular substances ha ve diferent masses.
+The formula unit mass of an ionic compound expressed i n grams is called gram formula of 
+the substance.  Since ionic compounds do not exist in molecular form therefore the su m of atomic 
+masses of individual ions gives the formula mass. The gram f ormula is also referred to as gram 
+mole or simply a mole.
+Mass of the ionic substance in gramsNumber of gram formulas or moles of a su bstance =  Formula mass of the ionic substance
+1 gram formula of NaCl          = 58.50 g 
+1 gram formula of Na2CO3     = 106 g 
+1gram formula of AgNO3       = 170g
+It may also be mentioned here that ionic mass of an ionic spec ies expressed in grams is called one gram ion or 
+one mole of ions.
+For example
+1 g ion of OH- = 17g 
+1 g ion of SO42-=96g 
+1 g ion of CO32- =60g
+So, the atomic mass, molecular mass, formula mass or ionic mass  of the substance expressed 
+in gram is called molar mass of the substance.Mass of the ionic species in gramsNumber of gram ions or moles of an speci es =  Formula mass of the ionic species191.BASIC CONCEPTS eLearn.Punjab
+Example (6):
+Calculate the gram atoms (moles) in
+(a)  0.1 g of sodium.
+(b)  0.1 kg of silicon.
+Solution
+ Mass of element in gram(a) No. of gram atoms =  Molar mass
+Mass of sodium = 0.1 g
+Molar mass = 23 g/mol
+10.1gNumber of gram atoms of sodium =  =  0.0043 mol23 gmol−
+ = -34.3 x 10  mol  Answer
+(b) First of all convert the mass of silicon into grams. 
+Mass of silicon = 0.1 kg   = 0.1 x 1000 = 100 g 
+Molar mass   = 28.086 gmol-1
+ 
+1100 gNumber of gram atoms of silicon =  =  3.56 moles  Answer28.086 gmol−
+Example (7):
+Calculate the mass of 10-3 moles of MgSO4.
+Solution:
+MgSO4 is an ionic compound. We will consider its formula mass in  place of molecular mass.
+   Mass of the ionic substanceNumber of gram formula or mole of a subs tance =  Formula mass of the ionic substance201.BASIC CONCEPTS eLearn.Punjab
+Formula mass of MgSO4  = 24 + 96 = 120 gmol-1
+  Number of moles of MgS04 = 10-3moles
+Applying the formula
+10-3 4
+1Mass of MgSO
+gmo=  12 l0 −   
+    Mass of MgSO4 = 10-3 moles x 120gmol-1
+      = 120 x 10-3 = 0.12 g Answer
+1.5.1 Avogadro's Number
+Avogadro's number is the number of atoms, molecules and ions in on e gram atom of an element, 
+one gram molecule of a compound and one gram ion of a substance,  respectively.
+To understand Avogadro's number let us consider the following quan tities of substances.
+1.008 g of hydrogen  = 1 mole of hydrogen  = 6.02 x 1023 atoms of H
+23 g of sodium             = 1 mole of Na            = 6 .02 x1O23 atoms of Na
+238 g of uranium                      = 1 mole of U             = 6.02 x 1023 atoms of U
+This number, 6.02 x 1023 is the number of atoms in one mole of the element. It is interesting  to know that 
+diferent masses of elements have the same number of atoms. An atom of sodium is 23 times heavier than an 
+atom of hydrogen. In order to have equal number of atoms sodium sh ould be taken 23 times greater in mass 
+than hydrogen. Magnesium atom is twice heavier than carbon; i.e.  10g of Mg and 5 g of C contain the same 
+number of atoms.
+18 g of H2O             =1 mole of water  =6.02 x 1023 molecules of water
+180 g of glucose  = 1 mole of glucose = 6.02 x 1023 molecules of glucose
+342 g of sucrose  = 1 mole of sucrose = 6.02 x 1023 molecules of sucrose
+Hence, one mole of diferent compounds has diferent masses but has the same number of 
+molecules.
+ When we take into consideration the ions, then
+  96 g of SO42- = 1 mole of SO42- = 6.02 x 1023 ions of SO42-
+  62 g of NO3-  = 1 mole of NO3- = 6.02 x 1023 ions of NO3-211.BASIC CONCEPTS eLearn.Punjab
+From the above discussion, we reach the conclusion that the number 6. 02 X 1023 is equal to one 
+mole of a substance. This number is called Avogadro’s number a nd it is denoted by NA.
+Following relationships between amounts of substances in terms of thei r masses and the number 
+of particles present in them, are useful
+A Mass of the element x N1)     Number of atoms of an element =  Atomic mass
+A Mass of the compound x N2)     Number of molecules of a compound  =  Molecular mass
+When we have compounds of known mass we can calculate the number  of atoms from their 
+formulas. In 18 g of water there are present 6.02 x 1023 molecules of H2O, 2 x 6.02 x 1023 atoms of 
+hydrogen and 6.02 x 1023 atoms of oxygen. Similarly, in 98g of H2SO4, it has twice the Avogadro’s 
+number of hydrogen atoms, four times the Avogadro’s number of oxygen atoms and the Avogadro’s 
+number of sulphur atoms.
+Some substances ionize in suitable solvents to yield cations and an ions. The  number of such ions, 
+their masses, number of positive and negative charges can be easi ly calculated from the known 
+amount of the substance dissolved. Let us dissolve 9.8 g of H2SO4 in suicient quantity of H2O to 
+get it completely ionized. It has 0.1 moles of H2SO4. It will yield 0.2 mole or 0.2 x 6.02 x 1023 H+ and 
+0.1 moles or 0.1 x 6.02 x 1023 SO42- etc. Total positive charges will be 0.2 x 6.02 x 1023 and the total 
+negative charges will be 0.2 x 6.02 x 1023 (because each SO42-, has two negative charges). The total 
+mass of H+ is (0.2 x 1.008)g and that of SO42- is (0.1 x 96) g.
+Example (8):
+How many molecules of water are there in 10.0 g of ice? Also cal culate the number of atoms of 
+hydrogen and oxygen separately, the total number of atoms and the cova lent bonds present in the 
+sample.A Mass of the ion x N3)     Number of ions of an ionic specie s  =  Ionic mass221.BASIC CONCEPTS eLearn.Punjab
+Solution:
+Mass of ice (water) = 10.0 g
+Molar mass of water =18gmol-1
+  1Mass of water in gramNumber of molecules of water =  x Avogad ro's numberMolar mass of water in g l mo−
+      23
+-110 =  x 6.02 x 1018 g mol
+Number of molecules of water = 0.55 x 6.02 x 1023   = 233.31  10x Answer
+One molecule of water contain hydrogen atoms    = 2
+3.31 x 1023 molecules of water contain hydrogen atoms   = 2 x 3.31 x 1023
+                                                                                                                    = 236.68  10x  Answer
+One molecule of water contains oxygen atom          = 1
+3.31 x 1023 molecules of water contain oxygen atoms          = 233.31  10x Answer
+One molecule of water contains number of covalent bonds  =2 
+3.31 x 1023 molecules of water contain number of covalent bonds = 2 x 3.31 x  1023
+                                                                                                                       = 236.68  10x Answer
+Total number of atoms of hydrogen and oxygen                             = 6.68 x 1023 + 3.31 x 1023
+                              = 239.99  10x  Answer
+Example (9):
+10.0 g of H3PO4 has been dissolved in excess of water to dissociate it completely into ions.
+Calculate,
+a) Number of molecules in 10.0 g of H3PO4.
+b) Number of positive and negative ions in case of complete dissociati on in water.
+c) Masses of individual ions.
+d) Number of positive and negative charges dispersed in the solution .
+Solution:
+(a)  Mass of H3PO4     =10 g
+Molar mass of H3PO4   =3 + 31 + 64 = 98
+No. of molecules of H3P04  =34
+3423 Mass of  H PO =  x 6.02 x 10Molar mass of H PO231.BASIC CONCEPTS eLearn.Punjab
+= 0.102 x 6.02 x 1023
+= 0.614 x 1023
+= 226.14 x 10 Answer
+(b) H3PO4 dissolves in water and ionizes as follows 
+H3PO4 ฀ 3H+ +PO43-
+According to the balanced chemical equation
+H3PO4            :  H+
+1   :  3
+6.14 x 1022  :  3 x 6.14 x 1022
+6.14 x 1022  :  1.842 x 1023
+Hence, the number of H+ will be 1.842 x 1023
+H3PO4  :  PO43-
+1            :  1
+6.14 x 1022           :  6.14 x 1022
+Hence, the number of PO43- will be 226.14 x 10  Answer
+(c)  In order to calculate the mass of the ions, use the formulas
+23 Total mass of H Number of H =  x 6.02 x 10Ionic mass of H+
++
++
+23 23 Total mass of H 1.842 x 10  =  x 6.02 x 101.008+
+3-
+3- 23 4
+4 3-
+4No. of  =  x 6.02 x 10  moleculesIonicTotal mass of
+ mass of PO
+P  POO
+3-
+22 23 4 Total mass o6.14 x 10  =  x 6.02 x 10  95f PO
+       (d)  One molecule of H3PO4 gives three positive charges in the solution 
+6.14 x 1022 molecules of H3PO4 will give =3 x 6.14 x 1022 
+= 231.842 x 10  positive charges Answer
+Number of positive and negative charges are always equal. So the number of negative charges 
+dispersed in the solution = 1.842 x 102323
+110 =  x 6.02 x 1098 g mol−
+22
+3-
+4 236.14 x 10 x 95Total mass of  =  9.689g  Answer 6.02P x 10O =23
+231.842 x 10  x 1.008Total mass of H  =  = 0.308 g6.02 x 10+241.BASIC CONCEPTS eLearn.Punjab
+1.5.2 Molar Volume
+One mole of any gas at standard temperature and pressure (STP) occupies a volume of 22.414 dm3. 
+This volume of 22.414 dm3 is called molar volume and it is true only when the gas is idea l (the idea 
+of the ideality of the gas is mentioned in chapter three).
+With the help of this information, we can convert the mass of a gas at STP into its volume and vice 
+versa.
+Hence we can say that
+2.016 g of H2 = 1 mole of H2 = 6.02 x 1023 molecules of H2 = 22.414 dm3 of H2 at S.T.P 
+16g of CH4 = 1 mole of CH4 = 6.02 x 1023 molecules of CH4= 22.414 dm3 of CH4 at S.T.P.
+It is very interesting to know from the above data that 22.414 dm3 of each gas has a diferent mass 
+but the same number of molecules. The reason is that the masses and the sizes of the molecules 
+don't afect the volumes. Normally, it is known that in the gaseous sta te the distance between 
+molecules is 300 times greater than their diameters.
+Example (10):
+A well known ideal gas is enclosed in a container having volume 500 cm3 at S.T.P. Its mass comes 
+out to be 0.72g.What is the molar mass of this gas.
+Solution:
+We can calculate the number of moles of the ideal gas at S.T.P f rom the given volume.
+33
+3
+3    22.414 dm or 22.414 cm of the ideal gas at S.T.P = 1 mole      
+      1 cm of the ideal gas at S.T.P
+  500 cm of the ideal gas at S.T.P1 =  mole 22414
+1 =  x 50022414
+                                                     = 0.0223 moles
+We know that
+Mass of the gas =  Molar of the gas
+Mass of the gas                   =          Number of moles of the gas
+MolarNumber of mo mass oles of ft the he gasgas
+ -1 0.72 g              = 32 g  Answer0.0223 mole    Molar mass of the gas mol =251.BASIC CONCEPTS eLearn.Punjab
+1.6 STOICHIOMETRY
+With the knowledge of atomic mass, molecular mass, the mole, the Avog adro’s number and the 
+molar volume, we can make use of the chemical equations in a much  better way and can get many 
+useful information from them.
+Chemical equations have certain limitations as well. They do not tel l about the conditions and the 
+rate of reaction. Chemical equation can even be written to describe a c hemical change that does 
+not occur. So, when stoichiometeric calculations are performed, we ha ve to assume the following 
+conditions.
+1. All the reactants are completely converted into the products.
+2. No side reaction occurs.
+Stoichiometry is a branch of chemistry which tells us  the quantitative relationship between 
+reactants and products in a balanced chemical equation.
+While doing calculations, the law of conservation of mass and the law of deinite proportions are 
+obeyed.
+The following type of relationships can be studied with the help of  a balanced chemical equation.
+1) Mass-mass Relationship
+If we are given the mass of one substance, we can calculate the m ass of the other substances 
+involved in the chemical reaction.
+2) Mass-mole Relationship or Mole-mass Relationship
+If we are given the mass of one substance, we can calculate the moles of other substance and vice-
+versa.
+3) Mass-volume Relationship
+If we are given the mass of one substance, we can calculate the vol ume of the other substances and 
+vice-versa.Similarly, mole-mole calculations can also be performed .261.BASIC CONCEPTS eLearn.Punjab
+Example (11):
+Calculate the number of grams of K2SO4 and water produced when 14 g of KOH are reacted with 
+excess of H2SO4. Also calculate the number of molecules of water produced.
+Solution:
+For doing such calculations, irst of all convert the given mass of  KOH into moles and then compare 
+these moles with those of K2SO4 with the help of the balanced chemical equation.
+Equation:               2KOH(aq) + H2SO4(aq)   K2SO4(aq) + 2H2O(l)
+To get the number of moles of K2SO4, compare the moles of KOH with those of K2SO4.
+   
+So, 0.125 moles of K2SO4 is being produced from 0.25 moles of KOH 
+Molar mass of K2SO4 = 2 x 39 + 96
+= 174 g/mol
+Mass of K2SO4 produced = No. of moles x molar mass
+= 0.125 moles x 174 g mol-1 
+=21.75g-1Mass of KOH                                 = 14.0 g
+Molar mass of KOH                     
+         Number of moles of KOH      = 39 + 16 + 1 = 56 g/mol
+14.0 g =  = 0.25 56 gmol 
+24 KOH                 :                                  K SO
+2                       :                                   1 
+11                        :                                  2
+0.25                   :                                  0.125271.BASIC CONCEPTS eLearn.Punjab
+To get the number of moles of H2O, compare the moles of KOH with those of water
+ 
+So, the number of moles of water produced is 0.25 from 0.25 moles of KOH
+ Mass of water produced             = 0.25 moles x 18 g mol-1
+                                           = 4.50 g
+Number of molecules of water = No. of moles x 6.02 x 1023
+                                          = 0.25 mol es x 6.02 x 1023 molecules per mole
+                                          = 1.50 x 1023 molecules Answer
+Example (12):
+Mg metal reacts with HCl to give hydrogen gas. What is the minimu m volume of HCl solution (27% 
+by weight) required to produce 12.1g of H2. The density of HCl solution is 1.14g/cm3.
+Mg (s) + 2HCl (aq)   MgCl2(aq) + H2(g)
+Solution:
+Mass of H2 produced   = 12.1 g 
+Molar mass of H2  = 2.016 g mol-1
+                                                      
+2
+2
+2-1Mass of H 12.1gMoles of H =   Molar mass of H 2.016  mol g=             =6.0 moles
+To calculate the number of moles of HCl, compare the moles of H2 with those of HCl
+So, 12 moles of HCl are being consumed to produce 6 moles of H2.
+Mass of HCl =Moles of HCl x  Molar mass of HCl
+   = 12 moles x 36.5 g mol-1
+   = 438 grams2                 :                                  HCl
+1                       :                                  2
+6                        :                                12H2                  :                                  HO
+2                       :                                    2
+1                        :                                  1
+0.25               KOH
+    :                                  0 .25281.BASIC CONCEPTS eLearn.Punjab
+We know that HCl solution is 27% by weight, it means that 
+27 g of HCl are present in HCl solution = 100 g
+1.7 LIMITING REACTANT
+Having completely understood the theory of stoichiometry of the chemical  reactions, we shift 
+towards the real stoichiometric calculations. Real in the sense tha t we deal with such calculations 
+very commonly in chemistry. Often, in experimental work, one or m ore reactants is/are deliberately 
+used in excess quantity. The quantity exceeds the amount required b y the reaction’s stoichiometry. 
+This is done, to ensure that all of the other expensive reactant is com pletely used up in the chemical 
+reaction. Sometimes, this strategy is employed to make reactions occur f aster. For example, we 
+know that a large quantity of oxygen in a chemical reaction makes  things burn more rapidly. In 
+this way excess of oxygen is left behind at the end of reaction an d the other reactant is consumed 
+earlier. This reactant which is consumed earlier is called a  limiting reactant. In this way, the amount 
+of product that forms is limited by the reactant that is completely  used. Once this reactant is 
+consumed, the reaction stops and no additional product is formed. Hence the limiting reactant 
+is a reactant that controls the amount of the product fo rmed in a chemical reaction due to 
+its smaller amount.
+The concept of limiting reactant is analogous to the relationship b etween the number of “kababs” 
+and the “slices” to prepare “sandwiches”. If we have 30 “kabab s” and ive breads “having 58 slices”, 
+then we can only prepare 29 “sandwiches”. One “kabab” will  be extra (excess reactant) and “slices” 
+will be the limiting reactant. It is a practical problem that w e can not purchase exactly sixty “slices” 
+for 30 “kababs” to prepare 30 “sandwiches”.31001 g is present in HCl solution =  27
+100438 g are present in HCl solution =  x 438 = 1622.2 g27
+Density of HCl solution              = 1.14 g/cm
+Mass of HCl so          Volume of HCl               = 
+3
+3lution
+Density of HCl
+1622.2                                                   = 1423 cm  Answer1.14g
+gcm−=291.BASIC CONCEPTS eLearn.Punjab
+Consider the reaction between hydrogen and oxygen to form water.
+2H2(g) + O2(g)   2H2O(l)
+When  we take 2 moles of hydrogen (4g) and allow it to react with  2 moles of oxygen (64g), then we 
+will get only 2 moles (36 g) of water. Actually, we will get 2 moles (36g) of water because 2 moles 
+(4g) of hydrogen react with 1 mole (32 g) of oxygen according to the balanced equation. Since less 
+hydrogen is present as compared to oxygen, so hydrogen is a lim iting reactant. If we would have 
+reacted 4 moles (8g) of hydrogen with 2 moles (64 g) of oxygen, w e would have obtained 4 moles 
+(72 g) of water.
+Identiication of Limiting Reactant
+To identify a limiting reactant, the following three steps are perfor med.
+1. Calculate the number of moles from the given amount of reactant.
+2. Find out the number of moles of product with the help of a balan ced chemical equation.
+3. Identify the reactant which produces the least amount of product as limiting reactant.
+Following numerical problem will make the idea clear.
+Example (13):
+NH3 gas can be prepared by heating together two solids NH4Cl and Ca(OH)2. If a mixture containing 
+100 g of each solid is heated then
+(a) Calculate the number of grams of NH3 produced.
+(b) Calculate the excess amount of reagent left unreacted.
+2NH4Cl (s) + Ca (OH)2 (s)   CaCl2(s) + 2NH3 (g) + 2H2O(l)301.BASIC CONCEPTS eLearn.Punjab
+Solution:
+(a) Convert the given amounts of both reactants into their number of moles.
+  
+Compare the number of moles of NH4Cl with those of NH3
+NH4Cl  : NH3
+2  : 2
+1  : 1
+1.87  : 1.87
+Similarly compare the number of moles of Ca(OH)2 with those of NH3.
+Ca(OH)2 : NH3
+1  : 2
+1.35  : 2.70
+Since the number of moles of NH3 produced by l00g or 1.87 moles of NH4Cl are less, so NH4Cl is the 
+limiting reactant. The other reactant, Ca(OH)2 is present in excess. Hence 
+Mass of NH3 produced = 1.87 moles x 17 g mol-1
+     = 31.79 g Answer
+(b) Amount of the reagent present in excess
+Let  us calculate the number of moles of Ca(OH)2 which will completely react with 1.87 moles of 
+NH4Cl with the help of equation. For this purpose, compare NH4Cl and Ca(OH)2
+NH4Cl  :  Ca (OH)2
+2  :  1
+1        :    1
+2
+1.87  :  0.9354
+-1
+4
+4                         Mass of NH Cl                      = 100g
+                         Molar mass of N H C1           = 53.5g mol
+100                         Mass of NH Cl                      = g
+2
+2
+2-1
+ 
+-1 1.8753.5g mol
+                         Mass of Ca(OH)                   = 100
+                         Molar mass of C a(OH)          = 74 g mol
+                         Moles of Ca(OH)           =
+g
+-1100        = 1.3574 g mol=g311.BASIC CONCEPTS eLearn.Punjab
+Hence the number of moles of Ca(OH)2 which completely react with 1.87 moles of NH4Cl is 0.935 
+moles.
+No. of moles of Ca(OH)2 taken =1.35
+No. of moles of Ca(OH)2 used = 0.935
+No. of moles of Ca(OH)2 left behind = 1.35 - 0.935 = 0.415
+Mass of Ca(OH)2 left unreacted (excess) = 0.415x74 = 30.71 g  Answer 
+It means that we should have mixed 100 g of NH4Cl with 69.3 g (100 - 30.71) of Ca(OH)2 to get 1.87 
+moles of NH3.
+1.8 YIELD
+The amount of the products obtained in a chemical reaction is ca lled the actual yield of that reaction.
+The amount of the products calculated from the balanced chemical equation represents the 
+theoretical yield. The theoretical yield is the maximum amount of th e product that can be produced 
+by a given amount of a reactant, according to balanced chemical equation.
+In most chemical reactions the amount of the product obtained is less than the theoretical yield. 
+There are various reasons for that. A practically inexperienced worker has many shortcomings and 
+cannot get the expected yield. The processes like iltration, separation b y distillation, separation 
+by a separating funnel, washing, drying and crystalliza tion if not properly carried out, decrease 
+the actual yield. Some of the reactants might take part in a competi ng side reaction and reduce 
+the amount of the desired product. So in most of the reactions the actua l yield is less than the 
+theoretical yield.
+A chemist is usually interested in the eiciency of a reaction. The eiciency of a reaction is expressed 
+by comparing the actual and theoretical yields in the form of perc entage (%) yield.
+Actual yield% yield =  x 100 Theoretical yield321.BASIC CONCEPTS eLearn.Punjab
+Example (14):
+When lime stone (CaCO3) is roasted, quicklime (CaO) is produced according to the fol lowing equation. 
+The actual yield of CaO is 2.5 kg, when 4.5 kg of lime stone is roasted. What is the percentage yield 
+of this reaction.
+Solution:
+Mass of limestone roasted    = 4.5 kg = 4500 g
+Mass of quick lime produced (actual yield) = 2.5 kg = 25 00 g
+Molar mass of CaCO3     = 100 g mol-1
+Molar mass of CaO     = 56 g mol-1
+According to the balanced chemical equation
+100 g of CaCO3 should give CaO   = 56 g
+1g of CaCO3 should give CaO   = 56 / 100
+4500 g of CaCO3 should give CaO   = 56 / 100 x 4500
+                = 2520 g
+Theoretical yield of CaO    = 2520 g
+Actual yield of CaO     = 2500 g
+Actual yield 2500% yield =  x 100 =  x 100Theoretical yield 2520
+                                                       = 99.2 %  Answerg
+g32 CaCO  (s)  CaO(s) + CO (s)  →331.BASIC CONCEPTS eLearn.Punjab
+KEY POINTS
+1. Atoms  are the building blocks of matter. Atoms can combine to form  molecules. Covalent com -
+pounds mostly exist in the form of molecules. Atoms and molecules c an either gain or lose elec -
+trons, forming charged particles called ions. Metals tend to lose el ectrons, becoming positively 
+charged ions. Non-metals tend to gain electrons forming negatively ch arged ions. When X-rays 
+or α -particles are passed through molecules in a gaseous state, th ey are converted into molec -
+ular ions.
+2. The  atomic mass of an element is determined with reference to the mas s of carbon as a standard 
+element and is expressed in amu. The fractional atomic masses c an be calculated from the 
+relative abundance of isotopes. The separation and identiication of is otopes can be carried out 
+by mass spectrograph.
+3. The  composition of a substance is given by its chemical formula . A molecular substance can be 
+represented by its empirical or a molecular formula. The empir ical and molecular formula are 
+related through a simple integer.
+4. Combustion analysis is one of  the techniques to determine the empir ical formula and then the 
+molecular formula of a substance by knowing its molar mass.
+5. A mole of any substance is the  Avogadro’s number of atoms or molecu les or formula units of 
+that substance.
+6. The  study of quantitative relationship between the reactants and the products in a balanced 
+chemical equation is known as stoichiometry. The mole concept can b e used to calculate the 
+relative quantities of reactants and products in a balanced chemic al equation. 
+7. The  concept of molar volume of gases helps to relate solids and l iquids with gases in a quantitative 
+manner.
+8. A limiting reactant is  completely consumed in a reaction and controls the quantity of products 
+formed.
+9. The  theoretical yield of a reaction is the quantity of the products calculated with the help of a 
+balanced chemical equation. The actual yield of a reaction is  always less than the theoretical 
+yield. The eiciency of a chemical reaction can be checked by ca lculating its percentage yield.341.BASIC CONCEPTS eLearn.Punjab
+EXERCISE
+Q1 Select the most suitable answer from the given one s in each question.
+(i) Isotopes difer in
+(a) properties which depend upon mass
+(b) arrangement of electrons in orbitals
+(c)  chemical properties
+(d) the extent to which they may be afected in electromagnetic ield.
+(ii) Select the most suitable answer from the given ones in each qu estion.
+(a) Isotopes with even atomic masses are comparatively abundant.
+(b) Isotopes with odd atomic masses are comparatively abundant.
+(c)           Isotopes with even atomic masses and even atomic num bers are comparatively abundant.
+(d) Isotopes with even atomic masses and odd atomic numbers are comparatively abundant.
+(iii) Many elements have fractional atomic masses. This is bec ause
+(a) the mass of the atom is itself fractional.
+(b) atomic masses are average masses of isobars.
+(c)           atomic masses are average masses of isotopes.
+(d) atomic masses are average masses of isotopes proportional to thei r relative abundance.
+(iv) The mass of one mole of electrons is
+  (a) 1.008 mg  (b) 0.55 mg   (c) 0.184 mg  (d)1.67 3mg
+(v) 27 g of A1 will react completely with how much mass of O2 to produce Al2O3.
+  (a) 8 g of oxygen  (b) 16 g of oxygen (c) 32 g of oxygen  (d) 24 g of oxygen
+(vi) The number of moles of CO2 which contain 8.0 g of oxygen.
+  (a) 0.25 (b) 0.50 (c) 1.0  (d)1.50
+(vii) The largest number of molecules are present in
+  (a) 3.6g of H2O  (b) 4.8g of C2H5OH  (c) 2.8g of CO  (d) 5.4g of N2O5
+(viii) One mole of SO2 contains
+  (a) 6.02x1023 atoms of oxygen  (b) 18.1 x 1023 molecules of SO2
+  (c) 6.02x1023 atoms of sulphur  (d) 4 gram atoms of SO2
+(ix) The volume occupied by 1.4 g of N2 at S.T.P is
+  (a) 2.24 dm3  (b) 22.4 dm3  (c) 1.12 dm3   (d) 112 cm3
+(x) A limiting reactant is the one which
+(a) is taken in lesser quantity in grams as compared to other r eactants.
+(b) is taken in lesser quantity in volume as compared to the other r eactants.
+(c)  gives the maximum amount of the product which is required.
+(d) gives the minimum amount of the product under consideration.351.BASIC CONCEPTS eLearn.Punjab
+Q 2. Fill in the blanks
+(i) The unit of relative atomic mass is_________________.
+(ii) The exact masses of isotopes can be determined by_________ _______ spectrograph.
+(iii) The phenomenon of isotopy was irst discovered by ._________ ___________
+(iv) Empirical formula can be determined by combustion analys is for those compounds which 
+have ______  and __________in them.
+(v) A limiting reagent is that which controls the quantities of___ _________
+(vi) 1 mole of glucose has_________ atoms of carbon, _______ ___ of oxygen and _______of hydrgen.
+(vii) 4g of CH4 at 0°C and 1 atm pressure has _____________molecules of CH4
+(viii)   Stoichiometric calculations can be performed only when  ________________ is obeyed.
+Q3. Indicate true or false as the case may be:
+(i) Neon has three isotopes and the fourth one with atomic mass 20.1 8 amu.
+(ii) Empirical formula gives the information about the total numb er of atoms present in      
+            the molecule.
+(iii) During combustion analysis Mg(ClO4)2 is employed to absorb water vapours.
+(iv) Molecular formula is the integral multiple of empirical f ormula and the integral
+            mutiple can never be unity.
+(v) The number of atoms in 1.79 g of gold and 0.023 g of sod ium are equal.
+(vi) The number of electrons in the molecules of CO and N2 are 14 each, so 1 g of each gas   
+            will have same number of electrons.
+(vii) Avogadro’s hypothesis is applicable to all types of gases i .e. ideal and non-ideal.
+(viii) Actual yield of a chemical reaction may be greater than the theoretical yield.
+Q.4  What are ions? Under what conditions are they produced?
+Q.5 (a)  What are isotopes? How do you deduce the fractional atomic masses of elements  
+                    from the relative isotopic abundance? Give tw o examples in support of your answer.
+ (b) How does a mass spectrograph show the relative abundance of isotopes of an elment?
+ (c) What is the justiication of two strong peaks in the mass sp ectrum for bromine; while  
+            for iodine only one peak at 127 amu is indicated?
+Q.6 Silver has atomic number 47 and has 16 known isotopes but two occur naturally i.e. Ag-107  
+          and Ag-109. Given the following mass spectrometric da ta, calculate the average atomic  
+          mass of silver.
+Isotopes Mass (amu) Percentage abundance
+107Ag
+109Ag106.90509
+108.9047651.84
+48.16361.BASIC CONCEPTS eLearn.Punjab
+Q.7  Boron with atomic number 5 has two naturally occurring i sotopes. Calculate the percentage abun  
+ dance of 10B and 11B from the following informations.
+Average atomic mass of boron = 10.81 amu
+Isotopic mass of 10B                      = 10.0129 amu
+Isotopic mass of 11B                      =11.0093amu  (Ans: 20.002%, 79.992)
+Q.8 Deine the following terms and give three examples of each.
+1. Gram atom
+2. Gram molecular mass
+3. Gram formula
+4. Gram ion5. Molar volume
+6. Avogadro’s number
+7. Stoichiometry
+8. Percentage yield
+Q.9 Justify the following statement!:
+1. 23 g of sodium and 238 g of uranium have equal number of  atoms in them. 
+2. Mg atom is twice heavier than that of carbon atom.
+3. 180 g of glucose and 342 g of sucrose have the same number of molecules but diferent number of 
+atoms present in them.
+4. 4.9 g of H2SO4  when completely ionized in water, have equal number of positive and negative 
+charges but the number of positively charged ions are twice the nu mber of negatively charged ions.
+5. One mg of K2CrO4 has thrice the number of ions than the number of formula units when ionized in 
+water.
+6. Two grams of H2,16g of CH4 and 44 g of CO2 occupy separately the volumes of 22.414 dm3, although 
+the sizes and masses of molecules of three gases are very diferent from  each other.371.BASIC CONCEPTS eLearn.Punjab
+Q.10 Calculate each of the following quantities.
+a) Mass in grams of 2.74 moles of KMnO4.
+b) Moles of O atoms in 9.00g of Mg (N03)2.
+c) Number of O atoms in 10.037 g of CUSO4.5H2O.
+d) Mass in kilograms of 2.6 x 1020 molecules of SO2.
+e) Moles of Cl atoms in 0.822 g C2H4Cl2.
+f) Mass in grams of 5.136 moles of Ag2CO3.
+g) Mass in grams of 2.78 x 1021 molecules of 
+CrO2Cl2.
+h) Number of moles and formula units in 100g of 
+KClO3.
+i) Number of K+ ions, CIO-
+3 ions, Cl atoms, and  O 
+atoms in (h).• (Ans: 432.92g)
+• (Ans: 0.36 mole)
+• (Ans: 2.18 x 1023 atoms)
+• (Ans: 2.70x10-5 kg)
+• (Ans: 0.0178 moles) 
+• (Ans: 1416.2 g)
+• (Ans: 0.7158 g)
+• (Ans: 0.816 moles, 4.91 x 1023 formula units)
+• (Ans: 4.91 x 1023 K+, 4.91x 1023 CIO3-1, 4.91x 1023 
+Cl-1,1.47x 1024 O atoms)
+Q.11 Aspartame, the artiicial sweetner, has a molecular formula  of C14H18N2O5.
+a)  What is the mass of one mole of aspartame?     (Ans: 294 g  mol-1)
+b)  How many moles are present in 52 g of aspartame?    (Ans : 0.177 mole)
+c)  What is the mass in grams of 10.122 moles of aspartame?    (Ans: 2975.87 
+d)  How many hydrogen atoms are present in 2.43 g of aspartam e?(Ans: 8.96 x 1022 atoms of H)
+Q.12 A sample of 0.600 moles of a metal M reacts completely with excess of luorine to form 46.8 g of MF2.
+a)  How many moles of F are present in the sample of MF2 that forms?     (Ans: 1.2 moles)
+b)  Which element is represented by the symbol M?                                      (Ans: calcium)
+Q.13 In each pair, choose the larger of the indicated quantity, or state if the samples are equal.
+a) Individual particles: 0.4 mole of oxygen molecules or 0.4 mol e of oxygen atoms.
+ (Ans: both are equal)
+b) Mass: 0.4 mole of ozone molecules or 0.4 mole of oxygen atoms.                             (Ans: ozone)
+c) Mass: 0.6 mole of C2H4 or 0.6 mole of I2.                                                                    (Ans: I2)
+d) Individual particles: 4.0 g N2O4 or 3.3 g SO2.                                                            (Ans: SO2)
+e) Total ions: 2.3 moles of NaCIO3 or 2.0 moles of MgCl2.                                                   (Ans: MgCl2)
+f) Molecules: 11.0 g H2O or 11.0 g H2O2.                                                               (Ans:H2O)
+g) Na+ ion: 0.500 moles of NaBr or 0.0145 kg of NaCl.                                       (Ans: NaBr)
+h) Mass: 6.02 x 1023 atoms of 235U or 6.02 x 1023 atoms of 238U.                        (Ans: U238)
+Q.14 a) Calculate the percentage of nitrogen in the four important fertilizers i.e., 
+              (i) NH3            (ii) NH2CONH2(urea)        (iii) (NH4)2SO4              (iv) NH4NO3.
+(Ans: 82.35%, 46.67%, 21.21%, 35%)381.BASIC CONCEPTS eLearn.Punjab
+b) Calculate the percentage of nitrogen and phosphorus in each of the following:
+             (i) NH4H2PO4   (ii) (NH4)2HPO4   (iii) (NH4)3PO4 
+(Ans: (i)N=12.17%,P=26.96% (ii)N=21.21%,P=23.48% (i ii)N=28.18%,P=20.81%) 
+Q.15 Glucose C6H12 O6 is the most important nutrient in the cell for generating chemical  potential 
+energy. Calculate the mass % of each element in glucose and determin e the number of C, H and 
+O atoms in 10.5 g of the sample.
+(Ans: C=40%, H=6.66%, 0 =53.33%, C=2.107x1023, H=4.214x1023, O=2.107x 1023) 
+Q.16  Ethylene glycol is used as automobile antifreeze. It has  38.7% carbon, 9.7 % hydrogen and 
+51.6% oxygen. Its molar mass is 62.1 grams mol-1. Determine its empirical formula.? 
+                                                                                                                                                        
+(Ans: CH3O)
+Q.17  Serotenin (Molar mass = 176g mol-1) is a compound that conducts nerve impulses in brain 
+and muscles. It contains 68.2 % C.6.86 % H, 15.09 % N, and 9.08 % O. What is its molecular formu-
+la. 
+(Ans: C10H12N2O)
+Q.18  An unknown metal M reacts with S to form a compound with  a formula M2S3. If 3.12 g of M 
+reacts with  exactly 2.88 g of sulphur, what are the names of metal M and the-compowad M2S3? 
+                                                                                                                                                  (Ans: C r; Cr2S3)
+Q.19 The octane present in gasoline burns according to the foll owing equation.
+8 18 2 2 22C H  (l) + 25O  (g)  16CO  (g) + 18H O(l)  →
+a)  How many moles of O2 are needed to react fully with 4 moles of octane?
+(Ans: 50 moles)
+b)  How many moles of CO2 can be produced from one mole of octane?
+(Ans: 8 moles)
+c)  How many moles of water are produced by the combustion of 6 m oles of octane?
+(Ans: 54 moles)
+d)  If this reaction is to be used to synthesize 8 moles of CO2 how many grams of oxygen are 
+needed? How many grams of octane will be used?                                                    
+                                                                                                                                            (Ans: 400 g: 114 g)
+Q.20  Calculate the number of grams of Al2S3 which can be prepared by the reaction of 20 g of Al 
+and 30 g of sulphur. How much the non-limiting reactant is i n excess?
+(Ans: 46.87g; 3.125g)
+Q.21  A mixture of two liquids, hydrazine N2H4 and N2O4 are used in rockets. They produce N2 and 
+water vpours. How many grams of N2 gas will be formed by reacting 100 g of N2H4 and 200g of 
+N2O4.                                                                                                                          (Ans: 131.04g)
+24 24 2 22N H  + N O       3N  + 4H O  →391.BASIC CONCEPTS eLearn.Punjab
+Q.22  Silicon carbide (SiC) is an important ceramic materi al. It is produced by allowing sand (SiO2 )
+to react with carbon at high temperature.
+      2SiO  + 3C      SiC + 2CO  →
+When  100 kg sand is reacted with excess of carbon, 51.4 kg  of SiC is produced. What is the 
+pecentage yield of SiC?                                                                                                (Ans: 77%)                                                                                              
+                
+Q.23 a. What is stoichiometry? Give its assumptions? Mention two impor tant laws, which help 
+to perform the stoichiometric calculations?
+b. What is a limiting reactant? How does it control the quantity of the product formed? 
+Explain with three  examples?
+Q.24 a. Deine yield. How do we calculate the percentage yield of a chemica l reaction?
+b. What are the factors which are mostly responsible for the low y ield of the products in 
+chemical reactions?
+Q.25 Explain the following with reasons.
+i) Law of conservation of mass has to be obeyed during stoichiometric  calculations.
+ii) Many chemical reactions taking place in our surrounding  involve the limiting reactants.
+iii) No individual neon atom in the sample of the element has a mas s of 20.18 amu.
+iv) One mole of H2SO4 should completely react with two moles of NaOH. How does Avoga-
+dro’s number help to explain it.
+v) One mole of H2O has two moles of bonds, three moles of atoms, ten moles of elec-
+trons and twenty eight moles of the total fundamental particles present in it.
+vi) N2 and CO have the same number of electrons, protons and neutrons.

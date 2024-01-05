@@ -1,0 +1,394 @@
+CHAPTER
+15 COMMON CHEMICAL
+INDUSTRIES IN PAKISTAN2 3
+15. Common Chemical Industries in Pakistan 15. Common Chemical Industries in PakistaneLearn.Punjab eLearn.PunjabIn This Chapter You Will Learn:
+A brief description of the processes alongwith flow sheet diagrams 
+and the reactions involved in the important industries like fertilizers, cement and paper.
+15.1    INTRODUCTION
+Pakistan had an almost negligible industrial base at the time of its cre-ation in l947. For the past 55 years the country has undergone a structural change from a purely agrarian economy to a semi-chemical industrial state. Pakistan has developed most of the consumer goods industries. Heavy industries like iron, fertilizer, cement and paper are also on the road to development.
+The natural resources are being exhausted with growing population and increase in the standard of living all over the world. To meet this situa-tion the scientists and technologists are busy in the development of the substitute materials from cheaper and reusable sources, e.g. the natu-ral fibres like cotton, silk, wool cannot meet the clothing requirements of the world, therefore, scientists have developed the artificial fibres.
+Similarly, crop yield has been increased by the development of the fertil-
+izers, pesticides and herbicides to meet the world food requirements. All these materials require their chemical preparation on industrial scales. In fact the magnitude of chemical industry of a country is a measure of its economic development and progress. Different chemical industries such as fertilizer, cement and paper are developing very fast in Pakistan.15.2 FERTILIZERS
+15.2.1 Early HistoryAgriculture has been one of the oldest industry known to man. The use of manure as a fertilizer dates back to the beginning of agriculture. Since 5000 B.C, the Chinese have been using animal manure in their fields. A manure is an organic material used to fertilize land and it usually consists of faeces and urine of domestic livestock.
+The first prerequisite to the use of fertilizers was an understanding of the function of plant nutrients in plant growth. Compounds of these elements namely nitrogen, phosphorus and potassium are considered to be the most important nutrients essential for plant growth.The elements, like sulphur, magnesium and calcium are considered of secondary importantance
+15.2.2 What are Fertilizers
+Fertilizers are the substances added to the soil to make up the deficiency 
+of essential elements like nitrogen, phosphorus and potassium (NPK) required for the proper growth of plants. Fertilizers enhance the natural fertility of the soil or replenish the chemical elements taken up from soil by the previous crops.
+15.3 ELEMENTS ESSENTIAL FOR PLANT GROWTH
+Plants need nutrients from the soil for a healthy growth.The elements es-sential for the plant growth can be classified as micro-nutrients and macro- nutrients.
+15.3.1 Micro-nutrients (Trace elements)
+The nutrients which are required in a very small amount for the 
+growth of plant, are called micro-nutrients. These include Boron, 
+Copper, Iron, Manganese, Zinc, Molybdenum and Chlorine.4 5
+15. Common Chemical Industries in Pakistan 15. Common Chemical Industries in PakistaneLearn.Punjab eLearn.Punjab15.4.1 Nitrogeneous Fertilizers
+These fertilizers supply nitrogen to the plants or soil. Nitrogen is required 
+during the early stage of plant growth for the development of stems and leaves. It is the main constituent of protein, imparts green colour to the leaves and enhance the yield and quality of the plants. Some of the examples of nitrogen fertilizers are: - ammonium sulphate, calcium ammonium nitrate, basic calcium nitrate, calcium cyanamide, ammonia, ammonium nitrate, ammonium phosphate, ammonium chloride and urea.
+The essential requisites of a good fertilizer are:1.
+ The nutrient elements present in it must be readily available to the plant.
+2.
+ It must be fairly soluble in water so that it thoroughly mixes with the soil.
+3.
+ It should not be injurious to plant.
+4.
+ It should be cheap.
+5.
+ It must be stable so that it is available for a longer time to the growing plant.
+6.
+ It should not alter the pH of the soil.
+7.
+ By 
+rain or water, it should be converted into a form, which the plant can assimilate 
+easily.15.4 CLASSIFICATION OF FERTILIZERS
+Fertilizers are classified according to the nature of the elements like nitrogen, phosphorus and potassium which they provide to the soil. This classification gives the following types of fertilizers.
+i) Nitrogeneous fertilizers                   ii) Phosphatic fertilizers
+iii) Potassium fertilizers
+(i) Ammonia (NH
+3) as a Fertilizer
+Ammonia is used in liquid state while all the other fertilizers are used 
+in the solid form. All the nitrogen fertilizers except calcium nitrate, sodium nitrate and potassium nitrate make the soil acidic but this acidity can easily be controlled through liming of the soil (by the addition of lime) at regular intervals.
+liquid ammonia has become an important fertilizer for direct application to soil. It contains 82% nitrogen and it is injected about 6 inches under the surface of soil to avoid it from seeping out.15.3.2 Macro-nutrients
+The nutrients which are required in a large amount for the growth of plants, 
+are called macro-nutrients. These include Nitrogen, Phosphorus, Potassium, 
+Calcium, Magnesium, Sulphur, Carbon, Hydrogen and Oxygen .These are 
+generally required in quantities ranging from 5 kg to 200 kg per acre.
+15.3.3 Requirement of a Fertilizer
+Every compound of the desired elements cannot be a fertilizer. The desired 
+elements should be present in the compound in a water soluble form (so that the plant can take it up) readily available to the plants.The compound employed as fertilizer should be stable in soil as well as in storage e.g., it should not be deliquescent or set to hard stony materials with time. Above all it should be cheap to manufacture.Only minute amounts of these elements are needed for healthy plant growth and it may be dangerous to add too much quantity because they are poisonous in larger quantities. These are generally required in quantities ranging from 6 grams to 200 grams per acre.
+15.3.4 Essential Qualities of a Good Fertilizer6 7
+15. Common Chemical Industries in Pakistan 15. Common Chemical Industries in PakistaneLearn.Punjab eLearn.Punjab(ii) Urea (NH2- CO - NH2)
+Urea is a high quality nitrogeneous fertilizer.It contains about 
+46% nitrogen and is the most concentrated solid nitrogen fertilizer.It is the most widely used nitrogen fertilizer in Pakistan.
+Manufacturing Process
+Urea is produced by the reaction of liquid ammonia with gaseous carbon dioxide.Following steps are involved in the manufacture of urea.
+i) Preparation of Hydrogen and Carbon dioxide             ii) Preparation of Ammonia
+iii) Preparation of Ammonium Carbamate                        iv) Preparation of Ureav) Concentration of Urea.                                                      vi) Prilling
+Preparation of Ammonium Carbamate
+Preparation of Urea
+Dehydration of ammonium carbamate gives urea.
+Concentration of Urea Solution
+The urea solution is concentrated in an evaporation section 
+where water is evaporated by heating with steam under vacuum in two evaporation stages whereby 99.7% urea melt is obtained. It is then pumped to prilling tower.
+(iii) Ammonium Nitrate (NH4NO3)Prilling
+The molten urea is sprayed at the prilling tower by means of prilling bucket where it is cooled by the air rising upward. Molten droplets solidify into the form of prills. Urea prills thus produced are either sent to the bagging section or to the bulk storage, Fig. 15.1.
+3 3 43 NH (g) + HNO (g) NH NO (s) →Fig. 15.1 Flow sheet diagram for manufacture of urea
+It is manufactured by the neutralization reaction between ammonia and nitiic acid as given below.Gaseous CO
+2 is mixed with ammonia in the volume ratio of 1:2 in a reactor to
+ produce ammonium carbamate.8 9
+15. Common Chemical Industries in Pakistan 15. Common Chemical Industries in PakistaneLearn.Punjab eLearn.PunjabAfter neutralization, the water is evaporated. The solid ammonium nitrate 
+is melted and then sprayed down from a tall tower. The falling droplets are dried by an upward current of air. The fertilizer solidifies as tiny, hard pellets called prills. Prills of fertilizers are free of dust, easy to handle and easy to spread on the field.Ammonium nitrate contains 33 33.5% nitrogen.
+It is a useful fertilizer for many crops except paddy rice because the 
+microbial bacteria in flooded fields decomposes it to nitrogen gas. It is also used in combination with limestone. It is hygroscopic in nature.
+15.4.2 Phosphatic Fertilizers
+These fertilizers provide phosphorus to the plants or soil. Phosphorus is required to stimulate early growth to accelerate the seed and fruit formation during the later stages of growth. It also increases resistance to diseases. The various phosphatic fertilizers have different compositions, due to which they have different solubilities. The two most important water soluble fertilizers are super phosphate (calcium super phosphate)Ca(H
+2PO4)2and triple phosphate (diammonium- phosphate (NH4)2HPO4).
+(i) Diammonium Phosphate (NH4)2HPO4
+This compound of fairly high purity is prepared by continuous process that consists of reacting anhydrous ammonia gas and pure phosphoric acid at 60 - 70 °C and pH 5.8 - 6.0.
+3 3 4 42 4 2NH (g) + H PO (l) (NH ) HPO + heat →
+It is an exothermic reaction. The heat of reaction vaporizes water from the liquor and the crystals of diammonium phosphate are taken out, centrifuged, washed and dried. It contains 16% nitrogen and 48%  P
+2O5. This 
+product contains about 75% plant nutrients and is deemed suitable for use either alone or in mixed with other fertilizers.15.4.3 Potassium Fertilizers
+These fertilizers provide potassium to the plant or soil. Potassium is 
+required for the formation of starch, sugar and the fibrous material of the plant. They increase resistance to diseases and make the plants strong by helping in healthy root development. They also help in ripening of seeds, fruits and cereals. Potassium fertilizers are especially useful for tobacco, coffee, potato and corn.
+(i) Potassium Nitrate (KNO
+3)
+On industrial scale it is prepared by the double decomposition reaction between sodium nitrate and potassium chloride.
+A concentrated hot solution of sodium nitrate is prepared and solid potassium chloride is added into it. On heating, the potassium chloride crystals change into sodium chloride crystals, and the hot potassium nitrate is run through the sodium chloride crystals at the  bottom of the kettle. A little water is added to prevent further deposition of sodium chloride as the solution is cooled, which results into a good yield of pale yellow solid potassium nitrate.It contains 13% nitrogen and 44% potash.33 NaNO (aq) + KCl(aq) NaCl(aq) + KNO (aq) →
+15.4.4 Fertilizer Industry in Pakistan
+Pakistan is essentially an agricultural country. In order to keep up the 
+production of agricultural commodities and to compensate for the depletion of nutrients which get exhausted by repeated cultivation, the urea fertilizer has gained importance.
+For a developing country like Pakistan, there is an ever-growing demand 
+for urea fertilizer. Government of Pakistan is trying its utmost to narrow the gap between supply and demand of fertilizers. Consistant efforts have been made to instal fertilizer manufacturing plants. At present, there are about 14 fertilizer plants in private as well as public sectors in the country which are manufacturing different types of fertilizers.10 11
+15. Common Chemical Industries in Pakistan 15. Common Chemical Industries in PakistaneLearn.Punjab eLearn.PunjabThis was the start of Portland cement industry, as we know today. The 
+cement is now low in cost, as it is applied everywhere in the construction of houses, public buildings, roads, industrial plants, dams, bridges and many other structures.
+15.5.2 Definition
+Cement is the material obtained by burning an intimate mixture of calcarious and argillaceous materials at sufficiently high temperature to produce clinkers. These clinkers are then ground to a fine powder.
+The essential constituents  are lime (obtained from limestone) silica and alumina (present in clay).Compound %age
+Lime (CaO)
+Silica (SiO2)
+Alumina (AI2O3)
+Magnesia (MgO)Iron oxide (Fe
+2O3)
+Sulphur trioxide (SO3)
+Sodium oxide (Na2O)
+Potassium oxide (K2O)6222
+7.52.52.51.51.01.0
+1. Calcarious material (limestone, marble, chalks, marine shell) as source of CaO.
+2.
+ Argillaceous 
+material (clay, shale, slate, blast furnace slag) They 
+provide acidic components such as aluminates and silicates,
+3.
+ Other 
+raw material being used is gypsum.15.5.4 .Manufacturing Process of Cement
+The manufacturing process of cement involves either a dry process or a wet 
+process. The choice of dry or wet process depends on the following factors.
+1.
+ Physical condition of the raw materials.
+2.
+ Local climatic conditions of the factory.
+3.
+ The price of the fuel.
+In 
+Pakistan most of the factories use wet process for the production 
+of cement. Dry process needs excessive fine grinding and it is more suited for the hard material, Wet process, on the other hand, is free from dust, grinding is easier and the composition of the cement can easily be controlled.An average composition of a good sample of Portland cement is as 
+follows:
+15.5.3 Raw Materials
+The  important   raw  materials used for the manufacture of cement are:15.5 CEMENT
+15.5.1 Early History
+Cement is a very important building material which was first introduced by an English Mason Joseph Aspdin. He found it when strongly heated mixture of limestone and clay was mixed with water and allowed to stand, it hardened to a stone like mass which resembled Portland rock; a famous building stone of England. Since then the name of Portland Cement
+is given to the mixture of lime (obtained from limestone), silica, iron oxide and alumina.The total  production of urea fertilizer in 2002 in Pakistan is about 56,30,100  metric tons/annum
+15.5.5 Wet Process
+In this process grinding is done in the presence of water. There are five stages in 
+the manufacture of Portland cement Fig. 15.2.
+1.
+ Crushing and grinding of the raw material.
+2.
+ Mixing the material in correct proportion.
+3.
+ Heating the prepared mixture in a rotary kiln.
+4.
+ Grinding the heated product known as clinker.
+5.
+ Mixing and grinding of cement clinker with gypsum.12 13
+15. Common Chemical Industries in Pakistan 15. Common Chemical Industries in PakistaneLearn.Punjab eLearn.Punjab1. Crushing and Grinding
+Soft raw materials are first crushed into a suitable size, often in two stages, and then ground in the presence of water, usually in rotating cylindrical ball or tube mills containing a charge of steel balls.
+2. Mixing of Raw Material
+The powdered limestone is then mixed with the clay paste in proper 
+proportion (limestone 75%, clay  25%); the mixture is finely ground and made homogeneous by means of compressed air mixing arrangement. The resulting material is known as slurry. The slurry, which contains 35 to 45% water, is sometimes filtered to reduce the water content from 20 to 30% and the filler cakes are stored in storage bins.This reduces the fuel consumption for heating stage.
+3. Heating the Slurry in a Rotary Kiln
+Raw meal or slurry prepared as above is introduced into the rotary kiln with the help of a conveyer. The rotary kiln consists of a large cylinder 8 to 15 feet in diameter and 300-500 feet in length. It is made of steel and is lined inside with firebricks. The kiln rotates horizontally on its axis at the rate of 1-2 revolution per minute and it is inclined a few degree. As the kiln rotates,the charge slowly moves downward due to the rotary motion.
+Now the charge is heated by burning coal, oil or natural gas. 
+In the rotary kiln the charge passes through the different zones of temperature where different reactions take place. The charge takes 2-3 hours to complete the journey in the kiln.
+(a) Drying or Pre-heating Zone (Minimum temperature zone)
+In this zone the temperature is kept at 500°C, whereby the moisture 
+is removed and the clay is broken into AI2O3, SiO2, and Fe2O3.(c) Burning Zone (Maximum tem perature zone)
+In this zone, the temperature goes up to 1500°C and the 
+oxides, e.g. CaO, SiO2, AI2O3 and Fe2O3combine together and 
+form calcium silicate, calcium aluminate and calcium ferrite.
+(d) Cooling Zone
+This is the last stage in the kiln where the charge is cooled up to 150-200°C32 900°CCaCO (s) CaO(s) + CO ( ) g   →
+(iv) Clinker Formation
+The resulting product obtained from the kiln is known as 
+cement clinker. This has the appearance of greenish black or grey coloured balls varying in size from small nuts to peas.
+Fig. 15.2 Flow sheet diagram for the manufacture of cement(b) Decomposition Zone (Moderate temperature zone)
+Here the temperature goes upto 900°C In this zone the limestone (CaCO3) 
+decomposes into lime (CaO) and CO2.14 15
+15. Common Chemical Industries in Pakistan 15. Common Chemical Industries in PakistaneLearn.Punjab eLearn.Punjab(v) Grinding the Clinkers with Gypsum
+The cement clinkers are then air-cooled. The required amount of gypsum 
+(2.0%) is first ground to a fine powder and then mixed with clinkers. At this stage finished cement is pumped pneumatically to storage silos from where it is drawn for packing in paper bags or for dispatch in bulk containers.
+15.5.6 Setting of CementThe use of cement in the construction of building is based on its 
+property of setting to a hard mass when its paste with water is allowed to stand for sometime. The reactions involved in the setting of cement are described as follows:
+(i) Reactions Taking Place in First 24 Hours.A short time after the cement is mixed with water, tri-calcium aluminate 
+absorbs water (hydration) and forms a colloidal gel of the composition, 3 Ca.  AI
+2O3. 6H2O, (hydrated tricalcium aluminate).
+This gel starts crystallizing slowly, reacts with gypsum (CaSO4. 2 H2O) to 
+form the crystals of calcium sulpho-aluminate (3CaO.Al2O3.3CaSO4.2H2O).
+(ii) Reactions Taking Place Between 1 to 7 Days
+Tricalcium silicate (3CaO. SiO2) and tri-calcium aluminate (3CaO . AI2O3) 
+get hydrolyzed to produce calcium hydroxide and aluminium hydroxide. 
+The calcium hydroxide, thus formed, starts changing into needle-shaped crystals, which get studded in the colloidal gel and impart strength to it. Aluminium hydroxide, on the other hand, fills the interstices resulting in hardening the mass. The gel formed starts losing water partly by evaporation and sets to a hard mass.15.5.7 Cement industry in Pakistan
+At the time of partition in 1947, there were four cement plants in West 
+Pakistan, which produced about 330,000 tons of cement every year. However, in 1954 the production of cement went up to 660,000 tons. In 1956 two more cement factories were set up at Daud Khel and Hyderabad, but even then the production of cement was not enough to meet the increasing demand of the construction industry in the country.
+For a developing country like Pakistan there is always an increasing need of cement for development projects. Efforts were thus made to build more factories. At present there are about 22 cement factories in private as well as in public sectors, which are manufacturing cement both by dry and wet processes. The total production of these 22 cement plants  is 9,578,802 metric tons/annum.
+15.6 PAPER INDUSTRY
+15.6.1 Early History
+The word paper is derived from the name of a reedy plant Papyrus, 
+which grew abundantly along the marshy delta of the River Nile in Egypt around 3000B.C.
+The invention of modern paper is credited to Ts’ai Lun of China, who, in 105 A.D, was an official attached to the Imperial Court of China. He prepared a sheet of paper using the bark of mulberry tree that was treated with lime and mixed with bamboo and other fibres to get the paper of desired properties.
+15.6.2 Definition
+Paper is defined in term of its method of production, that is a sheet 
+material made up of a network of natural cellulosic fibres which have been deposited from an aqueous suspension.The product obtained is a network of interwinning fibres.16 17
+15. Common Chemical Industries in Pakistan 15. Common Chemical Industries in PakistaneLearn.Punjab eLearn.Punjab15.6.3 Brief Description of the Process.
+Raw Material.
+The main raw materials used in the production of pulp and paper in Pakistan is of two types, that is non-woody and woody raw materials.
+Nonwoody Raw Materials Woody Raw Materials
+(i) Wheat straw                       (vi)Cotton stalk
+(ii) Rice straw                          (vii)Cotton linter(iii)Bagasse                             (viii)Kahi grass(iv)Bamboo                             (ix)Grasses(v)Rag(i)Poplar (hard wood)(ii)Eucalyptus (hard wood)(iii) Douglas fir (soft wood)
+15.6.4 Pulping Processes
+The following are three principal methods of chemical pulping and are used for 
+the production of paper pulps.
+1.
+ Kraft process (Alkaline)
+2.
+ Sulphite process (Acidic)
+3.
+ Neutral sulphite semi-chemical process (NSSC)
+The 
+neutral sulphite semi chemical process has come to occupy the dominant 
+position because of the advantages in chemical recovery and pulp strength. In this section, we will discuss only the neutral sulphite semi chemical 
+process, which is mostly used in pulp and paper industry in Pakistan.The non-woody raw materials which are used in this process are wheat straw, rice straw, bagasse, cotton linter and rags. Wheat straw may be used alone or combined with other materials in different proportions. The essential steps in the process are as follows Fig. 15.3.
+i. Cutting of the raw materials                                               ii. Dry cleaningiii. Wet cleaning                                                                        iv. Screeningv. Digestion                                                                               vi. Blow tankvii. Pulp washing                                                                      viii. Bleachingix. Paper making machine                                                x. Stock preparation plant
+(i) Cutting of Raw Materials
+The non-woody raw materials come in the precut state and are 
+processed as such. But in the case of wood based raw materials, big logs are cut into small chips before further processing.
+(ii) Dry CleaningWheat straw is collected from the storage and is then sent for dry cleaning. 
+For this purpose air is blown into the raw material, which removes unwanted particles.
+(iii) Wet CleaningDry wheat straw is then subjected to wet cleaning, which not only 
+removes the remaining dust particles, but the soluble materials also get dissolved in water.
+15.6.5 Neutral Sulphite Semi Chemical Process
+Process DescriptionThis process utilizes sodium sulphite cooking liquor which is buffered 
+with sodium carbonate or NaOH to neutralize the organic acid liberated from the raw materials.(iv) Screening
+In most pulp and paper processes some type of screening operation 
+is required to remove the over sized troublesome and unwanted particles. Magnetic separator removes iron pieces like nails and bolts, etc. Stones and other oversized pieces are removed by centricleaners. The major types of chest screens are vibratory, gravity, and centrifugal. The material is then sent to wet silo.18 19
+15. Common Chemical Industries in Pakistan 15. Common Chemical Industries in PakistaneLearn.Punjab eLearn.Punjab(v) Digestion
+From wet silo, the material is sent to digester. The digester is usually 
+10 meters in length and 2 meters in diameter. It is made of steel and wrought iron. This is the main unit of the process. The digestion process can be either batch or continuous. In our country batch process is mostly used.
+(vii) Pulp Washing
+The cooked material from the blow tank is washed thoroughly with 
+water using 80- mesh sieve to remove the black liquor that would contaminate the pulp during subsequent processing steps. The pulp is washed with required amount of water to remove soluble lignin and coloured compounds. Lignin is an aromatic polymer and causes paper to become brittle. It is then thickened and finally stored in high-density storage tower.(vi) Blow Tank
+The cooked material from the digester is blown into a blow tank and 
+then pumped to a centrifugal screen for the separation of cooked from uncooked materials.As the raw material enters into the digester, steam is introduced 
+at the bottom and a liquor containing sodium sulphite is injected simultaneously to cover the raw material. Sodium sulphite used is buffered with sodium carbonate or sodium hydroxide to maintain its pH 7-9. The digester is closed carefully. It is revolved at 2.5 RPM and a temperature of 160- 180°C is maintained. The digester takes 45 minutes to attain the desired temperature after which it gets switched off automatically and pressure is released.
+In Pakistan, bleaching is done with chlorine or sodium hypochlorite and hydrogen peroxide. After washing, the unbleached pulp is sent to the chlorinator where chlorine at 4 - 5 bar pressure is injected from chlorine tank. The chlorine react with unbleached pulp at about 45°C for 45-60 minutes to give the good results. The residual chlorine is neutralized with water which act as antichlor. The correct dosage is important and calculated amount of chlorine is needed to achieve the required brightness. After chlorination pulp is washed with hot water at 60°C and is then sent to the storage tank. Pulp is dried with hot air supply. After drying the pulp is ready for manufacturing of paper.
+(viii) Bleaching
+The pulps obtained from chemical pulping are brown in colour and 
+are unsuitable for printing and writing papers which require a bright white pulp. The colour of these pulps is mainly due to residual lignin. These pulps are then sent to bleaching unit.
+Fig. 15.3 Flow sheet diagram for neutral sulphite semi-chemical process
+There are three important stages in the treatment of the pulp prior to its delivery to the paper making machine.The first is the dispersion of the pulp as a slurry in water, the second is the mechanical refining or beating of the fibres to develop appropriate physical and mechanical properties for the product being made and the third is the addition of chemical additives end recycled fibres from the waste paper plant. Wet end chemistry of paper start from here,(ix) Stock Preparation Plant20 21
+15. Common Chemical Industries in Pakistan 15. Common Chemical Industries in PakistaneLearn.Punjab eLearn.Punjab(x) Paper Making Machine
+A basic Fourdrinier type machine is used for paper making and a brief description of its major components is given below Fig. 15.4.
+(a) Flow Spreader
+The flow of spreader takes the plup and distributes it evenly across the machine from back to front. Consistency of the stock is below 1%.
+(b) Head Box
+The pressurized head box discharges a uniform jet of pulp suspension on a fabric where special suction devices work for the removal of water.
+(c) Fourdrinier Table
+The endless, moving fourdrinier fabric forms the fibre into a continuous matted web while the fourdrinier table drains the water by suction forces.
+(d) Press Section
+The paper sheet is conveyed through a series of roll presses where additional water is removed and the web structure is consolidated (i.e the fibres are forced into intimate contact).
+(e) Dryer SectionWet sheet of paper so formed is dried in the dryer section of the machine with the help of rotary drum. Water is separated from the fibre either by gravity, by suction or by pressing and by heating.
+(f) Calendar StockThe sheet is calendered through a series of roll nips to reduce thickness and smooth the surface.(g) ReelThe dried paper is wound in the form of a reel having final moisture of about 6-8%.15.6.6 Paper Industry in Pakistan
+Paper plays such an important role in the present day economic development 
+that its consumption is taken as an index of a country's progress and prosperity. There was no pulp and paper industry in Pakistan at the time of independence in 1947.The country consumed about 25000 tons of pulp and paper products per year and all of these were imported from abroad at a cost of 25 million rupees. The start of the paper industry in our country was very slow because of various reasons, amongst the major ones being the non-availability of suitable fibrous raw material.
+Due to high prices of paper in Pakistan its per head consumption 
+is among the lowest in the world. Paper consumption in Pakistan is around 5 kg per person per year.
+To make our country self-sufficient in this important commodity, we must utilize every source of raw material like non-woody and woody. Fortunately, Pakistan has enough source of non-woody material, which in future can meet the requirements of our pulp and paper industry. The efforts are being made to install more pulp and paper industries in the country.Fig. 15.4 Fourdrinier paper making machine.
+At present there are more than 30 pulp and paper industries in private as well as in public sectors, which are manufacturing pulp and paperboard.22 23
+15. Common Chemical Industries in Pakistan 15. Common Chemical Industries in PakistaneLearn.Punjab eLearn.Punjab1. Agriculture has been one of the oldest industry known to man. Since 5000 B.C 
+Chinese have been using animal manure in their fields.
+2.
+ Fertilizer 
+is the natural or artificial substance containing the chemical elements 
+that improve growth and productiveness of plants.
+3.
+ Natural fertilizers are materials derived from plants and animals whereas 
+artificial fertilizers consist of manufactured material like urea, super phosphate and ammonium nitrate, etc.
+4.
+ Synthetic 
+fertilizers are mainly used for making up the immediate deficiency of 
+essential nutrient elements needed in relatively large amount.
+5.
+ The 
+nutrients required in a very small amount for growth of plants are called 
+micro-nutrients and the nutrients which are required in a very large amount are called macro-nutrients.
+6.
+ Urea 
+and ammonium nitrate are the major nitrogeneous fertilizers whereas 
+super phosphate and triple phosphate are important phosphatic fertilizers.
+7.
+ Cement 
+is a very important building material which was first introduced in 1824 
+by an English mason Joseph Aspdin.
+8.
+ Cement 
+is the material obtained by burning an intimate mixture of calcarious 
+and argillaceous materials at sufficiently high temperature to produce clinkers which are subsequently ground to a fine powder. Wet process is generally used in the production of cement.
+9.
+ The 
+use of cement for construction purposes is based on its property of setting 
+to a hard mass when mixed with water.
+10.
+ Paper is a sheet material made up of a network of natural cellulosic fibres.
+11.
+ The 
+neutral sulphite semi-chemical process is often used for the manufacturing 
+of paper because of the advantages in the chemical recovery and pulp strength.
+12.
+  
+The prime objective of all pulp making steps is to separate fibres present in 
+the straw from cementing material called lignin, which is a natural binder.KEY POINTS
+Q. 1 Fill in the blanks with suitable words.
+1.
+ Fertilizers enhance the natural___________ of the soil.
+2.
+ Micro-nutrients are required in quantity ranging from__________ per acre.
+3.
+ Ammonia contains___________ % nitrogen.
+4.
+ Manure is an___________ material used to fertilize land.
+5.
+ Cement was first introduced by an English mason___________.
+6.
+ Phosphorus is required to stimulate________ of plant.
+7.
+ In Pakistan, bleaching of pulp is carried out with__________ .
+8.
+ Cement is generally manufactured using___________ process.
+9.
+ The 
+use of cement in the construction of building is based on its property 
+of___________ when its paste with water is allowed to stand for sometime.
+10.
+ Lignin is an__________ polymer and causes paper to become brittle.
+Q. 2 Indicate True or False.1.
+ Potassium fertilizers are especially used for tobacco and corn.
+2.
+ Ammonia 
+is used in gaseous state while all other fertilizers are used in the solid 
+form.
+3.
+ In 
+wet process for the manufacture of cement, grinding of raw material is done 
+in the presence of water.
+4.
+ The total production of cement in Pakistan is 56,30,100 metric tons/annum.
+5.
+ In 
+neutral sulphite semi-chemical process, sodium sulphite is used buffered 
+with sodium carbonate.
+6.
+ Lignin is an inorganic binder.
+7.
+ Paper consumption in Pakistan is around 5kg per person per year.
+8.
+ Urea contains 90% nitrogen.
+9.
+ The 
+temperature of the digester in paper industry should be around 160-180°C.
+10.
+ Potassium fertilizers increase the capability of plants to resist diseases.
+Q. 3 Multiple choice questions. Encircle the correct answer.(i) Which three elements are needed for the healthy growth of plants.
+(
+a) N,S, P                            (b) N, Ca, P                          (c)N ,P K                              (d)N ,K,CEXERCISE24 25
+15. Common Chemical Industries in Pakistan 15. Common Chemical Industries in PakistaneLearn.Punjab eLearn.Punjab(ii) Which woody raw material is used for the manufacture of paper pulp?
+(a) Cotton                   (b) Bagasse                      (c) Poplar                           (d) Rice straw
+(iii) The nitrogen present in some fertilizers helps plants
+(a) to fight against diseases                                          (b) to produce fat(c) to undergo photosynthesis                                     (d) to produce protein
+(iv) Phosphorus helps the growth of
+(a) root                        (b) leave                               (c) stem                              (d) seed
+(v) Micro-nutrients are required in quantity ranging from
+(a) 4-40g                     (b) 6-200g                             (c) 6-200kg                         (d) 4-40kg
+(vi) During the manufacturing process of cement the temperature of the 
+decomposition zone goes up to(a) 600°C                    (b) 800°C                               (c) 1000°C                          (d) 1200°C
+(vii) The word paper is derived from the name of which reedy plant
+(a) Rose                     (b) Sun flower                       (c) Papyrus              (d) Water Hyacinth
+(viii) Which is not a calcarious material?
+(a) lime                     (b)clay                                      (c) marble                  (d) marine shell
+(ix) How many zones through which the charge passes in a rotary kiln?
+(a) 4                          (b) 3                                           (c) 2                                    (d) 5
+(x) Ammonium nitrate fertilizer is not used for which crop.
+(a) Cotton               (b) Wheat                                   (c) Sugar cane             (d) Paddy rice
+Q. 4 What are phosphatic fertilizers. How are they prepared? Mention the role 
+of phosphorus in the growth of plants.Q. 5 (a)  What are fertilizers? Why are they needed?
+(b) Discuss the classification of fertilizers and their uses.(c) How is urea manufactured in Pakistan? Describe in detail the process used.
+Q. 6 (a)  What are the prospects of fertilizer industry in Pakistan?
+(b) What are essential nutrient elements and why these are needed for plant 
+growth?(c) Write down the essential qualities of a good fertilizer?
+Q. 7 (a)  Describe the composition of a good portland cement.
+(b) Discuss the wet process for the manufacturing of cement with the help of 
+flow sheet diagram.(c) What do you understand by the term “setting of cement”. Also discuss the reactions taking place in first 24 hours?
+Q. 8 What are the essential non-woody raw materials used in the production of 
+pulp and paper in Pakistan?
+Q. 9 (a) What are the principal methods of chemical pulping used for the 
+production of paper?(b) Describe the neutral sulphite sem i-chem ical process for the manufacturing of pulp and paper.
+Q. 10 (a) What are the common bleaching agents used in paper industry in 
+Pakistan? Briefly describe the bleaching process.(b) What are the prospects of paper industry in Pakistan?

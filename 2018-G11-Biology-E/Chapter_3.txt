@@ -1,0 +1,207 @@
+13. Enzymes eLearn.Punjab
+V: 1.1CHAPTER
+3 Enzymes
+Animation 3.1: Enzyme
+Source &Credit: pharmaxchange23. Enzymes eLearn.Punjab
+V: 1.1Enzymes are the most important group of proteins which are biologica lly active. They tremendously 
+increase the eiciency of a biochemical reaction and are speciic f or each type of reaction. Without 
+these enzymes the reaction would proceed at a very slow speed making li fe impossible.
+Enzymes are composed of hundreds of amino acids joined together an d coiled upon themselves 
+to form a globular structure. The catalytic activity is restricted to a small portion of the structure 
+known as the active site. The reactant called substrate is attached  to the active site consisting of 
+only a few amino acids, while rest of the bulk of the amino a cids maintains the globular structure 
+of the enzyme.
+Some enzymes consist solely of proteins. Others also have a non-protein part known as a co-factor , 
+which is essential for the proper functioning of the enzymes. T he cofactor usually acts as “bridge” 
+between the enzyme and its substrate, often it contributes directly to the chemical reactions which 
+bring about catalysis. Sometimes the co-factor provides a source of chemical energy, helping to 
+drive reactions which would otherwise be diicult or impossible. Som e enzymes use metal ions as 
+co-factors like Mg2+, Fe2+, Cu2+, Zn2+ etc. The detachable co-factor is known as an activator if it is a n 
+inorganic ion (Fig. 3.1).
+If the non-protein part is covalently bonded, it is known as a prosthetic group . If it is loosely attached 
+to the protein part, it is known as coenzyme . It is closely related to vitamins, which represent the 
+essential raw materials from which coenzymes are made. Only sm all quantities of vitamins areFig. 3.1 Substrate molecules will not it correctly at the active centre and there will be no catalytic action unl ess the 
+cofactor molecule is also present33. Enzymes eLearn.Punjab
+V: 1.1needed because, like enzymes, co-enzyme can be used again and again. An enzyme with its coenzyme, 
+or prosthetic group, removed is designated as apoenzyme . Adding the correct concentrated 
+coenzyme to the apoenzyme will restore enzyme activity. An activated enzy me consisting of 
+polypeptide chain and a cofactor is known as holoenzyme.
+Many enzymes are simply dissolved in the cytoplasm. Other enzym es are tightly bound to certain 
+subcellular organelles. They are produced by living cells for use in or near the site of their production. 
+The enzymes important in photosynthesis are found in the chloropla sts and enzymes involved in 
+cellular respiration are found in the mitochondria. Some of the en zymes which are involved in the 
+synthesis of proteins are integral part of ribosomes.
+CHARACTERISTICS OF ENZYMES
+Enzymes, the biochemical catalysts possess the following importan t characteristics.
+1. All enzymes are globular proteins.
+2. They increase the rate of reaction without themselves being used up.
+3. Their presence does not afect the nature or properties of end products.
+4. Small amounts of an enzyme can accelerate chemical reactions .Animated 3.2: Enzymes 
+Source and Credit: dynamicscience43. Enzymes eLearn.Punjab
+V: 1.15. They are very speciic in their action; a single enzyme  
+     catalyzes only a single chemical reaction or a group               
+     of related reactions.
+6. They are sensitive to even a minor change in pH,                      
+     temperature and substrate concentration.
+7. Some enzymes require a co-factor for their proper 
+     functioning.
+8. They lower the activation energy of the reactions.
+MECHANISM OF ENZYME ACTION 
+(CATAL YSIS)
+An enzyme is a three dimensional globular protein that has specii c chemical composition due to 
+its component amino acids and a speciic shape. Every enzyme by virtue of its speciicity recognizes 
+and reacts with a special chemical substance called substra te. Any enzyme, therefore, reacts only 
+with its speciic substrate and transforms it into product(s). It is then released unaltered and thus 
+can be used again and again. 
+                    E            +        S            m          ES                 m           E                 +            P 
+                    Enzyme          Substrate              Enzyme                         Enzyme                   Product
+                                                                           substrate complexSome enzymes are potentially damaging 
+if they are manufactured in their active 
+form. For example, pepsin  is a powerful 
+protein - digesting enzyme and is quite 
+capable of destroying cell’s internal 
+structure and thus is produced in 
+inactive pepsinogen  form by the cell. It 
+is converted in its active form only in the 
+digestive tract where it is required to be 
+active.
+Animated 3.3: Catalysis 
+Source and Credit: promma.ac.th53. Enzymes eLearn.Punjab
+V: 1.1
+       Fig, 3.2 Enzyme to enzyme chain (association)In certain cases enzymes act in a series of chemical reactions i n a particular order to complete 
+a metabolic pathway such as respiration or photosynthesis. The su ccessive enzymes containing 
+these reactions are normally present together in a precise order of rea ction such that substrate 
+molecules can be literally handed on from one enzyme to another formin g a enzyme to enzyme 
+chain. In this way, the products from one step in pathway are transferred to the enzyme catalyzing 
+the next step.
+Animated 3.4: Enzyme to enzyme chain 
+(association)
+Source and Credit: faculty.ccbcmd63. Enzymes eLearn.Punjab
+V: 1.1An enzyme and its substrate react with each other through a deinite c harge-bearing site of an 
+enzyme called active site. The charge and shape of the active site is  formed by some amino acids 
+present in the polypeptide chain of the active site of the enzyme. Thes e amino acids are brought 
+closer and are arranged in a speciic way by coiling and f olding of the polypeptide chain within the 
+globular symmetry of the enzyme (Fig. 3.3).
+The active site of the enzyme is made up of two deinite regions i.e the bi nding site and the catalytic 
+site. The binding site helps the enzyme in the recognition and b inding of a proper substrate to 
+produce an ES complex. This reaction activates the catalytic site. A ctivated catalytic site catalyzes 
+the transformation of the substrate into product(s). Thus the enzyme a fter catalysis detaches itself 
+from the products unchanged. Enzyme requires aqueous medium for  its activity.
+Emil Fischer (1890) proposed a Lock and Key model to 
+visualize substrate and enzyme interaction. According 
+to this model, as one speciic key can open only a 
+speciic lock, in the same manner a speciic enzyme can 
+transform only one substrate into products(s).
+According to Lock and Key Model the active site is a rigid structur e. There is no modiication or 
+lexibility in the active site before, during or after the enzyme action and it is used only as a template. 
+Later studies did not support this model in all reactions.
+Fig. 3.3 Diagrammatic representation of an enzyme-substrate rea ction (Lock and Key
+Model)
+Most enzymes do not loat about in a kind 
+of cytoplasmic soup’ but are attached 
+to membrane systems inside the cell 
+in speciic and orderly arrangements. 
+Mitochondria and chloroplasts are good 
+examples of this.73. Enzymes eLearn.Punjab
+V: 1.1On the basis of new evidences Koshland (1959) proposed its modiied  form. This is known as Induce 
+Fit Model. 
+He argued that when a substrate combines with an enzyme, it indu ces changes in the enzyme 
+structure. The change in structure enables the enzyme to perform i ts catalytic activity more 
+efectively.
+F ACTORS AFFECTING THE RATE OF ENZYME ACTION
+The functional speciicity of every enzyme is the consequence of its sp eciic chemistry and 
+coniguration. Any factor that can alter the chemistry and shape of  an enzyme can afect its rate of 
+catalysis. Some of the important factors that can afect the rate of enzy me action are: concentration 
+of enzyme, concentration of substrate, temperature, and pH of the mediu m.
+1. Enzyme Concentration
+The rate of reaction depends directly on the amount of enzyme present at a  speciic time at 
+unlimited substrate concentration. If the amount of enzyme is increa sed by two fold the reaction 
+rate is doubled. 
+By increasing the enzyme molecules an increase in the number  of active sites takes place. More 
+active sites will convert the substrate molecules into product(s), in th e given period of time. After a 
+certain limiting concentration, the rate of reaction will no longer dep end upon this increase.
+2. Substrate Concentration
+At low concentration of substrate the reaction rate is directly pr oportional to the substrate available.
+If the enzyme concentration is kept constant and the amount of substr ate is increased, a point is 
+reached when a further increase in the substrate does not increas e the rate of the reaction any 
+more (Fig.3.4). This is because at high substrate level all th e active sites of the enzyme are occupied 
+and further increase in the substrate does not increase the reaction r ate.83. Enzymes eLearn.Punjab
+V: 1.13. Temperature
+The rate of enzyme controlled reaction may increase with increase in temperature but up to a 
+certain limit. All enzymes can work at their maximum rate at a speciic temperature called as 
+optimum temperature. For enzymes of human body 37°C is the optimu m temperature (Fig.3.5).
+Heat provides activation energy and therefore, chemical reactions are a ccelerated at high 
+temperatures. Heat also supplies kinetic energy to the reacting molecu les, causing them to move 
+rapidly. Thus the reactants move more quickly and chances of th eir collision with each other are 
+increased. However, further increase in heat energy also increases the vibrations of atoms which 
+make up the enzyme molecule. If the vibrations become too violent, globul ar structure essential for 
+enzyme activity is lost and the enzyme is said to be denatured.Fig. 3.4.1 leet o f substrate c oncentration on the rate of an  enzyme catalyzed reaction.93. Enzymes eLearn.Punjab
+V: 1.14. pH Value
+Every enzyme functions most efectively over a narrow range of pH known as the optimum pH  as 
+shown in Table 4.1.
+A slight change in pH can change the ionization of the amin o acids at the active site. Moreover, 
+it may afect the ionization of the substrates. Under these changed condi tions enzyme activity is 
+either retarded or blocked completely. 
+Extreme changes in pH cause the bonds in the enzyme to break, resu lting in the enzyme denaturation.
+                                   ig.3.5. Efect of temperature on the rate of an enzyme cataly zed reaction103. Enzymes eLearn.Punjab
+V: 1.1 Table 4.1 Optimum pH values for some enzymes
+                     Enzyme                   Optimu m pH
+                     Pepsin                          2.00
+                     Sucrase                          4.50
+                     Enterokinase                          5.50
+                     Salivary amylase                          6.80
+                     Catalase                          7.60
+                     Chymotrypsin                                 7.00-8.00
+                     Pancreatic lipase                          9.00
+                     Arginase                          9.70
+Inhibitors
+An inhibitor is a chemical substance which can react (in  place of substrate) with the enzyme but 
+is not transformed into product(s) and thus blocks the active site temp orarily or permanently, for 
+example poisons, like cyanide;, antibiotics, anti-metabolites and some drugs.
+Inhibitors can be divided into two types: (i) Irreversible (ii) Rever sible
+Irreversible Inhibitors
+They check the reaction rate by occupying the active sites or destroyin g the globular structure. 
+They occupy the active sites by forming covalent bonds or they may p hysically block the active sites.
+Reversible Inhibitors 
+They form weak linkages with the enzyme. Their efect can be neutral ized completely or partly by 
+an increase in the concentration of the substrate.
+They are further divided into two major types: A. Competitive B. Non-com petitive
+A. Competitive Inhibitors
+Because of the structural similarity with the substrate they may be selected by the binding sites, 
+but are not able to activate the catalytic sites. Thus product(s) are n ot formed (Fig.3.6).113. Enzymes eLearn.Punjab
+V: 1.1B. Non-competitive Inhibitors
+They form enzyme inhibitor complex at a point other than the active s ite. They alter the structure 
+of the enzyme in such a way that even if genuine substrate binds the active site, catalysis fails to 
+take place.
+Animated 3.5: Non-competitive Inhibitors
+Source and Credit: academic.brooklyn123. Enzymes eLearn.Punjab
+V: 1.1 
+  Exercise
+                                                                  
+Q.1.    Fill in the blank.
+            (i)     Enzymes are composed of hundreds of____ ________
+            (ii)    Some enzymes consist of a non-protein par t known as a _________
+            (iii)   Many enzymes require non-protein component called _________ for their proper 
+                     functioning.
+            (iv)   Enzymes are highly ________ in natur e.
+            (v)    The enzymes which carry out the synthes is of _____________ are integral parts of
+                    ribosomes.
+Q.2.    Write whether the statement is ‘true’ or ‘fal se’ and write the correct statement if it  
+            is false.
+            (i)     The enzymes important in photosynthesis a re found in tire mitochondria
+            (ii)    Large amounts-of an enzyme can accelera te chemical reactions.
+            (iii)   Calvin Malvin proposed Lock and Key mod el for enzyme action.
+            (iv)   The active site of an enzyme is composed of f our regions.
+            (v)    Structure of an enzyme has no speciic imp ortance.
+Q.3.    Short Questions
+            (i)     List two conditions that destroy enzymatic a ctivity by disrupting bonds between 
+                    the atoms in an enzyme.
+            (ii)    How do low and high temperature, afect an  enzyme activity?
+            (iii)   What is a prosthetic group?
+            (iv)   Deine inhibitors of enzyme.
+            (v)    How does an enzyme accelerate a metabolic reac tion?
+Q.4.    Extensive questions.
+            1.     Describe in detail the mechanism of enzy me action. 
+            2.     Give the efect of pH and temperature on the eicienc y of an enzyme action.
+            3.     Write a note on inhibitors of enzymes.
+            4.     What is the importance of enzymes in life?

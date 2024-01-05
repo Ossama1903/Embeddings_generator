@@ -1,0 +1,393 @@
+CHAPTER10 ALKYL HALIDES 
+Animation 10.1: Alkyl Halides reaction
+Source & Credit: chemwiki2 3
+10. ALKYL HALIDES 10. ALKYL HALIDES eLearn.Punjab eLearn.Punjab10.1    INTRODUCTION1. How to name an alkyl halide and to classify it into primary, secondary and 
+tertiary alkyl halides.
+2.
+ Simple ways of generating alkyl halides.
+3.
+ The reason why C-X bond in chemistry is one of the most reactive type.
+4.
+ The general mechanistic details of nucleophilic 
+substitution and elimination 
+reactions.
+5.
+ The 
+preparation of Grignard’s reagent, the reactivity of C-Mg bond and its 
+synthetic applications in organic chemistry.IN THIS CHAPTER YOU WILL LEARN:
+Halogen derivatives of alkanes are called haloalkanes. They may be mono, 
+di, tn or poly haloalkanes depending upon the number of halogen atoms present in the molecule.
+Among these, monohaloalkanes are also called Alkyl Halides. Their general formula is R -- X , where R may be methyl, ethyl, propyl, etc. and X represents halogen atoms (F, Cl, Br, I). Mono haloalkanes or alkyl halides are further classified into primary, secondary and tertiary alkyl halides depending upon the type of carbon atom bearing the halogen atom. 
+In a primary alkyl halide halogen atom is attached with a carbon which is further attached to one or no carbon atom e.g., CH3   CI
+Chloromethane CH3   CH2  CI
+            Chloroethane CH3   CH2  CH2  CI
+                   1-Choropropane
+Secondary alkyl halides are those in which halogen atom is attached with a carbon atom which is further attached to two other carbon atoms directly, e.g., secondary carbon atom.
+In tertiary alkyl halides halogen atom is attached to a carbon which is further attached to three carbon atoms directly.
+10.2 NOMENCLATURE OF ALKYL HALIDES
+COMMON NAMES
+Alkyl halides (monohaloalkanes) are named according to the nature of the alkyl group to which halogen atom is attached. For example,4 5
+10. ALKYL HALIDES 10. ALKYL HALIDES eLearn.Punjab eLearn.Punjab CH3   CI
+Methyl chloride CH3   CH2  Br
+            Ethyl bromide CH3   CH2  CH2  Br
+                  n-Propyl bromide
+ CH3   CH2  CH2  CH2  Cl
+                  n-Butylchloride
+IUPA C Nomenclature
+The systematic names given to alkyl halides follow the underlying rules.
+1.
+ Select 
+the longest continuous carbon chain and consider the compound to 
+have been derived from this structure.
+2.
+ Number the carbon atoms in the chain so that the carbon atom bearing the functional group (F, Cl, Br, I) gets the lowest possible number, e.g.,
+3. If the same alkyl substituent occurs more than once on the chain, the prefix 
+di, tri and so on are used before the name of the alkyl group.
+4. The positions of the substituents are indicated by the appropriate numbers 
+separated by commas. If the same substituent occurs twice or more on the same carbon atom the number is repeated. 
+Examples which follow the above mentioned rules:
+10.3 METHODS OF PREPARATION OF ALKYL HALIDES
+Alkyl halides can be prepared by the halogenation of alkanes and by the addition of halogen acids to alkenes. These methods have already been discussed in the previous chapters. The best method for the preparation of alkyl halides is from alcohols.6 7
+10. ALKYL HALIDES 10. ALKYL HALIDES eLearn.Punjab eLearn.Punjab CH3 CH2   OH + HX      CH3 CH2  X + H2O                           
+                                                                          Ethyl halideZnCl2
+(b) Alcohols also react with thionyl chloride in pyridine as a solvent to 
+give alkyl chlorides. This method is especially useful since the by-products 
+(HC1, SO2) are gases, which escape leaving behind the pure product.
+ ROH   +  SOCl2      R  Cl  +  SO2  +  H2OPyridine1. From Alcohols 
+(a) Reaction of alcohols with halogen acids.
+Alcohols may be converted to the corresponding alkyl halides by the 
+action of halogen acid in the presence of ZnCl2 which acts as a catalyst.
+(c) Phosphorus trihalides or phosphorus pentahalides react with alcohols to replace -OH group by a halo group.
+3CH3   CH2  OH  +  PBr3      3CH3   CH2  Br  +  H3PO3
+   CH3  CH2  OH  +  PCl5      CH3   CH2  Cl  +  POCl3  +  HCl
+2. An excellent method for the preparation of simple alkyl iodide is the treatment of alkyl chloride or alkyl bromide with sodium iodide. This method is particularly useful because alkyl iodides cannot be prepared by the direct iodination of alkanes.
+RCl   Nal     Rl  +  NaCl
+RBr  Nal     Rl  +  NaBr
+10.4 REACTIVITY OF ALKYL HALIDES
+An alkyl halide molecule (R — X) consists of two parts, an alkyl group with a partial positive charge on the carbon atom attached to halogen atom and the halide atom with a partial negative charge.There are two main factors which govern the reactivity of R — X bond.These are:
+i)  C— X Bond energyii) C— X Bond polarity
+Bond Energy
+The following table shows the bond energies of C— X bonds in alkyl halides.
+The strength of the bonds show that iodo compound (with the weakest bonds) would be the most reactive one while fluoro compound will be the least reactive i.e., the order of reactivity of alkyl halides should be 
+R— I > R— Br > R— Cl > R— F
+Bond Polarity
+Electronegativities of halogen, carbon and hydrogen atoms present in alkyl halides are shown in the table.
+The greatest electronegativity difference exists between carbon and fluorine atoms in alkyl fluorides. BondBond Energy
+(kj/mole)
+C — F 
+C — H
+C — Cl
+C — Br
+C — I467
+413346290228
+AtomElectronegativity
+ F 
+ Cl
+ Br
+ I
+H
+C4.03.02.82.52.12.5If an electrophile is the attacking reagent 
+then this difference suggests that alkyl fluorides would be the most reactive one. On the same lines, alkyl iodides should be the least reactive alkyl halides.
+In the light of the above discussion it 
+is clear that the two factors mentioned above predict different types of behaviour about the reactivity of alkyl halides. 
+So the overall order of reactivity of alkyl halides for a particular alkyl group is:
+Iodide > Bromide > Chloride > Fluoride
+In fact the C-F bond is so strong that alkyl fluorides do not react under ordinary conditions.Experiments have shown that the strength of carbon halogen bond is the main factor which decides the reactivity of alkyl halides.8 9
+10. ALKYL HALIDES 10. ALKYL HALIDES eLearn.Punjab eLearn.Punjab10.5 REACTIONS OF ALKYL HALIDES
+The reactions of alkyl halides fall into two categories.
+1. Those reactions in which the halogen is replaced by some other atom or 
+a group (nucleophilic substitution, or SN reactions).
+2. Tnose which involve the removal of HX from the nanae (elimination, or 
+E reactions).
+10.5.1 Nucleophilic Substitution Reactions
+Before discussing specifically the nucleophilic substitution reactions (S
+N) of alkyl halides, let us look at the nucleophilic reaction in general. 
+The overall process describing an SN reaction is shown as follows:
+In this equation the incoming group Nu is a nucleophile. Nucleophile means nucleus loving. It has an unshared electron pair available for bonding and in most cases it is basic in character. It may be negatively charged or neutral.Electrophile
+Animation 10.3: Electrophilic addition
+Source & Credit: johnwileyIt is a specie which attracts electrons (electron loving). The carbon atom of an alkyl group attached with the halogen atom and bearing a partial positive charge is called an electrophile or electrophilic center. An electrophile may be neutral or positively charged.
+Examples of Nucleophiles
+HO-
+C2H5O-
+H S-
+SCN-
+H2O:
+NH2-Hydroxide ion
+Ethoxide ionHydrogen sulphide ionThiocyanate ionWaterAmino groupCI
+-
+Br-
+NH3
+CN-
+I-Chloride ionBromide ionAmmoniaCyanide ionIodide ion:
+:L is also a nucleopile. It is called leaving group because it departs with 
+an unshared pair of electrons. If we wish a SN reaction to proceed in the 
+forward direction the incoming nucleophile must be stronger than the departing one. Cl
+- , Br- , I- , HSO4- are good leaving groups. Poor leaving 
+groups are OH- ,       and NH2-. Iodide ion is a good nucieophile as well as 
+a good leaving group.Leaving Group
+Substrate MoleculeThe alkyl halide molecule on which a nucleophile attacks is called a substrate molecule. OR
+10.5.2 Mechanism of Nucelophilic Substuitution Reactions
+Alkyl halides may undergo nucleophilic substitution reactions in two different ways:
+1. Nucleophilic Substitution Bimolecular (S
+N2)
+2. Nucleophilic Substitution Unimolecular (SN1)10 11
+10. ALKYL HALIDES 10. ALKYL HALIDES eLearn.Punjab eLearn.PunjabNucleophilic substitution reactions on alkyl halides involve two 
+main processes, the breakage of C — X bond and the formation of C — Nu bond. The mechanism of the nucleophilic substitution reactions depends upon the timing of these two processes. 
+If the two processes occur simultaneously the mechanism is called S
+N2 . If the bond breaks first followed by the 
+formation of a new bond, the mechanism is called SN1.
+Nucleophilic Substitution Bimolecular (SN2)
+This is a single step mechanism. As soon as the nucleophile starts attacking the electrophilic carbon of the substrate, the bond with which the leaving group is attached, starts breaking. In other words the extent of bond formation is equal to the extent of bond breakage.
+Another important feature of this mechanism is the direction of the 
+attack of the attacking nucleophile. It attacks from the side which is opposite to the leaving group.
+In order to give to the nucleophile enough room to attack, the substrate 
+carbon atom changes its state of hybridization from tetrahedral sp
+3 
+to planar sp2. The attack of the nuclephile, the change in the state 
+of hybridization and the departure of the leaving group, every thing occurs at the same time.
+During the reaction the configuration of the alkyl halide molecule gets inverted. This is called inversion of configuration.
+Molecularity of a reaction is defined as the number of molecules taking 
+part in the rate determining step. Since in this mechanism, the reaction takes place in only one step which is also a rate determining step and two molecules are participating in this step, so it is called a bimolecular reaction.
+Kinetic studies of the reactions involving SN2 mechanism have shown 
+that the rates of such reactions depend upon the concentrations of alkyl halide as well as the attacking nucleophile. Mathematically, the rate can be expressed as:
+Rate = k [Alkyl halide]
+1 [Nucleophile]1
+Since the exponents of the concentration terms in the above expression are unity, so the order of a typical S
+N2 reaction will be 1 + 1 = 2.
+Among the alkyl halides, the primary alkyl halides always follow S
+N2 mechanism whenever they are attacked by nucleophiles.
+Nucleophilic Substitution Unimolecular (SN1)
+This type of mechanism involves two steps. The first step is the reversible ionization of the alkyl halide in the presence of an aqueous acetone or an aqueous ethyl alcohol. This step provides a carbocation as an intermediate. In the second step this carbocation is attacked by the nucleophile to give the product.
+First Step:
+Second Step:
+Since the first step involves the breakage of a covalent bond so it is a slow step as compared to the second step which involves the energetically favourable combination of ions. The first step is, therefore, called the rate-determining step. The mechanism is called unimolecular because only one molecule takes part in the rate determining step.12 13
+10. ALKYL HALIDES 10. ALKYL HALIDES eLearn.Punjab eLearn.PunjabIn SN1 mechanism, the nucleophile attacks when the leaving group had already 
+gone, so the question of the direction of the attack does not arise. Moreover, 
+the intermediate carbocation is a planar specie allowing the nucleophile to attack on it from both the directions with equal ease. We, therefore, observe 50% inversion of configuration and 50% retention of configuration.
+Reactions involving SN1 mechanism show first order kinetics and the 
+rates of such reactions depend only upon the concentration of the alkyl halide. The rate equation of such reactions can be written as follows.
+Rate = k [Alkyl halide]
+Tertiary alkyl halides when attacked by a nucleophile always follow S
+N1 
+mechanism. Secondary alkyl halides, on the other hand, follow both SN1 and SN2 
+mechanisms.
+10.5.3 b-Elimination Reactions
+During nucleophilic substitution reactions, the attacking nucleophile attacks the electrophilic carbon atom of the alkyl halide. There is another site present in the alkyl halide molecule where the nucleophile can attack at the same time.Such a site is an electrophilic hydrogen atom attached to the 
+b-carbon 
+of the alkyl halide. 
+When the attack takes place on hydrogen, we get an alkene instead of a 
+substitution product. Such a type of reactions are called elimination reactions.
+These reactions take place simultaneously with substitution reactions and often 
+compete with them.
+Like nucleophilic substitutions, the elimination reactions can also follow E2 or E1 mechanism.In E2 mechanism, the nucleophile attacks and the leaving group leaves at the same time with a formation of carbon carbon double bond.
+The single step E2 elimination
+Like SN2 reactions, the molecularity of E2 reactions is also two and these 
+reactions show second order kinetics.
+In E1 mechanism, like SN1 mechanism, the first step is the slow 
+ionization of the substrate to give a carbocation. In the second step, the nucleophile attacks on hydrogen to give an alkene as a product
+E2 mechanism is a bimolecular mechanism and the rates of those reactions which follow this mechanism depend upon the concentrations of the alkyl halide as well as the attacking nucleophile or a base. E1 mechanism, on the other hand, is a unimolecular mechanism and the rates of those reactions which follow this mechanism depend only upon the concentration of the alkyl halide molecule. Primary alkyl halides generally follow E2 mechanism whereas tertiary alkyl halides follow E l mechanism.
+Examples of S
+N reactions are given below.These reactions show the
+ usefulness of alkyl halides as synthetic reagents.14 15
+10. ALKYL HALIDES 10. ALKYL HALIDES eLearn.Punjab eLearn.PunjabSubstrate                          Attacking Nucleophile Product
+              +δ             −δCH3  CH2  Br              +       OH                                               
+C2H5OH                        +            Br
+Ethyl alcohol
+              +δ            −δCH3  CH2 Br               +        I                                                  C
+2H5I                                +             Br
+Ethy liodide
+              +δ             −δCH3  CH2  Br              +       CN                                               C
+2H5CN                        +              Br
+Propane nitrile
+              +δ             −δCH3  CH2  Br              +      NO2                                              C
+2H5NO2                     +              Br
+Nitroethane
+              +δ             −δCH3  CH2  Br              +       CH3O                                           CH
+3  CH2  O  CH3 +  Br
+       Ethyl methyl ether
+                 +δ                 −δ                         
+CH3  CH2  Br              +       NH3                                             C
+2H5  NH2              +           HBr
+Ethylamine
+             +δ              
+−δCH3  CH2  Br  + CH3  CH2  NH2                                     (CH
+3  CH2)2NH         +        HBr
+Diethylamine
+             +δ              −δCH3  CH2  Br  + (CH3  CH2)2 NH                                            (CH
+3  CH2)3N             +        HBr
+Triethylamine
+              +δ             −δCH3  CH2  Br  + (CH3  CH2)3 N                                               (CH
+3  CH2)4N              +        Br
+Quaternary ethylammonium ion
+              +δ             
+−δCH3  CH2  Br  +                SH                                                  C
+2H5SH                                  +        Br
+Ethyl thioalcohol
+             +δ              
+−δCH3  CH2  Br  +       CH3COO  Na+                                            CH
+3COOC2H5               +        NaBr
+Ethyl acetate
+Other reactions shown by alkyl halides are as follows:−
+−−
+−
+−
+−
+ . .
+ . .
+ . .
+ . .−
+−
+−
+−
+−
+−1. Wurtz Synthesis
+Alkyl halides react with sodium in ether solvent to give alkanes. The 
+reaction is particularly useful for the preparation of symmetrical alkanes.
+ CH3  CH2  Cl + 2Na + Cl  CH2  CH3     CH3  CH2   CH2  CH2  CH3+ 2NaCl
+                                                                                 n-ButaneEther
+Alkyl halides can be reduced with zinc in the presence of an aqueous acid such as HCI or CH
+3COOH.2. Reduction of Alkyl Halides
+ CH3  CH2  CH2  Cl + Zn + H+ + Cl     CH3  CH2  CH3            +         ZnCl2
+                                                                                     Propane
+ 4CH3Cl + Na4Pb                             (CH3)4Pb               +               4NaCl
+                                                              Tetramethyl lead                                                 
+4CH3CH2  Cl         +  Na4Pb                     (CH3CH2)4Pb             +              4NaCl
+                                                              Tetramethyl leadMethyl chloride and ethyl chloride react with sodium lead alloy giving tetramethyl lead and tetraethyl lead,respectively. These compounds are important anti-knock agents and are used in gasoline.3. Reaction with Sodium Lead Alloy (Na
+4Pb)
+10.6 GRIGNARD REAGENT
+Grignard reagents RMgX are derivatives of alkyl halides belonging 
+to class of organo-metallic compounds. Grignard reagent was first prepared by Victor Grignard in 1900. These reagents are so important in organic synthesis that almost all the classes of organic compounds can be prepared from them. Due to their importance and applications Victor Grignard was awarded Nobel prize in chemistry.16 17
+10. ALKYL HALIDES 10. ALKYL HALIDES eLearn.Punjab eLearn.PunjabPreparation: 
+It is important that all the reactants must be absolutely 
+dry and pure because Grignard reagents are so reactive that they may react with moisture or any impurity present.Reactivity of alkyl halides with magnesium is in the following order:Grignard reagents are prepared by the reaction of magnesium metal with 
+alkyl halides in the presence of dry ether (alcohol free, moisture free).
+And for a given halogen the order of reactivity is as follows:
+CH
+3X > C2H5X > C3H7XAlkyl iodide > Alkyl bromide > Alkyl chloride             
++δ    
+−δ            R  X +              Mg                         R  Mg   X          
+ CH3  CH2  Br +        Mg                         CH3  CH2  Mg   Br
+                                                                                  Ethyl magnesium bromideEther
+Ether
+Structure and Reactivity
+Grignard reagents are much reactive than most of the organic compounds. 
+The reactivity is due to the nature of C - Mg bond which is highly polar.
+δ δδ- +-
+32CH CH -M g - X
+Magnesium is more electropositive than carbon and the C-Mg bond though covalent is highly polar, giving alkyl carbon the partial negative charge. This negative charge is an unusual character which makes the alkyl groups highly reactive towards electrophile centres. Mostly reactions shown by Grignard reagent are exothermic.
+Reactions
+(i)           With Water(ii)           With ammonia
+(iii)          With cyanogen chloride
+(iv)          With alcohols
+(v)          With CO2
+(vi)          With HCHO18 19
+10. ALKYL HALIDES 10. ALKYL HALIDES eLearn.Punjab eLearn.Punjab(viii)          With CH3COCH3(vii)          With CH3CHO
+(ix)          With Epoxide
+Simulation 10.3: Interactive Periodic Table
+Source & Credit: learnerstv20 21
+10. ALKYL HALIDES 10. ALKYL HALIDES eLearn.Punjab eLearn.Punjab1. Monohalo derivates of alkanes are called alkyl halides.
+2.
+ The general formula of alky 1 halides is CnH2n +1X.
+3.
+ The 
+best method for the preparation of alkyl halides is by the reactions of 
+alcohols with inorganic halides like SOCl2, PX3 and PX5.
+4.
+ Alkyl 
+halides are very reactive class of organic compounds. They undergo 
+nucleophilic substitution reactions and elimination reactions in the 
+presence of a nucleophile or a base.
+5.
+ Nucelophilic 
+substitution reactions can take place in two distinct ways. A 
+one step mechanism is called SN2 while a two step mechanism is called 
+SN1. SN1 reactions show first order kinetics whereas SN2 reactions show 
+2nd order kinetic.
+6.
+ Nucleophilic 
+substitution reactions take place simultaneously with 
+elimination reactions and often compete with them.
+7. Elimination of two atoms or groups from adjacent carbon atoms in the 
+presence of a nucleophile or a base is called elimination reaction. Like nucleophilic substitution, (3-elimination reaction also take place in two distinct ways E2 and E1.
+8. Grignard reagent can be prepared by adding alkyl halide in a stirred 
+suspension of magnesium metal in diethyl ether.
+9. Grignard reagent has a reactive nucleophilic carbon atom which can react 
+with electrophilic centres to give the products in high yields.
+10. Primary, secondary and tertiary alcohols can be best prepared by reacting 
+Grignard reagent with formaldehyde, any other aldehydes and ketones, respectively.KEY POINTS
+EXERCISE
+ii)   The best method for the preparation of alkyl halides is the reaction of _________ with inorganic reagents.Q.1. Fill in the blanks.
+i)   In tertiary alkyl halides the halogen atom is attached to a carbon which is
+     further   attached to __________ carbon atoms directly.  
+  iii)    An alkyl group with a partial positive charge on the carbon atom is           called____________ centre.iv)   The mechanism is called __________if it involves one molecule in the        ratedetermining step.v)    Molecularity of a reaction is defined as the number of molecules taking part         in the ______________.vi)    The molecularity of E2 reactions is always two and the reactions show ________        order kinetics.vii)    Wurtz synthesis is useful for the preparation of____________ alkanes.viii)  Grignard reagents are prepared by the reaction of magnesium metal with       alkyl halides in the presence of___________.
+Q.2. Indicate True or False.
+i)      In secondary alkyl halides, the halogen atom is attached to a carbon which is
+        further attached to two carbon atoms directly.ii)     Alcohols react with thionyl chloride in ether as solvent to give alkyl halides.
+iii)    Order of reactivity of alkyl halides for a particular alkyl group is:                                                     
+        Iodide > Bromide > Chloride > Fluorideiv)    In S
+N2 reactions the attacking nucleophile always attacks from the side in         
+       which the leaving group is attached.v)     Methyl magnesium iodide on hydrolysis yields ethyl alcohol.
+vi)    Primary, secondary and tertiary amines react with Grignard reagents in the 
+        sameway. vii) The reactions of secondary alkyl halides may follow both S
+N1 and SN2
+       mechanisms.viii)  S
+N1 mechanism is a one stage process involving a simultaneous bond
+       breakage and bond formation.ix)  In 
+b-elimination reactions, the two atoms or groups attached to two adjacent
+       carbon atoms are lost under the influence of an electrophile.x)    The reactivity order of alkyl halides is determined by the strength of carbon-       halogen bond.22 23
+10. ALKYL HALIDES 10. ALKYL HALIDES eLearn.Punjab eLearn.Punjabi)   In primary alkyl halides, the halogen atom is attached to a carbon which is
+     further attached to how many carbon atoms.     (a) Two                        (b) Three                          (c) One                         (d) Four
+ii)  The reactivity order of alkyl halides for a particular alkyl group is:
+      (a) Fluoride     > Chloride     > Bromide       > Iodide      (b) Chloride    > Bromide     > Fluoride        > Iodide      (c) Iodide        > Bromide      > Chloride       > Fluoride      (d) Bromide   > Iodide           > Chloride      > Fluoride
+iii) When CO
+2 is made to react with ethyl magnesium iodide, followed by acid  
+     hydrolysis, the product formed is:
+      (a) Propane                 (b) Propanoic acid                   (c) Propanal                (d) Propanoliv) Grignard reagent is reactive due to:     (a) the presence of halogen atom                              (b) the presence of Mg atom     (c) the polarity of C -Mg bond                                   (d) none of the aboveQ. 3. Multiple choice questions. Encircle the correct answer.
+v)  S
+N2 reactions can be best carried out with:
+     (a) Primary alkyl halides                                               (b) Secondary alkyl halides     (c) Tertiary alkyl halides                                                (d) All the three
+vi) Elimination bimolecular reactions involve:
+     (a) first order kinetics                                                   (b) second order kinetics      (c) third order kinetics                                                  (d) zero order kinetics
+vii) For which mechanisms, the first step involved is the same.
+      (a) E1 and E2                  (b)E2andS
+N2                    (c)SN1andE2                 (d) E1 and 
+SN1
+viii) Alkyl halides are considered to be very reactive compounds towards nucleophiles, because:       (a) they have an electrophilic carbon     (b) they have an electrophilic carbon and a good leaving group     (c) they have an electrophilic carbon and a bad leaving group      (d) they have a nucleophilic carbon and a good leaving groupQ.4. Define alkyl halide. Which is the best method of preparing alkyl halides?
+Q.5. Write down a method for the preparation of ethyl magnesium bromide 
+in the laboratory?ix) The rate of E1 reaction depends upon:      (a) the concentration of substrate      (b) the concentration of nucleophile       (c) the concentration of substrate as well as nucleophile      (d) None of the above
+x) Which one of the following is not a nucleophile :
+      (a) H
+2O           (b) H2S                     (c) BF3                   (d) NH3
+Q.6. Give IUPAC names to the following compounds.
+i)  
+iv)  (CH3)3C  CH2  Cl iii)  
+ii)   
+vii)  CBr4vi)  (CH3)2CH  CH2  CH(C2H5)CH2Cl v)    (CH3)2CHBr
+viii)    
+ix)   CH2Cl2x)  (CH3)3C  CH2  CH2  CH2  Br
+xi)     
+ xii)  
+xiii)   (CH3CH2)3CBr24
+10. ALKYL HALIDES eLearn.PunjabQ.7. Draw all the possible structures that have the molecular formula C6H13CI.
+     Classify each as primary, secondary or tertiary chloride. Give their names  
+     according to IUPAC system.   
+Q.8. Using ethyl bromide as a starting material how would you prepare the 
+following        compounds. Give also the inorganic reagents and conditions necessary to carry      out these reactions:
+     (a) n-Butane                                      (b) Ethyl alcohol                                        
+     (c) Ethyl  cyanide                              (d) Ethane                                               (e) Ethene                                          (f) Propanoic acid      (g) Propane
+Q.9. Write a detailed note on the mechanism of nucleophilic substitution reac -
+tions.
+Q.10. What do you understand by the term 
+b-elimination reaction. Explain brief -
+ly the two possible mechanisms of 3-elimination reactions.Q.11.
+ What products are formed when the following compounds are treated 
+with ethyl magnesium bromide, followed by hydrolysis in the presence of an 
+acid,      i) HCHO                                         ii) CH
+3CHO                                                  iii) CO2
+     iv) (CH3)2CO                                   v) CH3— CH2— CHO                                  vi) CICN
+Q. 12. How will you carry out the following conversions.
+       i) CH4                                                    CH3CH2COOH
+      ii) CH3— CH3                                        (CH3— CH2)4N+ Br
+      iii) CH2 = CH2                                        CH3— CH2— CH2— CH2 — OH
+      iv) CH3CH2CH2CI                                  CH3— CH = CH2
+      v) CH3COOH                                          CH3CH2COOH

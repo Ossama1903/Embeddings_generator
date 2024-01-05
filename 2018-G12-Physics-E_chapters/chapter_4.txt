@@ -1,0 +1,1624 @@
+
+Chapter 15
+ELECTROMAGNETIC INDUCTION
+Learning Objectives
+At the end of this chapter the students will be able to:
+1.
+Recall that a changing magnetic flux through a circuit causes an emf to be induced in
+the circuit.
+2.
+Know that the induced emf lasts so long as the magnetic flux keeps changing.
+3.
+Determine Motional emf.
+4.
+Use Faraday's law of electromagnetic induction to determine the magnitude of
+induced emf.
+5.
+Apply Lenz's law to determine the direction of induced emf.
+6.
+Recognize self and mutual induction.
+7.
+Define mutual inductance, self-inductance and its unit henry.
+8.
+Know and use the formula E=1LI°
+9.
+Calculate the energy stored in an inductance.
+10.
+Describe the principle, construction and operation of an AC and DC generator.
+11.
+Describe the principle, construction and operation of DC motor.
+12.
+Recognize back emf in motors and back motor effect in generators.
+13.
+Describe the structure and principle of operation of transformer.
+N.
+V.
+14.
+Use
+No
+and VIIVVI, for an ideal transformer.
+15.
+Apply transformer equation to solve the problems.
+16.
+Understand and describe eddy currents and use of laminated core.
+A
+S soon as Oersted discovered that electric currents produce magnetic fields, many
+scientists began to look for the reverse effect, that is, to cause an electric current by means
+of a magnetic field. In 1831 Michael Faraday in England and at the same time Joseph Henry
+in USA observed that an emf is set up in a conductor when it moves across a magnetic field.
+If the moving conductor was connected to a sensitive galvanometer, it would show an
+electric current flowing through the circuit as long as the conductor is kept moving in the
+magnetic field. The emf produced in the conductor is called induced emf, and the current
+generated is called the induced current. This phenomenon is known as electromagnetic
+induction.
+81
+---
+
+15.1 INDUCED EMF AND INDUCED CURRENT
+There are many ways to produce induced emf. Fig. 15.1
+illustrates one of them. Consider a straight piece of wire of
+length l placed in the magnetic field of a permanent magnet.
+N
+The wire is connected to a sensitive galvanometer. This
+Current
+forms a closed path or loop without any battery. In the
+G
+beginning when the loop is at rest in the magnetic field, no
+current is shown by the galvanometer. If we move the loop
+from left to right, the length l of the wire is dragged across the
+Direction
+magnetic field and a current flows through the loop. As we
+of motion
+stop moving the loop, current also stops. Now, if we move the
+loop in opposite direction, current also reverses its direction.
+S
+This is indicated by the deflection of the galvanometer in
+opposite direction.
+The induced current depends upon the speed with which
+Fig.15.1
+conductor moves and upon the resistance of the loop. If we
+change the resistance of the loop by inserting different
+resistors in the loop, and move it in the magnetic field with the
+same speed every time, we find that the product of induced
+current / and the resistance R of the loop remains constant, i.e.,
+1xF = constant
+This constant is the induced emf. The induced emf leads to
+an induced current when the circuit is closed. The current can
+be increased by
+1)
+using a stronger magnetic field
+ii)
+moving the loop faster
+iii)
+replacing the loop by a coil of many turns
+If we perform the above experiment in the other way, i.e.,
+instead of moving the loop across the magnetic field, we
+keep the loop stationary and move the magnet, then it can be
+easily observed that the results are the same. Thus, it can be
+concluded that it is the relative motion of the loop and the
+magnet that causes the induced emf.
+In fact, this relative motion changes the magnetic flux through
+the loop, therefore, we can say that an induced emf is
+produced in a loop if the magnetic flux through it changes.
+The greater the rate of change of flux, the larger is the
+induced emf.
+There are some other methods described below in which an
+emf is induced in a loop by producing a change of magnetic
+82
+---
+
+flux through it.
+1.
+Fig.15.2 (a) shows a bar magnet and a coil of wire to
+Stationary
+which a galvanometer is connected. When there is no
+3
+N
+relative motion between the magnet and the coil, the
+galvanometer indicates no current in the circuit. As
+soon as the bar magnet is moved towards the coil, a
+(a)
+current appears in it (Fig 15.2 b). As the magnet is
+moved, the magnetic flux through the coil changes,
+G
+and this changing flux produces the induced current in
+the coil. When the magnet moves away from the coil,
+a current is again induced but now in opposite
+S
+direction. The current would also be induced if the
+magnets were held stationary and the coil is moved.
+2.
+There is another method in which the current is
+(b)
+G
+induced in a coil by changing the area of the coil in a
+constant magnetic field. Fig. 15.3 (a) shows that no
+Fig. 15.2
+current is induced in the coil of constant area placed
+in a constant magnetic field. However, when the coil
+is being distorted so as to reduce its area, (Fig. 15.3 b)
+an induced emf and hence current appears. The
+current vanishes when the area is no longer
+changing. If the distorted coil is brought to its original
+x
+X
+x
+circular shape thereby increasing the area, an
+oppositely directed current is induced which lasts as
+X
+x
+x
+long as the area is changing.
+x
+X
+x
+x
+x
+x
+x
+x
+<
+x
+x
+x
+x
+x
+x
+x
+x
+X
+x
+X
+x
+x
+x
+x
+(a)
+x
+x
+x
+x
+B into paper
+B into paper
+x
+Axis of
+rotation
+x
+x
+x
+x
+Fig. 15.4
+x
+3.
+An induced current can also be generated when a coil
+of constant area is rotated in a constant magnetic
+field. Here, also, the magnetic flux through the coil
+X
+changes (Fig. 15.4). This is the basic principle used in
+electric generators.
+(b)
+4.
+A very interesting method to induce current in a coil
+B into paper
+involves by producing a change of magnetic flux in
+Fig. 15.3
+83
+---
+
+a nearby coil. Fig. 15.5 shows two coils placed side by
+P
+S
+side. The coil P is connected in series with a battery, a
+rheostat and a switch, while the other coil S is
+connected to a galvanometer only. Since there is no
+battery in the coil S, one might expect that the current
+through it will always be zero. Now, if the switch of the
+coil P is suddenly closed, a momentary current is
+induced in coil S. This is indicated by the
+Switch
+open
+galvanometer, which suddenly deflects and then
+returns to zero. No induced current exists in coil S as
+long as the current flows steadily in the coil P. An
+P
+S
+oppositely directed current is induced in the coil S at
+the instant the switch of coil P is opened. Actually, the
+current in P grows from zero to its maximum value
+just after the switch is closed. The current comes
+down to zero when the switch is opened. Due to
+change in current, the magnetic flux associated with
+Switch
+the coil P changes momentarily. This changing flux is
+closed
+also linked with the coil S that causes the induced
+Fig. 15.5
+current in it. Current in coil P can also be changed
+with the help of rheostat.
+5.
+It is also possible to link the changing magnetic flux
+with a coil by using an electromagnet instead of a
+permanent magnet. The coil is placed in the magnetic
+field of an electromagnet (Fig. 15.6). Both the coil and
+Electromagnet
+the electromagnet are stationary. The magnetic flux
+through the coil is changed by changing the current of
+the electromagnet, thus producing the induced
+N
+current in the coil.
+15.2 MOTIONAL EMF
+Coil
+In the previous section we have studied that when a
+S
+conductor is moved across a magnetic field, an emf is
+induced between its ends. The emf of the moving conductor
+Current
+is similar to that of a battery, i.e., if the ends of the conductor
+are joined by a wire to make a closed circuit, a current flows
+Fig. 15.6
+through it.
+The emf induced by the motion of a conductor
+across a magnetic field is called motional emf.
+Consider a conducting rod of length L placed on two parallel
+metal rails separated by a distance L. A galvanometer is
+connected between the ends C and d of the rails. This forms a
+complete conducting loop abcda (Fig. 15.7a), A uniform
+84
+---
+
+magnetic field B is applied directed into the page. Initially
+B into paper
+when the rod is stationary, galvanometer indicates no current
+b
+c
+1
+in the loop. If the rod is pulled to the right with constant
+velocity V, the galvanometer indicates a current flowing
+through the loop. Obviously, the current is induced due to the
+motion of the conducting rod across the magnetic field. The
+moving rod is acting as a source of emf = Vb - Va = AV.
+When the rod moves, a charge q within the rod also moves
+d
+I
+a
+with the same velocity V in the magnetic field B and
+Fig. 15.7(a)
+experiences a force given by
+F=qvxB
+The magnitude of the force is
+F=qvBsin 9
+Since angle 0 between V and B is 90°, so
+F=qvB
+Applying the right hand rule, we see that F is directed from a
+to b in the rod. As a result the charge migrates to the top end
+of the conductor. As more and more of the charges migrate,
+concentration of the charge is produced at the top b and
+deficiency of charges at the bottom a. This redistribution of
+charge sets up an electrostatic field E directed from b to a.
+The electrostatic force on the charge is F® e = qE directed from
+b to a. The system quickly reaches an equilibrium state in
+which these two forces on the charge are balanced. If E0 is
+the electric intensity in this state then
+qEo=qvB
+Eo=vB
+(15.1)
+The motional emf E will be equal to the potential difference
+AV, AV = Vb - V between the two ends of the moving
+conductor in this equilibrium state. The gradient of potential
+will be given by AVIL. As the electric intensity is given by the
+negative of the gradient, therefore,
+(15.2)
+or AV=-LEg=(LvB)
+85
+---
+
+The motional emf
+AV ==LVB
+(15.3)
+This is the magnitude of motional emf. However, if the angle
+between V and B is 0, then
+8=-vBL sin
+(15.4)
+Due to induced emf positive charges would flow along the
+path abcda, therefore the induced current is anticlockwise in
+the diagram. As the current flows, the quantity of the charge at
+the top decreases so the electric intensity decreases but the
+Interesting information
+magnetic force remains the same Hence the equilibrium is
+disturbed in favour of magnetic force. Thus as the charges.
+reach the end a of the conductor due to current flow, they are
+carried to the top end b of the conductor by the unbalanced
+magnetic field and the current continues to flow.
+This heater operates on the principle
+Example 15.1: A metal rod of length 25 cm is moving at a
+of electromagnetic induction. The
+speed of 0.5 ms-1 in a direction perpendicular to a 0,25 T
+water in the metal pot is boiling
+whereas that in the glass pot is not.
+magnetic field. Find the emf produced in the rod.
+Even the glass top of the heater is cool
+to touch. The coil just beneath the top
+Solution:
+carries ac that produces changing
+magnetic flux. Flux linking with pots
+Speed of rod =V=0.5ms
+induce emf in them. Current is
+generated in the metal pot that heats
+Length of rod =L=25cm= 0.25m
+up the water, but no current flows
+through the glass pan, why?
+Magnetic flux density = B = 0.25T = 0.25NA-1 m-1
+Induced emf = = = ?
+Using the relation,
+E =VBL
+E=0.5ms-1 X 0.25NA-1 m x0.25m
+e=3.13x10-2 JC-1 3.13x10-21 V
+15.3 FARADAY'S LAW AND INDUCED EMF
+The motional emf induced in a rod moving perpendicular to
+a
+magnetic field is E = -vBL. The motional emf as well as other
+induced emfs can be described in terms of magnetic flux.
+Consider the experiment shown in Fig. 15.8 again. Let the
+conducting rod L moves from position 1 to position 2 in a
+small interval of time At. The distance travelled by the rod in
+time Atis X 2
+86
+---
+
+/
+Position 1
+Position 2
+x
+x
+X
+X
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+X
+AA
++
+L
+V
+x
+x
+x
+x
+x
+x
+X
+x
+x
+x
+B into paper
+X,
+AX
+X,
+Fig. 15.8
+Since the rod is moving with constant velocity V, therefore
+v=AX A
+Point to Ponder
+(15.5)
+1
+From Eq. 15.3
+E = - vBL = - AX BL BL
+(15.6)
+2
+:
+x
+X
+As the rod moves through the distance , the increase in the
+x
+area of loop is given by AA = .L. This increases the flux
+x
+through the loop by AO = AA.B = Ax.L.B. Putting Ax.L.B = AO
+3
+x
+x
+in Eq. 15.6, we get
+x
+8=
+AO
+(15.7)
+At
+4
+If there is a coil of N loops instead of a single loop, then the
+induced emf will become N times, i.e.,
+AO
+8=-N
+(15.8)
+At
+5
+Although the above expression is derived on the basis of
+motional emf, but it is true in general. This conclusion was
+first arrived at by Faraday, so this is known as Faraday's law
+of electromagnetic induction which states that
+A cooper ring passes through a
+rectangle region where a constant
+magnetic field is directed into the
+"The average emf induced in a conducting coil of N
+page. What do you guess about the
+loops is equal to the negative of the rate at which the
+current in the ring at the positions 2, 3
+and 4?
+magnetic flux through the coil is changing with time".
+87
+---
+
+The minus sign indicates that the direction of the induced emf
+is such that it opposes the change in flux.
+Example 15.2: A loop of wire is placed in a uniform
+magnetic field that is perpendicular to the plane of the loop.
+The strength of the magnetic field is 0.6 T. The area of the
+loop begins to shrink at a constant rate
+What is the magnitude of emf induced in the loop while it is
+shrinking?
+Solution:
+Rate of change of area a
+Magnetic flux idensity = B=0.6T=0.6NA`m
+Number of turns =N=1
+Induced emf = E=?
+Rate of change of = B
+Applying Faraday's Law, magnitude of induced emf
+=1x0.6NA*m x 0.8 m²s'
+E=0.48 JC = 0.48 V
+15.4 LENZ'S LAW AND DIRECTION OF
+INDUCED EMF
+In the previous section, a mathematical expression of the
+Faraday's law of electromagnetic induction was derived as
+E
+E=-NOO
+The minus sign in the expression is very important. It has to
+do with the direction of the induced emf. To determine the
+?
+direction we use a method based on the discovery made by
+the Russian Physicist Heinrich Lenz in 1834. He found that
+the polarity of an induced emf always leads to an induced
+current that opposes, through the magnetic field of the
+induced current, the change inducing the emf. The rule is
+known as Lenz's law which states that
+"The direction of the induced current is always so
+as to oppose the change which causes the current".
+88
+---
+
+The Lenz's law refers to induced currents and not to induced
+emf, which means that we can apply it directly to closed
+conducting loops or coils. However, if the loop is not closed
+we can imagine as if it were closed, and then from the
+direction of induced current, we can find the direction of the
+induced emf.
+Let us apply the Lenz's law to the coil in which current is
+induced by the movement of a bar magnet. We know that a
+current carrying coil produces a magnetic field similar to that
+of a bar magnet. One face of the coil acts as the north pole
+while the other one as the south pole. If the coil is to oppose
+the motion of the bar magnet, the face of the coil towards the
+magnet must become a north pole (Fig. 15.9). The two north
+poles will then repel each other. The right hand rule applied to
+V
+S
+N
+N
+S
+current is
+anti-clockwise
+Fig. 15.9
+the coil suggests that the induced current must be anti-
+clockwise as seen from the side of the bar magnet.
+According to Lenz's law the "push' of the magnet is the
+"change" that produces the induced current, and the current
+acts to oppose the push. On the other hand if we pull the
+magnet away from the coil the induced current will oppose
+the "pull" by creating a south pole on the face of coil towards
+the bar magnet.
+The Lenz's law is also a statement of law of conservation of
+energy that can be conveniently applied to the circuits
+involving induced currents. To understand this, consider once
+again the experiment in Fig. 15.8. When the rod moves
+towards right, emf is induced in it and an induced current flows
+through the loop in the anti-clockwise direction. Since the
+89
+---
+
+current carrying rod is moving in the magnetic field, it
+/
+B into paper
+experiences a magnetic force Fm having the magnitude
+Fm = ILBsin90°. By right hand rule the direction of Fm is
+x
+x
+x
+x
+x
+x
+x
+opposite to that of V, so it tends to stop the rod (Fig. 15.10 a).
+x
+x
+x
+x
+x
+x
+An external dragging force equal to Fm m in magnitude but
+F.
+V
+x
+x
+x
+x
+x
+opposite in direction must be applied to keep the rod moving
+with constant velocity. This dragging force provides the
+x
+x
+x
+x
+energy for the induced current to flow. This energy is the
+source of induced current, thus electromagnetic induction is
+(a)
+exactly according to law of conservation of energy.
+The Lenz's law forbids the induced current directed
+B into paper
+clockwise in this case. because the force F. would be. then,
+x
+x
+x
+x
+x
+x
+in the direction of V that would accelerate the rod towards
+F.
+right (Fig. 15.10 b). This in turn would induce a stronac
+x
+x
+x
+x
+x
+x
+current, the magnetic field due to it also increases
+the
+v
+x
+x
+x
+x
+x
+x
+magnetic force increases further Thus the motion of the wire
+is accelerated more and more Starting with a minute quantity
+x
+x
+x
+x
+x
+of energy, we obtain an ever increasing kinetic energy of
+motion apparently from nowhere Consequently the process
+(b)
+becomes self-perpetuating which is against the law of
+conservation of energy
+Fig. 15.10
+15.5 MUTUAL INDUCTION
+Consider two coils placed close to each other (Fig.15.11).
+One coil connected with a battery through a switch and a
+Primary
+Secondary
+coil
+coil
+1.
+S
+Rheostat
+Flg. 15.11
+rheostat is called the "primary" and the other one connected
+to the galvanometer is called the "secondary". If the current in
+the primary is changed by varying the resistance of the
+rheostat, the magnetic flux in the surrounding region
+90
+---
+
+changes. Since the secondary coil is in the magnetic field of
+the primary, the changing flux also links with the secondary.
+This causes an induced emf in the secondary.
+The phenomenon in which a changing
+current in one coil induces an emf in
+another coil is called the mutual induction.
+According to Faraday's law, the emf induced in the
+secondary coil is proportional to the rate of change of flux
+so
+S
+passing through it, i.e.,
+At
+where N, is the number of turns in the secondary coil.
+Let the flux passing through one loop of the secondary coil be
+Do. Net flux passing through the coil of N, loops is N,O2. As this
+flux is proportional to the magnetic field produced by the
+current Ip in the primary and the magnetic field itself is
+proportional to Ip, therefore
+N,0,= MI,
+(15.9)
+NO
+Where M== M
+is proportionality constant called the
+mutual inductance of the two coils. It depends upon the
+number of turns of the coils, their area of cross - section, their
+closeness together and the nature of the core material upon
+which the two coils are wound.
+By Faraday's law the emf induced in the secondary coil is
+given by the rate of change of flux through the secondary.
+AN
+= -
+Putting N,O,=MI,f from Eq. 15.9
+Eg = At
+e== Ip
+A
+(15.10)
+The Eq.15.10 shows that the emf induced in the secondary is
+proportional to the time rate of change of current in the primary.
+91
+---
+
+The negative sign in Eq. .15.10 indicates the fact that the
+induced emf is in such a direction that it opposes the change
+of current in the primary coil. While finding out the value of M
+from Eq. 15.10, negative sign is ignored. Thus M may be
+defined as the ratio of average emf induced in the secondary
+to the time rate of change of current in the primary.
+M=Ai./ M =
+At
+The SI unit for the mutual inductance M is Vs A1, which is
+called as henry (H) after Joseph Henry.
+One henry is the mutual inductance of the pair of coils in
+which the rate of change of current of one ampere per second
+in the primary causes an induced emf of one volt in the
+secondary.
+Example 15.3: An emf of 5.6 V is induced in a coil while the
+current in a nearby coil is decreased from 100 A to
+20 A in 0.02 S. What is the mutual inductance of the two coils?
+If the secondary has 200 turns, find the change in flux during
+this interval.
+Solution:
+emf induced in the secondary = Eg = 5.6 V
+Change in current in primary = Al, = 100 A - 20 A = 80 A
+Time interval for the change
+=At = 0.02 S
+Mutual inductance
+= M =?
+No. of turns in the secondary
+= Ns =200
+Change in flux
+= AO = ?
+Al
+Using
+Eg = At M
+80
+A
+5.6 V=Mx
+0.02
+S
+M = 5.6 1.4 X 10 VsA*
+By Faraday's Law Eg
+Ns 0.02 S = 5.6 X 10 Wb
+92
+---
+
+15.6 SELF INDUCTION
+According to Faraday's law, the change of flux through a coil
+by any means induces an emf in it. In all the examples we have
+discussed so far, induced emf was produced by a changing
+magnetic flux from some external source. But the change of
+flux through a coil may also be due to a change of current in
+the coil itself.
+Consider the circuit shown in Fig. 15.12. A coil is connected in
+series with a battery and a rheostat. Magnetic flux is produced
+through the coil due to current in it. If the current is changed by
+S
+varying the rheostat quickly, magnetic flux through the coil
+Rheostat
+changes that causes an induced emf in the coil. Such an emf
+is called as self induced emf.
+Fig. 15.12
+The phenomenon in which a changing current in a
+coil induces an emf in itself is called self induction.
+If the flux through one loop of the coil be 0. then the total flux
+through the coil of N turns would be N O As is proportional
+to the magnetic field which is in turn proportional to the
+current I, therefore
+Nox/
+or
+NO=LI
+(15.11)
+L=No
+No
+where
+is the constant of proportionality called the self
+inductance of the coil. It depends upon the number of turns of
+the coil, its area of cross-section and the core material. By
+winding the coil around a ferromagnetic (iron) core, the
+magnetic flux and hence the inductance can be increased
+significantly relative to that for an air core.
+By Faraday's Law, , emf induced in the coil is
+&2 N AO At
+& = (NO) At
+Putting NO = LI from 15.11
+A(LI)
+E1 = At
+or
+E1 = - L At
+(15.12)
+93
+---
+
+The Eq.15.12 shows that the self induced emf in a coil is
+proportional to the time rate of change of current in the coil.
+Self inductance L of a coil may be defined as the ratio of the
+emf to the rate of change of current in the coil. The unit of L is
+also henry (H).
+The negative sign in Eq.15.12 indicates that the self induced
+emf must oppose the change that produced it. That is why the
+self induced emf is sometimes called as back emf. This is
+exactly in accord with the Lenz's law. If the current is increased,
+the induced emf will be opposite to that of battery and if the
+current is decreased the induced emf will aid, rather than
+opposing the battery. Because of their self inductance, coils of
+wire are known as inductors, and are widely used in electronics.
+In alternating current, inductors behave like resistors.
+Example 15.4: The current in a coil of 1000 turns is
+changed from 5 A to zero in 0.2 S. If an average emf of
+50 V is induced during this interval, what is the self
+inductance of the coil? What is the flux through each turn of
+the coil when a current of 6A is flowing?
+Solution:
+Change in current
+=A/=5A-0=5A
+Time interval
+=At=0.2s
+emfinduced
+=E=50V
+Self induction
+=L=?
+Steady current
+=1=6A
+No. of turns of coil =N=1000
+Flux through each turn = O=?
+50 V
+Using
+L = E 0.2s 5A
+0.2s
+L=2 VsA1 = 2H
+Now, using Eq. 15.11
+NO=LI
+or
+=
+1.2x102
+Wb
+1000
+94
+---
+
+15.7 ENERGY STORED IN AN INDUCTOR
+We have studied in chapter 12 that energy can be stored in
+the electric field between the plates of a capacitor. In a similar
+manner, energy can be stored in the magnetic field of an
+inductor.
+Consider a coil connected to a battery and a switch in series
+(Fig. 15.13). When the switch is turned on voltage V is applied
+across tho ends of the coil and current through it rises from
+zero to its maximum value I. Due to change of current, an emf
+Induced
+is induced, which is opposite to that of battery. Work is done
+Current
+by the battery to move charges against the induced emf.
+Work done by the battery in moving a small charge Aq is
+W = Age
+(15.13)
+Where EL= is the magnitude of induced emf, given by
+I
+I
+=
+s + H
+Putting the value of el= in Eq. 15.13 we get
+Fig. 15.13
+Total work done in establishing the current from 0 to I is found
+by inserting for 49,the average current, and the value of AI.
+Average current
+Change in current=A=I-0=
+Total work
+=w=(1/1)
+w=1/12
+(15.14)
+This work is stored as potential energy in the inductor. Hence
+the energy stored in an inductor is
+Un=12
+(15.15)
+As in case of a capacitor, energy is stored in the electric field
+between the plates, likewise, in an inductor, energy is stored
+in the magnetic field. Therefore, Eq. 15.15 can be expressed
+in terms of the magnetic field B of a solenoid which has n turns
+per unit length and area of cross section A. The magnetic
+field strength inside it is B = Honl Since flux through the coil is
+95
+---
+
+O=BA
+or
+©=u.niA
+(15.16)
+Substituting the value of O in .15.11
+For Your Information
+we have
+If e is the length of solenoid, then putting N=nl in above Eq.
+we get the self inductance of the solenoid as
+L=(ne)
+L=H.n2Al
+(15.17)
+Substituting for L, the Eq. .15.15 becomes,
+lion core
+(a)
+(15.18)
+Since B for a solenoid is given by B=H, or 1-18
+Substituting for I, Eq.15.18 becomes
+(15.19)
+Magnetic
+field lines
+produced
+by
+Now energy density can be defined as the energy stored per
+unit volume inside the solenoid, so dividing Eq. 15.19 by the
+(6)
+volume (Al), -we get energy density,
+An induction ammeter with its iron-
+1 B2
+core jaw (a) open and (b) closed
+around a wire carrying an alternating
+un=2
+(15.20)
+current 1. some of the magnetic field
+lines that encircle the wire are routed
+through the coil by the iron core and
+Example 15.5: A solenoid coil 10.0 cm long has
+lead to an induced emf. The meter
+40 turns per cm. When the switch is closed, the current rises
+detects the emf and is calibrated to
+from zero to its maximum value of 5.0 A in 0.01 S. Find the
+display the amount of current in the
+wire.
+energy stored in the magnetic field if the area of
+cross-section of the solenoid be 28 cm².
+Solution:
+Length of solenoid = l = 10.0cm= 0.1 m
+No. of turns
+= n=40 per cm = 4000 perm
+96
+---
+
+Area of cross section = A = cm2 = 2.8 x 10 4
+Steady current = /=5A
+Energy Stored = Um=?
+First, we calculate the inductance L using the Eq. (15.17)
+L=Hon2Al
+= (410-7) WbA 'm ' x 0.1m
+5.63x10-3 WbA-1=5.63x103H
+Energy stored=
+=7.04x10-2Nm=7.04x10-2 J
+/
+/
+15.8 ALTERNATING CURRENT GENERATOR
+R
+We have learnt that when a current carrying coil is placed in a
+magnetic field, a torque acts on it that rotates the coil. What
+R
+Carbon
+happens if a coil of wire is rotated in a magnetic field? Can a
+d
+brush
+current be produced in the coil? Yes, it does. Such a device is
+called a current generator.
+A current generator is a device that converts
+mechanical energy into electrical energy.
+N
+S
+The principle of an electric generator is based on Faraday's
+b
+law of electromagnetic induction. When a coil is rotated in a
+magnetic field by some mechanical means, magnetic flux
+through the coil changes, and consequently an emf is
+(Front view)
+induced in the coil.
+If the generator is connected to an external circuit, an electric
+Fig.15.14
+current is the output of the generator.
+Let a rectangular loop of wire of area A be placed in a uniform
+magnetic field B (Fig.15.14). The loop is rotated about z-axis
+through its centre at constant angular velocity (3). One end of the
+loop is attached to a metal ring R and the other end to the ring
+R'. These rings, called the slip rings are concentric with the axis
+of the loop and rotate with it. Rings RR' slide against stationary
+carbon brushes to which external circuit is connected.
+d
+To calculate the induced emf in the loop, consider its position
+N
+S
+(Fig.15.15) while it is rotating anticlockwise. The figure shows the
+top view of the coil. The vertical side ab of the loop is moving with
+velocity V in the magnetic field B. If the angle between V and B
+(Top view)
+be 0, the motional emf induced in the side ab has the magnitude,
+Fig. 15.15
+Eab = vBL sinO
+97
+---
+
+The direction of induced current in the wire ab is the same as
+that of force F experienced by the charges in the wire, i.e.,
+from top to the bottom. The same amount of emf is induced in
+the side cd but the direction of current is from bottom to the
+top.
+Therefore
+sin 0
+The net contribution to emf by sides bc and da is zero
+because the force acting on the charges inside bc and da is
+not along the wire.
+Thus
+Since both the émfs in the sides ab and cd drive current in the
+same direction around the loop, the total emf in the loop is
+E=Ea++E.co
+E=vBLsin0 +vBLsin8
+E=2vBLsin9
+If the loop is replaced by a coil of N turns, the total emf in the
+coil will be,
+E=2 NvBL sinG
+(15.21)
+A
+The linear speed V of the vertical wire is related to the angular
+speed w by the relation
+v=wr
+where r is the distance of the vertical wires from the centre of
+the coil. Substituting or for vin Eq. (15.21)
+We get
+e=2N(wr) BL sine
+B sine
+E = Nw AB sin 0
+(15.22)
+where A=2rL = area of the coil
+As the angular displacement 0 = wt, so the Eq. 15.22 becomes
+E No AB sin(wt)
+(15.23)
+Eq. 15.23 shows that the induced emf varies sinusoidally with
+time.
+It has the maximum value E0 when sin (wt) is equal to 1. Thus
+Eg ==No AB
+(15.24)
+98
+---
+
+The Eq. 15.23 can be written as,
+E Eo sin (ct)
+(15.25)
+If R is the resistance of the coil, then by Ohm's law, induced
+current in the coil will be
+sin(wt) R so R sin(wt)
+or
+I =1o sin(wt)
+(15.26)
+where 1g is maximum current.
+Angular speed w of the coil is related to its frequency of
+rotation fas, (1) = 2 f
+The Eqs.15.25 and 15.26 can be written as
+E = sosin(2nft)
+(15.27)
+/ = I,sin (2nft)
+(15.28)
+Eq. 15.28 indicates the variation of current as a function of
+0 = 2xft. Fig. 15.16 shows the graph for the current
+corresponding to different positions of one loop of the coil.
+d
+d
+d
+a
+a
+d
+a
+d
+I
+a
+B
+B
+B
+B
+B
+N
+N
+BA
+89
+N
+V
+/
+V
+c
+C
+b
+b
+b
+C
+b
+I
+0
+TO
+3
+2
+-I
+2
+When the angle between V & B is 0 = 0°, the plane of the loop
+Fig. 15.16
+is perpendicular to B, current is zero. As 0 increases, current
+also increases and at 0 = 90° = /2 rad, the loop is parallel to
+B, current is maximum, directed along abcda. On further
+increase in 0 current decreases, and at 0 = 180° = TO rad the
+current becomes zero as the loop is again perpendicular to B.
+For 180° < A < 270° current increases but reverses its
+direction as is clear from the figure. Current is now directed
+along dcbad. At 0 = 270° = 3 /2 rad, current is maximum in
+99
+---
+
+the reverse direction as the loop is parallel to B.
+At 0 = 360° = 2 rad, one rotation is completed, the loop is
+perpendicular to B and the current decreases to zero. After
+one rotation the cycle repeats itself. The current alternates in
+For Your Information
+direction once in one cycle. Therefore, such a current is
+called the alternating current. It reverses its direction
+f times per second.
+In actual practice a number of coils are wound around an iron
+cylinder which is rotated in the magnetic field. This assembly
+is called an armature. The magnetic field is usually provided
+by an electromagnet. Armature is rotated by a fuel engine or a
+turbine run by a waterfall. In some commercial generators,
+field magnet is rotated around a stationary armature.
+Example 15.6: An alternating current generator operating at
+50 Hz has a coil of 200 turns. The coil has an area of 120 cm².
+What should be the magnetic field in which the coil rotates in
+order to produce an emf of maximum value of 240 volts?
+Solution:
+Frequency of rotation = f=50Hz
+Faraday's homopolar generator with
+No. of turns of the coil = N = 200
+which he was able to produce a
+continuous induced current
+Area of the coil = A = 120 cm2 = 1.2x102 m²
+Maximum emf==m
+Magnetic flux density = B=?
+First, we shall find the angular speed w
+Using
+w=2nf
+22 = 314.3rads-1
+B
+=
+Using = NoAB
+or
+B =
+314.3 x1.2x10-2m2
+B = 0.32 Vs rad m -2 = 0.32T
+15.9 D.C. GENERATOR
+Alternating current generators are not suitable for many
+applications, for example, to run a D.C. Motor. In 1834,
+William Sturgeon invented a simple device called a
+commutator that prevents the direction of current from
+100
+---
+
+changing. Therefore a D.C. generator is similar to the A.C.
+generator in construction with the difference that
+A'
+"slip rings" are replaced by "split rings". The "split rings" are
+A
+B
+two halves of a ring that act as a commutator. Fig. 15.17
+B
+shows the "split rings" Aand A attached to the two ends of the
+coil that rotates in the magnetic field. When the current in the
+coil is zero and is about to change direction, the split rings
+also change the contacts with the carbon brushes BB'. In this
+way the output from BB' remains in the same direction,
+although the current is not constant in magnitude. The curve
+Fig. 15.17
+of the current is shown in Fig. 18. It is similar to a sine curve
+with the lower half inverted. The fluctuations of the output can
+be significantly reduced by using many coils rather than a
+single one. Multiple coils are wound around a cylindrical core
+to form the armature. Each coil is connected to a separate
+commutator and the output of every coil is tapped only as it
+reaches its peak emf. Thus the emf in the outer circuit is
+almost constant.
+15.18
+15.10
+BACK MOTOR EFFECT IN
+GENERATORS
+Agenerator is the source of electricity production. Practically,
+the generators are not so simple as described above. A large
+a
+turbine is turned by high pressure steam or waterfall. The
+d
+shaft of the turbine is attached to the coil which rotates in a
+F.
+magnetic field. It converts the mechanical energy of the
+B
+driven turbine to electrical energy. The generator supplies
+current to the external circuit. The devices in the circuit that
+B
+F2
+consume electrical energy are known as the "load". The
+/
+greater the load the larger the current is supplied by the
+generator. When the circuit is open, the generator does not
+c
+supply electrical energy, and a very little force is needed to
+rotate the coil. As soon as the circuit is closed, a current is
+drawn through the coil. The magnetic field exerts force on the
+(a) Front view
+current carrying coil. Fig. 15.19 shows the forces acting on
+the coil. Force F, is acting on the left side of the coil whereas
+current into
+an equal but opposite force F2 acts on the right side of the coil.
+F,
+paper
+These forces are such that they produce a counter torque
+B
+that opposes the rotational motion of the coil. This effect is
+sometimes referred to as back motor effect in the generators.
+B
+The larger the current drawn, the greater is the counter torque
+F2
+produced. That means more mechanical energy is required
+current out
+of paper
+to keep the coil rotating with constant angular speed. This is
+(b) Top view
+in agreement with the law of conservation of energy. The
+Fig.15.19
+101
+---
+
+energy consumed by the "load" must come from the "energy
+source" used to drive the turbine.
+15.11 D.C. MOTOR
+A motor is a device which converts electrical energy into
+mechanical energy. We already know that a wire carrying
+current placed in a magnetic field experiences a force. This is
+the basic principle of an electric motor. In construction a D.C
+motor is similar to a D.C generator, having a magnetic field, a
+commutator and an armature. In the generator, the armature
+F
+is rotated in the magnetic field and current is the output. In the
+D.C motor, current passes through the armature that rotates
+B
+in the magnetic field. In the D.C motor, the brushes are
+connected to a D.C supply or battery (Fig.15.20). When
+N
+S
+current flows through the armature coil, the force on the
+-F
+conductors produces a torque, that rotates the armature. The
+amount of this torque depends upon the current, the strength
+of the magnetic field, the area of the coil and the number of
+turns of the coil.
+If the current in the coil were all the time in the same direction,
+the torque on it would be reversed after each half revolution.
+But at this moment, commutator reverses the direction of
+Fig. 15.20
+current that keeps the torque always in the same sense. A
+little problem arises due to the use of commutator, that is, the
+torque vanishes each time the current changes its direction.
+This creates jerks in the smooth running of the armature.
+However the problem is overcome by using more than one
+coil wrapped around a soft-iron core. This results in
+producing a more steady torque.
+The magnetic field in the motor, is provided by a permanent
+magnet or an electromagnet. The windings of the
+electromagnet are usually called the field coils. The field coils
+may be in series or in parallel to the armature coils.
+15.12 BACK EMF EFFECT IN MOTORS
+A motor is just like a generator running in reverse. When the
+coil of the motor rotates across the magnetic field by the
+applied potential difference V. an emf E is induced in it. The
+induced emf is in such a direction that opposes the emf
+running the motor. Due to this reason the induced emf is
+called back emf of the motor. The magnitude of the back emf
+increases with the speed of motor.
+Since Vand E are opposite in polarity, the net emf in the circuit
+is V - E. If R is the resistance of the coil and / the current drawn
+102
+---
+
+by the motor, then by Ohm's law
+1=V-i
+V-8
+or V=E+IR
+R
+(15.29)
+When the motor is just started, back emf is almost zero and
+hence a large current passes through the coil. As the motor
+speeds up, the back emf increases and the current becomes
+smaller and smaller. However, the current is sufficient to
+provide torque on the coil to drive the load and to overcome
+losses due to friction. If the motor is overloaded, it slows
+down. Consequently, the back emf decreases and allows the
+motor to draw more current. If the motor is overloaded
+beyond its limits, the current could be so high that it may
+burn out the motor.
+Example 15.7: A permanent magnet D.C motor is run by a
+battery of 24 volts. The coil of the motor has a resistance of
+2 ohms. It develops a back emf of 22.5 volts when driving the
+load at normal speed. What is the current when motor just
+starts up? Also find the current when motor is running at
+normal speed.
+Solution:
+Operation Voltage = V=24V
+Resistance of the coil = R=20
+Back emf = E=22.5V
+Current =1 =??
+i)
+when motor just starts up, the back emf E=0
+Using
+V= E+IR
+4V=0+IX2Q
+1=24)=12V2'=12A
+when motor runs at normal speed, e=22.5V
+then using
+V=E+IR
+V=22.5V+1x20
+=
+15.13 TRANSFORMER
+A transformer is an electrical device used to change a given
+alternating emf into a larger or smaller alternating emf. It
+103
+---
+
+works on the principle of mutual induction between two coils.
+In principle, the transformer consists of two coils of copper,
+electrically insulated from each other, wound on the same
+iron core. The coil to which A.C power is supplied is called
+primary and that from which power is delivered to the circuit is
+called the secondary.
+It should be noted that there is no electrical connection
+between the two coils but they are magnetically linked.
+Suppose that an alternating emf is applied to the primary. If at
+some instant t the flux in the primary is changing at the rate of
+AO/At then there will be back emf induced in the primary
+which will oppose the applied voltage. The instantaneous
+value of the self induced emf is given by
+Self induced
+If the resistance of the coil is negligible then the back emf is
+equal and opposite to applied voltage V
+Vp=-back = emf
+(15.30)
+where No is the number of turns in the primary.
+Assuming the flux through the primary also passes through the
+secondary, i.e., the two coils are tightly coupled, the rate of
+change of flux in the secondary will also be /t and the
+magnitude of the induced emf across the secondary is given by
+(15.31)
+At
+where N, is the number of turns in the secondary
+Input
+Output
+Dividing Eq. 15.31 by Eq. 15.30, we get
+Vs . No
+(15.32)
+Un
+Step up transformer
+Np
+If N, > N then according to Eq. 15.32, V.>V such a
+transformer in which voltage across secondary is greater
+Input
+Output
+than the primary voltage is called a step up transformer (Fig.
+15.20 a). Similarly if N, < N. i.e., the number of turns in the
+secondary is less than the number in primary, then V, < Vpr
+(b)
+Step down transformer
+such transformer in which voltage across secondary is less
+Fig 15.20
+than the primary voltage is called a step down transformer
+(Fig. 15.20 b).
+104
+---
+
+It is important to note that the electrical power in a
+transformer is transformed from its primary to the secondary
+coil by means of changing flux. For an ideal case the power
+input to the primary is nearly equal to the power output from
+the secondary i.e.,
+Power input = Power output
+i.e.
+Vs
+1p
+or
+(15.33)
+Vp Is
+Ig is the current in the primary and I, in the secondary. The
+currents are thus inversely proportional to the respective
+voltages. Therefore, in a step up transformer when the
+voltage across the secondary is raised, the value of current is
+reduced. This is the principle behind its use in the electric
+supply network where transformer increases the voltage and
+reduces the current so that it can be transmitted over long
+distances without much power loss. When current I passes
+through a resistance R, the power loss due to heating effect is
+12R. Suppose R is the resistance of transmission line. In order
+to minimize the loss during transmission, it is not possible to
+reduce R because it requires the use of thick copper wire
+which becomes highly uneconomical. The purpose is well
+served by reducing I. At the generating power station the
+Transformer symbol
+voltage is stepped up to several thousand of volts and power
+is transmitted at low current to long distances without much
+loss. Step down transformers then decrease the voltage to a
+safe value at the end of line where the consumer of electric
+power is located. Inside a house a transformer may be used
+to step down the voltage from 250 volts to 9 volts for ringing
+bell or operating a transistor radio. Transformers with several
+secondaries are used in television and radio receivers where
+several different voltages are required.
+Only in an ideal transformer the output power is nearly equal
+to the input power. But in an actual transformer, this in not the
+case. The output is always less than input due to power
+losses. There are two main causes of power loss, namely-
+eddy currents and magnetic hysteresis.
+In order to enhance the magnetic flux, the primary and
+secondary coils of the transformer are wound on soft iron
+core. The flux generated by the coils also passes through the
+core. As magnetic flux changes through a solid conductor,
+induced currents are set up in closed paths in the body of the
+105
+---
+
+conductor. These induced currents are set up in a direction
+perpendicular to the flux and are known as eddy currents. It
+results in power dissipation and heating of the core material.
+is
+In order to minimize the power loss due to flow of these
+Secondary
+currents, the core is laminated with insulation in between the
+coil (N. turns)
+layers of laminations which stops the flow of eddy currents
+Primary coil
+(N. turns)
+(Fig. 15.21). Hysterises loss is the energy expended to
+Magnetic
+feld mes
+magnetize and demagnetize the core material in each cycle
+lion core
+of the A.C.
+Fig. 15.21
+Due to these power losses, a transformer is far from being an
+ideal. Its output power is always less than its input power. The
+efficiency of a transformer is defined as
+E-OUTDUT power x 100
+power
+In order to improve the efficiency, care should be exercised,
+to minimize all the power losses. For example core should be
+assembled from the laminated sheets of a material whose
+hysteresis loop area is very small. The insulation between
+lamination sheets should be perfect so as to stop the flow of
+eddy currents. The resistance of the primary and secondary
+coils should be kept to a minimum. As power transfer from
+primary to secondary takes place through flux linkages, so
+the primary and secondary coils should be wound in such a
+way that flux coupling between them is maximum.
+Example 15.8: The turns ratios of a step up transformer is
+50. A current of 20 A is passed through its primary coil at
+220 volts. Obtain the value of the voltage and current in the
+secondary coil assuming the transformer to be ideal one.
+Solution:
+Ng
+Np
+50
+1==20A
+V.=220V
+V.=?
+I,=?
+Using the equation we
+Voltage in the secondary coil = V. = 220 X 50 = 1100 volts
+Is = 10-11 = = 0.4A
+106
+---
+
+SUMMARY
+An emf is set up in a conductor when it moves across a magnetic field. It is called an
+induced emf.
+The emf induced by the motion of a conductor across a magnetic field is called
+motional emf.
+Magnitude of motional emf in a rod of length L moving with velocity V across a
+magnetic field of strength B making Owithitise=vBLsine
+Faraday's law states that the emf induced in a conducting coil of
+Nloops is equal to the negative of the rate at which the magnetic flux through the coil
+is changing with time.
+The Lenz's law states that the direction of the induced current is always so as to
+oppose the change which causes the current.
+The phenomenon in which a changing current in one coil induces an emf in another
+coil is called the mutual induction.
+One henry is the mutual inductance of that pair of coils in which a change of current
+of one ampere per second in the primary causes an induced emf of one volt in the
+secondary.
+The phenomenon in which a changing current in a coil induces an emf in itself is
+called self induction.
+A current generator is a device that converts mechanical energy into electrical
+energy.
+The emf produced in a generator.is E NwAB sin(wt) or E=E.sin(2rft).
+Amotor is a device, which converts electrical energy into mechanical energy.
+The induced emf in a motor opposes the emf running the motor. This induced emf is
+called the back emf of the motor.
+QUE STIONS
+15.1
+Does the induced emf in a circuit depend on the resistance of the circuit? Does the
+induced current depend on the resistance of the circuit?
+15.2
+A square loop of wire is moving through a uniform magnetic field. The normal to the
+loop is oriented parallel to the magnetic field. Is a emf induced in the loop? Give a
+reason for your answer.
+15.3
+Alight metallic ring is released from above into a vertical bar magnet
+(Fig. Q.15.3). Viewed for above, does the current flow clockwise or
+anticlockwise in the ring?
+Fig. Q.15.3
+107
+---
+
+15.4
+What is the direction of the current through resistor R
+in Fig.Q.15.4?. When switch S is
+(a) closed
+(b) opened.
+S
+Fig. Q. 15.4
++
+R
+15.5
+Does the induced emf always act to decrease the magnetic flux through a circuit?
+Metal ring
+15.6
+When the switch in the circuit is closed a current is
+established in the coil and the metal ring jumps
+S
+upward (Fig.Q.15.6). Why?
+Describe what would happen to the ring if the
+Coll
+battery polarity were reversed?
+Fig. Q. 15.6
+15.7
+The Fig.Q.15.7 shows a coil of wire in the xy plane
+with a magnetic field directed along the y - axis.
+Z
+Around which of the three coordinate axes should
+B
+the coil be rotated in order to generate an emf and
+a current in the coil?
+y
+Fig. Q. 15.7
+15.8
+How would you position a flat loop of wire in a changing magnetic field so that
+there is no emf induced in the loop?
+15.9
+In a certain region the earth's magnetic field point vertically down. When a plane
+flies due north, which wingtip is positively charged?
+15.10 Show that E and AP so At have the same units.
+15.11 When an electric motor, such as an electric drill, is being used, does it also act as
+a generator? If so what is the consequence of this?
+15.12 Can a D.C motor be turned into a D.C generator? What changes are required to
+be done?
+15.13 Is it possible to change both the area of the loop and the magnetic field passing
+through the loop and still not have an induced emf in the loop?
+15.14
+Can an electric motor be used to drive an electric generator with the output from
+the generator being used to operate the motor?
+15.15 A suspended magnet is oscillating freely in a horizontal plane. The oscillations are
+strongly damped when a metal plate is placed under the magnet. Explain why this
+occurs?
+108
+---
+
+15.16 Four unmarked wires emerge from a transformer. What steps would you take to
+determine the turns ratio?
+15.17 a) Can a step-up transformer increase the power level?
+b) In a transformer, there is no transfer of charge from the primary to the secondary.
+How is, then the power transferred?
+15.18 When the primary of a transformer is connected to a.c mains the current in it
+a)
+is very small if the secondary circuit is open, but
+b)
+increases when the secondary circuit is closed. Explain these facts.
+PROBLEMS
+15.1
+An emf of 0.45 V is induced between the ends of a metal bar moving through a
+magnetic field of 0.22 T. What field strength would be needed to produce an emf of
+1.5 V between the ends of the bar, assuming that all other factors remain the same?
+(Ans: 0.73 T)
+15.2 The flux density B in a region between the pole faces of a horse-shoe magnet is
+0.5 Wbm2 directed vertically downward. Find the emf induced in a straight wire
+5.0 cm long, perpendicular to B when it is moved in a direction at an angle of 60° with
+the horizontal with a speed of 100 cms.1.
+(Ans: 1.25 x102V)
+15.3
+A coil of wire has 10 loops. Each loop has an area of 1.5x 10 m². A magnetic field is
+perpendicular to the surface of each loop at all times. If the magnetic field is changed
+from 0.05 T to 0.06 T in 0.1 S, find the average emf induced in the coil during this time.
+(Ans: +1.5x10"V)
+15.4
+A circular coil has 15 turns of radius 2 cm each. The plane of the coil lies at 40° to a
+uniform magnetic field of 0.2 T. If the field is increased by 0.5 T in 0.2 S, find the
+magnitude of the induced emf.
+(Ans: 1.8x10*V)
+15.5 Two coils are placed side by side. An emf of 0.8 V is observed in one coil when the
+current is changing at the rate of 200 As in the other coil. What is the mutual
+inductance of the coils?
+(Ans: 4mH)
+15.6
+A pair of adjacent coils has a mutual inductance of 0.75 H. If the current in the
+primary changes from 0 to 10 A in 0.025 S, what is the average induced emf in the
+secondary? What is the change in flux in it if the secondary has 500 turns?
+(Ans: 300 V, 1.5 x 10 Wb)
+15.7
+A solenoid has 250 turns and its self inductance is 2.4 mH. What is the flux through
+each turn when the current is 2 A? What is the induced emf when the current
+changes at 20As1?
+(Ans: 1.92x106 Wb, 48 mV)
+15.8
+solenoid of length 8.0 cm and cross sectional area 0.5 cm2 has 520 turns. Find the
+self inductance of the solenoid when the core is air. If the current in the solenoid
+increases through 1.5 Ain 0.2 S, find the magnitude of induced emf in it.
+(H,=410 WbA'm')
+(Ans: 1.6x10°V 2.12x10*H)
+109
+---
+
+15.9 When current through a coil changes from 100 mA to 200 mA in 0.005 S, an induced
+emf of 40 mV is produced in the coil. (a) What is the self inductance of the coil?
+(b) Find the increase in the energy stored in the coil.
+(Ans: 2 mH, 0.03mJ)
+15.10 Like any field, the earth's magnetic field stores enegy. Find the magnetic energy
+stored in a space where strength of earth's field is 7 X 10-5 T. if the space occupies an
+area of 10x 10" m² and has a height of 750 m.
+(Ans: 1.46x10°J)
+15.11 A square coil of side 16 cm has 200 turns and rotates in a uniform magnetic field of
+magnitude 0.05 T. If the peak emf is 12 V, what is the angular velocity of the coil
+(Ans: 47 rads
+15.12 A generator has a rectangular coil consisting of 360 turns. The coil rotates at
+420 rev per min in 0.14 T magnetic field. The peak value of emf produced by the
+generator is 50 V. if the coil is 5.0 cm wide, find the length of the side of the coil.
+(Ans: 45 cm)
+15.13 It is desired to make an a.c generator that can produce an emf of maximum value
+5kV with 50 Hz frequency. A coil of area 1 m² having 200 turns is used as armature.
+What should be the magnitude of the magnetic field in which the coil rotates?
+(Ans: 0.08 T)
+15.14 The back emf in a motor is 120 V when the motor is turning at 1680 rev per min. What
+is the back emf when the motor turns 3360 rev per min?
+(Ans: 240V)
+15.15
+A D.C motor operates at 240 V and has a resistance of 0.5 a When the motor is
+running at normal speed, the armature current is 15 A. Find the back emf in the
+armature.
+(Ans: 232.5V)
+15.16 A copper ring has a radius of 4.0 cm and resistance of 1.0 ms. A magnetic field is
+applied over the ring, perpendicular to its plane. If the magnetic field increases from
+0.2 T to 0.4 T in a time interval of 5 X 10 S, what is the current in the ring during this
+interval?
+(Ans: 201A)
+15.17 A coil of 10 turns and 35 cm2 area is in a perpendicular magnetic field of 0.5 T. The
+coil is pulled out of the field in 1.0 S. Find the induced emf in the coil as it is pulled out
+of the field.
+(Ans:1.75x10°V)
+15.18 An ideal step down transformer is connected to main supply of 240 V. It is desired to
+operate a 12 V, 30 W lamp. Find the current in the primary and the transformation
+ratio?
+(Ans: 0.125A, 1/20)
+110
+---

@@ -1,0 +1,1412 @@
+CHAPTER
+4    LIQUIDS AND SOLIDS
+Animation 4.1: Solid, Liquid,  Gas
+Source & Credit: everythingscientiic24 LIQUIDS AND SOLIDS eLearn.Punjab
+INTRODUCTION
+ The existence of matter in our surrounding in the form of gases, liquids and solids is due to 
+diference of interacting forces among the constituent particles.
+4.1 INTERMOLECULAR FORCES
+ To understand the properties of liquids and solids, we need to know  the kinds of intermolecular 
+forces present in them and their relative strength. It is important to rea lize that the attraction 
+between the molecules is much weaker than the attraction between atoms withi n a molecule. In a 
+molecule of HCl, there is a covalent bond between H and Cl which is  due to the mutual sharing of 
+electrons. Both atoms satisfy their outermost shells and it is their ir m need to remain together, 
+hence this linkage is very strong.
+ HCl molecules in the neighbourhood attract each other, but the forces  of attraction are 
+weak. These forces are believed to exist between all kinds of atoms and molecules when they are 
+suiciently close to each other. Such intermolecular forces are called  van der Waals forces and they 
+have nothing to do with the valence electrons.
+These intermolecular forces bring the molecules close together and give p articular physical 
+properties to the substances in gaseous, liquid and solid states. F our types of such forces are 
+mentioned here.
+1. Dipole-dipole forces
+2. Ion-dipole forces
+3. Dipole-induced dipole forces
+4. Instantaneous dipole-induced dipole forces or London dispersion forces34 LIQUIDS AND SOLIDS eLearn.Punjab
+4.1.1 Dipole-dipole Forces
+ In case of HCl molecule both atoms difer in electronegativity. Chlorin e being more 
+electronegative, develops the partial negative charge and hydrogen develops th e partial positive 
+charge. So, whenever the molecules are close to each other, they tend to lin e up. The positive end 
+of one molecule attracts the negative end of the other molecule and these electrosta tic forces of 
+attraction are called dipole-dipole forces. However, thermal energy cau ses the molecules not to 
+have a perfect alignment.
+Animation 4.2 : Intermolecular forces
+Source & Credit: intermolecularforcess44 LIQUIDS AND SOLIDS eLearn.Punjab
+ Anyhow, there is a net attraction between the polar molecules. These forc es are called as 
+dipole-dipole forces and they are approximately one percent as efective a s a covalent bond. 
+The strength of these forces depends upon the electronegativity diference between  the bonded 
+atoms and the distance between the molecules. The distances between molecul es in the gaseous 
+phase are greater so these forces are very 
+weak in this phase. In liquids these forces 
+are reasonably strong. The examples of 
+the molecules which show dipole-dipole 
+attractions are numerous. Two of these 
+are given below i.e., for HCl and CHCl3 
+(chloroform) Fig (4.1).
+ Greater the strength of these dipole-
+dipole forces, greater are the values of 
+thermodynamic parameters like melting 
+points, boiling points, heats of vapourization 
+and heats of sublimation.
+4.1.2  Dipole-induced Dipole Forces
+ Sometimes, we have a mixture of substances containing polar and n on-polar molecules. The 
+positive end of the polar molecule attracts the mobile electrons of the nearby  non-polar molecule. 
+In this way polarity is induced in non-polar molecule, and b oth molecules become dipoles. These 
+forces are called dipole-induced dipole forces or as Debye forces. T he following igure makes the 
+idea clear Fig (4.2).
+Show Fig. (4.1) Dipole - dipole forces present in HC1
+molecules and chloroform (CHCl3) molecules.
+Fig (4.2) Dipole-induced dipole interactions54 LIQUIDS AND SOLIDS eLearn.Punjab
+4.1.3  Instantaneous Dipole-induced Dipole Forces or London Dispersion Forces 
+Intermolecular forces among the polar molecules, as discussed in section 4.1.1 are very easy to 
+understand. But the forces of attraction present among the non-polar mol ecules like helium, 
+neon, argon, chlorine and methane need special attention because under  normal conditions 
+such molecules don’t have dipoles. We know that helium gas can be liqueied under appropriate 
+conditions. In other words forces of attraction operate among the atoms of helium which cause 
+them to cling together in the liquid state. 
+ A German physicist Fritz London in 1930 ofered a simple expla nation for these weak attractive 
+forces between non-polar molecules. 
+ In helium gas, the electrons of one atom inluence the moving electrons of  the other atom. 
+Electrons repel each other and they tend to stay as far apart -as pos sible. When the electrons of 
+one atom come close to the electron of other atom, they are pushed away from ea ch other. In this 
+way,a temporary dipole is created in the atom as shown in the Fig (4.3). The result is that, at any 
+moment, the electron density of the atom is no more symmetrical. It has m ore negative charge on 
+one side than on the other. At that particular instant, the helium atom becomes a dipole. This is 
+called instantaneous dipole.
+This instantaneous dipole then disturbs the electronic cloud of the other  nearby atom. So,a dipole 
+is induced in the second atom. This is called induced dipole. The momentary force of attraction 
+created between instantaneous dipole and the induced dipole is called instantaneous dipole-
+induced dipole interaction or London force.Fig. (4.3) Instantaneous dipole-induced
+dipole attractions between helium atoms.64 LIQUIDS AND SOLIDS eLearn.Punjab
+ 
+It is a very short-lived attraction because the electrons keep moving. Thi s movement of electrons 
+cause the dipoles to vanish as quickly as they are formed. Anyhow , a moment later, the dipoles will 
+appear in diferent orientation and again weak attractions are developed . 
+ London forces are present in all types of molecules whether polar or non-polar, but they are very’ 
+signiicant for non-polar molecules like Cl2, H2 and noble gases (helium, neon,etc.)
+4.1.4 Factors Affecting the London Forces
+London forces are weaker than dipole- dipole interactions. The strength  of these forces depend upor 
+the size of the electronic cloud of the atom or molecules. When the size of the atom or molecule is 
+large then the dispersion becomes easy and these forces become more promi nent. The elements 
+of the zero group in the periodic table are all mono-atomic gases. Th ey don’t make covalent bonds 
+with other atoms because their outermost shells are complete. Their boilin g points increase down 
+the group from helium to radon. Boiling points of noble gases are g iven in Table (4.1)
+The atomic number increases down the group and the outermost electrons m ove away from the 
+nuclei. The dispersion of the electronic clouds becomes more and more easy. So the polarizability 
+of these atoms go on increasing.
+Animation 4.3 : London Dispersion Forces
+Source & Credit: dynamicscience74 LIQUIDS AND SOLIDS eLearn.Punjab
+  Polarizability is the quantitative 
+measurement of the extent to which 
+the electronic cloud can be polarized or 
+distorted. When we say that a species (atom, 
+molecule or ion) is polarized, it means 
+that temporary poles are created. This is 
+possible if electronic cloud can be disturbed 
+or distorted. This increased distortion of 
+electronic cloud creates stronger London 
+forces and hence the boiling points are 
+increased down the group.
+ Similarly, the boiling points of halogens 
+in group VII-A also increase from luorine to 
+iodine Table (4.1). All the halogens are non-
+polar diatomic molecules, but there is a big 
+diference in their physical states at room 
+temperature. Fluorine is a gas and boils at 
+-188.1 °C, while iodine is a solid at room 
+temperature which boils at +184.4 °C. The 
+polarizability of iodine molecule is much 
+greater than that of luorine.
+ Another important factor that afects the strength of London forces is the number of atoms 
+in a non-polar molecule. Greater the number of atoms in a molecule, g reater is its polarizability. Let 
+us discuss the boiling points of saturated hydrocarbons. These h ydrocarbons have chain of carbon 
+atoms linked with hydrogen atoms. Compare the length of the chain for  C2H6 and C6H14. 
+ They have the boiling points - 88.6 °C and 68.7 C,respectively.  This means that the molecule with 
+a large chain length experiences stronger attractive forces. The reason  is that longer molecules have 
+more places along its length where they can be attracted to other molecules . It is very interesting to 
+know that with the increasing molecular mass of these hydrocarbons , they change from gaseous to 
+liquid and then inally become solids. The Table (4.2) gives th e boiling points and the physical states 
+of some hydrocarbons.
+ Table(4.1) Boiling points of halogens and 
+noble gases84 LIQUIDS AND SOLIDS eLearn.Punjab
+Name B.P
+0C (1 atm)Physical state
+at S.T.PName B.P
+0C (1 atm)Physical state
+at S.T.P
+Mathane
+Ethane
+Propane
+Butane-164
+-88.6
+-42.1
+0.5Gas
+Gas
+Gas
+GasPentane
+Hexane
+Decane
+Isodecane36.1
+68.7
+174.1
+327Liquid
+Liquid
+Liquid
+Solid
+4.1.5 Hydrogen Bonding
+ To understand hydrogen bonding, let us consider the molecule of wa ter. Oxygen is more 
+electronegative element as compared to hydrogen, so water is a polar molecu le. Hence there will 
+be dipole-dipole interactions between 
+partial positively charged hydrogen atoms 
+and partial negatively charged oxygen 
+atoms. Actually, hydrogen bonding is 
+something more than simple dipole-
+dipole interaction. Firstly, oxygen atom 
+has two lone pairs. Secondly hydrogen 
+has suicient partial positive charge. Both 
+the hydrogen atoms of water molecule 
+create strong electrical ield due to their 
+small sizes. 
+The oxygen atom of the other molecule 
+links to form a coordinate covalent bond 
+with hydrogen using one of its lone pairs 
+of electrons. Fig (4.4). 
+ Thus loose bond formed is deinitely 
+stronger than simple dipole-dipole 
+interaction. Because of the small size of the hydrogen atom, it can ta ke part in this type of bonding. 
+This bonding acts as a bridge between two electronegative oxygen atoms. Hence hydrogen bonding 
+is  the electrostatic force of a atraction between a highly electronegative a tom and partial positively 
+charged hydorgen atom.Table (4.2) Boiling points and physical states of s ome hydrocarbons
+Fig (4.4) Hydrogen bonding in water.94 LIQUIDS AND SOLIDS eLearn.Punjab
+ The electronegative atoms responsible for creating hydrogen bonding ar e luorine, oxygen, 
+nitrogen and rarely chlorine. The strength of hydrogen bond is gen erally twenty times less than 
+that of a covalent bond.
+It is not advisable to limit the hydrogen bonding to the above-m entioned el ectronegative atoms. 
+The three chlorine atoms in chloroform are responsible for H- bondin g with other molecules. 
+These atoms deprive the carbon atom 
+of its electrons and the partial positively 
+charged hydrogen can form a strong 
+hydrogen bond with oxygen atom of 
+acetone Fig (4.5). 
+Animation 4.4 : hydrogen bonding
+Source & Credit: stream1
+Fig (4.5) Hydrogen bonding between
+chloroform and acetone104 LIQUIDS AND SOLIDS eLearn.Punjab
+The hydrogen bonding present in the 
+molecules of ammonia and those of 
+hydrolouric acid can be depicted as follows 
+Fig (4.6).The molecules of HF join with each 
+other in a zig- zag manner.
+ The exceptional, low acidic strength of 
+HF molecule as compared to HCl, HBr and 
+HI is due to this strong hydrogen bonding, 
+because the partial positively charged 
+hydrogen is entrapped between two highly 
+electronegative atoms.
+4.1.6 Properties and Application of Compounds Contain ing Hydrogen Bonding
+1. Thermodynamic Properties of Covalent Hydrides
+Our discussion shows that hydrogen bonding exists in compounds  having partial positively charged 
+hydrogen and highly electronegative atoms bearing partial negative ch arge. Obviously such 
+intermolecular attractions will inluence the physical properties l ike melting and boiling points. Let 
+us compare the physical properties of hydrides of group IV-A, V -A, VI-A and VII-A. The graphs are 
+plotted between the period number of the periodic table on x-axis and boi ling points in kelvin on 
+y-axis Fig (4.7).
+Fig (4.6) Hydrogen bonding in
+NH3 and HF molecules.114 LIQUIDS AND SOLIDS eLearn.Punjab
+ 
+ A  look at the boiling points of hydrides of group IV-A convinces  us, that they have low boiling 
+points as compared to those of group V-A, VI-A, VII-A. The reason  is that these elements are 
+least electronegative. CH4 has the lowest boiling point because it is a very small molecule an d its 
+polarizability is the least. 
+ When  we consider the hydrides of group V-A, VI-A, VII-A then  NH3, H20 and HF show maximum 
+boiling points in the respective series. The reason is, the enhancec el ectronegative character of N, 
+0 and F. That is why, water is liquid at room temperature, but H2S and H2Se are gases.
+ It  is interesting to know that the boiling point of water seems to be mor e afected by hydrogen 
+bonding than that of HF Fluorine is more electronegative than oxygen. S o, we should expect 
+H-bonding in HF to be stronger than that in water and as a resul t the boiling point of HF should be 
+higher than that of H20. However, it is lower and the reason is that the luorine atom can ma ke only 
+one hydrogen bond with electropositive hydrogen of a neighboring molecul e. Water can form two 
+hydrogen bonds per molecule, as it has two hydrogen atoms and two l one pairs on oxygen atom.
+Ammonia can form only one hydrogen bond per molecule as it has on ly one lone pair.
+Fig (4.7) A Graph between period number and the boili ng points of hydrides of IV-A, V-A, VI-A 
+and VII-A group elements.124 LIQUIDS AND SOLIDS eLearn.Punjab
+ The  boiling point of HBris slightly higher than that of HCl.  It means that chlorine is 
+electronegative enough to form a hydrogen bond. Sometimes it is thought that HCl has a strong 
+dipole-dipole interaction but in reality, it is a border line case.  The hydrides of fourth period GeH4, 
+AsH3, H2Se, HBr show greater boiling points than those of third period due to greater size and 
+enhanced poiarizabilities.
+2. Solubility of Hydrogen- Bonded Molecules
+ Water  is the best example of H-bonded system. Similarly ethyl al cohol (C2H5OH) also has the 
+tendency to form hydrogen bonds. So, ethyl alcohol can dissolve in w ater because both can form 
+hydrogen bonds with each other. Similarly carboxylic acids a re also soluble in water, if their sizes 
+are small. Hydrocarbons are not soluble in water at all, becaus e they are non-polar compounds 
+and there are no chances of hydrogen bonding between water and hydr ocarbon molecules. 
+ 
+3. Structure of Ice
+ The molecules of water have tetrahedral structure. Two lone pairs of el ectrons on oxygen 
+atom occupy two corners of the tetrahedron. In the liquid state, water mol ecules are extensively 
+associated with each other and these associations 
+break and are reformed because the molecules of 
+water are mobile. When the temperature of water 
+is decreased and ice is formed then the molecules 
+become more regular and this regularity extends 
+throughout the whole structure. Empty spaces 
+are created in the structure as shown in the 
+following Fig (4.8b). That is why when water 
+freezes it occupies 9% more space and its density 
+decreases. The result is that ice loats on water. 
+The structure of ice is just like that of a diamond 
+because each atom of carbon in diamond is at 
+the center of tetrahedron just like the oxygen of 
+water molecule in ice, Fig (4.8 b).
+Fig (4.8 a) Structure of liquid water134 LIQUIDS AND SOLIDS eLearn.Punjab
+ The lower density of ice than liquid water at 0 
+°C causes water in ponds and lakes to freeze from 
+surface to the downward direction. Water attains 
+the temperature of 4°C by the fall of temperature 
+in the surrounding. As the outer atmosphere 
+becomes further cold, the water at the surface 
+becomes less dense. This less dense water below 
+4 °C stays on the top of slightly warm water 
+underneath. A stage reaches when it freezes. This 
+layer of ice insulates the water underneath for 
+further heat loss. Fish and plants survive under 
+this blanket of ice for months. 
+ Keeping the whole discussion in view we are 
+forced to believe that the pattern of life for the plants and animals wou ld have been totally diferent 
+in the absence of hydrogen bonding in water.
+4. Cleansing Action of Soaps and Detergents
+ Soaps and detergents perform the cleansing action because the polar part of their molecules 
+are water soluble due to hydrogen-bonding and the non-polar parts r emain outside water, because 
+they are alkyl or benzyl portions and are insoluble in water.
+5. Hydrogen Bonding in Biological Compounds and Food  Materials
+Hydrogen bonding exists in the molecules of living system. Proteins are the important part of living 
+organisms. Fibres like those found in the hair, silk and mus cles consist of long chains of amino 
+acids. These long chains are coiled about one another into a spira l. This spiral is called a helix. Such 
+a helix may either be right handed or left handed. In the case of right handed helix the groups like 
+>N H and > C = 0 are vertically adjacent to one another and they a re linked together by hydrogen 
+bonds. These H-bonds link one spiral to the other. X-ray analysi s has shown that on the average 
+there are 27 amino acid units for each turn of the helix, Fig (4 .9 a). 
+ Deoxyribonucleic acid (DNA) has two spiral chains. These are coiled about each other on a 
+common axis. In this way, they give a double helix. This is 1 8-20 Å in diameter. They are linked 
+together by H-bonding between their sub units, Fig (4.9 b). 
+Fig (4.8 b) Structure of ice144 LIQUIDS AND SOLIDS eLearn.Punjab
+ The food materials like carbohydrates include glucose, fructose a nd sucrose. They all have 
+-OH groups in them which are responsible for hydrogen bonding in them.
+6. Hydrogen Bonding in Paints, Dyes and Textile Mat erials
+ One of the most important properties of paints and dyes is their adhes ive action. This property 
+is developed due to hydrogen bonding. Similar type of hydrogen bondi ng makes glue and honey as 
+sticky substances.
+ We use cotton, silk or synthetic ibres for clothing. Hydrogen bondi ng is of vital importance 
+in these thread making materials. This hydrogen bonding is res ponsible for their rigidity and the 
+tensile strength.
+Fig (4.9 a) Hydrogen bonding
+Fig (4.9 b) Hydrogen bonding in
+DNA double helix154 LIQUIDS AND SOLIDS eLearn.Punjab
+4.2.0  EVAPORATION
+ In order to understand evaporation, we have to examine the movement of molecul es in liquids. 
+The molecules of a liquid are not motionless. The energy of molecules is not equally distributed. 
+The molecules which have low kinetic energy move slowly, while others with high kinetic energy 
+move faster. If one of the high speed molecules reaches the surface, it may escape the attractions 
+of its neighbouring molecules and leaves the bulk of the liquid. This spontaneous change of a 
+liquid into its vapours is called evaporation and it con tinues at all temperatures. 
+Evaporation causes cooling. The reason is that when high energy mol ecules leave the liquid and 
+low energy molecules are left behind, the temperature of the liquid fal ls and heat moves from the 
+surrounding to the liquid and then the temperature of the surrounding  also falls.
+Animation 4.5 : Evaporation
+Source & Credit: stem164 LIQUIDS AND SOLIDS eLearn.Punjab
+There  are many factors which control the rate of evaporation of a liq uid. Since evaporation occurs 
+from liquid surface, so if surface area is increased then mor e molecules are able to escape and 
+liquid evaporates more quickly. For liquids having same surfa ce area, the rate of evaporation is 
+controlled by the temperature and the strength of intermolecular forces. 
+ At high temperature, the molecules having greater energy increase and  so rate of evaporation 
+increases. Similarly, if intermolecular forces are weak, the ra te of evaporation is faster. For example, 
+gasoline, whose molecules experience weaker London forces of attraction, evaporate much faster 
+than water.
+4.2.1  Vapour Pressure 
+ When the molecules of a liquid leave the open surface, they are mixed up with air above the 
+liquid. If the vessel is open these molecules go on leaving the surfac e. But if we close the system 
+the molecules of liquid start gathering above the surface. These molecu les not only collide with the 
+walls of the container, but also with the surface of the liquid as  well. 
+There are chances that these molecules are recaptured by the surface of  liquid. This process is 
+called condensation. The two-processes i.e., evaporation and condensati on continue till a stage 
+reaches when the rate of evaporation becomes equal to the rate of condensation.  This is called the 
+state of dynamic equilibrium Fig (4.10). So the vapour pressure of a liquid is a pressure exerted by 
+the vapours of the liquid in equilibrium with the liquid at a g iven temperature.
+       ฀ ฀฀฀ ฀฀Liquid Vapour
+Fig (4.10) Evaporation of a liquid and establishment
+of dynamic equilibrium between liquid and its vapours.174 LIQUIDS AND SOLIDS eLearn.Punjab
+ The number of molecules leaving the surface is just equal 
+to the number of molecules coming back into it at a constant 
+temperature. The molecules which are in the liquid state at any 
+moment may be in vapour state in the next moment.
+ The magnitude of vapour pressure does not depend upon the 
+amount of liquid in the container or the volume of container. It also 
+does not depend on surface area of a liquid. The larger surface area 
+also presents a larger target for returning the molecules, so the 
+rate of condensation also increases.
+ 
+Vapour Pressure Increases with Temperature
+  The values of vapour pressures of various liquids depend fairl y upon the nature of 
+liquids i.e. on the sizes of molecules and intermolecular forces, but the most important parameter 
+which controls the vapour pressure of a liquid is its temperature. At an elevated temperature, the 
+kinetic energy of molecules is enhanced and capability to leave the s urface increases. 
+It causes the increase of vapour pressure. Table(4.3) 
+shows change in vapour pressure of water at diferent 
+temperatures. The Table (4.3) shows that increases 
+of vapour pressure goes on increasing for the same 
+diference of temperature from 0°C to 100°C for water. There is 
+increase of vapour pressure from 4.579 torr to 9.209 torr for chan ge 
+of temperature from 0°C to 10°C. But the increase is from 527.8 torr  
+to 760 torr when temperature changes from 90°C to 100°C.
+The diference in the strength of intermolecular forces in diferent 
+liquids is directly related to their vapour pressures at a particu lar 
+temperature. The stronger the intermolecular forces the lower 
+the vapour pressure. The following Table (4.4) shows that at 20 ° C 
+isopentane has the highest vapour pressure, while glycerol has the 
+lowest.Tablc (4.3) Vapour pressures of water 
+(torr) at various temperatures
+Temperature
+(0C)Vapour
+Pressure
+(Torr)
+0 4.579
+10 9.209
+20 17.54
+30 31.82
+37 47.07
+40 55.32
+50 92.51
+60 149.4
+70 233.7
+80 355.1
+90 527.8
+100 760.0
+Animation 4.6 : Vapour Pressure
+Source & Credit: mecalux184 LIQUIDS AND SOLIDS eLearn.Punjab
+4.2.2 Measuremerr of Vapour Pressure 
+  There are many methods for the measurement of vapour pressure of a l iquid. One of 
+the important methods is described in the following paragraph.
+Manometric Method
+Manometric method is comparatively an accurate method. The liquid w hose vapour pressure is 
+to be determined is taken in a lask placed in a thermostat, as show n in the Fig(4.11). One end 
+of the tube from the lask is connected 
+to a manometer and the other end 
+is connected to a vacuum pump. The 
+liquid is frozen with the help of a 
+freezing mixture and the space above 
+the liquid is evacuated. In this way, the 
+air is removed from the surface of the 
+liquid alongwith the vapours of that 
+liquid. The frozen liquid is then melted 
+to release any entrapped air. Liquid is 
+again frozen and realeased air To is 
+evacuated. This process is repeated 
+many times till almost all the air is 
+removed.Name of compound Vapour pressure
+at 20 0C (torr)
+Isopentane 580
+Ethyl ether 442.2
+Chloroform 170
+Carbon Tetrachloride 87
+Ethanol 43.9
+Mercury 0.012
+Glycerol 0.00016Table (4.4) Vapour pressure of some 
+important liquids at 20°C
+Fig. (4.11) Measurement of vapour pressure of a
+in the heights of the columns of-Hg in liquid by manome tric method194 LIQUIDS AND SOLIDS eLearn.Punjab
+ Now the liquid is warmed in the thermostat to that temperature at which  its vapour pressure in 
+the lask is to be determined. Diference in the heights of the columns of- Hg in liquid by manometric 
+method the two limbs of the manometer determines the vapour pressure of the li quid. 
+ The column of mercury in the manometer facing the vapours of the li quid is depressed. The 
+other column, which faces the atmospheric pressure, rises. Actual ly, the pressure on the surface of 
+the liquid in the lask is equal to the sum of the atmospheric press ure and the vapour pressure of 
+liquid. For this reason, the column of manometer facing the liqui d is more depressed than facing 
+the atmosphere, and it is given by the following equation.
+    P = Pa + ∆h
+Where   P = Vapour pressure of the liquid at one atm pressure.
+    P= Atmospheric pressure.
+    ∆h = Diference in the heights of the mercury levels in the two limbs
+     of the manometer, giving us the vapour pressure of liquid.  
+4.2.3 Boiling Point
+ When  a liquid is heated, the vapour pressure goes on increasing . A stage reaches when 
+the vapour pressure of the liquid becomes equal to the external atmospheri c pressure. This 
+temperature is called the boiling point of the liquid. 
+The reason for this is that the bubbles of vapours 
+which are formed in the interior of the liquid have 
+greater internal pressure than atmospheric pressure 
+on the surface of liquid. This thing makes the bubble 
+to come out of the liquid and burst upon the surface. 
+Thus a constant stream of bubbles comes out at the 
+boiling point. 
+ When a liquid is heated, the kinetic energy of 
+its molecules increases and hence the temperature 
+also increases. At the boiling point, the kinetic energy 
+of the molecules becomes maximum and any further 
+heating at this stage will not increase the temperature.
+Animation 4.7 : Boiling Point
+Source & Credit: chem204 LIQUIDS AND SOLIDS eLearn.Punjab
+This heat will only be utilized to break the intermolecular forces a nd convert the liquid into its 
+vapours. The amount of heat required to vapourize one mole of a liquid at its boiling point is 
+called its molar heat of vapourization.  The molar heat of vapourization of water is 40.6 kjmol-1. 
+The boiling points of some commonly available liquids at one atmosp heric pressure are shown in 
+the Table (4.5).
+ The Fig. (4.12) shows the variation of vapour pressure of water, ethyl alcohol, ethylene glycol 
+and diethylether with temperature. It shows that the liquids reach up to their boiling points when their 
+vapour pressures are equal to 760 torr at 
+sea level. The way these curves start at 0 
+0C is interesting. Water takes start at 4.8 
+torr while diethyl ether at around 200 torr. 
+This is due to diference in the strengths 
+of their intermolecular forces. The curve  
+for water goes alongwith temperature 
+axis to a greater extent at the beginning 
+as compared to ether. It means that water 
+can hardly overcome its intermolecular 
+forces at low temperatures. It is clear 
+from the curves that the vapour pressure 
+increases very rapidly when the liquids 
+are closer to their boiling points.Liquid B.P (0C) Liquids B.P (0C)
+Acetic Acid 118.50 Carbon tetrachloride 76.50
+Acetone 56.00 Ethanol 78.26
+Aniline 184.4 Naphthalene 218.00
+Benzene 80.15 Phenol 181.80
+Carbon disulphide 46.30 Water 100.00Table (4.5) Boiling points of some 
+common liquids at 760 torr.
+Fig (4.12) Vapour pressures(torr) of four common liquids s hown as a 
+function of temperature(°C).214 LIQUIDS AND SOLIDS eLearn.Punjab
+4.2.4 Boiling Point and External Pressure 
+ We have already explained that when vapour pressure of a liquid becomes equal to the 
+external pressure then the liquid boils, so when external pressure i s changed, its boiling point 
+will also be changed. A liquid can be made to boil at any temp erature by changing the external 
+pressure. When the external pressure is high the liquid requires greater amount of heat to equalize 
+its vapour pressure to external pressure. In this way boiling poin t is raised. Similarly, at a lower 
+external pressure a liquid absorbs less amount of heat and it boi ls at a lower temperature.
+ For  example, water shows B.P of 120 °C at 1489 torr pressure and boils at 25 °C at 23.7 torr. 
+Water boils at 98 °C at Murree hills due to external pressure of 70 0 torr while at the top of Mount 
+Everest water boils at only 69 0C 323 torr.
+ We  can increase the external pressure artiicially on the surfac e of boiling water by using a 
+pressure cooker. Pressure cooker is a closed container. The vapours of  water formed are not allowed 
+to escape. In this way, they develop more pressure in the cooker and the boiling temperature 
+increases. As more heat is absorbed in water, so food is cooked qui ckly under increased pressure.
+ Liquids  can be made to boil at low temperatures, where they can b e distilled easily. This process 
+is called vacuum distillation. Vacuum distillation has many  advantages. It decreases the time for 
+the distillation process and is economical because less fuel is r equired. The decomposition of many 
+compounds can be avoided e.g. glycerin boils at 290 °C at 760 torr pressure but decomposes at this 
+temperature. Hence, glycerin cannot be distilled at 290 °C. Under va cuum, the boiling temperature 
+of glycerin decreases to210 0C at 50 torr. It is distilled at this temperature without decomposition 
+and hence can be puriied easily.
+4.2.5 Energetics of Phase Changes
+ Whenever, matter undergoes a physical change, it is always acc ompanied by an energy 
+change. This change in energy is the quantitative measurement of the diference in the strength of 
+intermolecular forces. 
+ The change in energy is mostly in the form of heat.  If a physical or a chemical change 
+takes place at a constant pressure, then the heat change d uring this process is also called 
+enthalpy change.  This is denoted by  ΔH. These enthalpy changes are usually exp ressed per mole 
+of the substances. Three types of enthalpy changes are associated wi th usual physical changes.224 LIQUIDS AND SOLIDS eLearn.Punjab
+ (i) Molar Heat of Fusion (ΔHf) 
+ It is the amount of heat absorbed by one mole of a solid when it melts  into liquid form at its 
+melting point. The pressure, during the change is kept one atmospher e.
+(ii) Molar Heat of Vapourization (ΔHv) 
+ It is the amount of heat absorbed when one mole of a liquid is cha nged into vapours at its 
+boiling point. The pressure, during the change is kept one atmosph ere.
+(iii) Molar Heat of Sublimation (ΔHs)
+ It is the amount of heat absorbed when one mole of a solid sublimes to give one mole of 
+vapours at a particular temperature and one atmospheric pressure.
+ All these enthalpy changes are positive, because they are endothermic processes.
+4.2.6 Energy Changes and Intermolecular Attractions
+ When a solid substance melts then atoms, molecules or ions undergo relatively small changes 
+in intermolecular distances and the potential energy also undergoes a  small change. But when a 
+liquid evaporates, then larger changes in intermolecular distances  and in potential energy takes 
+place. So ΔH of vapourization of a substance is greater than ΔH of  fusion. The values of ΔHs are even 
+larger than ΔHv because attractive forces in solids are stronger than those in liqui ds.
+ The values of ∆Hv and ∆Hs tell us directly the energy needed to separate molecules from each 
+other. So from these values, we can compare the strengths of intermolecula r forces in diferent 
+compounds.
+ From the following Table (4.6), we are convinced that ΔHv for H20, NH3 and S02 are reasonably 
+high due to polar nature of molecules. ΔHV for iodine is the highes t amongst its family members 
+due to its greater polarizability. Similarly, hexane (C6H14) has the highest ΔHv value amongst the 
+hydrocarbons due to larger size of its molecules. Actually, the Lon don dispersion forces in I2 and 
+C6H14 are suiciently strong and these are responsible for such a behavi our.234 LIQUIDS AND SOLIDS eLearn.Punjab
+ 
+4.2.7 Change of State and Dynamic Equilibrium
+ Whenever, a change of state occurs the system moves towards the condition of dynamic 
+equilibrium. Dynamic equilibrium is a situation when two oppos ing changes occur at equal rates. 
+Being a chemist, we should know that the concept of dynamic equili brium is the fate or the ultimate 
+goal of all the reversible chemical reactions and all the physica l changes.
+ At 0°C, solid water (ice) exists in dynamic equilibrium wi th liquid water.
+     ฀฀฀ ฀฀ ฀ ฀฀0oCice water
+4.3 Liquid Crystals
+ Whenever we study the properties of crystalline solids, we come to know that the pure solids 
+melt sharply. The temperature remains constant at the melting point un til all the solid melts.Substance ΔHv (kJ/mol)
+H2O +40.6
+NH3+21.7
+HCl +15.6
+SO2+24.3
+F2+5.9
+Cl2+10.00
+Br2+15.00
+I2+22.00
+CH4+8.60
+C2H6+15.1
+C3H8+16.9
+C6H1430.1Table (4.6) Heats of 
+Vaporization 
+of some substances244 LIQUIDS AND SOLIDS eLearn.Punjab
+ In 1888, Frederick Reinitzer, an Austrian botanist discovered a  universal property. He was 
+studying an organic compound cholesteryl benzoate. This compound turns milky liquid at 145°C 
+and becomes a clear liquid at 179°C. When the substance is cool ed, the reverse process occurs. 
+This turbid liquid phase was called liquid crystal. 
+ Uptil now, it has been reported that, there are many crystalline soli ds which melt to a turbid 
+liquid phase, before inally melting to a clear liquid. These tu rbid liquid phases can low as liquids. 
+They have the properties like liquids as surface tension, viscosity,  etc. But it is very interesting to 
+know that the molecules of such turbid liquids possess some degree of  order as well. It means that 
+these turbid liquids resemble crystals in certain properties and the most important properties are 
+optical ones. These turbid liquids are hence called liquid cry stals. So, a liquid crystalline state 
+exists between two temperatures i.e. melting temperat ure and clearing temperature.  A 
+crystalline solid may be isotropic or anisotropic, but liquid c rystals are always anistropic.
+     ฀ ฀฀ ฀ ฀฀฀ ฀฀ ฀ ฀฀ Crystal Liquidcrystal Liquid
+ From  1888 to until about 30 years ago, liquid crystals were largely a laboratory curiosity. But 
+now they have found a large number of applications. 
+ Those  substances which make the liquid crystals are often comp osed of long rod like molecules. 
+In the normal liquid phase, these molecules are oriented in random directions. In liquid crystalline 
+phase, they develop some ordering of molecules. Depending upon the nature of ordering, liquid 
+crystals can be divided into nematic, smectic and cholesteric. 
+ The  properties of liquid crystals are intermediate between those of cr ystals and isotropic 
+liquids. They have the luidity of the liquids and the optical pr operties of the crystals.
+Uses of Liquid Crystals
+ Due to the remarkable optical and electrical properties, liquid cry stals ind many practical 
+applications. Many organic compounds and biological tissues behave as liquid crystals. The unique 
+properties of liquid crystals have intrigued the scientists since th eir discovery, nearly hundred years 
+ago. Some of their important uses are as follows.
+ (i) Like solid crystals, liquid crystals can difract li ght. When one of the wavelengths of white 
+light is relected, from a liquid crystal it appears coloured. A s the temperature changes, the distances 
+between the  layers of the molecules of liquid crystals change. Ther efore, the colour of the relected 
+light changes accordingly.  Thus liquid crystals can he used as temperature sensors.254 LIQUIDS AND SOLIDS eLearn.Punjab
+ (ii) Liquid  crystals are used to ind the point of potential fai lure in electrical circuits. Room 
+thermometers also contain liquid crystals with a suitable temperatur e range. As the temperature 
+changes, igures show up in diferent colours.
+ (iii) Liquid  crystalline substances are used to locate the veins , arteries, infections and tumors. 
+The reason is that these parts of the body are warmer than the surroun ding tissues. Specialists can 
+use the techniques of skin thermography to detect blockages in veins an d arteries. When a layer 
+of liquid crystal is painted on the surface of the breast, a tumor  shows up as a hot area which is 
+coloured blue. This technique has been successful in the early d iagnosis of breast cancer.
+ (iv) Liquid crystals are used in the display of electrical d evices such as digital watches, calculators 
+and  laptop computers. These  devices operate due to the fact that temperatur e, pressure and 
+electro-magnetic  ields easily afect the weak bonds, which hold mol ecules together in liquid 
+crystals.
+ (v) In chromatographic separations, liquid crystals are used  as solvents.
+ (vi) Oscillographic and TV displays also use liquid cr ystal screens.264 LIQUIDS AND SOLIDS eLearn.Punjab
+SOLIDS
+4 .4 INTRODUCTION
+ Solids are those substances which are rigid, hard, have deinite shape and deinite 
+volume.  The atoms, ions and molecules that make up a solid are closely pa cked. They are held 
+together by strong cohesive forces. The constituent atoms, ions or molecules of solids cannot move 
+at random. There exists a well ordered arrangement in solids. 
+4.4.1 Types of Solids
+ Solids can be classiied on the basis of the regular arrangemen ts of constituent atoms, ions 
+or molecules. There are two types of solids in this respect.
+(i) Crystalline Solids
+ Those solids in which atoms, ions or molecules are arranged in  a deinite three dimensional 
+pattern are called crystalline solids This recurring regular geometrical pattern of structure extends 
+three dimensionally.
+(ii) Amorphous Solids
+ All solids are not crystalline .The word amorphous means shap eless. Amorphous substances 
+are those whose constituent atoms, ions, or molecules  do not possess a regular orderly 
+arrangement. The best examples are glass, plastics, rubber, glue, etc. These substances have solid 
+state properties and virtually complete maintenance of shape and volume.  But they do not have an 
+ordered crystalline state.
+ Many crystalline solids can be changed into amorphous solids  by melting them and then 
+cooling the molten mass rapidly. In this way the constituent partic les do not ind time to arrange 
+them selves.274 LIQUIDS AND SOLIDS eLearn.Punjab
+ A long range regularity does not exist in amorphous solids but th ey can possess small regions 
+of orderly arrangements. These crystalline parts of otherwise amorphous solids are known as  
+crystallites.  Amorphous solids don’t have sharp melting points that is why pa rticles of glass soften 
+over a temperature range and can be moulded and blown into various s hapes. They do not possess 
+deinite heats of fusion.
+4.4.2 Properties of Crystalline Solids
+1.  Geometrical Shape
+ All the crystalline solids have a deinite, distinctive geometrical s hape due to deinite and 
+orderly arrangement of atoms, ions or molecules in three-dimensional space. For a given crystal, 
+the interfacial angles, at which the surfaces intersect, are alwa ys the same no matter in which shape 
+they are grown. The faces and angles remain characteristic even w hen the material is ground to a 
+ine powder.
+2. Melting Points 
+ Crystalline solids have sharp melting points and can be identi ied from their deinite melting 
+points.
+3.  Cleavage Planes 
+ Whenever the crystalline solids are broken they do so along deinite pl anes. These planes 
+are called the cleavage planes and they are inclined to one another at a particular angle for a given 
+crystalline solid. The value of this angle varies from one solid to another solid.
+4.  Anisotropy
+ Some of the crystals show variation in physical propert ies depending upon the 
+direction. Such properties are called anisotropic prop erties and the phenomenon is referred 
+to as anisotropy. The physical properties of crystalline solids like refractive ind ex, coeicient of 
+thermal expansion, electrical and thermal conductivities are sometimes  anisotropic in nature for 
+some crystals.284 LIQUIDS AND SOLIDS eLearn.Punjab
+The variation in these properties with direction is due to fact that the or derly arrangement of the 
+particles in crystalline solids is diferent in diferent direction s. For example, electrical conductivity 
+of graphite is greater in one direction than in another. Actually el ectrons in graphite are mobile 
+for electrical conduction parallel to the layers only. Therefore, its conductivity in this direction 
+is far better than perpendicular to the other direction. Similarly, cleavage itself is an anisotropic 
+behaviour.
+5. Symmetry 
+ The repetition of faces, angles or edges when a crystal  is rotated by 360° along its axis is 
+called symmetry.  This an important property of the crystal and there are various types  of symmetry 
+elements found in crystals like, center of symmetry, plane of symm etry and axis of symmetry, etc.
+6. Habit of a Crystal 
+ The shape of a crystal in which it usually grows is call ed habit of a crystal.  Crystals are 
+usually obtained by cooling the saturated solution or by slow coolin g of the liquid substance. These 
+are formed by growing in various directions. If the conditions for  growing a crystal are maintained, 
+then the shape of the crystal always remains the same. If the condi tions are changed the shape of 
+the crystal may change. For example, a cubic crystal of NaCl  becomes needle like when 10% urea is 
+present in its solution as an impurity.
+7.  Isomorphism
+ Isomorphism is the phenomenon in which two diferent  substances exist in the same 
+crystalline form.   These diferent substances are called isomorphs of each other. 
+ A crystalline form is independent of the chemical nature of the atom s and depends only on 
+the number of atoms and their way of combinations. 
+ Mostly the ratio of atoms in various compounds are such that isomoph ism is possible. 
+Their physical and chemical properties are quite diferent from ea ch other. Anyway, isomorphic 
+substances crystallize together in all proportions in homogeneous mix tures. Following examples 
+tell us the nature of the compound, their crystalline forms and the r atio of their atoms.294 LIQUIDS AND SOLIDS eLearn.Punjab
+Isomorphs Crystalline form Atomic ratio
+NaNO3, KNO3rhombohedral 1:1:3
+K2SO4, K2CrO4orthorhombic 2:1:4
+ZnSO4, NiSO4-do- 1:1:4
+NaF, MgO cubic 1:1
+Cu, Ag cubic 1:1
+Zn, Cd hexagonal 1:1
+The structures of the negatively charged ions like NO3-1 and CO32-, are the same. Similarly shapes of 
+SO42- and CrO42- are also alike. CO32- and NO31- are triangular planar units, while SO42-  and CrO42- are 
+both tetrahedral.
+8. Polymorphism 
+ Polymorphism is a phenomenon in which a compound exis ts in more than one 
+crystalline forms. That compound which exists in more  than one crystalline forms is tailed a 
+polymorphic, and these forms are called polymorphs, and  these forms are called polymorphs 
+of each other. 
+Polymorphs have same chemical properties, but they difer in the phy sical properties. The diference 
+in physical properties is due to diferent structural arrangement of  their particles. 
+The following compounds are important polymorphs.
+Substance crystalline forms
+AgNO3
+CaCO3Rhombohedral, Othorhombic
+Trigonal and orthorhombic
+9. Allotropy
+ The existence of an element in more than one crystalli ne forms is known as allotropy 
+and these forms of the element are called allotropes or  allotropic forms.  Sulphur, phosphorus, 
+carbon and tin are some important examples of elements which show a llotropy.
+Element Crystalline forms
+Sulphur, S
+Carbon, C
+Tin, SnRhombic, monoclinic
+cubic (diamond), hexagonal (graphite)
+grey tin (cubic), white tin (tetragonal)304 LIQUIDS AND SOLIDS eLearn.Punjab
+10. Transition Temperature 
+ It is that temperature at which two crystalline forms o f the same substance can co-ex -
+ist in equilibrium with each other. At this temperatu re, one crystalline form of a substance 
+changes to another.  
+Above and below this temperature, only one form exists. A few examples for those substances 
+which show allotropy and possess a transition temperature are given below
+ (i)  Grey Tin (cubic)     ฀฀฀฀ ฀฀ ฀฀฀ ฀13.2oC
+ White tin (Tetragonal)
+ (ii)  Sulphur S8 (rhombic)    ฀฀฀฀ ฀฀ ฀฀฀ ฀95.5oC
+ Sulphur S8(monoclinic)
+ (iii) KNO3 (orthorhombic)    ฀฀฀฀ ฀฀ ฀฀฀ ฀128oC
+ KNO3(rhombohedral)
+ (iv) Na2S04-10H20 (hydrated form)  ฀฀฀฀ ฀฀ ฀฀฀฀32.38oC
+ N a2S04(anhydrous from) + 10 H20
+ (v)  Na2CO3- 10 H20 (higher hydrated form) ฀฀฀฀ ฀฀ ฀฀฀฀32.38oC
+ Na2CO3-7H20 (lower hydrated form) + 3H20
+ It has been noticed that the transition temperature of the allotropic forms  of an element is 
+always less than its melting point.
+4.5 CRYSTAL LATTICE
+ A crystal is made up of atoms, ions or molecules. In crystall ine solids, these atoms, ions or 
+molecules are located at deinite positions in space. 
+These positions are represented by points in a crystal. 
+These points are called as lattice points or lattice sites. 
+This arrangement of points in a crystal is called crystal 
+lattice or space lattice. 
+So a crystal lattice is an array of points representing 
+atoms, ions or molecules of a crystal, arranged at 
+diferent sites in three dimensional space.  Fig. (4.13) 
+shows a crystal lattice with a cubic structure.
+Fig (4.13) Cubic crystal lattice314 LIQUIDS AND SOLIDS eLearn.Punjab
+4.5.1 Unit Cell
+ When we look at the cubic crystal lattice in Fig (4.14), we see that it is actually composed of 
+many small parts. The smallest part of the crystal lattice has all the charac teristic features of 
+the entire crystal and is called a unit cell.
+It  means that a unit cell of a crystal lattice is the smallest bl ock or geometrical igure, from which the 
+entire crystal can be built up by repeating it in three dimensions . It shows the structural properties 
+of a given crystal. The complete information about the crystalline str ucture is present within a unit 
+cell which repeats itself in three dimensions to form a crystal. 
+ If we know the exact arrangement of atoms in a unit cell, we in f act know their arrangement 
+in the whole crystal.
+ The quantitative aspects of a crystal lattice are deduced from the si ze and shape of the unit cell. 
+There are three unit cell lengths a, b, c and three unit cell  angles a , b and γ. These six parameters 
+are shown in Fig (4.14)
+ The angle ‘ a’ is between the lengths ‘b’ and ‘c’, the angle ‘ b’ is between the sides ‘a’ and ‘c’ and 
+angle’ γ’ is between sides ‘a’ and ‘b’. The unit cell lengths a, b, c , may be assigned along x, y and z 
+axis, respectivly but angles a , b and γ have to be decided accordingly. The choice of x, y, z may be 
+along any of the three axis. These six parameters of the unit cell a re called unit cell dimensions or 
+crystallographic elements. 
+ Keeping in view the structure of the unit cell we can understand the crystal system. 
+Fig (4.14) Six crystallographic elements specify the size and
+shape of a unit cell324 LIQUIDS AND SOLIDS eLearn.Punjab
+4.6 CRYSTALS AND THEIR CLASSIFICATION
+A crystal system may be identiied by the dimensions of its unit c ell along its three edges or axes, a, 
+b, c and three angles between the axes a , b , γ. 
+ There are seven crystal systems. These seven crystal 
+systems are described as follows Fig (4.15).
+1. Cubic system 
+ In this system all the three axes are of equal length and 
+all are at right angles to one another. 
+Animation 4.8: Unit Cell
+Source & Credit: Commons
+Animation 4.9: Classiication of Crystals
+Source & Credit: wikipedia334 LIQUIDS AND SOLIDS eLearn.Punjab
+2. Tetragonal system
+ In this system two axes are of equal length and the 
+third axis is either shorter or larger than the other two. All 
+angles are 90°.
+3. Orthorhombic Or Rhombic System
+ All the three axes are of unequal length and all are at 
+right angle to each other.
+4. Monoclinic System 
+ All the three axes are of unequal length; two of these 
+axes are at right angle to each other while the third angle 
+is greater then 90°.
+5. Hexagonal System 
+ In this system two axes are of equal length and are 
+in one plane making an angle of 120o with each other. The 
+third axis which is diferent in length than the other two is 
+at right angle to these two axes.
+6. Rhombohedral System Or Trigonal System 
+ All the three axes are of an equal length like cubic 
+system but the three angles are not equal and lie between 
+900 and 120°.
+7. Triclinic System 
+ All the three axes and the three angles are unequal and none of the a ngles is 900.
+ Table (4.7) shows the unit cell dimensions of the seven crystal s ystems alongwith their 
+examples
+Fig (4.15) Seven crystal systems344 LIQUIDS AND SOLIDS eLearn.Punjab
+Sr. 
+NoCrystal system Axes Angles Examples
+1. cubic= =abcabγ= = = 90o Fe, Cu, Ag, Au, NaCl, NaBr, Dimond
+2. Tetragonal= ≠abcabγ= = = 90o
+ Sn, SnO2, MnO2, NH4Br
+3. Orthorhombic≠≠abcabγ= = = 90o Idoine, Rhombic, Sulphur, BaSO4, K2SO4
+4. Monoclinic≠≠abc  aγ b= = ≠ 90 , 90oo Sugar, Sulphur, Borax, NaSO.10H2O
+5. Hexagonal= ≠abc o0á=â=90  , ã=120Graphite, ZnO, CdS, Ice, Zn, Cd
+6. Rhombohedral
+or Trignol= =abcabγ==>< 90 and 120oo Bi, Al2O3, NaNO3, KNO3
+7. Triclinic≠≠abcabγ≠ ≠≠ 90o H3BO3, K2Cr2O7, CuSO4.5H2O
+4.7 CLASSIFICATION OF SOLIDS
+ In the preceding section, we noted that the crystals are classiied i nto seven systems depending 
+upon the dimensions of the unit cells. A unit cell contains a dein ite number of atoms, ions, or 
+molecules. These atoms, ions or molecules are held together by diferent ty pes of cohesive forces. 
+These forces may be chemical bonds or some type of interactions. Ther e are four types of crystalline 
+solids depending upon the type of bonds present in them. 
+(i)  Ionic solids     
+(ii)  Covalent solids 
+(iii)  Metallic solids    
+(iv)  Molecular solids
+4.7.1 Ionic Solids
+ Crystalline solids in which the particles forming the crystal are positively and negatively 
+charged ions are called ionic solids. These ions are held together by strong electrostatic forces of 
+attraction. These attractive forces are also called ionic bonds. The c rystals of NaCl, KBr, etc are ionic 
+solids.Table (4.7) Seven Crystal Systems354 LIQUIDS AND SOLIDS eLearn.Punjab
+Properties of Ionic Solids
+ The cations and anions are arranged in a well deined geometrical  pattern, so they are 
+crystalline solids at room temperature. Under ordinary conditions of temperature and pressure 
+they never exist in the form of liquids or gases. 
+ Ionic crystals are very stable compounds. Very high energy is required to separate the cations 
+and anions from each other against the forces of attraction. That is  why ionic crystals are very hard, 
+have low volatility and high melting and boiling points.
+  Ionic solids do not exist as individual neutral independent molec ules. Their cations and anions 
+attract each other and these forces are non-directional. The close pack ing of the ions enables 
+them to occupy minimum space. A crystal lattice is developed when th e ions arrange themselves 
+systematically in an alternate manner.
+ The structure of the ionic crystals depends upon the radius ratio of cations and anions. For 
+example.NaCl and CsF have the same geometry because the radius rati o in both the cases is the 
+same.
+ In the case of ionic crystals we always talk about the formula mass of these substances and 
+not the molecular mass, because they do not exist in the form of molecul es.
+Fig (4.16) Explanation of brittleness of  ionic crystals364 LIQUIDS AND SOLIDS eLearn.Punjab
+ 
+Ionic  crystals do not conduct electricity in the solid state, becaus e on account of electrostatic force 
+existing between them the cations and anions remain tightly held together  and hence occupy ixed 
+positions. Ionic crystals conduct electricity when they are in solu tion or in the molten state. In both 
+cases ions become free. 
+ Ionic crystals are highly brittle because ionic solids are com posed of parallel layers which 
+contain cations and anions in alternate positions, so that the opposite ions in the various parallel 
+layers lie over each other. 
+When an external force is applied, one layer of the ions slides a bit over the other layer along a plane. 
+In this way the like ions come in front of each other and hence begi n to  repel. So, the application 
+of a little external force develops repulsion between two layers causing brittleness Fig (4.16).
+ Ionic solids are mostly of high density due to close packing of ions. Such compounds having 
+the ionic crystals give ionic reactions in polar solvents and these a re very fast reactions. 
+ The  properties like isomorphism and polymorphism are also ass ociated with the ionic crystals. 
+In order to understand the structure of ionic crystals, let us expla in the structure of sodium chloride 
+crystals.
+Animation 4.10: Ionic Solids
+Source & Credit: Grandinetti374 LIQUIDS AND SOLIDS eLearn.Punjab
+Structure of Sodium Chloride 
+ The structure of ionic crystals depends upon the structure and the size of their ions. Each ion is 
+surrounded by a certain number of ions of opposite charge. In the structure of NaCl each Na+ ion is 
+surrounded by six chloride ions. Fig (4.17) shows how these i ons are arranged in the crystal lattice. It is 
+clear that Na+ has ten electrons while Cl- has total 18 electrons. The size of the Cl- is bigger than that of Na+
+ The  distance between two nearest ions of the same kind i.e., Cl- ions is 5.63 o
+A . So the 
+distance between two adjacent ions of diferent kind is 5.63/2 = 2. 815 o
+A.
+Animation 4.11: classiication of solids
+Source & Credit: Askiitians384 LIQUIDS AND SOLIDS eLearn.Punjab
+ 
+ 
+ 
+ 
+  The location of Na+ and Cl- is such that each Na+ is surrounded by six Cl- placed at the corners 
+of a regular octahedron Fig. (4.17 a). So the coordination number  of each Na+ is six. Similarly, 
+each Cl- is also surrounded by six Na+. Na+ and C1- are not connected to one another by pairs 
+because all six Cl- ions are at the same distance away from one Na+. It has been observed that 
+independent molecules of NaCl  do exist in the vapour phase. Anyhow,  in solid NaCl there 
+are no independent molecules of NaCl. That is why NaCl is said  to have formula unit of NaCl.
+ While  looking at the Fig.(4.17 b), we see that there are eight Cl- at the comers of the cube, and 
+each is being shared amongst eight cubes. l/8th part of each Cl- ion is considered for this unit cell. 
+So, one complete Cl- is contributed by eight corners. Similarly,six chloride ions are present at the 
+face centres and each is being shared between t wo cells. Thus.per  unit cell there are 8/8 + 6/2 = 
+4 Cl- ions. You can justify the presence of 4 Na+ , if you take a unit cell having 8Na+ at eight corners 
+and 6Na+ at faces. So, there are equal number of Na+ ions, and therefore 4 NaCl units are present 
+per unit cell. Fig (4.17b)
+Lattice Energy
+ Solids are composed of atoms, ions or molecules. However, many solid s of daily importance 
+are ionic in nature. As mentioned earlier these ions exist in a three dimensional array which is 
+called as lattice.
+Figs (4.17 a, b) The unit cell of sodium chloride showin g that four NaCl formula units are present in a unit c ell.394 LIQUIDS AND SOLIDS eLearn.Punjab
+ When the oppositely charged ions are brought, close to each other energy  is released. So 
+the lattice energy is the energy released when one mo le of the ionic crystal is formed from 
+the gaseous ions. It is also deined as the energy requ ired to break one mole of solid into 
+isolated ions in the gas phase. It is expressed in kj mole-1.
+    +−+→(g) Cl (g) ( )Na NaCl s   −= − ฀1H 787kJmole
+ Table (4.8) shows the lattice energies of many ionic compounds. It is clear from the table that 
+lattice energy decreases with the increase in the size of the cation keepi ng the anion same. It also 
+decreases with the increase in the size of anion. The reason in both cases is the same. With the 
+increase in the size of either cation or anion, the packing of opposi tely charged ions becomes less 
+and less tight. The calculations related to the measurement of lattice en ergy will be discussed in 
+chapter seven.
+4.7.2. Covalent Solids
+ Covalent solids are also called atomic solids, because they are com posed of neutral atoms of 
+the same or of diferent elements. These atoms are held together by covalent bon ds.
+ Covalent solids are of two types.
+(i)  When the covalent bonds join to form giant molecules like diamon d, silicon carbide or aluminium nitride. 
+(ii)  When atoms join to form the covalent bonds and separate layers are produced like that of 
+graphite, cadmium iodide and boron nitride.Ionic
+compoundLattice energy
+(kJ/mol-1)
+LiCl -833
+NaF -895
+NaCl -787
+KCl -690
+NaBr -728
+KBr -665
+Nal -690Tables (4.8) Lattice energies 
+of ionic compounds404 LIQUIDS AND SOLIDS eLearn.Punjab
+Properties of Covalent Crystals
+ The bonding in covalent crystals extend in three dimensions. They contain a network of atoms. 
+The valencies of atoms are directed in deinite directions, so the packi ng of atoms in these crystals 
+is looser than those of ionic and metallic crystals. Thus covalent crystals have open structure. 
+ These crystals are very hard and considerable amount of energy i s required to break them. 
+They have high melting points and their volatility is very low.
+ Due  to the absence of free electrons and ions they are bad conductors of  electricity. 
+However, graphite has a layered structure and the electrons are availa ble in between the layers. 
+These electrons are delocalised and conductivity becomes possible. Grap hite is not a conductor 
+perpendicular to the layers.
+ Mostly covalent crystalline solids are insoluble in polar solvents like water but they are readily 
+soluble in non-polar solvents like benzene and carbon tetrachloride. The covalent crystals having 
+giant molecules like diamond and silicon carbide are insolubl e in all the solvents. Because of their 
+big size, they do not interact with the solvent molecules. The chemical reactions of such crystalline 
+solids are very slow.
+ Let us try to understand the structure of diamond, which is a wel l known covalent solid.
+Structure of Diamond
+ Diamond is one of the allotropic modiications of 
+carbon. It is best understood by taking into consideration 
+the number of electrons in the outermost shell of carbon, 
+which are four. The four atomic orbitals (one 2s and three 
+2p) undergo sp3 hybridization to give four sp3 hybridized 
+orbitals. They are directed in space along the four corners 
+of a tetrahedron Fig. (4.18 a).
+ This is the unit cell of diamond and a large number of 
+such unit cells undergo sp3-sp3 overlapping to form a huge 
+structure. Each carbon atom is linked with four other carbon 
+atoms. The bonds between carbon atoms are covalent 
+which run through the crystal in three-dimensions. All the 
+bond angles are 109.5° and the bond lengths are 154 pm.414 LIQUIDS AND SOLIDS eLearn.Punjab
+The whole lattice is, therefore, continuous and because of the continui ty of C-C covalent bonding, 
+the entire diamond crystal behaves as a huge or giant three-dimension al carbon molecule. This is 
+also called a macro-molecule.
+Fig.(4.18b), The overall structure of diamond looks face centred-c ubic Fig. (4.18 c)
+4.7.3. Molecular Solids 
+ Those solid substances in which the particles forming the crys tals are polar or non-polar 
+molecules or atoms, of a substance are called molecular solids. F or instance, in solidiied noble 
+gases, there are non-polar atoms. Two types of of diamond intermolecul ar forces hold them 
+together.
+ (i)  Dipole-dipole interactions.
+ (ii)  van der Waals forces.
+ These  intermolecular forces are much weaker than the forces of attra ction between the 
+cations and the anions in ionic crystals, and between the atoms in  the covalent crystals. 
+ Ice and sugar are the best examples of crystals having polar m olecules whereas iodine, sulphur, 
+phosphorus and carbon dioxide form the molecular crystals contai ning nonpolar molecules. Polar 
+molecular solids have usually higher melting and boiling poin ts as compared to non-polar molecular 
+solids.Fig(4.18 c) face-centered cubic structure  
+of diamond424 LIQUIDS AND SOLIDS eLearn.Punjab
+Properties of the Molecular Solids
+ X-ray analysis has shown the regular arrangements of atoms i n constituent molecules of 
+these solids, and we get the exact positions of all the atoms.
+  The forces, which hold the molecules together in molecular crystal s, are very weak so they 
+are soft and easily compressible. 
+ They  are mostly volatile and have low melting and boiling points.  They are bad conductors 
+of electricity, have low densities and sometimes transparent to light. P olar molecular crystals are 
+mostly soluble in polar solvents, while non-polar molecular crysta ls are usually soluble in non-polar 
+solvents. 
+ Iodine is one of the best examples of a molecular solid. Let us dis cuss the structure of iodine 
+molecule.
+Structure of Solid Iodine
+ In the solid state the molecules of iodihe align in the form of layer  lattice. This is shown in Fig 
+(4.19). I -I bond distance is 271.5 pm and it is appreci ably longer than in gaseous iodine (266.6 pm). 
+As expected from its structure, iodine is a poor conductor of electrici ty.
+Fig (4.19) Face centered cubic structure of iodine434 LIQUIDS AND SOLIDS eLearn.Punjab
+4.7.4. Metallic Solids
+ In order to explain properties of 
+metallic solids various theories have been 
+proposed. A few of them are mentioned 
+here.
+ The irst theory of metallic bonding is 
+called electron pool or electron gas theory. 
+This theory was proposed by Drude and 
+extended by Loren (1923). According to 
+this theory, each atom in a metal crystal 
+loses all of its valence electrons. These 
+valence electrons form a pool or a gas. 
+The positively charged metal ions are 
+believed to be held together by electron 
+pool or gas. These positively charged ions 
+occupy deinite positions at measurable 
+distances from each other in the crystal 
+lattice. Valence elect rons are not attached to any individual ion or a  pair of ions rather belong to 
+t he crystal as a whole. These electrons are free to move about from one pa rt of the crystal to the 
+other. The force, which binds a metal cation to a number of electrons  within its sphere of- inluence, 
+is known as metallic bond. The following Fig. (4.20) gives a n idea of electron gas model.
+ L. Pauling has tried to explain the metallic bond according to valence bond theory. According to 
+this theory, the metallic bond is treated essentially as covalent in ch aracter. However, it is assumed 
+that the covalent bonds are not localized but are highly delocalized i n metal structure.
+ Recently, molecular orbital theory was applied to explain the char acteristics of metallic  
+solids. According to this theory, it is assumed that the electrons in  the completely illed orbitals 
+are essentially localized, while atomic orbitals containing the val ence electrons interact or overlap 
+to form a set of delocalized orbitals. These delocalized orbitals are the molecular orbitals which 
+extend over the entire crystal lattice. Such a combination of atomic orbi tals produce as a large 
+number of closely spaced states. These states of energy are also known  as bands of energy. That is 
+why it is also called a band theory. The energy gap between two ba nds determines the properties 
+of the metallic solids.
+Fig (4.20) Positive ions surrounded by mobile electrons444 LIQUIDS AND SOLIDS eLearn.Punjab
+Properties of Metallic crystals
+ Metals are good conductor of electricity. When electric ield is appl ied between two ends of 
+a metal then the mobile electrons begin to  move towards the positive pole and the new electrons 
+from the negative pole take their place Fig. (4.21a) Sometimes, the electr ical conductivity of metals 
+decrease with the increase in temperature. The reason is that with the i ncrease in temperature the 
+positive metal ions also begin to oscillate and the motion hinders the fr ee movement of mobile 
+electrons between the positive ions. This hindrance decreases the electrica l conductivity.
+ The rmal conductivity is another property associated with metallic solids. When a piece of 
+metal is heated at one end, the mobile electrons at this end absorb heat en ergy and move very 
+rapidly through the metallic lattice towards the cooler end. During th e process they collide with 
+adjacent electrons and transfer their heat energy to them.
+ Whenever  the metals are freshly cut, most of them possess metallic lu ster which means that 
+they have a shining surface. When light falls on the metallic s urface, the incident light collides with 
+the mobile electrons and they are excited. These electrons when deexcited gi ve of some energy 
+in the form of light. This light appears to be relected from the sur face of the metal which gives a 
+shining look.
+Fig (4.21a) Explanation of electrical conductivity of a metal454 LIQUIDS AND SOLIDS eLearn.Punjab
+ Metals are malleable and ductile whenever stress is applied on them . Their layers slip pass 
+each other. The structure of the metal changes without fracturing as shown in the Fig. (4.21b).
+Structure of Metals
+ In the  previous article of metallic solids, we have 
+learnt that metal atoms are arranged in deinite pattern. 
+Free electrons are roaming about in the crystal lattice. So 
+a metal may be regarded as an assembly of the positively 
+charged spheres of identical radii which are packed 
+together to ill the space as completely as possible.
+  To understand the closed packing of atoms in metal 
+structures, let us suppose that the metal atoms are like 
+hard spherical balls. Take twelve spherical balls and pack  
+in a box as shown in Fig (4.22 a). 
+Fig(4.21b) Deformation of metal structures
+Fig (4.22 a) Packing of twelve sphere in a box 
+(two dimensional view)464 LIQUIDS AND SOLIDS eLearn.Punjab
+The spaces during the packing are larger. When the box 
+is shaken, the balls will rearrange as shown in Fig (4.22  b). 
+The arrangement of these balls are now stable and more 
+closely packed. It is the natural tendency of the balls to 
+have closely packed arrangement of eleven spheres after 
+shaking.
+ In order to understand,how various unit cells of the 
+crystal lattice are developed, consider three balls which 
+join together in one plane. The fourth ball is inserted in 
+the space created by the other three as a second layer. 
+In this way tetrahedral structure is obtained Fig (4.22 c). 
+Actually, the fourth ball of the second layer is placed in 
+the depression created by the irst three balls. These depressions are a lso called interstices or 
+crevices or voids.
+ Consider  the Fig (4.22 d) in which eleven balls of Fig. (4 .22 b) are present in the irst layer 
+(circles with shade). The balls of the second layer (circle wi thout shade) can it into the depressions 
+or interstices created by the irst layer. When the balls of the second layer are arranged, then all 
+the depressions of the irst layer are not occupied. There are two types of  depressions as ‘a’ and 
+‘b’. The depressions marked ‘b’ are not occupied by the second la yer and one can see the ground 
+from looking at the top through depressions ‘b’. The new depressions marked ‘a’ are created by the 
+second layer. Through the depressions ‘a’, we can not see the ground , but balls of the irst layer.
+Now arrange the balls of third layer in the depression of second l ayer. When the balls of the third 
+layer are placed abov the second layer then there are two possibilities.  Third layer balls may be 
+accommodated in ‘a’- type or ‘b’-type interstices or depressions.
+Fig (4.22 b)Packing of eleven spheres in a box 
+( two dimentional view)
+Fig (4.22 c) The formation of a
+tetrahedral site, due to four balls
+Fig (4.22 d) Close packing of spheres, showing 11 
+balls in irst layer and 6 balls in second layer.474 LIQUIDS AND SOLIDS eLearn.Punjab
+(i) Cubic Close Packing
+ When the atoms of the third layer it into the interstices marked b, then  the atoms of the 
+third layer will not lie directly above those of the atoms of irst layer . This pattern of arrangement 
+is called ABC ABC-------------- or 123 123----------- ------. It is named as face centred cubic arrangement 
+Fig. (4.23a). The balls of fourth, seventh and tenth layers wil l be in front of each other.
+(ii) Hexagonal Close Packing
+ When the atoms of the third layer are arranged in such a way tha t they occupy the depressions 
+created by the second layer i.e., in the ‘a’ types crevices then these a toms will directly lie above the 
+atoms of irst layer. This pattern of arrangement is usually wri tten as ABAB ....... or 1212  . This 
+pattern has been named as hexagonal close packing Fig(4.23b).  The balls of third, ifth, seventh 
+layers will be in front of each other.
+Comparison of Properties of Various Types of Crystals
+The following table gives a view to the comparison of properties of four types of crystals.
+Fig (4.23 a) Cubic close packing or
+Face centred cubic arrangement (ABCABC . . . )Fig (4.23 b) Hexagonal close packing (ABAB . . . )484 LIQUIDS AND SOLIDS eLearn.Punjab
+ Type of 
+Solid Structural
+Particles Intermolecular
+Forces Typical Properties Examples
+ Metallic cations plus
+delicalized
+electronsmetallic
+bonshardness varies from soft to
+Very hard; melting points
+varied from low to very high;
+lustrous; ductile; malleable;
+very good conductors of heat
+and electricityNa; Mg; Al
+Fe; Zn; Cu;
+Ag; W
+Ionic cations and 
+anionselectrostatic
+attractionshard; moderate to very high
+melting points: 
+nonconductors
+of electricity  (but good 
+electrical
+conductors in the molten 
+state)NaCl;NaNO3,
+MgO
+Molecular molecules
+(atoms of
+noble gases)Landon and/or
+dipole-dipole
+and/or
+hydrogen bondssoft; low melting points:
+nonconductors of heat and
+electricity; sublime easily
+in many casesnoble-gas
+elements;
+CH4; CO2; P4
+S8; I2; H2O
+Network
+covalentatoms  covalent bonds very hard; very high melting
+points: nonconductors of
+elecrioityC(diamonds);
+SiC; SiO2Table (4.9) Type of Crystalline Solids494 LIQUIDS AND SOLIDS eLearn.Punjab
+4.8 Determination of Avogadro’s Number  (NA)
+ Avagadro number can be calculated in a number of diferent way s. One of the most accurate 
+methods for determining this number is based on the study of crysta lline solids.
+ In order to calculate this number, we need to know the volume of one gra m-mole of a crystalline solid 
+and the distance between its atoms or ions in the crystal lattice.
+ The  volume of one gram-mole of a solid can be calculated from its  density while the spacing 
+between its atoms can be measured by X-rays.
+The method of determining Avogadro’ s number is explained with a h elp of following solved exam-
+ple which gives a reasonably good value of this number. The crys tal of LiF is primitive cubic and can 
+be used to calculate the Avogadro’s number.
+Example:
+ The density of LiF is 2.65 g cm-3. It is made up of cubic array of alternate Li+ and F- ions and the 
+distance between these ions is 2.01 o
+A(2.01 x 10-8 cm). Calculate the Avogadro’s number.
+Solution:
+ The formula mass of LiF  =  6.939 + 18.9984
+       =  25.9374 g mol-1
+ Density of LiF    =  2.65 g cm-3
+ 
+ From the density and molar mass, calculate the volume of 1 mole of solid LiF
+ 
+       The volume occupied
+     by one formula unit of LiF  =  −
+−1
+325.9374g mol
+2.65g cm
+       =  9 .788 cm3 mol-1504 LIQUIDS AND SOLIDS eLearn.Punjab
+From  this volume, we can calculate the edge length of the cube. For th is, we suppose that 9.788cm3 
+of LiF i.e., 1 mole of LiF, is present in the form of a cube. Th e cube root of this volume will give the 
+length of one edge of cube.
+ Edge length of the cube  =  3 39.788cm
+       =  2 .139 cm
+The number  of ions of both Li+ and F- on one edge length can be calculated by dividing the edge 
+length by distance between ions. Hence, the number of (Li+and F- ) ions along one edge length
+       =   −−×812.139cm
+2.01 10 cm ion
+       =  1 .064x108
+When we take the cubes of these ions we get the total number of ions i.e. L i+ and F- in the cube.
+Total number (Li+F-) of ions in the cube   =  (1.064x108)3
+        =  1 .204x1024
+ Since the cube of LiF crystal contains  one Avogadro’s number of Li+ and one Avogadro’s 
+number of F- , so the Avogadro’s number will be
+     81.20410
+2x
+   =6.02x1023514 LIQUIDS AND SOLIDS eLearn.Punjab
+KEY POINTS
+1. Among  three states of matter i.e. gases, liquids and solids, the intermolecular attractive forces 
+in the gases are negligible. In liquids intermolecular forces a re strong enough to keep the 
+molecules close together. Anyhow, the molecules in liquids are free to m ove with respect to 
+one another. In solids the particles occupy speciic locations in th ree dimensional arrangement. 
+Molecules in liquids are free to move with respect to one another. In soli ds the particles occupy 
+speciic locations in three dimensional arrangement.
+2. There  are four types of intermolecular forces i.e. dipole-dipole forces, London dispersion forces, 
+hydrogen bonding and Ion-dipole forces. The relative strengths of di pole-dipole and dispersion 
+forces depend upon the polarity, polarisability, size and shape of the molecules. Hydrogen 
+bonding occurs in compounds containing 0-H,N - H, H - F b onds.
+3. The  vapour pressure of a liquid measures the tendency of a li quid to evaporate. It is the pressure 
+exerted by the vapours on the surface of a liquid when the rate of evapor ation is equal to the 
+rate of condensation. A liquid boils when its vapour pressure equa ls the external pressure.
+4. Many crystalline solids melt to give a turbid liquid before m elting to give a clear liquid. These 
+turbid liquids possess some degree of order and are called liqui d crystals. Liquid crystals have 
+the luidity of liquids and the optical properties of solids.
+5. In  crystalline solids the particles are arranged in a reg ular and repeating manner. The essential 
+structural features of a crystalline solid can be represented by i ts unit cell. The three dimensional 
+array of points representing atoms, ions or molecules is called cr ystal lattice. The points in the 
+crystal lattice represent positions in the structure where they have identi cal environments.
+6. The simplest unit cell is a cubic unit cell. There are seven crystal systems overall.
+7. The properties of solids depend on the arrangement of particles an d the attractive forces 
+between them. Ionic solids are hard and brittle and have high melti ng points. Covalent solids 
+consist of atoms held together by covalent bonds and these bonds extend thr oughout the solid. 
+They are hard and have high melting points. Metallic solids con sist of metal cations immersed 
+in a sea of electrons and give a wide range of properties. Molecular  solids consist of atoms or 
+molecules held together by intermolecular forces.
+8. The properties of solids depend on the arrangement of particles an d the attractive forces 
+between them. Ionic solids are hard and brittle and have high melti ng points. Covalent solids 
+consist of atoms held together by covalent bonds and these bonds extend thr oughout the solid. 
+They are hard and have high melting points. Metallic solids con sist of metal cations immersed 
+in a sea of electrons and give a wide range of properties. Molecular  solids consist of atoms or 
+molecules held together by intermolecular forces.524 LIQUIDS AND SOLIDS eLearn.Punjab
+EXERCISE
+(QUESTIONS OF LIQUIDS)
+Q1.  Choose the best answers from the given choices.
+ (i)  London dispersion forces are the only forces present among the
+(a) molecules of water in liquid state
+(b) atoms of helium in gaseous state at high temperature 
+(c) molecules of solid iodine. 
+(d) molecules of hydrogen chloride gas.
+ (ii)  Acetone and chloroform are soluble in each other due to
+(a)  intermolecular hydrogen bonding  (b)  ion-dipole interaction  
+(c)  instantaneous dipole      (d)  all of the above
+ (iii)  NH, shows a maximum boiling point among the hydrid es of Vth group elements due to 
+(a)  very small size of nitrogen   (b)  lone pair of electrons pr esent on nitrogen.
+(c)  enhanced electronegative character of nitrogen
+(d)  pyramidal structure of NH3
+(iv)  When water freezes at 0"C, its density decreases due to 
+(a)  cubic structure of ice    (b)  empty spaces present in the structure of ice 
+(c)  change of bond lengths   (d)  change of bond angles 
+(v)  In order to raise the boiling point of water upto 110°C, the extern al pressure should be 
+(a)  between 760 torr and 1200 torr  (b)  between 200 torr and 7 60 torr 
+(c)  765 torr      (d)  any value of pressure
+Q2.  Fill in the blanks with suitable words 
+(i)  The polarizability of noble gases________down the group a nd results in the increase in 
+their  boiling points. 
+(ii)  ________ is developed in acetone and chloroform when they a re mixed together. 
+(iii)  Exceptionally weak_____of HF is due to strong hydrogen b onding present in it. 
+(iv)  The concept of dynamic equilibrium is the ultimate ______ _of all reversible systems. 
+(v)  ∆Hv of C6H14 should be_____ than that of C2H6. 
+(vi)  During the formation of ice from liquid water there is a____ __ % increase in volume. 
+(vii)  The rate of increase of vapour pressure of water_______at hi gh temperatures. 
+(viii)  A layer of ice on the surface of water____the water under neath for further heat loss. 
+(ix)  Evaporation is a ________process. 
+(x)  Liquid crystals are used in the display of_________ devices.534 LIQUIDS AND SOLIDS eLearn.Punjab
+Q3.  Indicate true or false as the case may be 
+(i)  Dipole-dipole forces are weaker than dipole-induced dipole forc es.
+(ii)  The ion dipole interactions are responsible for the dissolution  of an ionic substance in water. 
+(iii) The high polarizability of iodine is responsible for its  existence in solid form and its diference  
+ from other halogens. 
+(iv)  The strong hydrogen bonding in H2S makes it diferent from water. 
+(v)  Hydrocarbons are soluble in water because they are polar comp ounds. 
+(vi)  The viscosities of liquids partially depend upon the extent of hydrogen bonding. 
+(vii)  The state of equilibrium between liquid state and vapours is  dynamic in nature. 
+(viii)  Heat of vapourization of liquids depend upon the intermolecu lar forces of attraction present   
+ between their molecules. 
+(ix)  Ice does not show any vapour pressure on its surface at -1oC. 
+(x)  Boiling point of a liquid is independent of external press ure.
+Q4 (a) What type of intermolecular forces will dominate in the foll owing liquids.
+  (i)  Ammonia, NH3    (ii)  Octane, C8 H18   (iii)  Argon, Ar 
+ (iv)  Propanone, CH3COCH3  (v)  Methanol, CH3OH 
+ (b)  Propanone (CH3COCH3), propanol (CH3CH2CH2OH) and butane (CH3CH2CH2CH3) have 
+very similar relative molecular masses. List them in the expected order  of increasing boiling points. 
+Explain your answer.
+Q.5  Explain the following with reasons.
+(i)  In the hydrogen bonded structure of HF, which is the stronger  bond: the shorter covalent   
+          bond or the longer hydrogen bond between diferent molecules.  
+(ii)  In a very cold winter the ish in garden ponds owe their li ves to hydrogen bonding? 
+(iii)  Water and ethanol can mix easily and in all proportion s. 
+(iv)  The origin of the intermolecular forces in water. 
+Q6 (a) Briely consider some of the efects on our lives if water has only a very weak hydrogen  
+                bonding present among its molecules.
+ (b) All gases have a characteristic critical temperature. Above th e critical temperature it is   
+             impossible to liquefy a gas. The critical temper atures of carbon dioxide and methane are  
+                    31.14 0C and -81.9 0C, respectively. Which gas has the stronger intermolecular forces? Briely    
+              explain your choice?544 LIQUIDS AND SOLIDS eLearn.Punjab
+Q7  Three liquids have the properties mentioned against their names
+Water Propanone Pentane
+(i) Molecular Formula H2O C3H6O C5H12
+(ii) Relative molecular mass (a.m.u.) 18 58 72
+(iii)Enthalpy change of
+vapourization (kJ mol-1)41.1 31.9 27.7
+(iv) Boiling point (0C) 100 56 36
+ (a)  What type of intermolecular force predominates in each liqui d?
+ (i)  water  (ii)  propanone   (iii)  pentane
+ (b)  What do you deduce about the relative strength of these forces in th e liquids?
+             Justify your conclusions.
+ (c)  If the liquids are shaken together in pairs,
+  (i)  Which pair would be unlikely to mix?
+  (ii)  Explain this immiscibility in terms of the forces betw een the molecules.
+  (iii)     Choose one of the pairs that mix and say whether the en thalpy change on mixing   
+                               would be positive or negative.
+Q8  Describe the various forces responsible for keeping the particles together in the following  
+         elements  and compounds and their efects on physical p roperties making use of the data  
+          below.
+Substance Formula Molar Mass (a.m.u.) M.P(°C)
+Neon Ne 20 -248
+Argon Ar 40 -189
+Water H2O 18 0
+Sodium luoride NaF 42 993
+Diamond C 12 3350
+Q9  The boiiing points and molar masses of hydrides of some ir st row elements are tabulated  
+          below:
+Substance Boiling Point (K) Molar Mass (g mol-1)
+CH4109 16
+NH3240 17
+H2O 373 18554 LIQUIDS AND SOLIDS eLearn.Punjab
+ Suggest reasons for the diference in their boiling points in terms of the type of molecules 
+involved and the nature of the forces present between them.
+Q10 Explain the term saturated vapour pressure. Arrange in order of increasing vapour pressure:  
+         ldm3 water, 1 dm3 ethanol, 50 cm3 water, 50 cm3 ethanol and 50 cm3 of ether.
+Q11  While a volatile liquid standing in a breaker evaporates, th e temperature of the liquid remains  
+           the same as that of its surrounding. If the same li quid is allowed to vapourize into atmosphere  
+           in an insulated vessel, its temperature falls below th at of its surrounding. Explain the diference  
+         in behaviour.
+Q12  How does hydrogen bonding explain the following indicated p roperties of the substances?
+ (i)  Structure of DNA     (ii)  Hydrogen bonding in proteins
+ (iii) Formation of ice and its lesser density than liquid water
+ (iv)  Solubilities of compounds
+Q13  What are liquid crystals? Give their uses in daily life.
+Q14  Explain the following with reasons.
+(i)  Evaporation causes cooling.
+(ii)  Evaporation takes place at all temperatures.
+(iii)  Boiling needs a constant supply of heat.
+(iv)  Earthenware vessels keep water cool.
+(v)  One feels sense of cooling under the fan after bath.
+(vi)  Dynamic equilibrium is established during evaporation of a liquid in a closed vessel at 
+constant temperature.
+(vii)  The boiling point of water is diferent at Murree hills an d at Mount Everest.
+(viii)  Vacuum distillation can be used to avoid decomposition of a sensitive liquid.
+(ix)  Heat of sublimation of a substance is greater than its hea t of vaporization.
+(x)  Heat of sublimation of iodine is very high.564 LIQUIDS AND SOLIDS eLearn.Punjab
+(QUESTIONS OF SOLIDS)
+Q1.  Multiple choice questions.
+(i)  Ionic solids are characterized by
+ (a)  low melting points.    (b)  good conductivity in solid sta te,
+ (c)  high vapour pressures.   (d)  solubility in polar sol vents.
+(ii) Amorphous solids
+ (a)  have sharp melting points.
+ (b)  undergo clean cleavage when cut with knife.
+ (c)  have perfect arrangement of atoms.
+ (d)  can possesses small regions of orderly arrangement of atoms .
+(iii)  The molecules of CO2 in dry ice form the
+ (a)  ionic crystals    (b)  covalent crystals
+ (c)  molecular crystals   (d)  any type of crystal
+(iv)  Which of the following is a pseudo solid?
+ (a)   CaF2   (b)   Glass   (c)  NaCl   (d)  All
+(v)  Diamond is a bad conductor because
+ (a)  it has a tight structure   (b)  it has a high density
+ (c)  there are no free electron present in the crystal of diamond to con duct electricity
+ (d)  is transparent to light
+Q2. Fill in the blanks
+(i) In a crystal lattice, the number of nearest neighbours to each atom is called the_______.
+(ii)  There are__________ Bravis lattices.
+(iii)  A pseudo solid is regarded as__________liquid.
+(iv)  Glass may begin to crystallize by a process called_____ _____ .
+(v)  Crystalline solids which exhibit the same _________ in all directions are called_________.
+(vi)  The branch of science which deals with the ___________ _______ of crystals is called 
+crystallography.
+Q.3  Indicate True/False as the case mav be
+(i)  There are ive parameters in unit cell dimensions of a crysta l.
+(ii)  Ionic crystals are very hard,  have low volatility and very  low melting and boiling points.574 LIQUIDS AND SOLIDS eLearn.Punjab
+(iii)  The value of lattice energy of the ionic substances depends upon the size of ions.
+(iv)  Molecular orbital theory of solids is also called band theor y.
+(v)  Ionic solid is good conductor of electricity in the molten state.
+Q.4  What are solids? Give general properties of solids. How do you diferentiate between crystalline  
+          solids and amorphous solids?
+Q5
+ (a) Explain the following properties of crystalline solids. Give three examples in each case.
+ (i)  Anisotropy     (v) Polymorphism
+ (ii) Cleavage     (vi)  Transition temperature
+ (iii)  Habit of a crystal   (vii) Symmetry
+ (iv)  Isomorphism    (viii) Growing of a crystal
+ (b) How polymorphism and allotropy are related to each other? Give exa mples.
+Q6 
+ (a) Deine unit cell. What are unit cell dimensions? How the idea of crystal lattice is developed  
+                from the concept of unit cell?
+ (b) Explain seven crystal systems and draw the shapes of their  unit cells.
+Q7 
+ (a) What are ionic solids? Give their properties. Explain the stru cture of NaCl. Sketch a model to  
+             justify that unit cell of NaCl has four formul a units in it.
+      (b) What are covalent solids? Give their properties. Explain the structure of diamond.
+       (c) What are molecular crystals? Give their properties. Ju stify that molecular crystals are softer   
+               than ionic crystals.
+Q8
+ (a)Give diferent theories of a metallic bond. How does electron sea theory justify the electrical  
+              conductivity, thermal conductivity and shining surfaces of metals?
+    (b) Explain with the help of a diagram
+       (i)  Cubic close packing in the structure of metals.
+      (ii)  Hexagonal close packing in the structure of metals.
+Q9  Crystals of salts fracture easily but metals are deformed un der stress without fracturing.  
+          Explain the diference.584 LIQUIDS AND SOLIDS eLearn.Punjab
+Q10  What is the coordination number of an ion? What is the coordi nation number of the cation in   
+          (a) NaCl structure and (b) CsCl structure? Expl ain the reason for this diference?
+Q11  Give examples of ionic solids, molecular solids and covalent macromolecular solids. What are  
+           the factors which determine whether each of these types of solid will dissolve in water or not?
+Q12  Explain the following with reasons:
+(i)  Sodium is softer than copper, but both are very good electrical  conductors.
+(ii)  Diamond is hard and an electrical insulator.
+(iii)  Sodium chloride and caesium chloride have diferent stru ctures.
+(iv)  Iodine dissolves readily in teterachloromethane.
+(v)  The vapour pressures of solids are far less than those of li quids.
+(vi)  Amorphous solid like glass is also called super cooled liquid.
+(vii)  Cleavage of the crystals is itself anisotropic behaviour.
+(viii)  The crystals showing isomorphism mostly have the same atom ic ratios.
+(ix)  The transition temperature is shown by elements having allotrop ic forms and by   
+         compounds showing polymorphism.
+(x)  One of the unit cell angles of hexagonal crystal is 120°.
+(xi)  The electrical conductivity of the metals decrease by increasi ng temperature.
+(xii)  In the closest packing of atoms of metals, only 74% spac e is occupied.
+(xiii)  Ionic crystals don’t conduct electricity in the solid sta te.
+(xiv)  Ionic crystals are highly brittle.
+(xv)  The number of positive ions surrounding the negative ion in the ionic crystal lattice  
+         depends upon the sizes of the two ions.

@@ -1,0 +1,1119 @@
+CHAPTER
+10Kingdom Animalia
+Animation 10.1: Growth and development
+Source & Credit: Wikispaces210. Kingdom Animalia eLearn.Punjab
+V: 1.1      
+INTRODUCTION
+Animalia kingdom includes all the animals. The name anima lia is derived from Latin, anima = breath 
+or soul.
+In traditional two-kingdom systems, the multicellular animals were referred to broadly as Metazoa 
+to distinguish them from one-celled animals, the Protozoa. In this tex t book we have followed the 
+ive kingdom classiication system introduced by Robert Whittaker. In  this system of classiication 
+the traditional Protozoa belong to kingdom Protoctista. Kingdom Animali a consists of all animals 
+which are multicellular, diploid eukaryotic, ingestive heterotrophs and develop from two dissimilar 
+haploid gametes, a large egg and a smaller sperm. In this c hapter we will discuss various groups 
+and subgroups with details of the phyla in your curriculu m.
+Virtually all biologists agree that animals evolved from protoctists;  however, which protoctists, 
+when, and in what sort of environments, are questions that are still actively debated.
+               Table 10.1 The relationship of diferen t phyla discussed in this chapter.310. Kingdom Animalia eLearn.Punjab
+V: 1.1    
+DEVELOPMENT OF COMPLEXITY IN ANIMALS
+Although multicellularity is found in all the kingdoms, Fu ngi, Plantae and Animalia but it has 
+developed most impressively in animals- their cells are joined by c omplex junctions, this ensures 
+control of communications and low of materials between cells. The an imals are a diverse group 
+distinct in their form. The smallest are microscopic, which ar e smaller than many protoctists and 
+the largest today are whalessea mammals, included in phylum Chordata.
+The simplest of the animals belong to subkingdom Parazoa  (phylum Porifera). These animals lack 
+tissues organised into organs and have indeterminate shape, and a re asymmetrical. The sub kingdom 
+Eumetazoa  includes animals of other phyla. These animals have tissues organised into organs 
+and organ systems. These include radially symmetrical anim als (grade Radiata ) and bilaterally 
+symmetrical animals (grade Bilateria ). Grade Radiata includes simplest of the Eumetazoa (phylum 
+Cnidaria ). They are much simpler in their organisation compared to the an imals belonging to other 
+Eumetazoa. Most of the phyla which belong to kingdom Animalia  (about 29) belong to subkingdom 
+Eumetazoa. These animals have been divided into three groups on the bas is of presence, absence 
+or type of body cavity found in them. The animals which do not h ave a body cavity have been 
+grouped under Acoelomata . The animals which have a false coelom, the pseudocoele , have been 
+grouped under Pseudocoelomata . The animals which have a true coelom have been grouped 
+under Coelomata .
+GRADE RADIATA
+In this group animals with radial symmetry have been included . All the animals which are included 
+here are also diploblastic. This is a condition or organization in which the parts of the body are 
+arranged around a central axis in such a way that any pla ne passing through the central axis divides 
+the animal in halves that are almost mirror image of each other e.g.  as in cnidaria (coelenterata). 
+The cylindrical body of a sea-anemone can be cut in two equal h alves vertically in any plane.410. Kingdom Animalia eLearn.Punjab
+V: 1.1       
+GRADE BILATERIA
+This group includes animals with bilateral symmetry. In an  animal where the right side is 
+approximately the same as the left side and where there is a disti nct anterior end is said to have 
+bilateral symmetry. The animal can be divided into two equal pa rts by an imaginary line only in one 
+plane. In most multicellular animals  there is a clearly dif erentiated head present at the anterior end 
+and a distinct posterior end. Also there are clearly deined dorsal and ventral surfaces. The animals 
+belonging to phyla, Platyhelminthes, Nematoda, Annelida, Mollusc a, Arthropoda, Echinodermata, 
+Hemichordata and Chordata are included in this grade. It mus t be mentioned here that the animals 
+belonging to phylum echinodermata, have developed bilateral symmetry,  as is evident, from the 
+study of structure of their larvae. However, the adult Echinoderms, ha ve secondarily developed 
+radial symmetry, due to their special mode of life. All the anim als included in grade Bilateria are 
+triploblastic. These may be acoelomate, pseudocoelomate or coelomate.
+Fig. 10.1 (a) Radial (b) Bilateral symmetry510. Kingdom Animalia eLearn.Punjab
+V: 1.1Series Proterostomia (Protostomes) Series Deuterostom ia: (Deuterostomes)
+1.         Cleavage or division of the
+            zygote is spiral and determinate.
+2.        During development process the mouth 
+           in these animals arises  from the 
+           blastopore or from its anterior margin.
+3.        Coelom or body cavity is formed due to        
+           splitting of mesoderm (schizocoelous).
+4.        Mesoderm is derived from cells on 
+           anterior lip of blastopore.
+5.        This series proterostomia includes
+           animals belonging to phyla
+           aschelminthes (nematoda) 
+           annelida, mollusca and arthropoda1.        Cleavage is radial and indeterminate.
+2.        During embryonic developmentmouth 
+           is formed at some distance anterior to 
+           the blastopore and blastopore forms the 
+           anus.
+ 
+3.        Coelom is developed as an outpouching    
+           of archenterons (enterocoelous).
+4.        Mesoderm is derived from wall of 
+           developing gut (archenteron).
+5.        This series includes animals belonging to               
+           phyla echinodermata, hemichordata and  
+           chordata.610. Kingdom Animalia eLearn.Punjab
+V: 1.1Fig. 10.2 Patterns of embryonic development of coelom and of egg c leavage In protostomes and deuterostomes.
+A spiral and determinate  cleavage is that in which the lines or planes of cleavage are not symmetrical 
+between poles instead these are diagonal to the polar axis and produc e unequal cells around the 
+axis of polarity and all the blastomeres have determined role to play  in the formations of embryo. 
+The fate of each blastomere is foretold.
+In radial and indeterminate  cleavage the planes of cleavage are symmetrical to the polar axis an d 
+produce tiers of cells on top of each other and the fate of each blastom ere is not pre-determined. 
+In some anyone blastomere can produce a complete embryo.710. Kingdom Animalia eLearn.Punjab
+V: 1.1DIPLOBLASTIC AND TRIPLOBLASTIC ORGANISATION
+Diploblastic animals belong to division radiata. The body of these animals consists of two layers 
+of cells, ectoderm and endoderm. There is a jelly like mesenchyme or mesogloea which in most 
+cases is non cellular. Diploblastic animals show lesser degree of specialisation and they do not 
+form specialised organs. There is no special transport system in these animals. Most substances 
+are distributed within their body by process of difusion. There i s no central nervous system in 
+these animals. A neuron net is present. These animals have radia l symmetry. There is only one 
+cavity in the body called gastrovascular cavity which has only  mouth which serves for the entry 
+of food and water and also for the removal of wastes along with water . This is known as sac like 
+digestive system. Diploblastic animals are included in phylum Cnidaria (coelenterate) which would 
+be discussed in detail later in the chapter.
+Triploblastic animals are included in phyla which have b een placed in grade bilateria/ The body of 
+these animals is made from three layers ectoderm, mesoderm and endoder m. After embryonic 
+development these layers in most triploblastic animals are not disti nct as separate layers of cells, 
+but are represented by the structures formed from them. The cells of these animals show greater 
+degree of specialisation. These have specialised organs and organ s systems. Special transport 
+systems i.e. blood vascular system is present in most of the cases . The systems such as integumentary 
+and nervous develop from ectoderm. Mesodem gives rise to muscular, skel etal and reproductive 
+systems. Endoderm forms the lining of digestive tract and glands of digestive system, such as liver. 
+The digestive system is of tube type i.e. having mouth at the anterior en d and the anus at the 
+posterior end. Triploblastic animals may be acoelomate, pseudocoelom ate or coelomate.
+Acoelomates, Pseudocoelomates and Coelomates
+The following account would help to explain the above mentioned terms.
+Acoelomates
+In phylum Platyhelminthes there is no body cavity or coelom, and the mesoderm forms a loose, 
+cellular tissue called mesenchyma or parenchyma which ills the space between the ectoderm and 
+endoderm. It forms a packing around the internal organs of the a nimals to support and protect 
+them. Such animals are called acoelomates (Fig. 10.3). In ac oelomates the gut is sac-type and there 
+is no special transport system. Only excretory system is developed for  the transport of excretory 
+products. This system consists of lame cells, excretory ducts and  excretory pores. However the 
+nervous system is well developed.810. Kingdom Animalia eLearn.Punjab
+V: 1.1Pseudocoelomates
+In Aschelminthes the space between the body wall and the digestive tu be is called pseudocoelom 
+(false body cavity). Pseudocoelom is not homologous to true coelom because:  it is not lined by 
+coelomic epithelium. It has no relation with the reproductive and excr etory organs. It develops 
+from the blastocoel of the embryo and it is bounded externally by the muscles and internally by the 
+cuticle of the intestine. The animals having pseudocoelom are call ed pseudocoelomates
+Coelomates
+Coelom is cavity present between the body wall and the alimentary canal and is lined by mesoderm. 
+The mesoderm splits into outer parietal layer which under lines th e body wall and the visceral 
+layer which covers the alimentary canal and the cavity between them i s the true coelom. It is illed 
+with luid called coelomic luid.  The animals which possess coelom or true body cavity are called  
+coelomates e.g. animals from annelids to chordates.
+In coelomates gut attains more complexity and neuro-sensory system is well developed along with 
+excretory system, circulatory system, respiratory and reproductive sy stems.
+Fig. 10.3 General body plan of acoefomate, pseudocoelomate and  coelomate.
+PARAZOA
+Phylum: Porifera the most primitive animals
+The name porifera is derived from Latin porus  = pore, ferra  = to bear910. Kingdom Animalia eLearn.Punjab
+V: 1.1The Porifera are pore-bearing animals, commonly called the s ponges. All are aquatic. Out of total 
+5000 species 150 species live in fresh water while all others a re marine.
+General Characteristics
+These animals are composed of many cells however there is no tissue or ganization and have 
+no organs. Sponges lack symmetry. In most sponges the body wall is formed of an outer layer, 
+pinacoderm, made up of cells called pinacocytes: and an  inn er layer choanoderm made of lagellated 
+collar cells called choanocytes. Between these two 
+layers is present gelatinous mesenchyme which may 
+contain amoeboid cells and spicules or sponging ibres.
+The poriferans range in size from few millimeter wide to more than one metre tall. They are 
+macroscopic i.e., can be seen with naked eye. There is a sing le cavity inside the body, the spongocoel . 
+In most sponges the spongocoel may be divided into lagellated chambers  or canals, lined by 
+lagellated choanocytes.
+Numerous pores are present in the body wall. The pores through whi ch water enters the body are 
+called ostia , and pore by which the water leaves the body is known as osculum  (main opening). 
+There are no respiratory or circulatory organs.
+Since the sponges are sessile, therefore these depend upon the food comin g to them along with 
+water currents brought about by movement of lagella of choanocytes. Thi s includes small animals, 
+(zooplankton) and plants, (phytoplankton) which constitute about 20 % of their food. 80% of their 
+food consists of detrital organic particles. The food enters the spongoc oel cavity through Ostia. The 
+food is ingested by the lagellated cells, the choanocytes . The waste products either difuse out of 
+the sponge directly through the body wall or low out through osculum.
+The adult sponges are stationary, spending their lives attached to th e rocks at the bottom or other 
+solid objects. However, their larvae are able to move (swim).
+There is no deinite nervous system, however neurosensory and neuron cells  are probably present 
+which seem to coordinate the low of water.
+The skeleton is in the form of variously shaped needle-like structures  called spicules. These may be 
+calcareous or siliceous. The bath sponge has a skeleton of spongin  ibres. The skeleton is present 
+among pinacocytes and provides support. Spicules are also presen t around osculum and ostia.Scolymastra joubini- a barrel like glass sponge of 
+Antarctica is more than a metre tall.1010. Kingdom Animalia eLearn.Punjab
+V: 1.1Sponges reproduce both by asexual and sexual methods of reproduc tion.
+The asexual reproduction  in sponges is by budding . The buds may be external or internal, The 
+internal buds are called gemmuies . Both types of buds develop into new sponges.
+Some sponge species reproduce sexually. 
+These are mostly hermaphrodite , 
+mostly protandrous , i.e. male sex cells 
+develop irst. In some sponges the sexes 
+are separate. Sperms released in water 
+are carried to the eggs by amoeboid 
+cells. Fertilization occurs in mesenchyme 
+and zygote is formed. The embryo 
+development includes blastula and larval 
+stages.
+Examples of sponges are :
+i.   Sycon:                    It is a typical marine sponge.
+ii.  Leucoselenia:        A sponge that consists of group of erect tubes.
+iii. Euplectella:              It is beautiful and delicate sponge made up of  glassy framework. It is commonly  
+                                    called Venus lower basket.
+iv. Spongilla:              It is freshwater sponge.
+Importance
+The skeleton of sponges have long been used by man mostly for washin g and bathing. Although 
+many artiicial sponges have been made from synthetic material, sti ll the natural sponges are in 
+demand and is an important industry in many parts of the worl d. The best commercial sponges 
+are found in the warm waters of Mediterranean Sea. Sponges have gr eat capacity to absorb water. 
+They are used in surgical operations for absorbing luids and  blood. They are also used for sound 
+absorption in buildings.
+GRADE RADIATA
+Phylum Coelenterata / Cnidaria - Diploblastic Animals1110. Kingdom Animalia eLearn.Punjab
+V: 1.1The name Cnidaria has been given to this group of animals due to the presence of special cells 
+called cnidocytes . These cells give rise to nematocysts -the stinging cells, characteristic of this 
+group.
+Cnidarians have double layer organization and are therefore dipl oblastic having tissue grade 
+organization and have organs. During the development two germinal layers are formed the outer 
+ectoderm and inner endoderm from which their bodies are constructed.  The ectoderm forms outer 
+covering and some cells of this layer in most animals give rise to nematocysts while the endoderm 
+cells become specialized for digestion of food. Between the two layers is  a jelly-like mesoglea. In 
+these animals there is only one cavity which serves as digestive as well as body cavity which is called
+gastrovascular cavity or enteron  and opens to the outside by only one opening the mouth. So 
+the animals of this group have sac like digestive cavity.
+In coelenterates the arrangement of body parts is in relation to centra lized axis (symmetrical). An 
+object is symmetrical where there is a correspondence in form and arrangement of parts so that 
+a plane passing through the center divides it into similar hal ves. The coelenterates have radial 
+symmetry and are aquatic, found both in marine and freshwater  habitats.
+The coelenterates range in size from microscopic Hydra  to macroscopic, Branchioceranthus, a 
+hydrozoan polyp that may reach two metres in length. Cnidarians are found in two basic forms 
+the polyps  and the medusae . Polyps are cylindrical animals, which in most cases ar e nutritive in 
+function, hence named as gastrozoids . The medusae are umbrella like in form. These are free 
+swimming. The medusae are involved in sexual reproduction as they have gonads.
+The mouth is surrounded by a series of tentacles. These bear sting ing cells or nematocysts, which 
+are organs of defense and ofense.
+The coelentrates are carnivores and feed upon small organisms whi ch come into contact with 
+them. These organisms are immobilized by nematocysts and taken into the digestive cavity as food 
+where it is digested and then distributed by difusion.
+The nervous system is in the form of a network of neuron cells formi ng an irregular net or plexus 
+in the body-wall. There is no central nervous system.
+Many colonial coelenterates such as corals produce a hard exosk eleton formed of calcium carbonate1210. Kingdom Animalia eLearn.Punjab
+V: 1.1(CaC03). It is secreted by epidermal cells that take lime from sea water.  The skeleton of coral is 
+responsible for formation of small coral islands or large cora l reefs.
+  
+Most species are sessile, for example Hydra, Obelia, sea-anemone and corals, while other are free 
+living and motile e.g. jelly ishes etc. Many live as solitary in dividuals e.g. Hryda  jelly ishes and sea-
+anemones and quite a large number are colonial e.g. physalia, vellela etc. A colony is an aggregation 
+of individuals or zooids that perform diferent functions for the colon y.
+In Coelenterates reproduction takes place by asexual as well as sex ual means e.g. Hydra  reproduces 
+asexually by the formation of buds on its surface. The bud after  some time separate from the 
+parent and develops into a new individual. In Obelia  for example there is asexual as well as sexual 
+reproduction. It has a kind of zooid known as blastostyle which gives rise to individual zooids called 
+medusae by asexual method. The medusae when released in water d evelop reproductive organs 
+which produce gametes that unite to form zygote from which Obelia  colony is again formed.
+The life cycle of coelenterates is characterized by the presence 
+of alternation of generations. There are two generations, one 
+reproduces by sexual means and the other by asexual means. 
+Both generations are diploid. Often the two generations consist 
+of one free-living and one attached stage. Therefore asexual 
+generation and sexual generation alternate with one another. 
+This is known as alternation of generations e.g., Obelia .
+Polymorphism - A Characteristic Feature of Coelenterate s (Cnidaria)
+The occurrence of structurally and functionally more than two dif erent types of individuals, called 
+the zooids within the same organism is called polymorphism . 
+For example, in Obelia  there are feeding individuals, the gastrozooids; the individuals  capable of 
+asexual reproduction only, the gonozooids, blastostyles and free-livi ng or sexually reproducing 
+individuals, the medusae..
+The common examples ofcoelenterates are:
+i.  Hydra  : A freshwater - coelenterate. It exists only in polyp form, theref ore
+    alternation of generations is absent.Some of colonial members 
+have upto ive diferent types 
+of zooids, performing diferent 
+functions for the colony e.g. 
+Physalia (portuguese man of 
+war).1310. Kingdom Animalia eLearn.Punjab
+V: 1.1   
+ii. Obelia  : A marine colonial that exhibits alternation of generations.
+iii. Aurelia  (jelly ish) : The polyp is 
+reduced and medusa is dominant in 
+jellyish.
+iv. Actinia  (sea anemone) : The body  
+     consists of polyp only, enteron is 
+     divided by large partitions 
+     called mesenteries.
+v. Madrepora  : The body is covered with 
+    hard calcareous skeleton formed of 
+    calcium carbonate. They are commonly  
+    called corals . The skeleton forms large 
+    coral reefs and even small islands.
+                                                                                              Fig. 10.5  Coelenterates (Cnidarians)1410. Kingdom Animalia eLearn.Punjab
+V: 1.1Coral reefs
+Corals are formed from the secretions produced by specialized poly ps that are present in certain 
+coelenterates. These polyps become covered by stony cups due to hardening  of their secretions. 
+From the mouth of the stony cup a polyp can pass out its tentacle for the purpose of feeding 
+and withdraw itself where not feeding. Most such Coelenterates are col onial. The stony net-work 
+or mass of such Coelenterates are called Corals. Living polyps ar e found on the surface layer of 
+corals whereas underneath the mass are dead stony 
+structures only and there are no polyps inside. The 
+stony masses that are formed in this way are called 
+coral reefs.  These are mostly formed of calcium
+carbonates (lime-stone).
+Coral reefs are found in the coastal waters of Florida, West Indies , East Coast of Africa, Australia 
+and Island of Coral Sea.
+GRADE - BILATERIA
+Triploblastic animals -The Acoelomates
+Phylum: Platyhelminthes -The Flatworms
+General Characteristics
+The name Platyhelminthes means “latworms”. The body of these anima ls is soft and dorsoventrally 
+compressed. 
+The Platyhelminthes are triploblastic acoelomates. There is devel opment of a third layer, the 
+mesoderm, which separates the ectoderm and endoderm. The Platyhelmin thes exhibit bilateral 
+symmetry, and body is unsegmented.
+With few exceptions the Platyhelminthes are parasites, mostly endopar asites, i.e., live inside their 
+hosts. The most common examples are Taenia solium (tapeworm), Fasciola hepatica  (liver luke) 
+and Schistosoma  (blood luke). The parasites are more common in tropics. Some of thes e cause 
+diseases in humans. A few species are free living and found i n freshwater, for example Dugesia  
+(planaria).The corals because of their massive structure serve as 
+living place for a variety of sea life.1510. Kingdom Animalia eLearn.Punjab
+V: 1.1Their size ranges from few millmeters (10 mm in case of Plana ria) to several meters (tapeworm).
+Much of the body space is taken up by a branching sac type digestive system. The digestive system 
+is poorly developed in some species or may be absent as in the tap e-worms.
+The excretory system consists of branching tubes ending in bulb -like cells, the lame cells.
+A well developed nervous system is present in Platyhelminthes. It is in the form of either a simple 
+network of nerves or ganglia. The sense organs are present at the anteri or end. Respiratory and 
+circulatory systems are absent.
+The parasitic species absorb nutrients from the hosts. The free- living species (Planaria) feed on 
+small animals and bodies of dead and decaying animals.
+The free-living forms are motile. They move by cilia present on their undersides (Planaria). In 
+parasitic forms the movement is restricted.
+The Platyhelminthes reproduce both by sexual and asexual means of  reproduction. Asexual 
+reproduction is by ission in which the animal constricts in th e middle into two pieces, each of 
+which regenerates the missing part. The sexually reproducing s pecies are hermaphrodite , i.e., both 
+male and female reproductive organs are present in the same individu al. Larval form is sometimes 
+present. 
+The common examples of latworms are:
+(i) Dugesia  (Planaria)  : A free-living latworms with a ciliated outer surface.
+(ii) Fasciola  (Liver luke)  : It is an endoparasite in sheep and occasionally in human beings. It has 
+suckers used for attachment to host tissue. It completes its life cycle in two hosts, a snail, sheep or 
+man. It lives in the bile duct of its hosts.
+(iii) Taenia  (Tape worm)  : An endoparasite of humans, cattle and pig, that completes its life cycle in
+two hosts. The intermediate host is pig or cattle. The body is ribb on-like and divided into segments 
+called proglottids which contain mainly sex organs. The segments  continue to break of and are 
+passed out from the intestine along with faeces.1610. Kingdom Animalia eLearn.Punjab
+V: 1.1   
+Adaptations for parasitic mode of life
+The parasitic Platyhelminthes have completely adapted themselves to par asitic mode of life by the 
+development of the following characteristics:
+1. The epidermis is absent and there is the formation of resistan t cuticle for protection. 
+2. They have developed adhesive organs, such as suckers and hook s, for attachment to the host.
+3. There is degeneration of muscular system and nervous system.
+4. The digestive system has become simpliied due to increased dependen ce on host.
+5. The reproductive systems are complicated and the ova are produc ed in huge numbers to ensure  
+     continuity of the species.
+6. The complexity of life cycle and presence of more than one host d uring the life cycle is also an  
+     important parasitic adaptation.
+Fig. 10.6 Example of animals of platyhelminthes.1710. Kingdom Animalia eLearn.Punjab
+V: 1.1Infestation
+In Taenia (tape worm), the development of the zygote begins while it i s still inside the uterus of 
+female. The last segments or proglottids and their uteri contain c ompletely developed embryo. The 
+fully mature proglottids break of from the body and pass out of the body of man along with faeces 
+(undigested waste). The embryo inside the egg is round in shape and has six chitinous hooks. 
+It shows limited movement of contraction. In order to develop further it mu st reach a second 
+host which may be a cow. The parasite remains embedded in the vol untary muscles of cow. If 
+an improperly cooked beef is eaten by a person, the parasite whic h has not been killed begins to 
+develop further in the intestine of man.
+Disinfestation
+Once the parasite has entered the intestine of man it is diicult to remove it completely. In this 
+respect care should be taken to cook beef properly before eating it. So th at there is no chance of 
+the parasite entering the digestive system but if it has entered then certa in medicines are taken 
+to remove it. Its complete removal is necessary because if only head rema ins inside the intestine 
+it can grow into new tape-worm once again. Besides treatment with dru gs, physicians also give 
+anema to the patient, to fully remove the parasite.
+Triploblastic Animals - Pseudocoelomates
+Aschelminthes (Phylum Nematoda) - The Round worms
+General Characteristics
+The name Nematoda means “pointed ends”. The animals included in  this group nave elongated 
+worm like body with pointed ends. The nematodes are triploblastic a nd pseudocoelomates. One 
+end of the body is anterior, however the head is not clearly marked and there are no special sense 
+organs at this end. The nematodes exhibit bilateral symmetry and the body is unsegmented. The 
+body cavity is pseudocoelom . It is derived from the hollow space, the blastocoel , situated in the 
+blastula , an early stage in embryological development, and not from the mesoder m. It consists of a 
+number of vacuolated cells illed with a protein-rich luid which  develops high hydrostatic pressure.
+The nematodes range from small microscopic forms, to some form r eaching a length of upto one 
+metre. The digestive system is in the form of alimentary canal with  two openings. The opening at 
+the anterior end is mouth and at the posterior end is the anus. In p arasitic nematodes the digestive 
+system is simple. A luid illed space is present between the body w all and alimentary canal. It 
+provides “tube within tube” type structure in nematodes. The excretory sy stem consists of1810. Kingdom Animalia eLearn.Punjab
+V: 1.1two longitudinally running excretory canals which unite at the anterior end to form a single canal 
+that opens to the exterior through an excretory pore on the ventral surface. There is a nerve ring 
+around the pharynx, which give rise to dorsal, ventral and latera l nerve cords running throughout 
+the length of the worms. The sense organs are in the form of sensory papillae  present on the lips 
+at the anterior end. The circulatory and respiratory systems are a bsent. The gaseous exchange 
+takes place through general body surface. Locomotion is by undula ting waves of contraction and 
+relaxation of muscles. These muscles are arranged in four ba nds, two dorso-lateral and two ventro-
+lateral. The circular muscles are absent, therefore the bending  is dorso-ventral only.
+The sexes are separate. The female gonads are ovaries and these produc e eggs. These male gonads 
+are testes which produce sperms. A larval stage is present in the life cycle.
+Importance - Parasitic Diseases
+Aschelminthes is important from the point of view of its parasites of which it has a great variety 
+qausing some very serious diseases in man and plants. 
+Ascaris  lumbricoides is an intestinal parasite of man. 
+The genus Rhabditis  contains numerous species normally found in soil, organic m atter or water and 
+feces of man or animals. Enterobius vermicularis  commonly known as pin worm is cosmopolitan but 
+more common in Europe and America. Pinworms are 
+parasites in the human caecum, colon and appendix. 
+Their movement causes intense itching of anus, 
+inlammation of mucous membrane of colon and 
+appendix resulting in insomnia and loss of appetite.
+Ancylostoma duodenale is commonly known as hook worm. It is a parasite of human sma ll intestine 
+in Asia, North Africa and Europe. It is very dangerous becaus e it holds the villi of intestine and sucks 
+blood and body luid. During feeding they produce an anticoagula nt to prevent clotting of blood 
+and after feeding leave the wound bleeding. In children it ca n cause severe anemia and retard 
+physical and mental growth.Round worms are everywhere outdoors, where they play 
+an important role in breaking down organic matter. A 
+single rotting apple may contain 90,000 worms. Billions 
+thrive in each acre of topsoil.1910. Kingdom Animalia eLearn.Punjab
+V: 1.1Triploblastic Animals - Coelomates
+Phylum Annelida The Segmented Worms
+General Characteristics
+Most of the worms with which we are familiar are included in this phylum. They are segmented and 
+commonly called annelids, (from the Latin word for “ little ring ”) 
+The body is metamerically segmented. The body becomes divided tran sversely into a number of 
+similar parts or segments. The subdivisions may be indicated externally by constrictions of the 
+body surface. Internally, the segments are separated from each oth er by septa extending across 
+the coelom. However, the various systems of body such as gut, blood vess els, and nerve cord are 
+continuous throughout the length of body penetrating each individual s egment.
+The animals are triploblastic and coelomate, showing bilateral s ymmetry. The annelids include 
+worms, which may be marine ( Nereis ), freshwater ( stylaria ) or found in damp soil ( earthworms ). 
+Some are parasites, for example, Hirudo  - (leech).
+The annelids show specialization of body structures. The organ s ystems are well developed.
+Digestive system is in the form of alimentary canal which is divi ded into distinct parts, each 
+performing a speciic function. It has two openings, the mouth at th e anterior end, and the anus 
+at the posterior end. The mouth is overhung by a lobed structure, the prostomium . In parasitic 
+species, the digestive system is poorly developed.
+Annelids have true coelom i.e. the mesoderm splits into parietal lay er which lines the body wall, 
+and the visceral layer which covers the alimentary canal, the spa ce between the two layers of 
+mesoderm, is the coelom, and is illed in by coelomic luid, whic h serves- as hydrostatic skeleton 
+also.
+Excretion takes place by specialized structures called nephridia . These are ciliated organs present 
+in each segment in the body cavity.2010. Kingdom Animalia eLearn.Punjab
+V: 1.1A well developed central nervous system is present in annelids. It comprises of a simple brain and 
+a solid double, longitudinal, ventral nerve cord. Nerves arise in each segment from the nerve cord.
+Annelids are the irst group of invertebrates which have developed a clos ed circulatory system 
+- a system in which a circulatory luid called blood lows in  a network of vessels known as blood 
+vessels. It transports gases and nutrients.
+The respiratory system is absent. The exchange of gases is by di fusion through the skin in to blood 
+capillaries. The skin is kept moist by ,mucus, and coelomic luid. 
+The body wall contains muscles which help in locomotion. The m uscles are of two types:
+a.   Circular Muscles : These are arranged along the circumference of the body.
+b.   Longitudinal Muscles :  These are arranged along the length of the body.2110. Kingdom Animalia eLearn.Punjab
+V: 1.1The locomotion is brought about by the interaction of muscles and hy drostatic skeleton. Contraction 
+of circular muscle produces a pressure in the coelomic luid tha t forces the body to elongate. 
+Similarly contraction of longitudinal muscles produce a pressu re in the coelomic luid that would 
+cause the body to widen. The organs of locomotion in annelids are chitinous chaetae or setae 
+embedded in sacs (earthworm) or on . parapodia present in the body  wall (e.g., Nereis ). Chaetae 
+are absent in leech.
+The common mode of reproduction is sexual. Most annelids (Earthworm , leech) are hermaphrodite. 
+In some annelids (e.g., Nereis ) the sexes are separate, the fertilization is external and a free s wimming 
+trochophore larva  is produced 
+during the life cycle.
+Burrowing activity of earthworms 
+permits greater penetration of 
+air into the soil, and improves 
+drainage capacity of the soil. 
+It also enables roots to grow 
+downwards through the soil 
+more easily. Mixing and churning 
+of the soil is brought about when 
+earth which contains inorganic 
+particles is brought up to the 
+surface from lower regions. 
+Earthworm is perhaps most active 
+segmented worm in churning the 
+soil, therefore it is commonly 
+termed as natural plough.
+Phylum Annelida comprises :
+1. Class Polychaeta
+2. Class Oligochaeta 3. Class Hirudinea
+Class Polychaeta
+These have a distinct head region with eyes and structure known as  palps  and  tentacles . Sexes are 
+usually separate. The organs of locomotion are parapodia. They ar e mostly aquatic (marine). During 
+development these give rise to a trochophore larva. Important examples are  Nereis, Chaetopterus .2210. Kingdom Animalia eLearn.Punjab
+V: 1.1Class Oligochaeta
+These animals have internal and external segmentation. Organs of l ocomotion are setae . Head 
+region not prominent or distinct. They are hermaphrodite (bisexua l). No larva formed during 
+development e.g. Lumbricus terrestris , Pheretima posthuma  and other earthworms. They may be 
+terrestrial or aquatic.
+Class Hirudinea
+They have body with ixed number of segments. Each segment has add itional circular rings or 
+markings called annuli. They do not have organs of locomotion and  move due to the contraction 
+of their body and with tne nelp of suckers. Mostly hermaphrodite an d trochophore larva is formed 
+during development. They are aquatic. No distinct head is present but leeches have chitinous jaws 
+for making a puncture in the skin of the host. They also have an anticoagulant secretion which 
+is passed into the wound to allow smooth low of blood into its digestive s ystem where it can be 
+stored for a long time e.g. Hirudo medicinalis  (medicinal leech).
+Phylum : Arthropods - Animals with Jointed Legs
+General Characteristics
+The phylum contains more species than any other phylum. They ar e commonly called Arthropods 
+(arthron = joint + pods = feet). Insects (cockroaches, grasshopper s, butterlies, mosquitoes) are 
+most commoh arthropods on the earth.
+The body is segmented. Each segment is attached to its neighbour by means of a modiied portion 
+of cuticle which is thin and lexible. They possess jointed appen dages. These appendages have 
+been modiied for specialized functions.
+These are believed to have common origin with annelids because both have some common 
+characteristics such as segmented body, appendages and cutic le.
+Arthropods have exploited every type of habitat on land and in water. The aquatic species include 
+both freshwater and marine. Many of these can ly, therefore visit ai r periodically.2310. Kingdom Animalia eLearn.Punjab
+V: 1.1Arthropods are variable structurally. Some are worm-like centipedes while the others are lying 
+insects with the body divided into distinct regions, the head, thor ax and abdomen. The body is 
+covered with waterproof chitinous cuticle secreted by the epidermis. 
+The coelom is not present as the main body cavity. Instead a haemocoel has developed. It is reduced 
+coelom and communicates with blood vascular system.
+The digestive system is in the form of alimentary canal with two openings, the mouth and anus. It is 
+divided into diferent parts each performing a speciic function. T he food comprises of small plants 
+and animals.
+A well developed excretory system comprising of Malpighian tubules  is present in arthropods. The 
+nitrogenous wastes are excreted in the form of solid uric acid. 
+A highly deyeloped nervous system is present. It consists of paired  ganglia (simple brain) connected 
+to a ventral double nerve cord. A ganglion is present in each  segmen t. Nerves arise from these 
+ganglia. The sensory organs are usually a pair of compound eyes and antennae etc.
+Most arthropods possess an extensive tracheal system formed of air tub es called tracheae for 
+the exchange of gases. Main tubes open to the exterior through pair ed openings, called spiracles. 
+Aquatic art hropods respire through gills and book lungs.
+The blood circulatory system in arthropods is unique. It is open circulatory system. The blood lows 
+in the body cavity bathing the tissues of the body. However, there is  a primitive heart and a main 
+blood vessel situated dorsaliy. Blood is colourless as it is without haemoglobin.
+The skeleton is external, i.e., exoskeleton. It is in the form of an outer covering, the cuticle which 
+is light in weight; and is formed chiely of chitin. It provides  surface for the attachment of muscles 
+which help in locomotion.
+The arthropods exhibit active and swift movements. They swim, crawl  or ly depending upon the 
+habitat they occupy. The organs of locomotion are paired appendages  and in some cases paired 
+wings also.2410. Kingdom Animalia eLearn.Punjab
+V: 1.1Reproduction and Life History
+The sexes are separate. The testes and ovaries, produce sperm’s, and eggs respectively.
+Metamorphosis
+Life history of insects is characterized by metamorphosis (meta = change + morphe = form). This is 
+an abrupt change of form or structure during the life cycle. T here are three morphologically distinct 
+stages in the life cycle, the egg “ inally “ develops into larva which is converted into motionless pupa 
+that inally develops into an adult. In some primitive insects the metam orphosis is incomplete. The 
+larva resembles adult and is called nymph or instar. It lives  in the same habitat as adult. 
+Classiication
+Phylum Arthropoda is a large group consisting of great variety a mong them. Some of its important 
+classes are as follows.
+1. Class Crustacea :  These arthropods are aquatic and have gills for respiration. On  the dorsal 
+side of the cephalothorax the exoskeleton is in the fofm of carapace. In the exoskeleton deposition 
+of salts in addition to chitin makes 
+it more irm. The appendages 
+are modiied for capturing food, 
+walking, swimming, respiration 
+and reproduction. Coelom is 
+reduced and is in the form of 
+hemocoel. Head has two pairs of 
+antennal appendages, one pair 
+of mandibles (jaws) and two pairs 
+of maxillae. Sexes are mostly 
+separate e.g. Daphnia, Cyclops , 
+Crabs, lobsters, prawn, wood louse 
+etc. (Fig. 10.8)2510. Kingdom Animalia eLearn.Punjab
+V: 1.12. Class Insecta :  This is the largest group 
+not only of Arthropoda but of all the animal 
+kingdom and has great variety. Insects are 
+found everywhere, many show social behaviour. 
+The body in, insects has three distinct regions 
+head, thorax and abdomen. There are a pair of 
+antennae and compound eyes on the head. The 
+head is usually vertical to the body and jaws are 
+ventrally placed. The thorax has three segments 
+in which are present three pairs of jointed legs 
+and in many one or two pairs of wings. Abdomen 
+has varying number of segments. Brain is formed 
+of fused ganglia and double nerve cord is ventral. 
+Sexes are separate and animals are oviparous. 
+Metamorphosis takes place during development 
+e.g. dragonly mosquito, butterlies, moths, 
+wasps, and beetles etc. (Fig. 10.9).                                                             Fig. 10.9 Insects
+                                                                                                                        
+3. Class Arachnida :  Body has the anterior segments that are fused to form a combined 
+cephalothorax, with a pair of appendages called chelicerae wi th claws, two pairs as pedipalps 
+and four pairs of legs. There are no antennae and no true jaws. Abdomen may be segmented 
+or unsegmented with or without appendages. Respiration is by 
+gills or special structures called book lungs, excretion is by the 
+Malpighian tubules. Eyes simple, sexes are separate. They are 
+oviparous (lay eggs). No true metamorphosis e.g. scorpions, 
+spiders, mites and ticks.Most spiders have eight eyes placed in such 
+a way as to give them panoramic view of 
+the predators and prey.2610. Kingdom Animalia eLearn.Punjab
+V: 1.1 
+  Fig. 10.10 Arachtiids
+4. Class Myriapoda:  
+The body is divided into large number of segments each having a p air of legs. A pair of antennae 
+and a pair of eyes are present on head e.g. centipedes and milli pedes.
+General organization of Arthropods
+Arthropods have characteristics of higher forms such as bila teral symmetry, triploblastic, coelomic 
+cavity and organ systems and have reached the peak of invertebrate evol ution. Two of their main 
+achievements are the chitinous exoskeleton and locomotary mechanism. Thes e animals can walk, 
+swim and ly. The jointed appendages (limbs) have been modiied or  diversiied for various uses in 
+the diferent sub-groups of Arthropoda.
+Chitin is non-living, non-cellular and is secreted by the under  lying epidermis. It is made of 
+polysaccharide.On the outer side of chitin,there is a waxy layer . In some Arthropods and in certain 
+parts in other Arthropods chitin is soft and lexible, in others it is hard. In general, it is for protection 
+but it also serves as lever for the movement of muscles of jointed limb s. The chitin in the jaws is 
+used for biting and crushing food. It also forms lens of the com pound eyes the copulatory organs 
+and organs of defence and ofence.2710. Kingdom Animalia eLearn.Punjab
+V: 1.1 
+In the young Arthropods such as insect larvae, chitinous exoskeleton is shed from time to time to 
+allow the growth of the larva. This process of shedding of exoskeleton is called moulting or ecdysis. 
+In short the exoskeleton of chitin in the Arthropods is one of the prim ary factors in the success of 
+Arthropoda as it helps them to adapt to a wide variety of habitat. 
+Arthropods share with annelids the characteristic of having th e body divided into similar segments. 
+In Arthropoda however segmentation is not metameric and organs are not r epeated in the diferent 
+segments. Each somite typically is provided with a pair of jointed  appendages. But this arrangement 
+is often modiied with both segments and appendages specialized for diferent functions in diferent 
+habitats. However, in all kinds of habitat the jointed appendages p rovide an eicient means of 
+locomotion, ofence and defence and also help in reproduction.
+Economic Importance
+Man and insects have been at war for the same food, same place to l ive in. Insects attack man, 
+his domestic animals and also his crops, causing a number  of diseases. They are not only a health 
+hazard but also cause economic loss to man by destroying his pr operty and crops. Some insects are 
+also useful to him such as the honey bee or the silk worm. Ins ects are therefore of great importance 
+to mankind.
+1.   Harmful Insects : Many types of mosquitoes, lies, leas, lice and bugs transmit di sease 
+causing organisms to man and domestic animals. We are famil iar with mosquito of genus Anopheles , 
+the female of which transmits Plasmodium  that causes malaria in man. The Tse-tse ly of African 
+countries transmits Trypanosoma, the cause of sleeping sickness a nd skin diseases. The common 
+house ly carries disease causing organisms to contaminate food an d cause cholera, hepatitis etc. 
+Some species of Trypanosoma  cause diseases in cattle, also.
+A number of insects lay eggs on fruits and other commercial cr ops such as sugarcane, maize, 
+cotton and also on vegetables etc. The larvae of these insects damage fru its and the crops resulting 
+in economic loss to farmers. The locusts that move in large numbers  from country to country cause 
+damage to standing crops and other plants.
+2.    Beneicial insects : The useful insects are the honey bee that provides man with honey an d 
+also wax. Similarly the silk worm gives us silk. There ar e some insects that are predaceous on other 
+harmful insects. Some insects are scavengers and they eat up de ad animal and vegetable matter. 
+Insect larvae are source of food for ish.2810. Kingdom Animalia eLearn.Punjab
+V: 1.1PHYLUM MOLLUSCA (L. Molluscus - soft)
+General Characters
+The phylum Mollusca consists of diverse group of organisms wh ich include slow-moving snails and 
+slug, bivalved clams, and highly active cephalopods. The phy lum includes over 50,000 living species 
+and is the second largest phylum of invertebrates. Giant squid is  the largest invertebrate animal.
+Molluscs also show a great diversity of form but all are built on  the same basic plan. 
+Molluscs are triploblastic coelomates which exhibit bilateral sym metry. Most animals possess shell.
+The body is covered by a glandular epithelial envelope called ma ntle which secretes calcareous 
+shell. The shell is protective, however it is handicap to locomotion, therefore some of the more 
+active molluscs show a reduction or loss of shell. 
+Molluscs are widely distributed. Some groups are exclusively aq uatic (e.g., cephalopoda), freshwater 
+or marine. The others include terrestrial animals (land snai l) living mostly in moist places.
+The body is unsegmented and soft. The body can be divided into hea d, a ventral muscular foot 
+and a dorsal visceral mass containing most of the internal orga ns. Over the visceral mass mantle 
+is present which secretes a shell. The space between the shell and mantle cavity contains gills in 
+some animals. In the mouth cavity of many molluscs there is a ra sping tongue-like radula  provided 
+with many horny teeth.
+The body is highly organized with complex digestive, respira tory, circulatory, excretory, nervous 
+and reproductive systems.
+Digestive system consists of gut with two openings, the mouth and the an us.
+The excretory organs are paired nephridia.
+Except for Cephalopoda, the circulatory system is open. The coelom is  divided into sinuses or blood 
+spaces. Heart pumps the blood into the sinuses. A respiratory pi gment of blue in color, called 
+haemocyanin  is present.2910. Kingdom Animalia eLearn.Punjab
+V: 1.1  
+The gaseous exchange is by gills mostly. In some cases such a s snail, the mantle cavity is converted 
+into a lung.
+The nervous system consists of three pairs of interconnected ganglia p resent in the head, foot and 
+body regions.
+The organ of locomotion is a muscular foot, however in many species  the movement is slow. The 
+others are sessile i.e. unable to move.
+The sexes are separate. Trochophore larva develops during embryologi cal development.
+Classiication
+The molluscs are classiied into six classes. The major class es are:
+(i) Gastropoda
+These are asymmetrical and their body is covered with usually  coiled one piece shell. The animal 
+can withdraw itself into the shell. Both aquatic and terrestrial s pecies are included in this class. The 
+aquatic species have gills while in land forms the mantle ca vity is converted into lungs.
+The common examples are:
+i.    Helix aspersa : It is commonly termed garden snail.
+ii.   Limax  the slug
+(ii) Bivalvia (Pelecypoda)
+This class includes bilaterally symmetrical aquatic mollus cs. The body is laterally compressed and 
+is enclosed by two pieces of shells hence the name bivalves. They r espire by plate-like gills.
+The common examples are:
+(i)     Mytilus : (marine mussel).                                 (i i)    Anodonta : (freshwater mussel),
+(iii)   Ostrea : (oyster).3010. Kingdom Animalia eLearn.Punjab
+V: 1.1(iii) Cephalopoda
+The members of this class are bilaterally 
+symmetrical with dorso-ventrally lattened 
+body. All species are aquatic. The shell is much 
+reduced and internal. In most cases it is absent. 
+The animals are highly developed and active.
+The common examples are:
+i.     Loligo :  (squid).
+ii.    Sepia :  (cuttleish).
+iii.   Octopus
+                                                                                                 
+                                
+ 
+Economic Importance of Mollusca                     
+Some molluscs are indirectly harmful to man but most of them are b eneicial. The harmful molluscs 
+are slugs and shipworms. Slugs are injurious to gardens an d cultivations. They not only eat leaves 
+but also destroy plants by cutting their roots and stems. Teredo, a shipworm damages wooden 
+parts of ships. But many molluscs are great source of food for m an in many parts of world. Large 
+quantities of clams, oysters and mussels are eaten in Far-east, E urope and America. Oysters are 
+regarded as delicacy.
+Shells of freshwater mussels are used in button 
+industry. Also shells of oysters are mixed with 
+tar for making roads in America. Shells in 
+certain parts of the world are also used for 
+making ornaments. Some oysters also make 
+valuable pearls e.g. the pearl oyster.
+   Fig. 10.11 Examples of molluscs
+The brain of octopus is exceptionally large and complex for an 
+invertebrate brain. It is enclosed in a shell-like case of ‘Cartilage’, 
+and endows the octopus with highly developed capabilitie s to 
+learn and remember. In laboratory, octopus can rapidly learn t o 
+associate certain symbols and can open a screw cap jar to obtain 
+food.3110. Kingdom Animalia eLearn.Punjab
+V: 1.1PHYLUM ECHINODERMATA - The Spiny skinned animals
+General Characteristics
+There are over 5,000 known species of echinoderms. They are marin e organisms living at the sea 
+bottom.
+The body is covered by delicate epidermis. The mesodermal cells develop  a irm calcareous  
+endoskeleton which may bear spines and because of its origin, f rom mesoderm it is called 
+endoskeleton.
+Echinoderms are triploblastic coelomates and exhibit radial symm etry. The mouth is on lower 
+surface (oral) and anus is on upper surface (aboral). 
+The echinodermata are exclusively marine and most of them are found at the bottom along shorelines 
+in shallow seas. Most species are free) moving however some are attac hed to the substratum.
+All the larval forms of these animals exhibit bilateral symmetr y but the adults show radial symmetry 
+which is an adaptation for their special mode of life.
+The body may be lattened like biscuit (cake urchin), star-shap ed with short arms (starish) globular 
+(sea urchin), star-shaped with long arms (brittle star) or elon gated (sea-cucumber). There is a central 
+disc from which arms radiate. 
+The most unique characteristics of echinoderms is that a water vas cular system is present in their 
+coelom. It is a complex system of tubes and spaces surrounding the mouth and passing into the 
+arms and tube feet. The water circulates through these channels. Wa ter enters these canals through 
+a sieve-like plate called madreporite present on the aboral body sur face.
+The motile species move with the help of tube feet. Each tube foot is a soft saclike structure present 
+along the edges of grooves present in the arms.
+The echinoderms exhibit low degree of organization. There are specia lized organs for digestion and 
+reproduction, but there are no specialized organs for respiration or  excretion. The nervous system 
+is also poorly developed. There is no brain, however a nerve ring is present around the pharyngeal3210. Kingdom Animalia eLearn.Punjab
+V: 1.1region. Similarly the circulatory system is poorly organized. 
+The sexes are separate and the fertilization is external. The larvae such as bipinnaria  and 
+brachiolaria  are complex, exhibit bilateral symmetry, and resemble those of chor dates.
+Regeneration , the ability to reform lost organs is common among echinoderms, sta rish, sea 
+cucumber, sea lily, brittle star and sea-urchin exhibit this characteristics. 
+    
+The echinoderms are comparatively simple in structure, organiza tion and physiology, and deserve a 
+place slightly below the annelid worms. However, these are placed at the top of the list of invertebrate 
+phyla. This is because there are a number of striking resembl ances, between the echinoderms and 
+chordates, such as :
+a. There is radial cleavage during the development of embryos in both phyla.
+b. The blastopore forms the anus in echinoderms 
+as well in chordates (Deuterostomes).
+c. There are certain common biochemical 
+peculiarities among echinoderms and chordates 
+e.g. phosphocreatin is present in both.
+The common examples are:
+Asterias  (starish):
+Sea urchin            Sea cucumber 
+Cake urchin         Brittle star                                                
+                                                     
+Echinodermata / Afinities
+Echinodermata do not show close relationship to most invertebrates, but they  do show ainities 
+with hemichordata. Both these have a number of common features among  which are the formation 
+of coelom and retention of blastopore as the site for future anus. In b oth mesoderm is derived from 
+the cells close to the blastopore. Both possess mesodermal endskeleton where as the exoskeleton 
+is ectodermal in orgin while in invertebtrates the blastopore develops into mouth.
+ Fig. 10.12 Examples of Echinoderms.3310. Kingdom Animalia eLearn.Punjab
+V: 1.1The above resemblances between two phyla are neither accidental nor due to convergent evolution 
+but are because the two are closely related and both emerged from  the same (common) ancestor. 
+Echinoderms also show very close resemblance with chordates because both have mesodermal 
+skeleton, are deuterostomous, in both lower chordates and echinoderms the ea rly development is 
+almost similar. That is why they have been placed closest to ph ylum chordata.
+Phylum Hemichordata
+Hemichordates are a group that has a combination of both invertebrate ( Echinoderm) and chordate 
+characteristics.
+The hemichordate along with Echinoderms and chordates belong to the g roup deuterostome 
+branch of animal kingdom.
+Because of their close relationship to chordates these animals are ca lled prechordates. The common 
+examples of this phylum are Balanoglossus  and Saccoglossus .
+General Characters
+1.    Soft bodied worm-like animali.
+2.    Body is divided into an anterior proboscis, collar and tr unk. 
+3.    Body wall is made of unicellular epidermis with mucu s-secreting cells.
+4.    Digestive tract is straight and may show variations.
+5.    Coelomic cavities correspond to each of the three body regions i. e. that of proboscis, collar and 
+       trunk coelomic pouches.
+6.    Circulatory system consists of a median dorsal and a median ventral vessel.
+7.    Respiratory system is composed of gill-slits forming a d orsal row behind collar.
+8.    Excretory system has single glomerulus connected to blood vessel s.
+9.    Nervous system has a sub-epidermal plexus of cells and ibres.3410. Kingdom Animalia eLearn.Punjab
+V: 1.1                                                         
+    Fig. 10.13 Balanoglossus and Saccoglossus
+Phylum Chordata
+This great phylum derives its name from one of the few common cha racteristics of the group - 
+The notochord. This structure is possessed by all members of the ph ylum either in the larval or  
+embryonic stages or through out life. The notochord is a rod-like s emi rigid body of vacuolated 
+cells which are illed with proteinaceous material which extends i n most cases the length of the 
+body between enteric canal and the dorsal hollow central nervous s ystem. Its primary purpose is 
+to support and to stifen the body that is to act as skeletal axis.
+It seems that the endoskeleton is the chief basic factor in the developmen t and specialization of 
+higher animals.
+The animals most familiar to us belong to the chordates includin g man himself.
+The chordates show great variety and inhabit all kinds of habita t. All chordates possess three basic 
+characters which are as follows:
+1.    As already mentioned all possess the notochord.
+2.    All chordates have central nervous system that is dorsal in  position and is hollow.
+3.    All chordates develop paired gill openings in embryonic  stage. In some these are non-functional,  
+       while in others they are functional for some period in thei r liie history e.g. frogs etc. in still other   
+      these are functional throughout life e.g. amphioxus, and i shes etc.3510. Kingdom Animalia eLearn.Punjab
+V: 1.1         
+Fig. 10.14 Amphioxus
+Chordates have been divided into lower chordates, e.g. Amphioxus  etc. and higher chordates which 
+are the vertebrates in which the notochord is replaced by the vertebra l column and a bony brain 
+case cranium is also formed due to which they are also called craniates. Phylum Chordata has been 
+sub-divided as follows:
+Protochordata (Acrania) (Lower Chordates)
+Sub-phylum: Urochordata :  Notochord and nerve cord only in the fee-swimming larvae. Adults 
+are sessile and enclosed in a covering called tunic. Therefore, th ey are also called tunicates e.g. 
+Molgula.
+Sub-phylum:  Cephalochordata: Notochord and nerve cord extend along the entire length of the 
+body and persist throughout life e.g. Amphioxus.3610. Kingdom Animalia eLearn.Punjab
+V: 1.1                                           Table 10. 2 Classiication of Phylum Chordates
+Sub-Phylum Vertebrate (Craniate) (Higher chordates)
+It includes animals which have cranium in which the brai n is enclosed. It includes animals with 
+vertebral column that means that all chordates in this, group are under subphylum vertebrata and 
+are therefore vertebrates. Table 10.2 gives an outline of classiication of sub-phylum vertebrata.
+It is customary to place vertebrates into two super classes.
+(1) Pisces (Fishes) which includes class cyclostomata, cl ass chondrichthyes, class osteichthyes.
+(2) Tetrapoda (Four footed) which includes the classes amphibia , reptilia, aves and mammalia.
+The former is made up of strictly aquatic forms and the latter of the land dwelling animals. 
+Vertebrates maybe divided into anamniotes or those without foetal membran es (cyclostomata, 
+chondrichthyes, osteichthyes and amphibia) and amniota or those w ith foetal membranes (reptilia, 
+aves and mammals)3710. Kingdom Animalia eLearn.Punjab
+V: 1.1Superclass Pisces
+This super class includes classes, cyclostomata, chondric hthyes and osteichthyes. The class 
+cyclostomata includes most primitive living vertebrates which are with out jaws. This distinguishes 
+them from the rest of the vertebrates. They are represented by the lampreys a nd hagish. Some of 
+their characteristics are as follows:
+1.    Body is long eel-like.                                                 2.     Scales absent.
+3.    No paired appendages.                                            4.     Cartilaginous Skeleton.
+5.    Ventral Suctorial mouth.                                          6.     Heart with one auricle.
+7.    Six to fourteen pairs of gills.                                    8.     Digestive system lacks stomach.
+9.    Sexes are separate in lampreys. Hag ishes are hermaphrod ite.
+10.  Fertilization external and there is a long larval period in Lamprey.
+  Fig. 10.15 Lamprey
+Class Chondrichthyes
+This group includes the sharks and rays which have skeleton of  cartilage but have many resemblances 
+to the bony ishes, the cartilaginous skeleton is considered a degenerated jbharacter rather than 
+primitive character. Their main features are:
+1.     Body fusiform.
+2.     Mouth ventral olfactory sacs not connected to mouth cavity.
+3.     Placoid scales on the body.
+4.     Endoskeleton entirely cartilaginous.3810. Kingdom Animalia eLearn.Punjab
+V: 1.15.     Digestive system with J-shaped stomach.
+6.     Circulatory system has many pairs of aortic arches.
+7.     Respiration by means of 5 - 7 pairs of gills without the covering i.e. operculum.
+8.     No swim bladder.
+9.     Sexes separate.
+10.   Oviparous or viviparous
+With the exception of whale the sharks are the largest living vertebrates,  some reaching 30 - 50 feet 
+in length.
+The skates and rays are bottom dwelling ishes. In these the anterior pairs of ins (Pectoral ins) are 
+much enlarged and are used for swimming like wings. Two me mbers of this group are of special 
+interest (1) the sting rays and (2) electric rays.
+In the sting ray the tail is long & whip-like and has sharp spines which can inlict very dangerous 
+wounds. The electric ray on the other hand has certain dorsal mus cles modiied into powerful 
+electric organ which can give severe shocks & stun their prey.
+Sharks are of economic importance; most are highly destructive to ish , lobsters & crabs. In some 
+parts of the world sharks are used as food by man. Commerciall y shark liver oil is extracted and 
+used in medicine as a source of vitamin A and D and shark sk in leather is used for making articles.
+Fig. 10.16 Shark3910. Kingdom Animalia eLearn.Punjab
+V: 1.1Following are the characteristics of bony ishes :
+1.   They have more or less bony skeleton which has replaced the c artilaginous skeleton.
+2.   Notochord may persist in parts.
+3.   The skin has embedded dermal scales which may be ganoi d, cycloid or ctenoid scales. No 
+       placoid scales.
+4.    Fins both, median (single) or paired and have in rays  of cartilage or bone.
+5.    Mouth is terminal. Jaws either with or without teeth.
+6.    Respiration by gills supported by bony gill arches an d covered by operculum.
+7.    A swim bladder is usually present with or without conn ection with the pharynx. This helps in 
+       bouyancy.
+8.    Two chambered heart with one atrium and one ventricle. Blood h as nucleated red cells.
+8.    Brain with 10 pairs of cranial nerves.
+9.    Sexes are separate, gonads paired. Fertilization is usu ally external.
+Adaptations to Aquatic Life:
+The major adaptations in ishes for the aquatic mode of life are as  follows:
+1.   Stream - lined body  (boat shaped) The body of ish is such that it ofers little resista nce to water 
+      while swimming.
+2.   Swim bladder:  This is found in most bony ish except a few; it may or may n ot be connected to  
+       pharynx. It is mainly a hydrostatic organ & can ch ange the gravity of ish by illing itself with gas. 
+        The ish qan thus loat high or sink lower in water. T he gases that ill the swim bladder are either 
+       oxygen, carbon dioxide and nitrogen and may be secreted by the gland in the swim bladder 
+       itself. In those ishes in which the swim bladder is c onnected to pharynx the bladder may be 
+       illed by gulping of air.
+3.    Fins:  Fins are another important adaptation to aquatic life and are of tw o types
+        (1) paired ins (Pectoral and Pelvic) and (2) unpa ired ins which are dorsal, caudal (tail) and anal 
+        ins. Fins help in swimming as they keep balance of  ish in water.
+4.    Circulatory System :  Heart with two chambers, with aferent & eferent branchial system.
+5.    Respiratory system:  In most ishes respiratory organs are the gills, adapted to receive ox ygen  
+       dissolved in water and remove carbon dioxide in water as the gills have network of blood  
+       capillaries4010. Kingdom Animalia eLearn.Punjab
+V: 1.1Excretory Organs:  Kidneys of ish are also modiied for excretion in the aquatic envir onment.
+The vertebrates already considered are adapted to strict aquatic life. The group of ancient ish 
+known as dipnoi  showed modiication of aquatic breathing system to meet the conditions of  
+terrestrial life by developing lungs. But this case is only an  incident in the transition to land. There 
+are a number of diferences between water and land habitats.
+1.    Oxygen is more in the air than in water.
+2.    Dissolved substances are present in water for example diferent kinds of salts.
+3.    Temperature changes are more drastic in the terrestrial environ ment.
+4.    Land habitat provides a great variety of cover and shelter tha n aquatic habitat.
+5.    As a medium water provides greater support to the body than ai r.
+6.    Land afords a greater variety of breeding places than does water.
+In their transition from aquatic to land environment animals had to undergo modiications or 
+adaptations to cope with the above conditions on land. This includ ed:
+1.   Development of skin for protection against dry conditions of land .
+2.   The eggs of land animals are protected by shells from dry ing and mechanical injury. Also the 
+       size of the egg is large to provide space for storage of food.
+3.   The terrestrial animals developed lungs in place of gills which could take oxygen from air.
+4.    In connection with the development of lungs there are correspond ing changes in the circulatory 
+       system to take oxygen from air.
+5.    For locomotion the paddle-like ins are replaced by jointed ap pendages modiied for walking, 
+       running, climbing and lying.
+6.    Sensory organs have become more advanced and specialized.4110. Kingdom Animalia eLearn.Punjab
+V: 1.1     
+  Fig. 10.17 Bony ishes
+Super class Tetrapoda:  These have 2 pairs of jointed limbs (tetrapods)
+Class Amphibia
+Amphibians  are on the border line between aquatic and true terrestrial animals.  Fossil evidence 
+from the Devonian  period of earths history suggests that a large population of ish b elonging 
+to the group lobe-ins (dipnoi) came to live in shallow fresh water. Some of these crawled from 
+one pool to another and therefore spent some time on land. This gave rise to the group that we 
+recognize as amphibians which are the irst vertebrates to come on lan d. Although amphibians have 
+acquired certain characters enabling them to live on land but at the same time they have retained 
+some aquatic characters as the result of their dependence on aqu atic habitat. This double life is 
+expressed in their name. Structurally they are between the ish on one h and and the reptiles on the 
+other. In the transitions from water to land amphibians have developed limbs in place of ins, lungs 
+in place of gills and some changes in skin. Their circul atory system’ provides for lung circulation 
+but all of them in larval form retain their link with aquatic life by having gills, circulation of blood, 
+digestive system which are representative of aquatic mode of life. Be cause of their dependence on 
+water for their life history they are not a very successful group of vertebrates and are conined to 
+areas only where they can ind water or moist conditions.4210. Kingdom Animalia eLearn.Punjab
+V: 1.1The characteristic features of amphibians therefore are:
+1.   Skeleton is mostly bony. Body form varies greatly in the difer ent amphibians, tailed or without  
+      tail.
+2.   Limbs usually four (tetrapod condition) but some are legless  (e.g. caecilians). Webbed feet often  
+      present.
+3.   Skin smooth and moist with many glands. In some gland s are poisonous, pigment cells  
+      (chromatophores) present in the skin. Scales absent.
+4.   Respiration takes place by gills in the larval stage and by lungs and skin in the adult.
+5.   Heart is 3-chambered with respect to atria and ventricle sin us venosus, truncus arteriosus are 
+      present, double circulation takes place through the heart.
+6.   Sexes separate, fertilization external, larval stage present.
+7.   Changes into adult by metamorphosis. Amphibians are an amniotes.
+8.   Amphibians are cold blooded (poikilothermic) animals an d hibernate in winter.
+      Examples frogs, toads, and salamander.
+Class Reptilia:
+Reptiles are adapted for existence solely on land in contrast to amphi bians that are still tied more 
+or less to water or moist habitat. This indicates that reptiles have c ertain adaptations not found in 
+amphibians. Some of these advancements shown by reptiles are their  characteristic features which 
+are as follows:
+1.   Reptiles have developed some sort of copulatory organ necessary for internal fertilization.
+2.   In amniotic eggs of reptiles the shell is leathery which ca n resist dryness and injury. They have 
+      large yolky eggs.
+3.   Reptiles have dry scaly skin which is adapted to land l ife.
+4.   Reptiles have protective embryonic membranes amnion, allantois, and chorion.
+5.   In reptiles the ventricle of heart is incompletely partitioned ensu ring more oxygen 
+      supply through blood circulation to all parts of the body.  In crocodiles ventricle is 
+      completely partitioned into two.
+6.   Most reptiles have better developed limbs well adapted for eicient loc omotion.
+7.   Reptiles like amphibians are cold blooded (poikilothermic) and hibernate in winter.
+The above characteristics are for terrestrial habitat in which th e reptiles mostly live. However, it is 
+an established fact that reptiles have evolved from amphibians by u ndergoing the above changes 
+and have become fully terrestrial.4310. Kingdom Animalia eLearn.Punjab
+V: 1.1Reptiles lourished throughout Mesozoic era (225-65 million years).  The climate which had been 
+suitable for reptiles in that period, became less favourable to them i n tertiary period. So most of 
+them became extinct. The existing reptiles belong to four, out of a dozen  or more main lines that 
+existed in the past.
+The present day reptiles are, irstly, the lizards and snakes. S econdly the tuatra (sphenodon) of 
+New Zealand, which have survived upto today with little change. Th irdly the crocodiles, which are 
+an ofshoot from the stock from which modem birds were derived. The rep tiles of today have been 
+derived from dinosaurs of Jurassic (195-136 million years),  and cretaceous period (136-65 million 
+years). 
+The modem reptiles for the most part live in the temperate and tropical zon es indeed they lourish 
+only in the latter.
+                   Fig. 10.18 Amphibians and Reptiles4410. Kingdom Animalia eLearn.Punjab
+V: 1.1Class Aves - Birds
+Birds are one of the most interesting and most widely known group of animals. Birds share with 
+mammals the highest development in the animal kingdom. It is beli eved that both birds and 
+mammals have evolved from reptiles along diferent lines. The earliest k nown bird fossil is that 
+of archaeopteryx, two species of which have been found from rocks of Jurassic period of earth’s 
+history. The fossil shows that archaeopteryx, was about the size of a crow with skull similar to 
+that of present day birds. It had bony teeth in the jaw socket unli ke modem birds which do not 
+have teeth. Jaws extended into a beak and there was a long tail. Each  wing had three claws. With 
+the exception of feathers these birds showed resemblance to the dinosaurs  (giant reptiles of the 
+past). Many fossils of birds from later eras of earth history h ave also been found that had teeth. 
+The above evidence suggests that birds evolved from reptilian ancestors.  The archaeopteryx and 
+others had characteristic of both reptiles and birds and therefore form a connecting link between 
+the two distinct groups.
+                                 
+                                                                                        
+                                                                                                                                                         ArchaeopteryxIn eagle both
+ovaries and
+oviducts are
+functional.4510. Kingdom Animalia eLearn.Punjab
+V: 1.1Characters of Birds
+1.    Body is stream-lined and spindle shaped with four divi sions, viz; head, neck, trunk and tail.  
+       These are warm-blooded (homeothermic).
+2.     Limbs are adapted for lying. The fore-limbs are modii ed into wings and hind limbs for perching  
+       and in some birds for running as in ostrich.
+3.    There is the epidermal exoskeleton of feathers, legs bear scal es.
+4.    The skeleton is light due to air spaces which is an ada ptation for lying.
+5.    The skull has large sockets, jaws extend into homy beak , teeth are absent.
+6.     The circulatory system has 4-chambered heart and there i s only right aorta which curves to the  
+       right side and then bends backwards. 
+7.    The lungs have extensions known as air-sacs which exten d into the bones also.
+8.    The organ of voice is called syrinx, it is situated at th e lower end of trachea near the origin of 
+       the two bronchi.
+9.    Excretory system does not have a bladder, urine is semi soli d.
+10.  Sexes are separate. Fertilization is internal and eggs ar e of large size with much yolk. Only one 
+       ovary and oviduct is functional.
+11.  Since birds do not have teeth they have developed a thick muscular  structure (Gizzard) which 
+       is used for crushing food.
+12.  Some birds have secondarily lost the power of light and are c alled running birds e.g. Ostrich,    
+       Kiwi, etc.
+     Fig. 10.19 Birds4610. Kingdom Animalia eLearn.Punjab
+V: 1.1Class Mammalia - Mammals
+The term mammal was given by Linnaeus to the group of animals w hich are nourished by milk 
+from the breast of the mother. The group is considered to be the highes t in the animal kingdom. 
+Their advancement over other groups is quite pronounced. The most importa nt advancement 
+is the evolution and development of their brain (nervous system) over the other vertebrates. It 
+is universally accepted by biologists that mammals have evolved from reptilian ancestors, the 
+cotylosaurs . This has been determined on the basis of the fossil record which  is easily available 
+because of the hard bones that were preserved as fossils, unlike th e birds which have soft bones 
+and mostly have not been preserved. The ancestors of mammals lived si multaneously along with 
+reptiles during the Jurassic times and have been called mammal -like reptiles. Some were only of 
+the size of mice and lived on trees. One of these early reptile was varanope  that was found as 
+fossil in Texas. Probably at least ive groups of such mammal- like reptiles developed mammalian 
+characters and were 50% mammals. Mammals became dominant i n the Cenozoic period.
+   Fig. 10.20 Mammals4710. Kingdom Animalia eLearn.Punjab
+V: 1.1General Characters of Mammals
+Although mammals have evolved from reptiles they show many important s tructural diferences. 
+These diferences are in fact the general characters of mammals wh ich are as follows:-
+1.    Most mammals have a body covering of hair instead of scal es.
+2.     There is a muscular diaphragm in mammals that sep arates the thoracic and abdominal cavities. 
+       This structure is not found in any previous group.
+3.    The lower jaw in mammals is composed of only one large b one and articulates directly with 
+       skull.
+4.    External ear or pinna in present. There is a chain of th ree bones in the ear Malleus, Incus & 
+       Stapes.
+5.    Mammals have deciduous and permanent teeth in some mamma ls e.g. man the teeth are in  
+       two sets, one in early life the milk teeth and later the per manent teeth.
+6.    Mammals have 4-chambered heart and only left aortic arch  (in birds it is right).
+7.    Mammals are warm blooded (Homeothermic) animals.
+8.    The red blood cells are non-nucleated.
+9.    Mammals have well developed voice apparatus, the larynx and  epiglottis.
+10.  Most mammals give birth to young (viviparous).
+11.  Mammals feed their young on milk produced by mammary g lands of mother. Mammals are 
+        
+classiied into three sub-classes.
+1.    Prototheria             -                       egg -laying mammals
+2.    Metatheria              -                       p ouched mammals
+3.    Eutheria                  -                       Placental mammals including man4810. Kingdom Animalia eLearn.Punjab
+V: 1.11. Sub-Class Prototheria  The Prototheria is that group which has characteristics of both  reptiles 
+and mammals and therefore form a connecting link between the two. T hey also provide evidence 
+of the evolution/origin of mammals from reptilian stock. Certain mem bers of this sub-class are 
+adapted for aquatic life as the duck bill which has a bi ll similar to that of a duck and has webbed 
+toes. It has thick fur on its body. The female has mammary gl ands to feed the young. Both these are 
+mammalian characters. At the same time these animals have cloaca and cloacal opening instead of 
+separate openings for digestive system and urinogenital system. Both th ese characters are reptilian 
+characters. These animals are found in Australia, e.g. Duck bill Platypus & Echidna (Spiny anteater).
+2. Sub-Class Metatheria  Next to Prototheria, the Metatheria are the most primitive mammals They 
+are characterized by an abdominal pouch the marsupium  where they rear their young. The young 
+when born are immature and are carried by the mother in the mar supium till they develop to their 
+maximum. During this period they are fed on the milk produced by the milk glands of mother, the 
+nipples of which are in the marsupium. For this reason these a nimals are also called marsupials or 
+pouched mammals, e.g. Opossum, Kangaroo and Tasmanian wol f found in Australia and America.
+3. Sub-Class Eutheria  This sub-class includes placental mammals. In the body of  mother 
+development of young is maximum and the young when bom are fully  developed. In these mammals 
+during development a structure known as placenta  is formed through which the fetus is nourished. 
+Also the placenta has endocrine function i.e. it produces certai n hormones, for this reason these 
+mammals are also called placental mammals.  Placental mammals have maximum mammalian 
+characters but in some the hair have become modiied into scales (pan golin) and spines (porcupine). 
+Examples are man, whale, elephant, horse, rat, mice, bat, dolph in, etc.
+Mammals being a very successful group live in all kinds of habitat i.e. land, fresh water and sea for 
+which their bodies are modiied.4910. Kingdom Animalia eLearn.Punjab
+V: 1.1EXERCISE
+Q1.       Fill in the blanks.
+              (i)     Frotozons have been placed in a separ ate kingdom known as _________________ .
+              (ii)    The sponges do not have any symmetry a nd are therefore called______ .
+        
+              (iii)   Between ectoderm and endoderm the coelenterate  have a non cellular _____________.
+              (iv)   Taenia solium  has_______ and ________ for attachment to the intestine of host. 
+              (v)    In annelids the body segmentation of the ty pe known as _____________ .
+              (vi)   In insects there are ______________ p airs of legs present in the ___________region of the 
+                      body.
+              (vii)  The organ of locomotion in molluscs is th  e____________ .
+              (viii) In animals where there are deinite left & r ight sides the symmetry is _______________.
+              (ix)   The system in which water move inside th e body of an echinoderm is called
+                       _____________. 
+              (x)    Coelom is the body cavity formed from the_ ________________ layer.5010. Kingdom Animalia eLearn.Punjab
+V: 1.1       
+Q.2.      Each question has few options. Encircle the  correct answer.
+                  Vertebrates that develop embryonic membranes arou nd their embryo are called (Amniotes, 
+              Anamniotes)
+              (i)         In animals the bodies of which  can be divided in two equal halves only in one 
+                          plane are (asymmetrical, bila terally symmetrical, radially symmetrical)
+              (ii)        Animals that have their body cavi ty illed with parenchyma are (Acoelomates, 
+                          Coelomate, Pseudocoelomates)
+              (iii)       The vertebrates in which placenta is formed during the development of faetus are  
+                          (Pisces,Aves, Mammalia)
+              (iv)       In amphibians the necessary req uirements to spend their life history are (land, 
+                          water, or both)
+              (v)        Trypanosoma causes the diseases ( Malaria, Sleeping sickness)
+              (vi)       ln annelids the organs or excretion are (lame-fcells, nephridia, kidneys) In 
+                           arthropoda the body cavity is (p seudocoeloms, enterocoel, haemocoel)
+              (vii)      In mollusca the foot is used for (c apturing prey, locomotion, or both)
+Q .3.     Extensive questions.
+              (i)         What are Cnidaria? Explain the diploblastic origin, alternation of generations in  
+                          cranidaria.
+              (ii)        Describe the parasitic adaptati ons in phylum platyhelminthes - How does
+                          tape worms afect a person.
+ 
+              (iii)       Give the symptoms of the disease cau sed by certain nematodes.
+              (iv)       Give an account of the major groups of  Arthropods. What is the economic
+                          importance of insects.5110. Kingdom Animalia eLearn.Punjab
+V: 1.1             (v)      Give the two major classes of the pisces an d explain the adaptations of aquatic mode      
+                       of life in ishes.
+             (vi)     Give the adaptations for aerial mode of lif e in birds. What is their origin.   
+             (vii)    What are the general characteristics of mammals? How do the three subclasses
+                       protheria, metatheria and eutheria dif er from one another.
+             (viii)   Distingnish between the following by gi ving examples
+                       (a) Radial and Bilateral Symmetr y.
+                       (b) Diploblastic and triploblastic  animals.
+                       (c) Anamniotes and amniotes.

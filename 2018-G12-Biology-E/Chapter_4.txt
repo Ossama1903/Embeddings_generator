@@ -1,0 +1,480 @@
+CHAPTER
+  18Reproduction
+Animation.18: reproduction
+Source & Credit: wikispaces218. Reproduction eLearn.Punjab
+Every species of organisms can reproduce new individuals of tha t species. In organisms, methods 
+of reproduction are varied and some are quite complex. It is very im portant to the survival of 
+a species or a population. Reproduction is the mechanism that- prod uces new generations and 
+maintains a species-population.
+                                
+Reproduction is of two types, asexual reproduction and sexual repr oduction. Asexual reproduction 
+requires only a single parental organism which gives rise to ofs pring by mitotic cell division, during 
+which the total chromosomes content of the cell is exactly replicated and  passed on to daugher 
+cells, so that the ofspring are genetically identical to the parent. M ethods of asexual reproduction 
+are ission, sporulation, budding, vegetative propagation, artiicial  propagation, parthenogenesis 
+and apomixis etc.
+                                
+Sexual reproduction usually involves two parents. A fertilized egg i s produced through the union of 
+meiotically produced specialized sex cells (egg and sperm) from  each parent. Meiosis or reduction 
+division gives rise to    gametes (gametogenesis) in which not only th e chromosome number is 
+halved (haploid) but reshuling of genes leads to recombination of g enes. This not only maintains 
+the chromosome number in a species but also produces genetic variation s, an important factor in 
+the survival and adaptation of a species or a population (Fig. 1 8.1).
+In plants, if there isalternationof generations namely a diploid sporophyte and a haploid 
+gametophyte, meiosis occurs during spore formation (sporogenesis).
+                  
+In asexual reproduction, although increase in number of genetical ly alike individuals from a parent 
+is very rapid but this is not an adaptive method and may at some s tage jeopardize the survival of 
+a species. Man has favoured this type of reproduction for his own needs, commonly in plants but 
+now tissue culture technique in plants and cloning in animals  are being adopted for producing 
+organisms of valuable characteristics, without a change in their  genetic make up. Cloning has been 
+practised successfully but its disadvantages like rapid agin g and low resistance to environmental 
+stress and diseases are still the limitations for commercial ventures . Also it is still not being accepted 
+socially and morally in general.318. Reproduction eLearn.Punjab
+Evolution of pollen tube is an important step in 
+land adaptation by the spermatophytes. Pollen 
+tube acts as vehicle for male gametes for their 
+safe transport to female gamete in ovule in 
+hostile land environment. Evolution of pollen 
+tube is parallel to the evolution of seed and is 
+a tool of success for seed plants.REPRODUCTION IN PLANTS
+         
+  
+In plants both sexual and asexual reproduction are foun. I n asexual reproduction 
+layering, grafting, budding etc. are the artiicial modes .
+In sexual reproduction, plants have diplohaplontic life cycle with alternating diploid sporophyte 
+and haploid gametophyte generations. If the 
+two generations are vegetatively similar, such 
+alternation of generations is referred to as 
+isomorphic, and if they are dissimilar it is called 
+heteromorphic.
+Seed plants are predominatly present 
+all around us due to their better sexual 
+reproduction, modiication of lower and 
+inloresence for pollination, involving 
+gamete transfer by pollen tubes,food storage for developing em bryo, protection by 
+seed coats and dispersal with the help of fruit formation (a ngiosperms). Seeds are 
+capable of enduring unfavourable conditions in dormant form (seed dormancy) and 
+as soon as, conditions become favourable for establishing the seedling, it germinates.  
+Animation 181:Reproduction
+Source & Credit: Ameoba Sisters418. Reproduction eLearn.Punjab
+Fig. 18.1 (a) Bryophyte life cycle. Note that the sporophyt e is completely dependent upon the gametophyte.518. Reproduction eLearn.Punjab
+Fig. 18.1 (b) Spermatophyte life cycles (i) Gymnosperm li fe cycle, Pinus sylvestris (Class Pinatae). (ii) Angiosp erm life 
+cycle.618. Reproduction eLearn.Punjab
+18.1 (ii) Angiosperm life cycle718. Reproduction eLearn.Punjab
+Parth enocarpy
+                     
+In some cases, fruit development proceeds without fertilization and thus  no seed formation takes 
+place e.g. banana, pineapples and some varieties of oranges and grapes. Such development is 
+called parthenocarpy. It is due to hormonal imbalance; usually  high auxin levels occur in these 
+ovaries. Parthenocarpy is sometime artiicially induced for commerc ial purposes, by adding auxins 
+in tomato, peppers etc.
+Seed Dormancy
+                                
+It is the special condition of rest, which enables an embryo to sur vive  long periods of unfavourable 
+environmental conditions, such as water scarcity or low temperature. During this period of rest 
+the embryo ceases or limits its growth. This is of great survival i mportance to the plant in that it 
+prevents the dormant seed from germinating in response to conditions suc h as a warm spell in 
+winter. Germination or resumption of normal growth by a dormant embr yo requires certain, very 
+precise combinations of environmental cues, to avoid any accidental s timulus which may prove 
+fatal later on.
+Fruit set and Fruit ripening
+Germinating pollen grain is not only an important structure for  safe transfer of 
+gametes and insurance for fertilization but also a rich sou rce of auxins as well as 
+commonly stimulating the tissues of the style and ovary to produc e more auxin. This 
+auxin is necessary for ‘fruit set’, i.e. retention of the ova ry, which becomes the fruit 
+after fertilization. Without it abscission of lowers normally oc curs, leading to low fruit 
+yields. After fertilization, the ovary and the ripe seeds c ontinue to produce auxins which 
+stimulate fruit development. Developing seeds are not only a ri ch source of auxins and 
+gibberellins, but also of cytokinins.818. Reproduction eLearn.Punjab
+These growth substances are mainly associated with developm ent of the embryo and 
+accumulation of food reserves in the seed and some times in the pericarp (fruit wall).
+Fruit ripening is often accompanied by a burst of respira tory activity called the climacteric.
+This is associated with ethane production, which helps in ripening of the fruit.
+    
+Photoperiodism
+Apart from photosynthesis and phototropic responses, another very important way in 
+which light exerts its inluence on living organisms is thr ough variations in day length 
+called photoperiod. In plants, photoperiod and temperature afe ct lowering, fruit and 
+seed production, bud and seed dormancy, leaf fall and g ermination.
+Photoperiod afects lowering, when shoot meristems start producin g loral buds 
+instead of leaves and lateral buds.
+Efect of photoperiodism was irst studied in 1920 by Garner a nd Allard. They studied 
+that tobacco plant lowers only after exposure to a series of shor t days. Tobacco plant 
+naturally lowers under same conditions, in autumn, but lowe ring could be induced 
+by conditions artiicially to short days exposing. With further  studies they were able 
+to classify lowering plants into long-day plants, which req uire long days for lowering 
+and day-neutral plants lower without being inluenced by p hotoperiod.
+Later on, further studies indicated that it is really the le ngth of the dark period which 
+is critical. Thus short-day plants are really long-night plants. If they are grown in short 
+days, but the long night is interrupted by a short light per iod, lowering is prevented. 
+Long-day plants will lower in short days if the long night period is interrupted (Table 
+18.1)
+Animation 181:Photoperiodism
+Source & Credit: Leaving BIo918. Reproduction eLearn.Punjab
+Table 18.1 (b) Some phytochrome-controlled responses in plant s.
+General process efected Red light promotes
+PhotoperiodismStimulates lowering in long-day plants. 
+Inhibits lowering in short-day plants. 
+See lowering.Table 18.1 (a) Classiication of plants according to photoperi odic requirements for lowering
+Short-day plants (SDPs  Long-day plants (LDPs) Day-neutaral plants (DNPs)
+Flowering induced by dark 
+periods longer than a critical 
+length, e.g. cocklebur 8.5 h; 
+tobacco 10-11h.
+(Under natural conditions 
+equivalent to days shorter 
+than a critical length, e.g. 
+cocklebur 15.5 h; tobacco 
+13- 14h)
+e.g. cocklebur (Xanthium), 
+chrysanthemum, soyabean, 
+tobacco, strawberryFlowering induced by dark 
+periods shorter than a 
+critical length, e.g. henbane 
+13h.
+(Under natural conditions 
+equivalent to days longer 
+than a critical length, e.g. 
+henbane 11 h).
+e.g. henbane (Hyoscyamus 
+niger), snapdragon, 
+cabbage, spring wheat, 
+spring barley.Flowering indepenedent 
+of photoperiod.
+e.g. cucumber, tomato, 
+garden pea, maize, cotton.1018. Reproduction eLearn.Punjab
+Further experimentation also revealed that quantity of light is also in luenced by the quality of 
+light. Cocklebur, a short day plant, will not lower if its long  night is interrupted but experiments 
+revealed that red light was efective in preventing lowering and far-red  light reversed the efect of 
+red light. It was also demonstrated that the last light treatment alwa ys determines the response. 
+This response to light intensity and quality led to the discovery of b lue pigment that is red light 
+sensitive protein, the phytochromes.
+Phytochrome exists in two forms i.e. P 660 and P 730. P 660 a  quiscent form absorbs red light at a 
+wave length of 660 nm and is converted to active P 730, P 730 absor bs far red light at 730 nm and 
+is converted to P 660. In nature, the P 660 to P 730 conversion takes place in day light and P 730 
+to P 660 conversion occurs in the dark. Thus during the day a plant has P 730 phytochromes while 
+during the night it contains more phytochromes in the form of P 66 0. The presence of either form 
+provides the plants with a means of detecting whether it is in a lig ht or dark environment. The rate 
+at which P 730 is converted to P 660 provides the plant with a “cl ock” for measuring the duration 
+of darkness.
+It has been found that red light inhibits lowering the short day p lants but promotes lowering in 
+long day plants, under conditions during which lowering norm ally takes place. This observation led 
+to hypothesize that the P730-P660 interconversion might be the lant time -  regulator for lowering. 
+According to this hhypothesis, p 730, converted from P 660 by the absorption of red light, would 
+inhibit lowering in short day plants but promote lowering in long  day plants. Because P 730 
+accumulates in the day and diminishes at night, short day pl ants coud lower only if the night were 
+long enough, during which a great amount of P730 would not be c ompletely inactivated, so that 
+enough P 730 would remain at the end of night to promote lowering. Bu t now it is generally agreed 
+that the time measuring phenomenon of lowering is not totally controlled b y the interconversion 
+of P 660 to P 730. Other factors, like presence or absence of ligh t and length  of dark, or light 
+period also play an important role in lowering. Phytochromes seems to be responsible for the 
+detection of either light or darkness. The biological clock once stimu lated causes production of 
+lorigen hormone in leaves, which travels through phloem to the loral bu ds, initiating lowering.
+Vernalisation
+Biennials and perennial plants are stimulated to lowering  by exposure to low 
+temperature. This is called vernalisation . The low temperature stimulus is received 
+by the shoot apex of a mature stem or embryo of the seed but not by the leaves as in 
+photoperiodism.1118. Reproduction eLearn.Punjab
+ 
+For some plants, vernalisation is an absolute requirement or in some cases it simply 
+assists in inducing lowering. The duration of low temperatu re (chilling) treatment 
+required varies from four days to three months.
+Temperature around 4°C is found to be very efective. It stimu lates the production 
+of “vernalin” hormone which induces vernalisation, it is now  believed that vemalin is 
+nothing special but actually is gibberellin.
+Photoperiodism and vernalisation serve to synchronise the reprod uctive behaviour of 
+plants with their environment, ensuring reproduction at favoura ble times of year. They 
+also ensure that members of the same species lower at the s ame time, encouraging 
+cross pollination for genetic variability.
+REPRODUCTION IN ANIMALS
+Animals like plants also reproduce both asexually as well as sexually. But asexual reproduction 
+is less common in animals as compared to plants. Binary iss ion, multiple ission (animal like 
+protoctists) budding (Hydra) parthenogenesis, tissue culturing, cloning and identical twins are the 
+common asexual methods of reproduction.
+In honeybee males are haploid and produce sperms by mitosis.1218. Reproduction eLearn.Punjab
+ Asexual Repr oduction
+               
+ 
+Parthenogenesis is deined as the development of an egg without fertilizati on, ants, bees and 
+wasps are good examples. In the honeybees, males (or drones) develop f rom unfertilized eggs. 
+The queen bee, though carrying male gametes from male, has the abi lity to lay eggs that have not 
+been fertilized. The sperms she receives from a drone bee are stored in a pouch closed of by a 
+valve. The eggs may be fertilized or may not be fertilized from the stor ed sperms. The haploid egg 
+develop into haploid ofspring, it is called haploid parthenogensis .
+In some cases e.g. in aphids, diploid parthenogenesis may occu r, in which the egg- producing cells of 
+the female, undergo a modiied form of meiosis involving total non-dis juction of the chromosomes, 
+they retain the diploid number of chromosome. Egg (diploid) develops into young females.
+Parthenogenesis has the advantage of accelerating the normal reproducti ve rate.
+TISSUE CULTURING AND CLONING
+In tissue culturing technique in plants, cambium tissue excis ed from plants can be stimulated by the 
+addition of nutrients, cytokinins, and IAA (indole acetic acid) . These cells show continuous growth 
+and diferentiate into a new plant, genetically identical to their par ents.
+Tissue culture is now widely used for the rapid propagation of d esired varieties or for varieties 
+diicult to propagate by cuttings. Similar techniques have been develop ed for the tissue culture of 
+animal cells.
+In lowering plants, one form of parthenogenesis is called apomixi s. In this a diploid cell of 
+the ovule, either from the nucellus or megaspore, develops into a functiona l embryo in the 
+absence of a male gamete. The rest of the ovule develops into the seed and the ovary into the 
+fruit.1318. Reproduction eLearn.Punjab
+Organisms produced from a single cell by subculturing (cloning) are called clones. In 
+animals and especially among vertebrates, a nucleus from  the somatic cell is removed 
+and introduced into an egg cell, whose own nucleus has be en destroyed by ultra violet 
+radiation. The egg with transplanted diploid somatic cell n ucleus develops into an 
+organism, genetically identical to the parent who has contrib uted the nucleus.
+The cloning of desirable animals such as prize bulls, rac e horses etc. might be as useful as cloning 
+of useful varieties of plants.
+However, the application of the technique to humans would be open to seriou s moral questions. 
+Theoretically any number of genetically identical copies of the sam e man or woman might be made.
+The use of cloned cells allows the quantitative study of the action of h ormones, drugs and antibodies 
+to be made on cells. Such a technique is a useful substitute for i nvestigating the efect of drugs, 
+cosmetics and pharmaceutical products on animal cells without ex posing laboratory animals to 
+these chemicals.
+Cloning has the advantage that all the ofspring behave similarly,  but  if an environmental hazard 
+develop (like an out break of a disease), non resistant strains are present to lessen the impact. Also 
+the degree to which environment inluences clone development is not fully k nown and any cloned 
+cell would have to go through all the phases of development once again i ncluding embryo, fetus, 
+baby and child hood (in case of human beings).
+IDENTICAL TWINS
+In higher vertebrates including man, zygote after fertilization und ergoes cleavage (cell division by 
+mitosis). When embryo is at two celled stage, the two blastomeres, instea d of remaining together, 
+may separate and behave as two independent zygotes, each giving rise to a new individual. Both 
+the organisms are products of mitosis, thus they have identical geneti c make up and are called 
+identical twins. They are produced mitotically (asexually).
+In some cases, more than one egg is produced by the female and all  these eggs are independently 
+fertilized forming two or more zygote. These zygotes develop into new ofspri ngs, but with diferent 
+genetic combinations. Such a twins or triplets are called fraterna l twins or triplets. They are produced 
+sexually.1418. Reproduction eLearn.Punjab
+SEXUAL REPRODUCTION
+It is thought that asexual method of reproduction is a primitive form  of reproduction than the 
+sexual reproduction. At a later stage, a mechanism have evolved leadin g to production and union 
+of gametes. Meiosis and genetic recombination played a major role in  the development of more 
+complex forms of life and types of gametes, from identical game tes (isogametes) to the heterogametic 
+stage of motile male gametes (sperms or antherozoid) and non-motile fema le gametes eggs (ova). 
+Sexual reproduction has advantage over asexual reproduction which i s elaborated in the following 
+table 18.2.
+Asexual reproduction Sexual reproduction (omitting bacteria)
+One parent only.
+No gametes are produced.
+Meiosis absent.
+Ofsprings identical to parent.
+Commonly occurs in plants, less 
+diferentiated animals and micro-
+organisms Absent in more diferentiated 
+animals.
+Often results in rapid production of large 
+number of ofsprings.Usually two parents.
+Gametes are produced. These are 
+haploid and nuclei of two gametes fuse 
+(fertilization) to form a diploid zygote.
+Meiosis is present at some stage in life 
+cycle to prevent chromosome doubling in 
+every generation.
+Ofsprings are not identical to parents. 
+They show genetic variation as a result of 
+genetic recombination
+Occurs in the majority of plant and animal 
+species.
+Less rapid increase in number.Table 18.21518. Reproduction eLearn.Punjab
+External fertilization occurs in aquatic environment where male gam etes can swim towards the 
+female-gametes in water medium. Development is also external due to the cons tant / stable 
+conditions of water (frog, ish etc.)
+In terrestrial conditions, fertilization is internal. Sperms are l odged in the female body where 
+fertilization occurs. This may lead to external development as in rep tiles and birds. They lay shelled 
+eggs to protect the developing embryo from harsh terrestrial conditions. S uch animals are called 
+oviparous.
+In mammals, internal fertilization leads to internal development and  development of embryo is 
+accomplished inside the female body, which gives birth to young one - such animals are called  
+viviparous .
+In some mammals like duckbill platypus and spiny ant-eater internal fertilization leads to internal 
+development of young one in a shelled egg and when development is compl eted, shelled egg is laid 
+which hatches to ofspring This is called ovoviviparous condition.
+Viviparous and ovoviviparous animals provide more protection to their y oung one during 
+development. Nourishment is provided either through stored food in the egg or through placenta 
+by the mother. 
+Both in animals and plants, evolution of sexual reproduction also lead to the diferentiation of 
+sexes (male or female). Organisms are either having one sex (unis exual) or both the sexes 
+(hermaphrodite or bisexual). Advance mode of sexual reproduction ha s unisexuality in animals 
+but in plants bisexuality in general is retained. Despite the bisex uality (tape worm, earthworm etc.), 
+cross fertilization is ensured for maintaining the advantage of gen etic recombination.
+Fertilization is the process which leads to the union of gametes. F ertilization may occur outside the 
+body (external fertilization) or inside the body of the female (interna l fertilization).1618. Reproduction eLearn.Punjab
+   
+REPRODUCTION IN MAN                                       
+Male and female have separate reproductive systems.
+(a)     Male Reproductive System
+                         
+Male reproductive system consists of external genitalia which consis t of a pair of testes which lie 
+outside the body, in the sac-like scrotum and male copulatory organ  which is used to transfer the 
+sperms into the female reproductive tract. Each testis consists of a  highly complex duct system 
+called seminiferous tubules, in which repeated division by the cel ls of the germinal epithelium 
+produce spermatogonia. These increase in size and diferentiate into p rimary spermatocytes 
+which undergo meiotic division to form secondary spermatocytes and s permatids. Eventually, the 
+spermatids diferentiate into mature sperms. Fluid secreted by sertoli cells provides liquid medium, 
+protection and nourishment to sperms while they are in tl e tubules.
+(Fig. 18.2 a,b, Fig. 18.3). The sperms are then transferred  to the main duct of the male reproductive 
+tract, the vas deferens, which forms highly convoluted epididymis.  The sperms then pass through 
+the urinogenital duct and ‘are discharged out.
+Animation 181:Sexual reproduction in plants
+Source & Credit: Leaving BIo1718. Reproduction eLearn.Punjab1818. Reproduction eLearn.Punjab
+Fig. 18.2 The human male reproductive system
+The male reproductive system consists of two testes that p roduce sperms, ducts that carry the sperms, and various glan ds.
+Fig. 18.3 Gamete formation1918. Reproduction eLearn.Punjab
+  
+Between the seminiferous tubules are interstitial cells which secrete testes terone. This hormone 
+is essential for the successful production of sperms and also c ontrols the development of male 
+secondary sexual characteristics during puberty.
+(b)      Female Reproductive System
+          
+The female reproductive system consists of  ovaries,  oviducts, uterus a nd the external genitalia 
+(18.4) .
+A  pair of ovaries lies within the body cavity of the female. Germ cel ls in the ovary produce many 
+oogonia which divide mitotically to form primary oocytes. These are en closed in groups of follicle 
+cells. The primary oocyte divides meiotically into the haploid second ary oocyte and irst polar body. 
+Second meiotic division in the oocyte proceeds as far as metaphase but is not completed until the 
+oocyte is fertilized by the sperm. In human only one ovum is usual ly discharged from the ovary at 
+one time, this phenomenon is called ovulation.2018. Reproduction eLearn.Punjab
+The ovum is then transferred to the oviduct generally called fallopian  tube Or
+uterine tube. The uterine tube opens into the uterus. The fertilization of th e ovum takes place in the 
+proximal part of the oviduct. The fertilized ovum (zygote) enters the uteru s where it is implanted 
+(conceived) and undergoes further development. A placenta is establish ed between the uterine 
+and foetal tissues for the exchange of oxygen,carbondioxide, waste, n utrients and other materials. 
+Uterus opens into the vagina through cervix. Urethra and vagina have in dependent openings to 
+the exterior.
+Female Reproductive cycle:   In females the production of egg is a cyclic activity as compared  
+to males, where gamete production and release is a continuous process beginning at puberty and 
+lasting throughout life.
+In human females, the periodic reproductive cycle is completed in a pproximately 28 days and 
+involves changes in the structure and function of the whole reproducti ve system. It is called the 
+menstrual cycle and can be divided into four phases. The events of the menstrual cycle involve 
+the ovaries (ovarian cycle) and the uterus (uterine cycle) and these a re regulated by pituitary 
+gonadotropins.
+Fig.18.4 (a)The human female reproductive system (b) Gam ete formation2118. Reproduction eLearn.Punjab
+Primary steps in female reproductive cycles are:
+1.  The pituitary gland on the onset of puberty, releases follicle s timulating hormone (FSH) which 
+stimulates the development of several primary follicles. Only one of thes e follicles continues to 
+grow with its primary oocytes while the rest break down by a degener ative process known as 
+follicle atresia.
+2.  The ovary, under the stimulus of FSH, also produces estrogen h ormone.-This, on one hand, 
+stimulates the endometrium (internal living of the uterus wall) an d vascularizes it, and on the other 
+hand, inhibits the secretion of FSH  from pituitary gland.
+3.  Decrease of FSH and increase of estrogen, causes the pituitary g land to secrete luteinizing 
+hormone (LH) which induces ovulation - the release of ovum from the fol licle.
+4.  The follicle cells, after release of the egg. are modiied to form a special structure called corpus 
+luteum. This yellowish glandular structure starts” secreting hor mone called progesterone. This 
+hormone develops the endometrium and make it receptive for the implantation of  the zygote 
+(placenta formation). 
+5.   If  fertilization does not occur, the corpus luteum starts degen erating. The progesterone secretion 
+diminishes and its supporting efect on the spongy endometrium is r educed, which sufers a 
+breakdown. This causes the discharge of blood and cell debris known as menstruation. This stage 
+usually lasts for 3 - 7 days (Fig 18.5)
+Oestrous cycle is a reproductive cycle found in all female mamma ls except human being. In 
+this cycle, the estrogen production prepares the uterus for conception  partly and also follicle 
+develops ova. At this stage, female needs a physical stimulus of ma ting for ovulation. She exhibits 
+the desire for mating or is said to be on “heat”2218. Reproduction eLearn.Punjab
+The cycle is thus completed and the uterus is ready to enter into the nex t cycle. The human menstrual 
+cycle generally repeats every 28 days although there is considerabl e variation in diferent individuals 
+or even within the same individual at diferent times of her age. The en d or complete stop of the 
+menstrual cycle is called menupause, after which the female stops producing the ova.
+Malnourishment and emotional stresses efect the female repr oductive cycle, which 
+may be disturbed. The cycle is not completed in its normal  28 days.2318. Reproduction eLearn.Punjab
+Birth: The total gestation period (pregnancy) is usually about 280 days .
+Once the placenta is established, it starts secreting the progesterone hor mone which maintains the 
+pregnancy. Any disturbance in its secretion may lead to prematur e birth or miscarriage. Human 
+embryo remains enclosed in amniotic sac illed with anmiotic lui d which is protective and shock 
+absorpitive.Fig. 18.5 The ovarian and uterine cycles in human female 
+The release of a secondary oocyte (ovulation) is timed to coincide with th e thickening of the lining of 
+the uterus. The uterine cycle in humans involves the preparation of the uterine wall to receive the 
+embryo if fertilization occurs. Knowing how these two cycles compar e, it is possible to determine 
+when pregnancy is most likely to occur.2418. Reproduction eLearn.Punjab
+During this period, pituitary gland produces luteotropic hormone (L TH). Placenta also secretes 
+human placental lactogen. Both these hormones stimulate mammary develop ment in preparation 
+for lactation.
+From beginning of the 3rd month of pregnancy, the human embryo i s referred to as the fetus. Most 
+of the major organs are formed by the 12th week of pregnancy and th e remainder of the gestation 
+period is taken up by growth.
+It was thought that hormonal activities within the mother i.e. decrease in progesterone level onset 
+the birth. But recent evidence suggest that there is a high degree of fetal  involvement in the timing of 
+birth. The initial stage of birth is the result of the stimuli from  the fetal pituitary. The ACTH released 
+from fetal pituitary stimulates the fetal adrenal gland to releas e corticosteroids, which cross the 
+placental barrier and enter the maternal blood circulation causin g a decrease in progesterone 
+production. The reduction of progesterone level, stimulates the pituitary g land to produce oxytocin 
+hormone. This induces labour pains, i.e. contraction of the uterus  wall. The release of oxytocin 
+occurs in “waves” during labour and provides the force to expel the fetus from the uterus.
+The cervix dilates and the uterine contractions spread down over the uteru s and are strongest 
+from top to bottom. Thus, pushing the baby downward leading to the d elivery of the baby. The 
+umblical cord is ligated and baby is released from the mother.
+Within 10-45 minutes after birth, the uterus contracts and separa te the placenta from the wall of 
+the uterus and placenta then passes out through the vagina. This is  called after birth. Bleeding, 
+throughout this period, is controlled by the contraction of smooth muscl e ibers which completely 
+surround all uterine blood vessels supplying the placenta. Average loss of blood is about 350 cm3.
+TEST TUBE BABIES
+Recent biotechnical advantages has led to many improvements i n human life. One of 
+the important aspect is the test tube babies.2518. Reproduction eLearn.Punjab
+Fig. . 18.6 Placental structure
+ The embryonic blood vessels that supply the developing child with n utrients and remove the 
+metabolic wastes are separated from the blood vessels of the mother. Becaus e of this separation, 
+the placenta can selectively ilter many types of incoming materials and microorganisms.
+Parents which are unable to enjoy the normal process of fer tilization and birth of 
+their ofspring due to some physiological and physical abn ormalities in any of the two 
+parents are being beneited with this method.
+Parental sperm and ovum is fertilized in vitro - outside the female body and then the 
+zygote is implanted back into the mother uterus, placenta esta blishes and remaining 
+development takes place in the body of the mother leading to nor mal birth.2618. Reproduction eLearn.Punjab
+SEXUALL Y TRANSMITTED DISEASES (STD)
+      
+ Unhealthy attitudes and low moral values sometimes lead to serious comp lication. The carrier 
+may transmit this disease to their healthy partners.
+(I) Gonorrhoa
+          
+  It is caused by a gram positive bacterium Neisseria gonorrhoeae , mainly afecting the mucous 
+membrane of urinogenital tract. New born infants may acquire ser ious eye infections if they pass 
+through the infected birth canal. It is highly contagious through  sexual contacts.
+(ii) Syphilis
+             
+ It is caused by a spirochaete, Treponema pallidum . It damages the reproductive organs, eyes bones 
+joints, central nervous system, heart and skin. Sexual contact is the major source of its dissimination.
+(iii) Genital Herpes
+It is caused by a herpes simplex type 2 virus, most frequently tr ansmitted by sexual contact causing 
+infection of the genitalia. It produces genital soreness and ulcers in the infected areas. In infected 
+pregnant woman, virus can be transmitted to infant during birth,  causing damage to eyes and CNS 
+of the infant.
+AIDS (Acquired Immune Deiciency Syndrome)
+You are already familiar with this dangerous disease. Sexual contact is one of the major sources of 
+its spread.
+Control :          The above dreadful sexual diseases can be controlled and prevented by avoiding 
+sexual contacts with carrier or diseased person and adopting the h ygienic conditions. The treatment 
+involves medication for a long period except AIDS at present.2718. Reproduction eLearn.Punjab
+Exercise
+1.  Fill in the blanks.
+1. Asexual reproduction requires only a single ________ ____organism
+2. Sexual reproduction usually involves __________________ p arents.
+3. Phytochromes are the special_________ sensitive pigments
+4. External fertilization occurs in_________ environment.
+5.  ____________ and _______animals provide more protection to their young one during 
+development
+6. A placenta is established between the uterine and____ ______ tissues for the exchange 
+of oxygen.
+7. The reduction of progesterone level, stimulates the_______ __gland to produce 
+oxytocin hormone.
+Q.2  Write whether the statement is true or false and write the correct statement if 
+false.
+1. Asexual reproduction involves mitotic cell division.
+2. Asexually produced ofspring are genetically identica l to their parents.
+3. Sexual reproduction involves single parent.
+4. Sexually produced ofspring are identical to their parent.
+Q.4.   Short questions
+1. What changes occur in ovulation and menstruation during p regnancy?
+2. What is the diference between oogenesis and spermatogen esis in humans?
+3. How is a seed formed?
+4. What is the importance of seed in the life cycle of a p lant.2818. Reproduction eLearn.Punjab
+Q3.   Extensive questions.
+1. What structures are associated with the human female re productive system? What 
+are their functions?
+2. What are the functions of placenta during pregnancy?
+3. Describe human menstrual cycle.
+4. Write notes on the following:
+                                 (a) Parthenogenesis
+                                 (b) Herpes Genitalia
+                                 (c)   Asexual reproduction
+                                  (d)  Seedless fruits

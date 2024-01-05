@@ -1,0 +1,1580 @@
+CHAPTER
+3  GASES 
+Animation 3.1: Boyle’s Law
+Source & credit: wikipedia23.GASES eLearn.Punjab
+3.1  STATES OF MATTER
+Matter exists in four states i.e., solid, liquid, gas and plas ma. The simplest form of matter is the 
+gaseous state and most of matter around us is in the solid state.
+Liquids are less common than solids, gases and plasmas. T he reason is that the liquid state of any 
+substance can exist only within a relatively narrow range of temp erature and pressure.
+Let us look at the general properties of gases, liquids and solids . Kinetic molecular theory of gases 
+can help us understand their properties.
+Animation 3.2.: States of Matter
+Source & Credit: knockhardy33.GASES eLearn.Punjab
+3.1.1  Properties of Gases
+1. Gases don’t have a deinite volume and occupy all the available space.  The volume of a gas is the 
+volume of the container.
+2. They don’t have a deinite shape and take the shape of the container jus t like liquids.
+3. Due to low densities of gases, as compared to those of liquids and s olids, the gases bubble 
+through liquids and tend to rise up.
+4. Gases can difuse and efuse. This property is negligible in sol ids but operates in liquids as well.
+5. Gases can be compressed by applying a pressure because there ar e large empty spaces between 
+their molecules.
+6. Gases can expand on heating or by increasing the availabl e volume. Liquids and solids, on the 
+other hand, do not show an appreciable increase in volume when they  are heated.
+7. When sudden expansion of gases occurs cooling takes place, i t is called Joule Thomson efect.
+8. Molecules of gases are in a constant state of random motion They can exert a certain pressure 
+on the walls of the container and this pressure is due to the number  of collisions.
+9. The intermolecular forces in gases are very weak.
+3.1.2  Properties of Liquids
+6. Liquids don’t have a deinite shape but have a deinite volume. Unlike s olids they adopt the 
+shape of the container.
+7. Molecules of liquids are in a constant state of motion. The evaporation and difusion of liquid 
+molecules is due to this motion.
+8. The densities of liquids are much greater than those of gases but are close to those of solids.
+9. The spaces among the molecules of liquids are negligible just li ke solids.
+10. The intermolecular attractive forces in liquids are intermediate between  gases and solids. The 
+melting and boiling points of gases, liquids and solids depen d upon the strength of such forces.
+11. Molecules o f liquids possess kinetic energy due to their motion. Li quids can be converted 
+into solids on cooling i.e., by decreasing their kinetic energ y. Molecules of liquids collide among 
+themselves and exchange energy but those of solids can not do so.43.GASES eLearn.Punjab
+3.1.3  Properties of Solids
+1. The particles present in solid substances are very close to each other  and they are tightly packed. 
+Due to this reason solids are non-compressible and they cannot difus e into each other.
+2. There are strong attractive forces in solids which hold the particles  together irmly and for this 
+reason solids have deinite shape and volume.
+3. The solid particles possess only vibrational motion.
+3.1.4  Units of Pressure:  
+The pressure of air that can support 760 mmHg column at sea l evel, is called one atmosphere. It 
+is the force exerted by 760mm or 76cm long column of mercury on a n area of 1cm2 at 0°C.It is the 
+average pressure of atmosphere at sea level 1mmHg=1torr. The S.I. uni t of pressure is expressed 
+in -2Nm. One atmospheric pressure i.e 760 torr is equal to 101325  -2Nm.
+1pascal=1  -2Nm. So, 760 torr = 101325Pa = 101.325 kilopascals (kpa is  another unit of pressure)
+The unit pounds per square inch (psi) is used most commonly i n engineering work, and 1 atm = 760 
+torr=14.7 pounds -2inch . The unit millibar is commonly used by meteorologists.
+3.2 GAS LAWS
+It is a matter of common observation that when external conditions of temp erature and pressure 
+are changed, the volume of a given quantity of all gases is afected.  This efect is nearly the same 
+irrespective of the nature of the gas. So gases show a uniform beha viour towards the external 
+conditions. The gas laws describe this uniform behaviour of ga ses. The relationships between 
+volume of a given amount of gas and the prevailing conditions of temp erature and pressure are 
+called the gas laws. Diferent scientists, like Boyle, Charles, Gra ham and Dalton have given their 
+laws relating to the properties of gases.53.GASES eLearn.Punjab
+3.2.1 Boyle’s Law
+In Boyle’s law the pressure and volume are variables while the temper ature and quantity of a gas 
+remains constant. Boyle’s law is stated as follows:-
+The volume of a given mass of a gas at constant temperatur e is inversely proportional to the 
+pressure applied to the gas.
+So 
+Va1/P (when the temperature and number of moles are constant)
+ or V=k/p
+ PV = k (when T and n are constant)   (1)
+‘k’ is proportionality constant. The value of k is diferent for the d iferent amounts of the same gas.
+According to the equation (1), Boyle’s law can also be deined as The product of pressure and 
+volume of a ixed amount of a gas at constant temperature i s a constant quantity.  
+So P1V1 = k and P2V2 = k
+Hence P1V1 = P2V2
+Animation 3.3: Boyle’s Law
+Source & credit: wikipedia63.GASES eLearn.Punjab
+P1V1 are the initial values of pressure and volume, while P2V2 are the inal values of pressure and 
+volume.
+3.2.2  Experimental Veriication of Boyle’s Law
+The following diagram Fig. (3.1) indicates that at constant temp erature say at 250C,the volume of a 
+given quantity of a gas is reduced in proportion to the increase in pressure. Let us take a gas in a 
+cylinder having a moveable piston. 
+The cylinder is also attached with a manometer to read the pressure of  the gas directly. Let the 
+initial volume of gas is 1 dm3 and its pressure is 2 atmospheres when the piston has one weigh t on 
+it. When the piston is pressed twice with the help of two equal weig hts, the pressure becomes four 
+atmospheres.
+Similarly, when the piston is loaded with a mass three times grea ter, then the pressure becomes 
+six atmospheres. The initial volume of the gas at two atmospheres i s 1 dm3 it is reduced to 1/2 dm3 
+and then 1/3 dm3 with increase of weights, respectively Fig (3.1).
+ P1V1 = 2 atm x 1 dm3 = 2 dm3 atm = k
+P2V 2 = 4 atm x 1/2 dm3 = 2 dm3 atm = k
+P 3V 3 =  6 atm x  1/3 dm3 = 2 dm3 atm = k
+Hence Boyle’s law is veriied.
+The value of k will remain the same for the same quantity of a ga s at the same temperature.Fig (3.1) Veriication of Boyle’s Law73.GASES eLearn.Punjab
+Example 1
+A gas having a volume of 10 dm3 is enclosed in a vessel at 00C and the pressure is 2.5 atmospheres. 
+This gas is allowed to expand until the new pressure is 2 atm ospheres. What will be the new volume 
+of this gas, if the temperature is maintained at 273 K.
+Solution
+Initial volume of gas (V1)
+Initial temperature (T1)
+Initial pressure (P1)
+Final pressure (P2)
+Final temperature (T2)
+Final volume (V2)= 10 dm3
+= 00C + 273 K = 273 K
+= 2.5 atm
+= 2 atm
+= 273 K
+= ?
+Since the temperature is constant ( T1= T2) Boyle’s law is applicable
+P1V1= P2V2 (when T and n are constant)
+V2  = P1V1
+          P2
+V2  =2.5 atm x 10 dm3
+               2 atm
+= 12.5 dm3 Answer
+3.2.3 Graphical Explanation of Boyle’s Law
+Let us take a particular amount of a gas at a constant temperature 
+say 00C and enclose it in a cylinder having a piston in it. When 
+the pressure of the gas is varied, its volume changes. Increase 
+in pressure decreases the volume. If a graph is plotted between 
+pressure on the x-axis (abscissa) and volume on the y-axis 
+(ordinate), then a curve is obtained as shown in the Fig (3.2 ). This 
+curve is called isotherm ‘iso’ means same, “therm” means heat. 
+Now increase the temperature of the gas to 25°C.
+Fig (3.2) Isotherm of a gas at 0 0C.83.GASES eLearn.Punjab
+Keep this temperature constant and again vary the pressure and 
+volume, and plot the isotherm. It goes away from both the axes 
+Fig (3.3). The reason is that at higher temperature, the volume of 
+the gas has increased. Similarly, if we increase the tempe rature 
+further, make it constant and plot another isotherm, it further 
+goes away from the axis.
+If a graph is plotted between  1/V on x-axis and the pressure P  on 
+the y-axis then a straight line is obtained as shown in the Fig 
+(3.4). This shows that the pressure and inverse of volume  are 
+directly proportional to each other. This straight line will  meet 
+at the origin which means that when the pressure is very close to 
+zero, then the volume is  so high that its inverse is very close to 
+zero.
+By increasing the temperature of the same gas from T1 to T2 and 
+keeping it constant, one can vary pressure and volume. The graph 
+of this data between P and 1/V  will give another straight line. This 
+straight line at T2 will be closer to the pressure-axis Fig (3.4).
+Now, plot a graph between pressure on x-axis and the product PV  on 
+Y-axis. A straight line parallel to the pressure axis is obta ined  Fig(3.5). 
+This straight line indicates that 'k' is a constant quantity. 
+At higher constant temperature, the volume increase and value 
+of product PV should increase due to increase of volume at same 
+pressure, but PV remains constant at this new temperature and a 
+straight line parallel to the pressure axis is obtained. This type of 
+straight line will help us to understand the non-ideal behaviour  
+of gases. Boyle's law is applicable only to ideal gases.
+Fig (3.3) Isothermes o f a gas at different
+temperatures.
+Fig (3.5) A plot between pressure
+and product of P VFig (3.4) A plot between P and  1
+V93.GASES eLearn.Punjab
+3.2.4 Charle s 's Law
+It is a quantitative relationship between 
+temperature and volume of a gas and was given 
+by French scientist J. 
+Charles in 1787. According to this law, the 
+volume of the given mass of a gas is directly 
+proportional to the absolute temperature 
+when the pressure is kept constant.
+V a T (when pressure 
+and number of moles 
+are constant)
+V = kT
+V/T=k
+If the temperature is changed from T1 to T2 and 
+volume changes from V1 to V2  , then
+V1/T1=k and V2/T2=k
+So,    V1/T1= V2/T2               ................................. (2)
+The ratio of volume to temperature remains constant for same amount of ga s at same pressure.
+3.2.5 Experimental Veriication of Charles ‘s Law
+Let us consider a certain amount of a gas enclosed in a cylinder  itted with a movable piston. The 
+volume of the gas is V1 and its temperature is T1. When the gas in the cylinder is  heated both 
+volume and the temperature of the gas increase. Animation 3.4: Charle s 's Law
+Source & Credit: docsity103.GASES eLearn.Punjab
+The new values of volume and temperature are V2  and 
+T2  respectively Fig(3.6). Experiment shows that
+V1/T1= V2/T2 
+Hence Charles’s law is veriied.
+Example 2
+250 cm3 of hydrogen is cooled from 127oC to -27°C by 
+maintaining the pressure constant Calculate the new 
+volume of the gas at low temperature.
+Solution
+Pressure has been kept constant so this gas is obeying the Charl es’s law.
+Initial volume (V1) = 250 cm3 = 0.25 dm3
+Initial temperature (T1) = 127 °C + 273 K = 400 K
+Final temperature (T2) = -27 °C + 273K - 246 K
+Final volume (V2) = ?
+According to Charles’s law
+V1/T1= V2/T2  (when pressure and number of moles are constant)
+V2 = V1x T2
+                    T1
+V2 = 0.25 dm3 x 246K    = 0.153 dm3 = 153 cm3 Answer
+               400 K
+So by decreasing the temperature the volume of the gas has decreased  at constant pressure.
+Fig (3.6) Veriication of Charles's law113.GASES eLearn.Punjab
+3.2.6 Derivation of Absolute Zero
+In  order to derive absolute zero of temperature, consider the following qu antitative deinition of 
+Charles’s law.
+At constant pressure, the volume of the given mass of a gas increa ses or decreases by 1/273 of its 
+original volume at 0oC for every 1 °C rise or fall in temperature respectively.
+In order to understand the above statement, look at the Table (3.1) of tem perature volume data of 
+a hypothetical gas. At 0 oC the volume of the gas taken is 546 cm3 It is twice 273cm3, and is being 
+supposed for the sake of convenience of understanding. At 273 oC, the volume of the gas has 
+doubled (1092 cm3) and it should become practically zero at -273oC. The general equation to know 
+the volumes of the gas at various temperatures is
+Vt = Vo(1+ 273t  ) ………. (3)
+Where        Vt = volume of gas at temperature T
+Vo = Volume of gas at 0oC
+t = Temperature on centigrade or celsius scale
+If a gas is warmed by 1oC, it expands by 1
+273 of its original volume at 0oC. Since original volume is 
+546 cm3 ,so, for 1oC rise in temperature, 2 cm3  increase in volume will take place. 2cm3 is the 1
+273 of 
+546 cm3. Similarly, for 100 oC rise in temperature, a change of 200 cm3 will take place. The 
+Table (3.1) shows that the volume does not increase corresponding to i ncrease in temperature on 
+celsius scale. For example, the increase in temperature from 10 oC to 100 oC, increases the volume 
+from 566cm3 to 746cm3.
+Applying Charles’s law 
+        12
+12VV=TT
+566 746
+10 100≠
+The two sides of equation are not equal. So, Charles’s law is not b eing obeyed when temperature 
+is measured on the Celsius scale.
+For this reason a new temperature scale has been developed. It starts fr om 273 °C (more precisely 
+-273.16 °C) which is called zero Kelvin or zero absolute. Let us now explain how the new temperature 
+scale has been developed. The best way is to plot a graph between the var iables of Charles’s law.123.GASES eLearn.Punjab
+Table(3.1) volume-Temperature data for a given amount of a gas at constant 
+pressure
+Volumes (cm3) CelsiusTemperature (oC)Temperature (K)V
+T= k = cm3 K-1
+1092 273 546 2
+846 150 423 2
+746 100 373 2
+646 50 323 2
+566 10 283 2
+548 1 274 2
+546 0 273 2
+544  -1 272 2
+526  -10 263 2
+400  -73 200 2
+346  -100 173 2
+146 -200 73 2
+0 -273 0
+Graphical Explanation
+If we plot a graph between temperature on x-axis and 
+the volume of one mole of an ideal gas on y-axis, we 
+get a straight line which cuts the temperature axis at 
+-273.16 °C. This can be possible only if we extrapolate 
+the graph upto -273.16 oC. This temperature is the 
+lowest possible temperature, which would have been 
+achieved if the substance remains in the gaseous 
+state Fig (3.7). Actually, all the gases are converted 
+into liquids above this temperature.
+Fig (3.7) The graph between volume
+and temperature for a gas according
+to Table (3.1).133.GASES eLearn.Punjab
+Charles’s  law is obeyed when the temperature is taken on the Kelvin  scale. For example, at 283 K 
+(10 oC) the volume is 566 cm3, while at 373 K (100 oC) the volume is,746cm3 Table (3.1). According to 
+Charles’s law. 
+12
+12VV=TT =K
+566 7462283 373K = = =
+Greater the mass of gas taken, greater will be the slope of straight line. The reason is that greater 
+the number of moles greater the volume occupied. All these straight lin es when extrapolated meet 
+at a single point of -273.16 °C ( 0 Kelvin). It is apparent that this temperature of -273.16 °C will be 
+attained when the volume becomes zero. But for a real gas the zero volume i s impossible which 
+shows that this temperature can not be attained for a real gas. Thi s is how we recognize that 
+-273.16 °C must represent the coldest temperature.
+3.2.7 Scales of Thermometry
+There are three scales of thermometery which are used for temperature meas urements.
+(a) Centigrade Scale:  It has a zero mark for the temperature of ice at one atmospheric pr essure. 
+The mark 100°C indicates the temperature of boiling water at 1 a tmospheric pressure. The space 
+between these temperature marks is divided into 100 equal parts and  each part is 1°C.
+(b) Fahrenheit Scale: The melting point of ice at 1 atmospheric pressure has a mark 3 2°F and that 
+of boiling water is 212 oF. The space between these temperature marks is divided into 180 equ al 
+parts and each part is 1 oF.
+(c) Absolute or Kelvin Scale: The melting Point of ice at 1 atmospheric pressure is 273K. The water 
+boils at 373K or more precisely at 373.16K. 
+Temperature on Kelvin scale = Temperature °C + 273.16 
+Following relationships help us to understand the interconversion of  various scales of temperatures.
+K = ° C + 273.16
+°C = 5/9[°F-32]
+oF =9/5(°C)+32143.GASES eLearn.Punjab
+3.3 GENERAL GAS EQUATION 
+While describing Boyle’s and Charles’s laws, some of the varia bles are held constant during the 
+changes produced in the gases. According to Boyle’s law.
+1VP∝
+  (when ‘n‘ and ‘T’ are held constant)
+According to Charles’s law
+VT∝ (when n and P are held constant)
+It is a well known fact that volume of the given gas at constant temper ature and pressure is directly 
+proportional to the number of moles (Avogadro’s law).
+Vn∝ (when Pand T a re held constant)
+If we think for a moment that none of the variables are to be kept consta nt then all the
+above three relationships can be joined together.
+     nTVP∝
+    V= Constant nT
+P
+The constant suggested is R which is called general gas constan t.
+        nTV=RP
+PV = nRT ............ (4)
+The equation (4)  is called an ideal gas equation. It is als o known as general gas equation. This equation 
+shows that if we have any quantity of an ideal gas then the pr oduct of its pressure and volume is 
+equal to the product of number of moles, general gas constant and ab solute temperature. This 
+equation is reduced to Boyle’s law, Charles’s law and Avogadro’s  law, when appropriate variables 
+are held constant.
+PV = nRT, when T and n are held constant, PV = k (Boyle’s l aw)
+V = R nT
+P, when P and n are held constant, V = kT (Charles’s law)
+ V = R nT
+P , when P and T are held constant V = kn (Avogadro’s law)
+For one mole of a gas, the general gas equation is
+PV = RT or   PV
+T= R153.GASES eLearn.Punjab
+It means that ratio of PV to T is a constant quantity (molar gas c onstant) 
+Hence
+11
+1PV
+T = R     22
+2PV
+T =R
+Therefore,
+11
+1PV
+T = 22
+2PV
+T      ...........      (5)
+3.3.1 Ideal Gas Constant R
+The values and units of R can be calculated by Avogadro's pri nciple very easily. Its value depends 
+upon the units chosen for pressure, volume and temperature. The volume of one mole of an ideal 
+gas at STP (one atmospheric pressure and 273.16 K ) is 22.4 14 dm3.
+Putting these values in the general gas equation will give the value of R.
+R= PV
+nT
+Putting their values, alongwith units
+R= 31 atm x 22.414 dm
+1 mole x 273.16 K
+R = 0.0821 dm3 atm K-1 mol-1
+When the pressure is in atmospheres, volume in dm3, then the value of R, used should be 0.0821 
+dm3  atm K-1 mol-1
+The physical meanings of this value is that, if we have one mole of  an ideal gas at 273.16 K and 
+one atmospheric pressure and its temperature is increased by 1 K, then it will absorb 0.0821 dm3 
+-atm of energy, dm3 -atm is the unit of energy in this situation. Hence, the value of R i s a universal 
+parameter for all the gases. It tells us that the Avogadro’s number of  molecules o f all the ideal 
+gases have the same demand of energy.163.GASES eLearn.Punjab
+If the  pressure is expressed in mm of mercury or torr and the vol ume of the gas in cm3 then 
+values of R are,
+R = 0.0821 dm3 atm K-1 mol-1
+= 0.0821 x 760 dm3 mm Hg K-1 mol-1
+= 62.4 dm3 mm Hg K-1 mol-1 Since, (1 mm o f Hg = 1 to rr)
+= 62.4 dm3 torr K-1 mol-1
+= 62400 cm3 torr K-1 mol-1 As, (1 dm3 = 1000 cm )
+Using SI units of pressure, volume and temperature in the general equ ation, the value of R is 
+calculated as follows. The SI units of pressure are Nm-2 and of volume are m3. By using Avogadro’s 
+principle
+1 atm = 760 torr = 101 325 Nm-2
+lm3 = 1000 dm3
+n = 1 mole
+T = 273.16 K
+P = 1 atm = 101325 Nm-2
+V = 22.414 dm3 = 0.022414 m3
+Putting their values, alongwith units.
+R= PV
+nT = -2 3101325 N m  x 0.0224l m
+1 mol x 273.16 K
+  R = 8.3143 Nm K-1 mol-1 = 8.3143 J K-1 mol-1 (1 Nm = 1J)
+Since 1cal. = 4.18 J
+so R=8.3143
+4.18= 1.989cal K-1 mol-1
+Keep in mind that, wherever the pressure is given in Nm-2 and the volume in m3, then the value of 
+R used must be 8.3143 JK-1 mol-1.
+3.3.2 Density of an  ideal Gas
+For calculating the density of an ideal gas, we substitute the valu e of number of moles (n) of the 
+gas in terms of the mass (m), and the molar mass (M) of the ga s.
+ n= m
+M
+PV = m
+M RT   .................  (6)173.GASES eLearn.Punjab
+Equation (6 ) is an  other form of general gas equation that may  be employed to calculate the mass 
+of a gas whose P, T, V and molar mass are known. Rearrang ing equation (6)
+PM = m
+V R T
+PM = d RT         (d= m
+V) 
+d= PM
+RT                 .................................. ..... (7) 
+ 
+Hence the  density of an ideal gas is directly proportional to its m olar mass. Greater the pressure 
+on the gas, closer will be the molecules and greater the density. H igher temperature makes the 
+gases to expand, hence density falls with the increase in temperatu re. With the help of equation 
+(7), one can calculate the relative molar mass (M ) of an id eal gas if its temperature, pressure and 
+density are known.
+Example 3
+A sample of nitrogen gas is enclosed in a vessel of volume 380 cm3 at 120 oC and pressure of 101325 
+Nm-2 .This gas is transferred to a 10 dm3 lask and cooled to 27oC. Calculate the pressure in Nm-2 
+exerted by the gas at 27oC.
+Solution
+All the three parameters of this gas have been changed, so we can s olve this problem
+by using the general gas equation of the form 11
+1PV
+T = 22
+2PV
+T
+Preferably, convert the volume to dm3 and temperature to Kelvin scale.
+Initial volume of the gas (V1)   = 380 cm3 = 0.38 dm3
+Initial temperature (T1)    = 120 °C + 273 K = 393 K
+Initial pressure (P1)    = 101325 N m-2
+Final temperature (T2)    = 27oC + 273 K = 300 K
+Final volume (V2)     = 10 dm3
+Final pressure (P2)    = ?
+11
+1PV
+T = 22
+2PV
+T183.GASES eLearn.Punjab
+P2 = 11
+1PV
+T x 2
+2T
+V
+23
+2 3101325 0.38 300
+393 10Nm dm KpK dm−××=×
+=2938.4Nm-2 Answer
+Example 4
+Calculate the density of CH4 (g) at 0 °C and 1 atmospheric pressure. What will happen to the density 
+if (a)temperature is increased to 27 °C, (b) the pressure is i ncreased to 2 atmospheres at 0 °C.
+Solution
+Temperature of the gas   = 0°C + 273 K - 273 K
+Pressure of the gas             = 1atm
+Molecular mass of the gas             =16g mol-1 
+Gas constant (R)                               = 0.0821  dm3 atm K-1 mol-1 
+Formula for density of a gas at any temperature and pressure
+                           d    = PM
+RT
+Putting values  d  −
+−−=1
+3 111   16  
+0.0821      273  atmx gmol
+dm atmK mol x K
+Simplifying the units   d = −3 1  1 6 0.0821=    273xgdmx
+d  3  0.7138   gdm Answer−=
+It means that under the given conditions 1 dm3 of CH4 gas has a mass of 0.7138 g.193.GASES eLearn.Punjab
+(a) Density at 27 °C
+Temperature = 27 + 273 = 300 K
+Putting values in the equation of density and simplifying the u nits.
+  d -1
+-3
+3 -1 -1PM  1 atm x 16 g mol 0.649 g dmRT  0.0821  dm  =  =  = .atm.K  .mol  x 300 K
+So, by increasing the temperature from 0°C to 27°C the density of ga s has decreased from 0.7138 g dm-3 to 
+0.649 g dm-3. The increase of temperature makes the molecules of a gas to move away from each other.
+(b ) Density at 2 atmospheric pressure and 0°C
+T = 0 + 273 = 273 K
+P = 2 atm
+Putting values in the equation and simplifying the units.
+d  -1
+-3
+3 -1 -1PM 2 atm x 16 g mol1 .427 g dmRT 0.0821  dm  .atm.=  =            K .= mol  x 273 K
+The increase of pressure has increased the density of CH4. The density has almost doubled by doubling the 
+pressure. The reason is that increase of pressure makes the molec ules to come close to each other.
+Example 5
+Calculate the mass of 1 dm3 of NH3 gas at 30 °C and 1000 mm Hg pressure, considering that NH3 is 
+behaving ideally.
+Solution
+Pressure of the gas   1000= 1000 mm Hg  =  = 1.315 atm760
+Volume of the gas    = 1dm3
+Temperature of the gas   = 30oC + 273 K = 303 K
+Molecular mass of the gas  = 17 g mol-1203.GASES eLearn.Punjab
+General gas equation PV  ( )m=   RT can be used to calculate the mass  m  of the gas.M
+Rearranging m  PVM= RT
+Putting values along with units
+     3 -1
+3 3 -1 -11.315 atm  x 1 dm  x  17 g molMass of NH  = 0.0821 dm  atm  K mol x 303 K
+Simplifying the units
+     31.315 x 1 x 17gMass of NH  =  = 0.907 g   Answer0.0821 x 303
+This is the mass of 1 dm3 of NH3 under the given conditions. In other words, it is the density of NH3, if it is acting 
+as an ideal gas.
+3.4 AVOGADRO’S LAW
+According to this law, “equal volumes of all the ideal gases at the same temperat ure and 
+pressure contain equal number of molecules”.  This statement is indirectly the same as has been 
+used for evaluating the general gas constant R i.e., one mole of an i deal gas at 273.16K and one atm 
+pressure has a volume of 22.414 dm3. Since one mole of a gas has Avogadro’s number of particles, 
+so 22.414 dm3 of various ideal gases at S T P will have Avogadro’s number of molecules i.e. 6.02 x 
+1023. 22.414 dm3 of a gas at 273.16 K and one atmospheric pressure has number  of molecules = 
+6.02 x1O23.
+ In other words, if we have one dm3 of each of H2, He, N2, O2 , and CO in separate vessels at STP, 
+then the number of molecules in each will be 2.68 x 1022 This is obtained by dividing 6.02x 1023 with 
+22.414 dm3 .
+Similarly, when  the temperature or pressure are equally changed  for these four gases, then the 
+new equal volumes i.e. 1dm3 each will have the same number of molecules i.e. 2 . 6 8 x 1022.
+No  doubt, one dm3 of H2 at STP weighs approximately 0.0899 grams and one dm3 of O2 at STP 
+weighs 1.4384 g, but their number of molecules are the same. Alth ough, oxygen molecule is 16 
+times heavier than hydrogen, but this does not disturb the volume occupi ed, because molecules of 
+the gases are widely separated from each other at STP One molecule is approximately at a distance 
+of 300 times its own diameter from its neighbour at room temperature.213.GASES eLearn.Punjab
+3.5 DALTON’S LAW OF PARTIAL PRESSURES
+John Dalton studied the mixtures o f gases and gave his law of par tial pressures. According to this 
+law, the total pressure exerted by a mixture of non-reactin g gases is equal to the sum of their 
+individual partial pressures . Let the gases are designated as 1,2,3, and their partial press ures are 
+p1, p2, p3.The total pressure (P) of the mixture of gases is given by
+    Pt = p1+ p2 + p3
+The partial pressure of a gas in a mixture of gases is the p ressure that it would exert on the walls of 
+the container, if it were present all alone in that same volume under th e same temperature.
+Let us have four cylinders of same volume, i.e., 10 dm3 each and three gases H2, CH4 and O2 are 
+separately enclosed in irst three of them at the same temperature. Let their partial pressures be 
+400 torr, 500 torr and 100 torr respectively. 
+All these gases are transferred to a fourth cylinder of capacity 1 0 dm3 at the same temperature. 
+According to Dalton’s law
+   ( )
+2 42 t H CH O
+tP  = p  + p  + p = 400 + 500 + 100  torr
+                             P  =  1000 t orr
+These three non-reacting gases are behaving independently under the n ormal conditions. The 
+rapidly moving molecules of each gas in a mixture have equal op portunities to collide with the walls 
+of the container. Hence, each gas exerts a pressure independent of th e pressure of other gases. 
+The total pressure is the result of total number of collisions per un it area in a given time.
+Molecules of each gas move independently, so the general gas equation (PV = nRT ) can be applied 
+to the individual gases in the gaseous mixture. 
+2 2 22 2 2
+4 4 4 2 4
+2 2 22H H HH H H
+CH CH4 CH CH CH CH
+O O O ORTp V  =n RT                      p  =n                    p        nV
+RTp V  =n RT                  p  =n                 p      nV
+RTp V  =n RT                      p  =nVa
+a
+22OO                    p        n
+RTis a constant factor for each gas.Va223.GASES eLearn.Punjab
+All these gases have their own partial pressures. Since volumes a nd temperatures are the same, so 
+their number of moles will be diferent and will be directly propor tional to their partial pressures.
+Adding these three equations
+2 42
+2 42
+2 42t H CH O
+t H CH O
+t t t H CH O
+ttP  = p  + p  + p
+RT      P  = (n  + n  + n ) V
+RT      P  = n                   where   n  =  n  + n  + nV
+      P V = n RT................ (8)
+According  to equation (8), the total pressure of the mixture of gases  depends upon the total 
+number of moles of the gases.
+3.5.1 Calculation of Partial Pressure of a Gas
+The partial pressure of any gas in a mixture of gases can b e calculated, provided one knows the 
+mass of that gas or its number of moles alongwith the total pressur e and the total number of moles 
+present in the mixture.
+In order to have a relationship, let us suppose that we have a mixture of gas A and gas B. This 
+mixture is enclosed in a container having volume (V). The total pr essure is one atm.
+The number of moles of the gases A and B are nA and nB respectively. If they are maintained at 
+temperature T, then
+    tt
+AA
+BBP V = n RT 
+p V = n RT 
+p V = n RT ........... (equation for the mixture of gases)
+ ........... (equation for gas A )
+ ........... (equation for gas B)
+Divide the irst two equations
+   AA
+tt
+AA
+tt
+A
+At
+t
+At A   = 
+   =                                                  . . . . . . . . . .  (9)
+ =                                                . . . . . . . . . .  (1p V n RT
+P V n RT
+pn
+P
+0)
+ = n
+x npP
+p   n
+P
+BA
+Bt                (x  is mole fraction of gas A)
+ = x    pP233.GASES eLearn.Punjab
+Similarly
+Partial pressure of a gas is the mole fraction of that gas mul tiplied by the total pressure of the 
+mixture. Remember that mole fraction of anyone of the gases in the mi xture is less than unity. 
+Moreover, the sum of mole fractions is always equal to unity.
+Example 6
+There is a mixture of hydrogen, helium and methane occupying a vessel of volume 13 dm3 at 37 °C 
+and pressure of 1 atmosphere. The masses of H2 and He are 0.8 g and 0.12 g respectively. Calculate 
+the partial pressures in torr of each gas in the mixture.
+Solution
+Volume of the mixture of gases 
+Temperature of the mixture
+Pressure of the mixture
+First calculate the total number of moles present in the mixture of ga ses by applying the general gas equation.
+Since
+      PV = nRT
+PVn    = RT or 
+Putting values along with the units and simplifying
+    
+ 
+ =
+= +=
+=3 13 
+ 37  273  310 
+ 1 dm
+K
+atm
+3
+3 -1 -1
+241 atm x 13 dm0.51 moles0.0821 dm  atm. K  mol      x 310 K
+So, the to                       
+tal number of moles of         
+H , He         n   =    
+and CH = 0.51 m  = 
+oles243.GASES eLearn.Punjab
+(Being a ratio mole fraction has no units.)
+The sum of  individual pressures i.e. 589.76.44.08 and 12 4.64 is almost 760 mm of Hg, i.e. total 
+pressure of the mixture.
+3.5.2 Applications of Dalton’s Law of Partial Pressur es
+Following are the four important applications of Dalton’s Law of pa rtial pressures.
+1.  Some gases are collected over water in the laboratory. The gas d uring collection gathers 
+water vapours and becomes moist. The pressure exerted by this moist gas is, therefore, the sum of 
+the partial pressures of the dry gas and that of water vapours. ( )22 2       
+                                                          0.776  1.00  0.776 
+                                       
+                     0.776 760  589.76 HH Partialpressureof H p X P
+x atm
+x torr=
+==
+==
+( )           P
+                                                          0.058  1.00  0.058 
+                                                          0.058  760  44.08 He He Partialpressureof He p X
+x atm
+xt=
+==
+==
+( )44 4    C       P
+                                                          0.164  1.00  0.164 
+                                                          0.164  760  12CH CHorr
+Partialpressureof H p X
+x atm
+x=
+==
+== 4.64       mmof Hg Answer2
+2
+2 -1Mass of H                                         = 0.8 g
+mass of H 0.8 gNumber of moles of H                 =  =         = 0.40molar mass 2.0 g mol
+Mass of He                                        = 
+-1
+420.12 g
+mass of He 0.12 gNumber of moles of He                =  =           = 0.03molar mass 4 g mol
+Number of moles of CH               = total moles - moles of H - moles of He
+                         
+( )22
+2H                                      = 0.51 - 0.39 6 - 0.03
+                                          
+        
+                  
+     =   = 0.084
+no of moles of HMole fra  totalction o numberf H  X of 
+( )
+( )4He
+4
+4 CH0.40 =  = 0.784moles 0.51
+0.03=  =   = 0.058total number of mole 
+no of moles of HeMole fraction of He  X               
+no of moles of CH  Mole fraction s 0.51
+=  =total numofbe CH X       r of mol   es  0.084  = 0.1640.51253.GASES eLearn.Punjab
+The partial pressure exerted by the water vapours is called aqueous tension.
+   moist dry w.vap
+moist dry
+dry moistP      = p    +   p
+P      = p    +    aqueous tension
+p       =  P    -    aqueous tension
+While solving the numericals the aqueous tension is subtracted from the total pressure (P moist).
+2.  Dalton's law inds its applications during the process of r espiration. The process of respiration 
+depends upon the diference in partial pressures. When animals i nhale air then oxygen moves into 
+lungs as the partial pressure of oxygen in the air is 159 tor r, while the partial pressure of oxygen 
+in the lungs 116 torr. CO2 produced during respiration moves out in the opposite direction, as it's 
+partial pressure is more in the lungs than that in air.
+3.  At higher altitudes, the pilots feel uncomfortable breathing b ecause the partial pressure of 
+oxygen in the un-pressurized cabin is low, as compared to 159  torr, where one feels comfortable 
+breathing.
+4.  Deep sea divers take oxygen mixed with an inert gas say He and  adjust the partial pressure 
+of oxygen according  to the requirement. Actually, in sea after ever y 100 feet depth, the diver 
+experiences approximately 3 atm pressure, so normal air cannot be breathed in depth of sea. 
+Moreover, the pressure of N2 increases in depth of sea and it difuses in the blood.
+3.6 DIFFUSION AND EFFUSION 
+Diffusion
+According to the kinetic molecular theory of gases, the molecules of the gases move haphazardly. 
+They collide among themselves, collide with the walls of the vessel  and change their directions. In 
+other words the molecules of gases are scattered after collisions. 
+This spontaneous intermingling of molecules of 
+one gas with another at a given temperature and 
+pressure is called difusion.
+Fig (3.8) Diffusion263.GASES eLearn.Punjab
+The spreading of fragrance of a rose or a scent is due to 
+difusion. When two gases difuse into each other, they wish to 
+make their partial pressures same every where. Suppose NO2, 
+a brown coloured gas and O2, a colourless gas, are separated 
+from each other by a partition Fig (3.8).When the partition is 
+removed, both difuse into each other due to collisions and 
+random motion.
+A stage reaches when both gases generate a homogeneous 
+mixture and partial pressures of both are uniform throughout 
+the mixture.
+Effusion
+The efusion of a gas is it's movement through an extremely small open ing into a region of low 
+pressure. This spreading of molecules is not due to collisions, b ut due to their tendency to escape 
+one by one. Actually, the molecules of a gas are habitual in c olliding with the walls of the vessel. 
+When a molecule approaches just in front of the opening it enters the oth er portion of the vessel. 
+This type of escape of molecules is called of efusion  Fig( 3.9).
+3.6.1 Graham 's Law of Diffusion
+Thomas  Graham (1805 -1869), an English scientist, found that the rate of difusion or efusion 
+of a gas is inversely proportional to the square root of it's density at constant temperature and 
+pressure.
+( ) ∝1Rate of diffusion            at constant  temperature and pressure
+d
+kRate of diffusion =   
+d
+      Rate of diffusion x   d    = k
+or Rate x d    = k
+Fig (3.9) Escape of gas
+molecules through a hole is effusion.273.GASES eLearn.Punjab
+The constant k is same for all gases, when they are all studied  at the same temperature and pressure.
+Let us have two gases 1 and 2, having rates of difusion as r1 and r2 and densities as d1 and d2 respectively.
+According to Graham's law
+      11
+22r  x d   = k
+r  x d   = k
+Divide the two equations and rearrange
+Since the density of a given gas is directly proportional to its m olecular mass. Graham’s law of difusion can also 
+be written as follows.
+Where M1 and M2 are the molar masses of gases.
+Demonstration of Graham‘s Law
+This law can also be very easily veriied in the laboratory by noti ng the rates of  difusion of two 
+gases in a glass tube, when they are allowed to move from opposite end s Fig (3.10). Two cotton 
+plugs soaked in HCl and NH3 solutions are introduced in the open ends of 100 cm long tube 
+simultaneously. HCl molecules travel a distance of 40.5 cm wh ile NH3 molecules cover 59.5 cm 
+in the same duration. They produce dense white fumes of ammonium chloride at the point of 
+junction. So
+  1.46  =  1.46
+Hence the law is veriied.2 1
+2 1  =                            . . . . . . . . . . (11)dr
+rd
+2 1
+2 1  =                                . . . . . . . . . (12)Mr
+rM
+3
+3  =  NH HCI
+HCI NHrM
+rM
+59.5 36.5  =  40.5 17
+Fig (3.10) Veriication of Graham's law of diffusion283.GASES eLearn.Punjab
+Example 7
+250 cm3 of the sample of hydrogen efuses four times as rapidly as 250 cm3 of an unknown gas. 
+Calculate the molar mass of unknown gas.
+Solution
+Let the unknown gas is given the symbol X
+3.7 KINETIC MOLECULAR THEORY OF GASES
+The behaviour of gases has already been discussed in gas la ws. These laws were based on 
+experimental observations quite independent of nature of a gas. In order  to illustrate the 
+behaviour of gases quantitatively, Bernoulli (1738) put forward k inetic molecular theory of gases.
+This theory lead Clausius (1857) to derive the kinetic equation an d deduced all the gas laws from 
+it. The theory was later on elaborated and extended by Maxwell, who gave the law of distribution 
+of velocities. According to this law,molecules are in the form of grou ps having deinite velocity 
+ranges. Boltzmann also Contributed and studied the distribution of energies among the gas 
+molecules. Among some other names Van der Waal is the prominent sci entist in this ield.( )
+( )
+( )
+( )−2
+21
+2              = 1
+           =       
+       
+    4
+                               = 2 g mol
+   
+       x
+H
+H
+xRateof effusionof unknowngas r
+Rateof effusionof hydrogengas r
+Molar massof H gas M
+Molar massof unknowngas M
+2
+2               = ?
+                                                                               =  
+4                                                                                 = 12
+   H x
+xH
+xrM
+rM
+M
+−116                                                                            = 21
+                                                                               =  16  2 = 32 g mol  Answerx
+xM
+Mx293.GASES eLearn.Punjab
+ 
+Following are the fundamental postulates of this kinetic theory of g ases.
+1. Every gas consists of a large number of very small particles ca lled molecules. Gases like He, Ne, 
+Ar have monoatomic molecules.
+2. The molecules of a gas move haphazardly, colliding among them selves and with the walls of the 
+container and change their directions.
+3. The pressure exerted by a gas is due to the collisions of its molecu les with the walls of a container. 
+The collisions among the molecules are perfectly elastic.
+4. The molecules of a gas are widely separated from one another and ther e are suicient empty 
+spaces among them.
+5. The molecules of a gas have no forces of attraction for each other .
+6. The actual volume of molecules of a gas is negligible as c ompared to the volume of the gas.
+7. The motion imparted to the molecules by gravity is negligible as comp ared to the efect of the 
+continued collisions between them. 
+8. The  average kinetic energy of the gas molecules varies directly as  the absolute temperature of 
+the gas. 
+Keeping   in  view  the  basic     assumptions       given   above, R.J Clausius deduced an expression for the pressure 
+of an ideal gas. Actually,pressure on the walls of the vessel is due to collisions. Whenever the molecules 
+move they collide among themselves and with the walls of the container . Due to these collisions,a 
+force is exerted on the walls of the container. This force when di vided by the area of the vessel gives 
+force per unit area, which  is called  pressure. In this way , the  inal  form  of  kinetic equation is as follows.
+ −
+2 1PV =   mN                       . . . . . . . . . (1 3)3
+ c
+Where,
+P = pressure
+V = volume
+m = mass of one molecule of the gas
+N = number of molecules of gas in the vessel
+2c = mean square velocity303.GASES eLearn.Punjab
+The idea of the mean square velocity is important. All the molecules of a gas under
+the given conditions don’t have the same velocities. Rather diferent velocities are
+distributed among the molecules. To understand it study Maxwell’s law of distribution of
+velocities. If there are n1 molecules with velocity c1, n2 molecules with velocity c2, and so on
+then,
+    222
+2 123
+123c  + c  + c  + .......c  =                         . . . . . . . .      (14)n  + n  + n  + .......
+In this reference n1+n2+n3 .......=N
+2cis the average of the squares of all the possible velocities. When w e take the square root of this 
+2c, then it is called root mean square velocity (Crms). So, (Crms) = 2c
+The expression for the root mean square velocity deduced from the kinetic  equation is written as 
+follows.
+     rms
+rms3RT               C   =                   . . . . . . . . .    (15)M
+Where, C  = root mean square velocity
+               M     = molar mass of the  gas
+               T     = temperature
+This  equation (15) is a quantitative relationship between the abs olute temperature and the 
+velocities of the gas molecules. According to this equation, higher th e temperature of a gas, greater 
+the velocities. Kinetic equation can be used to explain gas laws.
+3.7.1 Explanation of Gas Laws from Kinetic Theory o f Gases
+Kinetic theory of gases gives birth to kinetic equation of gases, whic h can be employed to justify the 
+gas laws. In other words, it proves that gas laws get their explan ation from kinetic theory of gases
+(a) Boyle’s Law
+According to one of the postulates of kinetic theory of gases, the kinetic  energy is directly proportional
+to the absolute temperature of the gas. The kinetic energy of N molecules is 
+.so
+   2 1 mNc2
+2
+21 mNc       T2
+1 mNc   =    kT                          .  . . . . . . . . . .     (16)2∝313.GASES eLearn.Punjab
+Where k is the proportionality constant. According to the kinetic equa tion of gases
+     2 1PV=  mNc3
+Multiplying and dividing by 2 on right hand side
+  =2 21 ( mNc )                       . . . . . . . . .        (17)32PV
+Putting equation (16) into equation (17).
+   2PV=  kT                  . . . . . . . . .     (18)3
+If the temperature (T) is constant then right hand side of equation  (18) 2
+3 kT is constant. Let that 
+constant be k’.
+So, PV = k’ (which is Boyle’s law)
+Hence at constant temperature and number of moles, the product PV i s a constant quantity.
+(b) Charles’s law
+Consider the equation (18) which has just been derived
+Or
+At constant pressure,
+Therefore,
+or
+(c) Avogadro’s Law
+Consider two gases 1 and 2 at the same pressure P and having the same volume V.Their number 
+of molecules are N1 and N2 , masses of molecules are m1 and m2 and mean square velocities are 
+2
+1c and 2
+2c respectively. =2 3PV kT
+=22   = ( ) 33kT kVTPP
+2   = k" (a new constant)3
+                   V    = k" T
+                     = k" (which is Char les's law)k
+P
+V
+T323.GASES eLearn.Punjab
+Their kinetic equations can be written as follows:
+ 
+When the temperature of both gases is the same, their mean kinetic en ergies per molecule will also 
+be same, so
+Divide equation (19) by (20)
+12  =   NN
+Hence equal volumes of all the gases at the same temperature and press ure contain equal number 
+of molecules, which is Avogadro’s law.
+(d ) Graham‘s Law of Difusion
+Applying the kinetic equation
+If we take one mole of a gas having Avogadro’s number of molecules (N = NA) then the equation (13) 
+can be written as:
+or2
+1 11
+2
+2 22
+22
+1 11 2 22
+2
+1 11 2 221                               PV=  m N c    for gas(1)3
+1                               PV  m N c     for gas(2)3
+11      Equalizing    m N c  =    m N c   33
+           Hence,   m N c   =   m N c=
+2                . . . . . . . . .      ( 19)
+2 1     mN c3A PV=
+2 1  =  Mc   (M = mN )                . . . .  . . . . .      (21)3A PV22
+11 22
+22
+11 2211 m c    =      m c  22
+m c        =   m c               . . . . . .  . . .      (20)
+2 1     mNc              . . . . . . . . . .         (13)3PV=
+2 3c   =  PV
+M333.GASES eLearn.Punjab
+where M is the molecular mass of the gas
+Taking square root
+   2
+23PVc   =  M
+3P 3P Mc   =      =         (  = d )M/V d V
+'V' is the  molar volume of gas at given conditions. Since the root m ean square velocity of the gas is 
+proportional to the rate of difusion of the gas.
+so
+At constant pressure
+which is Graham’s law of difusion
+3.8 KINETIC INTERPRETATION OF TEMPERATURE
+According to kinetic molecular theory of gases the molecules of a ga s move randomly. They collide 
+among themselves, with the walls of the vessels and change their dir ections. The collisions are 
+elastic and the pressure of the gas is the result of these collision s with the walls of the container.
+Let us rewrite the kinetic equation of gases (13) as already mention ed
+    2 1PV  =   mNc             . . . . . . . . .      (13)3∞
+∞2c    r
+3r    P
+d
+∞1r        d343.GASES eLearn.Punjab
+2 21       N (    mc  )              . .  . . . . . . .     (23)32PV=Here m is the mass o f one molecule of the gas, N is the number of  molecules in the vessel and 2c  is 
+their mean square velocity. The average kinetic energy associated w ith one molecule o f a gas due 
+to its translational motion is given by the following equation.
+    =2
+k1E     m                   . . . . . . . . .       (22)2c
+Remember that Ek is the average translational kinetic energy of gas molecules.
+Equation (13) can be rewritten as:
+Putting equation (22) into (23)
+So
+Equation (24) gives an important insight into the meaning of tempera ture. To understand it, consider 
+one mole of a gas.
+So
+According to the general gas equation for 1 mole of a gas
+Comparing equation (4) and (25)
+     
+A2 N  E  = RT                        . . . . . . . . . . .     (26)3
+3R        E  =  T                   . . . . . . . . . . .      (27)2NAk
+k2       N E                  . . . . . . .  . . .      (24)3k PV=
+ = NAN
+2        N  E                 . . . . . . .  . . .      (25)3Ak PV=
+  =  RT               . . . . . . . . . .       (4) PV353.GASES eLearn.Punjab
+The equation (27) gives a new deinition of temperature according to wh ich the kelvin temperature 
+of a gas is directly proportional to the average translational kinetic  energy of its molecules. This 
+suggests that a change in temperature means change in the intensity  of molecular motion. When 
+heat lows from one body to another, the molecules in the hotter body give up some of their kinetic 
+energy through collisions to molecules in the colder body. This proc ess of low of heat continues 
+until the average translational kinetic energies of all the molecules become equal. This equalises 
+the temperature of both bodies. 
+In gases and liquids, temperature is the measure of average trans lational kinetic energies of 
+molecules. In solids, where molecules cannot move freely temperature becom es a measure of 
+vibrational kinetic energy. 
+Keeping in view this kinetic interpretation of temperature, w e have a way of looking at absolute 
+zero of temperature. It is that temperature at which the molecular motion s cease. The absolute 
+zero is unattainable. Anyhow, current attempts have resulted in temper ature as low as 10-5K.
+3.9 LIQUEF ACTION OF GASES
+3.9.1 General Principle of Liquefaction
+The conversion of a gas into a liquid requires high pressure a nd low temperature. High pressure 
+brings the molecules of a gas close to each other. Low temperature dep rives the molecules from 
+kinetic energy and attractive forces start dominating.
+For every gas there exists a temperature above which the gas cannot be li queied, no matter how 
+much pressure is applied. The highest temperature at which a substance can exist as  a liquid, 
+is called its  critical temperature (Tc). There is a corresponding pressure which is required to 
+bring about liquefaction at this critical temperature (Tc). This is called critical pressure (Pc).
+The critical temperature and the critical pressure of the substan ces are very important for the 
+workers dealing with the gases. These properties provide us the inf ormation about the condition 
+under which gases liquefy. For example, O2 has a critical temperature 154.4 K (-118.75 °C). It must 
+be cooled below this temperature before it can be liqueied by applying  high pressure. Ammonia is 
+a polar gas. Its critical temperature is 405.6 K (132.44 °C ), so it can be liqueied by applying suicient 
+pressure close to room temperature.363.GASES eLearn.Punjab
+Table (3.2) shows the critical parameters of some common substan ces. Non- polar gases of low 
+polarizability like Ar have a very low critical temperature. T he substances like H2O vapours and NH3 
+gas are among the polar gases and they have better tendencies to be liqu eied CO2, can not be 
+liqueied above 31.1 oC, no matter how much the pressure is applied. Anyhow, if tempera ture of 
+CO2 is maintained below 31.1 oC, then lower pressure than critical pressure is required to liq uefy 
+it. The value of the critical temperature of a gas depends upon its s ize, shape and intermolecular 
+forces present in it.
+When a gas is measured at its critical temperature and critica l pressure, then at that stage volume 
+of 1 mole of gas is called critical volume which is represented by Vc. The critical volume of O2 is 
+74.42 cm3 mol-1, of CO2 , is 95.65 cm3 mol-1 and that of H2 is 64.51 cm3 mol-1.
+Table (3.2) Critical Temperatures and Critical Pressur es of Some Substances
+Substance Critical Temperature Tc (K) Critical Pressure Pc (atm)
+Water vapours, H2O 
+Ammonia, NH3
+Freon-12 , CCl2F2
+Carbon dioxide, CO2
+Oxygen, O2
+Argon, Ar
+Nitrogen, N2  647.6 (374.44 °C) 
+405.6 (132.44 °C)
+384.7 (111.54 °C)
+304.3 (31.142 °C)
+154.4 (-118.75 °C) 
+150.9 (-122.26 °C)
+126.1 (-147.06 °C)217.0
+111.5
+39.6
+73.0
+49.7
+48
+33.5
+3.9.2 Methods of Liquefaction of Gases
+There are various methods to liquefy a gas . One of them is Linde’ s method. It is based on Joule-
+Thomson efect.
+Joule Thomson Efect
+Low temperature can be achieved by Joule-Thomson efect, according to wh ich when a compressed 
+gas is allowed to expand into a region of low pressure it gets cool ed.
+The molecules of the compressed gas are very close to each other and app reciable attractive 
+forces are present among them. When a gas is allowed to undergo sud den expansion through 
+the nozzle of a jet, then the molecules move apart. In this way energy is needed to overcome the 
+intermolecular attractions. This energy is taken from the gas its elf, which is cooled.373.GASES eLearn.Punjab
+Linde’s Method of Liquefaction of Gases
+Linde has employed Joule-Thomson efect as the basis for liquefaction . The apparatus designed for 
+this purpose is shown in the Fig (3.11).
+For the liquefaction of air, it is compressed to about 200 atmospheres , and then passed though a 
+water cooled pipe where the heat of compression is removed. It is th en allowed to pass through a 
+spiral pipe having a jet at the end. When the air comes out of the jet the expansion takes place from 
+200 atm. to 1 atm. In this way, considerable fall of temperatur e occurs. 
+This  cooled air goes up and cools the incoming compressed air.  It returns to the compression 
+pump. This process is repeated again and again. The liqui d air is collected at the bottom of the 
+expansion chamber. All gases except H2, and He can be liqueied by the above procedure.
+3.10 NON-IDEAL BEHAVIOUR OF GASES
+Whenever, we discuss gas laws it.is proposed that ideal gases ob ey them. Particularly an ideal gas 
+obeys Boyle’s law, Charles’s law and the general gas equation u nder all conditions of temperature 
+and pressure. Let us try to understand the behaviour of a few real g ases like H2, He, N2 and CO2 
+at °C.keeping in view the variation of the pressure on the gas and consequently the change in its 
+volume. 
+Fig (3.11) Linde's method for
+the liquefaction of air
+Animation 3.5.: Liquefaction
+Source& Credit: wikipedia383.GASES eLearn.Punjab
+For this purpose,  irst of all plot a graph between 
+pressure on x-axis and the   PV
+nRT  on Y-axis for an ideal 
+gas. 
+The factor PV
+nRT is called the compressibility factor. Its 
+value  is unity under all conditions for an ideal gas. 
+Since the increase of pressure decreases the volume 
+in such a way that PV
+nRTremains constant at a constant 
+temperature, so a straight line is obtained parallel to 
+the pressure axis. This is shown in the Figs (3.12 a, b).  
+All the real gases have been found to show marked 
+deviations from this behaviour. It is observed that the 
+graph for helium gas goes along with the expected horizontal dotted l ine to some extent but goes 
+above this line at very high pressures.
+lt means that at very high pressure the decrease in volume is not a ccording to general gas equation 
+and the value of  PV
+RT   has increased from the expected values. With this type of behaviou r, we 
+would say that the gas is non-ideal. 
+In the case of H2 the deviation starts even at low pressure in comparison to He. N2 shows a decrease 
+in PV
+RT  value at the beginning and shows marked deviation even at low pres sure than H2. CO2 has a 
+very strange behaviour as it is evident from the graph.
+The extent of deviation of these four gases shows that these gases have their  own limitations 
+for obeying general gas equation. It depends upon the nature of the g as that at which value of 
+pressure, it will start disobeying.
+When we study the behaviour of all these four gases at elevated temperatur e i.e., 100oC then the 
+graphs come closer to the expected straight line and the deviations are shifted towards higher 
+pressure. This means that the increase in temperature makes the g ases ideal Fig (3.12 b).
+This discussion on the basis of experimental observations, 
+convinces us that
+(i) Gases are ideal at low pressure and non-ideal at high 
+pressure
+(ii) Gases are ideal at high temperature and non-ideal at 
+low temperature.
+Fig (3.12 b) Non-ideal behaviour
+of gases at 100 °C.
+Fig (3.12 a) Non-ideal behaviour of gases 
+at 0 oC393.GASES eLearn.Punjab
+3.10.1 Causes for Deviations from Ideality
+It was van der W aals (1873) who attributed the deviation 
+of real gases from ideal behaviour to two of the eight 
+postulates of kinetic molecular theory of gases.
+These postulates are as under.
+(i) There are no forces of attraction among the molecules 
+of a gas.
+(ii) The actual volume of gas molecules is negligible as 
+compared to the volume of the vessel.
+When the pressure on a gas is high and the temperature 
+is low then the attractive forces among the molecules 
+become signiicant, so the ideal gas equation PV = nRT 
+does not hold. Actually, under these conditions, the gas does not rem ain ideal.The actual volume 
+of the molecules of a gas is usually very small as compared to the volume of the vessel and hence 
+it can be neglected. This volume, however, does not remain negligible w hen the gas is subjected to 
+high pressure. This can be understood from the following Figs (3.13 a, b).
+3.10.2 van der Waals Equation for Real Gases
+Keeping in view the above discussion, van der Waals pointed out that b oth pressure and volume 
+factors in ideal gas equation needed correction in order to make it ap plicable to the real gases.
+Volume Correction
+When a gas is compressed, the molecules are pushed so close together that the repulsive forces 
+operate between them. When pressure is increased further it is opposed by the molecules 
+themselves. Actually the molecules have deinite volume, no doubt very small  as compared to the 
+vessel, but it is not negligible. So van der Waals postulated that th e actual volume of molecules can 
+no longer be neglected in a highly compressed gas. If the efective volu me of the molecules per 
+mole of a gas is represented by b, then the volume available to gas molecules is the volume of the 
+vessel minus the volume of gas molecules.
+ = V  - b             ...........        (28)free vesselV
+Kig(3.13.b) A gas at high 
+pressure when actual volume 
+is not negligible.Fig(3.13.a) A gas at low 
+pressure w hen actual 
+volume is negligible.403.GASES eLearn.Punjab
+Vfreeis that volume which is available to gas molecules. The factor b is termed as the excluded volume 
+which is constant and characteristic of a gas. It’s value dep ends upon the size of gas molecules. 
+Table (3.3) shows the b values for some important gases. It is in teresting to know that the excluded 
+volume b is not equal to the actual volume of gas molecules. In fact,  it is four times the actual 
+volume of molecules.
+b = 4Vm
+Where Vm is the actual volume of one mole of gas molecules, 'b' is efective volu me or excluded volume of one 
+mole of a gas. It is that volume of gas which is occupied by 1  mole of gas molecules in highly compressed state, 
+but not in the liquid state.
+Pressure Correction
+A molecule in the interior of a gas is attracted by other molecules on all sides, so these attractive 
+forces are cancelled out. However, when a molecule strikes the wall  of a container, it experiences 
+a force of attraction towards the other molecules in the gas. This dec reases the force of its impact 
+on the wall. Consider the molecule "A" which is unable to create pressure on the wall due to the 
+presence of attractive forces due to 'B' type molecules Fig (3.14). L et the observed pressure on the 
+wall of the container is P. This pressure is less than the actua l pressure Pi, by an amount P', so
+P = Pi - P'
+Pi is the true kinetic pressure, if the forces of attractions would ha ve been absent. P' is the amount 
+of pressure lessened due to attractive forces. Ideal pressure Pi is
+Pi = P + P’
+It is suggested that a part of the pressure P for one mole of a gas  used up against intermolecular 
+attractions should decrease as volume increases. Consequently, the valu e of P' in terms of a constant 
+'a' which accounts for the attractive forces and the volume V of vess el can be written as
+How to prove it
+P’ is determined by the forces of attraction between molecules of type A, which are striking the wall 
+of the container and molecules of type B, which are pulling them i nward. The net force of attraction 
+is proportional to the concentrations of A type and B type molecules.
+      ∴∞AB           P'    C  . C2aP'  =    V413.GASES eLearn.Punjab
+      
+ Let n is the number o f moles o f A and B separately and total volume of both types of molecules is ‘V’ .he n/V is moles dm-3  of 
+A and B, separately.
+                                                              ∞
+∞
+∞2
+2
+2
+2nnP'                 .  VV
+nP'               V
+anP'               V
+    (‘a’ is a constant of proportionality)
+                          If, n = 1 (one mole of gas)
+then           2aP'  =                              . . . . . . . (2 9)V
+Greater the attractive forces among the gas molecules, smaller the volume of  vessel, greater the 
+value of lessened pressure P’.
+This ‘a’ is called co-eicient of attraction or attraction per unit vol ume. It has a constant value for a 
+particular real gas. Thus efective kinetic pressure of a gas is  given by Pi, which is the pressure if the 
+gas would have been ideal.
+  i 2aP   =  P  +     . . . . . . .       (30)V
+Fig (3.14) Forces of attraction
+and pressure correction423.GASES eLearn.Punjab
+Once the corrections for pressure and volume are made, the kinetic equ ation for one mole of a gas can be 
+constructed by taking pressure as 2( P  +   )a
+V   and volume as (V - b) for one mole of a gas.
+For ‘n’ moles of a gas
+This is called van der Waal’s equation, ‘a’ and ‘b’ are ca lled van der Waal’s constants. 
+Units of ’a‘.
+Since,
+So
+    2
+2
+32
+2
+6 -2
+-2 3
+2-2 3
+2
++4 -2P'Va = n
+atm x (dm )a = (mol)
+a = atm dm  mol
+In S.I. units, pressure is in Nm  and vol ume in m
+Nm  x (m )a = (mol)
+a = Nm  molor
+or
+Units o f ‘b’:  b’ is excluded or incompressible volume /mol-1 of gas. Hence its units should be dm3 
+mol-1 or m3 mol-1
+The values of ’a’ and ‘b’ can be determined by knowing the values  of P, V and T of a gaseous system 
+under two diferent conditions. Following Table (3.3) gives the values  of ‘a’ and ‘b’ for some common 
+gases.2( P  +   ) (V - b) = RT        . . . . .  . . . .       (31)a
+V
+2
+2( P  +   ) (V - nb) = nRT        . . . .  . . . . .       (32)na
+V
+2
+2P'  =  na
+V433.GASES eLearn.Punjab
+Table(3.3) van der Waals Constant for Some Common G ases
+Gas  ‘a’ (atm dm6 mol-2) ‘b’ (dm3 mol-1)
+Hydrogen 
+Oxygen 
+Nitrogen
+Carbon dioxide
+Ammonia
+Sulphur dioxide
+Chlorine 0.245 
+1.360
+1.390
+3.590
+4.170
+6.170
+6.4930.0266
+0.0318
+0.0391
+0.0428
+0.0371
+0.0564
+0.0562
+The presence of intermolecular forces in gases like Cl2 and SO2  increases their ‘a’ factor.The least 
+value of ‘a’ for H2 is due to its small size and non-polar character. The ‘b’ val ue of H2 is 0.0266 dm3  
+mol-1. It means that if 2.016g (1mole) of H2 is taken, then it will occupy 0.0266 dm3 or 266cm3 of 
+volume at closest approach in the gaseous state.
+Example 8
+One mole of methane gas is maintained at 300 K. Its volume is 250  cm3. Calculate the pressure 
+exerted by the gas under the following conditions.
+(i) when the gas is ideal
+(ii) when the gas is non-ideal
+a = 2.253 atm dm6 mol-2 ,   b = 0.0428 dm3 mol-1
+Solution
+(i) When the gas is ideal, general gas equation is applied i .e.,
+PV = nRT
+V = 250 cm3 = 0.25 dm3       1 dm3 = 1000 cm3
+3 11 = 1 mole
+ = 300 K
+R = 0.0821 dm  atm K  mol
+P = n
+T
+nRT
+V−−443.GASES eLearn.Punjab
+Putting the values alongwith units
+If CH4 gas would have been ideal, under the given conditions, 98.5 atm . pressure would have been 
+exerted.
+(ii) When the gas is behaving as non-ideal, we should use the va n der Waals equation
+     
+2
+2P +  (V-nb ) = n R Tna
+V
+ 
+By rearranging the equation and taking the pressure on L.H.S.
+      2
+2
+2
+2n a n R TP +  = V V-nb
+n R T n aP  =  - V-nb Vor
+Substituting the following values (ignore the units for sake of sim plicity)
+n = 1 mol, R = 0.0821 dm3 atm K-1 mol-1,
+V = 0.25 dm3, T = 300 K, a = 2.253 dm6 atm mol-2, b = 0.0428 dm3 mol-1
+   
+( ) ( )1 x 0.0821 x 300 1 x 2.253 24.63 2.253  -  =  - 0.25-1 0.0428 0.25 0.207 0.0625
+P = 118.985 - 36.048 = 82.85 atm.
+   
+In the non-ideal situation the pressure has lessened upto
+    98.5 - 82.85 = 15.65 atm.  Answer
+Conclusion:
+The diference of these two pressures shows that this gas is non-ideal . Actually CH4 is thought to 
+be ideal near 1 atm, but around 100 atmospheres, it develops non-id eal attitude. This diference of 
+ideal and non-ideal pressure goes on decreasing when gas is considered at low pressures.3 11
+31 mol x 0.0821 dm  atm K  mol  x 300 K  0.25 
+ = 98.5 atm  (Answer)Pdm
+P−−
+=453.GASES eLearn.Punjab
+3.11 PLASMA STATE
+What is plasma?
+Plasma is often called the “fourth state of matter”, the other three bei ng solid, liquid and g a s. Plasma 
+was identiied by the English scientist William Crookes in 1879 . In addition to being important in 
+many aspects of our daily life, plasmas are estimated to constitu te more than 99 percent of the 
+visible universe. Although, naturally occurring plasma is ra re on earth, there are many man-made 
+examples. 
+Inventors have used plasma to conduct electricity in neon signs and  luorescent bulbs. Scientists 
+have constructed special chambers to experiment with plasma in l aboratories. It occurs only in 
+lightning discharges and in artiicial devices like luorescent lights, neon signs, etc. It is everywhere 
+in our space environment.
+How is Plasma formed ?
+When more heat is supplied, the atoms or molecules may be ionized.
+An electron may gain enough energy to escape its atom. This atom los es 
+one electron and develops a net positive charge. It becomes an ion. In a  
+suiciently heated gas, ionization happens many times, creating c louds of 
+free electrons and ions. However, all the atoms are not necessarily ion ized, 
+and some of them may remain completely intact with no net charge. Th is 
+ionized gas mixture, consisting of ions, electrons and neutral a toms is called 
+plasma.
+It means that a plasma is a distinct state of matter containing a signiicant 
+number of electrically charged particles a number suicient to af ect its 
+electrical properties and behaviour.463.GASES eLearn.Punjab
+Natural and Artiicial Plasma
+Artiicial plasma can be created by ionization of a gas. as i n neon signs. Plasma at low temperatures 
+is hard to maintain because outside a vacuum low temperature plasm a reacts rapidly with any 
+molecule it encounters. This aspect makes this material, both very u seful and hard to use. Natural 
+plasma exists only at very high temperatures, or low temperature vac uums.
+Natural plasma on the other hand do not breakdown or react rapidly , but is extremely hot (over 
+20,000°C minimum). Their energy is so high that they vaporize any material they touch.
+Characteristic of Plasma:
+1. A plasma must have suicient number of charged particles so as a whole, it exhibits a collective 
+response to electric and magnetic ields. The motion of the particles in  the plasma generate 
+ields and electric currents from within plasma density. It refer s to the density of the charged 
+particles. This complex set of interactions makes plasma a uniq ue, fascinating, and complex 
+state of matter.
+2. Although plasma includes electrons and ions and conducts electri city, it is macroscopically 
+neutral. In measurable quantities the number of electrons and ions are equal.
+Where is Plasma found ?
+Entire universe is almost of plasma. It existed before any other f orms of matter came into being. 
+Plasmas are found in everything from the sun to quarks, the sm allest particles in the universe.
+As stated earlier plasma is the most abundant form of matter 
+in the universe. It is the stuf of stars. A majority of the matter 
+in inner-stellar space is plasma. All the stars that shine  are all 
+plasma. The sun is a 1.5 million kilometer ball of plasma,  heated 
+by nuclear fusion.
+Animation 3.6.:Plasma ball
+source & Credit: giphy473.GASES eLearn.Punjab
+One arth it only occurs in a few limited places, like lightnin g bolts, lames, auroras, and luorescent 
+lights. When an electric current is passed through neon gas, it produces both plasma and light.
+Applications of Plasma: 
+Plasma has numerous important technological applications. It is  present in many devices. It helps 
+us to understand much of the universe around us. Because plasmas ’ are conductive respond 
+to electric and magnetic ields and can be eicient sources of radia tion, so they can be used in 
+innumerable applications where such control is needed or when s pecial sources of energy or 
+radiation are required.
+1. A luorescent light bulb is not like regular light bulbs. Insi de the long tube is a gas. When the light 
+is turned on, electricity lows through the tube. This electricity acts  as that special energy and 
+charges up the gas. This charging and exciting of the atoms creates a glowing plasma inside the 
+bulb.
+2. Neon signs are glass tubes illed with gas. When they are 
+turned on then the electricity lows through the tube. The 
+electricity charges the gas, possibly neon, and creates a 
+plasma inside the tube. The plasma glows with a special 
+colour depending on what kind of gas is inside.
+3. They ind applications such as plasma processing of 
+semiconductors, sterilization of some medical prodjucts, 
+lamps, lasers, diamond coated ilms, high power microwave 
+sources and pulsed power switches.
+4. They also provide the foundation for important potential 
+applications such as the generation of electrical energy 
+from fusion pollution control and removal of hazardous 
+chemicals.
+5. Plasma light up our oices and homes, make our computers 
+and electronic equipment work.
+6. They drive lasers and particle accelerators, help to clean up the environment, pasteurize foods 
+and make tools corrosion-resistant.
+Animation 3.7.:Application of Plasma
+Source & Credit: pag483.GASES eLearn.Punjab
+Future Horizons:
+Scientists are working on putting plasma to efective use. Plasma wou ld have to be low energy and 
+should be able to survive without instantly reacting and degeneratin g. The application of magnetic 
+ields involves the use of plasma. The magnetic ields create low energy  plasma which create 
+molecules that are in what scientist call a metastable state. The mag netic ields used to create 
+the low temperature plasma give the plasma molecules, which do not react until they collide with 
+another molecule with just the right energy. This enables these metastab le molecules to survive 
+long enough to react with a designated molecule. These metastable parti cles are selective in their 
+reactivity. It makes them a potentially unique solution to problems l ike radioactive contamination. 
+Scientist are currently experimenting with mixtures of gases to work as metastable agents on 
+plutonium and uranium, and this is just the beginning.493.GASES eLearn.Punjab
+KEY POINTS
+1. The behaviour of a gas is described through four variables i.e.,  pressure, volume , temperature 
+and its number of moles. The relationships between gas variables are known as the simple gas 
+laws. Boyle’s law relates pressure of a gas with its volume, whi le Charles’s law relates gas volume 
+with temperature. Avogadro’s law is concerned with volume and amoun t of a gas. The important 
+concept of absolute zero of temperature originates from the simple gas l aws.
+2. By combining  the above mentioned three laws, a more general equation a bout the behaviour 
+of gas is obtained i.e., PV = n RT. This equation can be sol ved for any one of the variables when 
+values for others are known. This equation can be modiied for the deter mination of molar 
+masses and the density of the gas.
+3. Dalton’s law of partial pressures can be used to calculate the partial pressures of gases.
+4. The processes of difusion and efusion are best understood by Graham ’s law of difusion.
+5. Kinetic molecular theory of gases provides a theoretical basis for va rious gas laws. With the help 
+of this theory a relationship is established between average molecul ar kinetic energy and kelvin 
+temperature. The  difusion and efusion of the gases can be related to their molar masses 
+through the kinetic molecular theory of gases.
+6. The real gases show ideal behaviour  under speciic conditions. T hey become non-ideal at high 
+pressure and low temperature. The non-ideal behaviour results chiely  from intermolecuiar 
+attractions and the inite volume occupied by the gas molecules.
+7. Gases can  be liquiied by applying suicient pressure but temper ature should either be critical 
+one or below it.
+8. To  calculate the pressure or volume of a real gas under the non- ideal conditions, alternative 
+kinetic equation has been developed. This is known as the van der Wa al’s equation.
+9. The  plasma, a forth state of matter, consist of neutral particles,  positive ions and negative 
+electrons, 99% of the known universe is in the plasma state.503.GASES eLearn.Punjab
+Excercise
+Q 1:  Select the correct answer out of the following alternative suggestion s.
+(i)  Pressure remaining constant, at which temperature the volume of a gas will become twice of what it is  
+ at 0°C.
+a.  546°C   b.  200°C   c.  546K    d. 273K
+(ii) Number of molecules in one dm3 of water is close to
+a.  23 6.02 x 1022.4   b.  23 12.04 x 1022.4            c.  23 18 x 1022.4            d. 55.6 x 6.02 x 1023
+(iii) Which of the following will have the same number of molecu les at STP?
+a.  280 cm3 of CO2 and 280 cm3 of N2O
+b.  11.2 dm3 of O2 and 32 g of O2
+c.  44 g of CO2 and 11.2 dm3 of CO
+d.  28 g of N2 and 5.6 dm3 of oxygen
+(iv)  If absolute temperature of a gas is doubled and the pres sure is reduced to one half, the volume of the  
+ gas will
+a.  remain unchanged   b.  increase four times
+c.  reduce to 1/4    d.  be doubled
+(v)  How should the conditions be changed to prevent the volume of a gi ven gas from expanding 
+when its   mass is increased?
+a.  Temperature is lowered and pressure is increased.
+b.  Temperature is increased and pressure is lowered.
+c.  Temperature and pressure both are lowered.
+d.  Temperature and pressure both are increased.
+(vi) The molar volume of CO2 is maximum at
+a.  S TP   b.  127°C and 1 atm   c.  0°C and 2 atm   d.  273°C and 2 atm
+(vii) The order of the rate of difusion of gases NH3, SO2, Cl2, an CO2 is:
+a.  3 22 2NH  > SO  > Cl  > CO   b.  3 2 22NH  > CO  > SO  > Cl
+c.  222 3Cl  > SO  > CO  > NH   d.  3 22 2NH  > CO  > Cl  > SO
+(viii)  Equal masses of methane and oxygen are mixed in an emp ty container at 25°C. The fraction 
+of total   pressure exerted by oxygen is
+a.  1/3   b.  8/9   c.  1/9   d.  16/17513.GASES eLearn.Punjab
+(ix)  Gases deviate form ideal behaviour at high pressure. Which  of the following is correct for 
+non-ideality?
+a. At high pressure, the gas molecules move in one direction only.
+b. At high pressure, the collisions between the gas molecules are i ncreased manifold.
+c. At high pressure, the volume of the gas becomes insigniicant.
+d. At high pressure, the intermolecular attractions become signiica nt.
+(x)  The deviation of a gas from ideal behaviour is maximum at
+a.  -10°C and 5.0atm    b.  -10 °C and 2.0 atm
+c.  100 °Cand2.0 atm    d.  0 °C and 2.0 atm
+(xi)  A real gas obeying van derW aals equation will resemb le ideal gas if
+a.  both ’a’ and ’b’ are large   b.  both’a’and’b’are smal l
+c.  ‘a’ is small and ’b’ is large   d.  ‘a’ is large and ’b’ is small
+Q2:  Fill in the blanks
+(i). The product PV has the S.I. unit of _____________
+(ii).Eight grams each of O2, and H2, at 27 °C will have total K.E in the ratio of _____________
+(iii).Smell of the cooking gas during leakage from a gas cy linder is due to the property 
+of_____________ of _____________ gases.
+(iv).Equal _________ of ideal gases at the same temperature and pressure contain______________ 
+number of molecules.
+(v).The temperature above which a substance exists only as a gas is called_____________.
+Q3:  Label the follow in g sentences as True or False.
+(i). Kinetic energy of molecules of a gas is zero at 0oC.
+(ii). A gas in a closed container will exert much higher pr essure at the bottom due to gravity 
+than at the top.
+(iii). Real gases show ideal gas behaviour at low pressure and  high temperature.
+(iv). Liquefaction of gases involves decrease in intermolecular sp aces.
+(v). An ideal gas on expansion will show Joule-Thomson efect.
+Q4 . a. What is Boyle’s law of gases? Give its experimental veriic ation.
+b. What are isotherms? What happens to the positions of isotherms wh en they are plotted at 
+high temperature for a particular gas.
+c. Why do w e get a straight line when pressures exerted on a gas  are plotted against inverse 
+of volumes? This straight line changes its position in the graph  by varying the temperature. 
+Justify it.
+d. How will you explain that the value of the constant k in the equati on PV = k depends upon 
+     (i) the temperature of a gas (ii) the quantity of a gas523.GASES eLearn.Punjab
+Q5.a. What is the Charles's law? Which scale of temperature i s used to verify that V/T = k   
+           (pressure and number of moles are constant)?
+b. A sample of carbon monoxide gas occupies 150.0 mL at 25.0 °C. It is then cooled at constant 
+pressure until it occupies 100.0 mL. What is the new' temperature?  (Ans: 198.8K or -74.4 °C )
+c. Do you think that the volume of any quantity of a gas becomes zer o at - 273.16 °C. Is it not 
+against the law of conservation of mass? How do you deduce the idea of  absolute zero from 
+this information?
+Q6 . a. What is Kelvin scale of temperature? Plot a graph for one mole of an a real gas to prove  
+             that a gas becomes liquid, earlier than -273. 16 ’C.
+    b. Throw some light on the factor 1/273 in Charles's law .
+Q7. a. What is the general gas equation? Derive it in various form s.
+ b. Can we determine the molecular mass of an unknown gas if w e know the pressure, temperature 
+and volume along with the mass of that gas.
+c. How do you justify from general gas equation that increase in temperature or decrease of 
+pressure decreases the density of the gas?
+c. Why do we feel comfortable in expressing the densities of gas es in the units of g dm-3 rather 
+than g cm-3, a unit which is used to express the densities of liquids an d solids.
+Q8 .  Derive the units for gas constant R in general gas equation:
+a. when the pressure is in atmosphere and volume in dm3.
+b. when the pressure is in N m-2 and volume in m3.
+c. when energy is expressed in ergs.
+Q9.  a. What is Avogadro’s law of gases?
+      b. Do you think that 1 mole of H2 and 1 mole of NH3 at 0 oC and 1 atmpressure will have   
+             Avogadro’s number of particles?
+         c. Justify that 1 cm3 of H2 and 1 cm3 of CH4 at STP will have same number of molecules, when  
+            one molecule of CH4 is 8 times heavier than that of hydrogen.533.GASES eLearn.Punjab
+Q10.  a. Dalton’s law of partial pressures is only obeyed by those gases which don’t have attractive  
+              forces among their molecules. Explain it.
+    b.  Derive an equation to ind out the partial pressure of a gas knowing the individual moles    
+     of component gases and the total pressure of the mixture.
+     c. Explain that the process of respiration obeys the Dalton’s  law of partial pressures.
+       d. How do you diferentiate between difusion and efusion? Ex plain Graham’s law of difusion.
+Q11. a. What is critical temperature of a gas? What is its im portance for liquefaction of gases?  
+               Discuss Linde's method of liquefaction of gas es.
+     b. What is Joule-Thomson efect? Explain its importance in Linde's method of liquefaction of    
+      gases.
+Q12. a. What is kinetic molecular theory of gases? Give its postula tes.
+    b. How does kinetic molecular theory of gases explain the follow ing gas laws:
+(i)  Boyle's law             (ii)  Charles's law
+(iii)  Avogadro's law    (iv)  Graham’s law of difusion
+Q13. a. Gases show non-ideal behaviour at low temperature and high  pressure. Explain this with    
+              the help of a graph.
+    b. Do you think that some of the postulates of kinetic molecular theory of gases are faulty?   
+     Point out these postulates.
+     c. Hydrogen and helium are ideal at room temperature, but S O2 , and Cl2 are nonideal. How   
+     will you explain this?
+Q14. a. Derive van der Waal's equation for real gases.
+    b. What is the physical signiicance of van der Waals'c onstants, ’a’ and ’b? Give their units.
+Q15  Explain the following facts
+a. The plot of PV versus P i s a straight line at constant temperatu re and with a ixed number of 
+moles of an ideal gas.
+b. The straight line in (a) is parallel to pressure-axis an d goes away from the pressure axis at 
+higher pressures for many gases.
+c. Pressure of NH3 gas at given conditions (say 20 atm pressure and room temperature)  is less 
+as calculated by van der Waals equation than that calculated b y general gas equation.
+d. Water vapours do not behave ideally at 273K.
+e. SO2 is comparatively non-ideal at 273K but behaves idealy at 327 “C.543.GASES eLearn.Punjab
+Q16  Helium gas in a 100 cm3 container at a pressure of 500 torr is transferred to a container with 
+a volume of 250 cm3. What will be the new pressure
+a. if no change in temperature occurs                                                                        ( Ans: 2 0 0 torr)
+b. if its temperature changes from 20 “C to 15°C?                                                   (Ans: 196.56  torr)
+Q17 
+a. What are the densities in kg/dm3 of the following gases at STP 
+(P = 101325 Nm-2, T = 273 K, molecular masses are in kg mol-1  
+(i) methane, (ii) oxygen, (iii) hydrogen
+b. Compare the values of densities in proportion to their mole mass es.
+c. How do you justify that increase of volume upto 100 dm3 at 27°C of 2 moles 
+of NH3 will allow the gas behave ideally, as compared to S.T.P condi tions.  
+(Ans: CH4=0.714kgm, O2=1.428kgm-3, H2=0.089kgm-3)
+Q18  A sample of  krypton  with  a  volume of 6.25 dm3 , a pressure of 765 torr and a temperature of 20 °C 
+is expanded to a volume of 9.55 dm3 and a pressure of 375 torr. What will be its inal temperature i n °C?  
+(Ans: T = -53.6°c)
+Q19  Working at a vacuum line, a chemist isolated a gas in a weighing bulb with a volume of 255 
+cm3, at  a temperature of 25 °C and under a pressure in the bulb  of 10.0 torr. The gas weighed 12.1 
+mg. What is  the molecular mass of this gas? 
+(Ans: 87.93g mol-1)
+Q20 What pressure is exerted by a mixture of 2.00g of H2 and 8.00g of N2 at 273K in a 10 dm3 vessel? 
+(Ans: P = 2.88 atm)
+Q21. a. The relative densities of two gases A and B are 1:1.5. F ind out the volume of B which   
+               will difuse in the same time in which 150 dm3 o f  A  w i l l  d i f u s e ?                                       
+                                                                                                                                              (Ans: 122.4 7dm3)
+    b. Hydrogen (H2) difuses through a porous plate at a rate of 500 cm3 per minute at 0 “C. What     
+   is the rate of difusion of oxygen through the same porous plate at0  oC?     
+                                                                                                                             (Ans: 125 cm3)
+   c. The rate of efusion of an unknown gas A through a pinhol e is found to be 0.279 times the  
+  rate of efusion of H2 gas through the same pinhole. Calculate the molecular mass of  the  
+   unknown gas at STP.                                                                                         (Ans: = 25.7 gmol-1)553.GASES eLearn.Punjab
+Q22  Calculate the number of molecules and the number of atoms in  the given amounts of each 
+gas
+(a)  20 cm3 of CH4 at 0 °C and pressure of 700 mm of mercury (Ans: 4.936 x1 020, 24.7 x 1020
+(b)  1 cm3 of NH3 at 100 °C and pressure of 1.5 atm (Ans:2.94x1019,1.177 x 1020)
+Q23 Calculate the masses of 1020 molecules of each of H2, O2, and CO, at STP. What will happen to 
+the masses of these gases, when the temperature of these gases are inc reased by 100 oC and the 
+pressure is decreased by 100 torr.
+(Ans: 3.3 x 10-4g; 5.31 x 10-3g; 7.30 x 10-3g)
+Q24  a. Two  moles of NH3 are enclosed in a 5 dm3 lask at 27 oC. Calculate the pressure exerted by  
+              the gas assuming that
+(i)  it behaves like an ideal gas
+(ii) it behaves like a real gas
+a=4.17 atm dm6 mol-2
+b = 0.0371 dm3 mol-1                  (Ans: 9.85 atm)
+   b. Also  calculate the amount of pressure lessened due to forces of  attractions at these  
+     conditions of volume and temperature. (Ans: 0.51atm)
+     c. Do  you expect the same decrease in the pressure of two moles of  NH3 having a volume of  
+    40 dm3 and at temperature of 27 °C.

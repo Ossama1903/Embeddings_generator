@@ -1,0 +1,1455 @@
+
+Chapter 3
+MOTION AND FORCE
+Learning Objectives
+At the end of this chapter the students will be able to:
+1.
+Understand displacement from its definition and illustration.
+2.
+Understand velocity, average velocity and instantaneous velocity.
+3.
+Understand acceleration, average acceleration and instantaneous acceleration.
+4.
+Understand the significance of area under velocity-time graph.
+5.
+Recall and use equations, which represent uniformly accelerated motion in a
+straight line including falling in a uniform gravitational field without air resistance.
+6.
+Recall Newton's Laws of motion.
+7.
+Describe Newton's second law of motion as rate of change of momentum,
+8. Define impulse as a product of impulsive force and time.
+9.
+Describe law of conservation of momentum:
+10. Use the law of conservation of momentum in simple applications including elastic
+collisions between two bodies in one dimension.
+11. Describe the force produced due to flow of water.
+12. Understand the process of rocket propulsion (simple treatment).
+13. Understand projectile motion in a non-resistive medium.
+14.
+Derive time of flight, maximum height and horizontal range of projectile motion.
+15. Appreciate the motion of ballistic missiles as projectile motion.
+W
+e live in a universe of continual motion. In every piece of matter, the atoms are in a
+state of never ending motion. We move around the Earth's surface, while the Earth moves in
+its orbit around the Sun. The Sun and the stars, too, are in motion. Everything in the vastness
+of space is in a state of perpetual motion.
+48
+---
+
+Every physical process involves motion of some sort.
+Because of its importance in the physical world around us,
+it is logical that we should give due attention to the study
+of motion.
+We already know that motion and rest are relative. Here, in
+this chapter, we shall discuss other related topics in some
+more details.
+3.1 DISPLACEMENT
+Whenever a body moves from one position to another,
+Y
+the change in its position is called displacement The
+A
+C
+displacement can be represented as a vector that
+B
+d
+describes how far and in what direction the body has been
+displaced from its original position. The tail of the
+F,
+G
+displacement vector is located at the position where the
+displacement started, and its tip or arrowhead is located at
+the final position where the displacement ended. For
+x
+o
+example, if a body is moving along a curve as shown in
+Fig. 3.1 with A as its initial position and B as its final
+Fig.3.1
+position then the displacement d of the body is
+represented by AB. Note that although the body is moving
+along a curve, the displacement is different from the path(
+of motion.
+If r is the position vector of A and T2 that of point B then by
+head and tail rule it can be seen from the figure that
+d=n
+The displacement is thus a change in the
+position of body from its initial position to its
+final position.
+Its magnitude is the straight line distance between the
+Y
+initial position and the final position of the body.
+A
+d
+B
+When a body moves along a straight line, the displacement
+coincides with the path of motion as shown in Fig. 3.2. (a)
+r,
+3.2 VELOCITY
+r
+We have studied in school physics that time rate of change
+x
+o
+of displacement is known as velocity. Its direction is along
+the direction of displacement. So if d is the total
+Fig.3.2(a)
+49
+---
+
+displacement of the body in time t. then its average velocity
+during the interval I is defined as
+(3.1)
+Average velocity does not tell us about the motion between
+A and B. The path may be straight or curved and the
+motion may be steady or variable. For example if a squash.
+ball comes back to its starting point after bouncing off the
+wall several times, its total displacement is zero and so
+For Your Information
+also is its average velocity.
+Typical Speeds
+In such cases the motion is described by the
+Speed,ms"
+Motion
+instantaneous velocity.
+Light, radio waves.
+300 000 000
+X-rays, microwaves
+In order to understand the concept of instantaneous
+(in vecuum)
+velocity, consider a body moving along a path ABC in xy
+210 000
+Earth-Sun travel
+around the galaxy
+plane. At any time I. let the body be at point A Fig 3.2(b). its
+29 600
+Earth around the Sun
+position is given by position vector After a short time
+1000
+Moon around the
+interval At following the Instant 1. the body reaches the
+Earth
+SR-71
+point B which is described by the position vector T2 The
+980
+reconnaissance jot
+displacement of the body during this short time interval is
+333
+Sound (in air)
+given by
+267
+Commercial jet
+Birliner
+Ad=n-1
+62 Commercial
+automobile (mex)
+The notation A (delta) is used to represent a very small
+37
+Falcon in a dive
+29
+Running cheetah
+change.
+10
+100metres dash
+(max/)
+The instantaneous velocity at a point A, can be found by
+9
+Porpoise swimming
+making At smaller and smaller. In this case Ad will also
+5
+Flying bee
+become smaller and point B will approach A. If we continue
+4
+Human running
+this process, letting B approach A, thus, allowing M and Ad
+2
+Human swimming
+to decrease but never disappear completely, the ratio
+0.01
+Walking ant
+Ad/At approaches a definite limiting value which is the
+instantaneous velocity. Although At and Ad become
+Y
+extremely small in this process, yet their ratio is not
+A
+necessarily a small quantity. Moreover, while decreasing
+B
+V
+the displacement vector, Ad approaches a limiting direction
+along the tangent at A. Therefore,
+E.
+r,
+The instantaneous velocity is defined as the
+x
+limiting value of Ad/At as the time interval
+o
+At, following the time t, approaches zero.
+Fig.3.2(b)
+50
+---
+
+Using the mathematical language, the definition of
+instantaneous velocity Ving is expressed as
+Ad
+*
+(3.2)
+read as limiting value of Ad/At as At approaches zero.
+If the instantaneous velocity does not change, the body is
+said to be moving with uniform velocity.
+3.3 ACCELERATION
+If the velocity of an object changes, it is said to be moving
+with an acceleration.
+The time rate of change of velocity
+of a body is called acceleration.
+As velocity is a vector so any change in velocity may be
+VLV
+due to change in its magnitude or a change in its direction
+IN
+or both.
+V.
+Consider a body whose velocity Vi at any instant t changes to
+V2 in further small time interval At The two velocity vectors V1
+V,
+and V2 and the change in velocity, V2 - V1 = A V. are
+represented in Fig. 3.3. The average acceleration aav during
+time interval At is given by
+Fig.3.3
+⑉ At At
+(3.3)
+As aav is the difference of two vectors divided by a scalar
+At, day must also be a vector. Its direction is the same as
+that of AV. Acceleration of a body at a particular instant is
+known as instantaneous acceleration and it is the value
+obtained from the average acceleration as At is made
+smaller and smaller till it approaches zero. Mathematically,
+it is expressed as
+Av
+Instantaneous acceleration =a=Lim
+(3.4)
+At
+51
+---
+
+If the velocity of a body is increasing, its acceleration is
+positive but if the velocity is decreasing the acceleration is
+negative. If the velocity of the body changes by equal amount
+in equal intervals of time, the body is said to have uniform
+acceleration. For a body moving with uniform acceleration, its
+average acceleration is equal to instantaneous acceleration.
+V
+3.4 VELOCITY-TIME GRAPH
+Graphs may be used to illustrate the variation of velocity of
+an object with time. Such graphs are called velocity-time
+if
+graphs. The velocity time graphs of an object making three
+Fig.3.4
+different journeys along a straight road are shown in
+figures 3.4 to 3.6. When the velocity of the car is constant,
+its velocity-time graph is a horizontal straight line (Fig 3.4).
+When the car moves with constant acceleration, the
+velocity-time graph is a straight line which rises the same
+height for equal intervals of time (Fig 3.5).
+V
+The average acceleration of the
+car during the interval t is given by
+the slope of its velocity-time graph.
+V
+When the car moves with increasing acceleration, the
+velocity-time graph is a curve (Fig 3.6). The point A on the
+Fig.3.5
+graph corresponds to time 1. The magnitude of the
+instantaneous acceleration at this instant is numerically
+equal to the slope of the tangent at the point A on the
+velocity-time graph of the object as shown in Fig 3.6.
+The distance moved by an object can also be determined
+by using its velocity-time graph. For example, Fig 3.4
+shows that the object moves at constant velocity y for time t.
+The distance covered by the object given by Eq. 3.1 is
+v x t. This distance can also be found by calculating the
+A
+area under the velocity-time graph. This area is shown
+shaded in Fig 3.4 and is equal to V x t. We now give
+o
+another example shown in Fig 3.5. Here the velocity of the
+f
+object increases uniformly from 0 to V in time I. The
+Fig.3.6
+magnitude of its average velocity is given by
+= 0 + 2 1 2
+52
+---
+
+Do You Know?
+3.5 REVIEW OF EQUATIONS OF
+20
+UNIFORMLY ACCELERATED MOTION
+15
+In school physics we have studied some useful equations
+10
+for objects moving at constant acceleration.
+5
+Suppose an object is moving with uniform acceleration a
+0
+f
+5
+5
+ame(s)
+along a straight line If its initial velocity is V, and final
+velocity after a time interval if is Vr. Let the distance
+How the displacement of e Vertically
+covered during this interval be S then we have
+thrown ball varies with time?
+20
+Vy
+(3.5)
+10
+x
+/
+(3.6)
+2
+4
+0
+line (4)
+-10
+at2
+(3.7)
+2
+How the velocity of a vertically
+V2=VI+2aS
+(3.8)
+thrown ball varies with time?
+Velocity in upwards positive.
+These equations are useful only for linear motion with
+uniform acceleration. When the object moves along a
+Do You Know?
+straight line, the direction of motion does not change. In
+this case all the vectors can be manipulated like scalars. In
+such problems, the direction of initial velocity is taken as
+positive. A negative sign is assigned to quantities where
+direction is opposite to that of initial velocity.
+In the absence of air resistance, all objects in free fall near
+the surface of the Earth, move towards the Earth with a
+uniform acceleration. This acceleration, known as
+acceleration due to gravity, is denoted by the letter g and
+its average value near the Earth surface is taken as
+9.8 ms2 in the downward direction.
+The equations for uniformly accelerated motion can also be
+applied to free fall motion of the objects by replacing a by g.
+3.6 NEWTON'S LAWS OF MOTION
+Newton's laws are empirical laws, deduced from
+experiments. They were clearly stated for the first time by
+At the surface of the Earth, in
+Sir Isaac Newton, who published them in 1687 in his
+situations where air friction is
+famous book called "Principia". Newton's laws are adequate
+negligible, objects fail with the
+same acceleration regardless of
+for speeds that are low compared with the speed of light.
+their weights.
+54
+---
+
+Distance covered = average velocity X time = -1vx1
+Now we calculate the area under velocity-time graph which
+is equal to the area of the triangle shaded in Fig 3.5. Its
+value is equal to 1/2 base x height = 1/2 V x t.
+Considering the above two examples it is a general
+conclusion that
+The area between the velocity-time graph
+and the time axis is numerically equal to
+the distance covered by the object.
+Example 3.1: The velocity-time graph of a car moving
+on a straight road is shown in Fig 3.7. Describe the motion
+of the car and find the distance covered.
+Y
+Solution: The graph tells us that the car starts from rest,
+and its velocity increases uniformly to 20 ms 1 in 5
+B
+C
+seconds. Its average acceleration is given by
+20
+y
+(ms")
+10
+F
+E
+D
+A
+x
+o
+5
+10
+15
+20
+The graph further tells us that the velocity of the car
+I (s)
+remains constant from 5th to 15th second and it then
+Fig.3.7
+decreases uniformly to zero from 15th to 19th seconds. The
+acceleration of the car during last 4 seconds is
+The negative sign indicates that the velocity of the car
+decreases during these 4 seconds.
+The distance covered by the car is equal to the area
+between the velocity-time graph and the time-axis. Thus
+Distance travelled = Area of AABF + Area of rectangle BCEF
++ Area of ACDE
+= 1 x 20 ms" x5s + 20 mslx 10s+-x20ms1 1 x4s
+= 50 m + 200 m + 40 m = 290 m
+53
+---
+
+For very fast moving objects, such as atomic particles in an
+accelerator, relativistic mechanics developed by Albert
+Einstein is applicable.
+An unappreciated
+You have already studied these laws in your secondary
+anticipation.
+school Physics. However a summarized review is given
+No body begins to mave or comes
+below.
+to rest of itself
+ABU ALI SENA (980-1037)
+Newton's First Law of Motion
+A body at rest will remain at rest and a body moving with
+uniform velocity will continue to do so unless acted upon by
+some unbalanced external force. This is also known as law
+of inertia. The property of an object tending to maintain the
+state of rest or state of uniform motion is referred to as the
+object's inertia. The more inertia, the stronger is this
+tendency in the presence of a force. Thus,
+For Your Information
+A'
+The mass of the object is a
+III
+quantitative measure of its inertia.
+C
+The frame of reference in which Newton's first law of motion
+holds, is known as inertial frame of reference. A frame of
+A
+reference stationed on Earth is approximately an inertial
+Ameasurement of mass independent
+frame of reference.
+of gravity The unknown mass m and
+in calibrated mana m are mounted on
+Newton's Second Law of Motion
+a light weight rod. Il the masses are
+equal. the rod Will rotate without
+wobble about its centre.
+A force applied on a body produces acceleration in its own
+direction. The acceleration produced varies directly with
+the applied force and inversely with the mass of the body
+Mathematically, it is expressed as
+F ma
+(3.9)
+Newton's Third Law of Motion
+Action and reaction are equal and opposite. For example,
+Point to Ponder
+whenever an interaction occurs between two objects, each
+A car accelerates along II road.
+object exerts the same force on the other, but in the
+Which force actually moves the
+opposite direction and for the same length of time. Each
+car?
+force in action-reaction pair acts only on one of the two
+bodies, the action and reaction forces never act on the
+same body.
+55
+---
+
+3.7 MOMENTUM
+We are aware of the fact that moving object possesses a
+quality by virtue of which it exerts a force on anything that
+Interesting Information
+tries to stop it. The faster the object is travelling, the harder is
+to stop it. Similarly, if two objects move with the same
+velocity, then it is more difficult to stop the massive of the two.
+This quality of the moving body was called the quantity of
+motion of the body, by Newton. This term is now called
+linear momentum of the body and is defined by the relation.
+Throwing a package onto shore from
+Linear momentum Fp=mv
+(3,10)
+a boat that was previously at rest
+causes the boat to move out-ward
+In this expression V is the velocity of the mass m. Linear
+from shore (Newton's third law)
+momentum is, therefore, a vector quantity and has the
+direction of velocity.
+The SI unit of momentum is kilogram metre per second
+(kg m s ) It can also be expressed as newton second (Ns).
+Momentum and Newton's Second Law of Motion
+Consider a body of mass m moving with an initial velocity Vj.
+Suppose an external force F acts upon it for time t after which
+velocity becomes Vs. The accelerationa produced by this force
+is given by
+Point to Ponder
+Which will be more effective in
+a = VII V1-V
+knocking a bear down.
+I. a rubber bullet or
+By Newton's second law, the acceleration is given as
+il. a lead bullet of the same
+momentum
+F
+a
+m
+Equating the two expressions of acceleration, we have
+F V,-V
+m
+f
+or
+Fx(=mv-mv
+(3.11)
+where mv is the initial momentum and mv is the final
+momentum of the body
+56
+---
+
+The equation 3.11 shows that change in momentum is
+equal to the product of force and the time for which force is
+Point to Ponder
+applied. This form of the second law is more general than
+the form F = ma, because it can easily be extended to
+account for changes as the body accelerates when its
+mass also changes, For example, as a rocket accelerates,
+Stone
+it loses mass because its fuel is burnt and ejected to
+(a)
+provide greater thrust
+1
+second
+100
+From Eq. 3.11.
+F = mv, mm, 1
+Thus, second law of motion can also be stated in terms of
+Football
+momentum as follows
+Time rate of change of momentum
+(b)
+of a body equals the applied force.
+second
+10
+Which hurt you in the above
+Impulse
+situations (a) or (b) and think why?
+Sometimes we wish to apply the concept of momentum to
+cases where the applied force is not constant, it acts for very
+short time. For example, when a bat hits a cricket ball, the
+force certainly varies from instant to instant during the
+collision. In such cases, it is more convenient to deal with the
+Point to Ponder
+product of force and time (F x f) instead of either quantity
+Does a moving object have
+alone. The quantity F x : is called the impulse of the force,
+impulse?
+where F can be regarded as the average force that acts
+during the time t. From Eq. 3.11
+Impulse=Fxt=mv-mv
+(3.12)
+Example 3.2: A 1500 kg car has its velocity reduced from
+20 ms to 15 ms" in 3.0 S. How large was the average
+Do You Know?
+retarding force?
+Your hair acts like a crumpie
+zone on your skull. A force of 5N
+Solution: Using the Eq 3.11
+might be enough to fracture your
+naked skull (cranium), but with a
+Fxt=mv-mv
+covering of skin and hair, a force
+of 50 N would be needed.
+F 3.0's = 1500 kg x 15 ms ⑉ 1500 kg x 20 ms"
+F = = 2500 kg ms" = -2500 N -2.5kN
+The negative sign indicates that the force is retarding one.
+57
+---
+
+Law of Conservation of Momentum
+Let us consider an isolated system. It is a system on which
+no external agency exerts any force. For example, the
+molecules of a gas enclosed in a glass vessel at constant
+temperature constitute an isolated system. The molecules
+v,
+V.
+can collide with one another because of their random
+motion but, being enclosed by glass vessel, no external
+agency can exert a force on them.
+m.
+m,
+Consider an isolated system of two smooth hard interacting
+balls of masses m and M2, moving along the same straight
+line, in the same direction, with velocities V and V2
+respectively. Both the balls collide and after collision, ball of
+F
+mass m moves with velocity V and m2 moves with velocity
+v'
+V.
+V2 in the same direction as shown in Fig 3.8.
+To find the change in momentum of mass Mr, using Eq 3.11
+we have,
+m.
+m.
+Fxt=m v vm
+Fig. 3.8
+Similarly for the ball of mass My, we have
+Fxt=mzvz-myv2
+Adding these two expressions, we get
+Since the action force F is equal and opposite to the
+reaction force F. we have F=-F. so the left hand side of
+the equation is zero. Hence,
+Point to Ponder
+In other words, change in momentum of 1st ball + change
+in momentum of the 2nd ball = 0
+What is the effect on the speed of
+a fighter plane chasing another
+when it opens fire? What
+Or (m. + M2V2) II
+(3.13)
+happens to the speed of pursued
+plane when it returns the fire?
+Which means that total initial momentum of the system
+before collision is equal to the total final momentum of the
+system after collision. Consequently, the total change in
+momentum of the isolated two ball system is zero.
+For such a group of objects, if one object within the group
+experiences a force, there must exist an equal but
+58
+---
+
+opposite reaction force on some other object in the same
+group. As a result, the change in momentum of the group
+of objects as a whole is always zero. This can be
+expressed in the form of law of conservation of momentum
+which states that
+Do you wear seat belts?
+The total linear momentum of an
+isolated system remains constant.
+In applying the conservation law, we must notice that the
+momentum of a body is a Vector quantity.
+When a moving car stops quickly,
+the passengers move forward
+towards the windshield Seat belts
+Example 3.3: Two spherical balls of 2.0 kg and 3.0 kg
+change the forces of motion and
+masses are moving towards each other with velocities of
+prevent the passengers from
+6.0ms" and 4 ms respectively. What must be the velocity of
+moving Thus the chance of injury is
+greatly reduced
+the smaller ball after collision, if the velocity of the bigger
+ball is 3.0 ms 17
+Solution: As both the balls are moving towards one
+another, so their velocities are of opposite sign. Let us
+Do You Know?
+suppose that the direction of motion of 2 kg ball is positive and
+that of the 3 kg is negative,
+The momentum of the system before collision If m
+= 2 kg x 6 ms ¹ + 3 kg x =
+Momentum of the system
+-2kgx vi+3kgx(-3)ms
+From the law of conservation of momentum
+[
+Momentum of the system
+before collision
+"]=
+Momentum of the system
+after collision
+A motorcycle's safety helmet is
+padded so as to extend the time of
+any collision to prevent perious injury
+Q=2kg- - 9 kg m s"
+v.=4.5ms
+59
+---
+
+3.8 ELASTIC AND INELASTIC COLLISIONS
+When two tennis balls collide then, after collision, they will
+rebound with velocities less than the velocities before the
+impact. During this process, a portion of K.E is lost, partly
+due to friction as the molecules in the ball move past one
+another when the balls distort and partly due to its change
+into heat and sound energies.
+A collision in which the K.E of the system is
+not conserved, is called the inelastic collision.
+Under certain special conditions no kinetic energy is lost in
+the collision.
+In the ideal case when no K.E is lost, the
+collision is said to be perfectly elastic.
+V1
+V2
+For example, when a hard ball is dropped onto a marble
+floor, it rebounds to very nearly the initial height. It looses
+negligible amount of energy in the collision with the floor.
+m.
+my
+It is to be noted that momentum and total energy are
+Before collision
+conserved in all types of collisions. However, the K.E. is
+conserved only in elastic collisions.
+Elastic Collision in One Dimension
+v.
+v'
+Consider two smooth, non-rotating balls of masses m, and
+M2. moving initially with velocities V1 and V2 respectively, in
+the same direction. They collide and after collision, they
+move along the same straight line without rotation. Let their
+m,
+mg
+velocities after the collision be vi and V2 respectively, as
+shown in Fig. 3.9.
+After collision
+We take the positive direction of the velocity and momentum
+Fig. 3.9
+to the right. By applying the law of conservation of
+momentum we have
+m2 V2 = m, V1 V'2
+(3.14)
+60
+---
+
+As the collision is elastic, so the K.E is also conserved.
+From the conservation of K.E we have
+2
+or
+or ---
+(3.15)
+Dividing equation 3.15 by 3.14
+(3.16)
+or
+We note that, before collision (v, - v 2 is the velocity of
+first ball relative to the second ball. Similarly (vi - V2) is the
+velocity of the first ball relative to the second ball after
+collision. It means that relative velocities before and after
+the collision has the same magnitude but are reversed
+after the collision. In other words, the magnitude of relative
+velocity of approach is equal to the magnitude of relative
+velocity of separation.
+In equations 3.14 and 3.16, m. Mz, V1 and V2 are known
+quantities. We solve these equations to find the values of
+case (I)
+Vi and V2 which are unknown. The results are
+v,
+V2
+(3.17)
+m,
+m2
++
+Mz-Mu2
+(3.18)
+Before collision
+There are some cases of special interest, which are
+discussed below:
+(i) When
+viatvv
+v,= v,
+From equations 3.17 and 3.18 we find that
+Vi= V2
+and
+as shown in Fig 3.10
+m,
+V2 IVV,
+m
+After collision
+(ii) When
+mg=m2and V2=0
+Fig. 3,10
+In this case the mass M2 be at rest, then V2= 0 the
+equations 3.17 and 3.18 give
+61
+---
+
+case (ii)
+;
+V,
+v = 0
+When m, = M2 then ball of mass m after collision will come
+m.
+m,
+to a stop and M2 will take off with the velocity that m,
+Before collision
+originally has, as shown in Fig 3.11. Thus when a billiard
+ball m. moving on a table collides with exactly similar ball
+v. = D
+YOY
+M2 at rest, the ball m stops while M2 begins to move with
+the same velocity, with which m was moving initially.
+m,
+m,
+(iii) When a light body collides with a massive body at rest
+After collision
+In this case initial velocity V2= 0 and m2>>mi Under these
+Fig. 3.11
+conditions m can be neglected as compared to M2. From
+equations 3.17 and 3.18 we have Vj=-V1 and V2=0
+case (iii)
+The result is shown in Fig 3.12. This means that m, will
+v.
+V, =0
+bounce back with the same velocity while M2 will remain
+stationary. This fact is made used of by the squash player.
+o
+m,
+m
+(iv) When a massive body collides with light
+Before collision
+stationary body
+In this case m >> M2 and V2 = 0 so m2 can be neglected in
+vi=0
+equations 3.17 and 3.18. This gives V's = V1 and V2 a 2 V1.
+v. - Y
+-
+Thus after the collision, there is practically no change in the
+o
+velocity of the massive body, but the lighter one bounces off
+m.
+in the forward direction with approximately twice the velocity
+m,
+After collision
+of the incident body, as shown in Fig. 3.13.
+Fig. 3,12
+Example 3.4: A 70 g ball collides with another ball of
+mass 140 g. The initial velocity of the first ball is 9 ms to
+case (iv)
+the right while the second ball is at rest. If the collision were
+v,=0
+perfectly elastic what would be the velocity of the two balls
+after the collision?
+my
+m.
+Solution:
+Before collision
+m,=70g
+v,=9 ms
+V2=0
+v. 2v.
+m2=140g
+V==?
+V==
+O
+o
+We know that
+Mg
+m.
+After collision
+Fig. 3.13
+62
+---
+
+==3ms1
+Do you know?
+Example 3.5: A 100 g golf ball is moving to the right with
+a velocity of 20° ms It makes a head on collision with an
+8 kg steel ball, initially at rest. Compute velocities of the balls
+after collision.
+Solution: We know that
+If another car crashes into back of
+and
+yours, the head-rest of the car seat
+can save you from serious neck
+injury It helps to accelerate your
+Hence
+head forward with the same rate BE
+the rest of your body
+ms" = - 19.5ms
+ms" = 0.5 ms`
+3.9 FORCE DUE TO WATER FLOW
+When water from a horizontal pipe strikes a wall normally, a
+force is exerted on the wall. Suppose the water strikes the
+Point to Ponder
+wall normally with velocity V and comes to rest on striking
+the wall. the change in velocity is then 0 - V = - V. From
+in thrill machine rides at
+second law. the force equals the momentum change per
+amusement parks, there can be an
+acceleration of 3g or more But
+second of water If mass m of the water strikes the wall in
+without head rests: acceleration
+time i then force F on the water is
+like this would not be safe. Think
+why not?
+F=- V = - mass per second 1 change in velocity (3.19)
+From third law of motion, the reaction force exerted by the
+water on the wall is equal but opposite
+Hence,
+F=-(-mv)=mv
+63
+---
+
+Thus force can be calculated from the product of mass of
+water striking normally per second and change in velocity.
+Suppose the water flows out from a pipe at 3 kgst and its
+velocity changes from 5 ms' to zero on striking the ball, then,
+Force = 3 kgs1 x (5 mis 1 - 0) = 15kgms2 = 15 N
+Example 3.6: A hose pipe ejects water at a speed of
+0.3 ms through a hole of area 50 cm2 If the water strikes a
+wall normally, calculate the force on the wall, assuming the
+velocity of the water normal to the wall is zero after striking.
+Solution:
+[The
+volume of water per
+0.005 x0.3m = 0.0015 m³
+second striking the wall
+Mass per second striking the wall = volume x density
+= 0.0015 m² X 1000 kgm =1.5kg
+Velocity change of water on striking the wall=0.3ms1-0=0.3ms
+Force = Momentum change per second
+= 1.5 kgs x 0.3 ms 1 = 0.45 kgms2 = 0.45 N
+3.10 MOMENTUM AND EXPLOSIVE
+FORCES
+There are many examples where momentum changes are
+produced by explosive forces within an isolated system
+For example, when a shell explodes in mid-air, its
+fragments fly off in different directions. The total
+momentum of all its fragments equals the initial momentum
+my
+of the shell. Suppose a falling bomb explodes into two
+pieces as shown in Fig. 3.14. The momenta of the bomb
+fragments combine by vector addition equal to the original
+momentum of the falling bomb.
+mv
+Consider another example of bullet of mass m fired from a
+rifle of mass M with a velocity v. Initially, the total
+momentum of the bullet and rifle is zero. From the principle
+Fig. 3.14
+of conservation of linear momentum, when the bullet is
+fired, the total momentum of bullet and rifle still remains
+zero, since no external force has acted on them. Thus if v'
+is the velocity of the rifle then
+64
+---
+
+my (bullet) + Mv (rifle) = 0
+Mv = - mv
+or
+(3.20)
+M
+The momentum of the rifle is thus equal and opposite to
+that of the bullet. Since mass of rifle is much greater than
+the bullet, it follows that the rifle moves back or recoils with
+only a fraction of the velocity of the bullet.
+3.11 ROCKET PROPULSION
+Rockets move by expelling burning gas through engines at
+their rear. The ignited fuel turns to a high pressure gas
+which is expelled with extremely high velocity from the
+rocket engines (Fig. 3,15). The rocket gains momentum
+equal to the momentum of the gas expelled from the engine
+but in opposite direction. The rocket engines continue to
+expel gases after the rocket has begun moving and hence
+fuel
+rocket continues to gain more and more momentum. So
+(liquid
+hydrogen)
+instead of travelling at steady speed the rocket gets faster
+and faster so long the engines are operating.
+liquid
+oxygen
+A rocket carries its own fuel in the form of a liquid or solid
+hydrogen and oxygen. It can, therefore work at great heights
+combustion
+chamber
+where very little or no air is present In order to provide enough
+upward thrust to overcome gravity, a typical rocket
+consumes about 10000 kgst of fuel and ejects the burnt
+gases at speeds of over 4000ms In fact, more than
+80% of the launch mass of a rocket consists of fuel only.
+One way to overcome the problem of mass of fuel is to
+make the rocket from several rockets linked together.
+When one rocket has done its job, it is discarded leaving
+others to carry the space craft further upat ever greater speed.
+Fig. 3.15
+If m is the mass of the gases ejected per second with velocity
+y relative to the rocket, the change in momentum per second
+Fuel and oxygen mix in the
+combustion chamber. Hot gases
+of the ejecting gases is mv. This equals the thrust produced
+oxchaust the chamber al a very high
+by the engine on the body of the rocket. So, the acceleration
+uplocity, The gain in momentum of
+'a' of the rocket is
+the gases equals The gain in
+momentum of the rocket. The gas
+and rocket push against each other
+and move in opposite directions,
+a
+(3.21)
+65
+---
+
+where M is the mass of the rocket. When the fuel in the
+rocket is burned and ejected, the mass M of rocket
+decreases and hence the acceleration increases,
+3.12 PROJECTILE MOTION
+Uptill now we have been studying the motion of a particle
+along a straight line i.e. motion in one dimension. Now we
+consider the motion of a ball, when it is thrown horizontally
+Y
+from certain height. It is observed that the ball travels forward
+as well as falls downwards, until it strikes something
+Suppose that the ball leaves the hand of the thrower at point
+A
+v,
+A (Fig 3.16 a) and that its velocity at that instant is completely
+y,
+horizontal. Let this velocity be V. According to Newton's first
+v.
+law of motion, there will be no acceleration in horizontal
+V.
+direction, unless a horizontally directed force acts on the ball.
+Ignoring the air friction, only force acting on the ball during
+Y,
+flight is the force of gravity. There is no horizontal force acting
+v.
+X
+on it. So its horizontal velocity will remain unchanged and will
+B
+C
+be Vx. until the ball hits something. The horizontal motion of
+v,
+ball is simple. The ball moves with constant horizontal
+Fig.3.10(a)
+velocity component. Hence horizontal distance x is given by
+=V,xt
+(3.22)
+The vertical motion of the ball is also not complicated, It
+will accelerate downward under the force of gravity and
+hence a = g. This vertical motion is the same as for a
+freely falling body. Since initial vertical velocity is zero,
+hence, vertical distance y, using Eq. 3.7, is given by
+x=1st
+It is not necessary that an object should be thrown with
+some initial velocity in the horizontal direction. A football
+kicked off by a player; a ball thrown by a cricketer and a
+missile fired from a launching pad, all projected at some
+angles with the horizontal, are called projectiles.
+Projectile motion is two dimensional motion
+under constant acceleration due to gravity.
+66
+---
+
+In such cases, the motion of a projectile can be studied
+Y
+easily by resolving it into horizontal and vertical
+components which are independent of each other.
+Suppose that a projectile is fired in a direction angle 0 with
+the horizontal by velocity Vi as shown in Fig. 3.16 (b). Let
+V,
+components of velocity Vi along the horizontal and vertical
+directions be V) COS e and V1 sin e respectively. The horizontal
+acceleration is a, = 0 because we have neglected air
+x
+o
+resistance and no other force is acting along this direction
+lg.2.15(b)
+whereas vertical acceleration a, = g. Hence, the horizontal
+component V remains constant and at any time i, we have
+(3.23)
+Now we consider the vertical motion. The initial vertical
+component of the velocity is V sin 0 in the upward direction.
+Using Eq. 3.5 the vertical component Vly of the velocity at any
+instant I is given by
+(3.24)
+Interesting Information
+The magnitude of velocity at any instant is
+(3.25)
+The angle o which this resultant velocity makes with the
+horizontal can be found from
+tan
+(3.26)
+In projectile motion one may wish to determine the height
+to which the projectile rises, the time of flight and horizontal
+range. These are described below.
+Height of the Projectile
+A photograph of two balls-released
+In order to determine the maximum height the projectile
+simultaneously from a mechanism
+attains, we use the equation of motion
+that allows one ball to drop freely
+while the other is projected
+2aS=2-v2
+horizontally, At any time the two
+balls are at the same level, i.e., their
+As body moves upward, so a = - g. the initial vertical
+vertical displacements are equal
+velocity Viy = V) sine and Vy # 0 because the body comes to
+rest after reaching the highest point. Since
+67
+---
+
+S=height=h
+So
+- gh = 0-v,sin'e
+or
+h=vising
+(3.27)
+Time of Flight
+The time taken by the body to cover the distance from the
+place of its projection to the place where it hits the ground
+at the same level is called the time of flight.
+This can be obtained by taking S=h=0, because the
+body goes up and comes back to same level, thus
+covering no vertical distance. If the body is projecting with
+velocity V making angle 0 with a horizontal, then its vertical
+component will be visine. Hence the equation is
+Point to Ponder
+S=vl+1/2gt2
+0
+=v,sinot-1/2gt2
+(3.28)
+where I is the time of flight of the projectile when it is
+Water in projected from two rubber
+pipes at the same speed-from one
+projected from the ground as shown in Fig. 3.16 (b).
+at an angle of 30° and from the
+other at 601. Why are the ranges
+Range of the Projectile
+equal?
+Maximum distance which a projectile covers in the
+horizontal direction is called the range of the projectile.
+To determine the range R of the projectile, we multiply the
+horizontal component of the velocity of projection with total
+time taken by the body after leaving the point of projection.
+Thus
+R=Vuxt
+using Eq. 3.28
+R=VjCG80x2vjsin0
+g
+2 sine cos0
+68
+---
+
+But, 2 sin e cos 0 = sin2 e, thus the range of the projectile
+depends upon the velocity of projection and the angle of
+projection.
+Therefore,
+R =
+Vi
+sin
+20
+(3.29)
+g
+For the range R to be maximum, the factor sin20 should
+have maximum value which is 1 when 20 = 90° or 0 = 45°
+Application to Ballistic Missiles
+A ballistic flight is that in which a projectile is given an initial
+push and is then allowed to move freely due to inertia and
+under the action of gravity, An un-powered and un-guided
+missile is called a ballistic missile and the path followed by
+it is called ballistic trajectory.
+Do You Know ?
+As discussed before, a ballistic missile moves in a way that is
+the result of the superposition of two independent motions: a
+straight line inertial flight in the direction of the launch and a
+vertical gravity fall. By law of inertia, an object should sail
+straight off in the direction thrown, at constant speed equal to
+30°
+its initial speed particularly in empty space. But the downward
+force of gravity will alter straight path into a curved trajectory.
+Range
+For short ranges and flat Earth approximation, the trajectory
+For an angin less than 45°, the
+is parabolic but the dragless ballistic trajectory for spherical
+height reached by the projectile and
+the range both will be less. When the
+Earth should actually be elliptical, At high speed and for long
+angle of projectife is larger than 45°
+trajectories the air friction is not negligible and some times the
+the height attained will be more but
+force of air friction is more than gravity. It affects both
+the range is again less.
+horizontal as well as vertical motions. Therefore, it is
+completely unrealistic to neglect the aerodynamic forces.
+The shooting of a missile on a selected distant spot is a
+major element of warfare. It undergoes complicated
+motions due to air friction and wind etc. Consequently the
+angle of projection can not be found by the geometry of the
+situation at the moment of launching. The actual flights of
+missiles are worked out to high degrees of precision and
+the result were contained in tabular form. The modified
+equation of trajectory is too complicated to be discussed
+here. The ballistic missiles are useful only for short ranges.
+For long ranges and greater precision, powered and
+remote control guided missiles are used.
+69
+---
+
+Example 3.7: A ball is thrown with a speed of 30 ms
+in a direction 30° above the horizon. Determine the height
+to which it rises, the time of flight and the horizontal range.
+Solution: Initially
+Viy = wsin0=30ms"xsin30 = 15 ms
+As the time of flight
+For Your Information
+So
+1=2x15ms
+=
+3.1s
+Ideal Path
+Height
+h=visin's
+Actual Path
+So
+In the presence of air friction the
+trajectory of a high speed projectile
+fall short of a parabolic path.
+h = 11.5 m
+Range
+R=VL3 sin 20
+So
+x 0,866 =80m
+9.8ms
+Example 3.8: In example 3.7 calculate the maximum
+range and the height reached by the ball if the angles of
+projection are (i) 45° (ii) 60°,
+Solution:
+(i) Using the equation for height and range we have
+height
+So
+h = 23m
+70
+---
+
+Range
+R=Vi sin20
+or
+R=Vi singo
+or
+x1 = 91,8 m
+(II) Using the equation for height and range we have
+height h=visin's h
+So
+2x9.8ms
+or
+h = 34.4 m
+Range
+R=VI sin20
+or
+or
+SUMMARY
+Displacement is the change in the position of a body from its initial position to its
+final position.
+Average velocity is the average rate at which displacement vector changes with
+time.
+Instantaneous velocity is the velocity at a particular instant of time. When the
+time interval, over which the average velocity is measured, approaches zero, the
+average velocity becomes equal to the instantaneous velocity at that instant.
+Ad
+Average acceleration is the ratio of the change in velocity Av that occurs within
+time interval A to that time interval.
+71
+---
+
+Instantaneous acceleration is the acceleration at a particular instant of time. It is the
+value obtained from the average acceleration as time interval of is made smaller
+and smaller, approaching zero.
+W
+0
+M
+The slope of velocity-time graph at any instant represents the instantaneous
+acceleration at that time.
+The area between velocity-time graph and the time axis is numerically equal to the
+distance covered by the object.
+Freely falling is a body moving under the influence of gravity alone.
+Acceleration due to gravity near the Earth surface is 9.8 ms2 if air friction is ignored.
+Equations of uniformly accelerated motion are
+(1) v,=v,+al
+(iii)
+v?=v? +2aS
+Newton's laws of motion
+1st Law: The velocity of an object will be constant if net force on it is zero,
+2nd Law: An object gains momentum in the direction of applied force, and the rate of
+change of momentum is proportional to the magnitude of the force.
+3rd Law: When two objects interact, they exert equal and opposite force on each
+other for the same length of time, and so receive equal and opposite impulses,
+The momentum of an object is the product of its mass and velocity.
+The impulse provided by a force is the product of force and time for which it acts. It
+equals change in momentum of the object.
+For any isolated system, the total momentum remains constant. The momentum of
+all bodies in a system add upto the same total momentum at all time.
+Elastic collisions conserve both momentum and kinetic energy. In inelastic collision,
+some of the energy is transferred by heating and dissipative forces such as friction,
+air resistance and viscosity, so increasing the internal energy of nearby objects.
+Projectile motion is the motion of particle that is thrown with an initial velocity and then
+moves under the action of gravity.
+72
+---
+
+QUESTIONS
+3.1
+What is the difference between uniform and variable velocity? From the
+explanation of variable velocity, define acceleration. Give SI units of velocity and
+acceleration.
+3.2
+An object is thrown vertically upward. Discuss the sign of acceleration due to
+gravity, relative to velocity, while the object is in air.
+3.3
+Can the velocity of an object reverse the direction when acceleration is constant?
+If so, give an example.
+3.4
+Specify the correct statements:
+a. An object can have a constant velocity even its speed is changing.
+b. An object can have a constant speed even its velocity is changing.
+c. An object can have a zero velocity even its acceleration is not zero.
+d. An object subjected to a constant acceleration can reverse its velocity.
+3.5
+A man standing on the top of a tower throws a ball straight up with initial
+velocity VI and at the same time throws a second ball straight downward with the
+same speed. Which ball will have larger speed when it strikes the ground? Ignore
+air friction.
+3.6
+Explain the circumstances in which the velocity V and acceleration a of a car are
+(i) Parallel
+(II) Anti-parallel
+(iii) Perpendicular to one another
+(iv)v is zero but a is not zero (v) a is zero but y is not zero
+3.7
+Motion with constant velocity is a special case of motion with constant acceleration.
+Is this statement true? Discuss.
+3.0
+Find the change in momentum for an object subjected to a given force for a given
+time and state law of motion in terms of momentum.
+3.9
+Define impulse and show that how it is related to linear momentum?
+3,10
+State the law of conservation of linear momentum, pointing out the importance of
+isolated system, Explain, why under certain conditions, the law is useful even
+though the system is not completely isolated?
+3,11
+Explain the difference between elastic and inelastic collisions. Explain how would
+a bouncing ball behave in each case? Give plausible reasons for the fact that K.E
+is not conserved in most cases?
+3.12 Explain what is meant by projectile motion. Derive expressions for
+a. the time of flight
+b. the range of projectile.
+Show that the range of projectile is maximum when projectile is thrown at an
+angle of 45° with the horizontal.
+3.13 At what point or points in its path does a projectile have its minimum speed, its
+maximum speed?
+73
+---
+
+3.14 Each of the following questions is followed by four answers, one of which is
+correct answer. Identify that answer.
+I.
+What is meant by a ballistic trajectory?
+a. The paths followed by an un-powered and unguided projectile.
+b.
+The path followed by the powered and unguided projectile.
+c.
+The path followed by un-powered but guided projectile.
+d.
+The-path followed by powered and guided projectile.
+II.
+What happens when a system of two bodies undergoes an elastic collision?
+a.
+The momentum of the system changes.
+b.
+The momentum of the system does not change.
+c.
+The bodies come to rest after collision.
+d.
+The energy conservation law is violated.
+NUMERICAL PROBLEMS
+3.1
+A helicopter is ascending vertically at the rate of 19.6 ms-1. When it is
+at a height of 156.8 m above the ground, a stone is dropped. How long does the
+stone take to reach the ground?
+(Ans:8.0s)
+3.2
+Using the following data, draw a velocity-time graph for a short journey on a
+straight road of a motorbike.
+Velocity (ms ¹
+0
+10
+20
+20
+20
+20
+0
+Time (s)
+0
+30
+60
+90
+120
+150
+180
+Use the graph to calculate
+(a) the initial acceleration
+(b) the final acceleration and
+(c) the total distance travelled by the motorcyclist.
+[Ans:(a) 0.33 ms 2 (c) 2.7km]
+3.3
+A proton moving with speed of 1.0 x 107 ms- passes through a0.020 cm thick
+sheet of paper and emerges with a speed of 2.0 x 106 ms Assuming uniform
+deceleration, find retardation and time taken to pass through the paper.
+(Ans:-2.4 x 10" ms) -2 3.3x1011 s)
+74
+---
+
+3.4
+Two masses m. and M2 are initially at rest with a spring compressed between
+them. What is the ratio of the magnitude of their velocities after the spring has
+been released?
+(Ans:
+vi m,
+3.5
+An amoeba of mass 1.0 x 10 ¹ kg propeis itself through water by blowing a jet of
+water through a tiny orifice. The amoeba ejects water with a speed of
+1.0x104 ms* and at a rate of kgs-1. Assume that the water is being
+continuously replenished so that the mass of the amoeba remains the same.
+a.
+If there were no force on amoeba other than the reaction force caused by
+the emerging jet, what would be the acceleration of the amoeba?
+b. If amoeba moves with constant velocity through water, what is force of
+surrounding water (exclusively of jet) on the amoeba?
+[Ans: (a) 1.0 x 10 5. (b) 1.0 x 10 17 N]
+3.6
+A boy places a fire cracker of negligible mass in an empty can of 40 g mass. He
+plugs the end with a wooden block of mass 200 g. After igniting the firecracker, he
+throws the can straight up, It explodes at the top of its path. If the block shoots out
+with a speed of 3.0ms1, how fast will the can be going?
+(Ans: 15 ms`1)
+3.7
+An electron (m =9.1x10 kg) travelling at 2.0 X 10 ms" undergoes a head
+on
+collision with a hydrogen atom (m = 67 x kg) which is initially at rest.
+Assuming the collision to be perfectly elastic and a motion to be along a straight
+line, find the velocity of hydrogen atom.
+(Ans:
+3.8
+A truck weighing 2500 kg and moving with a velocity of 21 ms -1 collides with
+stationary car weighing 1000 kg. The truck and the car move together after the
+impact. Calculate their common velocity,
+(Ans: 15 ms*¹
+3.9
+Two blocks of masses 2.0 kg and 0,50 kg are attached at the two ends of a
+compressed spring. The elastic potential energy stored in the spring is 10 J. Find the
+velocities of the blocks if the spring delivers its energy to the blocks when released.
+(Ans: 1.4 ms! -5.6 ms ¹
+3.10
+A foot ball is thrown upward with an angle of 30° with respect to the horizontal.
+To throw a 40 m pass what must be the initial speed of the ball?
+(Ans: 21 ms*
+75
+---
+
+3.11 A ball is thrown horizontally from a height of 10 m with velocity of 21 ms4 How
+far off it hit the ground and with what velocity?
+(Ans: 30m.25 ms")
+3.12 A bomber dropped a bomb at a height of 490 m when its velocity along the
+horizontal was 300 kmh
+(a) How long was it in air?
+(b) At what distance from the point vertically below the bomber at the instant the
+bomb was dropped, did it strike the ground?
+(Ans: 10s. 833 m)
+3.13 Find the angle of projection of a projectile for which its maximum height and
+horizontal range are equal.
+(Ans: 76°)
+3.14 Prove that for angles of projection, which exceed or fall short of 45° by equal
+amounts, the ranges are equal,
+3.15
+A SLBM (submarine launched ballistic missile) is fired from a distance of 3000km.
+If the Earthis considered flat and the angle of launch is 45° with horizontal, find the
+velocity with which the missile is fired and the time taken by SLBM to hit the
+target.
+(Ans: 5.42 kms 13 min)
+76
+---

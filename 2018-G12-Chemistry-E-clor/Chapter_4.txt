@@ -1,0 +1,1043 @@
+CHAPTER
+4GROUP VA AND
+GROUP VIA ELEMENTS
+Animation 4.1 :  Nitrogen-Cycle
+Source and Credit: Organic2
+Group VA and VIA Elements eLearn.Punjab4.1 INTRODUCTIONGROUP VA ELEMENTSIN THIS CHAPTER YOU WILL LEARN
+1. T he names, electronic configuration and general characteristics of group VA 
+and VIA elements.
+2.
+ T
+he preparation and properties of oxides and oxyacids of nitrogen, 
+phosphorus and halides of phosphorus.
+3.
+ C
+omparison of properties of oxygen and sulphur.
+4.
+ T
+he manufacture, properties and uses of sulphuric acid.
+The elements of group VA of the periodic table comprises nitrogen, phosphorus, 
+arsenic, antimony and bismuth.
+Properties N P As Sb Bi
+Atomic number
+Electronic configurationPhysical appearance
+Ionization energy (kJ/mol)
+Electron affinity (kJ/mol)ElectronegativityAtomic radius(pm)Ionic radius of 3- ion (pm)Melting points (°C)Boiling points (°C)Density (g/cm
+3)
+Principal oxidation states7
+[He]2s22p3
+Colourless
+gas
+1402
+-7
+3.0
+70
+171
+-210-196
+0.00125
++3, +515
+[Ne]3s
+23p3
+Black
+solid
+1012-71.7
+2.1
+110212
+44
+280
+1.83
++3, +533
+[Ar]3d
+104s24p3
+Metallic
+solid
+950
+-77
+2.0
+121222817613
+5.73
++3, +551
+[Kr]4d
+105s25p3
+Metallic
+solid
+830
+-101
+1.9
+141245631
+1750
+6.68
++3, +583
+[Xe]5d
+106s26p3
+Metallic
+solid
+700
+-110
+1.9
+157
+---
+271
+1560
+9.80
++3,+5Table . 4.1 Electronic Configurations and Physical Properties of Group VA 
+Elements3
+Group VA and VIA Elements eLearn.PunjabNitrogen and phosphorus of group VA show the typical properties of non-metals. 
+For example, they are poor conductors of heat and electricity and give acidic oxides. Their compounds are predominantly covalent. Arsenic and antimony are metalloids. However bismuth at the bottom of the group shows definite metallic properties. The metallic character increases going down the group. Nitrogen has the greatest tendency to attract the electrons, antimony and bismuth have the least. The trend down the group also shifts from covalent bonding to ionic bonding.Phosphorus, arsenic and antimony have allotropes. 4.1.1 General Characteristics
+Phosphorus and other members of the group can make use of d orbitals in their bonding. This is because the energy of these orbitals is not much greater than those of the other valence shell orbitals. For example, phosphorus can make use of its 3s, 3p and the empty 3d orbitals during bonding with otherelements.In phosphorus one of the 3s electrons can be promoted to a vacant 3d orbital giving 5 unpaired electrons in the valence shell. Phosphorus can thus make three or five covalent bonds. Indeed three and five are the common valencies of the group VA elements.
+Animation 4.2 : Nitrogen-Axides-Analyser
+Source and Credit: QldAllotropes of phosphorus i.e. red and white phosphorus are more important.
+4.2  NITROGEN AND ITS COMPOUNDS
+4.2.1  Occurrence
+Nitrogen is present in free state in air as a major constituent (78% by volume). It is an inactive gas in comparison with oxygen which is the next major constituent of air. Inorganic compounds of nitrogen are not commonly found as minerals.
+In combined state nitrogen is found in all 
+living matter including, animals and plants in the form of proteins, urea and amino acids.4
+Group VA and VIA Elements eLearn.Punjab4.2.2     Oxides of Nitrogen
+Nitrogen forms several oxides with oxygen. Common oxides of nitrogen are N2O, 
+NO and NO2. It also forms N2O3 and N2O5.
+1. Dinitr ogen Oxide (N2O)
+Preparation
+1.Dinitrogen oxide can be prepared by the action of dil, HNO, on metallic zinc.
+Fig. 4.1 Oxides of Nitrogen)fg
+N5
+Group VA and VIA Elements eLearn.Punjab2. It is usually prepared by heating ammonium nitrate to about 200°C .
+To avoid the danger of explosion, ammonium nitrate can be 
+replaced by a mixture of sodium nitrate and ammonium sulphate.
+Properties of Dinitrogen Oxide
+Dinitrogen oxide is a colourless gas with a faint, pleasant smell and a sweetish  taste. It is fairly soluble in cold water. Its mixture with a little oxygen, if inhaled for a sufficiently long time, produces hysterical laughter, hence it is also known as “laughing gas” .
+Reactions
+1. I t is not combustible but resembles oxygen in rekindling a glowing 
+splinter. Similarly, it supports combustion if burning substances, such as sulphur, phosphorus, etc. are taken in the cylinder containing this gas.2 32 2 2 4 ( ) 10 ( .) 4 ( ) ( ) ( ) 5H O( )Zn s HNO dil Zn NO aq N O g l+ → ++
+43 2 2NH NO (s) N O(g)+2H O(l) →
+2 22 ( ) 2 () () 2 ()S s N O g SO g N g+ →+
+4 2 4 10 2 (s) 10 N O( ) ( ) 10 ( )P g PO s N g+ →+6
+Group VA and VIA Elements eLearn.Punjab2. When N2O is passed over red hot copper, it is   reduced to nitrogen.
+22 () ( ) () ( )Cu s N O g CuO s N g+→+
+2. N itrogen Oxide (NO)
+Preparation
+1. N itrogen oxide can be prepared by the action of dil HNO3 on copper.
+3 32 2 3 ( )8 ( . ) 3 ( ) ( )2 ( )4 ( )Cu s HNO dil Cu NO aq NO g H O l+ → ++
+2. I t can also be prepared by passing air through an electric arc.
+22() () 2 ()N g O g NO g+���� ��
+Properties of Nitrogen Oxide
+Nitrogen oxide is a colourless gas heavier than air and sparingly soluble in water.
+Reactions
+1. W ith oxygen, it forms reddish brown nitrogen dioxide.
+22 2 () () 2 ()NO g O g NO g+→
+2. I t decomposes into N2 and O2 at about 1000°C and supports combustion.
+22 2 () () ()NO g N g O g→+7
+Group VA and VIA Elements eLearn.Punjab3. I t forms nitrosyl chloride and nitrosyl bromide with chlorine and bromine, 
+respectively in the presence of charcoal.
+2 2 () () 2 ()NO g Cl g NOCl g+→
+4.   It forms a brown coloured addition compound with FeSO4.This test is used 
+to confirm the presence of nitrates (Ring Test).
+44( ) NO(g) FeSO .NO(aq) FeSO aq +→
+5. W ith reducing agents, it is reduced to nitrous oxide or nitrogen.
+2 22 () 2 () () () ( s )HSg N Og HOg NOg S+ →++
+23 24 2 ( ) 2 () ( ) () H SO aq NO g H SO aq N O g +→ +
+6. O xidizing agents can oxidize NO to NO2 or HNO3.
+3 22 2 ( ) () ( ) 3 ()HNO aq NO g H O l NO g +→+
+4 24 4 4 3 2 6 () 1 2 () 1 0 ( ) 6 () 6 () 1 0 () 4 ( )KMnO aq H SO aq NO g KHSO aq MnSO aq HNO aq H O l + +  → + + +
+3. N itrogen Dioxide (NO2)
+Preparation
+1. I t can be prepared in small quantities by heating lead nitrate.
+32 2 2 2 ( )() 2 () 4 ( ) ( )Pb NO s PbO s NO g O g →+ +
+2. I t can also be prepared by reacting conc. HNO3 with copper.
+3 32 2 2 ( )4 ( . ) ( ) ( )2 ( )2 ( )Cu s HNO conc Cu NO aq H O l NO g+ → ++8
+Group VA and VIA Elements eLearn.PunjabAnimation 4.3 :  Nitrogen-Cycle
+Source and Credit: Organic9
+Group VA and VIA Elements eLearn.PunjabProperties of Nitrogen Dioxide
+Nitrogen dioxide is a reddish brown gas with a pungent smell. It dissolves 
+readily in water to form a blue acidic solution.
+Reactions
+1. On cooling, NO2 is converted into a yellow liquid which can be frozen to a 
+colourless solid dinitrogen tetraoxide (N2O4). If this solid is heated to 140°C, the 
+mixture contains NO2 and N2O4 but above 140°C NO2 is converted to NO and 
+O2 molecules which are colourless. This decomposition is complete at 620°C.
+2.Elements like phosphorus, potassium and carbon continue burning in NO2 as 
+it yields O2 on decomposition.
+22 2 () 2 () ()NO g NO g O g→+
+2 25 2 () 5 ( ) () 5 ( )P s NO g P O s NO g+ →+
+3.In the absence of air, it dissolves in water to form nitric and nitrous acids
+22 3 2 2 ( ) ( ) () ()NO g H O l HNO aq HNO aq+→ +
+ However in the presence of air or oxygen, nitric acid is the final product.
+4.A mixture of nitrate and nitrite is formed when NO2 is passed through 
+strong alkalies.2 22 3 4 () 2 ( ) () 4 ( )NO g H O l O g HNO aq+ +→
+2 3 22 2 () 2 ( ) () () ( )NaOH aq NO g NaNO aq NaNO aq H O l +→ + +140 620
+2 2 24 2 2
+Re() ( ) ( ) 2 () 2 () ()→→ +���� � ���� ����� � ���� �CC
+ColourlessPale ddi sh
+Yellow br ownNO g NO l N O l NO g NO g O g10
+Group VA and VIA Elements eLearn.Punjab5.  It is a strong oxidizing agent and oxidizes H2S to sulphur, ferrous sulphate 
+to ferric sulphate and KI to I2.2 3 22 2 () 2 ( ) () () ( )KOH aq NO g KNO aq KNO aq H O l +→ + +
+2 22() () ( ) ( ) ()H S g NO g H O l S s NO g+ → ++
+1. N itrous Acid (HNO2)
+Preparation
+1.     It can be prepared by dissolving dinitrogen trioxide in water at 0°C.
+23 2 2 ( ) () 2 ( ) N O g H O l HNO aq+→
+2. Pure nitrous acid solution can be prepared by reaction between ice cold 
+barium nitrite solution and ice cold dilute sulphuric acid.4.2.3     Oxyacids of Nitrogen
+There are two important oxyacids of nitrogen, nitrous acid and nitric acid.4 2 4 2 2 43 2 2 (aq) H SO (aq) NO (g) Fe (SO ) (aq) H ( ) ( )FeSO O l NO g + +→ ++
+2 22 2() 2 ( ) 2 () ( )KI aq NO g KNO aq I s+→ +
+HNO2HNO3
+22 2 4 4 2 ( ) () () ( ) 2 () + →+ Ba NO aq H SO aq BaSO s HNO aq11
+Group VA and VIA Elements eLearn.PunjabProperties of Nitrous Acid
+It is only known in the form of its salts and is stable to some extent in a 
+dilute solution.
+Reactions
+1. I t begins to decompose almost as soon as it is formed even at ordinary temperature.
+23 2 3 ( ) ( ) 2 () ()HNO aq HNO aq NO g H O g → ++
+2. I t acts as an oxidizing agent and oxidizes HI, SO2 and SnCl2into I2,H2SO4 and 
+SnCl4, respectively.
+2 22 2 (aq) 2 HI(aq) 2 H ( ) 2 ( ) ( )HNO O l NO g I s +→ ++
+22 2 2 [] HNO H O NO O→++
+2 2 24 () ( ) [] () ( )SO g H O l O g H SO aq++→
+2 24 2 ( )2 ( )2 ( a q ) ( )2 ( )2 ( ) SnCl aq HCl aq HNO SnCl aq NO g H O l + + → ++
+3. N itrous acid decolourizes acidified KMnO4 and bromine water. It 
+readily gets oxidized to nitric acid, so it also behaves as a reducing agent.
+4 24 2 24 4 2 3 2 () 3 () 5 () () 2 () 3 ( ) 5 H N O ( a q )KMnO aq H SO aq HNO aq K SO aq MnSO aq H O l + + → + ++
+2 22 3( ) ( ) (l) HNO (aq) 2 HBr(aq) HNO aq Br aq H O ++→ +12
+Group VA and VIA Elements eLearn.Punjab4. A s an acid it reacts with alkalies producing salts.
+2 22 () () () ( ) NaOH aq HNO aq NaNO aq H O l +→ +
+5.   It also reacts with organic compounds containing NH2 group and
+ produces nitrogen.
+2 22 2 2 2 2 ( ) ( ) ( ) 2 () () 3 ( )
+UreaHNO aq CO NH aq N g CO g H O l + →++
+2 65 2 65 2 2
+minobenzeneHNO (aq) C H NH ( ) C H ( ) N (g) H ( )
+A Phenoll OH l O l + → ++
+Animation 4.4 : Nitric oxide binding
+Source and Credit: ESRF13
+Group VA and VIA Elements eLearn.Punjab2. N itric Acid (HNO3)
+Preparation
+In the laboratory, nitric acid is prepared by heating potassium nitrate crystals
+ with concentrated sulphuric acid.
+3 24 4 3 ( ) ( . ) () () KNO s H SO conc KHSO aq HNO aq+ →+
+Manufacture of Nitric Acid Birkeland and Eyde's process
+This process consists of the following steps:
+(i)  Formation of nitric oxide
+Atmospheric nitrogen and oxygen are combined to give nitric oxide in an electric arc (3000°C).
+3000
+22N (g) O (g) 2 ( )CNO g +   →
+ NO f ormed is cooled quickly to 1000°C at which it does not decompose.
+Fiq 4.2 Manufacture of nitric acid form airAbsorptionNO2
+HNO314
+Group VA and VIA Elements eLearn.Punjab(ii) A t 600oC,NO combines with O2 to form NO2
+22 2 () () 2 ()NO g O g NO g+→
+(iii) N itrogen dioxide is absorbed in water to give dilute HNO3 along with 
+nitrous acid.
+22 3 2 2 N O ( g ) ( ) () () H O l HNO aq HNO aq+→ +
+(iv) N itrous acid is oxidized to nitric acid and nitric oxide which is re-oxidized to
+           NO2 .
+23 2 3HNO (g) HNO (aq) 2 NO(g) ( ) HOl → ++
+Concentrated nitric acid is a colourless volatile liquid which fumes strongly in air . It has a pungent smell. Its specific gravity at 15°C is 1.53.Properties of Nitric Acid
+Reactions
+1. N itric acid is decomposed in the presence of light even at ordinary        temperature.
+3 2 22 4 HNO (aq) 2 ( ) 4 ( ) ( ) H O l N Og Og→++
+2. I t is a very strong acid. It exhibits all the usual general properties of acids in all reactions where its oxidizing properties are not shown. It reacts in normal way with basic oxides, hydroxides and carbonates forming respective salts.
+3 2 32 2 HNO (aq) CaO(s) H ( ) ( ) ( ) +→+ O l Ca NO aq
+3 23 HNO (aq) NaOH(aq) H O( ) ( ) + →+ l NaNO aq15
+Group VA and VIA Elements eLearn.Punjab3. I t acts as a strong oxidizing agent due to the ease with which it is 
+        decomposed.
+32 2 2 ( ) ( ) 2 () [] ()HNO aq H O l NO g O g →+ +3 23 3 2 2 2 HNO (aq) Na CO (aq) 2 NaNO (aq) H ( ) (g) + → ++ O l CO
+(i) I t oxidizes non-metals to their corresponding oxides.
+(ii)
+ M
+etalloids like arsenic and antimony can be oxidized to their
+        corresponding acids.
+3 34 2 2 () 5 ( . ) ( ) 5 () ( )→ → ++ Sb g HNO conc H SbO aq NO g H O l3 34 2 2 As(g) 5HNO ( .) ( ) 5 ( ) ( )+ → ++ conc H AsO aq NO g H O l3 2 22 C(s) 4 HNO ( .) CO (g) 4 NO (g) 2 H O( )+ →+ + conc l
+3 2 2 24 ( ) 6 ( .) 2 ( ) 6 ( ) (aq)+ →++S s HNO conc H O l NO g H SO
+3 34 2 2 5HNO ( .) P(s) H PO (aq) H ( ) 5 NO (g) +→ + + conc O l
+Animation 4.5 : Nitric oxide binding
+Source and Credit: ESRF16
+Group VA and VIA Elements eLearn.Punjab(iii) N itric acid behaves differently with different metals.
+ (a) G old, platinum, iridium and titanium do not react.
+ (b
+)
+ I
+ron, cobalt, nickel, chromium, aluminium are rendered passive by   
+                 acid due to the formation of a film of their oxides over them .
+ (c)
+ T
+ungsten and uranium are changed into their oxides.
+ (d)
+ M
+agnesium, calcium and manganese give hydrogen with dilute nitric
+                 acid.
+3 32 2 () 2 ( ) ( )( ) ( )Mn s HNO dil Mn NO aq H g+→ +
+   (e)  C opper and lead give nitric oxide with dilute acid and nitrogen 
+         dioxide with concentrated acid.
+3 32 2 3 ( )8 ( ) 3 ( ) ( )2 ( )4 ( )Cu s HNO dil Cu NO aq NO g H O l+ → ++
+3 32 2 2 ( s )4 H N O ( . ) ( ) ( )2 ( )2 ( )Cu conc Cu NO aq NO g H O l + → ++3 32 2 ( )2 ( ) ( ) ( )H ( )Mg s HNO dil Mg NO aq g+→ +
+ (f) M ercury gives mercurous nitrate and nitric oxide with dilute nitric acid.
+ With concentrated acid, it gives mercuric nitrate and NO23 2 32 2 6 ( ) 8HNO ( ) 3 ( ) ( ) 2 ( ) 4 ( )Hg l dil Hg NO aq NO g H O l+ → ++
+3 32 2 2 ( )4 ( ) ( ) ( )2 ( )2 ( )Hg l HNO conc Hg NO aq NO g H O l+ → ++
+ (g) Silv er reacts with nitric acid to give silver nitrate and nitric oxide
+33 2 3 ( )4 ( ) 3 ( ) ( )2 ( )Ag s HNO aq AgNO aq NO g H O l+ → ++17
+Group VA and VIA Elements eLearn.Punjab (h) Dilut e nitric acid gives ammonium nitrate, when it reacts with tin. With
+ 
+  c
+oncentrated acid meta-stannic acid is produced.
+ 
+3 23 2 2 Sn(s) 4 ( .) ( ) 4 ( ) ( ) HNO conc H SnO aq NO g H O l+ → ++3 32 4 3 2 4 ( ) 10 ( .) 4 ( ) ( ) ( ) 3 ( )+→ ++ Sn s HNO dil Sn NO aq NH NO aq H O l
+(i) Zinc g ives different products depending upon the concentration of 
+acid and  temperature. Very dilute nitric acid gives NH4NO3. Moderately 
+dilute nitric acid gives nitrous oxide while concentrated nitric acid gives NO2.
+3 32 2 2 4 ( ) 10 ( .) 4 ( ) ( ) ( ) 5 ( )Zn s HNO dil Zn NO aq N O g H O l+ → ++3 32 4 3 2 4 ( ) 10 ( .dil.) 4 n(NO ) ( ) ( ) 3 ( )Zn s HNO v Z aq NH NO aq H O l+ → ++
+3 32 2 2 ( )4 ( . ) ( ) ( )2 N O 2 ( )+ → ++ Zn s HNO conc Zn NO aq H O l
+4 .Reducing agents like FeSO4, H2S and HI are converted to F e2(SO4)3, S and I2 
+respectively, when they react with conc. HNO3
+32 2 6 ( )2 ( . ) 4 ( )2 ( )3( )HI aq HNO conc H O l NO g I s+ →++32 2 2 ( ) 3 () 4 ( ) 2 () 3( ) + →++ HNO aq H S g H O l NO g S s4 2 4 3 2 43 2 6 ( )3 ( )2 ( . ) 3 ( ) ( )2 ( )4 ( ) + + → ++ F eSO aq H SO aq HNO conc Fe SO aq NO g H O l18
+Group VA and VIA Elements eLearn.Punjab5 A qua Regia
+When one volume of concentrated HNO3 is mixed with 3 volumes of concen-
+trated HCl, aqua regia is formed.It is employed to dissolve gold and platinum.
+3 22 ( .) 3HC1(conc.) NOC1(aq) 1 ( ) 2 ( ) HNO conc C g H O l + → ++
+NOCI formed is decomposed giving NO and Cl2
+1 () [1 ] () NOC NO g C g→+
+This liberated chlorine gas converts noble metals such 
+as gold and platinum into their water soluble chlorides.
+3 ( ) 3 [ 1 ] () 2 1 ()Au s C aq AuC aq+→
+6.  Nitric acid reacts with glycerine, toluene and phenol to prepare materials used as explosives like nitroglycerine, trinitrotoluene (TNT) and picric acid, respectively.Animation 4.6 : Gold Coin Dissolving in Acid
+Source and Credit:  Makeagif19
+Group VA and VIA Elements eLearn.PunjabUses
+It is used
+4.
+ f
+or making varnishes and organic dyes.3.
+ in the manufac
+ture of explosives.2.
+ in the manufac
+ture of nitrogen fertilizers.1.
+ as a labor
+atory reagent.
+4.3     PHOSPHORUS AND ITS COMPOUNDS
+4.3.1     Occurrence
+Phosphorus is the second member of group VA. Its name comes 
+from Greek word meaning “Light bearing” . Unlike, nitrogen it does not occur in free state in nature. Most of the phosphorus is found in deposits of phosphate rock, i.e.impure Ca
+3(PO4)2 and apatite Ca5F (PO4)3.
+As a constituent of plant and animal tissues, it is essential for their normal growth. It occurs especially in seeds, the yolk of eggs, the nerves, brain and bone marrows, usually in the form of lecithins. In the form of calcium phosphate, it is an essential constituent of bones. Bone ash (80% calcium phosphate) is an important source of phosphorus.
+4.3.2     Allotropes of Phosphorus
+Phosphorus can exist in at least six different solid allotropic forms, of which we will mention only three.
+White phosphorus is a very reactive, poisonous, volatile, waxy, yellowish 
+white substance, which is soluble in benzene and carbon disulphide. It exists in the form of tetraatomic molecules (P
+4) which have a tetrahedral 
+structure, Fig. 4.3. It boils at 280°C to P4 vapours which dissociate above 700°C 
+to form P2 molecules.20
+Group VA and VIA Elements eLearn.Punjab
+Fig. 4.4 Red phosphorusFig.4.3 White phosphorus
+Black phosphorus is the third form which is most stable under ordinary 
+conditions. Black phosphorus is prepared by heating red phosphorus to high temperature and pressure.
+4.3.3    Halides of Phosphorus
+1.          Phosphorus Trichloride (PCl3)
+Preparation
+1. I t is usually prepared by melting white phosporus in a retort in an inert 
+atmosphere of CO2 and current of dried chlorine is passed over it. The vapours 
+of PCl3 are collected in a flask kept in an ice-bath.
+23 2 ( ) 3 1( ) 2 1()P s C g PC l+→
+2. I t may also be prepared by the action of phosphorus with thionyl          chloride.
+2 3 2 22 2 ( ) 4 1() 2 1() 2 ( ) 1()P g SOC l PC l SO g S C s+ →++Red phosphorus is much less reactive and less poisonous than white phosphorus. It is prepared by heating white phosphorus in the presence of a little iodine or sulphur as a catalyst upto 250°C in vacuum. The tetra-atomic molecules of red phosphorus combine to form macromolecules, Fig. 4.4 .21
+Group VA and VIA Elements eLearn.PunjabProperties of Phosphorus Trichloride
+It is a colourless fuming liquid which boils at 76°C and freezes at-112°C.
+Reactions
+1. It combines with chlorine to form phosphorus pentachloride
+32 51 ( ) Cl ( ) 1 (s)PC l g PC+→
+2. It combines with atmospheric oxygen slowly to form phosphorus 
+      oxychloride.
+3. It is soluble in organic solvents, but readily reacts with water to form 
+     phosphorus acid.
+4. It reacts with alcohols and carboxylic acidsforming the respective chloro     derivatives and H
+3PO3.
+3 3 3 33 3 () 1() 3 1 () ()CH OH l PC l CH C l H PO l +→ +
+3 3 3 33 3 () 1() 3 1 () ()CH COOH l PC l CH COC l H PO l +  → +32 3 2 P C 1() ( ) 2 1( s ) l O g POC+→
+3 2 33P C 1() 3 () ( ) 3 1 ( ) l H O l H PO aq HC aq+→ +
+2.          Phosphorus Pentachloride (PC15)
+Preparation
+1.
+ B
+y passing dry chlorine through phosphorus trichloride.
+32 51 ( ) 1 ( ) 1 (s)PC l C g PC+→
+2. It may also be prepared by passing dry chlorine in a well cooled solution of phosphorus in carbon disulphide
+25 2 () 5 1( ) 2 1( )P l C g PC s+→22
+Group VA and VIA Elements eLearn.PunjabProperties of Phophorus Pentachloride
+1.    It is a yellowish white crystalline solid which sublimes at about 100°C. It 
+gives fumes in moist air with an irritating smell.
+Reactions
+1. It decomposes on heating producing PCl3 and chlorine.
+5 321( ) 1() 1( )PC s PC l C g→+
+2. I t gets decomposed by water forming phosphorus oxychloride which further reacts with water to produce orthophosphoric acid.
+52 3
+3 2 34
+5 2 341() () 1() 2 1 ( )
+1() 3 () ( ) 3 1 ( )
+1 ( ) 4 ( ) () 5 1 ()PC s H O l POC l HC aq
+POC l H O l H PO aq HC aq
+PC s H O l H PO aq HC aq+→ +
++→ +
++→ +
+3. I t converts metals into their chlorides.
+5 23 () 1 () 1() 1 ( )Zn s PC s ZnC s PC l+→ +
+4.3.4    Oxides of Phosphorus
+1.          Phosphorus Trioxide, P2O3 (P4O6)
+Preparation
+1. P2O3 can be prepared by burning white phosphorus in a limited supply  of 
+air.
+4 2 23 () 3 ( ) 2 ()P s O g PO s+→
+Properties of Phoshorus Trioxide
+It is a white waxy solid with garlic like odour. It melts at 22.8°C and boils at 173°C. It is highly poisonous in nature.23
+Group VA and VIA Elements eLearn.Punjab1. W hen heated in the presence of air or oxygen, it is converted into 
+phosphorus pentoxide.
+23 2 25() O( ) ()PO s g PO s+→
+2. I t reacts with cold water to give phosphorus acid.
+  W ith hot water, it forms phosphine and phosphoric acid.
+23 2 3 4 3 2 () 6 () 3 ( ) ( )P O s H O l H PO aq PH g+→ +
+ Phosphorus Pentoxide, P2O5 or P4O10
+Preparation
+1. I t is prepared by burning phosphorus in excess of dry air.
+It is a white hygroscopic powder having a faint, garlic like odour due to the presence of traces of P
+2O3. It sublimes at 360°C.Properties of Phosphorus Pentoxide
+Reactions
+1. W ith cold water phosphorus pentoxide forms metaphosphoric acid.
+25 2 3 () H () 2 ( )P O s O l HPO aq+ →
+    With hot water, it forms orthophosphoric acid4 2 25 () 5 ( ) 2 ()P s O g PO s+→23 2 3 3 () 3 () 2 ()+  → P O s H O l H PO lReactions24
+Group VA and VIA Elements eLearn.Punjab25 2 3 4 () 3 () 2 ( )P O s H O l H PO aq+→
+2. I t is a powerful dehydrating agent, thus, with HNO3, H2SO4, CH3COOH and
+C2H5OH, it gives N2O5, SO3, (CH3CO)2O and C2H4 ,respectively.
+3 25 2 5 3 2 () ( s ) N ( ) 2 ()HNO aq P O O g HPO aq +→ +
+2 4 25 3 3 () ( ) ( ) 2 () H SO aq P O s SO g HPO aq +→+
+3 25 3 2 3 2 () ( ) ( ) ( ) 2 ()
+AceticanhydrideCH COOH aq P O s CH CO O l HPO aq +→ +
+25 25 24 3 C H OH(l) P O (s) C H (g) 2 HPO (aq) +→ +
+4.3.5    Oxyacids of Phosphorus
+1.          Phosphorus Acid (H3PO3)
+Preparation
+1. It is prepared by dissolving phosphorus trioxide in cold water.
+23 2 3 3 () 3 () 2 ( )P O s H O l H PO aq+→
+2. It is also obtained by the hydrolysis of phosphorus trichloride.
+3 2 331() 3 () ( ) 3 1 ( )PC l H O l H PO aq HC aq+→ +25
+Group VA and VIA Elements eLearn.PunjabProperties of Phosphorus Acid
+ I t is a white crystalline solid, which melts at 73.6°C.
+Reactions
+1. I t decomposes into phosphine and orthophophoric acid on heating.
+2.
+ I
+t is a powerful reducing agent and reduces CuSO4, AgNO3, etc. to the 
+         metallic state.
+3 3 42 3 42 4 ( ) () ( ) () () ( ) H PO s CuSO aq H O l H PO aq H SO aq Cu s+ +→ + +33 34 34 () 3 () ( ) →+ H PO s H PO l PH g
+33 3 4 34 4 3 2 ( )2 ( )2 ( ) ( )2 ( ) ( )2 ( ) H PO s AgNO aq NH OH aq H PO aq NH NO aq H O l Ag s+ + → + ++
+3. I t reacts with oxygen to form orthophosphoric acid.
+33 2 342 () ( ) 2 ()H PO s O g H PO s+→
+4. Nasc ent hydrogen produced by Zn/HCl reduces H3PO3 to phosphine
+33 3 2 (s) 6[H](g) PH (g) 3 ( ) H PO H O l +→+
+2.         Orthophosphoric Acid (H3PO4)
+Preparation
+1. I t is prepared by dissolving phosphorus pentoxide in hot water.
+25 2 3 4 () 3 () 2 ( )P O s H O l H PO aq+→
+2. I t is also obtained by heating red phosphorus with concentrated HNO3.
+3 34 2 2 ( )5 ( . ) ( )5 ( ) ( )P s HNO conc H PO aq NO g H O l+ → ++
+3. H ydrolysis of phosphorus pentachloride also gives orthophosphoric acid.
+5 2 341 ( ) 4 ( ) () 5 1 ()+→ + PC s H O l H PO aq HC aq26
+Group VA and VIA Elements eLearn.Punjab4. On lar ge scale, it can be prepared by heating a mixture of 
+phosphorite (bone ash) and sand in an electric furnace. The phosphorus 
+pentoxide formed is treated with hot water to obtain phosphoric acid.
+25 2 3 4 () 3 () 2 ( )P O s H O l H PO aq+→
+Properties of Orthophosphoric  Acid
+It is a colourless, deliquescent crystalline solid which melts at 41°C. It is soluble in water.
+Reactions
+1. It is a weak tribasic acid. It reacts with NaOH to give three series      of salts.
+34 24 2 i .       () () () ( ) H PO aq NaOH aq NaH PO aq H O l +→ +
+2 4 34 2 iii.    ( ) (aq) Na PO (aq) ( ) Na HPO aq NaOH H O l +→ +
+2. On heating, it loses water and converted into pyro and metaphosphoric         acid.3 42 2 3 2 5 ( )() 3 () 3 () ()Ca PO s SiO s CaSiO s P O s +→ +
+24 2 4 2 i i .      () () () ( ) NaH PO aq NaOH aq Na HPO aq H O l +→ +
+22240 316
+3 4 42 7 3 22CC
+HO HO
+Orthophosphoric Pyrophosphoric MetaphosphoricH PO H P O HPO−− →  →
+acid acid acid27
+Group VA and VIA Elements eLearn.PunjabGROUP VIA ELEMENTS
+4.4     Group VIA Elements
+The group VIA of the periodic table consists of oxygen, sulphur, selenium, 
+tellurium and polonium. These elements are called chalcogens from the Greek for “copper giver” , because they are often found in copper ores. The electronic configuration and physical properties of group VIA elements are shown in Table 4.2
+Table . 4.2 Electronic Configuration and Physical Properties of Group VIA 
+Elements
+Physical Properties O S Se Te Po
+Atomic number
+Electronic configurationIonization energy (kJ/mol)Electron affinity (kJ/mol)ElectronegativityAtomic radius(pm)Ionic radius 2-ion (pm)Melting points (°C)Boiling points (°C)Density (g/cm
+3)8
+[He]2s22p4
+1314
+-141.1
+3.5
+66
+140
+-218-183
+0.0014316
+[Ne]3s
+23p4
+1000
+-200.42
+2.5
+104184113
+444.6
+2.0634
+[Ar]4s24p4
+941
+-195
+2.4
+117198217684
+4.852
+[Kr]5s
+25p4
+869
+-183
+2.1
+137221450990
+6.2584
+[Xe]6s
+26p4
+813
+-180
+2.0
+152
+-----
+254962
+9.4
+4.4.1      General Characteristics
+All the elements of group VIA are non-metals except Po which is a 
+radioactive metal. Atomic radii, density, melting and boiling points generally increase with increase in atomic number down the group. Ionization energies of the group members are very high which shows their reluctance to lose electrons. Oxygen is the most electronegative element after fluorine. All these elements show the property of allotropy.28
+Group VA and VIA Elements eLearn.PunjabOxygen has two allotropic forms (O2 and O3), sulphur has 3(α, β, γ), Se has 
+two (red and grey) ,Te has two (metallic and non-metallic). They also show 
+the property of catenation. This property decreases down the group. All the elements are polymeric in nature ( they form poiy-atomic molecules). They attain the electronic configuration of the nearest noble gas by gaining 2 electrons forming O
+-2, S-2, Se-2, etc. Except oxygen the other members of 
+the group show a covalency of +2 ,+4, and +6, for example, SCl2, SCl4, SCl6. 
++2 oxidation state is shown due to 2 unpaired electrons in the p-orbitals. +4 oxidation state is shown when 1 electron from p-orbilal is promoted to the next vacant d-orbital, while + 6 oxidation state is shown when another electron from s-orbital is also promoted to the next vacant d-orbital.
+4.4.2   Occurrence
+Oxygen is the most widely distributed and common of all the elements, comprising about 50% of the earth’s crust.About one-fourth of the atmospheric air by weight consists of free oxygen and water contains nearly 89% of combined oxygen. The calcium carbonate which occurs as chalk, limestone, marble etc, contains 48% oxygen. Silica which is found in flint, quartz, etc, contains more than 53% oxygen by weight.
+Sulphur is also widely distributed in nature both as free and in combined forms. Many important metallic ores are sulphides, e.g, galena (PbS), 
+Zinc blende (ZnS), cinnabar (HgS), stibnite (Sb
+2S3), copper pyrite 
+(Cu2S.Fe2S3), iron pyrite (FeS2), etc. Some important sulphates are 
+also found in nature, e.g. gypsum (CaSO4), heavy spar (BaSO4), 
+etc.
+Sulphur also occurs in organic compounds present in animals and vegetables. Onions, garlic, mustard, hair, many oils, eggs and proteins consist of compounds containing sulphur in them . It also occurs as a constituent of coal and petroleum .
+4.4.3     C omparison of Oxygen and Sulphur
+Smililarities:
+1. B oth oxygen and sulphur have same outer electronic   configuration of 
+ns2p4.
+2.
+ B
+oth oxygen and sulphur are usually divalent.
+3.
+ B
+oth oxygen and sulphur exhibit allotropic forms.29
+Group VA and VIA Elements eLearn.Punjab4. B oth have polyatomic molecules. Oxygen has diatomic O2, while sulphur    
+has S2 and   S8 molecules.
+5.
+ B
+oth combine with metals in the form of O-2 and S-2 with oxidation state -2.
+6.
+ B
+oth combine with non-metals and form covalent compounds, e.g, H2O 
+and H2S, CO2  and CS2 ,etc.
+7.
+ B
+oth are typical non-metals.
+8.
+ B
+oth are found in free and combined states on earth.
+Dissmililarities:
+Oxygen Sulphur
+1. T here are two allotropic forms of 
+Oxygen-O2 and O3.There are 3 allotropic forms of sulphur, 
+rhombic, monoclinic and plastic.
+2.
+ I
+t is gas at ordinary temperature. It is solid at ordinary temperature.
+3.
+ O
+xygen is sparingly soluble in water. Sulphur is not soluble in water.
+4.
+ O
+xygen helps in combustion. Sulphur is itself combustible.
+5.
+ I
+t is paramagnetic in nature. It is diamagnetic in nature. 
+6.
+ I
+t does not react with water. When steam is passed through boiling sulphur a little hydrogen sulphide and sulphur dioxide are formed.
+7.
+ I
+t does not react with acids. It is readily oxidized by conc. sulphuric acid or nitric acid.
+8.
+ I
+t does not react with alkalies. It reacts with alkali solution and forms sulphides and thiosulphate.
+9.
+ I
+t shows -2 oxidation state. It shows oxidation states of -2, +2, +4 and +6.30
+Group VA and VIA Elements eLearn.Punjab4.5     SULPHURIC ACID (H2SO4)
+Sulphuric acid was first prepared by a muslim scientist Jabir bin Hayyan 
+in 8th century. In Europe, in 14th and 15th centuries, its preparation on 
+commercial level was started due to the awareness of its properties and uses. It was called “oil of vitriol” .It does not occur as such in nature , however, small quantities of H
+2SO4 are found in the waters of some springs and rivers.
+4.5.1      Manufacture of Sulphuric Acid
+ Sulphuric acid is being manufactured commonly by contact process.
+This method was developed by Knietsch in Germany. Basically, it involves the catalytic combination of sulphur and oxygen to form SO
+2 which is then 
+dissolved in water to form H2SO4.Contact Process
+Animation 4.8 :  Sulfuric acid - contact process
+Source and Credit: Dynamicscience31
+Group VA and VIA Elements eLearn.PunjabSO2 obtained by burning sulphur or iron pyrites is oxidized to SO3 in the 
+presence of V2O5 which acts as a catalyst. The  best  yield  of  SO3 can be obtained 
+by using excess of oxygen or air and keeping the temperature between 
+400-500°C. SO3 formed is absorbed in concentrated H2SO4 and “Oleum” (H2S2O7) 
+formed can be converted to sulphuric acid of any strength by mixing adequate quantities of water.The process is completed in the steps given below.Principle
+a.
+ Sulphur Bur
+ners
+ Sulphur or iron pyrites are burnt in excess of air to produce SO2.
+22 ( ) () ()S s Og S Og+→
+2 2 23 2 4 () 1 1 ( ) 2 () 8 ( )FeS s O g Fe O s SO g+→ +
+b. P urifying Unit
+SO2 is purified from impurities like dust and arsenic oxide, to avoid 
+poisoning  of the catalyst. Purifying unit consists of the following parts.
+(i)
+ D
+ust remover
+ Steam is injected to remove dust particles from the gases.
+(ii)
+ C
+ooling Pipes
+ T
+he gases are passed through lead pipes to cool them to 100°C.
+The cooled gases are washed by a spray of water, as SO2 is not soluble in 
+water at high temperature.(iii)
+ 
+Scrubbers32
+Group VA and VIA Elements eLearn.Punjab(iv) Dr ying Tower
+The moisture of gases is removed by concentrated H2SO4 trickling down through
+ the coke filled in this tower.
+(v)
+ A
+rsenic Purifier
+(vi)
+ T
+esting boxArsenic oxide is then removed by passing the gases through a chamber 
+provided with shelves packed with freshly prepared ferric hydroxide.
+In this box a beam of light is introduced which indicates the presence or absence of solid particles. If present the gases are sent back for further purification.
+c.
+ C
+ontact Tower
+Preheated gases at 400-500°C are passed through vertical iron columms packed with the catalyst V
+2O5. Here SO2 is oxidized to SO3.
+() ()       269.3               .  / H kJ mol−+ → → ∆= −
+25400 500 C
+22 3 VO2SO g O g 2SO
+The reaction is highly exothermic so no heating is required once the reaction is started.
+d.
+ A
+bsorption Unit
+The SO3 obtained from the contact tower is dissolved in 98% 
+H2SO4 to form pyrosulphuric acid (oleum), H2S2O7. It can be diluted 
+with water to get any required concentration of sulphuric acid.
+2 4 3 22 7 ( ) ( ) () H SO aq SO g H S O l +→
+22 7 2 2 4 () () 2 ( ) H S O l H O l H SO aq +→33
+Group VA and VIA Elements eLearn.Punjab
+Fig.4.5 Contact Process
+4.5.2      Properties
+Physical Properties
+1.
+ P
+ure sulphuric acid is a colourless oily liquid without an odour.
+2.
+ I
+ts specific gravity is 1.834 at 18°C.
+3.
+ I
+t freezes at 10.5°C.
+4.
+ I
+ts boiling point is 338°C.
+5.
+ I
+t dissolves in water liberating a lot of heat which raises the temperature of 
+the mixture up to 120°C. H2SO4 should always be poured in water in a thin 
+stream to avoid any accident.
+6.
+ P
+ure acid is a nonconductor of electricity but the addition of a little water 
+makes it a good conductor.
+7.
+ I
+t is extremely corrosive to skin and causes very serious burns to all the tissues.
+Reactions
+1.
+ I
+t is stable at ordinary temperature but on strong heating it dissociates 
+        into SO3 and H2O.
+24 3 2H SO SO H O→+34
+Group VA and VIA Elements eLearn.Punjab2.It is a strong acid. In an aqueous solution it completely ionizes to give hydrogen, 
+hydrogen sulphate and sulphate ions. The dissociation take place in two steps.
+3. R eaction as an Acid
+(i) R eactions with alkalies
+(a)
+ C
+old dilute acid reacts with almost all metals to produce hydrogen gas and 
+sulphate salts.24 4 2 () () () ( ) H SO aq NaOH aq NaHSO aq H O l +→ +
+4 24 2 () () ( ) NaHSO aq NaOH Na SO aq H O l +→ +
+(ii) R eactions with carbonates and hydrogen carbonates.
+(iv)
+ R
+eaction with metals(iii)
+ R
+eactions with salts2 3 24 24 2 2 () () () ( ) ( ) Na CO aq H SO aq Na SO aq H O l CO g + → ++
+24 4 2( ) () () ( ) +→+s aq aq g Zn H SO ZnSO H24 4 2( ) () () ( ) +→+s aq aq g Fe H SO FeSO H3 24 4 3() () () ( ) + →+ Conc KNO aq H SO KHSO aq HNO g heat
+24 24() 2 NaC1(s) H SO ( ) 2 1( ) +  → +StrongConc Na SO aq HC g3 24 24 2 2 2 () () () 2 ( ) 2 C O ( g ) + → ++ NaHCO aq H SO aq Na SO aq H O l24 2 3 4 ( ) () () ( )+−+→ + H SO aq H O l H O l HSO aq
+2
+42 4 3( ) () ( ) ()− −++→ + HSO aq H O l SO aq H O l35
+Group VA and VIA Elements eLearn.Punjab(b) C old concentrated H2SO4 does not react with most of the metals like Cu, Ag, 
+Hg, Pb, Au.
+(c)
+ W
+ith certain metals hot concentrated sulphuric acid gives metal  sulphates,  
+water and SO2.
+H2SO4 has a great affinity for water , so it acts as dehydrating agent and eliminates 
+water from different compounds.4. R eactions as a Dehydrating Agent
+(i) W ith oxalic acid it forms CO2 and CO.
+24.
+22
+()|                    () () ( ) ++  conc H SO COOH
+COOH sCO g CO g H O l24 4 2 2 () 2 ( ) ( ) 2 () ( )+ → ++ Hg l H SO conc HgSO aq H O l SO g24 24 2 2 2 ( )2 ( ) ( )2 ( ) ( )+ → ++ Ag s H SO conc Ag SO aq H O l SO g24 4 2 2 ( )2 ( ) ( )2 ( ) ( )+ → ++ Cu s H SO conc CuSO aq H O l SO g24 4 2() ( ) () () + →+S aq g g Sn H SO SnSO H24 4 2( ) () () ( ) +→+s aq aq g Mg H SO MgSO H
+(ii) W ith formic acid, CO is formed.
+(iii)
+ W
+ith ethyl alcohol it forms ethylene.24. H
+2 () () () → +conc SOHCOOH CO g H O ll
+24.
+25 2 4 2 100C H OH( ) (g) ( ) → +Conc H SO
+CCH HO36
+Group VA and VIA Elements eLearn.Punjab24.
+6 10 5 2 ( ) 65Conc H SOC H O n nC nH O → +
+5. A s an Oxidizing Agent
+ H2SO4 acts as a strong oxidizing agent.
+(i)
+ I
+t oxidizes C and S giving CO2 and SO2 , respectively.
+24 2 2 S(s) 2 H SO ( ) 3SO (g) 2 H O(l)+ →+ conc24 2 2 2 ( ) 2 H SO ( ) CO (g) 2SO (g) 2 H O(g)+ →+ + C s c onc24.
+12 22 11 2() () ( )12 11 → +Conc H SOs sg C H O C HO2.
+6 12 6 2() () ( )66  → +Conc H SOs sg CH O C HO
+(ii) H2S is oxidized to S .
+2 24 2 2 () ( ) ( ) () 2 ()H S g H SO aq S s SO g H O g+ →+ +
+(iii) R eactions of H2SO4 with HBr and HI produces bromine and iodine respectively.
+24 2 2 2 2 ( ) ( ) () () 2 ()HBr aq H SO aq Br g SO g H O g+ →++
+24 2 2 2 2 ( ) ( ) ( ) SO (g) 2 H O(g)HI aq H SO aq I g+ →+ +
+6 . R eactions with Gases.
+(i) I t absorbs SO3 and forms oleum
+2 4 3 22 7() H SO SO (g) H S O (l) +→ Conc(iv) W ith wood, paper, sugar and starch it forms carbon and water.37
+Group VA and VIA Elements eLearn.Punjab(ii) I t reacts with ammonia forming ammonium sulphate.
+7. R eaction with Benzene
+Benzene sulphonic acid is produced when H2SO4 reacts with benzene.3 2 4 42 4 2 N H ( g ) H () ( ) ()+→ SO aq NH SO aq
+66 2 4 65 2 2
+ acid() () () () +→ +
+Benzenesulphonicconc C H l H SO C H SO OH l H O l
+8. P recipitation Reactions
+White precipitates are produced when H2SO4 reacts with solutions of BaCl2, 
+Pb(NO3)2 and Sr(NO3)2.
+9. R eactions with Oxidizing Agents
+It reacts with oxidizing agents like KMnO4 and K2Cr2O7 to liberate oxygen which 
+may oxidize other compounds.32 2 4 4 3(aq) (aq) ( ) (aq) Pb(NO ) H SO PbSO 2HNO + → ↓+ s2 24 4(aq) (aq) ( ) (aq) BaCl H SO BaSO 2 HCl+ → ↓+ s
+4 24 24 4 2
+4 2 4 2 43 2
+4 24 4 24 4 2 4 3 2() () () () () () ( )2 3           2 3 5[ ]
+10 5 5[ ] 5 ( ) 5
+2 8 10 2 5 ( ) 8+ → + ++
++ +→ +
++ + →+ + +aq aq aq aq aq aqKMnO H SO K SO MnSO H O O
+FeSO H SO O Fe SO H O
+KMnO H SO FeSO K SO MnSO Fe SO H O l38
+Group VA and VIA Elements eLearn.Punjab4.5.3      Uses of Sulphuric Acid
+ I t is used
+1.
+ in the manufac
+ture of fertilizers like ammonium sulphate and calcium  
+        superphosphate.2.
+ in r
+efining of petroleum to remove nitrogen and sulphur compounds.
+3.
+ in the manufac
+ture of HCl, H3PO4, HNO3 and sulphates.
+4.
+ in the manufac
+ture of many chemicals, dyes, drugs, plastics, disinfectants, 
+        paints, explosives, synthetic fibers, etc.5.
+ in elec
+trical batteries and storage cells.
+6.
+ as a deh
+ydrating agent for drying gases.
+7.
+ as a labor
+atory reagent.
+8.
+ in t
+extile, iron, steel, leather and paper industries.
+KEY POINTS
+1. I n group VA the metallic character increases down the group. Nitrogen and 
+phosphorus are non-metals, arsenic and antimony are metalloids while bismuth is a metal.
+2.
+ P
+hosphorus and other members of VA group can make use of d-orbitals in 
+bonding.
+3.
+ C
+ommon oxides of nitrogen are N2O, NO, NO2,N2O3 and N2O5.
+4.
+ N
+itrogen forms two oxyacids, HNO2 and HNO3, HNO2 is an unstable acid and 
+exists only in solution.
+5.
+ HNO3 is not only a strong acid but it also acts as a strong oxidising agent.
+6.
+ A
+qua regia is a mixture of one volume of concentrated HNO3 and three volumes 
+of concentrated HCl.
+7.
+ P
+hosphorus exists in six allotropic forms. White phosphorus is very reactive as 
+compared to red phosphorus.
+8.
+ P
+hosphorus forms two types of chlorides PCl3, PCl5 and two types of oxides 
+P2O3 andP2O5
+9. Just like nitr ogen, phosphorus also gives two types of oxyacids; phosphorus 
+acid (H3PO3 ) and phosphoric acid (H3PO4).
+10.
+ P
+osphoric acid is a weak tribasic acid and it gives three series of salts with 
+strong base.39
+Group VA and VIA Elements eLearn.Punjab11.    Group VIA of the periodic table contains only one metal, polonium, the rest 
+of members are non-metals. All these elements show the property of allotropy and they   are polymeric in nature12.   Oxygen and sulphur are the most abundant elements of groupVIA. Oxygen is the most widely distributed of all the elements. Sulphur is widely distributed in nature in both free and combined forms13.   Sulphuric acid is commercially prepared by oxidation of SO
+2 in the presence 
+of a catalyst to SO3 in a process called Contact Process.
+14.   H2SO4 is a very strong acid. It acts as a dehydrating agent as well as an 
+oxidizing agent.
+EXERCISE
+Q.1 F ill in the blanks.(i)
+ T
+he elements________ of group VA   are called metalloids.
+(ii)
+ I
+n Birkeland and Eyde’s process is prepared from atmospheric oxygen and   
+nitrogen.(iii)
+ T
+he tendency to form long chain of atoms is called ________ .
+(iv)
+ A
+ll the elements of group VIA show the property of________ .
+(v)
+ S
+elenium shows two allotropic forms which are called ___ forms.
+vi)
+ Specific g
+ravity of H2SOs at 18°C is _________ .
+vii)
+ 
+H2 is produced by reacting H2SO4 with metals, like_________ .
+viii)
+ T
+he elements of group VIA exhibit maximum oxidation state of _________ .
+ix)
+ T
+he outermost shell of group________ elements contain six electrons.
+x)
+ O
+xygen shows______behaviour due to the presence of unpaired electrons.
+xi)
+ C
+onc.phosphoric acid acts as a___________.
+xii)
+ N
+itrogen is a gas while other elements of the same group are _______ .
+xiii)
+ Noble metals like gold and pla
+tinum are dissolved in _______ .
+xiv)
+ Sulphur is diff
+erent from oxygen because it shows _________ oxidation states.
+xv)
+ 
+HNO3 is used in the manufacture of _________ fertilizers.40
+Group VA and VIA Elements eLearn.PunjabQ.2 I ndicate True or False.
+i)
+ T
+he metallic character in groups VA and VIA elements increases down the 
+group.ii)
+ T
+he elements of group VA exhibit maximum oxidation state of +5.
+iii)
+ Ioniza
+tion energy of phoshorus is greater than that of nitrogen.
+iv)
+ T
+he electronegativity of oxygen is greater than all other elements of groups 
+VA and VIA.v)
+ 
+V2O5 is used as a catalyst for the oxidation of SO2 to SO3.
+vi)
+ T
+he oxides of nitrogen are basic in nature.
+vii)
+ A
+qua regia is prepared by mixing 3 parts of conc. HNO3 with one part of 
+conc. HCl.viii)
+ TNT is pr
+epared by the reaction of nitric acid with toluene.
+ix)
+ 
+P2O3 when reacts with cold water gives phosphorus acid and with hot water 
+it gives phosphoric acid.x)
+ Sulphur oc
+curs in many organic compounds of animal and vegetable origins.
+Q.3
+ M
+ultiple choice question. Encircle the correct answer.
+(i)
+ O
+ut of all the elements of group VA, the highest ionization energy is 
+        possessed by          (a) N                   (b)  P                     (c)  Sb                        (d)  Biii)
+ A
+mong group VA elem ents, the most electronegative element is
+          (a) Sb                 (b) N                       (c)  P                         (d)  Asiii)
+ O
+xidation of NO in air produces
+         (a) N2O               (b) N2O3                  (c)  N2O4                   (d)  N2O5
+iv)     The brown gas formed, when metal reduces HNO3to
+         (a) N2O5                (b) N2O3                   (c) NO2                   (d) NO
+v)
+ Laughing gas is chemically
+         (a) NO                 (b
+) N2O                   (c ) NO 2                  (d) N2O4
+(vi) O ut of all the elements of group VIA, the highest melting and boiling         points is shown  by the element         (a) Te                  (b) Se                      (c) S                          (d) Pb41
+Group VA and VIA Elements eLearn.PunjabQ.4 Shor t questions.
+(i)
+ Ho
+w does nitrogen differ from other elements of its group?
+ii)
+ W
+hy does aqua regia dissolve gold and platinum?
+iii)
+ W
+hy the elements of group VIA other than oxygen show more than two
+        oxidation states?iv)
+ W
+rite down a comparison of the properties of oxygen and sulphur.
+v)
+ W
+rite down the equation for the reaction between conc. H2SO4 and copper   
+        and explain what type of reaction is it.vii)
+ 
+SO3  is not absorbed in water directly to form H2SO4 because
+         (a) the reaction does not go to completion.         (b) the reaction is quite slow.         (c) the reaction is highly exothermic.         (d) SO
+3 is insoluble in water.
+ix)     Which catalyst is used in contact process?         (a) Fe
+2O3            ( b )V2O5                    (c)SO3                     (d)Ag2O
+x)      Which of the following specie has the maximum number of unpaired  electrons?          (a) O
+2                (b) O2+                   (c) O2-                   (d) O22
+Q.5 (a)  Explain the Brikeland and Eyde’s process for the manufacture of 
+nitric acid.
+ (b
+)
+ W
+hich metals evolve hydrogen upon reaction with nitric acid?
+ 
+ I
+llustrate alongwith chemical equations.
+ (c)
+ W
+hat is meant by fuming nitric acid?
+Q.6
+ (a)
+ Sulphur
+ic acid is said to act as an acid, an oxidizing agent and a 
+dehydrating
+ agen
+t, describe two reactions in each case to illustrate the truth of this   
+statement.
+ (b
+)  Giv
+e the advantages of contact process for the manufacture of 
+sulphuric acid.42
+Group VA and VIA Elements eLearn.PunjabQ. 12 Describe the methods of preparation of phosphorus pentoxide and explain 
+its reactions.Q.13 Discuss the trends in physical properties of group VIA elements.Q.7
+ (a)
+ D
+escribe the chemistry of the industrial preparation of sulphuric acid 
+from  sulphur by the contact process.
+ (b
+)
+ W
+hy is SO3 dissolved in H2SO4 and not in water?
+ (c)
+ Explain 
+the action of sulphuric acid on metals alongwith chemical 
+equations.
+Q.8
+ D
+escribe the preparation of NO2 gas. Also give its reactions.
+Q.9
+ Ho
+w PCl3 and PCl5 can be used for the preparation of other chemical 
+compounds.
+Q.10
+ A
+nswer the following question.
+ i)
+ D
+escribe “Ring test” for the confirmation of the presence of nitrate  ions 
+in solution.
+ ii)
+ 
+NO2 is a strong oxidizing agent. Prove the truth of this statement giving 
+examples.
+ iii)
+ W
+rite down the chemical equations and names of the products formed 
+as a  result of the reaction of HNO3 with arsenic and antimony.
+ iv)
+ Giv
+e the methods of preparation of PCl3.
+ v)
+ 
+P2O5 is a powerful dehydrating agent. Prove giving example.
+Q.11
+ C
+omplete and balance the following chemical equation:
+ 
+2
+2
+32
+22
+2 24
+2)    P+NO                   
+)   1               
+)               
+)  ( )              
+)               
+)          
+)            i
+ii NO C
+iii H S NOiv Pb NO
+v NO H Ovi NO H SOvii HNO HIviii →
++  →
++  →
+ →
++  →
++  →
++  →
+23
+2 22
+3 24)        
+) ( )
+)         HNO NH
+ix HNO CO NH
+x KNO H SO+  →
++  →
++  →

@@ -1,0 +1,1387 @@
+
+Chapter 13
+CURRENT ELECTRICITY
+Learning Objectives
+At the end of this chapter the students will be able to:
+1
+Understand the concept of steady current.
+2.
+Describe some sources of current.
+3.
+Recognize effects of current.
+4.
+Understand and describe Ohm's law.
+5.
+Sketch and explain the current-voltage characteristics of a metallic conductor at
+constant temperature, diode and filament lamp.
+6.
+Understand resistivity and explain its dependence upon temperature.
+7
+Understand and elaborate conductance and conductivity of conductor.
+8.
+Solve problems relating the variation of resistance with temperature for one
+dimension current flow.
+9.
+Know the value of resistance by reading colour code on it.
+10.
+Know the working and use of rheostat in the potential divider circuit.
+11.
+Describe the characteristics of thermistor.
+12.
+Use the energy considerations to distinguish between emf and p.d.
+13.
+Understand the internal resistance of sources and its consequences for external
+circuits.
+14.
+Describe the conditions for maximum power transfer.
+15.
+Know and use the application, of Kirchhoff's first law as conservation of charge.
+16.
+Know and use the application of Kirchhoff's second law as conservation of energy.
+17.
+Describe the function of Wheatstone Bridge to measure the unknown resistance.
+18.
+Describe the function of potentiometer to measure and compare potentials without
+drawing any current from the circuit.
+M
+lost practical applications of electricity involve charges in motion or the electric current.
+Alight bulb glows due to the flow of electric current. The current that flows through the coil of
+a motor causes its shaft to rotate. Most of the devices in the industry and in our homes
+31
+---
+
+necessity of our life.
+13.1 ELECTRIC CURRENT
+An electric current is caused by the motion of electric charge.
+If a net charge AQ passes through any cross section of a
+conductor in time At, we say that an electric current I has
+been established through the conductor where
+(13.1)
+The SI unit of current is ampere and it is a current due to flow
+of charge at the rate of one coulomb per second.
+Motion of electric charge which causes an electric current is
+due to the flow of charge carriers. In case of metallic
+conductors, the charge carriers are electrons. The charge
+carriers in electrolyte are positive and negative ions e.g., in a
+CuSO4 solution the charge carriers are Cu" and so, ions.
+In gases, the charge carriers are electrons and ions.
+Current Direction
+Interesting Information
+Early scientists regarded an electric current as a flow of
+positive charge from positive to negative terminal of the
+battery through an external circuit. Later on, it was found that
+a current in metallic conductors is actually due to the flow of
+negative charge carriers called electrons moving in the
+opposite direction i.e., from negative to positive terminal of
+the battery, but it is a convention to take the direction of
+current as the direction in which positive charges flow. This
+When eel senses danger, it turns
+current is referred as conventional current. The reason is that
+itself into a living battery. Any one who
+it has been found experimentally that positive charge moving
+attacks this fish is likely to get a
+shock The potential difference
+in one direction is equivalent in all external effects to a
+between the head and tall of an
+negative charge moving in the opposite direction. As the
+electric eel can be up to 600 V.
+current is measured by its external effects so a current due to
+motion of negative charges, after reversing its direction of
+flow can be substituted by an equivalent current due to flow of
+positive charges. Thus
+The conventional current in a circuit is defined as
+that equivalent current which passes from a point at
+higher potential to a point at a lower potential as if it
+represented a movement of positive charges.
+While analyzing the electric circuit, we use the direction of the
+current according to the above mentioned convention.
+32
+---
+
+If we wish to refer to the motion of electrons, we use the term
+Electron flow
+electronic current (Fig. 13.1).
+Connecting
+Current Through a Metallic Conductor
+wire
+In a metal, the valence electrons are not attached to
+Current
+Metal
+individual atoms but are free to move about within the body.
+These electrons are known as free electrons. The free
+Cell
+electrons are in random motion just like the molecules of a
+gas in a container and they act as charge carriers in metals.
+Current
+The speed of randomly moving electrons depends upon
+temperature.
+Electron
+If we consider any section of metallic wire, the rate at which
+Electron flow
+the free electrons pass through it from right to left is the same
+Fig. 13.1
+as the rate at which they pass from left to right (Fig. 13.2 a).
+As a result the current through the wire is zero. If the ends of
+the wire are connected to a battery, an electric field E will be
+set up at every point within the wire (Fig. 13.2 b). The free
+Free electron
+Atom
+electrons will now experience a force in the direction opposite
+to E.As a result of this force the free electrons acquire a
+motion in the direction of -E. It may be noted that the force
+experienced by the free electrons does not produce a net
+acceleration because the electrons keep on colliding with the
+atoms of the conductor. The overall effect of these collisions
+is to transfer the energy of accelerating electrons to the lattice
+with the result that the electrons acquire an average velocity,
+(a)
+called the drift velocity in the direction of -E (Fig. 13.2 b). The
+drift velocity is of the order of 10 'ms', whereas the velocity of
+free electrons at room temperature due to their thermal
+E
+motion is several hundred kilometres per second.
+Thus, when an electric field is established in a conductor, the
+free electrons modify their random motion in such a way that
+they drift slowly in a direction opposite to the field. In other
+words the electrons, in addition to their violent thermal
+motion, acquire a constant drift velocity due to which a net
+directed motion of charges takes place along the wire and a
+current begins to flow through it. A steady current is
++1
+established in a wire when a constant potential difference is
+maintained across it which generates the requisite electric
+(b)
+field E along the wire.
+Fig. 13.2
+Example 13.1: 1.0 X 10 electrons pass through a
+conductor in 1.0 us. Find the current in ampere flowing
+through the conductor. Electronic charge is 1.6x1019 C.
+Solution:
+Number of electrons = =1.0x10
+33
+---
+
+Charge on an electron = e = 1.6x1019 C
+Time=At=1.0us
+Current/through the conductor is given by
+1.0x107
+I=
+Cs
+=
+1.6x10-6,
+A
+1.0 x 10 6 S
+13.2 SOURCE OF CURRENT
+When two conductors at different potentials are joined by a
+metallic wire, current will flow through the wire. The current
+continues to flow from higher potential to the lower potential
+Fig. 12.3 Conventional current flows
+until both are at the same potential (Fig. 13.3). After this the
+from higher to lower potential through
+current ceases to flow. Thus the current through the wire
+a wire.
+decreases from a maximum value to zero. In order to have a
+constant current the potential difference across the conductors
+or the ends of the wire should be maintained constant. This is
+"
+achieved by connecting the ends of the wire to the terminals of
+Current
+Electrons
+a device called a source of current (Fig. 13.4).
+Every source of current converts some non electrical energy
+such as chemical, mechanical, heat or solar energy into
+electrical energy. There are many types of sources of current.
+Afew examples are mentioned below:
+(i)
+Cells (primary as well as secondary) which convert
+chemical energy into electrical energy.
+Fig. 13.4 A source of current such as
+battery maintains a nearly constant
+(ii)
+Electric generators which convert mechanical energy
+potential difference between ends of a
+into electrical energy.
+conductor.
+(iii)
+Thermo-couples which convert heat energy into
+electrical energy.
+For Your Information
+(iv)
+Solar cells which convert sunlight directly into
+electrical energy.
+13.3 EFFECTS OF CURRENT
+The presence of electric current can be detected by the
+various effects which it produces. The obvious effects of the
+current are:
+(i)
+Heating effect
+(ii)
+Magnetic effect
+Heating effect of current is used in
+electric kettle.
+(iii)
+Chemical effect
+34
+---
+
+Heating Effect
+Current flows through a metallic wire due to motion of free
+electrons. During the course of their motion, they collide
+frequently with the atoms of the metal. At each collision, they
+lose some of their kinetic energy and give it to atoms with
+which they collide. Thus as the current flows through the wire,
+it increases the kinetic energy of the vibrations of the metal
+atoms. i.e., it generates heat in the wire. It is found that the
+heat H produced by a current I in the wire of resistance R
+during a time interval is given by
+=12R
+(a)
+The heating effect of current is utilized in electric heaters,
+kettles, toasters and electric irons etc.
+Magnetic Effect
+The passage of current is always accompanied by a
+magnetic field in the surrounding space. The strength of the
+field depends upon the value of current and the distance from
+the current element. The pattern of the field produced by a
+(b))
+current carrying straight wire, a coil and a solenoid is shown
+in Fig. 13.5 (a, b & c). Magnetic effect is utilized in the
+detection and measurement of current. All the machines
+involving electric motors also use the magnetic effect of
+current.
+Chemical Effect
+Solenoid
+Certain liquids such as dilute sulphuric acid or copper
+sulphate solution conduct electricity due to some chemical
+(c)
+reactions that take place within them. The study of this process
+Fig. 13.5
+is known as electrolysis. The chemical changes produced
+during the electrolysis of a liquid are due to chemical effects of
+the current. It depends upon the nature of the liquid and the
+quantity of electricity passed through the liquid.
+The liquid which conducts current is known as electrolyte. The
+material in the form of wire or rod or plate which leads the
+current into or out of the electrolyte is known as electrode. The
+electrode connected with the positive terminal of the current
+source is called anode and that connected with negative
+terminal is known as cathode. The vessel containing the two
+electrodes and the liquid is known as voltameter. As an
+example we will consider the electrolysis of copper sulphate
+solution. The voltameter contains dilute solution of copper
+sulphate. The anode and cathode are both copper plates
+35
+---
+
+(Fig. 13.6). When copper sulphate is dissolved in water, it
+dissociates into Cu" and SO 4 ions. On passing current
+A
+through the voltameter. Cu" moves towards the cathode and
+the following reaction takes place.
+Cu" + 2e
+Cu
+The copper atoms thus formed are deposited at cathode
+Cu
+Cu
+plate. While copper is being deposited at the cathode, the
+SO ions move towards the anode. Copper atoms from the
+anode go into the solution as copper ions which combine with
+sulphate ions to form copper sulphate.
+Cu" + SO
+CuSO
+Fig.13.6
+As the electrolysis proceeds, copper is continuously
+deposited on the cathode-while an equal amount of copper
+from the anode is dissolved into the solution and the
+density of copper sulphate solution remains unaltered
+This example also illustrates the basic principle of
+electroplating - a process of coating a thin layer of some
+expensive metal (gold, silver etc.) on an article of some
+cheap metal.
+13.4 OHM'SLAW
+We have seen that when a battery is connected across a
+conductor, an electric current begins to flow through it. How
+much current flows through the conductor when a certain
+potential difference is set up across its ends? The answer to
+this question was given by a German Physicist George
+Simon Ohm. He showed by elaborate experiments that the
+current through a metallic conductor is directly proportional to
+the potential difference across its ends. This fact is known as
+Ohms' law which states that
+"The current flowing through a conductor is directly
+proportional to the potential difference across its
+ends provided the physical state such as temperature
+etc. of the conductor remains constant".
+Symbolically Ohm's law can be written as
+/ x V
+It implies that
+V=RI
+(13.2)
+where R, the constant of proportionality is called the
+resistance of the conductor. The value of the resistance
+depends upon the nature, dimensions and the physical state
+of the conductor. In fact the resistance is a measure of the
+36
+---
+
+opposition to the motion of electrons due to their continuous
+bumping with the atoms of the lattice. The unit of resistance is
+ohm. A conductor has a resistance of 1 ohm if a current of
+1
+ampere flows through it when a potential difference of 1 volt is
+applied across its ends. The symbol of ohm is Q. If / is measured
+in amperes, Vi in volts, then R is measured in ohms i.e.,
+R(ohms)=
+(volts)
+(13.3)
+A sample of a conductor is said to obey Ohm's law if its
+resistance R remains constant that is, the graph of its
+V versus / is exactly a straight line (Fig. 13.7). A conductor
+which strictly obeys Ohm's law is called ohmic. However,
+o
+V
+there are devices, which do not obey Ohms' law i.e., they are
+Fig. 13.7 Current - voltage graph of
+non ohmic. The examples of non ohmic devices are filament
+an ohmic material.
+bulbs and semiconductor diodes.
+Let us apply a certain potential difference across the
+terminals of a filament lamp and measure the resulting
+current passing through it. If we repeat the measurement for
+different values of potential difference and draw a graph of
+voltage V versus current I, it will be seen that the graph is not a
+straight line (Fig. 13.8). It means that a filament is a non
+ohmic device. This deviation of I - Vgraph from straight line is
+due to the increase in the resistance of the filament with
+temperature - a topic which is discussed in the next section.
+o
+V
+As the current passing through the filament is increased from
+Fig.13.8
+zero, the graph is a straight line in the initial stage because
+the change in the resistance of the filament with temperature
+due to small current is not appreciable. As the current is
+further increased, the resistance of the filament continues to
+increase due to rise in its temperature.
+Another example of non ohmic device is a semiconductor
+diode. The current - voltage plot of such a diode is shown in
+Fig. 13.9. The graph is not a straight line so semi conductor is
+also a non ohmic device.
+V
+Review of Series and Parallel Combinations of Resistors
+In an electrical circuit, usually, a number of resistors are
+Fig.13.9
+connected together. There are two arrangements in which
+resistors can be connected with each other ** one is known as
+series arrangement and other one as parallel arrangement.
+R.
+R2
+R,
+If the resistors are connected end to end such that the same
+current passes through all of them, they are said to be
+R, = R. +
+connected in series as shown in Fig. 13.10(a). There
+1.13.10(a)
+37
+---
+
+equivalent resistance R is given by
+R,
+R.=R,+R2+R,+ ......
+(13.4)
+R3
+In parallel arrangement a number of resistors are
+.
+R3
+connected side by side with their ends joined together at
+two common points as shown. in Fig. 13.10(b). The
+equivalent resistance Re of this arrangement is given by
+R,=R,+R,+R,
+1.1.1.1 + +
+(13.5)
+Fig. 13.10 (b)
+Re R1 R2 R3
+13.5 RESISTIVITY AND ITS DEPENDENCE
+UPON TEMPERATURE
+It has been experimentally seen that the resistance R of a
+wire is directly proportional to its length L and inversely
+proportional to its cross sectional area A. Expressing
+mathematically we have
+Rx
+1/4
+A
+or
+R=P1A
+(13.6)
+where p is a constant of proportionality known as resistivity of
+specific resistance of the material of the wire. It may be noted
+that resistance is the characteristic of a particular wire
+whereas the resistivity is the property of the material of which
+the wire is made. From Eq. 13.6 we have
+p=RA
+RA
+(13.7)
+The above equation gives the definition of resistivity as the
+resistance of a metre cube of a material. The SI unit of
+resistivity is ohm-metre (Qm).
+Conductance is another quantity used to describe the
+electrical properties of materials. In fact conductance is the
+reciprocal of resistance i.e.,
+Conductance
+Conductance - resistance(R)
+=
+resistance
+The SI unit of conductance is mho or siemen.
+Likewise conductivity, o is the reciprocal of resistivity i.e.,
+1
+a
+(13.8)
+p
+38
+---
+
+The SI unit of conductivity is ohm'm or mh m". Resistivity of
+Table 13.1
+various materials are given in Table 13.1.
+Substance
+(5m)
+(KT)
+It may be noted from Table 13.1 that silver and copper are two
+best conductors. That is the reason that most electric wires
+Silver
+1.52 x 10 *
+0.00380
+are made of copper.
+Copper
+1.54 * 10*
+0.00390
+The resistivity of a substance depends upon the temperature
+Gold
+2,27 x Y 10
+0.00340
+also. It can be explained by recalling that the resistance
+Aluminium
+2.63 * 10 6
+0.00390
+offered by a conductor to the flow of electric current is due to
+collisions, which the free electrons encounter with atoms of
+Tungsten
+5.00 x 10
+0.00460
+the lattice. As the temperature of the conductor rises, the
+Iron
+11.00 x 10
+0.00520
+amplitude of vibration of the atoms in the lattice increases
+Platinum
+11.00 x 10 5
+0.00520
+and hence, the probability of their collision with free electrons
+also increases. One may say that the atoms then offer a
+Constanton
+49.00 x 10 s
+0.00001
+bigger target, that is, the collision cross-section of the atoms
+Mercury
+94.00 x 10th
+0.00091
+increases with temperature. This makes the collisions
+Nichrome
+100.0  0
+0.00020
+between free electrons and the atoms in the lattice more
+frequent and hence, the resistance of the conductor
+Carbon
+3.5* 10"
+-0.0005
+increases.
+Germanium
+0.5
+-0.05
+Experimentally the change in resistance of a metallic
+Silicon
+20-2300
+-0.07
+conductor with temperature is found to be nearly linear over a
+considerable range of temperature above and below 0 °C
+(Fig. 13.11). Over such a range the fractional change in
+resistance per kelvin is known as the temperature coefficient
+of resistance i.e.,
+R R
+(13.9)
+where R and R,are resistances at temperature 0°C and t°C.
+As resistivity p depends upon the temperature, Eq. 13.6 gives
+R==PLIA and R.=p.LIA
+Substituting the values of R, and Rg in Eq. 13.9, we get
+200
+0
+200
+400
+600
+as
+a = P1-Po pot
+T (C)
+(13.10)
+Fig. 13.11 Variation of resistivity of Cu
+where Pg is the resistivity of a conductor at 0 °C and P1 is the
+with temperature.
+resistivity at t °C. Values of temperature co-efficients of
+resistivity of some substances are also listed in Table 13.1.
+Interesting Information
+There are some substances like germanium, silicon etc.,
+whose resistance decreases with increase in temperature.
+Inspectors can easily check the
+reliability of a concrete bridge made
+i.e., these substances have negative temperature coefficients.
+with carbon fibers, The fibers conduct
+electricity. If sensors show that
+Example 13.2: 0.75 A current flows through an iron wire
+electrical resistance is increasing
+when a battery of 1.5 V is connected across its ends. The
+over time the fibers are separating
+because of cracks.
+39
+---
+
+length of the wire is 5.0 m and its cross sectional area is
+2.5x 10 m². Compute the resistivity of iron.
+Solution:
+Table 13.2 The Colour Code
+The resistance R of the wire can be calculated by Eq. 13.2
+Colour
+Value
+i.e.,
+Black
+0
+R
+Brown
+1
+The resistivity p of iron of which the wire is made is given by
+Red
+2
+Orange
+3
+p = Qm
+Yellow
+4
+Example 13.3: A platinum wire has resistance of 10 a at
+Green
+5
+0°C and 20 a at 273 °C. Find the value of temperature
+coefficient of resistance of platinum.
+Blue
+6
+Solution:
+Violet
+7
+Gray
+8
+Ro = 100, R,=200,t=546K-273K=273K
+White
+9
+Temperature coefficient of resistance can be found by
+a = -
+Ro
+t
+10 S x 2 273 K
+273K
+13.6 COLOUR CODE FOR CARBON
+RESISTANCES
+Carbon resistors are most common in electronic equipment. They
+consist of a high-grade ceramic rod or cone (called the substrate)
+on which is deposited a thin resistive film of carbon. The numerical
+1st digit
+Tolerance
+value of their resistance is indicated by a colour code which
+Gold t 5%
+2nd digit
+consists of bands of different colours printed on the body of the
+Silver 10%
+resistor. The colour used in this code and the digits represented by
+No. of Os
+them are given in Table 13.2.
+Resistor Colour Code
+Usually the code consists of four bands (Fig. 13.12). Starting
+Fig. 13.12
+from left to right, the colour bands are interpreted as follows:
+For Your Information
+1.
+The first band indicates the first digit in the numerical
+value of the resistance.
+2.
+The second band gives the second digit.
+3.
+The third band is decimal multiplier i.e., it gives the
+number of zeros after the first two digits.
+Red
+Violet
+Orange
+Silver
+4.
+The fourth band gives resistance tolerance. Its colour
+2
+7
+000
+10%
+is either silver or gold. Silver band indicates a
+tolerance of + 10%, a gold band shows a tolerance of
+R = 27000 (+ 10%)
+40
+---
+
++ 5 % If there is no fourth band, tolerance is
+understood to be + 20% By tolerance, we mean the
+possible variation from the marked value. For
+example, a 1000 a resistor with a tolerance of + 10%
+will have an actual resistance anywhere between
+9000 and 1100 Q.
+Rheostat
+It is a wire wound variable resistance. It consists of a bare
+Sliding contact
+manganin wire wound over an insulating cylinder. The ends
+C
+of the wire are connected to two fixed terminals A and B
+(Fig. 13.13 a). A third terminal C is attached to a sliding
+A
+B
+contact which can also be moved over the wire.
+Resistance wire
+A rheostat can be used as a variable resistor as well as a
+(a) A Rheostat
+potential divider. To use it as a variable resistor one of the
+C
+fixed terminal say A and the sliding terminal C are inserted in
+the circuit (Fig. 13.13 b). In this way the resistance of the wire
+A
+B
+between A and the sliding contact C is used. If the sliding
+contact is shifted away from the terminal A, the length and
+(b) Its use as variable resistor
+hence the resistance included in the circuit increases and if
+the sliding contact is moved towards A, the resistance
+Fig. 13.13
+decreases. A rheostat can also be used as a potential divider.
+This is illustrated in Fig. 13.14. A potential difference V is
+applied across the ends A and B of the rheostat with the help
+of a battery. If R is the resistance of wire AB, the current /
+passing through it is given by I = V/R.
+The potential difference between the portion BC of the wire
+AB is given by
+current X resistance
+Vxr=[v V =
+(13.11)
+A
+R
+R
+where r is the resistance of the portion BC of the wire. The
+circuit shown in Fig. 13.14 is known as potential divider.
+C
+Eq.13.11 shows that this circuit can provide at its output
+R
+terminals a potential difference varying from zero to the full
+r
+potential difference of the battery depending on the position of
+VSC
+the sliding contact. As the sliding contact C is moved towards
+B
+the end B, the length and hence the resistance r of the portion
+BC of the wire decreases which according to Eq. 13.11,
+decreases VBC On the other hand if the sliding contact C is
+Use of rheostat as potential divider
+moved towards the end A, the output voltage VBC increases.
+Fig.13.14
+41
+---
+
+6%
+Thermistors
+A thermistor is a heat sensitive resistor. Most thermistors
+have negative temperature coefficient of resistance i.e., the
+resistance of such thermistors decreases when their
+temperature is increased. Thermistors with positive
+temperature coefficient are also available.
+Thermistors are made by heating under high pressure
+semiconductor ceramic made from mixtures of metallic
+oxides of manganese, nickel, cobalt, copper, iron etc. These
+are pressed into desired shapes and then baked at high
+temperature. Different types of thermistors are shown in
+Fig. 13.15 Thermistors of different
+Fig.13.15. They may be in the form of beads, rods or washers.
+shapes.
+Thermistors with high negative temperature coefficient are
+very accurate for measuring low temperatures especially
+near 10 K. The higher resistance at low temperature enables
+more accurate measurement possible.
+For Your infor about
+Thermistors have wide applications as temperature sensors
+i.e., they convert changes of temperature into electrical
+A zero-ohm resistor is indicated by a
+single black colour band around the
+voltage which is duly processed.
+body of the resistor.
+13.7 ELECTRICAL POWER AND POWER
+DISSIPATION IN RESISTORS
+Consider a circuit consisting of a battery E connected in
+series with a resistance R (Fig. 13.16). A steady current I
+A
+flows through the circuit and a steady potential difference V
+exists between the terminals A and B of the resistor R.
+Terminal A, connected to the positive pole of the battery, is at
+a higher potential than the terminal B. In this circuit the
+battery is continuously lifting charge uphill through the
+potential difference V. Using the meaning of potential
+difference, the work done in moving a charge AQ up through
+the potential difference Vis given by
+Workdone=AW=VxAQ
+(13.12)
+This is the energy supplied by the battery. The rate at which
+B
+the battery is supplying electrical energy is the power output
+or electrical power of the battery. Using the definition of
+Fig. 13.16 The power of a battery
+appears as the power dissipated in
+power we have
+the resistor R.
+Electrical power = Energy supplied =v4Q
+Time
+taken
+At
+42
+---
+
+Since
+I = AQ , so
+At
+Electrical power VxI
+(13.12a)
+Eg. 3.12a is a general relation for power delivered from a
+source of current I operating on a voltage V. In the circuit
+shown in Fig. 13.16 the power supplied by the battery is
+expended or dissipated in the resistor R. The principle of
+conservation of energy tells us that the power dissipated in
+the resistor is also given by Eq. 13.12.a
+Power dissipated (P) )=Vxl
+(13.13)
+Alternative equation for calculating power can be found by
+substituting V=1R, 1 = V/R in turn in Eq. 13.13
+P=Vx/=IRx1=1'R
+R R
+Thus we have three equations for calculating the power
+dissipated in a resistor.
+P=Vxl, P=12R, P=V2
+(13.14)
+If V is expressed in volts and /in amperes, the power is
+expressed in watts.
+13.8 ELECTROMOTIVE FORCE (EMF) AND
+POTENTIAL DIFFERENCE
+We know that a source of electrical energy, say a cell or a
+battery, when connected across a resistance maintains a
+steady current through it (Fig. 13.17). The cell continuously
+E
+supplies energy which is dissipated in the resistance of the
+R
+circuit. Suppose when a steady current has been established
+in the circuit, a charge AQ passes through any cross section
+of the circuit in time At. During the course of motion, this
+charge enters the cell at its low potential end and leaves at its
+high potential end. The source must supply energy AWto the
+Fig. 13.17 Electromotive force of a
+positive charge to force it to go to the point of high potential.
+cell.
+The emf E of the source is defined as the energy supplied to
+unit charge by the cell.
+i.e
+E AW AQ
+(13.15)
+43
+---
+
+It may be noted that electromotive force is not a force and we
+do not measure it in newtons. The unit of emf is
+joule/coulomb which is volt (V).
+The energy supplied by the cell to the charge carriers is
+derived from the conversion of chemical energy into
+electrical energy inside the cell.
+Like other components in a circuit a cell also offers some
+resistance. This resistance is due to the electrolyte present
+between the two electrodes of the cell and is called the
+internal resistance r of the cell. Thus a cell of emf E having an
+internal resistance r is equivalent to a source of pure emf E
+with a resistance rin series as shown in Fig. 13.18.
+Fig. 13.18 An equivalent circuit of a
+Let us consider the performance of a cell of emf E and
+cell of emf E and internal resistance r.
+internal resistance r as shown in Fig. 13.19. A voltmeter of
+infinite resistance measures the potential difference across
+the external resistance R or the potential difference V across
+the terminals of the cell. The current I flowing through the
+circuit is given by
+R+r
+or
+E=IR+1r
+(13.16)
+Here I R = V is the terminal potential difference of the cell in
+the presence of current I. When the switch S is open, no
+si
+current passes through the resistance. In this case the
+R
+voltmeter reads the emf E as terminal voltage. Thus terminal
+voltage in the presence of the current (switch on) would be
+less than the emf Eby Ir.
+Fig. 13.19 The terminal potential
+difference Vof a cellis
+Let us interpret the Eq. 13.16 on energy considerations. The
+left side of this equation is the emf E of the cell which is equal
+to energy gained by unit charge as it passes through the cell
+from its negative to positive terminal. The right side of the
+equation gives an account of the utilization of this energy as
+the current passes the circuit. It states that, as a unit charge
+passes through the circuit, a part of this energy equal to I r is
+dissipated into the cell and the rest of the energy is dissipated
+into the external resistance R. It is given by potential drop IR.
+Thus the emf gives the energy supplied to unit charge by the
+cell and the potential drop across the various elements
+account for the dissipation of this energy into other forms as
+the unit charge passes through these elements.
+The emf is the "cause" and potential difference is its "effect".
+The emf is always present even when no current is drawn
+44
+---
+
+through the battery or the cell, but the potential difference
+across the conductor is zero when no current flows through it.
+Example 13.4: The potential difference between the
+terminals of a battery in open circuit is 2.2 V. When it is
+connected across a resistance of 5.0 Q, the potential falls to
+1.8 V. Calculate the current and the internal resistance of the
+battery.
+Solution:
+Given E =2.2V,
+R=5.00,
+1.8V
+We are to calculate
+We have
+V=IR
+1.8V
+or
+=
+0.36A
+5.00
+Do You Know?
+Internal resistance rcan be calculated by using
+E
+E=V+Ir
+or
+2.2V=1.8V+0.36Ax/
+or
+r=1.11VA*=1.110
+Maximum Power Output
+(a)
+In the circuit of Fig. 13.19, as the current I flows through the
+resistance R, the charges flow from a point of higher potential
+E
+to a point of lower potential and as such, they loose potential
+I
+energy. If V is the potential difference across R, the loss of
+potential energy per second is V I. This loss of energy per
+second appears in other forms of energy and is known as
+power delivered to R by current I.
+Power delivered to R=Pau=VI
+R
+=1°R
+(:
+V=IR)
+(b)
+As
+T=E
+A voltmeter connected across the
+R+r
+terminals of a cell measures (a) the
+emf of the cell on open circuit, (b) the
+E2R
+terminal potential difference on a
+closed circuit.
+(13.17)
+when R=r, the denominator of the expression of Poul is least
+and so Pout out is then a maximum. Thus we see that maximum
+power is delivered to a resistance (load), when the internal
+resistance of the source equals the load resistance. The
+45
+---
+
+value of this maximum output power as given by Eq. 13.17 is
+E2
+4R
+13.9 KIRCHHOFF'S RULES
+Ohm's law and rules of series and parallel combination of
+resistance are quite useful to analyze simple electrical
+circuits consisting of more than one resistance. However
+such a method fails in the case of complex networks
+consisting of a number of resistors, and a number of voltage
+sources. Problems of such networks can be solved by a
+system of analysis, which is based upon two rules, known as
+Kirchhoff's rules.
+Kirchhoff's First Rule
+It states that the sum of all the currents meeting at a point in
+the circuit is zero i.e.,
+E1=0
+(13.18)
+It is a convention that a current flowing towards a point is
+taken as positive and that flowing away from a point is taken
+as negative.
+Is
+Consider a situation where four wires meet at a point A
+4
+A
+(Fig. 13.20). The currents flowing into the point A are
+I3
+I, and I2 and currents flowing away from the point are l3 and 1.
+According to the convention currents I, and I2 are positive and
+currents I3 and 14 are negative. Applying Eq. 13.18 we have
+13
+Fig. 13.20 According to Kirchhoff's 1"
+or
+(13.19)
+rule/
+Using Eq. 13.19 Kirchhoff's first rule can be stated in other
+words as
+The sum of all the currents flowing
+towards a point is equal to the sum of all
+the currents flowing away from the point.
+Kirchhoff's first rule which is also known as Kirchhoff's point
+rule is a manifestation of law of conservation of charge. If
+there is no sink or source of charge at a point, the total charge
+flowing towards the point must be equal to the total charge
+flowing away from it.
+46
+---
+
+Kirchhoff's Second Rule
+It states that the algebraic sum of voltage changes in a closed
+circuit or a loop must be equal to zero. Consider a closed
+circuit shown in Fig. 13.21. The direction of the current /
+flowing through the circuit depends on the cell having the
+greater emf. Suppose E1 is greater than E2, so the current
+flows in counter clockwise direction (Fig. 13.21). We know
+R,
+E,
+that a steady current is equivalent to a continuous flow of
+positive charges through the circuit. We also know that a
+voltage change or potential difference is equal to the work
+E2
+done on a unit positive charge or energy gained or lost by it in
+moving from one point to the other. Thus when a positive
+charge AQ due to the current I in the closed circuit
+R2
+(Fig. 13.21), passes through the cell E, from low (-ve) to high
+potential (+ve), it gains energy because work is done on it.
+Fig. 13.21 According to Kirchhoff's 2nd
+Using Eq. 13.12 the energy gain is E1 AQ. When the current
+rule E, IR, - E2-1R2 =0.
+passes through the cell E2 it loses energy equal to - E2 AQ
+because here the charge passes from high to low potential. In
+going through the resistor R1. the charge AQ loses energy
+equal to - IR, AQ where / R, is potential difference across R..
+The minus sign shows that the charge is passing from high to
+low potential. Similarly the loss of energy while passing
+through the resistor R2 is IR,AQ. Finally the charge reaches
+the negative terminal of the cell E, from where we started.
+According to the law of conservation of energy the total
+change in energy of our system is zero. Therefore, we can
+write
+E,AQ-IR,
+or
+E,-IR,-E,-IR,=0
+(13.20)
+which is Kirchhoff's second rule and it states that
+The algebraic sum of potential changes
+in a closed circuit is zero.
+We have seen that this rule is simply a particular way of
+stating the law of conservation of energy in electrical
+problems.
+Before applying this rule for the analysis of complex network
+it is worthwhile to thoroughly understand the rules for finding
+the potential changes.
+47
+---
+
+(i)
+If a source of emf is traversed from negative to
+positive terminal, the potential change is positive, it is
+negative in the opposite direction.
+(ii)
+If a resistor is traversed in the direction of current, the
+change in potential is negative, it is positive in the
+opposite direction.
+Example 13.6: Calculate the currents in the three
+resistances of the circuit shown in Fig. 13.22.
+Solution:
+First we select two loops abcda and ebcfe. The choice of
+e
+b
+a
+loops is quite arbitrary, but it should be such that each
+E,
+E2
+E,
+resistance is included at least once in the selected loops.
+After selecting the loops, suppose a current I, is flowing in the
+4
+R2
+R2
+R.
+first loop and I2 in the second loop, all flowing in the same
+sense. These currents are called loop currents. The actual
+f
+C
+d
+currents will be calculated with their help. It should be noted
+R,=10 S, R2 = 30 S2, R2 = 150
+that the sense of the current flowing in all loops should
+E2 = 60 V. E1 = 50 V
+essentially be the same. It may be clockwise or anticlockwise.
+Fig. 13.22
+Here we have assumed it to be clockwise (Fig. 13.22).
+We now apply Kirchhoff's second rule to obtain the equations
+required to calculate the currents through the resistances. We
+first consider the loop abcda. Starting at a point 'a' we follow
+the loop clockwise. The voltage change while crossing the
+battery E, is - E, because the current flows through it from
+positive to negative. The voltage change across R, is - I,R1.
+The resistance R2 is common to both the loops I, and 12
+therefore, the currents I, and 12 simultaneously flow through it.
+The directions of currents 1, and 12 as flowing through R2 are
+opposite, so we have to decide that which of these currents is
+to be assigned a positive sign. The convention regarding the
+sign of the current is that if we are applying the Kirchhoffs
+second rule in the first loop, then the current of this loop i.e, I,
+will be assigned a positive sign and all currents, flowing
+opposite to I, have a negative sign. Similarly, while applying
+Kirchhoffs second rule in the second loop, the current I2 will be
+considered as positive and I as negative. Using this
+convention the current flowing through R2 is (I, - 12) and the
+voltage change across is - (I, - [2) R2 The voltage change
+across the battery E2 is E2 Thus the Kirchhoffs second rule as
+applied to the loop abcda gives
+= 0
+48
+---
+
+Substituting the values, we have
+-40V-I,x100-(1-I2)x30060 V=0
+20 V-100x[1,+3(1,-I2)]0 -
+or
+(13.21)
+Similarly applying Kirchhoff's second rule to the loop ebcfe,
+we get
+- E2 - (12-1) R2-12R,+ E3 =0
+Substituting the values, we have
+-60V-(12-1)x300-12x150+50V=0
+10V-150x[12+2(12-I)]=0
+or
+61,-97,=2VQ`=2A
+(13.22)
+Solving Eq. and Eq. 13.22 and I we get
+and
+Knowing the values of loop currents I and I2 the actual
+current flowing through each resistance of the circuit can be
+determined. Fig. 13.22 shows that I and I2 are the actual
+currents through the resistances R1 and R3. The actual
+current through R2 is the difference of I, and I2 and its direction
+is along the larger current. Thus
+The current through R, = = 0.66 A flowing in the
+direction of Li.e., from a to d.
+The current through 0.44 flowing in
+the direction of I, i.e., from c to b.
+The current through A flowing in the
+direction of I i.e., from ftoe.
+Procedure of Solution of Circuit Problems
+After solving the above problem we are in a position to apply
+the same procedure to analyse other direct current complex
+networks. While using Kirchhoff's rules in other problems, it is
+worthwhile to follow the approach given below:
+(i)
+Draw the circuit diagram.
+(ii)
+The choice of loops should be such that each
+resistance is included at least once in the selected loops.
+49
+---
+
+(iii)
+Assume a loop current in each loop, all the loop
+currents should be in the same sense. It may be
+either clockwise or anticlockwise.
+(iv)
+Write the loop equations for all the selected loops.
+For writing each loop equation the voltage change
+across any component is positive if traversed from
+low to high potential and it is negative if traversed
+from high to low potential
+(v)
+Solve these equations for the unknown quantities.
+13.9 WHEATSTONE BRIDGE
+B
+The Wheatstone bridge circuit shown in Fig. 13.23 consists
+of four resistances R R2, R3 and R4 connected in such a way
+so as to form a mesh ABCDA. A battery is connected between
+points A and C. A sensitive galvanometer of resistance Rg is
+A
+C
+connected between points B and D. If the switch S is closed,
+1,
+l3
+a current will flow through the galvanometer. We are to
+determine the condition under which no current flows
+through the galvanometer even after the switch is closed. For
+R,
+R
+this purpose we analyse this circuit using Kirchhoff's second
+rule. We consider the loops ABDA, BCDB and ADCA and
+D
+assume anticlockwise loop currents I., I2 and I3 through the
+S
+loops respectively. The Kirchhoff's second rule as applied to
+loop ABDAgives
+Fle 13.23 Wheatstone bridge circuit
+(13.23)
+Similarly by applying the Kirchhoff's second rule to loop
+BCDB we have
+(13.24)
+The current flowing through the galvanometer will be zero if,
+I, - l3 = With this condition Eq. 13.23 and
+Eq. 13.24 reduce
+-I,R,=(I,-1)R
+(13.25)
+-I,R2=(1-1)R,
+(13.26)
+Dividing Eq. 13.25 by Eq. 13.26
+==3
+(13.27)
+4
+Thus whenever the condition of Eq. 13.27 is satisfied, no current
+flows through the galvanometer and it shows no deflection, or
+conversely when the galvanometer in the Wheatstone bridge
+circuit shows no deflection, Eq. 13.27 is satisfied.
+50
+---
+
+If we connect three resistances R1, R2 and R3 of known
+adjustable values and a fourth resistance R4 of unknown
+value and the resistances R,, R2 and R3 are so adjusted that
+the galvanometer shows no deflection then, from the known
+resistances R1, R2 and R3 the unknown resistance R4 can be
+determined by using Eq. 13.27.
+13.10 POTENTIOMETER
+Potential difference is usually measured by an instrument
+called a voltmeter. The voltmeter is connected across the two
+points in a circuit between which potential difference is to be
+measured. It is necessary that the resistance of the voltmeter
+be large compared to the circuit resistance across which the
+voltmeter is connected. Otherwise an appreciable current will
+flow through the voltmeter which will alter the circuit current and
+the potential difference to be measured. Thus the voltmeter can
+read the correct potential difference only when it does not draw
+any current from the circuit across which it is connected. An
+ideal voltmeter would have an infinite resistance.
+However, there are some potential measuring instruments
+such as digital voltmeter and cathode ray oscilloscope which
+R
+practically do not draw any current from the circuit because of
+A
+B
+their large resistance and are thus very accurate potential
+C
+E
+,
+(a)
+measuring instruments. But these instruments are very
+E
+expensive and are difficult to use. A very simple instrument
+which can measure and compare potential differences
+accurately is a potentiometer.
+A
+B
+A potentiometer consists of a resistor R in the form of a wire
+on which a terminal C can slide (Fig. 13.24 a). The resistance
+between A and C can be varied from 0 to R as the sliding
+(b)
+contact C is moved from A to B. If a battery of emf E is
+Fig. 13.24
+connected across R (Fig. 13.24 b), the current flowing
+through it is / = E/R. If we represent the resistance between A
+and C by r, the potential drop between these points will be
+rl =r E/R. Thus as C is moved from A to B, rvaries from 0 to R
+E
+and the potential drop between A and C changes from 0 to E.
+Such an arrangement also known as potential divider can be
+used to measure the unknown emf of a source by using the
+wwwwwww
+circuit shown in Fig. 13.25. Here R is in the form of a straight
+A
+B
+C
+wire of uniform area of cross section. A source of potential,
+say a cell whose emf E. is to be measured, is connected
+Ex
+between A and the sliding contact C through a galvanometer
+G. It should be noted that the positive terminal of E, and that of
+Fig. 13.25
+the potential divider are connected to the same point A. If, in
+51
+---
+
+the loop AGCA, the point C and the negative terminal of E, are
+at the same potential then the two terminals of the
+galvanometer will be at the same potential and no current will
+flow through the galvanometer. Therefore, to measure the
+potential E the position of C is so adjusted that the
+galvanometer shows no deflection. Under this condition, the
+emf E, of the cell is equal to the potential difference between A
+and C whose value Er/R is known. In case of a wire of uniform
+cross section, the resistance is proportional to the length of the
+wire. Therefore, the unknown emf is also given by
+(13.28)
+where L is the total length of the wire AB and l is its length from
+A to C, after C has been adjusted for no deflection. As the
+maximum potential that can be obtained between A and C is E,
+so the unknown emf E, should not exceed this value, otherwise
+the null condition will not be obtained It can be seen that the
+unknown emf E, is determined when no current is drawn from it
+and therefore, potentiometer is one of the most accurate
+methods for measuring potential
+The method for measuring the emf of a cell as described
+above can be used to compare the emfs E, and E2 of two
+cells. The balancing lengths 1. and are found separately for
+the two cells. Then,
+E,=E and E,=E
+Dividing these two equations, we get
+E
+(13.29)
+2
+2
+So the ratio of the emfs is equal to ratio of the balancing
+lengths.
+SUMMARY
+The electric current is said to be caused by the motion of electric charge.
+The heat energy H produced by a current I in the wire of resistance R during a time
+interval t is given by H=I'Rt
+The passage of current is always accompanied by a magnetic field in the
+surrounding space.
+52
+---
+
+Certain liquids conduct electricity due to some chemical reaction that takes place
+within them. The study of this process is known as electrolysis.
+The potential difference V across the ends of a conductor is directly proportional to
+the current I flowing through it provided the physical state such as temperature etc.
+of the conductor remains constant.
+The fractional change in resistance per kelvin is known as temperature coefficient of
+resistance.
+Athermistor is a heat sensitive resistor. Most thermistors have negative temperature
+coefficient of resistance.
+Electrical power P: P=VI=I°R=-V2 R
+The emf E of the source is the energy supplied to unit charge by the cell.
+The sum of all the currents meeting at a point in a circuit is zero is the Kirchhoff's first
+rule.
+The algebraic sum of potential changes in a closed circuit is zero is known as
+Kirchhoff's second rule.
+QUESTIONS
+13.1 A potential difference is applied across the ends of a copper wire. What is the effect
+on the drift velocity of free electrons by
+(i)
+increasing the potential difference
+(ii)
+decreasing the length and the temperature of the wire
+13.2
+Do bends in a wire affect its electrical resistance? Explain.
+13.3 What are the resistances of the resistors given in the figures A and B? What is
+the tolerance of each? Explain what is meant by the tolerance?
+Brown
+Silver
+Green
+Orange
+Red
+White
+Gold
+Yellow
+A
+B.
+Fig. Q. 13.3
+13.4
+Why does the resistance of a conductor rise with temperature?
+13.5
+What are the difficulties in testing whether the filament of a lighted bulb obeys Ohm's
+law?
+53
+---
+
+13.6
+Is the filament resistance lower or higher in a 500 W, 220 V light bulb than in a 100 W,
+220 V bulb?
+13.7
+Describe a circuit which will give a continuously varying potential.
+13.8
+Explain why the terminal potential difference of a battery decreases when the
+current drawn from it is increased?
+13.9 What is Wheatstone bridge? How can it be used to determine an unknown
+resistance?
+PROBLEMS
+13.1 How many electrons pass through an electric bulb in one minute if the 300 mA
+current is passing through it?
+(Ans: 1.12x1020)
+13.2 Acharge of 90 C passes through a wire in 1 hour and 15 minutes. What is the current
+in the wire?
+(Ans: 20mA)
+13.3 Find the equivalent resistance of the circuit (Fig.P.13.3), total current drawn from the
+source and the current through each resistor.
+R,=60
+wwww
+R2= 3 a
+www
+wwww
+R,=60
+6V
+Fig. P. 13.3
+(Ans: 6.0 O, 1.0 A, 0.5 A, 0.5 A, 1.0A)
+13.4 A rectangular bar of iron is 2.0 cm by 2.0 cm in cross section and 40 cm long.
+Calculate its resistance if the resistivity of iron is 11 x 10 Qm.
+(Ans: 1.1x10*0)
+13.5
+The resistance of an iron wire at 0 °C is 1 X 10 Q. What is the resistance at 500 °C if
+the temperature coefficient of resistance of iron is 5.2x103 K? (Ans: 3.6 X 104 a
+13.6 Calculate terminal potential difference of each of cells in circuit of Fig. P. 13.6.
+8.00
+0.90 S2
+n 0.10
+24V
+6.0V
+(Ans: 23.8 V, 7.8 V)
+Fig.P. 13.6
+54
+---
+
+13.7
+Find the current which flows in all the resistances of the circuit of Fig. P.13.7.
+9.0 V
+6.0 V
+18.02
+12 C2
+Fig. P. 13.7
+(Ans: 1.25A,0.5A)
+13.8
+Find the current and power dissipated in each resistance of the circuit, shown in
+Fig. P.13.8.
+1.0 S
+1.0 a
+6.0 V
+2.0 o
+2.0
+10V
+1.00
+1.0 St
+W
+Fig.P. 13.8
+(Ans: 0.8A, 1.4 A, 2.2 A, 0.64 W, 1.96 W, 3.92 W, & 9.68 W)
+55
+---

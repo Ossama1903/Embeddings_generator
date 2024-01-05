@@ -1,0 +1,385 @@
+CHAPTER
+14 MACROMOLECULES2 3
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.PunjabIn This Chapter You Will Learn 
+1. The concepts of polymerization and macromolecules.
+2.
+ Types 
+of polymerization and products of these polymerizations e.g., 
+polyvinyl chloride, polystyrene, polyvinyl acetate, polyamides, polyester 
+and epoxy resins.
+3.
+ About 
+life molecules, for example, carbohydrates, lipids, proteins, enzymes 
+and nucleic acids.
+14.1  INTRODUCTION 
+Acceptance of the macromolecular hypothesis came about in 1920’s large-
+ly because of the efforts of Staudinger. He proposed long chain formulas 
+for polystyrene, rubber and polyoxymethylene.  Macromolecules or poly-
+mers are described as large molecules built up from small repeating units called monomers.
+The development of the process of polymerization is, perhaps, one of the 
+most significant things chemists have done, where it has had the major ef-fect on every day life. The world would be a totally different place with-out artificial fibres, plastics, etc. One of the most significant changes has been the gradual replacement of natural materials such as wood and cot-ton with man made synthetic polymers. For better or worse we are living in a “plastic” society.14.2 STRUCTURE OF POL YMERS
+A polymer is a large molecule build up by the repetition of small and sim-ple chemical units known as monomers. In some cases the repetition is linear while in others, it is branched or interconnected to form three dimensional network Fig 14.2.
+Fig. 14.1 Classification of macromoleculesFig. 14.2 Three ways of polymerizationThe word polymer is derived from Greek, poly means ‘many’ and mer means 
+’parts’. Macromolecules can be classified into the following types, Fig 14.1.
+The length of the polymer chain is specialized by the number of repeating units in the chain known as the degree of polymerization (DP), for example,in linear polythene.4 5
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.PunjabMol. mass = Mol. mass of the repeat unit x DP
+                                         = 63.5 x 1000 = 63500
+                The repeating unit is                                    where n is a large number.The molecular mass of the polymer is the product of the molecular mass of the repeating unit and the DP For example, polyvinyl chloride, a polymer of DP 1000, has a molecular mass
+14.3 TYPES OF POL YMERS
+The polymers formed are of the following types:
+1) HomopolymerA homopolymer is formed by the polymerization of a single type of monomer.
+For example, the polymerization of vinyI acetate.Most high molecular mass polymers are useful for making plastics, rubbers or fibres, etc. and have molecular masses between 10,000 to 1,000, 000. The properties of polymeric materials vary widely depending upon the chemical composition and structure of the macromolecule.
+2) CopolymerA copolymer is formed by the polymerization of two monomers together, e.g; vinyl acetate reacts with butyl maleate to give a copolymer.i) Thermoplastic PolymerA thermoplastic polymer is one which can be softened repeatedly when heated and hardened when cooled with a little change in properties. For example; PVC pipes, plastic toys, etc.
+ii) Thermosetting Polymer
+The polymers which become hard on heating and cannot be softened again are called thermosetting polymers. A thermosetting polymer, on heating, decomposes instead of melting. For example, synthetic varnish, epoxy resins, etc.3) TerpolymerIn terpolymer three different monomers are polymerized and the polymerization reaction is carefully controlled. For example, combination of butyl acrylate, methacrylate and acrylic acid monomers gives a highly tough polymer which serves as a weather-resistant paint. Based on the thermal properties of polymers, they can be divided into two types.
+14.4 POL YMERIZATION PROCESS
+In 1929, W.H. Carothers suggested a classification of the polymerization process into two types depending upon the way the polymers are formed.
+1. Addition polymerization                      2. Condensation polymerization
+1) Addition PolymerizationIt is a free-radical addition reaction which involves initiation, propagation and termination steps. For example, polymerization of styrene. Addition of polymerization is catalyzed by thermal or photochemical decomposition of organic peroxides to give free radicals.6 7
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.Punjab
+PropagationInitiation
+2. Condensation Polymerization
+This type of polymerization results from the mutual reaction of two functional 
+groups. The reaction usually involves the removal of a water molecule or a methanol molecule. It takes place at both ends of the growing chain. For example; dicarboxylic acids or esters combine with diols to get the desired polymer like nylon and polyester fibre. Such polymerizations are generally ionic in nature.
+.
+14.5 BRIEF DESCRIPTION OF SYNTHETIC POL YMERS
+1. Polyvinyl Chloride (PVC)
+Addition of a plasticizer improves the flexibility of the polymer.It is widely used in floor coverings, in pipes, in gramophone recorders, etc.It is an addition polymer obtained by polymerizing vinyl chloride at 52°C and 9 atmospheric pressure.
+2) PolystyreneIt is also an addition polymer and is obtained by the polymerization of styrene in the presence of a catalyst.
+Polystyrene is used in the manufacture of food containers, cosmetic bottles, 
+toys and packing material, etc.8 9
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.Punjab3. Polyvinyl Acetate (PVA)
+PVA is a colourless, non-toxic resin. It is supplied in a number of grades 
+differing in the degree of polymerization.The resin has a characteristics odour. It is mostly used as an adhesive material and as a binder for emulsion paints.
+4. Acrylic Resins
+These are closely related to the vinyl resins. The most important monomers of 
+acrylic resins are methylmethacrylate, acrylic acid and butyl acrylate. The acrylic fibres are based largely on acrylonitrile.Acrylic resins are used in the manufacture of plastics, paints for car industry and water based weather resistant paints.
+5. Polyester Resins
+Polyester resins are the product of the reaction of an alcohol (ethane 1, 2 
+diol) and aromatic bi-functional acids (benzene 1,4 dicarboxylic acid). This product has a large number of uses in clothing. Polyester is often blended with cotton or wool for summer and winter clothing. Polyester resins are also used for making water tanks, etc. (For a chemical equation please see under condensation polymerization).6) Polyamide Resins
+These resins are formed by the condensation of polyamines with aliphatic
+ dicarboxylic acids.One of the most famous condensation polymers discovered is Nylon.The word Nylon has been accepted as a generic name for synthetic polyamides. Nylon 6, 6 is the most important polyamide. It is obtained by heating adipic acid (hexanedioic acid) with hexamethylene diamine.Nylon 6,6 derives its name from its starting materials adipic acid and hexamethylene diamine,both of which have six carbon atoms.Nylon is mainly used as a textile fibre. It has a combination of high strength, elasticity, toughness and abrasion resistance.
+7. Epoxy ResinsThe epoxy resins are fundamentally polyethers but retain their name on the basis of their starting materials and the presence of epoxide group in the polymer.The epoxy resin is made by condensing epichlorohydrin with diphenylol propane.10 11
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.Punjab14.6 BIOPOL YMERS
+Most biologically important substances are organic compounds built up 
+from skeleton of carbon atoms. Many of them are very large molecules and most of these are polymers. The four major classes of organic com-pounds in living cells are carbohydrates, lipids, proteins and nucleic acids.The major use of epoxy resins is in coating materials which give toughness, flexibility, adhesion and chemical resistance. Industrial materials, thermal power stations, packing materials are coated with epoxy paints. Dams, bridges, floors, etc. are painted with epoxy resins.
+14.6.1 Carbohydrates
+The term carbohydrate is applied to a large number of relatively heterogeneous 
+compounds. They are the most abundant biomolecules on earth. The name carbohydrate (hydrate of carbon) is derived from the fact that the first compound of this group which was studied had an empirical formulaC
+x (H2O)y . They are commonly called ‘sugars’ and are ‘polyhydroxy compounds’ 
+of aldelydes and ketones.
+14.6.2 Classification of Carbohydrates
+1. Monosaccharides
+These are simple sugars which cannot be hydrolyzed. They have 
+an empirical formula (CH2O)n where n = 3 or some large number. 
+Monosaccharides are either aldoses (aldehydic group) or ketoses (ketonic group). Common examples are glyceraldehyde, glucose, fructose, etc.The commonly described classification is given below.Sugars with five carbon atoms (pentoses) or six carbon atoms (hexoses) 
+are more stable as cyclic structures than as open chain structures. Glucose and fructose are very common examples of hexoses, both of which have molecular formula, C
+6H12O6.12 13
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.PunjabGlucose also called dextrose, grape sugar or blood sugar, occurs 
+natuarlly in both combined and free states. In the free state, it is present in most sweet fruits and in honey. Small quantities of glucose are also present in human blood and urine. In the combined stateit forms a major component of many disaccharides and polysaccharides.It is the source of energy in our body.Fructose is also found in combined and free states.It is used as a sweetening agent in confectionery and as a substitute of cane sugar. Other examples of monosaccarides are galactose and mannose.
+2. Disaccharides or Oligosaccharides
+The oligosaccharides are formed when two to nine monosaccharide 
+units combine by the loss of water molecules. This results in the formation of a glycosidic linkage. For example; sucrose which is a common table sugar, is a disaccharide of glucose and fructose.Conversely, hydrolysis of an oligosaccharide by water in the presence of an acid or by enzymes yields two or more monosaccharide units.Among the most common disaccharides are sucrose, lactose and maltose. Of these, sucrose occurs in sugar cane, sugar beet, pineapple, apricot, mango, almond, coffee and honey. Lactose (milk sugar) occurs in the milk of all animals. It does not occur in plants.
+HO
+HOTrisaccharides, which yield three monosaccharide molecules on hydrolysis, have molecular formula, C
+18H32O16, for example, raffinose. 
+In general, the mono-saccharides and oligosaccharides are crystalline solids soluble in water and sweet to taste. They are collectively known as ‘sugars’.
+3. Polysaccharides
+The polysaccharides are carbohydrates of high molecular mass which 
+yield many monosaccharide molecules on hydrolysis. Examples are, starch and cellulose, both of which have molecular formula, (C
+6H10O5)n.The 
+polysaccharides are amorphous solids, insoluble in water and tasteless and are called ‘non-sugars’. Polysaccharides perform two principal functions in animals and plants. They are used as energy storage compounds and for building structural elements of cells. Plants store glucose as starch and animals store glucose in the form of a highly branched polymer known as glycogen. Glycogen is stored in the liver and muscles.
+i) Starch
+Starch is the most important source of carbohydrates in human 
+diet. The chief commercial sources of starch are wheat, rice, maize,potatoes and barley. Starch is a polymer of a-D-glucose.
+Starch is not a pure compound. It is a mixture of two polysaccharides, amylose and amylopectin which can be separated from one another. Amylose is soluble in water and gives a deep blue colour with iodine while amylopectin is insoluble and gives no colour. Natural starch consists of 10 to 20% amylose and 80 to 90% amylopectin. It is used in coating and sizing  of paper  to  improve  the  writing  qualities. It is also used in laundering and in the manufacture of glucose and ethyl alcohol.14 15
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.Punjab
+ii) Cellulose
+By far, the most abundant structural polysaccharide is cellulose. Some 100 
+billion tons of cellulose are produced each year by plants. For example, cotton is 99% cellulose and the woody parts of trees are generally more than 50% cellulose. It is a polymer of 
+β-D-glucose. It is present mainly in the 
+plant kindom but also occurs in some marine animals. It is an unbranched polymer consisting of a large number (up to 2500) of glucose residues joined to each other through   
+β -1—>4 linkages.
+iii) GlycogenIt occurs mainly in the liver and muscles where it represents the main storage polysaccharide in the same way as starch functions in plant cells. Glycogen is therefore also called ‘animal starch’. Its structure closely resembles with that of amylopectin having 1   4 and 1  6 glycosidic linkages. Human glycogen is a much more branched molecule than amylopectin. On hydrolysis it yields glucose units.
+g g
+14.6.3 Proteins
+Proteins are extremely complicated molecules of living things. They are the nitrogeneous compounds made up of a variable number of amino acids. The human body probably contains at least 10,000 different kinds of proteins. The name protein is derived from the Greek word proteios meaning of 
+prime importance.
+Proteins are present in all living organisms and without proteins life 
+would not be possible. They are present in muscles, skin, hair and other tissues that make up the bulk of the body’s non-bony structure.
+All proteins contain the elements carbon, hydrogen, oxygen and nitrogen. 
+They may also contain phosphorus and traces of other elements like iron, copper, iodine, manganese, sulphur and zinc. Proteins are very high molecular weight macromolecules.All proteins yield amino acids upon complete hydrolysis.Thus proteins may be defined as the high molecular weight organic materials, which upon complete hydrolysis, yield amino acids.16 17
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.Punjab14.6.4 Classfication of Proteins
+Based on the physico-chemical properties, proteins may be classified into three types.
+1. Simple protiens                                 2. Compound or Conjugated proteins3. Derived proteins
+1. Simple Proteins
+These proteins on hydrolysis yield only amino acids or their derivatives. For 
+example, albumins, globulins, legumin, collagen, etc. Globulins are insoluble in water but soluble in dilute salt solutions. They are found in animals, e.g; lactoglobulin is found in muscles and also in plants. Legumin and collagen proteins are present in the connective tissues throughout the body . They are the most abundant proteins in the animal kingdom forming some 25 to 35% of body protein.
+2. Compound or Conjugated Proteins
+In these molecules the protein is attached or conjugated to some 
+non- protein groups which are called prosthetic groups. For example; 
+phospho-proteins are conjugated with phosphoric acid, lipoproteins are conjugated with lipid substances like lecithin, cholesterol and fatty acids.
+3. Derived Proteins
+This  class of protein includes substances which are derived form simple and
+ conjugated proteins.For example, proteoses enzymes, peptones, oligopeptides, polypeptides, etc.
+Based on their functions, proteins may also be classified as regulatory or hormonal proteins, structural proteins, transport proteins, genetic proteins, etc.
+14.6.5 Structure of Proteins
+The majority of proteins are compact, highly convoluted molecules with 
+the position of each atom relative to the others determined with great precision. To describe the structure of a protein in an organism it is necessary to specify the three- dimensional shape that the polypeptide chain assumes. Proteins assume at least three levels of structural organization.(i) Primary structure                                               (ii) Secondary structure(iii) Tertiary structures
+Some proteins also possesses a fourth structure called the quaternary structure.     
+The secondary structure of a protein is a regular coiling or zigzagging of polypeptide chains caused by hydrogen bonding between NH and C = 0 groups of amino acids near each other in the chains. The three dimensional twisting and folding of the polypeptide chain results in the tertiary structure of proteins.
+14.6.6 Denaturation of Proteins
+The structure of proteins can be disrupted easily by heat, change in pH and under strongly oxidizing or reducing conditions. Under such conditions the proteins undergo denaturation. The most familiar example of denaturation is the change that takes place in albumin, the principal component of egg white, when it is cooked. In this particular case the change is irreversible.The sequence of the amino acids combined in a peptide chain is referred 
+to as the primary structure.18 19
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.Punjab14.6.7 Importance of Proteins
+1.
+ Proteins 
+take an essential part in the formation of protoplasm which is the 
+essence of all forms of life.
+2.
+ Nucleoproteins 
+which are complexes of proteins with nucleic acids serve as 
+carriers of heredity from one generation to the other.
+3.
+ Enzymes 
+which are biological catalysts are protein in nature. Without them 
+life is not possible.
+4.
+ Many 
+proteins have specialized functions. Haemoglobin acts as a carrier 
+of O2. Some proteins act as hormones which have regulatory functions, for 
+example; insulin, thyroxine etc.
+Industrially proteins have great importance. We are familiar with the use 
+of leather made by tanning of hides. This is essentially a precipitation of the proteins with tannic acid. Gelatin is obtained by heating bones, skin and tendons in water. It is used in bakery goods. Caesein is another protein used in the manufacture of buttons and buckles.
+14.6.8 Lipids
+Lipids (Greek, lipos means fat) are naturally occurring organic compounds of animals and plants origin which are soluble in organic solvents and belong to a very heterogeneous group of substances.
+ Lipids have the following characteristics:
+1.
+ They 
+are insoluble in water and soluble in non-polar solvents e.g. ether, 
+chloroform and benzene, etc.
+2.
+ Their primary building blocks are fatty acids, glycerol and sterols.
+3.
+ They are utilized by the living organisms.Fats 
+and oils are the most important lipids found in nature. They are one 
+of the three major “food factors” needed for human body, the other two being proteins and carbohydrates. Fats and oils are widely distributed in various type of foods and are of great nutritional value. Not only the edible fats and oils occupy a place of pride in human diet but they also find use as raw materials for the manufacture of soaps and detergents, paints, varnishes, polishes, cosmetics, printing inks and pharmaceuticals.
+14.6.9 Sources of Fats and Oils
+Fats and oils come from a variety of natural sources like animals, plants and 
+marine organisms. Animal fats are located particularly in adipose tissue cells. Butter and ghee are a special type of animal fats which are made form milk. Vegetable oils are chiefly present in seeds and nuts of plants. Marine oils are obtained form sea animals like salmons and whales etc.
+14.6.10 Structure and Composition of Fats and Oils
+Animal and vegetable fats and oils have similar chemical structures. They are triesters formed from glycerol and long chain acids called fatty acids.
+A triester of glycerol is called a triglyceride or glyceride.The degree of unsaturation of the constituent fatty acid determines whether a triglyceride will be a solid or a liquid. The glycerides in which long- chain saturated acid components predominate tend to be solid or semi-solid and are termed as fats.On the other hand, oils are glycerol esters which contain higher proportion of unsaturated fatty acid components.20 21
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.Punjab14.6.11 Classification
+Lipids are classified as:
+1. Simple Lipids
+These are esters of fatty acids with glycerol. For example, common fats and oils.
+2. Compound Lipids
+These contain radicals in addition to fatty acids and alcohol and include glycerol phospholipids, sphingolipids, lipoproteins and lipopolysaccharides.The melting points of mixed glycerides would depend on the extent of unsaturated fatty acid components in the molecule. The poly unsaturated glycerides therefore have very low meting points and are liquids (oils). Chemically common oils and fats are the mixture of saturated and unsaturated triglycerides, present in various ratios.
+3. Derived or Associated LipidsThey are the hydrolytic products of the above mentioned compounds. Sterols, vitamin D and terpenes belong to this class of lipids.
+14.6.12 Physical Properties1.
+ Oils 
+and fats may either be liquid or non-crystalline solids at room temperature.
+2.
+ When pure they are colourless, odourless and tasteless.
+3.
+ They 
+are insoluble in water and readily soluble in organic solvents like diethyl 
+ether, acetone, carbon tetrachloride and carbon disulphide.
+4.
+ They 
+readily form emulsions when agitated with H20 in the presence of soap or 
+other emulsifiers.
+5.
+ They are poor conductor of heat and electricity and therefore serve as excellent insulator for the animal body.14.6.13 Chemical Properties
+1. HydrolysisTriglycerides are easily hydrolyzed by enzymes called lipases to fatty acids and glycerol.
+3. Hardening of OilsUnsaturated glycerides react with hydrogen in the presence of a metal catalyst to give saturated glycerides. The result is the conversion of a liquid glyceride (an oil) into a semi-solid glyceride (a fat).2. Saponification
+It is the hydrolysis of a fat or an oil with an alkali to form soap (salt of fatty acid) and glycerol.22 23
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.Punjab
+This reaction is used commercially to harden vegetable oils for 
+the production of vegetable ghee  or  margarine. Hardened  oils   are  also   extensively   used   for   making   soaps  and  candles.
+14.6.14 Saponification Number
+It is defined as the number of milligrams of potassium hydroxide or sodium hydroxide required to saponify one gram of the fat or oil. For example, one mole of glycerol tripalmitate (mol. wt = 807) requires 168,000 mg of KOH for saponification. Therefore, one gram of fat will require 168000/807 mg of KOH. Hence the saponification number of glycerol tripalmitate is 208.
+14.6.15 Rancidity of Fats or Oils
+Fats or oils are liable to spoilage and give off an odour known as rancidity. It is mainly caused by the hydrolytic or oxidative reactions which release foul smelling aldelydes and fatty acids. Oils from sea animals which contain a relatively high proportion of unsaturated acid chains deteriorate rapidly.14.6.16 Iodine Number
+The extent of unsaturation in a fat or an oil is expressed in terms of its 
+iodine number. It is defined as the number of grams of iodine which will add to 100 grams of a fat or an oil The value of iodine number depends on the number of double bonds present in the acid component of the glycerides. The glycerides with no double bonds have zero iodine number.
+14.6.17 Acid Number
+The acid number of a fat or an oil tells the amount of free fatty 
+acids present in it. It is expressed as the number of milligrams of potassium hydroxide required to neutralize one gram of fat.
+14.6.18 Steroids
+Steroids are naturally occurring lipids. Their 
+parent nucleus has perhydrocyclopentanophe-nanthrene component which consists of three six- membered rings (A, B and C) and one five-membered ring (D). These rings are joined or fused to each other and have a total of 17-C atoms Very
+small variations in the bonding of atoms in the ring and in the groups attached to them give rise to compounds that are remarkably diversein their biological functions. Some of the natural occurring compounds belonging to steroids are cholesterol, ergosterol, male and female sex hormones and the hormones of the adrenal cortex.
+1. CholesterolIt is the most abundant animal sterol and occurs in all animal tissues but only in a few higher plants. Cholesterol is present both in the free as well as esterified form in the blood, animal tissues, egg, yolk, various oils and fats and nerve tissues. Its increased quantities in blood makes plaque like deposits in the arteries causing blood pressure and other heart diseases.24 25
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.Punjab
+2. Ergosterol
+It is the sterol of fungi and yeasts. When irradiated with 
+ultraviolet rays, it is converted into ergocalciferol or vitamin D2.
+3. Phospholipids
+Phospholipids are molecules of enormous biological importance. In the compounds, two of the hydroxyl groups are esterified with fatty acids and third forms a link with phosphoric acid or a derivative of phosphoric acid.
+14.6.19 Importance of lipids
+1. They are good source of energy and make the food more palatable.
+2.
+ They exert an insulating effect on the nervous tissues.
+3.
+ They are good energy reservoirs in the body.
+4.
+ Lipids are an integral part of cell protoplasm and cell membranes.
+5.
+ Some 
+lipids act as precursors of very important physiological compounds. 
+For example, cholesterol is the precursor of steroid hormones.14.6.20 Enzymes
+Enzymes can be defined as the reaction catalysts of biological systems pro-
+duced by living cells and are capable of catalyzing chemical reactions. Typically enzymes are macromolecules with molecular masses ranging into millions. Two remarkable properties of enzymes are their extraordi-nary specificity 
+ each enzyme catalyzes only one reaction or one group 
+of closely related reactions  and their amazing efficiency  they may 
+speed up reactions by factors of upto 1020. Each enzyme molecule pos-
+sesses a region known as the active site and the substrate binds itself with this active site.
+Enzymes are either pure proteins or contain proteins as 
+essential components and in addition require non-pro-tein components which are also essential for their activity. 
+The protein component of the enzyme is called apoenzyme and the non-protein component is called the co-factor or co-enzyme.The co-fac-tors include inorganic ions and complex organic or metallo-organ-ic molecules. Important inorganic co-factors alongwith their respective enzymes include Fe
+2+(chrome oxidase) Zn2+(carbonic anhydrase) and Mg2+(-
+glucose 6- phosphatase), etc. Many enzymes contain vitamins as their co-factors, for example; nicotinamide adenine dinucleotide contains nic-otinamide vitamin and thiamine pyrophosphatase contains vitamin B
+1.
+While naming the enzymes, suffix-“ase” is added to the name of the substrate on which the enzyme acts, for example, urease, su-crase, cellulase are the enzymes, which act upon the substrates urea, sucrose and cellulose respectively.
+14.6.21 Classification of Enzyme
+The commission on enzyme, appointed by the International Union 
+of Bio-Chemistry (IUB) classified enzymes into six main types.26 27
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.Punjab1. Oxidoreductases
+These enzymes catalyze oxidation-reduction reactions. Com-mon examples are oxidase, dehydrogenase and peroxydase.
+2. Transferases
+These enzymes bring about an exchange of functional group such as phosphate or acyl between two compounds,For example; phospho-transferases, etc.
+3. Hydrolases
+These enzymes catalyze hydrolysis.They include proteases called 
+protolytic enzymes.
+4. Lyases
+These enzymes catalyze the addition of ammonia, water 
+or carbon dioxide to double bonds or removal of these to form double bonds, for example phospho-glyceromutases.
+5. Isomerases
+These enzymes catalyze the transfer of groups within molecules to yield isomeric forms of the substrate . An example is the conversion of fumaric acid to maleic acid in’ the presence of fumarase enzyme.
+6. LigasesThese enzymes link two molecules together through the breaking of high 
+energy bonds, for example; acetyl S COH, a carboxylase and succinic thiokinase.
+14.6.22 Properties of Enzymes
+1. SpecificityEnzymes are specific in their action which means that an enzyme will act on only one substrate or a group of closely related substrates. For example, hexokinase catalyses the conversion of hexoses like glucose, fructose and mannose to their 6-phosphate derivatives but glucokinase is specific for glucose only.2. Protein Nature
+Enzymes with few exceptions are protein in nature. They 
+are produced by living cells but act in vivo as well as in vitro.
+3. The Direction of Enzym e Reactions
+Most enzymatic reactions are reversible i.e. the same 
+enzyme can catalyze reactions in both directions.
+4. Isoenzymes
+These are the enzymes from the same organisms which catalyze the 
+same reaction but are chemically and physically distinct from each other.
+14.6.23 Factors Affecting Enzyme Activity
+1. Enzyme ConcentrationThe rate of an enzymatic reaction is directly proportional to the 
+concentration of the substrate. The rate of reaction is also directly proportional to the square root of the concentration of enzyme. It means that the rate of reaction also increases with the increasing concentration of enzyme
+2. Temperature
+The enzymatic reaction occurs best at or around 37°C which is the average 
+normalbody temperature. The rate of chemical reactions is increased by a rise in temperature but this is true only over a limited range of temperature. The enzymes usually destroy at high temperature. The activity of enzymes is reduced at low temperature. The temperature at which an enzyme reaction occurs the fastest, is called its optimum temperature.28 29
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.Punjab3. Effect of pH
+Just like temperature, there is also an optimum pH at which an enzyme will catalyze the reaction at the maximum rate. For example, the optimum pH of salivary amylase is 6.4 to 6.9.
+4. Other SubstancesThe enzyme action is also increased or decreased in the presence of 
+some other substances such as co-enzymes, activators and inhibitors. For example, some enzymes consist of simple proteins only such as insulin. Most of the enzymes are, however, the combination of a co-enzyme and an apo-enzyme. Activators are the inorganic substances which increase the enzyme activity. For example; Mg
+2+ and Zn2+ ions are the 
+activators of phosphatase and carbonic anhydrase enzymes respectively. Inhibitors are the substances which reduce the enzyme activity.
+5. Radiation
+Generally enzymes are readily inactivated by exposure to ultraviolet light,
+ beta rays, gamma rays and X-rays.
+14.6.24 Importance of Enzymes
+Enzymes are of great biological importance and are of great help in the 
+diagnosis of certain diseases. Some examples are, alkaline phosphatase is raised in rickets and obstructive jaundice, lactic dehydrogenase or LDH-1 is raised in heart diseases. Many enzymes have proved very useful as drugs. For example; thrombin is used locally to stop bleeding. Many enzymes are used for cancer treatment, for example, L-asparaginase has proved very useful in the treatment of blood cancer in children.
+14.6.25 Nucleic Acids
+Nucleic acids were first demonstrated in the nuclei of pus cells in 1868 and 
+in sperm heads in 1872 by Friedrik Miescher. They are present in every living cell as well as in viruses and have been found to be the essential components of the genes. They contain in their structure the blue-prints for the normal growth and development of each and every living organism.Two types of nucleic acids have been discovered, deoxyribonucleic acid (DNA) and ribonucleic acid (RNA). In the body nucleic acids occur as part of the conjugated proteins called nucleoproteins. The nucleic acids direct the synthesis of proteins. Cancer research involves an extensive study of nucleic acids.
+14.6.26 Components of Nucleic Acids
+Both DNA and RNA are formed by joining together a large 
+number of nucleotide units or mononucleotides units, each of which is a nitrogenous base sugar phosphoric acid complex.
+The nucleic acids are responsible for the two fundamental functions which are common to all living organisms, these are (a) their ability to reproduce, store and transmit genetic information and (b) to undergo mutation.
+Nitrogenous bases are either purine or pyrimidine derivatives. Purines include adenine and guanine whereas pyrimidines include, cytosine, uracil and thymine. A nucleoside is a combination of nitrogenous base (purine or a pyramidine) with a sugar (ribo or deoxyribose). Depending upon the presence of ribo or a deoxyribo, nucleoside can either be a ribonucleoside or deoxyribonucleoside. Dexoyribonucleic acid (DNA) carries the genetic information and ribonucleic acid (RNA) is involved in putting this information to work in the cell. They differ in three ways.
+1.
+ The 
+sugar in RNA is ribose while the sugar in DNA is 2-deoxyribose.
+2.
+ Four 
+different bases are found in DNA cytosine (C), thymine (T), adenine (A) and 
+guanine (G). In RNA, .thy mine does not occur and its place is taken by uracil (U).
+3.
+  
+DNA is nearly always double stranded, while RNA is usually single stranded.30 31
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.PunjabThe key to the ability of DNA to preserve genetic information and to pass 
+it on from generation to generation is its double-stranded structure, first deducted by James Watson and Francis Crick in 1953. This was the discovery that initiated the field of molecular biology. Watson and Crick noticed that the double stranded structure provides a mechanism whereby the genetic information can be duplicated . This process is called replication.
+The synthesis of a polypeptide (protein) involves a series of events which occur in accordance with the information contained in the DNA.
+KEY POINTS
+1.  Macromolecules are large molecules built up from small units called      monomers.2.  The organic macromolecules are biological and non- biological in nature.3.  Biological macromolecules are called life molecules and non-biological      are man made synthetic polymers.4.  The polymer chains may be linear, branched or cross-linked.5.  A thermoplastic polymer is the one which can be softened and hardened      by heating  and cooling respectively.6.  A thermosetting polymer is one which becomes permanently hard on heating. 7. The polymerization process involves addition and condensation reactions.8.  The formation of polyethene is an example of addition polymerization.9.  Nylon, a polyamide and terylene, a polyester, are examples of condens-     -ation polymers.10. Carbohydrates, proteins, fats, and nuclei acids are naturalmacromolecules.11.  Carbohydrates are the most abundant biomolecules on earth.They       are classified into monosaccharides, oligosaccharides and polysaccharides.12.  Proteins are the essential components of all living organisms. They are        the polymers of amino acids.13.  Lipids are naturally occuring organic compounds of animal and plant origin  
+       and they are soluble in organic solvents. Fats and oils are the most important      lipids found in nature.14. Enzymes are proteins that catalyze chemical reactions in living organisms.      They are very specific in their action. EXERCISE
+Q. 1 Fill in the blanks1.
+ Macromolecules are built up from small units called______
+2.
+ Nylon is a polyamide and terylene is a _________
+3.
+ Nylon is prepared by the reaction of _________ and hexamethylenediamine.
+4.
+ Based on their thermal properties, plastics are divided into _________ main classes.
+5.
+ Polyvinyl chloride is a ________ plastic.
+6.
+ Glucose is stored as________ in the liver.
+7.
+ Glucose and fructose are water_________ carbohydrates.
+8.
+ Protein after digestion changes to _______
+9.
+ Purine and pyrimidine are_________ of nucleic acids.
+10.
+ Addit ion of a plasticizer _________ the flexibility of the polymer.
+Q. 2 Indicate True or False.1.
+ Nylon 6,6 and terylene are condensation polymers.
+2.
+ The disposal of plastics does not cause any pollution problem.
+3.
+ Fructose is a polysaccharide carbohydrate.
+4.
+ Human beings get no food nutrient from cellulose.
+5.
+ The most abundant and the most important steroid in the human body is vitamin D.
+6.
+ Enzymes are the compounds containing C, H and O only.
+7.
+ The degree of unsaturation of fats is measured by their iodine number.
+8.
+ Activity of an enzyme varies with temperature and pH.
+9.
+ Nucleic acids are biological catalysts.
+10.
+ The nucleic acids are responsible for protein synthesis in the human body.
+Q. 3. Multiple choice questions. Encircle the correct answer.(i) In which of these processes are small organic molecules made into macromolecules(a) the cracking of petroleum fractions(b) the fractional distillation of crude oil(c) the polymerization of ethene(d) the hydrolysis of proteins32 33
+14. Macromolecules 14. MacromoleculeseLearn.Punjab eLearn.Punjab(ii) Which of these polymers is an addition polymer?
+(a) nylon-6,6                (b) polystyrene                     (c) terylene                    (d) epoxy resin
+(iii) Which of these polymers is a synthetic polymer?
+(a) animal fat               (b) starch                             (c) cellulose                       (d) polyester
+(iv) Plastics are a pollution problem because many plastics
+(a) are made from petroleum(b) are very inflammable(c) burn to produce toxic fumes(d) decompose to produce toxic products
+(v) The fibre which is made from acrylonitrile as monomer:
+(a) PVC                     (b) rayon fibre                     (c) acrylic fibre              (d) polyester fibre
+(vi) A polymeric substance that is formed in the liquid state and then hardened toa rigid solid is called a
+(a) fibre                   (b) plastic                             (c) varnish                     (d) polyamide resin(vii) Vegetable oils are
+(a) unsaturated fatty acids                                    (b)glycerides of unsaturated fatty acids(c) glycerides of saturated fatty acids                  (d)essential oils obtained from plants
+(viii) Which one of the following elements is not present in all proteins?
+(a) carbon                  (b) hydrogen                   (c) nitrogen                     (d) sulphur
+(ix) Which one o f the following nitrogeneous bases is not present in RNA
+(a) cytosine                (b) adenine                     (c) thiamine                     (d) uracil
+(x) Which one of the following enzymes brings about the hydrolysis of fats?
+(a) urease                  (b)maltase                      (c) zymase                         (d) lipase(xi) The reaction between fat and NaOH is called(a) esterification                                                       (b) hydrogenolysis(c) fermentation                                                       (d) saponification
+(xii) Which one of the following statements about glucose and sucrose is incorrect?
+(a) both are soluble in water                                 (b) both are naturally occurring(c) both are carbohydrates                                    (d) both are disaccharides
+Q. 4 Explain the following terms:
+(a) Addition polymer                                               (b) Condensation polymer(c) Thermoplastic                                                     (d) Thermosetting plastic
+Q. 5 Write notes on
+(a) Polyester resins                          (b) Polyamide resins                         (c) Epoxy resins
+Q. 6 What is the repeating unit in each of the following polymers?(a) polystyrene                      (b) nylon 6,6                         (c) teflon                        (d) orlon
+Q. 7 What are carbohydrates and how are they classified?Q. 8 Point out one difference between the compounds in each of the following 
+pairs.(a) Glucose and fructose(b) Sucrose and maltose(c) Cellulose and starch
+Q. 9 What are lipids? In what way fats and oils are different?
+Q. 10 Define saponification number and iodine number. Discuss the term rancidity.
+Q. 11  What is the difference between a glycoside linkage and a peptide linkage?
+Q.12 What is the chemical nature of enzymes? Discuss the classification of enzymes.Q. 13  What are nucleic acids? Write down the role of DNA and RNA in life.

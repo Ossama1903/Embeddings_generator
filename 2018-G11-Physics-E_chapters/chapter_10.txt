@@ -1,0 +1,1014 @@
+
+Chapter 10
+OPTICAL INSTRUMENTS
+Learning Objectives
+At the end of this chapter the students will be able to:
+1 Recognize the term of least distance of distinct vision.
+2 Understand the terms magnifying power and resolving power.
+3 Derive expressions for magnifying power of simple microscope, compound
+microscope and astronomical telescope.
+4 Understand the working of spectrometer,
+B Describe Michelson rolating mirror method to find the speed of light.
+5 Understand the principles of optical fibre.
+7 Identify the types of optical fibres.
+a Appreciate the applications of optical fibres.
+n
+this chapter, some optical instruments that are based on the principles of reflection
+and retraction, will be discussed The most common of these instruments are the
+magnifying glass, compound microscope and telescopes, We shall also study
+magnification and resolving powers of these optical instruments, The spectrometer and
+an arrangement for measurement of speed of light are also described. An introduction to
+optical fibres, which has developed a great importance in medical diagnostics,
+telecommunication and computer networking, is also included.
+10.1 LEAST DISTANCE OF DISTINCT VISION
+The normal human eye can focus a sharp image of an object on the eye if the object is
+located any where from infinity to a certain point called the near point.
+The minimum distance from the eye at which an object appears to be
+distinct is called the least distance of distinct vision or near point.
+214
+---
+
+This distance represented by d is about 25 cm from the eye
+If the object is held closer to the eye than this distance the
+image formed will be blurred and fuzzy The location of
+the near point, however, changes with age,
+10.2 MAGNIFYING
+POWER
+AND
+RESOLVING POWER OF OPTICAL
+INSTRUMENTS
+When an object is placed in front of a convex lens at a point
+beyond its focus, a real and inverted image of the object is
+formed as shown in the Fig. 10.1.
+F
+2F
+2F
+F
+o
+P
+q
+Eg 12.1
+el
+The ratio of the size of the Image to the size
+of the object is called magnification.
+(a)
+As the object is brought from a far off point to the focus, the
+magnification goes on increasing, The apparent size of on
+object depends on the angle subtended by it at the eye.Thus,
+(b)
+the closer the object is to the eye. the greater is the angle
+Fly 102
+subtended and larger appears the size of the object
+When the same object la virwed at
+(Fig.10.2). The maximum size of an object as seen by
+shoder distance. the imagi on the
+naked eye is obtained when the object is placed at the
+retina of the eye la greater to the
+least distance of distinct vision. For lesser distance, the
+object appears larger and more
+details can be seen. The angle B
+image formed looks blurred and the details of the object
+the object subtends in (a) is greater
+are not visible.
+than a in(b)
+The
+magnifying power or angular
+magnification is defined as the ratio of the
+angles subtended by the image as seen
+through the optical device to that subtended
+by the object at the unaided eye.
+215
+---
+
+The optical resolution of a microscope or B telescope tells
+us how close together the two point sources of light can be
+so that they are still seen as two separate sources. if two
+point sources are too close, they will appear as one becau-
+se the optical instrument makes a point source look like a
+small disc or spot of light with circular diffraction fringes
+Although the magnification can be made as large as one
+desires by choosing appropriate focal lengths, but the
+magnification alone is of no use unless we can see the
+details of the object distinctly.
+The resolving power of an instrument is its ability to reveal
+the minor details of the object under examination.
+Resolving power is expressed as the reciprocal of minimum angle
+Tid-bits
+which two point sources subtends at the instrument so that
+their images are seen as two distinct spots of light rather
+If you find # difficill to read amail
+than one. Raleigh showed that for light of wavelength 2
+print make 3 pinticle in a piece of
+paper and hold I' in som of your
+through a lens of diameter D, the resolving power is
+eye close to the page You will @@@
+given by R = 1
+the print clearly.
+1,22A
+Where
+22
+a
+(19,1)
+The smaller the value of a greater is the resolving power
+because two distant objects which are close together can
+then be seeh separated through the instrument.
+In the case of 8 grating spectrometer, the resolving power
+R of the grating is defined as
+R
+(10.2)
+where x 44 if is and - Thus, we SBG that a
+grating with high resolving power can distinguish small
+difference in wavelength, If N is the number of rulings on
+the grating, is can be shown that the resolving power in the
+mth-order diffraction equals the product N x mile
+R=Nxm
+(10.3)
+216
+---
+
+10.3 SIMPLE MICROSCOPE
+As discussed above a convinger or conver lans can bu
+used to help the eye to the small objects distinctly A
+watch maker uses convex tens to repair the watches The
+object is placed inside the focal point of the lens The
+magnified and virtual image is formed at least distance of
+distinct vision di or much farther from the lens:
+Let us, now. calculate the magnification of a simple
+microscope in Fig 10,3 (a) the image formed by the
+object, when placed at a distance of, on the eye is shown
+In Fig. 10.3 (b), B lens is placed just in front of the eye and
+the object is placed in from of the tens in such a way that a
+virtual image of the object is formed at a distance d from
+the eye, The size of the Image is new much larger than
+without the lens
+o
+al
+If II and n are the respectivo angles subtended by the
+object when seen through the lens (simple microscope)
+(6)
+and when viewed directly, than angular magnification M is
+defined as
+=="
+(10,4)
+Eyli
+not
+90D
+When anglee are small, then they are nearly equal to their
+tangents From Fig. 10,3 (a) and (b), Will find
+(b)
+Flu. 10.3
+Sun of the object
+o
+=lana
+Simple Microscope
+Distance of the object
+of
+Size of the image
+and
+B=tanji=
+Distance of the image
+a
+Since the image is at the least distance of distinct vision.
+hence,
+qad
+Therefore
+p=== if
+C
+the angular magnification
+M =
+217
+---
+
+As we already know that
+/
+Size of the image
+Distance of the image = =
+III
+o
+Size of the object
+Distance of the object P
+Therefore,
+M= P p
+(10.5)
+For virtuni Image, the lens formula is written as
+111
+But
+q =d
+f p o
+Hence
+or
+due
+P
+Hence the magnification of a convex lens (simple
+microscope) can be expressed as
+(10.6)
+It is, thus, dovious that for a lens of high angular
+magnification the focal length should be small If, for
+example, / IS 5 cm and d = 25 cm, then M = 6, the object
+would look six times larger when viewed through such a lens.
+10.4 COMPOUND MICROSCOPE
+Whenever high magnification is desired, a compound
+microscope is used. H consists of two convex lenses, an
+object lens of very short focal length and an eye-piece of
+Fly 10.4 (b)
+comparatively longer focal length, The ray diagram of a
+Compound Microscope
+compound microscope is given in Fig. 10,4 (a).
+A
+B
+04
+4
+S
+e,
+1
+B
+6
+b.
+01
+o,
+Objective
+eye-place
+A
+Fig.19.4(s)
+Ray diagram of a Compound Microscope
+218
+---
+
+The object of height h is placed just beyond the principal
+focus of the objective. This produces a real, magnified
+image of height by of the object at a place situated within
+the local point of the eye-piece. It is then further magnified
+by the eye-piece, In normal adjustment, the eye-piece is
+positioned so that the final image is formed at the near
+point of the eye at a distance d.
+The angular magnification M of a compound microscope is
+For Your Information
+defined to be the ratio tant,/tan 0, where B, is the angle
+sublended by the final image of height h2 and 0 is the
+angle that the object of height h would subtend at the eye If
+placed at the near point d (Fig. 10.3 a) Now
+tan
+and
+tan
+tanDa
+Thus, magnification
+h
+or
+M=4
+where ratio h,/h is the linear magnification M, of the
+A severrauth certury microsompa
+which could to noted up and down in
+objective and h2/h, is the magnification M3 of the eyepiece.
+is susport my (Courteal of this
+Myseum if the Halory of Sciente,
+Hence, total magnification is
+M=MM
+By Eq. 10.5 and Eq. 10.6, M, =q/p and Ms=1+ dif,
+Hence,
+(10.7)
+it is customary to refer the values of M as multiples of 5, 10,
+40 etc., and are marked as x5, x10, X 40 etc., on the
+instrument.
+The limit to which a microscope can be used to resolve
+details, depends on the width of the objective. A wider
+objective and use of blue light of short wavelength
+produces less diffraction and allows more details to be
+seen
+219
+---
+
+Example 10.1: A microscope has an objective lons of
+10 mm focal length, and an eye piece of 25.0 mm local
+length. What is the distance between the lenses and its
+magnification, if the object is in sharp focus when it is
+10,5 mm from the objective?
+Solution: If we consider the objective alone
+1
++
+or
+4 = 210 mm
+10.5 mm 1 10mm
+If we consider the eye piece alone, with the virtual image at
+the least distance of distinct vision a =-250 mm
+1
+1
+1
+- #
+or
+P = 22.7 mm
+p
+25 mm
+Distance between Lenses=q+p=210mm+22.7mm=233mn
+Magnification by objective
+M.D.
+210mm
+=20.0
+P
+10.5mm
+Magnification by eye piece
+1
+mm
+Total magnification
+=20 x (-11.0) = -220
+-ive sign indicates that the image is virtual.
+10.5 ASTRONOMICAL TELESCOPE
+Telescope is an optical device used for viewing distant
+objects. The image of a distant object viewed through a
+telescope appears larger because it subtends a bigger
+visual angle than when viewed with the naked eye. Initially
+the extensive use of the telescopes was for astronomical
+observations. These telescopes are called astronomical
+telescopes. A simple astronomical telescope consists of
+two convex lenses, an objective of long focal length 6 and
+220
+---
+
+an eye piece of short local length la The objective forms a
+real, inverted and diminished image AB of a distant object
+AB. This real image A' BE acts as object for the eye
+piece which is used as a magnifying glass The final image
+seen through the eye-piece is virtual, enlarged and invorted
+Fig. 10.5 shows the path of rays through an astronomical
+telescope.
+Rays from distant
+object.ru
+il
+o
+o
+0
+Fig.18.5
+Ray diagram of Astronomical Telescope
+When a very distant object is viewed. the rays of light
+coming from any of its point (say its top) are considered
+parallel and these parallel rays are converged by the
+objective to form a real image A'B' at its focus. If it is
+desired to see the final image through the eye-piece
+without any strain on the eye, the eye-piece must be
+placed so that the image A'B' lies at its focus The rays
+after refraction through the eye-piece will become parallel
+and the final image appears to be formed at infinity, In this
+condition the image A'B' formed by the objective lies at
+the focus of both the objective and the eye-piece and the
+telescope is said to be in normal adjustment
+Let us now compute the magnifying power of an
+astronomical telescope in normal adjustment The angle a
+subtended at the unaided eye is practically the same as
+subtended at the objective and it is equal to < A'OB' Thus
+A'B
+A'8'
+Ucu
+OB'
+4
+221
+---
+
+The angle @ subtended at the eye by the final image is
+equal to 2 A' O'B Thus
+For Your information
+Magnifying power of the telescope = =
+or
+M=
+(10,8)
+Focallength of the objective
+M=
+Focal length of the eyepiece
+It may be noted that the distance between the objective
+and eye-piece of a telescope in normal adjustment is 6+14
+which equals the length of the telescope.
+Besides having a high magnifying power another problem
+which confronts the astronomers while designing a
+telescope to see the distant planets and stars is that they
+would like to gather as much light form the object as
+possible. This difficulty is overcome by using the objective
+of large aperture so that it collects a great amount of light
+from the astronomical objects, Thus a good telescope has
+an objective of long focal length and large aperture.
+10.6 SPECTROMETER
+Reflecting Telescope
+A spectrometer is an optical device used to study spectra
+Large astronomical telescopes
+are reflecting type made from
+from different sources of light. With the help of a
+specialty shapes very large
+spectrometer, the deviation of light by a glass prism and
+merrore used BE obsecives With
+such telescopes, entronomers can
+the refractive index of the material of the prism can be
+study stars which are nillions light
+measured quite accurately, Using a diffraction grating, the
+your away
+spectrometer can be employed to measure the wave
+length of the light.
+The essential components of 8 spectrometer are shown in
+Fig. 10,6 (a).
+222
+---
+
+Source
+Calificator
+Oneing
+Fig 10,0 (b)
+Spectrometer.
+Te(escope
+Fis IDS (a)
+Eye
+Schematic diagram of a specirometer,
+Collimator
+it consists of a fixed metallic tube with a convex lens at one
+end and an adjustable slit, that can slide in and out of the
+tube, at the other end. When the sit is just at the focus of
+the convex lens, the rays of light coming out of the lens
+become parallel. For this reason, is is called a callimator.
+Turn Table
+A prism or a grating is placed on a turn table which is
+capable of rotating about a fixed vertical axis. A circular
+scale. graduated in half degrees, is attached with it.
+Telescope
+A telescope is attached with a vernier scale and is
+rotatable about the same vertical axis as the turn table.
+Before using a spectrometer, one should be sure that the
+collimator is SO adjusted that parallel rays of light emerge
+out of its convex lens The telescope is adjusted in such a
+way that the rays of light entering it are focussed at the
+cross wires near the eye-piece, Finally, the refracting edge
+of the prism must be parallel to the axis of rotation of the
+telescope so that the turn table is levelled This can be
+done by using the levelling screws,
+223
+112
+---
+
+10.7 SPEED OF LIGHT
+6
+Light travels 50 rapidly that it is very difficult to measure its
+T
+in
+speed, Gallieo was the first person to make an attempt to
+a
+4
+measure its speed. Although he did not succeed in the
+M
+measurement of the speed of light, yet he was convinced
+2
+that the light does lake some time to travel from one place
+Telemonte
+to another Given below in one of the accurate methods of
+determining the speed of light which is known as
+Michelson's experiment
+Source
+In this experiment, the speed of light was determined by
+of light
+measuring the time it took to cover B round between two
+mountains, The distance. between the two mountains was
+measured accurately. The experimental set up is shown
+m
+in Fig 10.7
+Fig 10.7
+An eight-sided polished mirror M is mounted on the shaft of
+Michalson's method for
+a motor whose velocity can be varied Suppose the mirror
+measarement of speed of light
+is stationary in the position shown in the figure. A beam of
+light from the face 1 of the mérror M falls of the plane mirror
+m placed at a distance d from M. The beam is reflected
+back from the mirror m and falls on the face 3 of the mirror
+M On reflection from face 3. it enters the telescope,
+If the minor M is rotataci clockwise, initially the source will
+not be visible through the telescope, When the mirror M
+gains a certain speed, the source S becomes visible. This
+happens when the time taken by light in moving from M to
+in and back to M is equal to the time taken by face 2 to
+move to the position of face 1.
+Angle subtended by any side of the eight-sided mirror at
+the centre is 2x/8 If / is the frequency of the mirror M.
+when the source 5 is visible through the telescope, then
+the time taken by the mirror to rotate through an angle 2n
+is 1/L So, the time taken by the mirror M to rotate through
+an angle 2nd is
+t=
+2nf
+B
+of
+The time taken by light for its passage from M to m and
+back is 2d/c where e IS the speed of light These two times
+am equal,
+224
+---
+
+so
+1.20
+C
+ca16fd
+(10.9)
+This equation was used to determine the speed of light by
+Michelson. Presently accepted value for the speed of light
+in vacuum is
+on 2.99792458 X 10 ms
+we usually round this off to 3.00 x10° ms
+The speed of light in other materials is always less than C
+In media other than vacuum, it depends upon the nature of
+the medium. However, the speed of light in air is
+approximately equal to that in vacuum and generally taken
+so in calculations
+10.8 INTRODUCTION TO FIBRE
+OPTICS
+Point to Ponder
+For hundreds of years man has communicated using
+flashes of reflected sunlight by day and lanterns by night.
+Navy signalmen still use powerful blinker lights to transmit
+coded messages to other ships during periods of radio-
+silence. Light communication has not been confined to
+simple dats and dashes. It is an interesting but little known
+fact that Alexander Graham Bell invented a device known
+as "photo phone" shortly after his invention of telephone
+Bell's photo phone used a modulated beam of reflected
+sunlight, focussed upon a Selenium detector several
+hundred metres away. With the device, Bell WBS able to
+transmit 6 voice message via a beam of light. The idea
+Each at the this opóci -
+remained dormant for many years. During the recent past
+email enough in fil through the
+S/E of . neede Why is the size
+the idea of transmission of light through thin optical libres
+of theffore Important?
+has been revived and is now being used in communication
+technology
+The use of light as a transmission carrier wave in fibre
+optica has several advantages over radio wave chriers
+such as a much wider bandwidth capability and immunity
+from electromagnetic interference.
+225
+---
+
+It is also used to transmit light around cornom and into
+inaccessible places SD that the formerly unobservable could
+be viewed The use of fibre optic tools in industry is now
+very common, and their importance as diagnostic tools in
+medicine has been proved (Fig. 10,8 a and b).
+Recently the fibre optic technology has evolved into
+Fig. 10.0(a)
+something much more important and useful - B
+Optical Since image
+communication system of enormous capabilities,
+One feature of such a system is its ability to transmit
+thousands of telephone conversations, several television
+programs and numerous data signals between stations
+through one or two flexible, hair - thin threads of optical
+fibre. With the tremendous information carrying capacity
+called the bandwidth, fibre optic systems have undoubtedly
+made practical such services as two way television which
+was too costly before the development of fibre optics
+These systèms also allow word processing, image
+transmitting and receiving equipment to operate efficiently,
+in addition to giving an extremely wide bandwidth. the fibre
+optic system has much thinner and light weight cables. An
+optical fibre with its protective case may be typically 6,0 mm
+in diameter, and yet it can replace B 7.62 cm diameter
+bundle of copper wires now used to carry the same
+amount of signals.
+10.9 FIBRE OPTIC PRINCIPLES
+Fig 10.0 (0)
+Aprecision dismond superbrise
+Propagation of light in an optical fibre requires that the light
+IT eye surgery The is
+should be totally confined within the libre.
+obtained by light puning through If
+This may be done by total internal reflection and continuous
+refraction
+Total Internal Reflection
+One of the qualities of any optically transparent material is
+the speed at which light travels within the material, i.e. it
+depends upon the refractive Index ii of the material. The
+index of refraction is morely the ratio of the speed of light
+c in vacuum to the speed of light V in that material.
+226
+---
+
+Expressed mathematically,
+(10,10)
+Air H,
+14
+The boundary between two optical media, e.g. glass and air
+instructed Ray
+having different refractive indices can reflect or retract light
+rays The amount and direction of reflection or refraction is
+determined by the amount of difference in refractive Indices
+as well BS the angle at which the rays strike the boundary. Al
+some angle of incidence, the angle of refraction is equal to
+901 when a ray of light is passing through glass to air This
+Fio 15.00
+angle of incidence is called the critical angle 0, shown in
+If the ange of refraction IN the 2K is
+Fig. 10.9(a).We are already familiar with Snell's law
+ao The angel of acidance 5 called
+sin 0, = n,sin 4,
+the ontice angle
+From Fig. 10.9 (a), when 8,=00"
+thus,
+n, sin 1,=n, or sin 0.00/n,
+For incident angles equal to or greater than the critical angle,
+the glass - air boundary will act as a mirror and no light
+escapes from the glass (Fig. 10,9 b). For glass-air boundary,
+1,0
+we have
+sin
+or a=41,8"
+1.5
+Let us now assume that the glass is formed into a long,
+Name
+round rod. We know that all the light rays striking the
+Flg.10.2(b)
+internal surface of the glass at angles of incidence greater
+For angles of Incidence graydant
+than the éstical anyle, at the light is
+than 41,8" (critical angle) will be reflected back into the
+relected name is intracted into the
+glass, while those with angles lessthan 41,8" will escape
+IR
+from the glass (Fig.10.10a). Ray 1 is injected into the tod so
+that it strikes the glass air boundary at an angle of incidence
+about 30"
+1
+4
+5
+and tay
+4
+nats
+3
+3
+2
+n,41.0
+Fig. 10.10 (a)
+Propagation at light within a glass rod.
+Outgoing
+cay
+Since this is less than the critical angle, it will escape from
+the rod and be lost Ray 2 at 42° will be reflected back into
+Incoming
+my
+the rod, as will ray 3 at 60' Since the angle of reflection
+equals the angle of incidence, these two rays will continue
+Fig. 10.10 (to)
+to propogate down the rod, along paths determined by
+Light propagation (thin
+the original angles of incidence, Ray 4 is called an axial
+flexibie glass fibre
+227
+---
+
+ray since its path is parallel to the axis of the rod.
+Axial rays will travel directly down this straight and rigid rod.
+However, in a flexible glass fibre they will be subjected to
+Clasting
+the laws of reflection (Fig.10.10b).
+COM
+Optical fibres that propagate light by total internal reflection
+are the most widely used.
+(4)
+Continuous Refraction
+There is another mode of propagation of light through
+optical fibres in which light is continuously refracted within
+the fibre. For this purpose central core has high refractive
+index (high density) and over it is a layer of a lower
+refractive index (less density). This layer is called cladding.
+Such a type of fibre is called multi-made step Index fibre
+(h)
+whose cross sectional view is shown in Fig.10.11(a)
+Now a days, a new type of optical fibre is used in which the
+Fig. 10.11
+central core has high retractive index (high density) and its
+Cruss sactional view of
+density gradually decreases towards its periphery. This type
+(a) Multi-mode step index Film
+of optical fibre is called a multi mode graded Index fibre. Its
+(b) Multi-modia graded Index firm
+cross sectional view is shown in Fig. 10.11 (b).
+In both these fibres the propagation of light signal is
+through continuous refraction. We already know that a ray
+a
+passing from a denser medium to a rarer medium bends
+2
+.
+away from the normal and vice versa. In step index or
+graded index fibre, B ray of light entering the optical fibre,
+as shown in Fig. 10.12, is continuously refracted through
+these steps and is reflected from the surface of the outer
+Fig. 19.12
+layer. Hence light is transmitted by continuous refraction
+Light propagation within
+and total Internal reflection.
+hypethetical muts layer form
+10,10 TYPES OF OPTICAL FIBRES
+There are three types of optical fibres which are classified
+on the basis of the mode by which they propagate light. These
+are (i) single mode step index () multi mode step index and
+(iii) multi mode graded index. The term 'mode' is described
+as the method by which light is propagated within the fibre,
+i.e. the várious paths that light can take in travelling down
+the fibre. The optical fibre is also covered by a plastic
+jacket for protection.
+228
+---
+
+(1)
+Single Mode Step Index Fibre
+Single mode or mono mode step index fibre has a very thin
+Jacket
+core of about 5 um diameter and has a relatively larger
+cladding (of glass or plastic) as shown in Fig. 10.13. Since
+Class cladding
+it has a very thin core, a strong monochromatic light source
+i.e., a Laser source has to be used to send light signals
+Gass EXPER
+through it. It can carry more than 14 TV channels or 14000
+phone calls,
+(a)
+(D)
+Multimoda Step Index Fibre
+Cladding
+This type of fibre has a core of relatively larger diameter such
+as 50 um It is mostly used for carrying white light but due to
+Comm
+n
+dispersion effects, it is useful for a short distance only. The
+(b)
+fibre core has a constant refractive index ns, such as 1.52,
+Fig. 10.13
+from its centre to the boundary with the cladding es shown
+Single-moda step-index fitro
+in Fig. 10.14. The refractive index then changes to a lower
+value no. such as 1.48, which remains constant throughout
+the cledding.
+n,
+n.
+Fig. 10.04
+Light propogation through Multi-made stepindea fibre.
+This is called a step-index multimode fibre, because the
+refractive index steps down from 1,52 to 1.48 at the
+boundary with the cladding.
+(iii)
+Multimode Graded Index Fibre
+Multi mode graded index fibre has core which ranges In
+diameter from 50 to 1000 pm. II has a core of relatively high
+refractive index and the refractive index decreases gradually
+from the middle to the outer surface of the fibre. There is no
+noticeable boundary between core and cladding This type
+of fibro is called a multi mode graded-index fibre (Fig. 10.15)
+and is useful for long distance applications in which white
+Fig. 10.15
+light is used The mode of transmission of light through this
+Light propogation through Muffi-
+type of fibre is also the same, i.e., continuous refraction from
+made graded-inder fibre
+229
+---
+
+the surfaces of smoothly decreasing refractive index and the
+total Internal reflection from the boundary of the outer
+surfaces.
+Example 16.2 Calculate the critical angle and angle of entry
+for an spocal fibere having core of retractive index 1.50 and
+cladding of collactive index 1.48.
+Solution We have
+n. = 1.50.
+FL = 1,48
+54148
+An
+1.50
+Fis 10.15
+Foorn Snell's law
+ain
+When
+So
+1.50 and = 1.45 sin 901
+Which gives
+From the Fig 10,18,
+6==00
+iin B (1, 1.5
+Again using Snell's law. we have
+=
+=
+GRT
+A
+n
+1
+which gives sin or 0 = 14,23
+If light beam a incident at the and of the optical libra at an
+angle greater than 14.2°, total internal reflecion would not
+take place.
+10,11 SIGNAL TRANSMISSION AND
+CONVERSION TO SOUND
+A fibre optic communication system consists of three major
+components (I) a transmitter that converts electrical
+signals to light signals, (II) an optical fibre for guiding the
+signals and (iii) a receiver that captures the light signals
+al the other end of the fibre and reconverts them to
+electric signale.
+The light source in the transmitter can be either a
+semiconductor laser or a light emitting diode (LED). With
+either device, the light emitted is an invisible infra-red
+signals. The typical wavelength is 1.3 um.
+230
+---
+
+Such a light will travel much faster through optical fibres
+than will either visible or ultra-violet light The lasers and
+LEDs used in this application are tiny unes (less than half
+the size of the thumbnail) in order to match the size of the
+fibres. To transmit Information by light waves, whether it is
+an audio signal, a telvision signal or a computer data
+signal, it in necessary to modulate the light waves The
+most common method of modulation is called digital
+modulation in which the laser or LED is flashed on and off
+al an extremely last rate A pulse of light represents the
+number 1 and the absence of light represents zero. in a
+sense, instaed of flashes of light travelling down the fibre,
+ones (1s) and zeros (0s) are moving down the path.
+Opini Nhu
+Emploce
+Emerican
+rasino
+light
+light
+Duta light pure
+Fis. 10.17
+With computer type equipment any communication can be
+represented by a particular pattern or code of these is and
+Ds The receiver is programmed to decodethe le and (is. this
+it receives. the sound, pictures or data as required. Digital
+modulation is expressed in bits ( binary digit) or megabits
+(10 bite) per second, where a bit is a 1 or a 0.
+Despite the ultra-purity (99.99% glass) of the optical fibre,
+the light signals eventually become dim and must be
+regenerated by devices called repeaters. Repeaters are
+typically placed about 30km apart, but in the newer
+systems they may be separated by as much as 100 km.
+Al the and of the fibre. 3 photodiode converts the light
+niguals, which are then amplified and decoded, if necessary,
+to reconstrud the signals originally transmitted (Fig. 10.17).
+10.12 LOSSES DE POWER
+When a light signal travels along fibres by multiple
+reflection, some light la absorbed due to impurities in the
+glass Some of If B scattered by groups of atoma which are
+formed al places such as joints when fibres are joined
+together Careful manufacturing can reduce the power loss
+by scalfering and absorption,
+231
+---
+
+The information received at the other end of a fibre can be
+inaccurate due to dispersion or spreading of the light signal
+Also the light signal may not be perfectly monochromatic, In
+such B case, a narrow band of wave-lengths are retracted in
+different directions when the light signal enters the glass fibre
+and the light spreads.
+Fig. 10,18 (a) shows the paths of light of three different
+wavelengths 23. 4 and As. la meets the core-cladding at
+the critical angle and 2 andA at slightly greater angles. All
+A
+the rays travel along the fibre by multiple reflections as
+explained earlier. But the light paths have different lengths.
+(ii)
+So the light of different wavelengths reaches the other end
+of the fibre at different times. The signal received is,
+therefore, faulty or distorted.
+The disadvantage of the step-index fibro (Fig. 10.18 a) can
+considerably be reduced by using a graded index fibre. As
+shown in Fig. 10.18 (b). the different wavelengths still take
+(b)
+different paths and are totally internally reflected at
+different layers, but still they are focussed at the same
+Fis. 10.13
+point like x and Y etc. is is possible because the speed is
+Light neiths in (a) alap-indes
+Inversely-proportional to the refractive index So the
+and (h) graded indos tibni
+wavelength 21 travels a longer path than is or kg but at a
+greater speed.
+Inspite of the different dispersion, all the wavelengths
+arrive at the other end of the fibre at the same time With a
+step-index fibre, the overall time difference may be about
+33ns per km length of fibre, Using a graded index fibre, the
+time difference is reduced to about 1 ns per km
+SUMMARY
+Least distance of distinct vision is the minimum distance from the eyes at which an
+object appears to be distinct.
+Magnification is the ratio of the size of the image to the Size of the object, which
+equals to the ratio of the distance of the image 10 the distance of the object from
+the lens or mirror.
+Magnifying power or ungular magnification is the angle subtended by the image
+as seen through the optical device to that subtended by the object at the unalded
+eye
+Resolving power is the ability of an Instrument to reveal the minor details of the
+object under examination.
+232
+---
+
+Simple microscope is in fact a convex lans used to help the eye to see small objects
+distinctly. The magnifying power of a simple microscope is given by
+M=d=1.4
+Compound microscope consists of two convex lenses, an objective lens of very short
+focal length and an eye piece of modernte local length. The magnifying power of a
+compound microscope is given by
+M⑉20-2
+Telescope is an optical instrument used to sse distant object The magnifying power of
+the telescope is given by
+M=
+Spectrométer in am aplical device used to study spectra from different sources of light.
+Index of retraction is the ratio of speed of light In vecuum to the speed of light in the
+material
+Critical angio is the ungio of incidence in the denser medium for which the angle of
+rollacion in the reror mediumis equal to 90.
+When the angle of incidence becomes greater than the critical angle of that material,
+the incident ray is reflected in the same material. which is called total internal
+reflection
+Cladding is a layer. of lowse rufractivo index (less dansity) over the contral core of
+high refractive index (high density)
+Mum mode step index fibro is an optical fibra in which a layer of lower retractive
+index is over the central core of high retractive index
+Mufti mode graded Index fibre la an optical fibre in which the central core has high
+refractive index and its density gradually decreases towards itn poriphery.
+QUESTIONS
+10.1 What do you understand by linear magnification and angular magnification?
+Explain how a convex lens is used as a magnifier?
+10.2 Explain the difference between angular magnification and resolving power of an
+optical instrument What limits the magnification of an optical instrument?
+10.3 Why would it be advantageous to use blue light with a compound microscope?
+104 One can buy a cheap microscope for use by the children. The images seen in such
+a microscope have coloured edges. Why is this so?
+233
+---
+
+10.5 Describe with the help of diagrams, how (a) a single biconvex lens can be used as
+a magnifying glass. (b) biconvex lenses can be arranged to form a microscope.
+10.0 If a person was looking through a telescope at the full moon. how would the
+appearance of the moon be changed by covering half of the objective lans
+107 A magnifying glass gives a five times enlarged image at a distance of 25 cm from
+the lens, Find, by ray diagram, the local length of the lens.
+10.8 Identify the correct answer.
+(1)
+The resolving power of a compound microscope depends on:
+a. Length of the microscope.
+b. The diameter of the objective lens.
+c. The diameter of the eyepiece
+d. The position of an observer's eye with regard to the eye lens
+(ii)
+The resolving power of an astronomical telescope depends on
+a The local length of the objective lens.
+b. The least distance of distinct vision of the observer
+c The focal length of the eye lens.
+( d. The diameter of the objective lens.
+10.9 Draw skotches showing the different light palhs through a single-mode and a multi
+mode fibre. Why is the single-mode fibre preferred in telecommunications?
+10.19 How the light signal is transmitted through the optical fibre?
+10. in How the power is lost in optical fibre through dispersion? Explain,
+NUME PROBLEMS
+10.1 A converging lens of focal length 5.0 cm is used as a magnifying glass If the
+near point of the observer is 25 cm and the lens is held close to the eye, calculate (i)
+the distance of the object from the lens (30) the angular magnification What is the
+angular magnification when the final image is formed at infinity?
+[Ans: (i) 4.2 cm (ii)6.0:5.0)
+10.2
+A telescope objective has focal length 96 cm and diameter 12 cm. Calculate the
+local length and minimum diameter of a simple eye piece lens for use with the
+telescope, if the linear magnification required is 24 times and all the light transmitted
+by the objective from a distant point on the telescope axis is to fall on the eye piece
+(Ana: 6 = 4.0 cm, da = 0,50 cm)
+234
+---
+
+10.3 A telescope is made of an objective of local length 20 cm and an eye piece of
+5.0cm, both convex lenses. Find the angular magnification
+(Ans. 4.0)
+10.4 A simple astronomical telescope in normal adjustment has an objective of focal
+length 100 cm and an eye piece of focal length 5,0 cm. (i) Where is the final image
+formed (ii) Calculate the angular magnification.
+[Ans: (i) infinity (II) 20)
+10.5 A point object is placed on the axis of and 3.6 cm froma thin convex léns of local
+length 3.0 cm A second thin convex lens of focal length 16.0 cm is placed coaxial
+with the first and 26.0 cm from it on the side away from the object Find the position
+of the final image produced by the two lenses.
+(Ans: 16 cm from second lens)
+10.6 A compound microscope has lenses of focal length 1.0 cm and 3.0 cm. An object
+is placed 1.2 cm from the object lens. If a virtual Image is formed, 25 cm from the
+eye, calculate the separation of the lenses and the magnification of the instrument
+(Ans: 8.7 cm, 47)
+10.7 Sodium light of wavelength 589 nm is used to view an object under a microscope.
+If the aperture of the objective is 0.90 cm, (i) find the limiting angle of resolution,
+(II) using visible light of any wavelength, what is the maximum limit of resolution for
+this microscope.
+[Ans: (1) 8.0 x 10 rad, (ii) 5,4 x 10° rad]
+10.8 An astronomical telescope having magnifying power of 5 consist of two thin lenses
+24 cm apart. Find the local lengths of the lenses
+[Ans: 20 cm. 4 cm)
+10,9 A glass light pipe in air will totally internally reflect a light tay if its angle of incidence
+is as least 39f. What is the minimum angle for total internal reflection if pipe is in
+water? (Refractive Index of water = 1.33)
+[Ans: 57'
+10.10 The refractive index of the core and cladding of an optical fibre are 1,6 and 1,4
+respectively. Calculate (i) the critical angle for the interface (ii) the maximum angle
+of incidence in the air of a ray which enters the fibre and is incident at the critical
+angle on the interface
+(Ans: (I) 61°, (II) 51°]
+235
+---

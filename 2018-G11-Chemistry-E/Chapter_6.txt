@@ -1,0 +1,1494 @@
+CHAPTER
+6     CHEMICAL BONDING
+Animation 6.1: Chemical Bonding
+Source & Credit:  chemistry.elmhurst26 CHEMICAL BONDING eLearn.Punjab
+6.1.0 INTRODUCTION
+ A chemical bond is the force, which holds together two or more atoms or  ions to form a large 
+variety of compounds. The forces which are responsible for such bonding and the shapes of the 
+molecules formed are as a result of chemical combination. 
+The theory of chemical bonding has been a major problem of modern  chemistry. In this chapter, 
+we shall look into the nature of the chemical bonds formed between th e atoms.
+Simulation 6.1: Chemical Bond
+Source & Credit : pbslearningmedia
+Animation 6.2: Chemical Bond
+Source & Credit : geo.arizona36 CHEMICAL BONDING eLearn.Punjab
+6.1.1 Cause of Chemical Combination
+ 
+           It has been observed that the chemical reactivities of el ements, depend upon their characteristic 
+electronic conigurations. The noble gases with electronic coniguration  of valence shell Is2 (He) 
+or ns2 np6 (Ne, Ar, Kr, Xe, etc.) show little tendency to react chemically. There are just only a few 
+stable compounds, formed by these elements like XeF2, XeF4, XeOF2, XeO3, etc. A noble gas does 
+not react with another noble gas. Thus, these gases are the most stabl e of all the elements. Let us, 
+see why noble gases are most stable. This can be explained on th e basis of their special electronic 
+coniguration. Their outermost s and p orbitals are completely illed.
+   ↿⇂     ↿⇂   ↿⇂   ↿⇂   ↿⇂   ↿⇂   ↿⇂ 
+     2He = Is  10Ne = Is 2s 2px  2py  2py 2pz
+ 
+All other elements, combine with one another, due to an inherent tendency  to stabilize themselves. 
+They get their stabilization by losing, gaining or sharing elec trons to attain the nearest noble gas 
+coniguration. The tendency of atoms to attain a maximum of eight electr ons in the valence shell is 
+known as the ‘octet rule’. A few examples are given in Table (6 .1).
+ In certain cases, both tendencies i.e. to lose or gain electrons have b een observed. But the 
+system will go by the conditions in which the chemical combina tion takes place. For example, in 
+the chemical combination between sodium and hydrogen to form NaH, hydrogen atom gains an 
+electron. In the formation of HF the hydrogen atom donates the major shar e of its electron to 
+luorine atom. 
+ Any how, the ‘octet’ rule could not be made universal as the formati on of compounds PF5, SF6, 
+BCl3 are not according to this rule.46 CHEMICAL BONDING eLearn.Punjab
+6.1.2 ENERGETICS OF BOND FORMATION
+ According to the modern theory of chemical bonding, atoms form b onds as it leads to a 
+decrease in energy. For example, when two hydrogen atoms approach each other, forces of 
+attraction and repulsion operate simultaneously. 
+Animation 6.3: bonding
+Source & Credit : dynamicscience
+Element TendencyElectronic coniguration Nearest
+Befor electron loss or gain After electron loss or gain nobel gas
+3Li Electron loss 1s2  2s11s2He (2)
+12Mg Electron loss 1s2  2s2  2p6  3s21s2   2s2   2p6Ne (10)
+9F Electron gain 1s2  2s2  2px2  2py2  2pz11s2   2s2   2p6Ne (10)
+16S Electron gain 1s2  2s2  2p6  3s2  3px2  3py1 3pz11s2  2s2  2p6  3s2  3p6Ar (18)Table (6.1) Change in the electronic conigurations o f 
+some elements after losing or gaining electrons56 CHEMICAL BONDING eLearn.Punjab
+ The attractive forces tend to bring the two atoms close to each other and the potential energy 
+of the system is decreased. On the other hand, the repulsive forces tend to push the atoms apart 
+and potential energy of the system is increased. It has been found th at the magnitude of potential 
+energy for attractive forces is more than for repulsive forces. Therefore,  potential energy decreases 
+as the two hydrogen atoms approach each other Fig(6.1).
+Eventually, a state corresponding to the distance of 75.4pm is reach ed, where the attractive 
+forces dominate the repulsive forces. Here,the potential energy of the system  is minimum and 
+the hydrogen atoms are said to be bonded to form a stable molecule. So, this distance of 75.4 pm 
+is called bond distance or bond length or compromise distance of tw o hydrogen atoms. When 
+the atoms approach the distance of minimum energy, then the system of two hydrogen atoms is 
+stabilized to maximum extent. The amount of energy evolved is 436.45k. Jmol-1 and is called bond 
+formation energy. In order to break the bond, the same amount of energy has to be provided. Fig: (6.1) Potential energy curve for the formation of H2 molecule.66 CHEMICAL BONDING eLearn.Punjab
+ 
+ For the case, where repulsive forces are dominant than the attractive forces, the energy of 
+the system increases and it leads to instability. Consequently, a  bond is not formed. In order to 
+understand bonding, the relative sizes of atoms should be known.
+6.2. ATOMIC SIZES
+ATOMIC RADII, IONIC RADII AND COVALENT RADII.
+ The size of an atom is very important because many physical an d chemical properties are 
+related to it. Atoms are assumed to be spherical. That is why, w e report the various types of radii 
+to guess their sizes For this reason, the sizes of atoms are express ed in terms of atomic radii, ionic 
+radii and covalent radii, etc,. depending upon the type of the comp ound used for its measurement.
+Animation 6.4: ENERGETICS OF BOND FORMATION
+Source & Credit : 800mainstreet76 CHEMICAL BONDING eLearn.Punjab
+       The atomic radius means the average distance between the nucl eus of the atom and its 
+outermost electronic shell.
+ The radius of an atom cannot be determined precisely due to the foll owing reasons.
+(i) There is no sharp boundary of an atom. The probability of inding an electron never becomes 
+exactly zero even at large distances from the nucleus.
+(ii) The  electronic probability distribution is afected by neig hbouring atoms. For this reason,the 
+size of an atom may change from one compound to another. 
+ Atomic  radii can be determined, by measuring the distances b etween the centres of adjacent 
+atoms with the help of X-rays or by spectroscopic measurements. Atom ic radii of elements of the 
+periodic table in pm are shown in Table (6.2).
+Animation 6.5: ATOMIC SIZES
+Source & Credit : sustainable-nano86 CHEMICAL BONDING eLearn.Punjab
+Variation of Atomic Radii in the Periodic Table
+ In general, the atomic radii decrease from left to the right in a p eriod and increase from top 
+to bottom in a group of the periodic table. The decreasing trend in  a period is due to the increase 
+in the nuclear charge. As the nuclear charge increases, the p ull on the electrons is increased and 
+size of an atom decreases. Moreover, the shielding efect remains the sam e from left to right in a 
+period.
+The increase in atomic radii in a group is due to increase i n the number of shells and the screening 
+efect. The decrease of atomic radii is very prominent in second period , but less in higher periods. 
+Moreover, the decrease is small, when we travel from left to right in tra nsition elements Sc(21) 
+-Zn(30), Y(39) -Cd(48) due to the intervening electrons. The screen ing efect is also called shielding 
+efect. This is responsible for the decrease in force of attraction of th e nucleus for the electrons 
+present in the valence shell.
+Animation 6.6: Periodic trends
+Source & Credit : kaiserscience.wordpress96 CHEMICAL BONDING eLearn.Punjab
+6.2.1 Ionic Radii and Covalent Radii  
+Ionic Radic
+ The ionic radius of an ion is the radius of the ion while c onsidering it to be spherical in shape.  
+The ionic radii of some ions in pm are given in Table (6.2).  The ionic radius of a cation is smaller than 
+the atomic radius of the element from which it is derived. The ionic radius of an anion is greater 
+than the atomic radius of the corresponding atom. The radius of N a atom, for example, reduces 
+from 186 pm to 95 pm after conversion into Na+ ion. The ionic radius of Cl- ion increases from 99 pm 
+to 181 pm. The cationic radius decreases with the increase in the efective nuclear charge on the 
+ion. The decrease in radius is larger for divalent ions (Mg2+) and still larger for trivalent ions (Al3+). 
+This is due to the reason that with the successive loss of electrons, th e nuclear charge attracts the 
+remaining electrons with a greater force. 
+The increase in the size of the anion is due to the increase in the electron-elenctron repulsion be -
+cause of the increase in the valence shell electrons. Greater the amount of  negative charge on an 
+atom, greater the size of ion.Table (6.2) Radii of atoms and ions in the periodic  table.106 CHEMICAL BONDING eLearn.Punjab
+ The variation of ionic radii in groups and periods have the sam e trend as for atomic radii. But 
+keep in mind that ionic radius for metals is for positive ions an d for elements of group number VA 
+to V iiA are for negative ions.
+ Let us consider, the positive and negative ions, which are held together  by electrostatic 
+forces of attraction in a crystal lattice. Fig. (6.2), r+ and r- are the values of radii of cation and anion, 
+respectively.
+ The interionic distance ‘R’ in a crystal lattice is equal to th e sum of the cationic radius r+ and 
+the anionic radius r.
+      R =  r+  + r-
+ Pauling was able to determine the distance between K+ and Cl- ions in potassium chloride 
+crystal and found that it was equal to the sum of the radii of the two ions.
+      R = 133pm + 181 pm = 314 pm
+ Thus, the ionic radius appeared to be an additive property. Pau ling extended this concept to 
+other K+ salts and calculated the radii of other ions from the relationshi p:
+       r- =  R  -  r+
+Similarly, the ionic radii of diferent cations can also be determ ined.
+Covalent Radii
+ The covalent radius of an element is deined as half of the single b ond length between two 
+similar atoms covalently bonded in a molecule.
+F. ig (6.2) The relationaship of interionic 
+distance R and ionic. radii (r+ and r- )
+Animation 6.7: Ionic Radii and Covalent Radii Ionic  Radii
+Source & Credit : chemwiki.ucdavis116 CHEMICAL BONDING eLearn.Punjab
+ The  covalent radius of hydrogen, for example, is 37.7 pm. It is half of the single bond length 
+(75.4 pm) between the two H atoms in H-H molecule, as shown in Fi g (6.3).
+The covalent radius of an atom can be used  to determine the covalent ra dius of another atom. For 
+example, the experimentally determined bond length of C-Cl in CH3CI is 176.7 pm. The covalent 
+radius of Cl-atom being known as 99.4 pm, that of C-atom can be calculated by subtracting this 
+value from C-Cl bond length. So, the covalent radius of C-atom = 17 6.7- 99.4 = 77.3 pm.
+Fig (6.3) Covalent radius of H atom, (75.4/2 = 37.7 pm)
+Animation 6.8: Covalent Radii
+Source & Credit : boundless126 CHEMICAL BONDING eLearn.Punjab
+ The variation of covalent radii in groups and periods is almost the same as of atomic radii. 
+Since energy changes are involved in the bond formation, so thermodyna mic properties of elements 
+need to be discussed before understanding the chemical bond.
+6.3 IONIZATION ENERGY, ELECTRON AFFINITY AND 
+ELECTRONEGATIVITY
+6.3.1 Ionization Energy
+ The ionization energy of an element is the minimum energy required to remove an electron 
+from its gaseous atom to form an ion. The process is called ioni zation, e.g.
+     →∆+ - -1Mg Mg + e H=738kJmol
+Table (6.3) First ionization energies, electron afin ities and 
+electronegativities values of elements136 CHEMICAL BONDING eLearn.Punjab
+ In the gaseous phase, the atoms and ions are isolated and are free from all external inluences. 
+Thus, the ionization energy is the qualitative measure of the stability  of an isolated atom. The irst 
+ionization energies of elements are given in Table (6.3).
+Factors Inluencing the Ionization Energies
+It is observed that the ionization energies of atoms depend upon the followi ng factors.
+(i)  Atomic radius of atom
+(ii)  Nuclear charge or proton number of the atom
+(iii) Shielding efect of inner electrons
+(iv)  Nature of orbital
+Animation 6.9: Ionization Energy
+Source & Credit : kaiserscience.wordpress146 CHEMICAL BONDING eLearn.Punjab
+Variation of Ionization Energy in the Periodic Tabl e
+ In the periodic table, the ionization energies increase from left to r ight in a period with the 
+increase in the proton number, until a maximum value is reached at the end of the period. This may 
+be explained in terms of the periodicity of the electronic coniguration of elements. Each period 
+begins with an element which has one electron in its valence shell and ends with the completion 
+of an electronic shell. The increase in the atomic number is ass ociated with the increase in nuclear 
+charge which leads to a stronger force of attraction between the nucl eus and the increasing number 
+of electrons. The stronger force of attraction, ultimately results in di icult removal of electrons.
+In groups, the ionization energy decrease in spite of the increase in proton number or nuclear 
+charge. This  is due to successive addition of electronic shells as a result of which the valence 
+electrons are placed at a larger distance from the nucleus. As th e force of attraction between 
+the nucleus and the outer electron decreases with the increase in dis tance, the electron can be 
+removed more easily or with less energy. Moreover, the force of attraction al so decreases due to 
+increasing shielding efect of the intervening electrons. 
+Animation 6.10: Factors Inluencing the Ionization E nergies
+Source & Credit : kaiserscience.wordpress156 CHEMICAL BONDING eLearn.Punjab
+ The  ionization energies of group III-A and VI-A show abnorma l trend. This can be understood 
+from the distribution of the electrons.
+Higher Ionization Energies
+ So far, we have explained the irst ionization energy. The energy req uired to remove an 
+electron after the removal of irst electron is called second ionization ener gy.
+    →∆++ - -1Mg Mg + e H=1450kJmol
+Animation 6.11: Variation of Atomic Radii in the Pe riodic Table
+Source & Credit : dynamicscience166 CHEMICAL BONDING eLearn.Punjab
+ Similarly, the  energy required to remove third electron after the rem oval of second one is 
+called the third ionization energy, and it is 7730k J for Mg. It means that the ionization energy val -
+ues undergo an increase with the increase in the number of electron s to be removed. This is due 
+to the reason that second electron is removed from a positively charged ion rather than a neutral 
+atom. The dominant positive charge holds the electrons more tightly an d thus further removal of 
+electrons becomes more diicult.
+ Ionization energy is an index to the metallic character. The elemen ts having low ionization 
+energies are metals and those having high ionization energies are non-metals. Those with interme -
+diate values are mostly metalloids.
+ The gaps in the irst, second, third and higher ionization energ ies help us to guess the valency 
+of an element. If, there is suicient gap between irst ionization energy  and second one, then the 
+element shows valency of one.
+Animation 6.12: Higher Ionization Energies
+Source & Credit : 800mainstreet176 CHEMICAL BONDING eLearn.Punjab
+6.3.2 Electron Afinity
+ The electron ainity of an atom is the energy released when an electron a dds to an empty 
+or partially illed orbital of an isolated gaseous atom in its valen ce energy level to form an anion 
+having a unit negative charge , e.g.
+     
+         
+Since, energy is released, so electron ainity is given the negative sig n. Electron ainity is the 
+measure of the attraction of the nucleus of an atom for the extra electron. The electron ainities of 
+elements of the periodic table are given in Table (6.3).
+Factors Inluencing the Electron Afinity
+ The electron ainities, like ionization energies, are inluenced by th e factors such as atomic 
+radius, the nuclear charge and the shielding efect of inner electr ons.
+Animation 6.13: Electron Afinity
+Source & Credit : hcchrisp.blogspot( ) ( )- - -1Cl g + e Cl g H=-349kJmol →∆186 CHEMICAL BONDING eLearn.Punjab
+As  the force of attraction between the valence electrons and the nucleus d ecrease with the increase 
+in the atomic radius, the electron ainities usually decrease.
+Variation in the Periodic Table
+ In a period, the atomic radius decreases due to increase in the nu clear charge. Thus, the 
+electron ainities of elements increase from left to right in the periodic table. That is why, the alkali 
+metals have the lowest and the halogens have the highest electron ainities. In groups, on the 
+other hand, the atomic radii increase with the increase in the proton  number due to successive 
+increase of electronic shells. 
+ This also exerts a shielding efect on the force of attraction between the nucleus and the 
+valence electrons. Thus, the electron ainities usually decrease from top  to bottom.
+Animation 6.14: Factors Inluencing the Electron Afi nity
+Source & Credit : northhillsprep196 CHEMICAL BONDING eLearn.Punjab
+ There are, of course, exceptions to this generalization e.g. luorine h as electron ainity less 
+than that of chlorine, Table (6.3). Actually, luorine has very small size and seven electrons in 2s and 
+2p subshells have thick electronic cloud. This thick cloud repels the incoming electron.
+ The elements of group IIA, VA and VIII show abnormally low values in every period of the 
+periodic table. This can be understood from their electronic conigur ations.
+6.3.3 Electronegativity
+ For a homonuclear diatomic molecule e.g. H2, the bonding pair of electrons is equally shared 
+between the atoms. On the other hand, in a bond between dissimilar a toms such as in HF the 
+electron density of the bonding electrons lies more towards the luorine atom  than towards the 
+hydrogen atom. The tendency of an atom to attract a shared electron pair towards its elf is called 
+its electronegativity.
+Animation 6.15: Variation in the Periodic Table
+Source & Credit : vocativ206 CHEMICAL BONDING eLearn.Punjab
+It  is related to the ionization energy and the electron ainity of the elemen t. Thus, luorine atom 
+is more electronegative than hydrogen atom. Pauling calculated the electr onegativity values of 
+elements from the diference between the expected bond energies for their normal  covalent bond 
+and the experimentally determined values. 
+He devised an electronegativity scale on which luorine is given an ar bitrary standard value 4.0. It 
+is the most electronegative element. The electronegativity values of other elements a re compared 
+with luorine, and are given in Table (6.3). Electronegativity has  no units.
+Variation of Electronegativities in Periodic Table
+ A comparison of electronegativities shows that the values increase in a period with the 
+decrease in atomic size. These values decrease in a group as the s ize of the atoms increase. The 
+electronegativity diferences of the elements can be related to the properties of b onds such as 
+dipole moments and bond energies.
+The diference in the electronegativity values of the bonded atoms is an in dex to the polar nature 
+of the covalent bond. When the diference is zero, the bond between the two atoms  is non-polar. 
+Thus, all the bonds which are formed between similar atoms are n onpolar in character, while those 
+formed between diferent elements are mostly polar. Elements of widely dif erent electronegativities 
+form ionic bonds.
+Animation 6.16: Electronegativity
+Source & Credit : makeagif216 CHEMICAL BONDING eLearn.Punjab
+ A diference of 1.7 units shows roughly equal contributions of i onic and covalent bonds. Some 
+examples of polar and non-polar bonds are discussed under coval ent bond in section 6.4.1. 
+  Having understood the periodic properties of elements, let us discus s types of bonds.
+6.4 TYPES OF BONDS
+ Chemical bonds can be classiied as :
+ (i)  Ionic bond
+ (ii)  Covalent bond
+ (iii)  Coordinate covalent bond
+ We shall explain these bonds with the help of diferent theories of ch emical bonding. First of 
+all let us discuss the Lewis concept of bond formation.
+Animation 6.17: Variation of Electronegativities in  Periodic Table
+Source & Credit : kaiserscience.wordpress226 CHEMICAL BONDING eLearn.Punjab
+6.4.1 LEWIS CONCEPT
+With the help of this concept, we can understand the tendencies of el ements to have relation with 
+each other.
+Animation 6.18: TYPES OF BONDS
+Source & Credit : employees.csbsju
+Animation 6.19: LEWIS CONCEPT
+Source & Credit : nku236 CHEMICAL BONDING eLearn.Punjab
+(i) Ionic Bond
+According to the Lewis theory, ionic bond is formed  by the complete transfer of electron 
+or electrons from an atom with low ionization energy t o another atom with high electron 
+ainity.  In energy terms, the electropositive elements are at a higher energy state th an the 
+electronegative elements. The energy diference  will be responsible for the transfer of electrons 
+from a higher energy state to a lower energy state.
+Let us consider, the example of the formation of potassium chloride. T he electronic coniguration 
+of potassium is Is2 2s2 2p6  3s2 3p6 4s1. It may be represented as K (2,8,8,1). It tends to lose the 
+outermost electron and to form K+ ion. The energy needed to detach an electron from potassium 
+atom is equal to its irst ionization energy. So         
+                               -1K(2,8,8,1) K (2,8,8) e H=419.0kJmol+−→+ ∆
+   The oppositely charged K+ and Cl- ions are held together by strong electrostatic force of attraction. 
+K+ and Cl- ions arrange themselves to form a crystal lattice where proportionate nu mber of cations 
+and anions are packed together. The energy released during the for mation of crystal lattice is 690 
+kJmol-1. It is called lattice energy of KCl.
+ After the loss of an electron, potassium attains the nearest inert gas coniguration of Ar 
+(2,8,8). Chlorine atom has the electronic coniguration Is2 2s2 2p6 3s2 3p5 or Cl (2,8,7). It tends to 
+gain electron lost from potassium atom to attain the nearest inert gas con iguration of Ar (2,8,8) 
+releasing 348.6 kJmol-1 energy. This energy corresponds to the electron ainity of chlorine.
+    −−⋅+ → ∆ 
+ -1:Cl :Cl : H=-349kJmole
+Similarly, the elements of I-A Li, Na, K, Rb, Cs are good los ers of electron. The elements of VII-A, F, Cl, 
+Br, I are good gainers. So, ionic bonds are there in these atoms.  A similar type of bond is expected 
+between elements of group II-A and VI-A.246 CHEMICAL BONDING eLearn.Punjab
+  
+In most of the cases the formation of dipositive, tripositive and dinega tive ions takes place as 
+follows:
+   Ca (2,8,8,2)     Ca2+ (2,8,8)+2e-
+   Al (2,8,3)     Al3+ (2,8)+3e-
+   O (2,6) + 2e-    O2- (2,8)
+   S (2,8,6) + 2e-    S2- (2,8,8)
+ Calcium oxide contains ions in the ratio of Ca2+ : O2- and its formula is CaO, while in aluminium 
+oxide, Al3+ and O2- ions are present in the ratio 2 :3. Its formula is Al2 O3. Similarly, CaS and Al2S3, are 
+also ionic compounds to some extent. 
+ The compounds formed by the cations and anions are called ioni c or electrovalent  
+compounds. There exists a strong electrostatic force of attraction between c ations and anions in 
+these compounds.
+ Criteria of electronegativity also helps us to understand the nature of bond. So, in order to 
+decide the % of ionic nature in a compound, it is better to note the difer ence of electronegativity 
+between the bonded atoms. If the diference is 1.7 or more than that, then  the bond is said to be 
+ionic. Keeping this aspect in view, NaCl has 72% ionic char acter. CsF has 92% ionic character and 
+calculations tell us that there is no bond with 100% ionic cha racter.
+Animation 6.20: Ionic Bond
+Source & Credit : gcsechemistryhelp.tumblr256 CHEMICAL BONDING eLearn.Punjab
+(ii)  Covalent Bond (electron pair bond)
+ According to Lewis and Kossel, a covalent bond is formed by the mu tual sharing of electrons 
+between two atoms . While sharing, each atom completes its valence shell and attain s the nearest 
+inert gas coniguration. A covalent bond may be non-polar or polar in character.
+Non-Polar Covalent Bonds
+  
+ In  such bonds, the bonding electron pairs are equally shared . For example, in H2 or Cl2 
+molecules, the two electrons forming the covalent bond are equally shar ed by the two identical 
+atoms having same electronegativities. 
+ Hydrogen  
+                H : H or H - H  Chlorine  
+                         
+:Cl x
+.Clx
+x    or Cl----Cl
+         
+Animation 6.21: Covalent Bond (electron pair bond)
+Source & Credit : edcoogle
+xx
+xx266 CHEMICAL BONDING eLearn.Punjab
+ Due to an even distribution of charge, the bonded atoms remain electric ally neutral.The other 
+such molecules are F2, Br2 and I2.Similarly, CCl4 is a non-polar compound. This is due to cancellation 
+of all the dipoles of this molecules due to its symmetry. Actually, all the C-Cl bonds are polar, but 
+molecule is non-polar overall.
+ Tetrachloromethane  
+ :Cl:
+:Cl :C: Cl:
+:Cl:
+ 
+ 
+  or 
+          Cl 
+Cl C Cl 
+ Cl 
+  The  molecules like CH4, SiH4, and SiCl4 also follow the same attitude of non-polarity due to 
+symmetry of structure.
+Polar Covalent Bonds
+ When two diferent atoms are joined by a covalent bond, the electron pair  is not equally 
+shared between the bonded atoms. The bonding pair of electrons will be displaced towards the 
+more electronegative atom
+Animation 6.22: Non-Polar Covalent Bonds
+Source & Credit : bsc2.ehb-schweiz2276 CHEMICAL BONDING eLearn.Punjab
+This would make one end of the molecule partially positive and the other partially negative as 
+shown by the following examples.
+ Hydrogen  fluoride      Water  
+  
+H×F:  or +-H x Fδδ
+  
+H×O×H or 
+           δ+H δ+O 
+  δ+H 
+ Methyl chloride  
+ 
+                               
+                                                
+                                                                 
+                                                                            
+                                                   
+                   H 
+ δ+C  
+H   H δ-Cl  
+Methanol is an other best example of a polar covalent molecule, becaus e it contains a polar bond.
+ Methanol  
+                                    or   
+          H 
+H δ+C  
+δ-O 
+   H  δ-H  
+An atom can share more than one electrons to form what is called a  double or triple bond. The 
+examples are O2, N2, CO2, CS2, etc. 
+ N2 is an inert gas having a strong triple bond.
+ Nitrogen  
+  :N:::N:  or  ≡:N N:or
+xx
+xx
+xxH
+H: C H
+HO
+..xxxx
+xxxH: C
+HH
+Cl
+...286 CHEMICAL BONDING eLearn.Punjab
+ The molecule: of 02 makes a double bond.
+ Oxygen  
+   
+ O::O  or   
+ O=O
+ Here, carbon dioxide  is a non-polar covalent compound, although it is formed from 
+heteroatoms. The linear structure balances the polar character on both sides of the carbon atom.
+ Carbon dioxide  
+   :O::C::O: or   
+ O=C=O
+ Here, each  bond represents a pair of electrons. Thus, in the form ation of a double bond (=), 
+two shared pairs and in that of a triple bond ( ≡), three shared pairs of electrons are involved.
+ Some of the non-metallic atoms, particularly carbon atoms mutual ly share their electrons 
+with each other. This  leads to the formation of extended chains whic h is the basis of the formation 
+of large sized molecules called macromolecules. Diamond, graph ite and SiC are the best examples 
+of such molecules. 
+ Carbon can make single, double and triple covalent bonds in a lkanes, alkenes and alkynes.
+Animation 6.23: Polar Covalent Bonds
+Source & Credit : bsc2.ehb-schweiz2296 CHEMICAL BONDING eLearn.Punjab
+ Ethan  
+   
+  
+ HH
+H :C: C: H
+HH  or     H H 
+H C C H 
+ H H 
+Silicon also gives similar type of hydrides, called silanes. The formula of disilane is like that of 
+ethane.
+ Disilane  
+   
+ HH
+H :Si: Si: H
+HH   or   
+            H H 
+H Si Si H 
+ H H 
+ The  compounds of carbon and hydrogen showing double and trip le bonds are called alkenes 
+and alkynes. Let us, take the examples of ethene and ethyne.
+ Ethan           Ethan  
+  ::
+::HH
+C: :C
+HH or      H:C C:H  or ≡ H-C C-H
+       H  H 
+C=C 
+H  H 
+(iii) Coordinate Covalent Bond
+ A coordinate covalent bond is formed between two atoms when the shared pair of electrons 
+is donated by one of the bonded atoms. Let us consider, the example of  bond formation between 
+NH3 and BF3. NH, has three covalent bonds and there is a lone pair of electrons  on nitrogen atom. 
+On the other hand, boron atom in BF3 is deicient in electrons. Actually, the octet of B is not complete 
+in BF3. Therefore, nitrogen can donate the pair of electrons to the acceptor BF3 and this results in 
+the formation of a coordinate covalent bond.306 CHEMICAL BONDING eLearn.Punjab
+ The complex so produced is overall neutral, and charges are ind icated on N and B atoms. 
+In some of the compounds, after the formation of a coordinate covalent bond , the distinction 
+between covalent bond and coordinate bond vanishes.
+ Water donates its electron pair to H+ ion to give H30+ ion. All the three bonds between oxygen 
+and hydrogen have equal status. Every bond is 33% coordinate covalen t and 66% covalent.
+Similarly, all  the alcohols and ethers ofer their lone pairs to H+, just like water to give coordinate 
+covalent bonds. The ions so produced are called oxonium ions.
+Ammonia donates its  electron pair to H+ ion to give NH4+ ion. All the four bonds behave alike, in 
+NH4+ion.316 CHEMICAL BONDING eLearn.Punjab
+ All  the primary, secondary and tertiary amines like ammonia  make such bonds with H+. PH3 
+combines with H+ to give PH4+ ion called phosphonium ion. Coordinate covalent bonds are present 
+in HNO3. Many oxyacids of halogens, like (HClO2, HClO3, HClO4) have coordinate covalent bonds 
+between chlorine and oxygen.
+6.4.2 MODERN THEORIES OF COVALENT BOND
+Limitations of Lewis Model
+Classical Lewis model does explain, that how atoms are bonded to on e another. It also tells, how 
+the electron pairs are shared between the bonded atoms. But a logical  question arises:
+Are these explanations just enough to justify the diversiied world of m olecules and how do the 
+electrons avoid each other inspite of their repulsions? 
+ The answer simply lies in the fact, that the Lewis model seems to b e an over simpliication. 
+Shapes of molecules are very important because many physical a nd chemical properties depend 
+upon three dimensional arrangement of their atoms.326 CHEMICAL BONDING eLearn.Punjab
+ A true model should be able to justify molecular shapes and geom etries of molecules, bond 
+polarities, bond distances and various energy transitions as eviden t by spectroscopic techniques. 
+This  model should also make clear the unique behaviouria! fea tures of molecules during chemical 
+reactions.
+ Following are the modern theories, which explain satisfactorily the above requirements for 
+covalent bond formation, based on wave-mechanical structure of atoms:
+1.  Valence shell electron pair repulsion theory (VSEPR Theory )
+2.  Valence bond theory (VBT)
+3.  Molecular orbital theory (MOT)
+ In addition to above, crystal ield theory and ligand ield theory ex plain  the formation of 
+coordination complex compounds formed by transition metals.
+Animation 6.24: MODERN THEORIES OF COVALENT BOND
+Source & Credit : chem.umass336 CHEMICAL BONDING eLearn.Punjab
+6.4.3 VALENCE SHELL ELECTRON PAIR REPULSION THEORY
+ Sidgwick and Powell (1940) pointed out that the shapes of molecul es could be interpreted 
+in terms of electron pairs in the outer orbit of the central atom. Recen tly, Nylholm and Gillespie 
+developed VSEPR theory, which explains the shapes of molecules for n on- transition elements.
+ 
+Animation 6.25: Limitations of Lewis Model
+Source & Credit : en.wikipedia346 CHEMICAL BONDING eLearn.Punjab
+Basic Assumption
+ The valence electron pairs (lone pairs and the bond pairs) are arranged around the central 
+atom to remain at a maximum distance apart to keep repulsions at a minimum.
+Postulates of VSEPR Theory
+(i)  Both the lone pairs as well as the bond pairs participa te in determining the geometry of the 
+molecules.
+(ii)  The electron pairs are arranged around the central polyval ent atom so as to remain at a 
+maximum distance apart to avoid repulsions.
+(iii)  The electron pairs of lone pairs occupy more space than the bond pairs. 
+A bonding electron pair is attracted by both nuclei of atoms while non- bonding by only one nucleus. 
+Because a lone pair experiences less nuclear attraction, its electron ic charge is spread out more in 
+space than that for bonding pair. As a result, the non- bondin g electron pairs exert greater repulsive 
+forces on bonding electron pairs and thus tend to compress the bond pairs. 
+The magnitude of repulsions between the electron pairs in a given m olecule decreases in the 
+following order:
+    Lone pair- lone pair > lone pair -bond pair > bond pair  - bond pair
+These repulsions are called van der Waals repulsions
+Animation 6.26: VALENCE SHELL ELECTRON PAIR REPULSI ON THEORY
+Source & Credit : barmaton.info356 CHEMICAL BONDING eLearn.Punjab
+ (iv)  The two electron pairs of a double bond and three electron pai rs of a triple bond, contain 
+a higher electronic charge density. Therefore, they  occupy more spa ce than one electron pair of 
+a single bond, but behave like a single electron pair in determini ng the geometry of the molecule. 
+This is because, they tend to occupy the same region between the two nu clei like a single bond.
+ In  order to illustrate this theory, let us consider, that the central  atom is ‘A’ and this atom is 
+polyvalent. More than one ‘B’ type atoms are linked with ‘A’ to give AB2, AB3, AB4, etc. type molecules. 
+It depends upon the valency of A, that how many B are attached with that. Following Table (6.4) 
+gives the shapes of diferent types of molecules.
+Type Electron Pairs Arrangement
+of pairsMolecular
+geometryShape Example
+Total Bonding Lone
+AB22 2 0 Linear Linear B-A-B BeCl2
+HgCl2
+AB333 0
+Trigonal
+planarTrignol
+planar
+BH3, BF3
+AlCl3
+2 1 Bent (or
+angular)
+SnCl2, 
+SO2
+AB444 0
+TetrahedralTetrahedral
+CH4, 
+SiCl4,
+CCl4, BF4,
+NH4+, 
+SO42-
+3 1 Trignol
+pyramidal
+NH3, NF3,
+PH3
+2 2Bent (or
+angular
+ H2O, H2STable (6.4) Shapes of molecules according to VSPER Th eory366 CHEMICAL BONDING eLearn.Punjab
+1  Molecules Containing Two Electron Pairs (AB2 type)
+ In such, molecules two electrons, pairs around the central 
+atom are arranged at farther distance apart at an angle of 180° , in 
+order to minimize repulsions between them. Thus, they form a linear  
+geometry. 
+ Beryllium chloride is a typical linear molecule, which con tains 
+two electrons pairs. MgCl2, CaCl2, SrCl2. CdCL2 and HgCl2 are also 
+linear molecules. The central atoms have two electrons in outer most 
+orbitals.
+2.  Molecules Containing Three Electron Pairs — (AB3 type:)
+(a)  AB3 Type with no Lone Pairs
+ In such molecules, central atom contains three bonding electron p airs, which are arranged at 
+maximum distance apart at a mutual angle of 120°, giving a  triangular planar geometry. The boron 
+atom in BH3  is surrounded by three charge clouds, which remain farthest apart in one plane, each 
+pointing towards the corners of an equilateral triangle. Thus, BH3, molecules has a trigonal planar 
+geometry, with each H- B-H bond angles of 120°.
+ We expect similar geometries in hydrides of group III-A (AlH3, GaH3, InH3 and TlH3)and their 
+halides (BF3, AlCl3 ,etc.)
+(b)  AB3-Type with One Lone Pair and Two Bond Pairs
+  In SnCl2, one of the corner of the triangle is occupied by a lone pair, givi ng rise to a distorted 
+triangular structure in vapour phase.376 CHEMICAL BONDING eLearn.Punjab
+(c)  AB3-Type with Multiple Bonds
+ In SO2, one corner of triangle is occupied by a lone pair and two cor ners 
+each by S=O double bond, while in SO3 all three regions, each are occupied by 
+S = O bonds. This structure of SO3 is perfectly triangular.
+(iii)  Molecules Containing Four Electron Pairs (AB4- Type:)
+(a)  AB4 Type with no Lone Pairs
+ The charge clouds due to four electron pairs avoid their electrostatic 
+repulsions by drifting apart, so as to maintain a mutual bond  angle of 109.5 °. 
+Such geometry enables to a form a shape of regular tetrahedron.
+Examples:
+ Each of the four valence electrons of carbon pair up with sole elec tron of 
+hydrogen in methane.
+    2 1111
+6C = 1s , 2s , 2px , 2py , 2py
+ The four electron pairs are directed from the center towards the corner s 
+of a regular tetrahedron, with each apex representing a hydrogen  nucleus. 
+The arrangement permits a non-planar arrangement of electron pair s. Each 
+H-C-H bond is perfectly 109.5 °. On the same grounds, SiH4, GeH4, CCl4 form 
+similar geometries. This structure has four corners, four faces,  six edges and 
+six bond angles.
+(b)  AB4 - Type with One Lone Pair and Three Bond Pairs
+ In such cases, the charge cloud of lone pair electrons (nonbondi ng 
+electrons) spreads out more than that of bonding electrons.386 CHEMICAL BONDING eLearn.Punjab
+As a result, some what large lone pair charge cloud tend to compr ess  the bond angles in rest of 
+the molecules.
+ Ammonia, 3NH is a typical example.
+  22 1 1 1
+7 xyzN = 1s , 2s , 2p , 2p , 2p
+ The non-bonding electron in 2s orbital takes up more space and ex erts a strong repulsive 
+force on the bonding electron pairs. Consequently, to avoid a larger r epulsion, the bonding electron 
+pairs move closer that reduces the ideal bond angle from 109.50 to 107.5°. This efect compels 
+ammonia to assume a triangular pyramidal geometry instead of tetra hedral, as in methane.
+ Similar, afects are evident in the geometries of molecules like 333PH , AsH , SbH     and 3BiH. 
+Substitution of hydrogen with electronegative atoms like F or Cl further  reduces the bond angle. 
+In NF3, the strong polarity of N-F bond pulls the lone pair of N atom c loser to its nucleus, which in 
+turn exerts a stronger repulsion over bonding electrons. Thus, the an gle further shrinks to 102°. 
+Moreover, the bond pairs N-F bonds are more close to F atoms than N a toms. The increased 
+distances in these bond pairs makes their repulsions less operati ve.
+Animation 6.27: Molecules Containing Two Electron P airs (AB2 type)
+Source & Credit : employees.csbsju396 CHEMICAL BONDING eLearn.Punjab
+(c)  AB4-Type with Two lone Pairs and Two Bond Pairs:
+ Presence of two lone pairs, introduces three types of repulsion i.e. l one pair-lone pair, lone 
+pair-bond pair and bond pair-bond pair repulsion. For exa mple: water (H2O), a triatomic molecule 
+is expected to be an AB2 type linear molecule like BeCl2 and CO2. But, experimental evidences 
+conirm a bent or angular geometry. VSEPR theory, successfully j ustiies the experimental results 
+by arguing the participation of lone pairs, in addition to bond pairs in determining overall geometry 
+of water molecule.
+  222 1 1
+8 xyzO = 1s , 2s , 2p , 2p , 2p
+Animation 6.28: Molecules Containing Three Electron  Pairs — (AB;i type:)
+Source & Credit : nano-ou406 CHEMICAL BONDING eLearn.Punjab
+Two  of the corners of a tetrahedron are occupied by each of the two lone pairs and remaining 
+by bond pairs. But owing to spatial arrangement of lone pairs a nd their repulsive action among 
+themselves and on bond pairs, the bond angle is further reduced to 1 04.5°. H2S, H2Se, H2Te form 
+similar geometries.
+6.4.4 Valence Bond Theory (VBT)
+ VSERP theory predicts and explains the shapes of molecules bu t does not give reasons for 
+the formation of bonds. VBT is concerned with both the formation of bon ds and the shapes of 
+molecules. This method of describing a covalent bond considers the molecule as a combination 
+of atoms. According to the quantum mechanical approach, a covalen t bond is formed when half-
+illed orbitals in the outer or valence shells of two atoms overlap, so tha t a pair of electrons, one 
+electron from each atom, occupies the overlapped orbital, As a result of  this overlap, the electrons 
+with opposite spins become paired to stabilized themselves. 
+ Larger the overlap, the stronger is the bond. The essential condition  for chemical bonding, 
+is that the orbitals of atoms participating in bond formation must overlap and the direction of the 
+bond is determined by the direction of the two overlapping orbitals.
+ The formation of few molecules as a result of s and s orbital overl ap, s and p orbital overlap 
+and p and p orbital overlap are discussed below.
+ The formation of a hydrogen molecules according to VB theory is s hown in Fig. (6.4). As the 
+two atoms approach each other, their 1s orbitals overlap, thereby givi ng the H-H bond. 
+The  electron density becomes concentrated between the two nuclei. The bond  is called a sigma ( s) 
+bond and it is deined as follows:
+ A  single bond is formed when two partially illed atomic orbital s overlap in such a way that 
+the probability of inding the electron is maximum around the line joining the two nuclei.
+Fig. (6.4) s and s orbital overlap in H2416 CHEMICAL BONDING eLearn.Punjab
+Let’s look at a molecule hydrogen luoride, 
+HF. The H-F bond is fomed by the pairing of 
+electrons - one from hydrogen and one from 
+luorine. According to VB theory, we must 
+have two half-illed orbitals - one from each 
+atom that can be joined by overlap.
+  1H = 1s
+  9yF 2s2p 2p 2pxz =   
+ The  overlap of orbitals provides 
+a means for sharing electrons, thereby 
+allowing each atom to complete its valence 
+shell. The luorine atom completes its 2p 
+subshell by acquiring a share of an electron 
+from hydrogen as shown below.
+     9yF 2s2p 2p 2pxz =   
+ 
+The  requirements for bond formation are met by overlapping the half- illed Is orbital of hydrogen 
+with the half-illed 2p orbital of luorine. There are then two orbital s plus two electrons whose spins 
+can adjust so they are paired. The formation of the bond is illu strated in Fig.(6.5)
+ The  bond in the luorine molecule, F2 is formed by the overlap of half-illed 2pz orbital on each 
+luorine atom,Fig (6.6).
+Animation 6.29: Valence Bond Theory (VBT)
+Source & Credit : chem.umass
+Fig. (6.5) The formation of the hydrogen luoride molecule s.426 CHEMICAL BONDING eLearn.Punjab
+Covalent bonds can also form by side-to-side overlap of p orbitals, as shown in Fig.(6.7). The result 
+is a pi ( p) bond, in which the greatest electron density lies above and below th e internuclear axis. 
+Consider, the bonding between  nitrogen atoms having the electronic conig uration 221s 2s 2p 2p 2pxyz
+. The three unpaired electrons on each atom are located in perpendicu lar p orbitals, which are 
+oriented so that if one end-to-end p orbital overlap occurs (resulting in a sigma bond), the other two 
+p orbital cannot overlap in the same fashion. Rather, they are al igned parallel to the corresponding 
+orbital in the other atom Fig(6.8).
+Fig.(6.6) The formation of the luorine molecule.
+Fig. (6.7) The sideway overlap of two atomic
+p orbitals to give a n bond.Fig. (6.8) The two nitrogen atoms showing
+one sigma bond and two n bonds436 CHEMICAL BONDING eLearn.Punjab
+ Now, let  us look at the molecule of H2S. This is a non-linear molecule, and the bond angle 
+between the two H-S bonds is about 92°. 
+ Each  two 3p orbitals of sulphur containing one electron can overl ap with the 1s orbitals of 
+hydrogen atoms.
+   y S 3s3p 3p 3pxz =   
+ Thus, the VBT requires the idea of overlap to explain the geometry of the hydrogen sulphide 
+molecule, Fig. (6.9).
+6.4.5 Atomic Orbital Hybridization and Shapes of Mo lecules
+ So far we have regarded overlap taking place between unmodiied atomic  orbitals. Formation 
+of some molecules present problems.
+Fig. (6.9) Bonding in H2S showing overlap of orbitals446 CHEMICAL BONDING eLearn.Punjab
+ We  face the problem of explaining equivalent tetra-valency of car bon and the bond angles 
+in H2O and NH3 molecules. In order to explain the formation of bonds and shapes  or geometry of 
+molecules, the idea of hybridization has been introduced.
+ According  to this, atomic orbitals difering slightly in energy  intermix to form new orbitals, 
+which are called hybrid atomic orbitals. They difer from the p arent atomic orbitals in shape and 
+possess speciic geometry.
+The atomic orbital hybridization gives a satisfactory explanation for the valency of the elements. 
+In some cases, the electrons belonging to the ground state are promoted to th e excited state as a 
+result of which there is an increase in the number of unpaired electrons.
+ These excited orbitals undergo hybridization simultaneously, bec ause promotion of electrons 
+and hybridization is a simultaneous process. The energy requi red for the excitation is compensated 
+by the energy released during hybridization and the process of b ond formation with other atoms. 
+Hybridization leads to entirely new shape and orientation of the valen ce orbitals of an atom. It 
+holds signiicant importance in determining the shape and geometry of molecules.
+ Depending upon the number and nature of the orbitals participatin g in hybridization, diferent 
+types of hybridization take place. For example, s and p orbital s of simple atoms are hybridized to 
+give sp3, sp2 and sp hybridized orbitals.
+(i)  sp3 Hybridization
+ In sp3 hybridization, one s and three p atomic orbitals intermix to form four equivalent orbitals 
+called sp3 hybrid atomic orbitals. Let us discuss the structures of CH4 ,NH3 and H2O by understanding 
+the sp3 hybridization of carbon, nitrogen and oxygen-atoms.456 CHEMICAL BONDING eLearn.Punjab
+ Bonding and Structure of Methane, Ammonia and Water
+ The electronic distribution of carbon atom should be kept in mind  to understand intermixing 
+of orbitals.Electronic coniguration of 6C, its electronic excitation and hybrization is giyen as follow s.
+C6=(ground state) 0
+z 1s2s2p 2p 2pxy =   
+C6=(excited state) z 1s2s 2p 2p 2pxy =    
+C6=(hybridized state) 33331s sp sp sp sp=  
+Animation 6.30: Atomic Orbital Hybridization and Sh apes of Molecules
+Source & Credit : web.clark466 CHEMICAL BONDING eLearn.Punjab
+ The e nergies of hybrid orbitals are lower than unhybridized  orbitals. Following diagram Fig. 
+(6.10) shows, 
+how outermost four atomic orbitals of carbon mix up to give four hybr id orbitals of equal energy and shape. 
+hen 90°.
+ The four new hybrid orbitals of equal energy have a tetrahedral g eometry with carbon at 
+the centre. The four equivalent hybrid orbitals are directed towards th e four corners of a regular 
+tetrahedron. Each sp3 hybrid orbital consists of two lobes, one larger and the other smal ler. For the 
+sake of simplicity, the small lobe is usually not shown while  representing sp3 hybrid orbitals. 
+The hybrid orbitals are oriented in space in 
+such a manner that the angle between them 
+is 109.5° as shown in Fig(6.11a,b). Methane 
+molecule is formed by the overlap of sp3 
+hybrid orbitals of carbon with 1s orbitals of 
+four hydrogen atoms separately to form four 
+sigma bonds. The molecule, thus formed, 
+possesses a tetrahedral geometry. The four 
+C-H bonds which result from sp3 -s overlaps 
+are directed towards the corners of a regular 
+tetrahedron. There are six bond angles each 
+109.5°. The tetrahedral structure of CH4 has four faces, four corners and six edges.
+Fig (6.10) sp3 hybridization of carbon atom
+to give four sp3-hybrid orbitals
+Fig(6.11) Four sp3-s overlaps in tetrahedral structure of CH4 molecule.476 CHEMICAL BONDING eLearn.Punjab
+(b)  Ammonia
+ To understand the sp3 hybridization of nitrogen-atom in NH3, we should know electronic 
+coniguration of 7N.
+7N (ground state)z 1s2s2p 2p 2pxy =    
+7N (hybridized state) 33331s sp sp sp sp=   
+ One s and three p orbitals of nitrogen atom hybridize to form four sp3 hybrid atomic orbitals. 
+They are directed towards the four corners of a tetrahedron. One of the h ybrid orbitals is completely 
+illed with electrons and the remaining three orbitals are half ill ed. The nitrogen atom undergoes 
+three sp3-s overlaps with three s-orbitals of hydrogen atoms. The three hydroge n atoms are located 
+at three corners whereas the lone pair of electrons is at the fourth cor ner of the tetrahedron. The 
+result is a pyramidal molecule in which the three hydrogen atoms  form the base and the lone pair 
+of electrons the apex Fig(6.12). 
+ The experimentally determined angle in ammonia is 107.5°. The deviation from the tetrahedral 
+angle (109.5°) is explained on the basis of repulsion between the lone pair and the bond pairs of 
+electrons. The lone pair is closer to the nucleus of nitrogen, then the b ond pair and bond angles are 
+decreased.
+Fig (6.12) Three sp3- s overlaps in NH3 molecule to form a pyramidal structure.486 CHEMICAL BONDING eLearn.Punjab
+(c)  Water, H20
+  To know the structure of water write down the electronic coniguration of  8O:
+8O (ground state) z 1s2s2p 2p 2pxy =    
+8O (hybridized state)  33331s sp sp sp sp=    
+ Here, 2s and three 2p orbitals of oxygen hybridize to form four sp3 hybrid orbitals which will 
+have a tetrahedral arrangement. Two hybrid orbitals are completely i lled by the two available 
+lone pairs of electrons. The remaining two half illed hybrid orb itals undergo sp3-s overlaps with H 
+atoms to form two sigma bonds. The two H atoms occupy two corners of the tetrahedron and the 
+remaining two are occupied by two lone pairs of electrons, Fig(6.1 3).
+ The bond angle in water is 104.5°. The deviation from the tetrahe dral angle (109.5°) is explained 
+on the basis of repulsion between the two lone pairs of electrons, with b ond pairs. The lone pairs 
+are closer to the nucleus of oxygen. They repel bond pairs and the bond angle decreases from 
+109.5° to 104.5°. So, the molecule of water has bent or angular structure.
+Fig (6.13) sp3-s overlaps in H20 to form an angular structure496 CHEMICAL BONDING eLearn.Punjab
+(ii)  sp2- Hybridization
+ In sp2 hybridization, one ‘s’ and two ‘p’ atomic orbitals of an atom i ntermix three orbitals called 
+sp2 hybrid orbitals.
+ Bonding and Structure of Boron Triluoride and Ethene
+(a)  Boron Triluoride (BF3)
+ The three half illed sp2 hybrid orbitals are planar and are oriented at an angle of 12 0°, 
+Fig(6.14). The sp2 hybridization explains the geometry of planar molecules such as  BF3. Electronic 
+coniguration of 5B is,
+5B (ground state)  00
+z 1s2s 2p 2p 2pxx =  
+5B (excited state)  0
+z 1s2s2p 2p 2pxy =   
+5B (hybridized state)  2221s sp sp sp=
+ In sp2 hybridization, one s and two p atomic orbitals of an atom intermi x to form three orbital 
+called sp2 hybrid orbitals. 
+Fig (6.14) Three sp2 hybridized orbitals in one plane and at 120° to each other.506 CHEMICAL BONDING eLearn.Punjab
+One of the p orbitals of luorine is half illed i.e. 2pz. This p-orbital of F is in the form of a lobe. BF3 
+is formed by the overlap of three half illed sp2 hybrid orbitals of boron with lobe shaped p-orbitals 
+of three luorine atoms Fig.(6.15). The structure is triangular p laner.
+(b)  Ethene (CH2=CH2)
+ Electronic coniguration of 6C is
+6C (ground state)  0
+z 1s 2s 2p 2p 2pxy =   
+6C (excited state)  z 1s 2s 2p 2p 2pxy =    
+6C (hybridized state)  2221s sp sp sp 2pz =  
+ In the formation of ethene molecule, each carbon atom undergoes sp2 hybridization to form 
+three hybrid orbitals which are co-planar and are oriented at an  angle of 120°. Each atom is left 
+with one half illed p-orbital perpendicular to the planar sp2 hybrid orbitals.
+Fig. (6.15) sp2-p overlaps in BF3 to
+form triangular planar structure.516 CHEMICAL BONDING eLearn.Punjab
+One of the p-orbitals does not take part in hybridization. Each ca rbon atom undergoes sp2-s overlaps 
+with two hydrogen atoms and sp2-sp2 overlap between themselves  to form sigma bonds. These 
+overlaps lead to the shapes shown in Fig.(6.16a). The partially  illed p-orbitals undergo sidwrays 
+overlap to form a p−bond. 
+ So, a p-bond is formed by the sideways 
+overlap of two half illed co-planar p-orbitals 
+in such a way that the probability of inding 
+the electron is maximum perpendicular to the 
+line joining the two nuclei.  It should be made 
+clear that a p-bond is formed between  two 
+atoms only when they are already bonded 
+with a sigma bond. 
+ The two clouds of the p-bond are 
+perpendicular  to the plane in which ive 
+p-bonds are lying. Just like s-bond, p -bond can 
+be represented by a line as in Fig (6.16 b). The 
+inal shape of C2H4 is shown in Fig. (6.16 c).
+(iii)  sp-Hybridization
+ In sp hybridization, one ‘s’ and one ‘p’ orbitals.intermix to f orm two sp-hybrid orbital called sp 
+hybrid orbitals.
+ Bonding and Structure of Beryllium Dichloride and Eth yne
+(a)  Beryllium Bichloride
+Electronic coniguration of 4Be is
+Fig. (6.16) Formation of one sigma between
+two carbon atoms and one p-bond in C2H4.526 CHEMICAL BONDING eLearn.Punjab
+4Be (ground state) 0 00
+z 1s 2s 2p 2p 2pxy = 
+4Be (excited state) 00
+z 1s 2s 2p 2p 2pxy =  
+4Be (hybridized state) 1s spsp=  
+ The two sp hybrid orbitals lie in linear way, Fig (6.17).  The sp hybridization explains the 
+geometry of linear molecules such as beryllium chloride, BeCl2. It is formed when two sp hybrid 
+orbitals of Be atom overlap with the half illed p-orbitals of chlori ne atoms. The outermost half 
+illed 3pz orbital of Cl has lobe shape.
+ Be atom lies at the center and two Cl atoms on either side so that the Cl -Be-Cl angle is 180°.
+(b)  Ethyne (CH=CH)
+ The electronic coniguration of
+6C (ground state) 0
+z 1s 2s 2p 2p 2pxy =   
+6C (excited state) z 1s 2s 2p 2p 2pxy =    
+6C (hybridized state)  22
+sp sp1s 2p 2pyz =    
+Fig. (6.17) sp-hybridization to form a linear structur e536 CHEMICAL BONDING eLearn.Punjab
+ Ethyne is formed as a result 
+of sp hybridization of carbon atoms 
+and subsequent formation of s and p	
+bonds. Each carbon atom undergoes 
+sp-s overlap with one hydrogen atom 
+and sp-sp overlap with other carbon 
+atom. Each carbon atom is left with two 
+unhybridized p orbitals perpendicular 
+to the plane of sp hybrid orbitals. The 
+two half illed p orbitals (on separate 
+carbon atoms) are parallel to each 
+other in one plane while the other two 
+p orbitals are parallel to each other in 
+another plane. The sideways p overlap 
+between the p-orbitals in two planes 
+results in the formation of two p bonds 
+as shown in Fig.(6.18).
+ Ethyne molecule contains one 
+s and two p bonds between the two 
+carbon atoms and each carbon atom 
+is bonded with, one H atom through s 
+bond. Actually, four electronic clouds of 
+two p-bonds intermix and they surround the sigma bond in the shape of a drum.
+6.4.6. Molecular Orbital Theory
+ The molecular orbital approach considers the whole molecule as a single unit. It assumes that 
+the atomic orbitals of the combining atoms overlap to form new orbitals  called molecular orbitals 
+which are characteristic of the whole molecule. The molecular orb ital surrounds two or more nuclei 
+of the bonded atoms. Two atomic orbitals, after overlapping, form two m olecular orbitals which 
+difer in energy. One of them, having lower energy, is called bond ing molecular orbital while the 
+other having higher energy is called anti-bonding molecular orb ital. 
+Fig. (6.18) Formation of one sigma and two pi-bonds in C2H2 (ethyne)546 CHEMICAL BONDING eLearn.Punjab
+ The  bonding molecular orbital is symmetrical about the axis joining the nuclei of the bonded 
+atoms (molecular axis). It is designated as sigma ( s) bonding molecular orbital while the antibonding 
+molecular orbital, is called s*. The process of formation of molecular orbitals from 1s atomic orbitals 
+of hydrogen is shown in Fig (6.19). 
+ The  illing of electrons into the molecular orbitals takes place ac cording to the Aufbau principle, 
+Pauli’s exclusion principle and Hund’s rule.The two electrons  (one from each hydrogen atom), thus 
+ill the low energy s1s-orbital and have paired spin ( ↿⇂ ), while the high energy s*1s orbital remains 
+empty.
+Fig (6.19). Formation of bonding and anti-bonding molecu lar orbitals for 
+hydrogen molecule (H2)
+Animation 6.31: Molecular Orbital Theory
+Source & Credit : andrew.cmu556 CHEMICAL BONDING eLearn.Punjab
+ So  far, we have considered s and s orbital overlap for the form ation of molecular orbitals 
+of hydrogen molecule. Other types of overlaps occurring between p a nd p atomic orbitals to form 
+molecular orbitals are described below. There are three 2p atomic or bitals directed along the three 
+perpendicular x, y and z coordinates. For the formation of molecul ar orbitals from p- orbitals, two 
+cases arise:
+(a)  Head on Approach
+ Here, the p-orbitals of the two atoms approach along the same axis ( i.e. px axis) as shown in 
+Fig. (6.20). 
+ This combination of the atomic orbitals gives rise to s(2px) bonding and s* (2px) antibonding 
+molecular orbitals. Both are symmetrical about the nuclear axis.
+(b)  Sideways Approach
+ When the axes of two p-orbitals (i.e py or pz orbitals) are parallel to each other, they interact 
+to form molecular orbitals as shown in Fig.(6.21).
+Fig. (6.20) Head on overlap of two p-orbitals566 CHEMICAL BONDING eLearn.Punjab
+ The bonding molecular orbitals p(2py) or p (2pz) have zero electron density on the nuclear axis 
+(called the nodal plane). The electron density is uniformly distr ibuted above and below the nodal 
+plane.
+ On the other hand, anti-bonding molecular orbitals p* (2py) and p* (2pz) have the least electron 
+density in the p inter-nuclear region. Since the 2p y and 2p z atomic orbitals are degenerate (having 
+the same energy), the p - molecular orbitals i.e. p	(2py) and p	(2pz) are also degenerate. So,are also 
+the p*(2py) and p*(2pz) molecular orbitals.
+ Overall six molecular orbitals (three bonding and three anti-bon ding) are formed from two 
+sets of 2p atomic orbitals. The bond formed as a result of linea r overlap is ó bond, while that 
+formed as a result of sideways overlap is called a p (pi) bond. As there are three bonding molecular 
+orbitals, the p-orbitals overlap can lead to the formation of at the m ost three bonds: one sigma and 
+two p -bonds.
+Relative Energies of the Molecular Orbitals
+The relative energies of the molecular orbitals formed from 2s and  2p atomic orbitals in the case of 
+homonuclear di-atomic molecules are shown in Fig. (6.22).
+ The energies of the molecular orbitals are determined by spectroscop ic measurements.
+The molecular orbitals of diatomic molecules such as O2, F2 and their positive and negative ions can 
+be arranged in the following-increasing order of energy (Fig 6.22a).Fig. (6.21) Sideways overlap of two p-orbitals576 CHEMICAL BONDING eLearn.Punjab
+ ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) s s s s sppp ps** * *
+xyz yz x 1s < 1s < 2s < 2s < 2p < 2p = 2p < 2p = 2p < 2p
+ The  diatomic molecules, such as N2 and other -lighter molecules like B2, C2 show slightly 
+diferent energy order. See Fig. (6.22 b):
+ ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ss s s p p s p p s* * ***<< < = < < = <zzx y z x 1s< 1 2s 2s 2p 2p 2p 2p 2p 2ps
+Reason
+ It has been observed that in case of B2, C2 and N2 ,s2px is higher in energy than p2py=p2px. 
+MOs. This reversal is due to mixing of 2s and 2px atomic orbitals. 
+ Actually, the energy diference of 2s and 2p atomic orbitals is small. There is a possibility of 
+mixing of these orbitals (i.e. hybridization of A.O.) as a r esult of which s2s and s*2s MOs do not 
+retain pure s-character. Similarly, s2px and s*2px MOs do not have pure p-character. All the four 
+MOs acquire sp-character. Due to this mixing, their energies ch ange’in such a way that MOs s2s and 
+s*2s become more stable and are lowered in energy MOs as s2px and s*2px become less stable and 
+are raised in energy. Since, pp-orbitals are not involved in mixing, so energy of p2py=p2pz remains 
+unchanged. s	2px is raised to such an extend that it becomes higher in energy than p-bondings.
+Fig (6.22) (a) Molecular orbital energy diagram for O2, F2 and their positive and negative ions 
+(b) Molecular orbital energy diagram.for Li2, Be2, B2 and N2.586 CHEMICAL BONDING eLearn.Punjab
+ Anyhow, O2 and F2  do not do so. The re ason is high energy diference of their 2s and  2p 
+i.e. 1595 and 2078 k Jmol-1, for O2 and F2 , respectively. These values are 554kJmol-1 for boron, 
+846kJmol-1 for carbon, and 1195kJmol-1 for nitrogen. These energy diferences have been calculated 
+by spectroscopic techniques.
+Bond Order
+ The  number of bonds formed between two atoms after the atomic orbitals overlap, is called 
+the bond order and is taken as half of the diference between the number  of bonding electrons and 
+anti-bonding electrons. The number of bonds formed between H-atoms in  hydrogen molecule may 
+be calculated as follows:
+Number of electrons in the bonding orbitals   = 2
+Number of electrons in the anti-bonding orbitals  = 0
+Bond order         = −20
+2  = 1
+ It is a common practice that only MOs formed from valence orbital  are considered in bond 
+order calculations.
+Molecular Orbital Structures of Some Diatomic Molecules
+(i)  Helium, He2
+ The  electronic coniguration of He is 1s2. The 1s orbitals of He-atoms combine to form one 
+bonding s (1s) and one anti-bonding s* (1s) orbitals as shown in Fig (6.23). 
+ Each He-atom contributes two electrons. Two electrons enter bonding molecu lar orbital s	(ls) 
+and the remaining two go to antibonding s* (Is) molecular orbital.
+The bond order for He2 is zero i.e. −20
+2 picture of He2 molecule is not formed.596 CHEMICAL BONDING eLearn.Punjab
+(ii)  Nitrogen, N2
+ The molecular orbital structure of N2 molecule is shown in Fig (6.24). Electronic coniguration 
+of N2 molecule is
+ ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ss s s p p s p p s* * ** *<< < = < <2 22 2 2 2 2
+z xyz x 1s < 1s 2s 2s 2p 2p 2p < 2p = 2p 2py
+ From  the electronic coniguration of N2, it is clear that six electrons enter into three outermost 
+bonding orbitals while no electrons enter into anti-bonding orbitals .
+Thus, the bond order in N2 molecule is −=60 6
+22=3, which corresponds 
+to the triple bond consisting of one sigma and two p bonds. The bond dissociation energy of N2 is 
+very high, i.e. 941kJmol-1.
+Fig Fig. (6.23) Hypothetical orbital
+picture of He2 molecule.606 CHEMICAL BONDING eLearn.Punjab
+(iii)  Oxygen, 02
+ The formation of molecular orbitals in oxygen molecule is shown in  Fig. (6.25). The electronic 
+coniguration of O2 is 
+ ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ss s s s p p p p s* * ***<< < <21 2 22 2 2 1
+x y z y zz x 1s < 1s 2s 2s 2p < 2p = 2p < 2p = 2p 2p
+ The bond order in O2, is −62
+2  =2, which corresponds to a double bond.
+ This is  consistent  with  the  large  bond  energy of 496kJ m ol-1 of oxygen molecule. Fig(6.25) 
+shows that the illing of molecular orbitals leaves two unpaired electr ons in each of the p*(2py) and 
+p*(2pz) orbitals. Thus, the | electronic coniguration of the molecular orb itals accounts  admirably 
+for the paramagnetic properties of oxygen. This is one of the greatest successes of the molecular 
+orbital theory. Liquid O2 is attracted towards the magnet. 
+Fig. (6.24) Molecular orbitals picture of N2 molecule.616 CHEMICAL BONDING eLearn.Punjab
+ Anyhow, when two more electrons are given to O2, it becomes O22-. The paragmanetism 
+vanishes. Similarly, in O22+ the unpaired electrons are removed and paragmagnetic property is no 
+more there. Bond order of O22- are also diferent from O2 and are one and three, respectively. 
+    Similarly, M.O.T justiies that F2 has bond order of one and Ne does not make a bond with Ne.
+Fig. (6.25) Molecular orbitals in 0, molecule.626 CHEMICAL BONDING eLearn.Punjab
+6.5  BOND ENERGY, BOND LENGTH AND DIPOLE MOMEN
+6.5.1 Bond Energy (bond enthalpy)
+ When a bond is formed between two atoms, energy is released. The sa me amount of energy 
+is absorbed when the bond is broken to form neutral atoms. So, the bond energy is the average 
+amount of energy required to break all bonds of a particular typ e in one mole of the substance.  It is 
+determined experimentally, by measuring the heat involved in a chemi cal reaction. It is also called 
+bond enthalpy, as it is a measure of enthalpy change at 298 K. The enthalpy change in splitting a 
+molecule into its component atoms is called, enthalpy of atomization.
+ The bond energy is given in k j mol-1 which is the energy required to break an Avogadro’s 
+number (6.02 x 1023) of bonds. It is also released when an Avogadro’s number of b onds are formed. 
+Table (6.5).
+Animation 6.32: Bond Energy (bond enthalpy)
+Source & Credit : packbackbooks636 CHEMICAL BONDING eLearn.Punjab
+BondBond
+energy
+(kJmol-1)BondBond
+energy
+(kJmol-1)BondBond
+energy
+(kJmol-1)BondBond
+energy
+(kJmol-1)
+C-C 348 H-H 436 O-O 146 Si-H 323
+C=C 614 H-F 567 O=O 495 Si-Si 226
+C ≡ C 839 H-Cl 431 O-H 463 Si-C 301
+C-H 413 H-Br 366 O-F 190 Si-O 368
+C-N 293 H-I 299 O-Cl 203 F-H 155
+C=N 615 N-N 163 O-I 234 Cl-F 253
+C≡ N 891 N=N 418 S-S 266 Cl-Cl 242
+C-O 358 N≡ N 941 S=S 418 Br-F 237
+C=O 799 N-H 391 S=O 523 Br-Cl 218
+C≡O 1072 N-O 201 S-H 339 Br-Br 193
+C-F 485 N-F 272 S-F 327 I-Cl 208
+C-Cl 328 N-Cl 200 S-Cl 253 I-Br 175
+C-Br 276 N-Br 243 S-Br 218 I-I 151
+C-I 240
+C-S 259
+ It may be noted that energies of multiple bonds are greater than those of single bonds. But 
+a double bond is not twice as a strong as a single bond or a tri ple bond is not thrice as strong as 
+a single bond. It means that s- bond is stronger than a p-bond. Similarly, a polar covalent bond is 
+stronger than a non-polar covalent bond.Table (6.5) Average bond enthalpies of some importa nt bonds (kjmol-1).
+Animation 6.33: BOND ENERGY, BOND LENGTH 
+AND DIPOLE MOMENT
+Source & Credit : chem.utah646 CHEMICAL BONDING eLearn.Punjab
+6.5.2 Ionic Character and Bond Energy
+  Bond energy is a measure of the strength of a bond. The strength of a bond depends upon 
+the following factors.
+ (i) Electronegativity diference of bonded atoms  (ii) Sizes of the atom s (iii)Bond length Let 
+us consider, irst the part played by electronegativity diference. Look at the bond energies of H-X 
+type of compounds, where X=F, Cl, Br, I, Table (6.6).This d ata show that electrons are not equally 
+shared between the bonded atoms i.e. HX. As halogen atom is more electr onegative, the bonded 
+pair is more attracted towards X atom and thereby polarity develops.  This gives rise to additional 
+attractive force for binding. 
+ From the diference between experimental bond energies and those calcula ted by assuming 
+equal sharing, it is possible to estimate relative electronegativities. Th e comparison of these values 
+shows that the discrepancy is the greatest for HF and the least for H I, Table (6.9).
+ Let us calculate, the increase in the strength of H-Cl bond,due to the ionic character present 
+in it.The H-H bond energy is 436 k J mol-1
+  
+It  means 436 k J   of heat is required to break the Avogadro’s number of H2 molecules into individual 
+atoms. Thus, bond energy per bond is 72.42 x 10-23kJ. This is obtained by dividing 436 by 6.02 x 1023. 
+As the bonding electron pair is equally shared between the two H atom s, we can assume that each 
+bonded H-atom contributes half of the bond energy i.e., 36.21x10-23kJ.
+Similarly, the bond energy for Cl2 is 240 kJ mol-1. Therefore, each Cl-atom should contribute 19.93 
+x 10-23 kJ to any bond, where sharing of an 
+electron pair is equal.
+Animation 6.34: Ionic Character and Bond Energy
+Source & Credit : av8n→∆-1
+2 H+H H H=-436kJmol656 CHEMICAL BONDING eLearn.Punjab
+Let  us, now consider, the bond in HCl. This bond is polar,  but we consider the electron pair to be 
+equally shared. On adding up the bond energy contributions of H-atom and Cl-atom, we expect the 
+bond energy of H-Cl to be 56.14 x 10-23kJ per molecule which is the sum of 36.21xl0-23kJ and 19.93x10-
+23kJ. For Avogadro’s number of HCl molecules, the calculated bond energy is 337.96 kJmol-1 which 
+is obtained by multiplying 56.14 x 10 -23 with 6.02 x 10-23 The experimentally found bond energy 
+for HCl is 431 kJmol-1.The observed bond energy is signiicantly greater than the calcula ted value 
+and that means a more stable H-Cl bond. This  stability is due to the ionic character present in the 
+molecule.The decreasing polarity from HF to HI shows a trend towar d equal sharing of electrons 
+which is consistent with decreasing electronegativity from F to I.
+ The bonds with higher bond energy values have shorter bond lengths . The bond energies of 
+C to C bonds being in the order C ≡ C >C=C>C-C. Their bond lengths are in the reverse order i.e. C 
+-C > C=C > C ≡ C.
+6.5.3 Bond Length
+ The distance between the nuclei of two atoms forming a covalent bond is called the bond 
+length. The bond lengths are experimentally determined by physica l techniques. The techniques 
+may be electron difraction, X-ray difraction or spectral studies.
+The covalent bond length between two atoms is often but not always indepen dent of the nature of 
+the molecules. For instance, in most of the aliphatic hydrocarbon s, the C-C bond length is very close 
+to 154 pm. The C-C bond length is  also found to be the same in diamond.
+ The covalent radii for diferent elements are almost  additive in natur e. The single bond 
+covalent radius of carbon is 77 pm which is half of the C-C bond length (154 pm). Similarly, the 
+covalent radius of Cl is 99 pm i.e. one half of the Cl-Cl bond length (198 pm). So the bond length of 
+C-Cl bond will be 77 + 99= 176 pm. Some selected bond lengths  are given in Table (6.7).Bond Bond energies (kJmol-1)
+X-XX=F X=Cl X=Br X=I
+155 242 193 151
+H-X
+(calculated)293 336 311 291
+H-X
+(observed)567 431 366 299
+diference 274 95 55 8Table (6.6) Comparison of experimental
+and theoretical bond energies666 CHEMICAL BONDING eLearn.Punjab
+ 
+Compound Hybridization Bond Bond length
+(pm)
+BF3
+(Boron triluoride)sp2B-F 130
+BCl3
+(Boron triluoride)sp2B-Cl 175
+SiH4
+(Monosilane)sp3Si-H 148
+SiF4
+(silicon tetraluoride)sp3Si-F 155
+C2H6
+(Ethene)sp3C-C 154
+C2H4
+(Ethene)sp2C=C 133
+C2H2
+(Ethene)sp C ≡ C 120
+(CH3)2  C=O
+(Acetone)sp2C=O 122Table (6.7) Some selected bond lengths alongwith 
+and hybridization of central atom.
+Animation 6.35: Bond Length
+Source & Credit : ch.ic.ac676 CHEMICAL BONDING eLearn.Punjab
+ With  an increase in electronegativity diference between the bonded atoms,  the bond 
+becomes shortened. For example, Si-F bond length in SiF4 is found to be 154-159 pm, whereas the 
+addition of their covalent radii (Si=117 pm and F=64 pm) gi ve Si-F bond length to be equal to 181 
+pm, Table (6.7). The calculated values are almost always hig her due to electronegativity diferences. 
+The ionic character results in shortening of the bond length due to force of attraction between the 
+polar ends.
+ Moreover, hybridization scheme involved, also explains the shorten ing of bonds due to the 
+predominant participation of s-orbitals. Since, the 2s-orbital of  carbon has smaller mean radius 
+than the 2p-orbitals, it would be expected that greater the s character in the hybrid orbitals used, 
+the shorter will be the bond distance. Thus, the C-C bond length s are 154,133 and 120 pm for 
+ethane, ethene and ethyne, respectively where s orbital contribution incr eases from sp3 to sp. 
+Further, p-bonding also reduces the internucleft bond distance.
+ The  bond length increases, as we move from top to bottom in group IV -A of the periodic table. 
+Thus, Si-Si bond length is more than C-C bond length in gr oup IV-A and P-P bond length is much 
+more than N-N bond length in group V-A. As the atomic radii in crease in a group (N to P or C to Si), 
+the efect of the efective nuclear charge decreases on electrons. As a resul t the bond length will 
+increase. In the periodic table, shortening of bond lengths occurs from left to right in, a period. This 
+can be attributed to the pull by nuclear charge with the same valu e of principal quantum number. 
+Therefore, C-C bond length is greater than N-N bond length.
+6.5.4 Dipole Moment
+ In heteronuclear molecules, e.g. HCl where the bonded atoms are of di ferent elements, 
+the molecule becomes polar due to the electronegativity diference. Partial pos itive and negative 
+charges become separated on the bonded atoms. The se paration of th ese charges on the molecule 
+is called a dipole and the molecule is said to have a dipole moment.
+ The dipole  moment is a vector quantity, which has a magnitude as well as a direction. 
+Fig . (6.26) illustrates the dipole and its vecrtor representation. The  dipole moment (m) is be de -
+ined as the product of the electric charge (q) and the distance between  the positive and negative 
+centres (r):
+  m	= q x r686 CHEMICAL BONDING eLearn.Punjab
+ The dipole moments of simple heteronuclear diatomic molecules like HF, HCl, HBr. HI, CO, 
+NO, etc. are directed from electropositive ends to electronegative ends.
+ The dipole moments are measured in Debye (D) units. Let us consider  a hypothetical molecule 
+(A*—B-), or a unit negative charge separated from a unit positive charge b y distance r = 100 pm (1 
+Å)The dipole moment of such a molecule can be calculated by m ultiplying the distance 100pm to 
+charge of one electron or proton is 1.6 orx10-19C m=(1.6022x10-19C)x(100x10-12m) = 1.6022x10-29 mC
+Fig. (6.26) Dipole moment and its vector representati on
+Animation6.36: Dipole Moment
+Source & Credit : chemwiki.ucdavis696 CHEMICAL BONDING eLearn.Punjab
+ Another unit of dipole moment is Debye. The 
+equivalence of Debye and  mC is 1 D = 3.336x10-30mC. So, 
+the dipole moment of the, above system in Debye units is
+ = −
+−29
+301.6022 x 10 mC
+3.336x 10 mC  = 4.8 D
+ The dipole moments of some substances in Debye units are 
+given in Table (6.8). If the molecule is polyatomic and contains  two 
+or more dipoles, then the net dipole moment is the resultant of the 
+vector addition of the individual bond moments. Examples of CO2 
+and H2O are shown in Fig (6.26).
+6.5.5 Dipole Moments and Molecular Structure
+Dipole moment provides two types of information about the molecular structu re:
+ (i) Percentage ionic character of a bond
+ (ii) Angles between the bonds or the geometry of moleculesCompound Dipole moment
+(D)
+H20.00
+HCl 1.03
+HBr 0.78
+HI 0.38
+H2O 1.85
+H2S 0.95
+NH31.49
+SO21.61
+CO20.00
+CO 0.12
+NO 0.16
+H2O22.20
+CH40.00
+CH3F 1.81
+CH3Cl 1.45
+CH3Br 1.85
+CH3l 1.35
+C2H5OH 1.69Table (6.8) Dipole moments of 
+some substances in Debyes
+Fig (6.26) Vector addition of bond moments in
+(a) linear C02 molecule and (b) angular H20 molecular706 CHEMICAL BONDING eLearn.Punjab
+(1)  Percentage Ionic Character
+ From the experimentally determined dipole moments, the percentage ionic character in a 
+bond can be calculated. For this purpose, we should know the actu al dipole moment mobs of the 
+molecule and actual bond, length. The dipole moment of 100% ionic  compound is represented as 
+mionic.
+    %age of ionic character = m
+mobs
+ionicx100
+Example 1:
+ The observed dipole moment of HF is 1.90 D. Find the percentage ioni c character in H-F bond. 
+The distance between the charges is 0.917 x 10-10 m. 
+(Unit positive charge= 1.6022 x 10-19 C).
+Solution:
+ Let us suppose that HF molecules is 100% ionic. It means that H has full positive charge and 
+F has full negative charge.
+Animation 6.37: Dipole Moments and Molecular Struct ure
+Source & Credit : uni-marburg716 CHEMICAL BONDING eLearn.Punjab
+To calculate its dipole moment multiply the bond length with full charge of electron or proton i.e. 
+1.6022 x 10-19 C. This dipole moment is called
+mionic.
+  So,   mionic   =qxr
+      =(1.6022x10-19C)(0.917x10-10m)
+      =1.469x10-29 mC
+  Scince 1 D   =3.336x10-30  mC
+  So,    = m−
+−=29
+c
+ionic 30
+c1.469x10 m
+3.336x10 m =   4.4D
+ 
+ The actual dipole moment is given as it is observed.
+  mobserved=1.90  D
+ %ionic character= m
+mobserved 
+ionicx 100
+    = 1.90 Dx 100
+4.4D   =43.2% Answer
+ Hence, 43% of HF bond is ionic in nature and 57% covalent. Th e bond is predominantly covalent.
+(ii)  Bond Angles or the Geometry of Molecules
+ We can understand this aspect by taking some important exampl es.
+ The dipole moment of water is 1.85 D which ruled out its linear structure. The calculations 
+show that water has an angular structure with a bond angle 10 4.5° between the two O-H bonds. 
+A linear H2O molecule (H-O-H) would have zero dipole 
+moment.
+ Similarly, the triatomic molecules H2S or SO2 etc. are 
+also bent like H2O.726 CHEMICAL BONDING eLearn.Punjab
+ CO  has a dipole moment while CO2 does not have any. The reason is that CO2 has a linear 
+structure, where the dipoles being equal and opposite, cancel out each  other’s efect. Similarly, CS2 
+has zero dipole moment.
+ Symmetrical triangular planar molecules of BF3, AlCl3 and perfectly tetrahedral molecules like 
+CH4, SiH4, CCl4 also have zero dipole moments. This is all due to the cancellation  of individual bond 
+moments.736 CHEMICAL BONDING eLearn.Punjab
+6.6  THE EFFECT OF BONDING ON THE PROPERTIES OF 
+COMPOUNDS
+ The properties of substances are characterized by the types of bond ing present in them. 
+Here, we shall consider the efects of the type of bond on physical an d chemical properties of 
+compounds.
+(1)  Solubility
+(a )  Solubility of Ionic Compounds
+ Mostly, ionic compounds are soluble in water but insoluble in n on-aqueous solvents. When 
+a crystal of an ionic substance is placed in water, the polar  water molecules detach the cations 
+and anions from the crystal lattice by their electrostatic attraction.  Thus, the ions are freed from 
+the crystal lattice by hydration. This happens when the hyd ration energy is greater than the lattice 
+energy and the ions are freed from their positions in the crystal. M any ionic compounds do not 
+dissolve in water, as the attraction of water molecules cannot overcome the attraction between 
+the ions. For the same reason, non-polar solvents like benzene and hex ane do not dissolve, ionic 
+compounds.
+(b)  Solubility of Covalent Compounds
+In general, covalent compounds dissolve easily in non-polar organ ic solvent (benzene, ether, etc.)
+ 
+ Here, the  attractive forces of solvent molecules are enough for overcoming th e intermolecular 
+forces of attraction. Mostly, covalent compounds are insoluble in water . However, some of them 
+dissolve in water due to hydrogen bonding.746 CHEMICAL BONDING eLearn.Punjab
+ 
+(2)  Isomerism
+(a)  Non-Directional Nature of Ionic Bonds
+The ionic compounds involve electrostatic lines of forces between oppositel y charged ions. 
+Therefore, such bonds are non-rigid and non-directional. Becau se of this, ionic compounds do not 
+exhibit the phenomenon of isomerism.
+(b)  Directional Nature of Covalent Bonds
+ Covalent compounds are rigid and directional. This leads to the possibility of a variety of 
+isomerism. For example, the compounds, C2H6O, shows structural isomerism.
+ 
+      
+       
+       
+        
+H H  
+O  
+H C C  H 
+ H H  
+H  
+O  H 
+ C  C H
+  
+H H  H 
+ Dimethyl ether      Ethanol
+Animation 6.38: THE EFFECT OF BONDING ON THE 
+PROPERTIES OF COMPOUNDS
+Source & Credit : ausetute756 CHEMICAL BONDING eLearn.Punjab
+(3)  Reaction Kinetics:
+(a)  Speed of Reaction of Ionic Compounds
+The ionic compounds exist in the form of ions in an aqueous solu tion. The chemical reaction 
+between ions occur rapidly.
+ For example, addition of silver nitrate solution to sodium chloride s olution produces a white 
+precipitate of silver chloride instantaneously. The reaction is ra pid because on mixing the solutions, 
+no bonds have to be broken, only a new bond is formed. The ionic com pounds have already been 
+broken while forming their aqueous solutions.
+(b)  Speed of Reactions of Covalent Compounds
+ Since, there is no strong electrical force to speed up a chemical r eaction (like in ionic reaction), 
+the covalent bonds are generally much slower to react as they involve bond breaking and making 
+of bonds. The molecules undergo a chemical change as a whole. Covalent bonds react in a variety 
+of ways and their reactivity depends upon the way a reaction proceeds  and the kind of a reaction.766 CHEMICAL BONDING eLearn.Punjab
+KEY POINTS
+1. Atoms  combine together due to their inherent tendency to attain the nearest n oble gas electronic      
+conigurations and the formation of a chemical bond always resul ts in a decrease of energy.
+2. The  size of an atom is expressed in terms of atomic radius, ioni c radius and covalent radius and 
+van der Waals radius.
+3. It is  necessary to understand thermodynamic properties of elements.  The minimum amount 
+of energy required to remove an electron from an atom in gaseous state is  called ionization 
+energy. It depends upon the atomic size, nuclear charge and shiel ding efect of electrons. The 
+electron ainity of an atom is the energy given out when an electron is a dded to a gaseous atom. 
+The tendency of an atom to attract a shared pair of electrons to itself i s called electronegativity. 
+Fluorine, is the most electronegative atom and it has arbitrarily been  given a value of 4.0.
+4. The  ionic bonds are formed by transfer of electron from one atom to an other. Covalent bonds 
+are formed by mutual sharing of electrons between combining atoms. After the formation of 
+a coordinate covalent bond, there is no distinction between a covalent b ond and a coordinate 
+covalent bond.
+5. A  polar covalent bond is formed when atoms having diferent electronega tivity values mutually 
+share their electrons. Due to polarity, bonds become shorter and stronger and dipole moment 
+may develop.
+6. According  to valence bond theory, the atomic orbitals overlap to form bonds but the individual 
+character of the atomic orbitals are retained. The greater the overlap, the stronger will be the 
+bond formed.
+7. The  VSEPR theory gives information about the general shapes and b ond angles of molecules. It 
+is based upon repulsion between bonding and lone pairs of electrons , which tend to remain at 
+maximum distance apart so that interaction between them is minimum . The concept provides 
+an alternate way to explain various geometrical shapes of molecules.
+8. The  geometrical shapes and bond angles are better explained by di ferent hybridization schemes, 
+where diferent atomic orbitals are mixed to form hybrid orbitals.
+9. According  to molecular orbital theory, atomic orbitals overlap to for m molecular orbitals, n atomic 
+orbitals combine to form n molecular orbitals. Half of them are bon ding molecular orbitals and 
+half antibonding molecular orbitals. In this combination, th e individual atomic orbital character 
+is lost in order to form an entirely new orbital that belongs to the whol e molecule. The theory 
+successfully explains bond order and paramagnetic property of  O2.
+10. The  bond energy in deined as the average amount of energy required to break all bonds 
+of a particular type in one mole of the substance. It is a measure of the strength of the bond. 
+Stronger the dipole of a bond, greater will be the bond energy.776 CHEMICAL BONDING eLearn.Punjab
+11.The  distance between the nuclei of two atoms forming a covalent b ond is called bond length. In 
+general, it is the sum of the covaleht radii of the combined atoms.
+12. The dipole moment may be deined as the product of electric charg e (q) and the distance (r) 
+between the two  oppositely charged centres. It is a vector quantity as it has magnitude and 
+direction. It plays a major role, in determining the % age ionic  character of a covalent bond and 
+the shapes of molecules. It has magnitude and direction.
+13. Properties of substances are characterized by the type of bonds  present in them.
+EXERCISE
+Q.1  Select the correct statement
+(i)   An ionic compound A+B- is most likely to be formed when
+(a)  the ionization energy of A is high and electron ainity of B is low.
+(b)  the ionization energy of A is low and electron ainity of B is  high.
+(c)  both the ionization energy of A andelectron ainity of B are hig h.
+(d)  both the ionization energy of A and electron ainity of B are low .
+(ii)   The number of bonds in nitrogen molecule is
+(a)  one ó and one p
+(b)  one ó and two p
+(c)  three sigma only
+(d)  two ó and one p
+(iii)   Which of the following statement is not correct regarding b onding molecular   
+  orbitals?
+(a)  Bonding molecular orbitals possess less energy than atomic orbitals from which 
+they are formed.
+(b)  Bonding molecular orbitals have low electron density between th e two nuclei.
+(c)  Every electron in the bonding molecular orbitals contributes to th e attraction 
+between atoms.
+(d)  Bonding molecular orbitals are formed when the electron waves undergo 
+constructive interference.
+(iv)   Which of the following molecules has zero dipole moment?
+(a) NH3  (b) CHCl3   (c)H2O   (d) BF3
+(v)  Which of the hydrogen halides has the highest percentage of i onic character?
+(a) HCl   (b) HBr   (c)HF    (d)Hl786 CHEMICAL BONDING eLearn.Punjab
+(vi)  Which of the following species has unpaired electrons in antibonding molecular  
+orbitals.
+(a) 022+  (b) N22-   (c) B2    (d) F2
+Q.2  Fill in the blanks
+(i)  The tendency of  atoms to attain maximum ________ of electron s in the valence shell is 
+called completion of octet.
+(ii)  The geometrical shape of SiCl4 and PCl3 can be explained on the basis of__________and________
+hybridizations.
+(iii)  The VSEPR theory stands for__________________ .
+(iv)  For N2 molecule, the energy of ó (2p)x orbital is________________  than p(2py) orbital.
+(v)  The  paramagnetic property of O2 is well explained on the basis of MO theory in terms 
+of the presence of_________________ electrons in two MO orbitals.
+(vi)  The values of dipole moment for CS2 is __________while for SO2 is __________
+(vii) The bond order of N2 is________________ while that of Ne2 is _______________ .
+Q.3  Classify the statements as true or false. Explain with reas ons.
+(i)  The core of an atom is the atom minus its valence shell.
+(ii)  The molecules of nitrogen (N ≡ N) and acetylene (HC ≡ CH) are not isoelectronic.
+(iii)  There are four coordinate covalent bonds in NH4+ ion.
+(iv)  A ó-bond is stronger than a p-bond and the electrons of s-bond are more difused than  
+          p-bond.
+(v)  The bond energy of heteroatomic diatomic molecules increases with the decrease in the 
+electronegativities of the bonded atoms.
+(vi)  With increase in bond order, bond length decreases and bon d strength increases.
+(vii)  The  irst ionization energies of the elements rise steadily with  the increasing atomic 
+number from top to bottom ina group.
+(viii)  A double bond is stronger than a single bond and a tr iple bond is weaker than a double bond.
+(ix)  The  bonds formed between the elements having electronegativity difer ence more than 
+1.7 are said to be covalent in nature.
+(x)  The re pulsive force between the two bonding pairs is less tha n that between the two 
+lone pairs.
+(xi)  The  number of covalent bonds an atom can form is related to the number of unpaired 
+electrons it has.
+(xii)  The  rules which govern the illing of electrons into the atomi c orbitals also govern illing 
+of electrons into the molecular orbitals.796 CHEMICAL BONDING eLearn.Punjab
+Q.4  What  is a chemical bond? Discuss the formation of ionic  and covalent bonds. How does the 
+electronegativity diferences diferentiate between ionic and covalent bond?
+Q.5
+(a)  Deine  ionization energy and electron ainity. How these quantities  change in the 
+periodic table. What factors are responsible for their variation?
+(b)  Explain, what do you understand by the term electronegativity?  Discuss its variations in  
+  the periodic table. How does it afect the bond strengths?
+Q.6  Write the Lewis structures for the following compounds:
+(i)HCN   (ii)CCl4   (iii) CS2   (iv) H3N → AlF3
+(v)NH4OH   (vii)H2SO4   (vii)H3PO4   (viii) K2Cr2O7
+(ix)N2O5   (x) Ag(NH3)2NO3
+Q.7
+(a)  Explain  qualitatively the valence bond theory. How does it dif er from molecular 
+orbital theory?
+(b)  How  the bonding in the following molecules can be explain ed with respect to 
+valence bond theory? Cl2, O2, N2, HF, H2S.
+Q.8 Explain VSEPR theory. Discuss  the structures of CH4, NH3, H2O, BeCl2, BF3,S02, SO3 with reference 
+to this theory.
+Q.9  The molecules NF3 andBF3 all have molecular formulae of the type XF3. But they have diferent 
+structural formulas. Keeping in view VSEPR theory sketch the shap e of eachtnolecule and explain 
+the origin of difering in shapes. 
+Q.10 The species NH2-, NH3, NH4+ have bond angles of 105°, 107.5° and109.50 respectively. Justify 
+these values by drawing their structures.
+Q.11
+(a)  Explain  atomic orbital hybridization with reference to sp3, sp2 and sp modes 
+of hybridizations for PH3, C2H4 and C2H2. Discuss geometries of CCl4, PCl3, and H2S by 
+hybridization of central atoms.
+(b)  The  linear geometry of BeCl2 suggests that central Be atom is sp-hybridized. What 
+type of hybridization a central atom undergoes, when the atoms bonded  to it are located 
+at the corners of (a) an equilateral triangle (b) a regular tetrahedron and (c) triangular 
+bipyramide?806 CHEMICAL BONDING eLearn.Punjab
+Q.12
+(a)  Give  the basis .of the molecular orbital theory and discuss  the molecular orbital 
+conigurations of the following molecules?
+(i)He2   (ii)N2   (iii) O2   (iv)O22+  (v)O22-
+(b)  How  does molecular orbital theory explain the paramagnetic c haracter of O2,O22+ 
+and O22- species ?
+Q.13 
+a)  Sketch the molecular orbital pictures of
+(i) p(2px) and p*(2px)  (ii) O2, O22+ ,O22- (iii) He2  and Ne2
+b)  Sketch the hybrid orbitals of the species, PCI3, SiCl4 and NH4+
+Q.14  
+(a)  Deine bond energy. Explain the various parameters which determ ine its strength.
+(b)  How do you compare the bond strengths of
+(i) Polar and non-polar molecules  (ii) s-and p-bonds?
+(c)  Calculate the bond energy of H-Br. The bond energy of H-H i s 436  kJmol-1 and that of 
+Br- Br is 193 kJmol-1.
+(Ans : 314.5kJmol-1)
+Q.15 
+(a)  Deine  dipole moment. Give its various units. Find relationship between Debye and mc. 
+How does it help to ind out the shapes of molecules?
+(b)  The bond length of H-Br is 1.4 x10-10m. Its observed dipole moment is 0.79D. Find the 
+percentage ionic character of the bond. Unit positive charge = 1.60 22 x 10-19C and 1D = 3.336 
+x 10-30 mc.  
+(Ans: 11.7%)
+Q.16  PF3 is a polar molecule with dipole moment 1.02 D and thus the P-F bond is polar. Si, is in the 
+proximity of P in the periodic table. It is expected that Si-F bon d would also be polar, but SiF4 has 
+no dipole moment. Explain it?816 CHEMICAL BONDING eLearn.Punjab
+Q.17  Which of the following molecules will be polar or non-pola r, sketch the structures and justify 
+your answer.
+(i) CCl4  (ii) SO3 (iii)NF3 (iv)SO2
+Q.18  Explain the following with reasons:
+(i)  Bond distance is the compromise distance between two atoms.
+(ii)  The  distinction between a coordinate covalent bond and a covalen t bond vanishes after 
+bond formation in NH4+, H3O+ and CH3NH3+ .
+(iii)  The  bond angles of H2O and NH3 are not 109.5° like that of CH4. Although, O- and 
+N-atoms are sp3 hybridized.
+(vi)  p-bonds are more difused than s-bonds.
+(v)  The abnormality of bond length and bond strength in HI i s less prominent than that of 
+HCl.
+(vi)  The dipole moments of CO2, and CS2 are zero, but. that of SO21.61D.
+(vii)  The  melting points, boiling points, heat of vaporizations a nd heat of sublimations of 
+electrovalent compounds are higher as compared with those of covalent com pounds.

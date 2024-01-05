@@ -1,0 +1,1113 @@
+
+Chapter 4
+WORK AND ENERGY
+Learning Objectives
+At the end of this chapter the students will be able to:
+1.
+Understand the concept of work in terms of the product of a force and
+displacement in the direction of the force.
+2
+Understand and derive the formula Work = wd = mgh for work done in a
+gravitational field near Earth's surface.
+3.
+Understand that work can be calculated from area under the force-displacement graph.
+4.
+Relate power to work done.
+5.
+Define power as the product of force and velocity.
+6:
+Quote examples of power from everyday life.
+7.
+Explain the two types of mechanical energy.
+8.
+Understand the work-energy principle.
+9.
+Derive an expression for absolute potential energy.
+10. Define escape velocity.
+11. Understand that in a resistive medium loss of potential energy of a body is equal
+to gain in kinetic energy of the body plus work done by the body against friction.
+12 Give examples of conservation of energies from everyday life.
+13. Describe some non-conventional sources of energy.
+W
+ork is often thought in terms of physical or mental effort. In Physics, however, the term
+work involves two things (i) force (ii) displacement. We shall begin with a simple situation in
+which work is done by a constant force.
+4.1 WORK DONE BY A CONSTANT FORCE
+Lei us consider an object which is being pulled by a constant force F al an angle 0 to the
+direction of motion. The force displaces the object from position A to B through a
+displacement d (Fig. 4.1).
+77
+---
+
+We define work W done by the force F as the scalar
+product of F and d.
+F
+A
+B
+W = F.d = Fdcos 0
+(4.1)
+d
+= (F cos0) d
+Fig. 4.1
+The quantity (F cose) is the component of the force in the
+direction of the displacement d.
+F
+Thus, the work done on a body by a constant force is
+defined as the product of the magnitudes of the
+displacement and the component of the force in the
+direction of the displacement,
+V
+Can you tell how much work is being done?
+(i)
+On the pall when a person holding the pail by the
+force F is moving forward (Fig. 4.2 a).
+(ii)
+On the wall (Fig. 4.2 b)?
+Fig. 4.2(a)
+When a constant force acts through a distance d, the event
+can be plótted on a simple graph (Fig. 4.3). The distance is
+F
+normally plotted along x-axis and the force along y-axis. In
+this case as the force does not vary, the graph will be a
+horizontal straight line. If the constant force F (newton) and
+the displacement d (metre) are in the same direction then the
+work done is Fd (joule), Clearly shaded area in Fig. 4.3 is
+also Fd. Hence the area under a force- displacement curve
+can be taken to represent the work done by the force. In case
+the force F is not in the direction of displacement, the graph is
+Fig. 4.2(b)
+plotted between F cos e and d.
+From the definition of work, we find that:
+(i)
+Work is a scalar quantity.
+(ii)
+If 0 < 90° work is done and it is said to be positive
+P
+Q
+work.
+(iii)
+e = 90° il no work is done.
+F
+(iv)
+If e > 90° if the work done is said to be negative.
+(v)
+SI unit of work is Nm known as joule (J).
+o
+distance
+R
+d
+4.2 WORK DONE BY A VARIABLE FORCE
+Fig. 4.3
+In many cases the force does not remain constant during
+the process of doing work. For example, as a rocket moves
+78
+---
+
+away from the Earth, work is done against the force of
+gravity, which varies as the inverse square of the distance
+from the Earth's centre. Similarly, the force exerted by a
+spring increases with the amount of stretch. How can we
+calculate the work done in such a situation?
+Fig. 4.4 shows the path of a particle in the x-y plane as it
+moves from point a to point b. The path has been divided into
+n short intervals of displacements Adj. Ad2.
+Ad,
+and
+F2
+D
+F,
+F.2 1 Fn are the forces acting during these intervals.
+D2
+Nd,
+di
+During each small interval, the force is supposed to be
+id.
+approximately constant. So the work done for the first
+interval can then be written as
+Fig. 4,4
+A particle acted upon by a
+AW1 = F1. Ad, = F costa
+variable force, moves along
+and in the second interval
+the path shown from point a
+to point b
+AW2= F2 Adj=
+and so on. The total work done in moving the object can
+be calculated by adding all these terms.
+AWn
+= Ficost, Ad,+ F2 cos02 Ad2+
++
+Fn cose
+dn
+(4.2)
+We can examine this graphically by plotting E cost
+verses d. as shown in Fig. 4.5. The displacement d has
+been subdivided into n equal intervals. The value of
+F COSU at the beginning of each interval is indicated in
+LC
+the figure.
+Now the /th shaded rectangle has an area Fi COSH Ad
+o
+E
+which is the work done during the ith interval. Thus, the
+a
+All
+Vif
+All
+Mit b
+work done given by Eq. 4.2 equals the sum of the areas of
+d
+>
+all the rectangles. If we subdivide the distance into a large
+Fig. 4.5
+number of intervals so that each Ad becomes very small,
+the work done given by Eq. 4.2 becomes more accurate. If
+we let each Ad to approach zero then we obtain an exact
+result for the work done, such as
+79
+---
+
+With = Limit E F cos a Ad,
+n
+(4.3)
+X
+In this limit Ad approaches zero, the total area of the rectangles
+(Fig. 4.5) approaches the area between the F cose curve and
+d-axis from a to b as shown shaded in Fig. 4.6.
+Thus, the work done by a variable force in moving a particle
+a
+b
+between two points is equal to the area under the Fcos 0
+Displacement of
+verses d curve between the two points a and b as shown in
+Fig. 4,0
+Fig. 4.6.
+Example 4.1: A force Facting on an object varies with
+distance x as shown in Fig. 4.7. Calculate the work done
+by the force as the object moves from x = 0 to x = 6 m.
+Solution: The work done by the force is equal to the
+5
+total area under the curve from x = 0 to x = 6 m. This area
+4
+3
+is equal to the area of the rectangular section from x If 0 to
+2
+x = 4 m, plus the area of triangular section from x III 4 m to
+1.
+x=6 m. Hence
+0
+1
+2
+3
+4
+5
+6
+X (m)
+Work done represented by the area of rectangle = 4mx5N
+Fig. 4.7
+= 20 Nm = 20 J
+Work done represented by the area of
+=5Nm=5J
+Therefore, the total work done = 20 + 5 J = 25 J
+4.3 WORK DONE BY GRAVITATIONAL
+FIELD
+C
+path2
+B
+The space around the Earth in which its gravitational force
+acts on a body is called the gravitational field. When an
+path3
+object is moved in the gravitational field, the work is done by
+mg
+the gravitational force. If displacement is in the direction of
+path
+D
+gravitational force, the work is positive. If the displacement
+is against the gravitational force, the work is negative.
+Fig. 4.8
+Let us consider an object of mass m being displaced with
+constant velocity from point A to B along various paths in
+the presence of a gravitational force (Fig. 4.8). In this case
+the gravitational force is equal to the weight mg of the
+object.
+80
+---
+
+The work done by the gravitational force along the path
+ADB can be split into two parts. The work done along AD is
+zero, because the weight mg is perpendicular to this path,
+the work done along DB is (-mgh) because the direction of
+mg is opposite to that of the displacement i.e. e = 180°.
+Hence, the work done in displacing a body from A to B
+through path 1 is
+WADB=0+(-mgh)=-mgh
+If we consider the path ACB, the work done along AC is
+also (-mgh). Since the work done along CB is zero,
+therefore,
+WAce=-mgh+0=-mgh -
+Let us now consider path 3. i.e. a curved one. Imagine the
+y
+curved path, to be broken down into a series of horizontal
+dys.
+B
+and vertical steps as shown in Fig. 4.9. There is no work
+x
+done along the horizontal steps, because mg is
+perpendicular to the displacement for these steps. Work is
+h
+done by the force of gravity only along the vertical
+displacements.
+Aye
+Ay
+A
+WAB + + Ayn)
+Fig. 4.9
+as
++Ayn)
+A smooth path may be replaced
+by a series of infinitesimal x and y
+Hence,
+WAB=-mgh
+displacements. Work is done only
+during the y displacements.
+The net amount of work done along AB path is still (-mgh).
+We conclude from the above discussion that
+Work done in the Earth's gravitational
+field is independent of the path followed.
+Can you prove that the work done along a closed path
+such as ACBA or ADBA (Fig. 4.8), in a gravitational field is
+zero?
+The field in which the work done be independent
+of the path followed or work done in a closed
+path be zero, is called a conservative field.
+81
+---
+
+The frictional force is a non-conservative force, because if
+an object is moved over a rough surface between two
+points along different paths, the work done against the
+frictional force certainly depends on the path followed.
+4.4 POWER
+In the definition of work, it is not clear, whether the same
+amount of work is done in one second or in one hour. The
+rate, at which work is done, is often of interest in practical
+applications.
+Power is the measure of the rate at which work is being
+done.
+If work AW is done in a time interval A t. then the average
+power Pav during the interval At is defined as
+For Your Information
+Pm ==ww At
+(4.4)
+Conservative Forces
+Gravitational force
+If work is expressed as a' function of time, the
+Elastic spring force
+instantaneous power P at any instant is defined as
+Electric force
+AW
+Non Conservative forces
+P=Limit
+(4.5)
+Frictional force
+0
+At
+Air resistance
+Tension in a string
+Where AW is the work done in short interval of time At
+Normal force
+Propulsion force of a rocket
+following the instant t.
+Propolsion force of IN motor
+Power and Velocity
+It is, sometimes, convenient to express power in terms of a
+constant force F acting on an object moving at constant
+velocity v. For example, when the propeller of a motor boat
+causes the water to exert a constant force F on the boat, it
+moves with a constant velocity v. The power delivered by
+the motor at any instant is, then, given by
+P=Limit At AW
+0
+we know
+W=F.Ad
+F.Ad.
+so
+P= Limit
+M
+0
+At
+82
+---
+
+Since
+Limit Ad
+Al-0
+AI=V
+Hence,
+P=Fv
+(4.6)
+The SI unit of power is watt, defined as
+one joule of work done in one second.
+For Your Information
+Sometimes, for example, in the electrical measurements, the
+Approximate Powers
+unit of work is expressed as watt second. However, a
+Device
+Power (W)
+commercial unit of electrical energy is kilowatt-hour.
+Jumbo Jet Aircraft
+1.3x10°
+Car at 90 km h
+1.1x10
+One kilowatt hour is the work done in one hour by an
+Electric healer
+2x10
+agency whose power is one kilowatt.
+Colour Tv
+120
+Flash light (two cello) 1.5
+Therefore,
+1 kWh = 1000 W x 3600 S.
+Pocket calculator
+7,5x10"
+or
+1 kWh =
+Example 4.2: A 70 kg man runs up a long flight of
+stairs in 4.0s. The vertical height of the stairs is 4.5 m.
+Calculate his power output in watts.
+Solution: Work done = mgh
+Power mah
+=
+P =
+70kgx9.8ms x4,5 m
+4s
+P=7.7x10 kgm's J = 7.7 x 102 W
+4.5 ENERGY
+fln You Know 7
+It takes about 9x10 J to make a
+Energy of a body is its capacity to do work. There are two
+car and the car then uses about
+basic forms of energy.
+1x10 J of energy from petrol in its
+life time
+(i) Kinetic energy
+(II) Potential energy
+The kinetic energy is possessed by a body due to- its
+motion and is given by the formula
+K.E.=1mv
+(4.7)
+83
+---
+
+where m is the mass of the body moving with velocity v.
+The potential energy is possessed by a body because of
+its position in a force field e.g. gravitational field or because
+of its constrained state. The potential energy due to
+gravitational field near the surface of the Earth at a height
+h is given by the formula
+For Your Information
+P.E. = mgh
+(4.8)
+Approximate Energy Values
+This is called gravitational potential energy. The
+Source
+Energy (J)
+gravitational P.E. is always determined relative to some
+Burning 1 ton coal
+30x10
+arbitrary position which is assigned the value of zero P.E.
+Burning 1 litre petrol
+5x10'
+K.E. of a car at
+In the present case, this reference level is the surface of
+90 km h
+1x10
+the Earth as position of zero P.E. In some cases a point at
+Running Person at
+infinity from the Earth can also be chosen as zero reference
+10 km h
+3x10
+level,
+Fission of one atom
+of uranium
+1.8x10
+The energy stored in a compressed spring is the potential
+KE of a molecule of air
+6x10"
+energy possessed by the spring due to its compressed or
+stretched state. This form of energy is called the elastic
+potential energy.
+Work-Energy Principle
+Whenever work is done on a body, it increases its energy.
+For example a body of mass m is moving with velocity Vj. A
+force F acting through a distance d increases the velocity
+to Vs. then from equation of motion
+ad=vi-v7
+or
+d=1(vi-vi)
+(4.9)
+From second law of motion
+Tidebits
+F=ma
+(4,10)
+All the food you eat in one day has
+about the same energy as 1/3 litre
+Multiplying equations 4.9 and 4.10, we have
+of petrol,
+Fd=1-(m(v)
+or
+Fd=1mvi-1mm
+(4.11)
+84
+---
+
+where the left hand side of the above equation gives the
+work done on the body and right hand side gives the
+increase or change in kinetic energy of the body. Thus
+Work done on the body equals the
+change in its kinetic energy.
+This is known as work-energy principle. If a body is raised
+N
+up from the Earth's surface, the work done changes the
+gravitational potential energy. Similarly, if a spring is
+compressed, the work done on it equals the increase in its
+elastic potential energy.
+4
+3
+Absolute Potential Energy
+2
+The absolute gravitational potential energy of an object at
+1
+a certain position is the work done by the gravitational
+force in displacing the object from that position to infinity
+where the force of gravity becomes zero. The relation for
+the calculation of the work done by the gravitational force
+or potential energy = mgh, is true only near the surface of
+the Earth where the gravitational force is nearly constant.
+But if the body is displaced through a large distance in
+space from, let, point 1 to N (Fig. 4.10) in the gravitational
+field, then the gravitational force will not remain constant,
+since it varies inversely to the square of the distance.
+earth
+In order to overcome this difficulty, we divide the distance
+between points 1 and N into small steps each of length Ar
+so that the value of the force remains constant for each
+Flg. 4,10
+small step. Hence, the total work done can be calculated
+by adding the work done during all these steps. If fi and (2
+are the distances of points 1 and 2 respectively, from the
+centre o of the Earth (Fig. 4.10.), the work done during
+the first step i.e., displacing a body from point 1 to point 2
+can be calculated as below.
+The distance between the centre of this step and the
+centre of the Earth will be
+2
+if
+then
+n=n+Ar
+85
+---
+
+or
+Wi-22 =
+Similarly the work done during the second step in which
+the body is displaced from point 2 to 3 is
+W2->2 = - GMm
+and the work done in the last step is
+Hence, the total work done in displacing a body from point
+to N is calculated by adding up the work done during all
+these steps.
+N
+=-GMm
++
+'N
+Tid-bits
+On simplification, we get
+More coal has been used since
+1945 than was used in the whole of
+Winter==
+history before that
+If the point N is+situated at an infinite distance from the
+Earth, so
+N= 00
+then then
+Hence,
+Therefore, the general expression for the gravitational
+potential energy of a body situated at distance r from the
+centre of Earth is
+U = -GMm
+This is also known as the absolute value of gravitational
+potential energy of a body at a distance r from the centre
+of the Earth.
+87
+---
+
+Note that when r increases, U becomes less negative i.e., U
+increases. It means when we raise a body above the surface
+of the Earth its P.E. increases. The choibe of zero point is
+arbitrary and only the difference of P.E. From one point to
+another is significant, wether we consider the surfaoe of
+the Earth or the point at infinity as zero P.E. reference, the
+change in P.E. as we move a body above the surface of the
+Earth, will always be positive.
+Now the absolute potential energy on the surface of the
+Earth is found by putting r = R (Radius of the Earth)
+GMm
+Absolute potential energy = R
+(4.15)
+For Your information
+The negative sign shows that the Earth's gravitational field
+Some Escape speeds (kms')
+for mass m is attractive. The above expression gives the
+Heavenly body Escape speed
+work or the energy required to take the body out of the
+Moon
+2.4
+Earth's gravitational field, where its potential energy with
+Mereury
+4.3
+respect to Earth is zero.
+Mars
+5.0
+Venus
+10,4
+Escape Velocity
+Earth
+11.2
+Uranus
+22.4
+It is our daily life experience that an object projected upward
+Neptune
+25.4
+comes back to the ground after rising to a certain height.
+Saturn
+37,0
+This is due to the force of gravity acting downward, With
+Jupiter
+61
+increased initial velocity, the object rises to the greater
+height before coming back. If we go on increasing the initial
+velocity of the object, a stage comes when it will not return
+to the ground. It will escape out of the influence of gravity.
+The initial velocity of an object with which it goes out of the
+Earth's gravitational field, is known as escape velocity.
+The escape. velocity corresponds to the initial kinetic
+energy gained by the body, which carries it to an infinite
+distance from the surface of Earth.
+We know that the work done in lifting a body from Earth's
+surface to an infinite distance is equal to the increase in
+its potential energy
+88
+---
+
+Incerase in = Mm
+where M and R are the mass and radius of the Earth
+respectively. The body will escape out of the gravitational
+field if the initial K.E. of the body is equal to the increase
+in P.E. of the body in lifting it up to infinity, Then
+R
+V
+2GM
+or
+Yesi =
+(4.16)
+R
+As
+g=GM GM
+P.E. = mgh
+Hence,
+(4.17)
+its
+KE = D
+A
+The value of Vese comes out to be approximately 11 kms.
+x
+4.6 INTERCONVERSION OF POTENTIAL
+ENERGY AND KINETIC ENERGY
+P.E = mg (h-x)
+B
+Consider a body of mass m at rest, at a height h above the
+K.E = mgx
+surface of the Earth as shown in Fig. 4.11. At position
+A. the body has P.E. = mgh and K.E. = 0, We release the
+(h-x)
+body and as it falls, we can examine how kinetic and
+P.E = 0
+potential energies associated with it interchange.
+K.E in mgh
+C
+Let us calculate P.E. and K.E. at position B when the
+Dig: 4.11
+body has fallen through a distance x, ignoring air friction.
+P.E. = mg (h - x)
+and
+Velocity Vg. at B, can be calculated from the relation,
+v/=v'+2gS
+V==Va
+,
+v=0
+S=x
+=0022xx2gx
+89
+---
+
+K.E.=1m (2gx) =mgx
+Total energy at B = P.E. + K.E.
+mg (h - x) + mgx = 1 mgh
+(4.18)
+At position C. just before the body strikes the Earth, P.E. = 0
+and = where Vc can be found out by the
+following expression.
+v&=v?+2gh=2gh as vi=0
+i.e.
+Thus at point C, kinetic energy is equal to the original value
+of the potential energy of the body. Actually when a body
+falls, its velocity increases i.e., the body is being accelerated
+V,
+Y
+under the action of gravity. The increase in velocity results
+in the increase in its kinetic energy. On the other hand, as
+the body falls, its height decreases and hence, its potential
+energy also decreases, Thus we see (Fig. 4.12) that,
+n.
+m
+Loss in P.E. = Gain in K.E.
+Vg
+n,
+(4.19)
+Where V1 and V2 are velocities of the body at heights h
+and h2 respectively. This result is true only when frictional
+Fig. 4.12
+force is not considered.
+If we assume that a frictional force f is present during the
+downward motion, then a part of P.E. is used in doing work
+against friction equal to fh. The remaining P.E. = mgh -ff
+is converted into K.E.
+Hence,
+mgh-fh=1-mv?
+or
+mgh=-mv>+fh
+(4.20)
+Thus,
+Loss in P.E. = Gain in K.E. + Work done against friction.
+90
+---
+
+4.7 CONSERVATION OF ENERGY
+The kinetic and potential energies are both different forms
+of the same basic quantity, i.e. mechanical energy. Total
+mechanical energy of a body is the sum of the kinetic
+energy and potential energy. In our previous discussion of
+For Your Information
+a falling body, potential energy may change into kinetic
+Source of
+Original source
+energy and vice versa, but the total energy remains
+energy
+Solar
+Sun
+constant. Mathematically,
+Bio mass
+Sun
+Total Energy = P.E. + K.E. = Constant
+Fossil fuels
+Sun
+This is a special case of the law of conservation of energy
+Wind
+Sun
+which states that:
+Waves
+Sun
+Hydro electric
+Sun
+Tides
+Moon
+Energy cannot be destroyed. It can be
+Geothermal
+Earth
+transformed from one kind into another, but
+the total amount of energy remains constant.
+This is one of the basic laws of physics. We daily observe
+many energy transformations from one form to another.
+Some forms, such as electrical and chemical energy, are
+more easily transferred than others, such as heat. Ultimately
+all energy transfers result in heating of the environment and
+energy is wasted. For example, the P.E. of the falling object
+changes to K.E., but on striking the ground, the K.E. changes
+into heat and sound. If it seems in an energy transfer that
+some energy has disappeared, the lost energy is often
+Energy Sources
+converted into heat. This appears to be the fate of all
+Renewable
+Nonrenewable
+available energies and is one reason why new sources of
+Hydrogloctio
+Coal
+useful energy have to be developed.
+Wind
+Natural gas
+Example 4.3: A brick of mass 2.0 kg is dropped from a
+Tides
+Oil
+Goothermal
+Uranium
+rest position 5.0 m above the ground What is its velocity at a
+Biomass
+Oil shale
+height of 3.0m above the ground?
+Sunlight
+Tar sands
+Solution: Using Eq. 4.19
+Elhanci/Methanol"
+Individual fields may run off
+Renewable when made from
+bio mass
+As
+V==0
+and-
+Hence
+2g(h, - h2)
+or
+V = 2x9.8ms 2 x 2.0m = 6.3 m s ¹
+91
+---
+
+4,8 NON CONVENTIONAL ENERGY
+SOURCES
+Land
+Dam
+Turbine
+These are the energy sources which are not very common
+these days. However, it is expected that these sources
+18
+Occar
+will contribute substantially to the energy demand of the
+future. Some of these are introduced briefly here.
+Valve closed
+High Tide:
+Water level equalized.
+Energy from Tides
+One very novel example of obtaining energy from
+gravitational field is the energy obtained from tides.
+Gravitational force of the moon gives rise to tides in the
+Valve opened
+sea. The tides raise the water in the sea roughly twice a
+Low tide
+day. If the water at the high tide is trapped in a basin by
+Water is beginning to flow out of
+constructing a dam, then it is possible to use this as a
+basic to ocean, driving turbines.
+source of energy. The dam is filled at high tide and water is
+released in a controlled way at low tide to drive the
+turbines. At the next high tide the dam is filled again and
+the in rushing water also drives turbines and generates
+electricity as shown systematically in the Fig. 4.13.
+Valve closed
+Water level equalized.
+Energy from Waves
+The tidal movement and the winds blowing across the
+surface of the ocean produce strong water waves. Their
+energy can be utilized to generate electricity. A method of
+harnessing wave energy is to use large floats which move up
+Valve opened
+High tide:
+and down with the waves. One such device invented by
+Water is allowed to flow back
+Professor Salter is known Salter's duck (Fig. 4.14). It consists
+into the basin, driving turbines.
+of two parts (i) Duck float. (ii) Balance float.
+Fig. 4.13
+Tidal power plant. Turbines are
+located inside the dam.
+Do You Know?
+Fig. 4.14
+The pull of the Moon does not only
+pull the sea up and down. This tidal
+effect can also distort the
+The wave energy makes duck float move relative to the
+continents pulling land up and
+balance float. The relative motion of the duck float is then
+down by as much as 25cm.
+used to run electricity generators.
+92
+---
+
+Solar Energy
+The Earth receives huge amount of energy directly from
+hot water
+the Sun each day. Solar energy at normal incidence
+outside the Earth's atmosphere is about 1.4 kWm which
+is referred as solar constant. While passing through the
+D
+storage
+tank
+atmosphere, the total energy is reduced due to reflection,
+scattering and absorption by dust particles, water vapours
+cold
+and other gases. On a clear day at noon, the intensity of
+C
+insulation
+A
+water
+solar energy reaching the Earth's surface is about 1kWm2
+This energy can be used directly to heat water with the help
+glasu covered
+box
+of large solar reflectors and thermal absorbers. It can also
+dull black
+be converted to electricity. In one method the flat plate
+B
+surfaco
+collectors are used for heating water. A typical collector is
+shown in Fig. 4.15 (a) It has a blackened surface which
+Fig. 4.15(a)
+absorbs energy directly from solar radiation. Cold water
+passes over the surface and is heated upto about 70°C.
+Much higher temperature can be achieved by
+concentrating solar radiation on to a small surface area by
+using huge reflectors (mirrors) or lenses to produced
+steam for running a turbine.
+The other method is the direct conversion of sunlight into
+electricity through the use of semi conductor devices called
+solar cells also known as photo voltaio cells. Solar cells are
+thin wafers made from silicon. Electrons in the silicon gain
+energy from sunlight to create a voltage. The voltage
+produced by a single voltale cell is very low. In order to get
+sufficient high voltage for practical use, a large number of
+such cells are connected in series forming a solar cell panel.
+For cloudy days or nights, electric energy can be stored
+during the Sun light in Nickel cadmium batteries by
+connecting them to solar panels. These batteries can then
+provide power to electrical appliances at nights or on
+cloudy days.
+Solar cells, although, are expensive but last a long time and
+have low running cost. Solar cells are used to power
+satellites having large solar panels which are kept facing the
+Sun (Fig. 4.15 b). Other examples of the use of solar cells
+Fig. 4.15(b)
+are remote ground based weather stations and rain forest
+communication systems. Solar calculators and watches are
+also in use now-a-days.
+93
+---
+
+Energy From Biomass
+For your information
+Biomass is a potential source of renewable energy. This
+The rapid growth of human
+includes all the organic materials such as crop residue,
+population has put a strain on our
+natural vegetation, trees, animal dung and sewage, Biomass
+natural resources. A sustainable
+society minimizes waste and
+energy or bio conversion refers to the use of this material as
+maximizes the benefit from each
+fuel or its conversion into fuels.
+resource Minimizing the use of
+energy is an other method of
+There are many methods used for the conversion of
+conservation. We can save energy by,
+biomass into fuels. But the most common are
+(i) turning off lights and electrical
+appliances when not in use.
+1. Direct combustion
+2. Fermentation
+(ii) using fluorescent buibs instead
+of incandescent buibs
+(iii) using sunlight in offices,
+Direct combustion method is usually applied to get energy
+commercial centers and
+from waste products commonly known as solid waste. It
+houses during daylight hours
+will be discussed in the next section.
+(iv) Taking short hot shawers.
+Biofuel such as ethanol (alcohol) is a replacement of
+gasoline. It is obtained by fermentation of biomass using
+gas-
+enzymes and by decomposition through bacterial action in
+the absence of air (oxygen).
+methane ges
+The rotting of biomass in a closed tank called a digester
+produces Biogas which can be piped out to use for cooking
+digester
+and heating (Fig. 4.16).
+manuca and
+rotting plants
+The waste material of the process is a good organic
+fertilizer. Thus, production of biogas provides us energy
+Fig. 4.16
+source and also solves the problem of organic waste
+disposal.
+Energy from Waste Products
+Waste products like wood waste, crop residue, and
+Do you know 7
+particularly municipal solid waste can be used to get
+Pollution can be reduced if
+energy by direct combustion. It is probably the most
+(1) People use mass transportation
+commonly used conversion process in which waste
+(ii) Use geothermal, solar,
+hydroelectrical and wind energy
+material is burnt in a confined container. Heat produced in
+as alternative forms of energy.
+this way is directly utilized in the boller to produce steam
+that can run turbine generator.
+Geothermal Energy
+This is the heat energy extracted from inside the Earth in
+the form of hot water or steam. Heat within the Earth is
+generated by the following processes.
+94
+---
+
+1. Radioactive Decay
+The energy, heating the rocks, is constantly being released
+by the decay of radioactive elements.
+2. Residual Heat of the Earth
+At some places hot igneous rocks, usually within 10 km of
+the Earth's surface, are in a molten and partly molten state.
+They conduct heat energy from the Earth's interior which is
+Cold
+still very hot. The temperature of these rocks is about
+Hot
+200°C or more.
+3. Compression of Material
+lot Reek
+The compression of material deep inside the Earth also
+causes generation of heat energy-
+In some place water beneath the ground is in contact with
+hot rocks and is raised to high temperature and pressure. It
+comes to the surface as hot springs, geysers, or steam
+vents. The steam can be directed to turn turbines of
+Magana
+electric generators.
+Fig. 4.17
+At places water is not present and hot rocks are not very
+deep, the water is pumped down through them to get
+steam (Fig. 4.17). The steam then can be used to drive
+turbines or for direct heating.
+An interesting phenomenon of geothermal energy is a
+geyser. It is a hot spring that discharges steam and hot water,
+intermittently releasing an explosive column into the air (Fig.
+4.18). Most geysers erupt at irregular intervals. They usually
+occur in volcanic regions, Extraction of geothermal heat
+energy often occurs closer to geyser sights. This extraction
+seriously disturbs geyser system by reducing heat flow and
+aquifer pressure. Aquifer is a layer of rock holding water that
+allows water to percolate through it with pressure.
+Fig. 4,18
+SUMMARY
+The work done on a body by a constant force is defined as the product of the
+magnitude of the displacement and the component of the force in the direction of
+the displacement.
+W=F.d = Fo cos e
+95
+---
+
+Work done by a variable force is computed by dividing the path into very small
+displacement intervals and then taking the sum of works done for all such intervals.
+Ad
+Graphically, the work done by a variable force in moving a particle between two
+points is equal to the area under the F cost verses a curve between these two
+points.
+When an object is moved in the gravitational field of the Earth, the work is done by
+the gravitational force. The work done in the Earth's gravitational field is independent
+of the path followed, and the work done along a closed path is zero. Such a force
+field is called a conservative field.
+Power is defined as the rate of doing work and is expressed as
+P=AW
+or
+P==F.v
+Energy of a body is its capacity to do work. The kinetic energy is the energy possessed
+by a body due to its motion.
+The potential energy is possessed by a body because of its position in a force field.
+The absolute P.E of a body on the surface of Earth is
+U3 ==GMm =
+The initial velocity of a body with which it should be projected upward so that it does not
+come back, is called escape velocity,
+Vonce = 2GM R = w 2gR
+Some of the non conventional energy sources are
+1. Energy from the tides
+2 Energy from waves
+3. Solar energy
+Energy from biomass
+5. Energy from waste products
+6 Geothermal energy
+96
+---
+
+QUESTIONS
+4.1 A person holds a bag of groceries while standing still, talking to a friend. A car is
+stationary with its engine running. From the stand point of work, how are these two
+situations similar?
+4.2 Calculate the work done in kilo joules in lifting a mass of 10 kg (at a steady
+velocity) through a vertical height of 10 m.
+4,3 A force F acts through a distance L. The force is then increased to 3F, and then acts
+through a further distance of 2 L. Draw the work diagram to scale.
+4.4
+In which case is more work done? When a 50 kg bag of books is lifted through 50 cm,
+or when a 50 kg crate is pushed through 2m across the floor with a force of 50 N?
+4.5 An object has 1 J of potential energy. Explain what does it mean?
+4,6
+A ball of mass m is held at a height h. above a table. The table top is at a height h2
+above the floor. One student says that the ball has potential energy mght but
+another says that it is mg (h, + h2). Who is correct?
+4.7 When a rocket re-enters the atmosphere, its nose cone becomes very hot. Where
+does this heat energy come from?
+4.8 What sort of energy is in the following:
+a)
+Compressed spring
+b)
+Water in a high dam
+c)
+A moving car
+4.9 A girl drops a cup from a certain height, which breaks into pieces, What energy
+changes are involved?
+4.10
+A boy uses a catapult to throw a stone which accidentally smashes a green house
+window. List the possible energy changes.
+NUMERICAL PROBLEMS
+4.1 A man pushes a lawn mower with a 40 N force directed at an angle of 20°
+downward from the horizontal. Find the work done by the man as he cuts a strip of
+grass 20 m long.
+(Ans: 7.5 x 102 J)
+42 A rain drop (m = 3.35x105 kg) falls vertically at a constant speed under the influence
+of the forces of gravity and friction. In falling through 100 m, how much work is done by
+(a) gravity and (b) friction.
+[Ans: (a) 0.0328 (b) - 0.0328 J]
+97
+---
+
+4.3 Ten bricks, each 6.0 cm thick and mass 1.5 kg. lie flat on a table. How much work is
+required to stack them one on the top of another?
+(Ans: 40 J)
+4.4
+A car of mass 800 kg travelling at 54 kmh^ is brought to rest in 60 metres. Find the
+average retarding force on the car, What has happened to original kinetic energy?
+(Ans: 1500 N)
+4.5 A 1000 kg automobile at the top of an incline 10 metre high and 100 m long is
+released and rolls down the hill. What is its speed at the bottom of the incline if the
+average retarding force due to friction is 480 N?
+(Ans: 10 ms )
+4.6 100 m² of water is pumped from a reservoir into a tank, 10 m higher than the
+reservoir, in 20 minutes. If density of water is 1000 kg m3. find
+(a) the increase in P.E.
+(b) the power delivered by the pump.
+[Ans: (a) 9.8 x 106 J (b) 8.2 kW]
+4.7 A force (thrust) of 400 N is required to overcome road friction and air resistance in
+propelling an automobile at 80 kmh1. What power (kW) must the engine develop?
+(Ans: 8.9 kW)
+4.8 How large a force is required to accelerate an electron (m = 9.1x10 kg) from
+rest to a speed of 2.0x10ms through a distance of 5.0 cm?
+(Ans: 3.6x1015 N)
+4.9
+A diver weighing 750 N dives from a board 10 m above the surface of a pool of water.
+Use the conservation of mechanical energy to find his speed at a point 5.0 m above
+the water surface, neglecting air friction.
+(Ans: 9.9 ms ¹
+4:10, A child starts from rest at the top of'a slide of height 4.0 m.(a) What is his speed at.
+the bottom if the slide is frictionless? (b) if he reaches the bottom, with a speed of
+6 ms-1, what percentage of his total energy at the top of the slide is lost as a result
+of friction?
+[Ans: (a) 8.8 ms (b) 54%]
+98
+---

@@ -1,0 +1,943 @@
+
+Chapter 7
+OSCILLATIONS
+Learning Objectives
+At the end of this chapter the students we be able to:
+investigate the motion of en osciliator using experimental, analytical and graphical
+methods.
+Understand and describe that when an object moves in a circle the motion of its
+projection on the diameter of the circle is simple harmonic.
+Show that the motion of mass attached to a spring is simple harmonic.
+Understand that the motion of simple pendulum is simple harmonio and to
+calculata its time period,
+Understand and use the terms amplitude, time period, frequency, angular
+frequency and phase difference
+Know and use of solutions in the form of X = Kg COS of or you sin of
+Describe the interchange between kinetic and potential energies during SHM
+Describe practical examples of free and forced osciliations
+Describe practical examples of damped osciliations with particular reference to
+the effects of the degree of damping and the importance of critical damping in
+cases such as car suspension system.
+M
+any a times, we come across a type of motion in which 8 body moves to and fro about
+a mean position. It is called oscillatory or vibratory motion. The oscillatory motion is called
+periodic when it repeats itself after equal intervals of time.
+Some typical vibrating bodies are shown in Fig. 7.1. It is our common observation that
+a) a mass, suspended from a spring. when pulled down and then released. starts
+oscillating (Fig. 7.1 a),
+b) the bob of a simple pendulum when displaced from its rest position and released,
+vibrates (Fig. 7.1 b).
+---
+
+c) a steel ruler clamped at one end to a bench oscillates
+when the free end is displaced sideways (Fig. 7.1 c),
+d) a steel ball rolling in a curved dish, oscillates about its
+rest position (Fig. 7.1 d).
+Thus to get oscillations, a body is pulled away from its rest
+or equilibrium position and then released. The body oscilliates
+si
+due to a restoring force. Under the action of this restoring
+force, the body accelerates and it overshoots the rest
+position due to inertia. The restoring force then pulls it
+back. The restoring force is always directed towards
+the rest position and so the acceleration is also directed
+towards the rest or mean position.
+It is observed that the vibrating bodies produce waves
+Y
+For example, a violin string produces sound waves in air.
+There are many phenomena in nature whose explanation
+requires the understanding of the concepts of vibrations
+(if
+(c)
+and waves. Although many large structures, such as
+(Vibrating objectil
+skyscrapers and bridges, appear to be rigid, they actually
+vibrate. The architects and the engineers who design and
+Puà 71
+build them, take this fact into account.
+7.1 SIMPLE HARMONIC MOTION
+Let US consider a mass m attached to one end of an elastic
+spring which can move freely on a frictionless horizontal
+surface as shown in Fig. 7.2 (a). When the mass is
+displaced towards right through a distance x (Fig. 7.2 b),
+the force F at that instant is given by Hooke's law F il kx
+where k is a constant known as spring constant. Due to
+m
+elasticity, spring opposes the applied force which produces
+[N]
+the displacement This opposing force is called restoring
+F.
+force F. which is equal and opposite to the applied force
+in
+within elastic limit of the spring. Hence
+(D)
+F,
+(7.1)
+41>
+The negative sign indicates that F, is directed opposite to
+x. Le., towards the equilibrium position. Thus we see that
+(c)
+in a system obeying Hooke's law. the restoring force F, is
+A
+o
+A
+directly proportional to the displacement x of the system
+from its equilibrium position and is always directed towards
+it. When the mass is released, it begins to oscillate about
+the equilibrium position (Fig. 7.2 c). The oscillatory motion
+taking place under the action of such a restoring force is
+142
+---
+
+known as simple harmonic motion (SHM). The acceleration
+a produced in the mass m due to restoring force can be
+calculated using second law of motion
+F IL ma
+Then,
+kx = ma
+or
+(7.2)
+m
+or
+x -K
+The acceleration at any instant of a body
+executing SHM is proportional to displacement
+and is always directed towards its mean position.
+We will now discuss various terms which are very often
+used in describing SHM
+(1)
+Instantaneous Displacement and Amplitude
+of Vibration
+Movement of Paper
+It can be seen in Fig. 7.2 that when a body is vibrating. its
+displacement from the mean position changes with time.
+The value of its distance from the mean position at any
+A
+time is known as its instantaneous displacement. It is zero
+at the instant when the body is at the mean position and is
+maximum at the extreme positions. The maximum value of
+displacement is known as amplitude,
+The arrangement shown in Fig. 7.3 can be used to record
+the variations in displacement with time for D mass-spring
+system. The strip of paper is moving at a constant speed
+from right to left, thus providing a time scale on the strip.
+A pen attached with the vibrating mass records its
+displacement against time as shown in Fig. 7.3. It can
+be seen that the curve showing the variation of
+displacement with time is a sine curve. It is usually
+known as wave-form of SHM The points B and D
+correspond to the extreme positions of the vibrating mass
+and points A_C and E show its mean position. Thus the line
+ACE represents the level of mean position of the mass on
+the strip. The ampitude of vibration la thus a measure of
+the line Bb or Dd in Fig. 7.3.
+143
+---
+
+(II)
+Vibration
+A vibration means one complete round trip of the body in
+motion. In Fig. 7.3, it is the motion of mass from its mean
+position to the upper extreme position, from upper extreme
+position to lower extreme position and back to its mean
+position. In Fig. 7.3, the curve ABCDE correspond to the
+different positions of the pen during one complete
+vibration. Alternatively the vibration can also be defined as
+motion of the body from its one extreme position back to
+the same extreme position. This will correspond to the
+portion of curve from points B lo F or from points D to H.
+(iii) Time Period
+It Is the time T required to complete one vibration.
+(iv)
+Frequency
+Frequency f is the number of vibrations executed by a body
+in one second and is expressed as vibrations per second
+or cycles per second or hertz (Hz).
+The definitions of T and / show that the two quantities are
+related by the equation
+1
+(7.3)
+(v)
+Angular Frequency
+If T is the time period of a body executing SHM, its angular
+frequency will be
+==2==2nf
+(7.4)
+Angular frequency a is basically a characteristic of circular
+motion. Here it has been introduced in SHM because it
+provides an easy method by which the value of
+instantaneous displacement and Instantaneoua velocity of
+a body executing SHM can be computed.
+7.2 SHM AND UNIFORM CIRCULAR MOTION
+Let a mass m. attached with the end of a vertically
+suspended spring, vibrate simple harmonically with period
+T. frequency f and amplitude Xo The motion of the mass is
+displayed by the pointer P on the line BC with A as mean
+position and B, C as extreme positions (Fig. 7.4a).
+Assuming A BB the position of the pointer at
+I = 0. it will move so that it is at B.A.C and back to A at
+144
+---
+
+instants 7/4, 772. 3774 and T respectively. This will
+complete one cycle of vibration with ampiltude of vibration
+being No = AB = AC.
+The concept of circular motion is introduced by considering a
+point P moving on a circle of radius X with a uniform angular
+frequency a = 2e/T. where T is the time period of the
+vibration of the pointer, It may be noted that the radius of the
+circle in equal to the amplitude of the pointer's motion.
+Consider the motion of the point N. the projection of P on the
+diameter DE drawn parallel to the line of vibration of the
+pointer in Fig. 7.4 (b) Note that the level of points D and E
+II
+5
+il
+a
+a
+o
+is
+c
+E
+(a)
+(b)
+(c)
+is the same as the points B and C. As P describes
+uniform circular motion with a constant angular speed 04 N
+osciliates to and fro on the diameter DE with time period T.
+Assuming O, to be the position of P at / = 0 the position of
+the point N at the instants 0, 774, 772, 3774 and T will be at
+the points O.D.O.E and o respectively. A comparison of the
+motion of N with that of the pointer P. shows that it is a
+replica of the pointer's motion. Thus the expressions of
+displacement, velocity and acceleration for the motion of N
+also hold good for the pointer P. executing SHM.
+(i)
+Displacement
+Referring to Fig. 7,4 (b), if we count the time f = D from the
+instant when P is passing through O, the angle which the
+radius OP sweeps out in time I is 20.0P = e = m The
+displacement x of N at the instant / will be
+x ON = OP sin ZO.OP
+145
+---
+
+or
+x=x sine
+or
+of
+(7.5)
+This will be also the displacement of the pointer P. at the
+instant f.
+The value of x as a functions of 0 is shown in Fig. 7.4 (c).
+This is the wave-form of SHM. In Fig. 7.3, the same wave-
+form was traced experimentally but here, we have traced it
+theoretically by linking SHM with circular motion through
+the concept of angular frequency The angle 0 gives the
+states of the system in its vibrational cycle. For example, at
+the start of the cycle 0 = D. Half way through the cycle, is
+180° ( II radians). When e = 270° (or 3r/2 radians). the
+cycle is three-fourth completed. We call a as the phase of
+the vibration. Thus when quarter of the cycle is completed,
+phase of vibration is 90° (or (1) radian). Thus phase is also
+D
+v.
+related with the circular motion aspect of SHM.
+V
+80-0
+P
+N.
+(11)
+Instantaneous Velocity
+The velocity of point P, at the instant f. will be directed along
+X
+the tangent to the circle at P and its magnitude will be
+a=of
+o,
+o
+(7.6)
+As the motion of N on the diameter DE is due to motion of P
+on the circle, the velocity of N is actually the component of
+the velocity Ve in a direction paraliel to the diameter DE. As
+shown in Fig. 7.5 (a), this component is
+E
+no rano
+WF sin
+Thus the magnitude of the velocity of N or its speed is
+(7.7)
+The direction of the velocity of N depends upon the value
+of the phase angle B. When e is between 0° to 90° the
+direction is from o to D. for 0 between 90° to 270°, its
+direction is from D to E. When A is between 270° to 360°, the
+direction of motion is from E to D.
+From Fig. 7.5, 8 ZNPO NP/OP ⑇⑉7⑉8
+cos = cos = =
+x,
+Substituting the value of cos 0 in Eq. 7.7
+il
+⑇ K 8 =
+(7.8)
+146
+---
+
+As the motion of N on the diameter DE is just the replica of
+the motion of the pointer executing SHM (Fig. 7.4). so
+velocity of the point P or the velocity of any body
+executing SHM is given by equations 7.7 and 7.8 in terms
+of the angular frequency (0 Eq. 7.8 shows that at the
+mean position. where x = 0, the velocity is maximum and
+at the extreme positions where = X the velocity is zero,
+(iii) Acceleration in Terms of
+11
+When the point P is moving on the circle, it has an
+acceleration a, = always directed towards the centre o
+of the circle.
+At instant Lits direction will be along PO The accoleration of
+the point Nwill be component of the acceleration, ag along the
+diameter DE on which N moves due to motion of P. As
+shown in Fig. 7.5 (b). the value of this component is
+D
+T
+P
+Thus the acceleration a of N is a=xo2 sine
+N
+U
+a
+K
+and it is directed from N to o, Le., directed towards the
+J
+a
+mean position o (Fig. 7.5 b). In this figure sin e = ON/OP =
+asut
+X/X. Therefore,
+D,
+o
+.
+Comparison of Fig. 7.5 (b) and 7.4 (b) shows that the
+direction of acceleration a and displacement x are
+E
+opposite. Considering the direction of x as reference. the
+acceleration a will be represented by
+Flu 7.5(b)
+a = x
+(7.9)
+Eq. 7.9 shows that the acceleration is proportional to the
+displacement and is directed towards the mean position
+which is the characteristic of SHM. Thus the point N is
+executing SHM with the same amplitude, period and
+instantaneous displacement as the pointer P. This
+confirms our assertion that the motion of N is just a replica
+of the pointer's motion,
+7.3 PHASE
+Equations 7.5 and 7.7 indicate that displacement and
+velocity of the point executing SHM are determined by the
+angle e = mL Note that this angle is obtained when SHM is
+related with circular motion. If is the angle which the rotating
+147
+---
+
+radius OP makes with the reference direction 00, at any
+instant I (Fig. 7.4 b),
+The angle e=wi which specifies the
+displacement as well as the direction of motion
+of the point executing SHM is known as phase,
+a/2
+The phase determines the state of motion of the vibrating
+point. If a body starts its motion from mean position, its
+#10
+phase at this point would be D. Similarly at the extreme
+positions. its phase would be a/2
+3n/2
+in Fig. 7.4 (b), we have assumed that to start with at 1=0,
+D
+the position of the rotating radius OP is along OO, so that
+N
+P
+I
+the point N is at its mean position and the displacement at
+(=0, is zero. Thus it represents a special case. In general at
+P
+r=0, the rotating radius OP can make any angle e with the
+reference 00, as shown in Fig. 7.6 (a). In time if, the radius
+o.
+will rotato by ent I So now the radius OP would make an
+o
+angle (ood + P) with OO, at the instant f and the
+displacement ON =x at instant 1 would be given by
+E
+ON=x=OPsinot+)
+(7.10)
+Now the phase angle is of + i.e.,
+when t = 0. 0=c. So @ is the initial phase. If we take initial
+phase as n/2 or 90°, the displacement as given by Eq 710
+is
+sin(ef(+90")
+= Ag CDS of
+(7.11)
+148
+---
+
+Thus Eq. 7.11 also gives the displacement of SHM, but in this
+case the point N is starting its motion from the extreme
+P...
+-
+position instead of the mean position BS shown in Fig. 7.6 (b).
+Process
+N
+7.4 A HORIZONTAL MASS SPRING SYSTEM
+1
+mé
+RE
+Practically, for a simple harmonic system, consider again the
+o,
+vibrating mass attached to a spring as shown in Fig. 7.2(a.b
+o
+and c) whose acceleration at any Instant is given by Eq. 7.2
+which is
+m
+As A and m are constant, we see that the acceleration is
+E
+proportional to displacement X, and its direction is towards
+the mean position. Thus the mass E executes SHM
+between A and A with Xo as amplitude. Comparing
+the above equation with Eq. 7.9, the vibrational angular
+frequency is
+(7.12)
+in
+The time period of the mass is
+(7.13)
+The instantaneous displacement x of the mass as given by
+Eq. 7.5 is
+x x x sin.al
+(7.14)
+The instantaneous velocity V of the mass (17 as given by
+Eq. 7.8 is
+⑆⑇ =
+(7.15)
+m
+4
+Eq 7.15 shows that the velocity of the mass gets maximum
+equal to Voi when x = 0. Thus
+(7.16)
+149
+---
+
+then
+15
+(7.17)
+The formata derived for displacement and velocity are also
+valid for vertically suspended mass-spring system provided
+air friction is not considered
+Example 7.1: A block weighing 4.0 Hg extends a spring
+by 0,16 m from its unstretched position. The block is
+removed and a 0,50 kg body in hung from the same spring
+If the spring is now stretched and then released, what is its
+period of vibration?
+Solution:
+Applied stretching force F=kx or *=
+- 39.2 kgma 39.2
+x-0.16m.
+4kgx9.8ms = 245 kg s
+Now time period
+T=2s
+m N
+T=2n
+0.0kg
+or
+=
+0,25
+5
+245
+lige
+C
+E
+i
+7.5 SIMPLE PENDULUM
+I
+A simple pendulum consists of a small heavy mass m
+I
+suspended by a light string of length 1 fixed at its upper
+,
+II
+end, as shown in Fig. 7.7. When such a pendulum is
+a
+mg cas #
+displaced from its mean position through a small angle 0 to
+(5)
+is
+the position B and released, it starts oscillating to and fro
+mg sin a
+over the same path The weight mg of the mass can be
+resolved into two components; mg sin II along the tangont
+mg
+fo 77
+at B and mg cos e along CB to balance the tonsion of the
+string The restoring force at H will be
+F=-mgains
+150
+---
+
+When 0 is small,
+So
+E=may-mg
+(7.10)
+Or
+Are
+AB
+But
+0
+If
+When e is small Arc AB - OB - x hence ⑉⑉
+Thus,
+if or
+7,19)
+At R particular place 'g is constant and for a given pendulum
+Y is also a constant.
+Therefore,
+===
+(a constant)
+and the motion of the simple pendulum is simple harmonic
+Comparing Eq. 7.19 with Eq. 7.9
+el =
+2n
+As time period
+I
+Hence
+T=2a
+(7,20)
+g
+This shows that the time period depends only on
+the length of the pendulum and the acceleration
+due to gravity. II is independent of mass.
+Example 7.2: What should be the length of is simple
+pendulum whose period is 1.0 second at is place where
+g ==9.8mm2 What is the frequency of such a pendulum?
+Solution:
+Time period,
+T=24 G
+T=1.0=
+g-98ms2
+151
+---
+
+Squaring both sides
+77⑉4⑈1
+1-9TO
+or
+= 0.25 m
+Frequency
+f=1-1=1H2
+7.6 ENERGY CONSERVATION IN SHM
+Let us consider the case of a vibrating mass-spring
+system. When the mass m is pulled slowly, the spring is
+stretched by an amount Kg against the elastic restoring
+force F. It is assumed that stretching is done slowly so that
+acceleration is zero. According to Hooke's law
+E=kxa
+When
+displacement =0
+force=0
+When
+displacement = Xo
+force = kx,
+Average force
+Work done in displacing the mass m through Xa is
+W=Fd=
+This work appears as elastic potential energy of the spring.
+Hence
+(7.21)
+The Eq. 7.21 gives the maximum P.E. at the extreme
+position. Thus
+At any instant f, if the displacement is X, then P.E. at that
+instant is given by
+152
+---
+
+RE - 1 *
+(7.22)
+The velocity at that instant is given by Eq. 7.15 which is
+to
+Hence the K.E. at that instant is
+K.E. of the mass a 1⑉0-00
+(7.23)
+Thus, kinetic energy is maximum when x = o, Le. when the
+mass is at equilibrium or mean position (Fig. 7.8)
+KE
+(7,24)
+For any displacement X, the energy is partly P.E. and partly
+energy
+total energy
+K.E. Hence,
+I.E.
+E.E.
+o
+15
+Fro is
+Total
+(7,25)
+Thus the total energy of the vibrating mass and spring is
+constant. When the K.E. of the mass is maximum, the P.E.
+of the spring is zero. Conversely, when the P.E. of the
+spring is maximum, the K.E. of the mass is zero. The
+interchange occurs continuously from one form to the other
+as the spring is compressed and released alternately
+The variation of P.E. and K.E. with displacement is
+essential for maintaining oscillations. This periodic
+exchange of energy is a basic property of all deciliatory
+systems. In the case of simple pendulum gravitational P.E.
+of the mass, when displaced, is converted into K.E. at the
+153
+---
+
+equilibrium position. The K.E. is converted into P.E. as the
+mass rises to the tap of the awing. Because of the frictional
+forces, energy is dissipated and consequently, the systems
+do not oscillate indefinitely.
+Example 7.3: A spring, whose spnng constant is
+80.0Nm vertically supports a mass of 1.0 kg in the rest
+position. Find the distance by which the mass must be
+pulled down, so that DO being released it may pass the
+mean position with a velocity of 1.0 ma?
+Solution:
+= 80.0 Nm
+m=1.0kg
+Comparison of SHMs
+Since
+of
+or
+LD
+=
+LATE
+m
+from
+.I
+BO
+Nm
+80 kgms
+m
+=
+8.94
+1kg
+1kg
+Let the amplitude of vibration be R
+Proper
+V
+Then
+Y -x.
+or
+Xo
+=
+Years
+as
+v=1.0mg
+and
+EL
+=
+8,94 5
+Press
+www.www.ll
+Distance through which m is pulled Ims 0.11 m
+A
+7.7 FREE AND FORCED OSCILLATIONS
+A body said to be executing free vibrations when If cocilates
+without the interference of an external force. The frequency
+of these free vibrations is known as its natural frequency.
+For example, a simple pendulum when slightly displaced
+from its mean position vibrates freely with its natural frequency
+that depends only upon the length of the pendulum.
+On the other hand, if a freely oscillating system is subjected
+to an external periodic force, then forced vibrations will
+take place Such as when the mass of a vibrating
+pendulum is struck repeatedly, then forced vibrations are
+produced
+154
+---
+
+A physical system under going forced vibrations
+is known as driven harmonic oscillator.
+The vibrations of a vehicle body caused by the running of
+engine is an example of forced vibrations Another example
+of forced vibration is loud music produced by sounding
+wooden boards of string instruments.
+7.8 RESONANCE
+1
+Associated with the motion of a driven harmonic oscillator,
+there is a very striking phenomenon, known as resonance.
+If arises if the external driving force is periodic with a
+period comparable to the natural period of the caciliator.
+A
+45
+D
+In a resonance situation, the driving force may be feeble,
+the amplitude of the motion may become extra ordinarily
+large. In the case of oscillating simple pendulum, if we
+blow to push the pendulum whenever it comes in front of
+our mouth, it is found that the amplitudo steadily increases.
+to
+b
+To demonstrate this resonance effect, an apparatus is
+shown in Fig. 7.9. A horizontal rod AB is supported by two
+c
+strings S, and S2. Three pairs of pendulums sa, bb and oc
+Fig. T.S
+are suspended to this rod. The length of each pair is the
+same but is different for different pairs. If one of these
+pendulums, say c, is displaced in a direction perpendicular
+to the plano of the paper, then its resultant oscillatory
+motion causes in rod AB a very slight disturbing motion,
+whose period is the same as that of d' Due to this slight
+motion of the rod, each of the remaining pendulums (ae)
+bb and cc') under go a slight periodic motion This causes
+the pendulum a. whose length and, hence, period is
+exactly the same as that of c, to oscillate back and forth
+Do You Know?
+with steadily increasing amplitude. However, the
+Alberactures are very hr
+amplitudes of the other pendulums remain small through
+at use or This
+canceuse problem.
+out the subsequent motions of o and c' because their
+important to lest all the
+natural periods are not the same as that of the disturbing
+components is and
+INTERNATION is an
+force due to rod AB.
+sing or a
+The energy of the oscillation comes from the driving source.
+miss TOTAL The
+At resonance the transfer of energy is maximum.
+Thus resource occurs when the frequency of the applied
+periodic forced la equal to one of the natural frequencles of
+vibration of the forced or driven harmonic oscillator.
+155
+---
+
+Advantages And Disadvantages of Resonance
+We come across many examples of resonance in every
+day life. A swing is a good example of mechanical
+interesting information
+resonance It is like a pendulum with a single natural frequency
+depending on its length. If a series of regular pushes are
+given to the swing, its motion can be built up enormously If
+pushes are given irregularly, the swing will hardly vibrate
+The column of soldiers, while marching on a bridge of long span
+are advised to break their steps Their rhythmic march might
+set up oscillations of dangerously large amplitude in the
+bridge structure.
+Tuning a radio is the best example of electrical resonance
+The calapse of Tactima Natural
+When we turn the knob of a radia, to tune a station. we are
+bradge (USA) is suspliched le be due
+to violent resonance
+changing the natural frequency of the electric circuit of the
+receiver, to make it equal to the transmission frequency of
+the radio station When the two frequencies match, energy
+regress
+absorption is maximum and this is the only station we hear
+available
+-
+ronaling the
+Another good example of resonance is the heating and
+regist were -
+cooking of food very efficiently and evenly by microwave
+oven (Fig.7.10). The waves produced in this type of oven
+have a wavelength of 12 cm at a frequency of 2450 MHz
+Al this frequency the waves are absorbed due to
+resonance by water and fat molecules in the food. heating
+them and so cooking the food.
+7.9 DAMPED OSCILLATIONS
+metal Isia to hamp
+window has fine
+- value
+This is a common observation that the amplitude of an
+restrail mask -
+osciliating simple pendulum decreases gradually with time
+to T 10
+1III it becomes zero, Such padillations, in which the
+amplitudo decreases steadily with time, are called damped
+oscillations.
+We know from our everyday experience that the motion of
+Yo
+any macroscopic system is accompanied by frictional
+effects. While describing the motion of a simple pendulum,
+o
+this affect was completely ignored As the bob of the
+pendulum moves to and tro, then in addition to the weight
+-No
+of the bob and the tension in the string, bob experiences
+viscous drag due to its motion through the air, Thus simple
+(1) Unclumped
+harmonic motion is an idealization (Fig. 7,11 a). In practice,
+ng
+the amplitude of this motion gradually becomes smaller
+Graph between and Lime
+156
+---
+
+and smaller because of friction and air resistance because
+Y
+the energy of the oscillator is used up in doing work against
+the resistive forces Fig.7.11(b) shows bow the amplitude
+Yo
+of a damped simple harmanic wave changes with time as
+compared with an ideal un- damped harmonic wave Thus
+0
+we see that
+9
+(b) Damped
+Damping is the process whereby energy
+Fill
+is dissipated from the oscillating system
+Groun between ancitude und time
+An application of damped osciliations is the shock
+Chooe-section
+absorber of a car which provides a damping force to
+United Height
+all all Serve
+prevent excessive oscillations (Fig. 7.12).
+Value
+or
+-
+7.10 SHARPNESS OF RESONANCE
+Member
+-
+We have seen that at resonance, the ampitude of the
+Prim
+becomes very large. If the amplitude decreases rapidly at a
+frequency sightly different from the resonant frequency, the
+resonance will be sharp. The amplitude BE well as its sharpness,
+both depend upon the damping. Smaler the damping, greater
+will be the emplitude and more sharp will be the resonance
+Fly. 1.12
+A heavily damped system has a fairly
+flut resonance curve as is shown in an
+amplitude frequency graph in Fig. 7.13.
+Small
+dimping
+Mederabe
+The effect of damping can be observed by attaching a
+damping
+pendulum having light mass such as a pith ball as its bob
+Large
+damplog
+and another of the same length carrying a heavy mass
+such as a lead bob of equal size. to a rod as shown in
+Fig. 7.9. They are set into vibrations by a third pendulum
+6
+of equal length, attached to the same rod it is observed
+Drink
+that amplitude of the lead bob is much greater than that
+PSTU
+of the pith-ball, The damping effect for the pith-ball due
+to air resistance is much greater than for the lead bob
+---
+
+SUMMARY
+Osciliatory motion is to and fro motion about a mean position.
+Periodic motion is the one that repeats itself after equal intervals of time.
+Restoring force opposes the change in shape or length of a body and is equal and
+opposite to applied force.
+A vibratory motion in which acceleration IB directly proportional to displacement from
+mean position and is always directed towards the mean position is known as simple
+harmonic motion.
+The projection of a particle moving in a circle executes SHM Its time period Tis
+2s
+111
+Phase of vibration is the quantity which indicates the state of motion of a vibrating
+particle generally referred by the phase angle.
+The vibratory motion of a mass attached to an elastic spring is SHM and its time
+period is T=2n/m
+The vibratory motion of the bob of simple pendulum is also SHM and its time period
+is given by
+T=2#
+In an oscillating system P.E. and K.E. interchange and total energy is conserved.
+A body is said to be executing free escillation it it vibrates with its own natural
+frequency without the interference of an external force.
+When a freely oscillating system is subjected to an external periodic force, than
+forced vibrations take place
+Resonance is the specific response of a system to a periodic force acting with the
+natural vibrating period of the system.
+Damping is the process whereby energy is dissipated from the oscillating system.
+QUESTIONS
+7.1 Name two characteristics of simple harmonic motion.
+72 Does frequency depends on amplitude for harmonic oscillators?
+7.3 Can we realize an ideal simple pendulum?
+158
+---
+
+7.4 What is the total distance travelled by an object moving with SHM in a time equal to
+its period, if its amplitude is A?
+75 What happens to the period of a simple pendulum if its length is doubled? What
+happens if the suspended mass is doubled?
+7.6 Does the acceleration of a simple harmonic oscillator remain constant during its
+motion? Is the acceleration ever zero? Explain
+7.7 What is meant by phase angle? Does it define angle between maximum
+displacement and the driving force?
+78 Under what conditions does the addition of two simple harmonic motions produce a
+resultant, which is also simple harmonic?
+7.9 Show that in SHM the accelération is zero when the velocity is greatest and the
+velocity is zero when the acceleration is greatest?
+7. 10in relation to SHM, explain the equations;
+(i)
+y=Asin(at+o)
+(ii)
+a=-n'x
+7.1 11 Explain the relation between total energy, potential energy and kinetic energy for a
+body oscillating with SHM.
+7.12 Describe some common phenomena in which resonance plays an important role.
+7.13H a mass spring system is hung vertically and set into oscillations, why does the
+motion eventually stop?
+NUMERICAL PROBLEMS
+7.1 A 100.0 g body hung on a spring elongates the spring by 4.0 cm. When a certain
+object is hung on the spring and set vibrating, its period is 0.568 5. What is the
+mass of the object pulling the spring?
+(Ans:0,20 kg)
+7:2 A load of 15.0g elongates a spring by 2,00 cm. If body of mass 294 g is attached to
+the spring and is set into vibration with an amplitude of 10.0 cm. what will be its
+(1) period (ii) spring constant (iii) maximum speed of its vibration.
+(Ans: (i) 1.26s, (ii) 7.35 Nm I (10)49.0 cm 5'7
+7.3 An 8.0 kg body executes SHM with emplitude 30 cm. The restoring force is 60 N
+when the displacement is 30 cm. Find
+(i)
+Period
+(ii)
+Acceleration, speed, kinetic energy and potential energy when the
+displacement is 12 om.
+[Ans. (I) 1.3 B. (1) 3.0 ms 2, 1,4 ms 7.6 J. 1.44J
+159
+---
+
+TA A block of mass 4.0 kg is dropped from a height of 0,60 ITI on to a spring of spring
+constant k = 1960 Nm1, I Find the maximum distance through which the spring will
+be compressed
+(Ans: 0.18 m)
+7.5 A simple pendulum is 50.0 cm long. What will be its frequency of vibration at a place
+where g = 9.8ms?
+(Ans: 0.70 Hz)
+7.5 A block of mass 16 kg is attached to a spring with spring constant 1000 Nm as
+shown in Fig. 7.14. The spring is compressed through 0 distance of 2.0 cm and the
+block is released from rest. Calculate the velocity of the block as it passes through
+the equilibrium position x M 0, If the surface is frictionless
+(Ans: 0.50 ms ")
+10
+x
+Flo. 7.14
+x - 0
+III
+,
+X - 2cm
+77 A car of mass 1300 kg is constructed using a frame supported by four springs.
+Each spring has a spring constant 20,000 Nm If two people riding in the car have
+a combined mass of 160 kg. find the frequency of vibration of the car, when it is
+driven over a pot hole in the road. Assume the weight is evenly distributed
+(Ans: 1.18 Hz)
+7.8 Find the amplitude, frequency and period of an object vibrating at the and of a
+spring, if the equation for its position, as a function of timo, is
+x=0.25coe(#)
+What is the displacement of the object after 2.0 s?
+1
+(Ans: 0,25 m,
+Hz. 16 5, 5 If 0.18 m)
+16
+160
+---

@@ -1,0 +1,415 @@
+CHAPTER
+9AROMATIC
+HYDROCARBONS2 3
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.Punjab1. To name simple aromatic hydrocarbons, and their derivatives.
+2.
+ The Kekule 
+and resonance approaches to explain the structure and 
+stability of benzene.
+3.
+ About the preparation of benzene. 
+4.
+ About 
+the electrophilic substitution, oxidation and addition reactions of 
+benzene.
+5.
+ About 
+the isomerism which arises when a second substituent enters the 
+ring.
+6.
+ How 
+does the presence of a group alters the reactivity of benzene ring 
+towards electrophilic substitution reactions.
+7.
+ The comparison of reactivities of alkanes, alkenes and benzene.
+9.1    INTRODUCTION
+The term aromatic was derived from the Greek word ‘aroma’ meaning 
+“fragrant” and was used in Organic Chemistry for a special class of compounds. These compounds have a low hydrogen to carbon ratio in their molecular formula and have a characteristic odour. However, it was soon realized that many aromatic compounds are odourless whereas many others are fragrant though they are not aromatic.
+ Further, when aromatic compounds of higher molecular mass were subjected 
+to various methods of degradation, they often produced benzene or derivatives of benzene. It was observed that almost all the aromatic compounds have a six carbon unit in their molecules like benzene. Hence, benzene was recognized as the simplest and the parent member of this class of compounds.
+So aromatic hydrocarbons include benzene and all those compounds that are structurally related to benzene.It appears from the definition of aromatic hydrocarbons that any study of this class of compounds must begin with the study of benzene.
+Benzene has characteristic structural features. It has a regular planar hexagonal structure. On the basis of the number of benzene rings aromatic hydrocarbons can be categorized into following classes.
+a. Monocyclic Aromatic Hydrocarbons and their derivativesb. Polycyclic Aromatic Hydrocarbons
+a. Monocyclic Aromatic Hydrocarbons and their Derivatives
+Aromatic hydrocarbons containing one benzene ring in their molecules are called Monocyclic Aromatic Hydrocarbons, e.g. benzene and its derivatives.
+In This Chapter You Will Learn
+Animation  9.1 : Polycyclic aromatic hydrocarbn
+ Source & Credit : Qchitool4 5
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.PunjabAromatic hydrocarbons containing two or more ben-
+zene rings in their molecules are called Polycyclic Aromat-ic Hydrocarbons. They may be divided into two main classes.
+(i)  Those in which benzene rings are isolated, e.g. bi      phenyl,diphenylmethane, etc.
+Animation  9.2 : Larger cyclic aromatic hydrocarbons
+Source & Credit : sandia(ii)  Those in which the benzene rings are fused together at ortho po-sitions so that the adjacent rings have a common carbon to car-bon bonds, e.g. naphthalene,  phenanthrene and anthracene
+9.2 NOMENCLATURE 
+(Monocyclic Aromatic Hydrocarbons and their Derivatives)
+The nomenclature of the aromatic hydrocarbons is much more complex than that of aliphatic hydrocarbons. The system used for naming benzene and its derivatives generally depends on the number of substituents on the benzene ring. b. Polycyclic Aromatic Hydrocarbons
+1. Mono-substituted benzene derivatives are named by prefixing benzene with 
+the name of the substituent. The whole name is written as one word, e.g.
+2.  There are certain monosubstituted benzene derivatives which are given the special  names, like methylbenzene as toluene, hydroxybenzene as phenol etc.Some important rules of naming are given below.6 7
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.PunjabWhen a hydrogen atom is removed from benzene, we get a phenyl group sym-
+bolized by C6H5- or Ph-. Substituted phenyl groups are called aryl groups.
+3. The second substituent in benzene would give rise to three iso-meric products designated as ortho (1,2), meta(1,3) and para(1,4),e.g.All the six positions in benzene are exactly equivalent so there is only one monosubsituted benzene.
+Animation  9.3 : Monocyclic ring breathing mode in Toluene 
+Source & Credit : Kemi4. If two or more substituents are different, then the substituent that is treated as a high priority group, is given the number 1 position in the benzene ring. Oth -
+er groups are numbered by counting from position 1 in the manner which gives them the lowest number.The order of priority of the groups (left to right):
+— COOH, — CN, — CHO, — COCH
+3, — OH, — NH, — OR, — R.
+5. If the two substituents are different and they are not present in priority order list, they are named in alphabeti-cal order. The last named substituent will be at position 1, e.g.,
+6. If there is a substituent on the ring which gives a special name to the molecule, then special name is used as parent name to the molecule, e.g.8 9
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.Punjab9.3 BENZENE
+Benzene was discovered by Michael Faraday in 1825 in the gas pro-
+duced by the destructive distillation of vegetable oil and twen-ty years later it was also found in coal-tar by Hoffmann.
+9.3.1 Structure of Benzene
+Molecular Formula1.
+ The empirical formula of benzene 
+is determined by the elemental analysis.
+2.
+ Its molecular mass determined by 
+the vapour density method is 78.108. 
+This is six times the empirical formula mass (CH = 12 + 1 = 13). Therefore, the molecular formula of benzene is C
+6H6.
+3.
+ The molecular formula of benzene 
+indicates that it is highly unsaturated 
+compound.
+9.3.2 Straight Chain Structures Ruled Out:
+i) Two of the possible straight chain formulas suggested for benzene are : 
+HC C≡2CH2CH
+2C CH
+H C=CH≡
+CC≡2 CH=CH(1,5-Hexadiyne). 
+ (l,5-Hexadiene-3-yne).
+A compound having a structure as above should behave like an alkene or alkyne, both are oxidized by alkaline KMnO
+4 solution. On the 
+contrary, benzene is stable to KMnO4 solution i.e. it does not decolorize 
+KMnO4 solution. Benzene gives addition reactions with hydrogen 
+and halogens, which indicate the presence of three double bonds.But benzene also gives substitution reactions with conc. HNO3 and 
+conc. H2SO4 which indicate that benzene has a saturated structure.
+ii) Considering a straight chain structure for benzene and further assuming that each carbon carries one H-atom, it should be capable of forming three monosubstitution products.
+But benzene yields only one monosubstituent product.X XX
+|| |
+C. C.C.C.C.C C.C.C.C.C.C C.C.C.C.C.C
+iii) The molecular formula of benzene C6H6 does not correspond 
+to any of the open chain hydrocarbons, such as alkane C
+nH2n+2(C6H14), alkene CnH2n(C6H12) or alkyne CnH2n-2 (C6H10).
+It means benzene does not belong to open chain hydrocarbon and therefore possibility of a straight chain structure is ruled out.
+9.3.3 Kekule’s Structure
+The structure of benzene continued to be a serious problem for chemists for about 40 years. A German chemist, Kekule at last solved the problem in 1865. Kekule proposed a cyclic regular hexagonal structure for benzene, which contains three double bonds alternating with three single bonds.
+He supported his theory by the following arguments.
+(i)   Benzene gives only one monosubstituted product.10 11
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.PunjabThese points confirm the regular hexagonal structure for benzene in which 
+all the carbon atoms are occupying identical positions in the molecule. Therefore, benzene forms only one toluene, one phenol and one nitrobenzene.(ii)  Benzene gives only three disubstituted products.
+Animation  9.4 : Phenol and Alcohol
+Source & Credit : footdoc(iii) Benzene adds three hydrogen molecules in the presence of a catalyst.
+iv) Benzene adds three molecules of chlorine in the presence of sunlight.
+These two reactions confirm the presence of three double bonds alternating with three single bonds.
+9.3.4 X-Ray Studies of Benzene Structure
+The X-ray studies of benzene have confirmed the hexagonal structure for it. These studies have also revealed that all the carbon and hydrogen atoms are in the same plane. All the angles are of 120°. All C - C and C -H bond lengths are 1.397A and 1.09 A, respectively.
+Objections to Kekule’s Formula
+Kekule’s formula with three double bonds demands a high degree of unsaturation from benzene while usually it exhibits a saturated character. Thus benzene yields substitution products readily and forms addition products reluctantly. Benzene is also a very stable compound. All these properties of benzene can be easily explained using the modem theories about its structure.o o12 13
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.Punjab9.3.5 Modern Concepts About the Structure of Benzene Atomic Orbital 
+Treatment of Benzene
+The hexagonal frame-work of benzene can be conveniently explained using hybridization approach. According to this, each carbon in benzene is sp
+2 hybridized. The three sp2 
+hybrid orbitals on each carbon are utilized to form three s-bonds, two. with adjacent carbon atoms and one with hydrogen.
+The unhybridized 2p
+z orbitals remain at right 
+angle to these sp2 orbitals. Since all the sp2 
+orbitals are in the same plane therefore all 
+the carbon and hydrogen atoms are coplanar.
+All the angles are of 120° which confirms the 
+regular hexagonal structure of benzene . The 
+unhybridized 2pz orbitals partially overlap to 
+form a continuous sheath of electron cloud, enveloping, above and below, the six carbon-carbon sigma bonds of the ring. Since each 2p
+z 
+orbital is overlapped by the 2pz orbitals of adjacent 
+carbon atoms, therefore, this overlapping gives, 'diffused' or 'delocalized' electron cloud.
+9.3.6  The Stability of Benzene
+As mentioned earlier benzene is an extraordinary stable molecule. This stability is due to the extensive delocalization of electron cloud. The extent of stability of benzene can be measured by comparing it with hypothetical compound, 1,3,5- cyclohexatriene. This can be done by estimating their heats of hydrogenation. Cyclohexene, a six membered ring containing one double bond, can be easily hydrogenated to give cyclohexane. When the 
+�H for this reaction is measured 
+it is found to be -119.5 kJ/mole, very much like that of any similarly substituted alkene.
+Animation  9.5 : Kekulé benzene
+Source & Credit : Ch.imperialWe would expect that hydrogenation of 1,3-cyclohexadiene would liberate roughly twice as much heat and thus have 
+�H equal to about -239 kJ/mole. 
+When this experiment is done, the result is �H = -231.5 kJ/mole. This result is 
+quite close to what we calculated, and the difference can be explained by taking into account the fact that compounds containing conjugated double bonds are usually somewhat more stable than those containing isolated double bonds.
+Calculated �H =   2(-119.5)                = -239 k J/mole
+Observed �H                                       = -231.5 k J/mole
+If we extend this kind of thinking, and if benzene is simply 1,3,5-cyclohexatriene, we1,3-Cyclohexadiene14 15
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.Punjabwould predict that benzene would liberate approximately -358.5 kJ/mole 
+(3 x -119.5) when it is hydrogenated. When the experiment is actually done the result is surprisingly different. The reaction is exothermic but only by -208 k J/mole.
+Calculated �H = (3 x -119.5)                =-358.5 kJ/mole
+Observed �H                                         = -208 kJ/mole
+Difference                                              = 150.5 kJ/mole
+When the results are represented by the following figure, it becomes clear that benzene is much more stable than we calculated it to be.
+Fig.9.1 Relative stabilities of Cyclohexene,1,3- Cyclohexadiene, 1,3,5-Cyclohexatriene 
+(hypothetical) and benzene.Indeed, benzene is more stable than the hypothetical 1,3,5-cyclohexatriene by 150.5 kJ/mole. This difference between amount of heat actually released and that calculated on the basis of the Kekule’s structure is now called the ‘Resonance energy’ of the compound. It means benzene shows the phenomenon of resonance which makes it more stable than others. In benzene electrons are delocalized making it a very stable molecule.
+9.3.7 The Resonance Method
+ResonanceAnimation  9.6 : Benzene derivative
+Source & Credit : Cod.eduAnimation  9.7 : Bonding in a molecule of ben-
+zene from a molecular orbital point
+Source & Credit : lite.msu.edu
+“The possibility of different pairing schemes of valence electrons of atoms is called resonance” and the different structures thus arranged are called “Resonance structures”.The resonance is represented by a double headed arrow (
+↔) e.g. the following different pairing schemes of the fourth 
+valence (the p-electrons) of carbon atoms are possible in benzene.16 17
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.Punjab
+(a), (b) were proposed by Kekule and c, d, e, were proposed by Dewar. 
+The stability of a molecule increases with increase in the number of its resonance structures. Thus molecule of benzene is chemically quite stable.
+In Dewar structure the carbon atoms at opposite positions 1-4, 
+2-5 and 3-6 are at larger distances than those in the adjacent positions 1-2,2-3,3-4,4-5,5-6 and 6 -1. Therefore the bondings between C
+1-C4, C2-C5 and C3-C6 are not favourable energetically.
+Hence the Dewar structures for benzene have minor contribution towards the actual structure of benzene.
+Infact, the structure of benzene is a resonance hybrid of all the five 
+structures (a), (b), (c), (d) and (e) in which the Kekule’s structure (a) and (b) have the larger contribution. Therefore, benzene molecule can be represented by either of the two Kekule’s structure.
+The three alternate single and double bonds in the Kekule’s structures are called conjugate bonds or resonating bonds.
+Since the structure of benzene is a resonance hybrid, therefore all the C-C 
+bond lengths are equal but different from those in alkanes, alkenes and alkynes.In alkanes the C-C bond length is 1.54A.In alkenes the C = C bond length is 1.34A.In alkynes the C 
+≡ C bond length is 1.20A.
+In benzene the C-C bond length is 1.397A.
+The C - C bond length in benzene is intermediate 
+between those in alkanes and alkenes. The resonating single and double bonds in benzene can better be represented as a complete circle inside the ring.
+9.4 PREPARATION OF BENZENE
+Benzene and other aromatic hydrocarbons are readily obtained in large quantities from coal and petroleum. Benzene and some other hydrocarbons can also be obtained from petroleum by special cracking methods. Some of the methods generally used for the preparation of benzene are as follows.
+1. Dehydrogenation of Cyclohexane
+When cyclohexane or its derivative is dehydrogenated 
+we get benzene or a substituted benzene. The reaction is carried out by the use of a catalyst at elevated temperature.
+2. From Acetylene:
+Benzene is formed by passing acetylene under pressure over an organo-nickel catalyst at 70°C.eo
+o
+o
+o18 19
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.Punjab
+3. FromAlkanes
+Benzene and toluene are also prepared by passing the vapours of n-haxane 
+or n-heptane over a mixture of catalysts Cr2O3 + AI2O3 + SiO2 at 500°C.
+4. Preparation in the Laboratory
+Benzene can be prepared in the laboratory by any one of the following methods.
+i. By heating sodium salt of benzoic acid with soda lime.
+ii.  By distilling phenol with zinc dust.
+iii. By the hydrolysis of benzenesulphonic acid with superheated steam or by boiling with dil. HCl.
+Benzene
+CH3
+5. Wurtz-Fittig Reaction
+The Wurtz reaction for the synthesis of alkanes was extended by Fittig in 1864 to the synthesis of alkyl aromatic hydrocarbons.20 21
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.PunjabAnimation  9.8 : Alkenes due to resonance
+Source & Credit : Chemistry.boisestate.edu  
+9.5 REACTIONS OF BENZENE
+9.5.1 General Pattern of Reactivity of Benzene Towards Electrophiles
+The highly stable, delocalized electrons of benzene ring are not readily 
+available for the nucleophillic attack like the electrons of alkenes. 
+Therefore, the electrons of benzene ring do not assist in the attack of weak 
+electrophiles. It means that more powerful electrophiles are required to penetrate and break the continuous sheath of electron cloud in benzene, e.g., substitution of halogen in benzene requires iron or corresponding ferric halide as a catalyst. Infact iron too is first converted into FeX
+3 which 
+further reacts with halogen molecule to produce a powerful electrophile.
+23
+32 42Fe 3X 2FeX
+FeX X FeX X−++→
++→ +
+Tetra haloferrate 
+ion (III)Halogenonium ion
+The halogenonium ion X+ thus produced attacks as a powerful electrophile on 
+the electrons of benzene ring.
+ion22 23
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.PunjabThe addition product is not favourable because in its formation the 
+characteristic stability of benzene is lost. The only possible product is the substitution product in which the stability of benzene is retained. Therefore, the general pattern of the chemical reactivity of benzene towards electrophiles can be shown as follows.
+9.5.2 Electrophilic Substitution Reactions
+1. Halogenation
+The introduction of halogen group in benzene ring is called “Halogenation” Benzene reacts with halogen in the presence of a catalyst like FeBr
+3, 
+AlCl3, etc. Chlorination and bromination are normal reactions but 
+fluorination is too vigorous to control. Iodination gives poor yield.Mechanism:
+The actual halogenating agent is X+ ( i.e. CI+ or Br+) is formed by the following 
+mechanism.
+When alkyl benzenes are treated with chlorine or bromine in 
+the presence of sunlight, only the alkyl groups are substituted.
+Benzal24 25
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.Punjab2. Nitration
+The introduction of NO2 group in benzene ring is called “Nitration”. 
+The nitration of benzene takes place when it is heated with a 
+1:1 mixture of con. HNO3 and con.H2SO4 at 50- 55°C. Sulphuric 
+acid reacts with nitric acid to generate nitronium ion, (N02+).
+Mechanism:
+Animation  9.9 : Nitration of benzene mechanism
+Source & Credit : Sustainability.sellafieldsites3. Sulphonation
+The introduction of sulphonic acid group in benzene ring is 
+called Sulphonation. When benzene is heated with fuming H
+2SO4 or conc. H2SO4 it yields benzene sulphonic acid.
+050-55 C +-
+2 24 2 4 2 HNO + H SO NO + HSO + H O ����� ������ �
+Mechanism:
+When sulphuric acid alone is used, the actual electrophile in this reaction is SO
+3.26 27
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.Punjab3. Friedel-Crafts Reactions
+The alkylation and acylation of benzene are called friedel-Crafts reactions.
+a) Alkylation
+The introduction of an alkyl group in the benzene ring in the presence 
+of an alkyl halide and a catalyst AICI3 is called Friedel-Crafts alkylation or 
+Alkylation.
+Mechanism:
+R34 Cl AlCl AlCl R−++→ +
+Carbocationb) Acylation:  
+The introduction of an acyl group R- c in the benzene ring in the presence 
+of an acyl halide and a catalyst AICI3 is called Friedel Crafts Acylation or 
+Acylation.
+Animation  9.10 : Friedel crafts reaction
+Source & Credit : Friedelcraft.chez.com28 29
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.Punjab9.5.3 Reactions in which Benzene Ring is Involved
+1. Addition Reactions
+(a) Reduction:
+Benzene is reduced to cyclohexane on heating at high 
+temperature with hydrogen in the presence of Pt in an acidic solvent (acetic acid) or Ni at 200°C as a catalyst.
+(b) Halogenation
+Benzene reacts with chlorine and bromine in the presence 
+of sunlight to give addition products, hexachlorobenzene or hexabromobenzene. Fluorination is too vigorous while iodination is slow.
+(c) Combustion
+When benzene is burnt in free supply of air, it is completely oxidized to CO2 
+and H2O.
+66 2 2 2 2C H 15O 12CO 6H O+→ +(d) Oxidation
+i) Catalytic Oxidation
+Benzene is not oxidized by KMnO4 or K2Cr2O7 at room 
+temperature. The ring is destroyed when benzene is 
+strongly heated with air in the presence of V2O5 as a catalyst.
+ii) Ozonolysis
+Benzene reacts with ozone and gives glyoxal through benzene triozonide.
+Side Chain Oxidation 
+Alkyl benzenes are readily oxidized by acidified KMnO4 or K2Cr2O7. In these 
+reactions, the alkyl groups are oxidized keeping the benzene ring intact.30 31
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.Punjab
+Whatever the length of an alkyl group may be it gives only one 
+carboxyl group. Moreover the colour of KMnO4 is discharged. 
+Therefore this reaction is used as a test for alkyibenzenes.
+9.5.4 Orientation in Electrophilic Substitution reactions
+When an electrophilic substitution reaction takes place on benzene ring, we get only one monosubstituted benzene because all the six positions in the ring are equivalent. However, the introduction of a second group into the ring may give three isomeric disubstituted products, ortho, meta and para.
+On chance basis 40% ortho, 40% meta and 20% para disubstituted products are expected. 
+But the actual disubstitution of benzene does not follow 
+this principle of chance, e.g. m - Chloronitro benzene is the main product of the following halogenation reaction.
+On the other hand a mixture of o- Chloronitrobenzene and p-Chloronrtrobenzene is obtained from the nitration of chlorobenzene.
+It means that the group present in the mono-substituted benzene ring has the directive effect and thus determines the position or orientation for the new incoming groups. Therefore, there are two types of groups:
+1. ortho- and para- directing groups
+2. meta- directing groups
+1. ortho and para Directing Groups
+These groups release electrons to the benzene ring, thereby facilitating 
+the availability of electrons to the electrophiles at ortho and para positions.32 33
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.PunjabThis results in the increased chemical reactivity of benzene ring 
+towards electrophilies. The benzene ring can offer more than one positions (ortho and para) to the new incoming groups. These groups are called ortho and para directing groups, e.g.
+The electron releasing effect of methyl group is significant and it makes the ring a good nucleophile. Due to this increased reacivity, more nitro groups can enter the ring.
+2
+Other examples of ortho and para directing groups are:-
+32 2 N(CH ) , NH , OH,− −−3 OCH , Cl,− Br, I2. meta -Directin g Groups
+These groups withdraw the electrons of the benzene ring towards 
+themselves, thereby reducing their availability to the electrophiles. 
+This results in the decreased chemical reactivity of benzene. Moreover, 
+due to the electron withdrawing effect of such substituents, the ortho and para positions are rendered more electron deficient than the meta position. Thus the incoming electrophile will prefer to attack on meta position rather than ortho and para positions. These groups are called meta-directing groups, e.g.
+The substitution of third nitro group is not possible, other examples of meta directing groups  are:
+3 NR,+C N,≡ COOH,   CHO,   COR
+9.6 COMPARISON OF REACTIVITIES OF ALKANES,ALKENES 
+AND BENZENE
+We have studied that alkanes are unreactive class of compounds 
+and their unreactivity is due to their non-polar nature and the inertness of s-bond. However, they  undergo substitution reactions relatively easily and these reactions involve free radicals.
+Alkenes, on the other hand, are very reactive class of compounds 
+and their reactivity is due to the inherent weakness of the 
+π-bond 
+and the availability of π electrons for the electrophilic reagents.34 35
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.PunjabBenzene is unique in its behaviour. It is highly unsaturated compound 
+and at the same time it is very stable molecule. The stability of benzene, as described earlier, is due to the extensive delocalization of 
+π-electrons. 
+It resembles alkenes when it gives addition reactions. The substitution of benzene, however, does not involve free radicals. These are electrophilic substitution reactions and involve electrophiles. 
+Its addition reactions require more drastic conditions than those for alkenes. 
+Benzene does not undergo polymerization and it is also resistant to oxidation.
+ KEYPOINTS                    
+1.
+ Aromatic hydrocarbons include 
+benzene and all those compounds that are 
+structurally related to benzene.
+2.
+ Aromatic hydrocarbons 
+containing one benzene ring in their molecules are 
+called monocyclic aromatic hydrocarbons.
+3.
+ Aromatic hydrocarbons 
+containing two or more benzene rings in their molecules 
+are called polycyclic aromatic hydrocarbons.
+4.
+ Benzene was discovered by Michael Faraday in 1825.
+5.
+ The 
+electrons in benzene are loosely held and the ring acts as a source of 
+electrons. Hence benzene is readily attacked by electrophiles in the presence of a catalyst.
+6.
+ Since 
+electrophilic substitutions reaction lead to resonance stabilized benzene 
+derivatives so substitutions are the main reactions of benzene.
+7.
+ Resonance energy of benzene is 150.5 kJ/mole.
+8.
+ Structure 
+of benzene is the resonance hybrid of two Kekule’s structures and 
+three Dewar’s structures.
+9.
+ Groups 
+like NH2, NHR, - OR, - SH, - OCOR, - X, - OH, etc. which increase the 
+electron  density in the nucleus and facilitate further electrophilic substitutions are known as ortho- and para-directing groups.They undergo electrophilic addition reactions easily. Being relatively unstable, alkenes undergo polymerization reactions and they are also readily oxidized. 
+10. Groups like CN, - CHO, NH
+3, NR3, CCl3 which hinder further substitution in the 
+     benzene nucleus are known as meta- directing groups.EXERCISE                     
+i)   The term aromatic was derived from Greek word___________ meaning _______________.ii)  Aromatic hydrocarbons include benzene and all those compounds which are ___________ related  to benzene.iii) ______________is recognized as the simplest member of the class of Aromatic Hydrocarbons.iv)  Benzene has_______________structure.v)  These removal of hydrogen atom from aromatic hydrocarbons gives a radical. The radicals are  called__________ . vi)  Benzene was discovered by Michael Faraday in_______ .vii) The unhybridized 2p
+z orbitals in benzene partially overlap to form a 
+___________ of electron cloud.viii)  The introduction of halogen group in benzene ring is called_______.ix)    The molecular formula of C
+6H6 indicates that it is highly__________ 
+compound.x)   On oxidation in the presence of V
+2O5 benzene gives__________.Q1. Fill in the blanks.
+Q.2 Indicate True or False.
+i)   Benzene is more reactive than alkene and less reactive than alkane.
+ii)  Benzene has a pentagonal structure.
+iii)  The C-C bond length in benzene molecule is 1.397 A.
+iv)  The state of hybridization of carbon in benzene molecule is sp3.
+v)   There are six sigma bonds in benzene molecule.
+vi)  Halogenonium ion produced in electrophilic substitution reactions is a   powerful electrophile. vii)  In electrophilic substitution reactions, addition products are favourable.viii) Sulphonation is carried out when benzene is heated with conc. HNO
+3.
+ix)  In ozonolysis benzene directly gives glyoxal.
+x)  Benzene has five resonace contributing structures.o
+Q.3. Multiple choice questions. Encircle the correct answer.
+i) The benzene molecule contains(a) Three double bonds                              (b) Two double bonds(c) One double bond                                   (d) Delocalized 
+π-electron charge36 37
+9. Aromatic Hydrocarbons 9. Aromatic Hydrocarbons eLearn.Punjab eLearn.Punjabii) Aromatic hydrocarbons are the derivatives of
+(a) normal series of paraffins                              (b) alkene
+(c) benzene                                                             (d) cyclohexane
+iii) Which of the following acid can be used as a catalyst in Friedel-Crafts 
+reactions?(a)AlCl
+3                           (b) HNO3                          (c)BeCl2                                 (d)NaCl
+iv) Benzene cannot undergo(a) substitution reactions                                     (b) addition reactions(c) oxidation reactions                                          (d) elimination reactions
+v) Amongst the following, the compound that can be most readily 
+sulphonated is(a) toluene                     (b) benzene                    (c) nitrobenzene                   (d) chlorobenzene
+vi) During nitration of benzene, the active nitrating agent is
+(a)NO
+3                             (b)NO2+                           (c)NO2-                                    (d)HNO3
+vii) Which compound is the most reactive one:(a) benzene                   (b) ethene                       (c) ethane                               (d) ethyne
+viii) The electrophile in aromatic sulphonation is:
+(a)H
+2SO4                        (b)HSO4                            (c) SO3                                      (d) SO3+ 
+ix) Aromatic compounds burn with sooty flame because:(a) They have high percentage of hydrogen.(b) They have a ring structure. (c) They have high percentage of carbon.(d) They resist reaction with air.Q. 4. What are aromatic hydrocarbons? How are they classified?
+Q. 5. What happens when:
+(a) Benzene is heated with conc. H
+2SO4 at 250°C.
+(b) Chlorine is passed through benzene in sunlight.
+(c) A mixture of benzene vapours and air are passed over heated vanadium 
+pentoxide.
+x) The conversion of  n-hexane into benzene by heating in the presence of Pt is called:(a) Isomerization                                                  (b) Aromatization(c) Dealkylation                                                     (d) Rearrangement(d) Benzene is burnt in free supply of air.
+Q.6. What is meant by the terms:
+i) Aromatic                                     ii) Oxidation                                      iii) Sulphonationiv) Nitration                                   v) Halogenation
+Q. 7. (a) Draw structural formulas for the following compounds.
+i) m-Chlorobenzoic acid                                 vi) 2,4,6 Trinitrotolueneii) p-Hydroxybenzoic acid                                vii) m-Nitrophenoliii) o-Bromonitrobenzene                               viii) p-Dibenzylbenzeneiv) o-Ethyltoluene                                     ix) 2-Amino-5-bromo-3 nitrobenzenesulphonic acidv) p-Nitroaniline
+(b) Give names and the possible isomeric structuresof the following.
+i) Xylenes                                     ii) Trimethylbenzene                   iii) Bromonitrotoluene
+Q. 8. Write IUPAC names of the following molecules.
+Q. 9. Give the general mechanism of the electrophilic aromatic substitution 
+reactions.
+Q. 10. (a) Describe the structure of benzene on the basis of following.i) Atomic orbital treatment                                    ii) Resonance method(b) Prove that benzene has a cyclic structure.38
+9. Aromatic Hydrocarbons eLearn.PunjabQ. 11. Predict the major products of bromination of the following compounds.
+(a) Toluene                               (b) Nitrobenzene                             (c) Bromobenzene(d) Benzoic acid                       (e) Benzaldehyde                             (f) Phenol
+Q. 12. How will you prepare the following compounds from benzene in two 
+steps.(a) m-chloronitrobenzene(b) p-chloronitrobenzene
+Q. 13. Complete the following reactions. Also mention the conditions needed to carry out these reactions.
+Q. 14. Detail out three reactions in which benzene behaves as if it is a saturated hydrocarbon and three reactions in which it behaves as if it is unsaturated.
+Q. 15. What are Frediel-Crafts reactions. Give mechanism with example of 
+the following reactions. i) Friedel-Crafts alkylation reactionsii) Friedel-Crafts acylation reactions.

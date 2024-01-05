@@ -1,0 +1,466 @@
+CHAPTER
+2s-BLOCK ELEMENTS
+Animation 2.1 : s block elements
+Source and Credit: eLearn.Punjab2
+2. s-Block Elements eLearn.Punjab2.1 INTRODUCTION IN THIS CHAPTER YOU WILL LEARN
+The alkali and alkaline-earth metals include the most reactive elec -
+tropositive elements and a study of their electronic configurations
+will help in understanding their properties.The name alkali came from Arabic, which means ‘The Ashes’ . The Arabs used this term for these metals because they found that the ashes of plants were com-posed chiefly of sodium and potassium. Alkali metals include the elements, lith-ium, sodium, potassium, rubidium, caesium and francium. These are very re -
+active metals, produce strong alkaline solutions with water.The alkaline-earth metals are beryllium, magnesium, calcium, strontium, barium and radium.They are called alkaline-earth because they produce alkalies in water and are widely distributed in earth’s crust. 
+1.   To write the electronic configuration of s-block elements in sequence.2.   The occurrence of group IA and IIA elements and the peculiar behaviours        of lithium and beryllium.3.   The difference in the physical properties of group IA and IIA elements as       well as the differences in the chemical behaviour of their compounds.4.  The commercial preparation of sodium.5.  How sodium hydroxide is commercially prepared.6.  The role of gypsum and lime in agriculture and industry. 
+The s-block elements are the metals in Group IA and Group IIA of the peri-odic table.They are called the s-block elements because s-orbitals are being filled, in their outer most shells.The elements of group IA except hydrogen are called “Alkali metals” while those of IIA are named “Alkaline-earth metals”.3
+2. s-Block Elements eLearn.PunjabAlkali metals have only one electron in ‘s’ orbital of their valence shell. All 
+alkali  metals lose their one electron of the valence shell to form monopositive ions M
++ because their ionization energy values are 
+very low. They form ionic compounds and show +1 oxidation state.The electronic configurations and some physical constants of alkali metals are given in Table2.12.1.1 Electronic Configurations of s-Block Elements.
+Alkali Meta1Animation 2.2 : Haloform_reaction
+Source and Credit: wiki
+Properties Li Na K Rb Cs
+Atomic number 3 11 19 37 55
+Electronic configurations 1s22s1[Ne]3s1[Ar]4s1[Kr]5s1[Xe]6s1
+Ionization energy (kJ/ mol) 520 496 419 403 376
+Electron affinity (kJ/mol) 60 53 48 47 48
+Electronagetivity  1.0 0.9 0.8 0.8  0.7
+Atomic radius  123 158 203 216 235
+Ionic radius of 1+ion (pm) 60 95 133 148 169
+Melting points (°C) 187.0 97.5 63.6 39.0 28.5
+Boiling points (°C)  1325 889 774 688 690
+Density gm/cm3 at (20°C)  0.53 0.97 0.86 1.53  1.9
+Heat of hydration (kJ/mol) 505475 384 345 310Table 2.1 Electronic Configurations and Physical Constants of Alkali Metals4
+2. s-Block Elements eLearn.PunjabAlkaline  earth metals have two electrons in ‘s’ orbital of their 
+valence shell. All alkaline earth metals lose their two electrons to form dipositive ions M
+2+, because their ionization energy values 
+are low. They form ionic compounds and show + 2 oxidation state. 
+The electronic configurations and some physical constants of alkaline earth 
+metals are given in Table 2.2.Alkaline-Earth Metals 
+Table 2.2 Electronic Configurations and Physical Constants of Alkaline-
+Earth Metals
+Properties Be Mg Ca Sr Ba
+Atomic number  4 12 20 38 56
+Electronic configurations 1s22s2[Ne]3s2[Ar]4s2[Kr]5s2[Xe]6s2
+Ionization energy (k J/ mol)  899 738 590 549 503 
+Electron affinity (k J/mol)  240 230 156 168  52 
+Electronagetivity   1.5 1.2 1.0 1.0  0.9 
+Atomic radius  89 136 174 191 198 
+Ionic radius of 2+ion (pm)  31 65 99 113 135
+Melting points (°C) 1289 649 839 769  725
+Boiling points (°C)  2970 1107 1484 1384 1640
+Density gm/cm3 at (20°C)  1.85 1.74 1.55 2.6  3.5
+Heat of hydration (kJ/mol) 2337 1897 1619 1455 1250
+In going down a group the number of shells increase by one at each step 
+and equal to the number of the period to which the element belongs.5
+2. s-Block Elements eLearn.PunjabAnimation 2.3 : s-block elements
+Source and credit: Crescen
+2.1.2 Occurrence of Alkali Metals
+Due to high reactivity, the alkali metals occur in nature in the combined state. 
+None of the alkali metals is found free in nature. Sodium and potassium are abundant alkali metals and each constitute about 2.4 percent of earth’s crust. Most of the earth’s crust is composed of insoluble alumino-silicates of alkali metals.
+Name of Mineral Chemical Formula
+Lithium
+Spodumene LiAl(SiO3)2
+Sodium
+Rock Salt (Halite) NaCl
+Chile saltpetre NaNO3
+Natron Na2CO3.H2O
+Trona Na2CO3.2NaHCO3.2H2O
+Borax Na2B4O7.10H2O
+Potassium
+Carnallite KCl.MgCl2.6H2O
+Sylvite  KCl
+Alunite(Alum Stone)!  K2SO4, Al2(SO4)3.4Al(OH)3Table 2.3  Common Minerals of The Most Important Alkali Metals6
+2. s-Block Elements eLearn.PunjabSmall amounts of rubidium and caesium are found in potassium salts
+deposits. Francium has not been found in nature. It has been prepared artificially in the laboratory and is  very unstable, so that a very little is known about this metal.Lithium deposits, usually in the form of complex minerals, are widely scattered over the earth. An important commercial source of lithium is the mineral spodumene, LiAl(SiO
+3)2.
+2.1.3 Occurrence of Alkalme-Earth Metals
+Being very reactive, alkaline earth metals also do not occur in free state.The compounds of these metals occur widely in nature.
+Magnesium and calcium are very abundant in earth’s crust. The outer portion of the earth was originally in the form of silicates and alumino-silicates of alkaline-earth metals. Magnesium and calcium, with sodium and potassium are present in the rocks as cations.Magnesium halides are found in sea water. Magnesium is an essential constitutent of chlorophyll.Calcium phosphate, Ca
+3(PO4)2 and calcium fluoride, CaF2 are also found as 
+minerals.Calcium is an essential constituent of many living organisms. It occurs as skeletal material in bones, teeth, sea-shells and egg shells.Radium is a rare element. It is of great interest because of its radioactive nature.Animation 2.4 : Metals
+Source and credit: wordpress7
+2. s-Block Elements eLearn.PunjabName of Mineral Chemical Formula
+Beryllium
+Beryl Be3Al2 (SiO3)6
+Chrysoberyl Al2BeO4
+Magnesium
+Magnesite MgCO3
+Dolomite MgCO3. CaCO3
+Carnallite KCl.MgCl2.6H2O
+Epsom salt MgSO4.7H2O
+Soap stone (talc) H2Mg3(SiO3)4
+Asbestos CaMg3(SiO3)4
+Calcium
+Calcite (Lime Stone) CaCO3
+Gypsum  CaSO4.2H2O
+Fluorite  CaF2
+Phosphorite Ca3 (PO4)2
+Strontium
+Strontionite SrCO3
+Barium
+Barite  BaSO4Table 2.4 Common Minerals of the Alkaline-Earth Metals
+2.1.4  Peculiar Behaviour of Lithium
+In many of its properties, lithium is quite different from the other 
+alkali metals.This behaviour is not unusual, because the first member of each main group of the periodic table shows marked deviation from the regular trends of the group as a whole.8
+2. s-Block Elements eLearn.PunjabThe deviation shown by lithium can be explained on the basis of its small 
+radius and high charge density. The nuclear charge of Li+ ion is screened only 
+by a shell of two electrons. The so-called ‘anomalous’ properties of lithium are due to the fact that lithium is unexpectedly far less electropositive than sodium. Some of the more important differences of lithium from other alkali metals are listed below:
+1. Lithium is much harder and lighter than the other alkali metals.2. The lithium salts of anions with high charge density are generally less soluble in water than those of the other alkali metals, e.g. LiOH, LiF, Li
+3PO4, Li2CO3.
+3. Lithium forms stable complex compounds, althongh complex formation generally is not a   property of alkali metals. One of the stable complexes formed by lithium is [Li(NH
+3)4]+
+4. Lithium reacts very slowly with water, while other alkali metals react violently.5. Lithium salts of large polarizable anions are less stable than those of other alkali metals. Unlike other alkali metals lithium does not form bicarbonate, tri-iodide or hydrogen sulphide at room temperature.
+Animation 2.5 : ALKALI METALS
+Source and Credit: Docbrown6. When burnt in air lithium forms only normal oxide, whereas the others form peroxides or superoxides.7. Lithium hydride is more stable than the hydrides of other alkali metals.8. Lithium compounds are more covalent, that is why its halides are more soluble in organic solvents and the alkyls and aryls of lithium are more stable than those of other alkali metals.9. Lithium is the least reactive metal of all the alkali metals.9
+2. s-Block Elements eLearn.Punjab10. When acetylene is passed over strongly heated 
+lithium, it does not produce lithium acetylide, but other alkali metals form the corresponding metallic acetylides.
+11.Lithium has low electropositive character, thus its carbonate and nitrate are not so stable and therefore decompose giving lithium oxide. Carbonates of other alkali metals do not decompose.Decomposition of lithium nitrate gives different products than the nitrates of other alkali metals.(s) (g) (g)22 2
+Sodium acetylide 2Na  +   C H            Na C   C Na  + H
+                                             +− − + → ≡
+23 2 2
+3 2 22
+3 22(s) (s) (g)
+(s) (s) (g) (g)
+(s) (s) (g)        Li CO       Li O  + CO
+       4LiNO      2Li O  + 4NO  + O
+2NaNO       2NaN O  + O →
+ →
+ →
+12. Lithium hydroxide when strongly heated , forms lithium oxide but the other alkali metal hydroxides do not show this behaviour.
+13. Lithium reacts with nitrogen to form nitride, while the other members of the group do not give this reaction.Red hot
+22(s) ( ) 2LiOH      Li O  + H O  → l
+23(s) (g) (s) 6Li  + N      2Li N  →
+14. Lithium chloride has an exothermic heat of solution, whereas chlorides of sodium and potassium have endothermic heats of solution.
+15. Lithium carbide is the only alkali metal carbide formed readily 
+        by the direct reaction.10
+2. s-Block Elements eLearn.Punjab1. Beryllium metal is almost as hard as iron and hard enough to scratch glass. 
+The other alkaline earth metals are much softer than beryllium but still harder than the alkali metals.2. The melting and boiling points of beryllium are higher than other alkaline earth metals. (Table 2.2)3. As reducing agents, the group IIA metals are all powerful enough 
+to reduce water, at least in principle. However, with water, beryllium forms insoluble oxide coating that protects it from further attack.2.1.5 Peculiar Behaviour of Beryllium
+4. Beryllium in particular is quite resistant towards complete oxidation, even by 
+acids, because of its BeO coating.5. Beryllium is the only member of its group which reacts with alkalies to give hydrogen. The other members do not react with alkalies.
+(s) (aq) (aq) (g)22 2
+Sodium beryllateBe  + 2NaOH      Na BeO  + H
+                                       →
+2.2 GENERAL BEHAVIOUR OF ALKALI METALS
+The reducing property of an element depends on the magnitude of its ionization energy. Reducing agent is a substance which can lose electrons. Since alkali metals have got low ionization energies, so they are strong reducing agents. They are highly electropositive. They react readily with halogens giving alkali metal halides.Beryllium is the lightest member of the series and differs from the other group IIA elements in many ways.This is due to its small atomic size and comparatively high electronegativity value.The main points of difference are:11
+2. s-Block Elements eLearn.Punjab1. Low ionization energies make the alkali metals, the most reactive family 
+of metals.2. Very high second ionization energies indicate that oxidation number higher than 1, are  ruled out for the alkali metals.3. The cations of alkali metals have low charge and large radii than the radius of any cation from the same period, so the lattice energies of their salts are relatively low. Consequently, most of the simple salts of the alkali metals are water-soluble. Most of the salts are dissociated completely in aqueous solution and the hydroxides are among the strongest bases available.
+4. They react with oxygen and the surface is tarnished due to the oxides 
+formed. Only   lithium burns in air to form the normal oxide, Li
+2O (white 
+solid).
+22
+Lithium oxide(s) (g) (s) 4 Li  + O       2 Li O
+                              →2.2.1 Trends in Chemical Properties of Alkali Metals
+The exposed metals are oxidized almost immediately by oxygen in air, and in the presence of moisture. The oxides formed react with CO
+2 in the atmosphere to form carbonates.
+2 2 23
+Lithium oxide                               Lithium carbonate(s) (g) (s)       Li O  + CO             Li CO  →
+Sodium will undergo a similar reaction, but only if the supply of oxygen is limited. In the presence of excess of oxygen, sodium forms the pale yellow peroxide.12
+2. s-Block Elements eLearn.PunjabThe reaction becomes increasingly vigorous from lithium 
+to caesium. Potassium, rubidium and caesium are so highly reactive that they react with ice even at -100°C.Potassium, rubidium and caesium react with oxygen to form superoxides (orange yellow). Caesium explodes spontaneously when it is in contact with air or oxygen.
+5. Very rapid reactions occur when alkali metals react with water. A small piece of sodium (potassium or lithium) floated on water reacts vigorously to liberate hydrogen and produce metal hydroxide. The reaction is highly exothermic. The energy produced by the reaction may even ignite the hydrogen.
+6. Alkali metals form ionic hydrides with hydrogen.2 22(s) (g) (s) 2Na  + O              Na O
+                             Sodium peroxide →
+22
+Potassium superoxide(s) (g) (s) K  + O             KO
+                            →
+22(s) ( ) (aq) (g) 2Na  + 2H O           2NaOH  + H  ¾ ¾®
+2(s) (g) (s) 2M  + H           2M H+− →
+Rubidium and caesium react violently with hydrogen at room temperature. The other three metals require elevated temperature in order to form the hydride. Lithium and sodium hydrides are useful sources of hydrogen when treated with water.13
+2. s-Block Elements eLearn.Punjab22(s) ( ) (aq) (g) LiH  + H O           LiOH  + H  →
+Due to the presence of hydride ion (H ), the ionic 
+hydrides are used as powerful reducing agents.
+7. Lithium is the only Group IA metal that combines with 
+nitrogen and carbon to form nitride and carbide, respectively.
+23
+Lithium nitride(s) (g) (s) 6Li  + N           2Li N
+                               →
+4
+Lithium carbide(s) (s) (s) 4Li  + C           Li C
+                            →
+Alkali metals react easily with halogens to give halides. Lithium and sodium, for example, react slowly with chlorine at room temperature. Molten sodium burns with a brilliant yellow flame in a chlorine atmosphere to form sodium chloride.
+2(s) (g) (s) 2Na  + Cl           2NaCl  →
+Potassium, rubidium and caesium react vigorously with all the halogens, forming metal halides. All alkali metals form their sulphides when treated with molten sulphur. The general reaction is:    
+                                      
+                                                
+2(s) (s) (s) 2M  + S     M S  →14
+2. s-Block Elements eLearn.Punjab2.2.2 Trends in Chemical Properties of Alkaline-Earth Metals
+1. The alkaline-earth metals burn in oxygen to form oxides or in the case of 
+barium, the peroxide. Beryllium is the least reactive metal in the group. It is resistant to complete oxidation and stable in air at ordinary temperature but oxidizes rapidly at about 800“C.  Therefore beryllium is not tarnished by atmospheric attack but the metal soon loses the silvery appearance.    
+When exposed to air magnesium quickly becomes coated with the layer of MgO.This layer protects the surface from further corrosion at ordinary temperature.
+When magnesium is burnt in air a small amount of nitride is also formed along with magnesium oxide: When barium is heated in air or oxygen at 500 - 600°C, its peroxide is formed.800 C
+2(s) (g) (s) 2Be  + O           2BeO   →
+2(s) (g) (s) 2Mg  + O           2MgO  →
+500 600 C
+22
+Barium peroxide(s) (g) (s) Ba  + O         BaO
+                                  − →
+2. Hydrides are produced by treating the molten alkaline earth metals with hydrogen, usually under high pressures.Magnesium reacts with hydrogen at high pressure and in the presence of a catalyst (Mgl
+2) forming magnesium hydride.15
+2. s-Block Elements eLearn.Punjab3. All Group II-A elements react with nitrogen on heating giving nitrides. 
+For example, magnesium reacts with nitrogen to give magnesium nitride.
+The nitrides hydrolyse vigorously when treated with water, giving ammonia and the respective hydroxides.
+4. With sulphur, magnesium gives magnesium sulphide, MgS. The other Group II-A metals also react similarly.
+Magnesium sulphideMg + S         MgS
+                           →similarly2Pr essure
+22 (MgI )
+22(s) (g) (g)
+(s) (g) (g )Mg  + H         MgH
+      Ca  + H         CaH→
+ →
+2 32
+Magnesium nitride(s) (g) (g) 3Mg  + N         Mg N
+                               →
+32 2 3 2(s) ( ) (g) (s) Mg N  + 6H O           2NH  + 3Mg(OH)  →
+5. All group II-A elements react directly with 
+halogens giving halides of the type MX2  e.g.
+22(s) (g) (g) Ca  + Cl      CaCl  →16
+2. s-Block Elements eLearn.PunjabBeryllium does not react with water even at red hot temperature 
+but remaining alkaline earth metals produce hydroxides with water.6. Magnesium is more reactive than beryllium, even though it is not attacked by cold water. Magnesium reacts slowly with boiling water and quite rapidly with steam to liberate hydrogen.
+Alkali metal oxides dissolve in water to give strong alkaline solutions. For example:2.2.3 General Trends in Properties of Compounds of Alkali and Alkaline 
+Earth metals
+i) Oxides
+22
+22 2 2Li O(s) + H O(   2LiOH (aq)
+2Na O (s) + 2H O(       4NaOH (aq) + O (g) →
+ →l )   
+l)100 C
+22
+Steam(s) (g) (s) (g) Mg  + H O         MgO  + H
+            →
+100 C
+2 22(s) (l) (s) (s) M  + 2H O         M(OH)  + H   →
+The reaction of an alkali metal oxide with water is an acid-base 
+reaction and not an oxidation reduction reaction since no element undergoes a change in its oxidation number. The reaction simply involves the decomposition of water molecule by an oxide ion.
+2
+2(aq) ( (aq) O  + H O       2OH−− →l)
+The basic character of alkali metal oxides increases down the group. Potassium superoxide (K0
+2) has a very interesting use in breathing 
+equipments for mountaineers and in space craft. It has the ability to absorb carbon dioxide while giving out oxygen at the same time.17
+2. s-Block Elements eLearn.PunjabThe solubility of alkaline earth metal oxides in water increases down 
+the group. BeO and MgO are insoluble but CaO, SrO and BaO are soluble and react with water to form the corresponding hydroxides.
+                                                 
+                                                    The basic character of the oxides of alkaline earth metals increases down the group. The tendency for group IIA oxides to form alkaline solution is relatively less than that of alkali metals .
+  2 2 23 2 4KO (s) + 2CO (g)          2K CO (s) + 3O (g)  →
+Animation 2.6 : Reaction with acids
+Source and Credit: Learn
+BeO is amphoteric in nature since it reacts with both acids and bases.18
+2. s-Block Elements eLearn.Punjabii) Hydroxides
+The alkali metal hydroxides are all crystalline solids, very 
+soluble in water except LiOH, which is slightly soluble.They are generally hygrsocopic and are very strong bases, execpt LiOH.The solubility of alkaline earth metal hydroxides in water increases down the group. Be(OH)
+2 is quite insoluble. Mg(OH)2 is sparingly soluble 
+while Ba (OH)2 is more soluble.This increase in solubility is due to low 
+lattice energy of hydroxides which is, in turn, due to higher ionic size. 
+                                    Alkali metal hydroxides are stable to heat except LiOH, while alkaline earth metal hydroxides like Mg(OH)
+2 and Ca(OH)2 
+decompose on heating.   24 4 2
+22 2
+Sodium beryllate(s) (aq) (s) ( )
+(s) (aq) (aq) ( )BeO  + H SO        BeSO  + H O
+BeO  + 2NaOH         Na BeO  + H O
+                                         →
+ →
+
+A saturated solution of Ca(OH)2 in water is called lime water and is 
+used as a test for CO2. A suspension of Mg(OH)2 in water is called 
+milk of magnesia and it is used for treatment of acidity in stomach.22
+22()
+()2LiOH(s)      Li O(s) + H O
+Mg(OH) (s)      MgO(s) + H O →
+ →
+19
+2. s-Block Elements eLearn.Punjabiii) Carbonates
+The carbonates of alkali metals are all soluble in water and are 
+stable towards heat except Li2CO3 which is not only insoluble but 
+also decompose on heating to lithium oxide. The decomposition is made easy because the electrostatic attraction in converting from carbonate to oxide is considerable. In case of large cation like K
++ in K2CO3, the gain in 
+electrostatic attraction is relatively much less and the decomposition is difficult. Sodium carbonate is very important industrial chemical. At temperature below 35.2°C, Na
+2CO3 crystallizes out from water as 
+Na2CO3.10H2O, which is called washing soda. Above this temperature 
+it crystallizes as Na2CO3. H2O. On standing in air, Na2CO3.10H2O 
+slowly loses water and converted to a white powder Na2CO3.H20. The 
+solution of Na2CO3 in water is basic due to hydrolysis of carbonate ion.
+Unlike the alkali metal carbonates, the alkaline earth metal carbonates are only very slightly soluble in water, with the solublity decreasing down the group. They also decompose on heating and the ease of decomposition decreases down the group.23 2 23(s) ( ) (aq) (aq) Na CO  + 2H O       2NaOH  + H CO  →
+32 CaCO (s)      CaO(s) + CO (g)  →
+The ease of decomposition can be related to the size of the metal ion, the smaller the ion, the more is the lattice energy of the resulting oxide and hence higher the stability of the product. 
+iv)  Nitrates
+Nitrates of both alkali and alkaline-earth metals are soluble in water. Nitrates of Li, Mg , Ca and Ba decompose on heating to give O
+2, NO2and 
+the metallic oxide whereas nitrates of Na and K decompose to give different products.20
+2. s-Block Elements eLearn.Punjab3 2 22
+32 2 2
+32 2 2
+3 224LiNO (s)  2Li O (s) + 4NO (s) + O (g)
+2 Mg(NO ) (s)  2MgO (s) + 4NO (g) + O (g)2Ca(NO ) (s)  2CaO (s) + 4NO (g) + O (g)2NaNO (s)  2NaNO (s) + O (g) →
+ →
+ →
+ →
+v) Sulphates
+All the alkali metals give sulphates and they are all soluble in water.
+The solubilities of sulphates of alkaline earth metals, gradually decrease down the group. BeSO
+4 and MgSO4 are fairly soluble in water. 
+CaSO4 is slightly soluble, while SrSO4 and BaSO4 are almost insoluble.
+Calcium sulphate occurs in nature as gypsum CaSO4.2H2O. When 
+it is heated above 100°C, it loses three quarters of its water of crystallization, giving a white powder called’ Plaster of Paris .
+4 2 42 2 2
+Gypsum                                            Plaster of Paris2CaSO  . 2H O      (CaSO )  . H O + 3H O  →
+2.3 COMMERCIAL PREPARATION OF SODIUM BY DOWNS CELL
+Most of sodium metal is produced by the electrolysis of fused sodium chloride. Since the melting point of sodium chloride is 801°C, some calcium chloride is added to lower its melting point and to permit the furnace to operate at about 600
+0C.21
+2. s-Block Elements eLearn.PunjabIn the electrolytic cell, the large block of graphite at the centre is the anode, 
+above which there is a dome for the collection of chlorine. The cathode is a circular bar of copper or iron which surrounds the anode but is separated from it by an iron screen, which terminated in a gauze. The arrangement permits the electric current to pass freely but prevents sodium and chlorine from mixing after they have been set free at the electrodes, Fig. 2.1
+Fig.2.1 Down’s CellMolten 
+Nacl22
+2. s-Block Elements eLearn.PunjabSodium metal rises in a special compartment from which it is taken out at 
+intervals.The cell produces dry chlorine and 99.9 percent pure sodium. The process is carried out at 600°C and it has the following advantages.
+(a) The metallic fog is not produced.
+(b) Liquid sodium can easily be collected at 600°C.(c) Material of the cell is not attacked by the products formed during the electrolysis.During the process the following reactions take place: 
+NaCl             Na+ +Cl-
+Na+ +e-                  Na
+Cl-             1/2Cl2 +1e- At cathode
+At anodeAnimation 2.7 DOWN’S CELL
+Source and Credit: eLearn.Punjab
+→→→23
+2. s-Block Elements eLearn.Punjab2.4 COMMERCIAL PREPARATION OF SODIUM  HYDROXIDE BY THE  
+DIAPHRAGM CELL
+Sodium hydroxide is manufactured 
+on a large scale by the electrolysis of aqueous solution of common salt in a diaphragm cell Fig. 2.2 (a) 
+The cell is made of steel tank. An oblong perforated steel vessel lined inside with asbestos diaph-ragm serves as a cathode. It is provided with a constant level device to keep the vessel filled to the specified level with brine. A graphite anode is held within the U shaped diaphragm and it projects into the salt solution. The steam is blown during the process which keeps the electrolyte warm and helps to keep the perforations clear.
+Fig.2.2(a)  Nelson Cell for the 
+Production of NaOH
+Fig.2.2(b)  The chlorine released at the anode, rises into the dome at the top while hydrogen released at the cathode, escapes through a pipe. The sodium hydroxide solution slowly percholates into a catch basin.24
+2. s-Block Elements eLearn.PunjabAt the cathode hydrogen is discharged by the reduction of water.          2 2Cl (aq)     Cl (g) + 2e−− →The Fig. 2.6 (b) shows a simplified version of the cell in order to 
+understand the purpose of diaphragm. When the electrolysis takes place, chlorine is given off at the anode according to the following reaction.
+222H O + 2e          2OH (aq) + H (g)−− →(Cathode)
+The overall result of the above reactions is that the brine loses its chloride ions and the solution turns increasingly alkaline in cathode compartment.
+We can face two major problems during the working of the cell.1. Chlorine produced can react with hydroxide ions in cold giving hypochlorite ions.
+22Cl (g) + 2OH (aq)            OCl (aq) + Cl ( aq) + H O− −− →
+2. Hydroxide ions may be attracted towards anode, where they can be discharged releasing oxygen gas. This oxygen gas may contaminate the chlorine and renders it impure.
+The first problem is solved by using asbestos diaphragm. This keeps 
+the two solutions separate while allowing sodium ions to move towards the cathode. This movement of ions keep the current following through the external current.
+The second problem is solved keeping the level of brine in anode 
+compartment slightly higher, this keeps the direction of flow of liquid toward the cathode and thus preventing the possibility of hydroxides ions to reach the anode.25
+2. s-Block Elements eLearn.PunjabThe solution that flows out of the cathode compatment contains 11% 
+NaOH and 16% NaCl. Evaporation of this solution crystallizes the less soluble NaCl which is filtered off, the liquid left contains about 50% NaOH and only 1% NaCl as an impurity. For commercial purposes this small impurity is not important.
+2.5 ROLE OF GYPSUM IN AGRICULTURE AND INDUSTRY
+(a) Role of Gypsum in Agriculture
+Gypsum, a hydrated calcium sulphate, is a mineral that occurs in large deposits throughout the world.Gypsum is applied to the soil as a source of calcium and sulphur. The calcium supplied by gypsum in fertilizers is of importance in crop production in area where soils are subject to extensive leaching.
+Sulphur has been recognised as an essential constituent of plants. For centuries, sulphur compounds had been applied to soils because of their observed beneficial effect on plant growth. Aside from serving as a constituent of protein and various other compounds in plants, sulphur has an influence on chlorophyll development in plant leaves. Although not a constituent of chlorophyll, plants deficient in sulphur exhibits a pale green colour.The root system of several plants have been observed to be greatly enlarged by the application of sulphur. It has been reported that good crops are produced by the 
+application of sulphur containing materials such as gypsum.26
+2. s-Block Elements eLearn.PunjabWhen gypsum is heated under carefully controlled conditions, it loses 
+three quarters of water of crystallization. The resulting product is called Plaster of Paris. Gypsum must not be heated too strongly as the anhydroussalt is then formed which absorbs water slowly. Such plaster is called‘Dead burnt’ .
+Plaster of Paris when mixed with half of its weight of water, it forms 
+a plastic type viscous mass and then sets to a hard porous mass. This process is completed within 10 to 15 minutes. During the process expansion about 1% in volume also occurs, which fills the moulds completely and thus a sharp impression is achieved Plaster of Paris is used for making plaster walls, casts of statuary,coins, etc.
+It is used in surgery, Plaster of Paris bandages are used for holding in 
+place fractured bones after they have been set.
+Special plasters contain plaster of Paris and other ingredients which 
+vary with the demands of the use to which they are to be put.Two varieties of plasters are made.(b) Role of Gypsum in Industries
+(1) Cement Plaster.
+It is plaster of Paris to which usually glue or other oils have 
+been added as retarders to prolong the time of setting.
+(2) Hard Finish Plasters
+These are made by the calcination of the anhydrous sulphate with alum or borax.These plasters are set very slowly but give a hard finish. When mixed with wood pulp and allowed to set in the form of boards, it forms a material, much used in the construction ofbuildings as wall boards and partitions. Gypsum is also used as a filler in paper industries.27
+2. s-Block Elements eLearn.PunjabPortland cement is made by strongly heating a finely powdered mixture 
+of clay and limestone. The final product, known as clinker, is cooled and then ground into a very fine powder. During the grinding there is added about 2% of gypsum which prevents the cement from hardening too rapidly.The addition of gypsum increases the setting time of cement.
+2.6 ROLE OF LIME IN AGRICULTURE AND INDUSTRY
+Lime, (CaO) is a soft, white compound which is obtained by the thermal decomposition of CaCO
+3. 
+(a) Role of Lime in Agriculture
+Large quantities of calcium oxide are used in agriculture for neutralizing acidic soils. 
+It has been found that application of lime to acidic soils 
+increases the amount of readily soluble phosphorus.Calcium oxide is also used in large amounts for making lime-sulphur sprays which have a strong fungicidal action. The hydroxide of calcium is obtained when the oxide of the calcium is allowed to react with water. The process is called slaking of lime and it is an exothermic reaction. 
+22
+Slaked limeCaO + H O          Ca(OH)
+                                     →28
+2. s-Block Elements eLearn.PunjabThe presence of calcium is essential for the normal development of 
+plants. The quantity of calcium required by different plants varies considerably. An adequate supply of calcium appears to stimulate the development of root hairs and, in fact, the entire root system.Calcium is also necessary for normal leave development and tends to accumulate in leaves as well as in bark. An adequate supply of calcium is also essential for the optimum activity of microorganisms that produce nitrates.The effect of calcium on the supply of available phosphorus in the soil is of special significance. Soils containing sufficient calcium are slightly alkaline in nature.When a deficiency of calcium exists various substances such as aluminium and manganese may accumulate in plants in harmful concentrations.Functions of Calcium in Plant-Growth
+1. Large quantities of lime are used in the extraction and refining of metals.2. Lime is also used in paper, cement and leather industries3. The ability of lime to react with sand at high temperature forming calcium silicate(CaSiO
+3) serves as an important basis for glass manufacture.
+4. Lime is used in ceramic industry for producing different types of sanitary materials.(b) Role of Lime in Industries
+5. Ordinary mortar, also called lime mortar, is prepared by mixing freshly prepared slaked lime (one volume) with sand (three or four volumes) and water to form a thick paste. This material when placed between the stones and bricks hardens or sets, thus binding the blocks firmly together. The equations for the chemical reactions which take place when mortar hardens are:
+22
+2 2 32
+2 2 32       CaO + H O      Ca(OH)
+Ca(OH)  + CO       CaCO  + H O
+Ca(OH)  + SiO       CaSiO  + H O →
+
+→
+ →29
+2. s-Block Elements eLearn.Punjab6. Lime is also used in refining of sugar and other food products.
+7. Lime is used in the manufacturing of bleaching powder, which is used for the bleaching of the fabric and paper pulp.8. A suspension of the calcium hydroxide is called milk of lime and is used as a white-wash.9. When lime is heated with coke at about 2800°C in an electric furnace, calcium carbide is produced, which on hydrolysis yields acetylene (C
+2H2).
+                                                 
+                                                    
+2
+Calcium carbideCaO + 3C        CaC  + CO
+                                 →
+10. Lime is often employed as a dehydrating agent, for example, in the preparation of absolute alcohol and the drying of ammonia gas. A mixture of sodium hydroxide and calcium hydroxide (soda lime) is often employed to remove both water and carbon dioxide from certain gases.
+Animation 2.8 : Gals(The most radio active alkali 
+metal 2)
+Source and Credit: Targeticse30
+2. s-Block Elements eLearn.PunjabKey Points
+1. T he elements of group IA except hydrogen are called ‘alkali metals’ while those 
+of group IIA are named as alkaline earth metals.
+2.
+ A
+lkali metals have only one electron in s-orbital of their valence shell. They 
+lose one electron of the valence shell forming monovalent positive ions.
+3.
+ A
+lkaline earth metals have two electrons in s-orbital of their valence shell. They 
+lose two electrons forming dipositive ions M2+.
+4.
+ Spodumene
+, Chile saltpetre, trona, borax, carnallite, sylvite, alunite, halite, 
+natron, are the common minerals of alkali metals.
+5.
+ B
+eryl, magnesite, dolomite, epsom salt, asbestos, calcite, gypsum, strontionite 
+and barite are the important minerals of alkaline earth metals. 
+6.
+ Lithium beha
+ves different from the other alkali metals.
+7.
+ Lithium f
+orms only normal oxide, whereas the others form higher oxides like 
+peroxides and superoxides.
+8.
+ B
+eryllium is the only member of group II, which reacts with alkalies to give 
+hydrogen. The other member do not react with alkalies.
+9.
+ N
+itrates of lithium, magnesium and barium on heating give oxygen, nitrogen 
+peroxide and the corresponding metallic oxides.
+10.
+ W
+hen  gypsum is heated above 100°C, it loses three quarters of its water of 
+crystallization, giving white powder of CaSO4.1/2H2O which is called Plaster of 
+Paris.
+11.
+ S
+odium is prepared by the electrolysis of molten sodium chloride in Down’s 
+cell.
+12.
+ C
+alcium is necessary for development of leaves and it tends to accumulate in 
+leaves and bark. An adequate quantity of calcium is essential for the optimum 
+activity of microorganisms that produce nitrates.
+13.
+ Lime is used in paper and glass industr
+ies. It is also used for refining sugar 
+and other food products.31
+2. s-Block Elements eLearn.PunjabEXERCISE
+Q1.     Fill in the blanks:
+ (i)       Alkali metals are reactive than alkaline-earth metals. (ii)      Alkali metals decompose water vigorously producing________ and hydrogen. (iii)     When heated in a current of dry hydrogen, alkaline earth metals form white           crystalline of the type MH
+2.
+ (iv)     The beryllium hydroxide, like the hydroxide of aluminium is amphoteric,           while the hydroxides of the other members of the group IIA are________ . (v)      The elements of the group IA are termed as alkali metals, because their________are           alkaline. (vi)     Spodumene is an ore of_______ metal. (vii)    Alkali metal nitrates on heating give the corresponding_______ and oxygen. (viii)   Na
+2CO3.H2O is the chemical formula of a mineral of sodium which is 
+known as______ . (ix)     Metallic bicarbonates are decomposed on heating into their carbonates, along            with________ and________ .(x)       Metal nitrates other than the alkali metals on heating decompose into the           corresponding metal__________along with the evolution of nitrogen peroxide and           oxygen.32
+2. s-Block Elements eLearn.PunjabQ 4. (a) Give the names, electronic configurations and occurrence of s-block 
+elements.        (b) Discuss the peculiar behaviour of lithium with respect to the other members  of alkali metals.Q 5. Discuss the trends in chemical properties of compounds like oxides, hydroxides,        carbonates, nitrates and sulphates of IA and IIA group elements.Q 6. Compare the chemical behaviour of lithium with magnesium.Q 7. (a) Mention the properties of beryllium in which it does not resemble with its        own family.        (b) Why the aqueous solution of Na
+2CO3 is alkaline in nature?
+Q 8. (a) Describe with diagram the manufacture of sodium by Down’s cell.        (b) Point out the three advantages of this process.Q9.  (a) Compare the physical and chemical properties of alkali metals with those of alkaline earth metals.Q2.     Indicate True or False. (i)       Group IA elements are called alkali metals because their chlorides are alkaline in           nature   (ii)       Alkali metals are very good conductor of electricity.  (iii)     The hydroxides of alkali metals and alkaline-earth metals are soluble in water. (iv)     Plaster of Paris is a hemihydrate. (v)      Alkali metals have low melting and boiling points as compared to those of alkaline           earth metals. (vi)     Lithium carbonate is decomposed to its oxide, but the carbonates of the other alkali           metals are stable towards heat. (vii)     All alkali metal sulphates are insoluble in water. (viii)   Lithium combines with nitrogen to form lithium nitride but other alkali metals do not           react with nitrogen. (ix)     Trona is a mineral of lithium. (x)      Alkaline earth metals are stronger reducing agents than alkali metals.33
+2. s-Block Elements eLearn.Punjab       (b) What happens when:
+         (i) Lithium carbonate is heated.        (ii) Lithium hydroxide is heated to red hot.        (iii) Beryllium is treated with sodium hydroxide.        (iv) Lithium hydride is treated with water.Q10.Give formulas of the following minerals.        (a) Dolomite           (b) Asbestos                      (c) Halite                  (d) Natron        (e) Beryl                   (f) Sylvite                           (g) Phosphorite      (h) Chile saltpetreQ.11. Answer the following questions briefly.        (a) Why alkali and alkaline earth metals are among the reactive elements of the        periodic table?         (b) Why line water turns milky with CO
+2but becomes clear with excess 
+CO2?
+         (c)How gypsum is converted into plaster of paris?        (a) Why 2% gypsum is added in the cement?        (e)Why lime is added to an acidic soil?         (f) How lime and sand are used to make glass?        (g) How lime mortar is prepared?

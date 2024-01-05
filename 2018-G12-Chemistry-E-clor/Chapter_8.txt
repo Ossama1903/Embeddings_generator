@@ -1,0 +1,896 @@
+CHAPTER
+8ALIPHATIC 
+HYDROCARBONS
+Animation 8.1 : Cycloalkanes
+Source and credit : Stackexchange2
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab1. Ho w to name the aliphatic hydrocarbons according to IUPAC 
+rules.
+2.
+ T
+he synthesis of alkanes, alkenes and alkynes and their important 
+reactions.
+3.
+ T
+he comparison of reactivity of s bond and p bond.
+4.
+ A
+bout the free radical nature of reactions of alkanes and electrophilic 
+addition of alkenes and alkynes.
+5.
+ T
+he comparison of reactivities of alkanes, alkenes and alkynes.In This Chapter You Will Learn:
+8.1    INTRODUCTION
+Hydrocarbons are organic compounds which contain carbon and hydro -
+gen only. The number of such compounds is very large because of the prop -
+erty of catenation. Hydrocarbons have been divided into various class-
+es on the basis of structure of the chain or size and nature of the ring.3
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabIf all the valencies of the carbon atoms in a molecule are fully satisfied and
+these cannot further take up any more hydrogen atoms, then thehydrocarbons are named as saturated hydrocarbons or alkanes. The compounds of carbon and hydrogen in which all the four valen-cies of carbon are not fully utilized and they contain either a double or a triple bond, such compounds are called unsaturated hydrocarbons.
+Those unsaturated hydrocarbons which contain a double bond are called alkenes while those containing a triple bond are called alkynes.Classification of hydrocarbons has been’ shown at page 136.
+8.2 NOMENCLATURE
+8.2.1 Common or Trivial Names:
+In the early days, the compounds were named on the basis of their history, the method of preparation or name of the person working on it, e.g., the name marsh gas was given to methane because it was found in marshy places. Acetic acid derives its name from vinegar (Latin, acetum means vinegar). Organic compounds were named after a person, like barbituric acid after Barbara. Such a system may have a certain charm but is never manageable.
+For alkanes with five or more carbon atoms, the root word is derived from 
+the Greek or Latin numerals indicating the number of carbon atoms in a molecule, and the name is completed by adding ‘ane’ as a suffix, e.g. pentane (C
+5H12), hexane (C6H14), heptane (C7H16), etc. The common or 
+trivial names are applicable to all isomers of a given molecular formula. The prefixes n, iso, neo are, however, to differentiate between isomers.4
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab3223CH CH CH CH
+n-butane33|
+3H C CH CH
+CH
+ Isobutane
+32223CH CH CH CH CH
+n-pentane
+3 23|
+3H C CH CH CH
+CH
+Isopentane
+These prefixes have only limited use, as they are not workable with 
+complex molecules. Moreover, common names give only minimum information about the structure of the compounds.Alkenes are similarly named by replacing the ending -ane of the name of alkane with ylene. e.g.
+22H C=CH
+Ethylene32H C CH =CH
+Propylene3
+|
+32CH
+H C C=CH
+Isobutylene3
+|
+33|
+3             CH
+H CCC H
+CH
+Neophentane5
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab8.2.2 IUPAC Names
+In 1889 the solution for naming the organic compounds systematically 
+was sought by International Chemical Congress. A report was accepted in 1892 in Geneva but it was found incomplete. In 1930, International Union of Chemistry (IUC) gave a modified report which is also referred as Liege Rules. This report was further modified by International union of Pure and Applied Chemists (IUPAC) in the year 1947. Since that date the union has issued periodic reports on rules for the systematic nomenclature of organic compounds, the most recent of which was published in the year 1979. IUPAC system of nomenclature is based on the following principle. 
+‘Each different compound should have a different name’ .Thus through a systematic set of rules, the IUPAC system provides different names for more than 7 million known organic compounds.
+Nomenclature of Alkyl Groups:
+If we remove one hydrogen atom from an alkane, we obtain what is called an alkyl group. These alkyl groups have names that end in —yl.When the alkane is unbranched and the hydrogen atom that is removed is a terminal hydrogen atom, the names are straight forward:
+Alkane Alkyl Group Abbreviation
+ 3CH H Me-
+Methane Methyl
+32CH CH H 32CH CHEt-
+Ethane Ethyl
+322CH CH CH H 322CH CH CHPr-
+Propane n-propyl
+3222CH CH CH CH H3222CH CH CH CHn-Bu-
+n-Butane n-Butyl3CH6
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab8.2.3 Nomenclature of Alkanes
+Branched-chain alkanes are named according to the following rules.
+1.  Locate the longest continuous chain of carbon atoms; this chain determines 
+the parent name for the alkane. We designate the following compound as a hexane because the longest continuous chain contains six carbon atoms.
+The longest continuous chain may not always be obvious from the way the formula is written. Notice, for example, that the following alkane is designated as a heptane because the longest chain contains seven carbon atoms.
+2.Number the longest chain beginning from the end of the chain nearer the substituent. Applying this rule, we number the two alkanes shown above in the following way.
+3 222 3|
+3H C CH CH CH CH CH
+CH7
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab3.Use the numbers obtained by the application of rule 2 to designate the 
+location of the substituent group. The parent name is placed last, and the substituent group, preceded by the number designating its location on the chain, is placed first. Numbers are separated from words by a hyphen. The systematic names ot the two compounds shown above will then be:
+4. When two or more substituents are present, give each substituent a number 
+corresponding to its location on the longest chain. For example, we designate the following compound as 4 -ethyl-2 -methylhexane.
+The substituent groups should be listed alphabetically (i.e. ethyl before methyl). 
+In deciding on alphabetical order disregard multiplying prefixes such as “di” and “tri” .5.  When two substituents are present on the same carbon atom, use that 
+     number twice.8
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab
+6.When two or more substituents are identical, indicate this by the use of the 
+prefixes di, tri , tetra , and so on. Then make certain that each and every substituent has a number. Commas are used to separate numbers from each other.
+Application of these six rules allows us to name most of the alkanes that we shall encounter. Two other rules, however, may be required occasionally.
+7.When two chains of equal length compete for selection as the parent chain, choose the chain with the greater number of substituents.9
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab
+8. When branching first occurs at an equal distance from either end of the 
+longest chain, choose the name that gives the lower number at the first point of 
+difference.
+8.2.4 Nomenclature of Alkenes:
+The IUPAC rules for naming alkenes are similar in many respects to those for naming
+ alkanes.
+1.Select the longest continuous chain that contains the C = C as the parent 
+chain. Change the ending of the name of the alkane of identical length from — ane to — ene, e.g.,
+2.Number the chain so as to include both carbon atoms of the double bond. Numbering begins from the end nearer to the double bond.10
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab3.Designate the location of the double bond by using the number of the first 
+atom of the double bond as a prefix.
+12 3 4
+2 23H C CH CH CH=
+1-Butene12 3 4 5
+2 223H C CH CH CH CH=
+1-Pentene
+4.Indicate the locations of the substituent groups by the numbers of the  carbon atoms to which they are attached.
+5.If the parent chain contains more than one double bonds, they are alkadienes for two, alkatrienes for three and so on.
+1 2 34
+22CH CH CH CH = =
+1,3-Butadiene
+8.2.5 Nomenclature of Alkynes:
+1.The largest continuous carbon chain containing triple bond is selected. The name of the identical alkane is changed from ane to — yne. e.g.
+21
+CH CH≡
+Ethyne3 21
+3H C C CH ≡
+Propyne11
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab2.The position of triple bond is shown by numbering the alkyne, so that minimum 
+number is assigned to the triple bond.
+4 3 21
+32H C CH C CH ≡
+1-Butyne
+3.If a hydrocarbon contains more than one triple bonds, it is named as alkadiyne and triyne, etc. depending on the number of triple bonds.
+4.If both double and triple bonds are present in the compound then ending 
+enyne is given to the root.
+a.Lowest possible number is assigned to a double or a triple bond irrespective 
+of whether ene or yne gets the lower number.≡≡65 4 3 21
+22 HC C CH CH C CH 
+               1,5 -Hexadiyne
+≡12 3 4 5
+3 HC C CH=CH CH
+3 -Penten -1- yne     
+b.In case a double and a triple bond are present at identical positions, the double 
+bond is given  the lower number.
+= ≡=12 345
+23H CC H CCC H
+     1-Penten - 3 - yne12
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab8.3 ALKANES OR PARAFFINS
+Alkanes are the simplest organic compounds made up of carbon and 
+hydrogen only. They have a general formula of CnH2n+2. In these compounds 
+the four valencies of carbon atoms are satisfied by single bonds to either other carbon atoms or hydrogen atom. They are, therefore known as Saturated Hydrocarbons. Methane (CH
+4) is the simplest member of this family. Each 
+carbon atom in alkane is sp3 hybridized and has a tetrahedral geometry.
+8.3.1 General Methods of Preparations
+(1) Hydrogenation of Unsaturated Hydrocarbons(Sabatier-Sendem’s Reaction)
+Hydrogenation of alkenes or alkynes in the presence of nickel at 200-300
+OC
+ yields alkanes.
+oNi
+22 2 3 200 300 CR CH = CH + H R CH CH− →
+Alkene
+The hydrogenation can also be carried out with platinum or 
+palladium at room temperature but they are expensive than nickel.The method is of industrial importance. Production of vegetable ghee by the catalytic hydrogenation of vegetable oil (unsaturated fatty acids) is an example of the application of this method on industrial scale.
+(2) From Alkyl Halides:
+An alkane is produced when an alkyl halide reacts with zinc in the presence of an aqueous acid.− →oNi
+22 2 3 3 200 300 Ce.g  CH = CH + H CH CH
+                                                                 Ethane13
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab Alkyl halide                                          Alkane
+3 42 CH I + Zn + H + I CH  + ZnI+− →
+ 
+Methyl iodide                                       Methane
+ 2-Bromo-butane                                                                                       n-Butane+− →2 R X + Zn + H + X R H + ZnX
+32 3|CH CH CH CH
+                          Br+− →3223 + Zn + H + Br CH CH CH CH + ZnBr
+Alkanes can also be prepared from alkyl halides using palladium-charcoal 
+as acatalyst. The method is known as Hydrogenolysis (hydrogenation accompanied by bond cleavage)
+∆  →Pd/C
+2 R X + H R H + H X
+(3) Decarboxylation of Monocarboxylic Acids
+i) When sodium salts of fatty acids are heated with soda-lime (prepared 
+by soaking quick lime (CaO) with caustic soda solution and drying the product). They eliminate a molecule of CO
+2 to form alkanes.
+e.g14
+8. ALIPHATIC HYDROCARBONS eLearn.Punjabii)    Kolbe's Electrolytic Method
+When a concentrated solution of sodium or potassium salt of a mono 
+carboxylic acid is electrolysed, an alkane is produced. This method is only suitable for the preparation of symmetrical alkanes i.e. those of the type R—R. Methane cannot be prepared by this method.
+Electrolysis
+2 22 2RCOO Na 2 H O R R+2CO 2NaOH+H−++  → +
+It is known to involve the following mechanism.When potassium salt of acetic acid is electrolysed, acetate ion migrates towards the anode gives up one electron to produce acetate free radical (CH
+3COO), which decomposes to give a methyl free radical 
+(CH3) and CO2.Two such methyl radicals combine to give ethane...
+At Anode
+  →||
+3 32              O
+2H C C O 2CH + 2CO
+33 3 3CH CH H C CH+  →
+At Cathode 
+222H O + 2e 2OH + H− →
+2K + 2OH 2KOH+ →
+This reaction has limited synthetic applications as it forms a number of side products.15
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab(4) From Carbonyl Compounds (Aldehydes or Ketones)
+The carbonyl groups of aldehydes or ketones are reduced to methyl or 
+methylene group respectively by either Clemmensen or Wolf-Kishner’s reduction. In the former reaction a ketone is reduced to an alkane using zinc amalgam and hydrochloric acid whereas in the later an aldehyde is reduced to alkane with hydrazine in the presence of KOH.
+Acetone Propane3
+(5) From Grignard Reagents
+Alkyl halides react in anhydrous ether with magnesium to form alkyl magnesium halides, known as Grignard Reagent.They decompose on treatment with water or dilute acid to give alkanes.
+ether16
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab8.3.2. Physical Properties
+1. Alkanes containing upto four carbon atoms are colourless, odourless gases 
+while pentane to heptadecane (C5 to C17) are colourless, odourless liquids. The 
+higher members from C18 onwards are waxy solids which are also colourless and 
+odourless.
+2. Alkanes are non-polar or very weakly polar and are insoluble in polar solvents
+ like water, but soluble in non-polar solvents like benzene, ether, carbon tetra 
+chloride,etc.
+3. Their physical constants like boiling .points, melting points, density, etc increase 
+with the increase in number of carbon atoms, whereas solubility decreases 
+with increase in molecular mass. The boiling point increases by 20 to 30°C for addition of each CH
+2 group to the molecule. The boiling points of alkanes 
+having branched chain structures are lower than their isomeric normal chain alkanes, e.g. n-butane has a higher boiling point-0.5
+0 C than isobutane (-1 1 .7°C).
+4.The melting points of alkanes also increase with the increase in molecular mass     but this increase is not so regular.
+8.3.3. Reactivity of Alkanes
+The alkanes or paraffins (Latin: parum = little, affins = affinity) under ordinary condition are inert towards acids, alkalis, oxidizing and reducing agents. However, under suitable conditions, alkanes do undergo two types of reactions.1.
+ Substitution R
+eactions
+2.
+ T
+hermal and Catalytic Reactions
+These reactions take place at high temperature or on absorption of light energy through the formation of highly reactive free radicals.
+The unreactivity of alkanes under normal conditions may be explained on the basis of the non-polarity of the bonds forming them. The eletronegativity values of carbon (2.5) and hydrogen (2.1) do not differ appreciably and the bonding electrons between C-H and C-C are equally shared making them almost non-polar. In view of this, the ionic reagents such as acids, alkalies, oxidizing agents, etc find no reaction site in the alkane molecules to which they could be attached.17
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabInertness of  s-bond
+The unreactivity of alkanes can also be explained on the basis of inertness of a 
+s-bond. In a s -bond the electrons are very tightly held between the nuclei which makes it a very stable bond. A lot of energy is required to break it. Moreover the electrons present in a s-bond can neither attack on any electrophile nor a 
+nucleophile can attack on them. Both these facts make alkanes less reactive.
+8.3.4 Reactions
+1. Combustion 
+Burning of an alkane in the presence of oxygen is known as Combustion.
+Complete combustion of an alkane yields CO2, H2O and heat. 
+The amount of heat evolved when one mole of a hydrocarbon is burnt to
+ CO2 and H2O is called heat of combustion, e.g;
+Although the reaction is highly exothermic, it requires very high temperature to initiate it, e.g. by a flame or a spark.( ) ( ) ( ) ( ) +   → + +Flame -1
+42 22CH g   2O g   CO g   2H O g   891kJmol
+Combustion is the major reaction occurring in the internal combustion engines of automobiles. A compressed mixture of alkanes and air burns smoothly in the internal combustion engine and increases its efficiency.
+2. Oxidation
+Oxidation of methane under different conditions gives different products. 
+i) Incomplete oxidation occurs in a limited supply of oxygen 
+or air and results in the formation of CO and carbon black.
+( ) ( ) ( ) ( ) ( )Flame
+42 2 3CH g 4O g 2CO g 6H O g C s +   → + +18
+8. ALIPHATIC HYDROCARBONS eLearn.Punjabii) Catalytic Oxidation: Lower alkanes when burnt in the presence of metallic 
+catalysts, at high temperature and pressure, result in the formation of useful
+ products.
+Catalytic oxidation of alkanes is used industrially to prepare higher fatty acids used in soap and vegetable oil industries.
+3. Nitration:
+It is a substitution reaction of alkanes in which a hydrogen atom of an alkane is replaced by nitro group (-NO
+2). Alkanes undergo vapour-phase 
+nitration under drastic condition (at 400-500°C) to give nitroalkanes, e.g.
+Nitroalkanes generally find use as fuels, solvents, and in organic synthesis.[ ] oCu
+43 4 00 C/200atmCH O H C OH +  →
+Formic acidMethyl alcohol
++  →oCu
+32 400 C/200atmH C OH O HCHO+H O
+                                                           Formaldehyde
+[ ]+  →oCu
+400 C/200atmHCHO O HCOOH
+[ ]+  →oCu
+22 400 C/200atmHCOOH O CO + H O
+Nitromethane+   →o450 C
+4 2 32 2 CH HONO CH NO  + H O19
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab4. Halogenation 
+Alkanes react with chlorine and bromine in the presence of sunlight 
+or UV light or at high temperature resulting in the successive replacement of hydrogen atoms with halogens called halogenation. Extent of halogenation depends upon the amount of halogen used.
+Reaction of alkanes with fluorine is highly violent and results in 
+a mixture of carbon, fluorinated alkanes and hydrofluoriq acid. Iodine does not substitute directly because the reaction is too slow and reversible. The order of reactivity of halogens is F
+2>Cl2>Br2>I2.
+Halogenation is believed to proceed through free radical mechanism. It involves the following three steps.
+By repetition of step II, a mixture of halogen substituted products are obtained.The reaction is not synthetically so important.
+hCl Cl Cl + Clυ −− →
+           Step I ( Initiation )
+S
+tep 2(Propagation )
+h
+33CH Cl Cl CH Cl Clυ+  → +��
+ ]
+33CH Cl CH Cl +  →��Step 3(Termination )υ+  → +�� h
+33H C H Cl CH HCl20
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabTetrachloromethane or
+carbon tetrachloride
+Chloroform
++  → +��
+22 Cl CH Cl Cl Cl CH Cl Cl
+                                                  Dichloromethane
++
++21
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab8.3.5 Uses of Methane
+Methane is used:
+(i)      as a fuel and as an illuminating gas.
+(ii)   for the preparation of methylchloride, dichloromethane, chloroform and carbon tetrachloride.
+(iii)  for the industrial preparation of methyl alcohol, formaldehyde and hydrogen cyanide.(iv)  for the preparation of carbon black used in paints, printing  inks and automobile tyres.  (v)  is used to manufacture urea fertilizer.
+8.4 ALKENES
+Alkenes have two hydrogen atoms less than the coresponding saturated hydrocarbons. They are also known as Olefins (derived from Latin word olefiant meaning oil forming) because lower members form oily products on treatment with chlorine or bromine. The simplest olefin is C
+2H4, ethene.
+Alkene having one double bond are known as mono-enes with general formula C
+nH2n. Alkenes containing two double bonds are called dienes.
+8.4.1 General Methods of Preparation
+1. Dehydrohalogenation of Alkyl Halides
+Alkyl halides on heating with alcoholic potassium hydroxide undergo dehydrohalogenation i.e. elimination of a halogen atom together with a hydrogen atom from adjacent carbon atoms.22
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabAlcohol
+22 23 32 H C CH CH Br KOH H C CH CH KBr H O +   → = + +
+2. Dehydration of Alcohols
+Alcohols when dehydrated in the presence of a catalyst give alkene . 
+The best procedure is to pass vapours of alcohol over heated alumina.
+P4O10, (conc)H2SO4 and H3PO4 are also used for dehydration. The ease of 
+dehydration of various alcohols is in the order. Ter. alcohol > Sec. alcohol >Pri .alcohol
+Thus
+24
+o75% H SO
+2222 140 170 C|R CH CH R CH=CH + H O
+OH− →
+24
+o60% H SO
+23 3 2 100 C|R CH CH CH R CH=CH CH + H O
+OH →
+23
+oAl O
+2222 340 450 C|R CH CH R CH=CH + H O
+OH− →
+Alcohol Alkene
+Primary Alcohol 
+Secondary Alcohol 
+Tertiary Alcohol   → +Alc. KOH
+2222|R CH CH R CH CH KX + H O
+X=
++   → +Alcohol
+2 222 2| |H C CH  KOH H C=CH KBr + H O
+H Br23
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab3. Dehalogenation of Vicinal Dihalides
+Vicinal dihalides have two halogens on adjacent carbon atoms. Dehalogenation
+occurs when dihalide is treated with Zinc dust in an anhydrous solvent like methanol or acetic acid.
+4. Electrolysis of Salts of Dicarboxylic acid
+    (Kolbe’s Electrolytic Method)
+When sodium or potassium salts of the dicarboxylic acid like succinic acid 
+are subjected to electrolysis in an aqueous solution, alkenes are formed.
+At Anode3CH OH
+222| |R CH CH Zn H C=CH R+ ZnX
+XX  →
+Alkene
+2-Butene   →3CH OH
+3 3 3 32||H C CH CH CH + Zn H C CH=CH CH + ZnBr
+Br Br
+ Disodium Succinate+-+ - +
+22
+       |       |H C COO Na                  H C COO 2Na
+����� ������ �
+2Ionization
+HO + --
+22H C COO Na H C COO24
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabAt Cathode
+5. Partial Hydrogenation of Alkynes: -
+Controlled hydrogenation of alkynes with hydrogen gas in an equimolar ratio 
+over heated catalysts, gives alkenes. The catalyst is finely divided palladium supported on BaSO
+4 and poisoned by treatment with quinoline (Lindlar’s catalyst).
+A trans alkene can be obtained by treating an alkyne with Na in liquid NH3 at -33°C.
+8.4.2 Physical Properties
+1. F irst three members i.e. ethene, propene and butene are gases at room 
+temperature while C5 to C15 are liquids and the higher members are solids.
+Cis-Alkene222H O + 2e 2OH + H−− →
+2Na + 2OH 2NaOH+− →
++
+trans-Alkene
+2.  They are insoluble in water but soluble in alcohol.3.  They have characteristic smell and burn with luminous flame.4.   Unlike alkanes, they show weakly polar properties because of sp
+2  
+           hybridization.25
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab8.4.3 Reactivity of a p-bond
+In the formation of a p-bond, the partially filled p -orbitals overlap in a 
+parallel fashion. The probability of finding electron is thus away from 
+the line joining the two nuclei. Due to this reason p-electrons are less firmly held between the nuclei. A p-bond is, therefore, a weak bond as compared to a s-bond. During a reaction it breaks comparatively easily rendering alkenes as reactive group of compounds. Moreover, the loosely held p-electrons are more exposed to attack by the electrophilic reagents. Alkenes, therefore, undergo electrophilic reactions very easily.
+8.4.4 Reactions of Alkenes
+A. Addition Reactions 1. Addition of Hydrogen (Hydrogenation)
+Hydrogenation is a process in which a molecule of hydrogen is added to an 
+alkene in the presence of a catalyst and at moderate pressure (1-5 atm.) to give a saturated compound. The process is known as Catalytic Hydrogenation.
+It is a highly exothermic process and the amount of heat evolved when one mole of an alkene is hydrogenated is called Heat of Hydrogenation. The heat of hydrogenation of most alkenes is about 120kJmole
+-1 for each double bond 
+present in a molecule. The catalysts employed are Pt, Pd and Raney nickel.
+Raney Nickel
+It is prepared by treating a Ni — Al alloy with caustic soda.
+Most alkenes are hydrogenated over Raney nickel at about 100°C and upto 3-
+atmosphere pressure. → +2 223
+2Ni Al + NaOH+ H O Ni + NaAlO  H
+3-Methyl-l-butene iso Bentane26
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabCatalytic hydrogenation of alkenes is used in the laboratory as well as 
+in industry. In industry, it is used for the manufacture of vegetable ghee from vegetable oils. In the laboratory, it is used as a synthetic method as well as an analytical tool, as the reaction is generally quantitative.
+2. Addition of Hydrogen Halides
+Alkenes react with dry gaseous hydrogen halides to form alkyl halides. The order of reactivity of halogen aicds is HI > HBr > HC1.
+23|R CH=CH + HX R CH CH
+X →
+22 3 2
+|H C=CH + HCl H C CH
+Cl →
+The addition of a hydrogen halide to an alkene takes place in two steps.Alkene accepts the proton of hydrogen halide to form a carbocation.27
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabThe carbocation then reacts with the halide ion.
+The addition of hydrogen halide over an unsymmetrical alkene is governed by 
+Markownikov’s Rule. The rule states that; in the addition of an unsymmetrical reagent to an unsymmetrical alkene, the negative part of the adding reagent goes to that carbon, constituting the double bond, which has least number of hydrogen atoms.28
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab3. Addition of Sulphuric Acid
+When alkenes are treated with cold concentrated sulphuric acid, they are 
+dissolved because they react by addition to form alkyl hydrogen sulphate. For example,
+These alkylhydrogen sulphates on boiling with water decompose to give corresponding alcohols. The overall reaction involves the addition of water to an alkene and it is, therefore, called hydration reaction.
+o100 C
+3 2 3 2 3 2 24 H C CH O SO H + H O H C CH OH + H SO   →
+4. Addition of Halogens
+The alkenes on treatment with halogen in an inert solvent like carbon tetrachloride 
+at room temperature give vicinal dihalides or 1,2 dihalogenated products. For example,
+Br2 and Cl2 are effective electrophilic reagents. Fluorine is too reactive to control 
+the reaction. Iodine does not react.
+Mechanism:
+a.   A bromine molecule becomes polarized as it approaches the alkene. This 
+polarized bromine molecule transfers a positive bromine atom to the alkene 
+resulting in the formation of a bromonium ion.29
+8. ALIPHATIC HYDROCARBONS eLearn.Punjabb.   The nucleophilic bromide ion then attacks on the carbon of the bromonium 
+ion to form vic. dibromide and the colour of bromine is discharged. A trans 
+product is formed.
+This test is used for the detection of a double bond.
+5. Addition of Hypohalous acid (HOX)
+If the halogenation of an alkene is carried out in an aqueous solution, haloalcohol is formed called a Halohydrin. In this reaction, molecules of the solvent become reactants too.
+22X H O HOX + HX+  →
+Halohydrin
+Bromonium ion 1, 2-Dibromoethane
+B. OXIDATION REACTIONS
+1. Addition of Oxygen
+Alkenes when mixed with oxygen or air and passed over a silver oxide 
+catalyst at high temperature and pressure, add an atom of oxygen to form epoxides. Epoxides serve as the starting substances for the industrial production of glycols.30
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab2. Hydroxylation
+When alkenes are treated with mild oxidizing reagents like dilute 
+(1%) alkaline KMn04 solution (Baeyer's Reagent) at low temperature, 
+hydroxylation of duoubie bond occurs resulting in the formation of dihydroxy compounds known as vicinal glycols. The pink colour of KMnO
+4 
+solution is discharged during the reaction. It is also a test for the presence of unsaturation in the molecules. For example,
+3. Combustion
+Alkenes burn in air with luminous flame and produce CO
+2 and H2O 
+vapours. Ethene forms a highly explosive mixture with air or oxygen.
+24 2 2 2 C H 3O 2CO 2H O heat + → + +
+4. Ozonolysis
+Ozone (O3) is a highly reactive allotropic form of oxygen. It reacts vigorously 
+with alkenes to form unstable molozonide. It rearranges spontaneously to 
+form an ozonide.31
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabOzonides are unstable compounds and are reduced directly by treatment with zinc 
+and H2O. The reduction produces carbonyl compounds (aldehydes or ketones).
+22 2 H O Zn ZnO H O + → +
+Ozonolysis is used to locate the position of double bond in an alkene.
+C. Polymerization
+In this ‘process small organic molecules (monomers) combine together to form 
+larger molecules known as Polymers.Ethene at 400°C and 100 atm pressure, polymerize to polythene or polyethylene.
+A good quality polythene is obtained, when ethene is polymerized in the presence of aluminium triethyl Al(C
+2H5)3 and titanium tetrachloride catalysts 
+(TiCl4).
+8.4.5 Uses of Ethene:
+Ethene is used:
+1.
+ f
+or the manufacture of polythene, a plastic material used for making toys, 
+cables, bags, boxes, etc.
+2.
+ f
+or artificial ripening of the fruits.
+3.
+ as a gener
+al anaesthetic.
+4.
+ f
+or preparing ‘Mustard gas’ a chemical used in World War I. The name comes 
+from its mustard like odour. It is not a gas, but a high boiling liquid that is dispersed as a mist of tiny droplets. It is a powerful vesicant i.e., causes blisters.32
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab
+5.    as a starting material for a large number of chemicals of industrial use such 
+as glycols (antifreeze), ethyl halide, ethyl alcohol, etc.
+8.5 ALKYNES
+Unsaturated hydrocarbons which contain a triple bond are called Alkynes. They have the general molecular formula C
+nH2n-2 and contain two hydrogen
+atoms less than the corresponding alkenes.
+8.5.1 General Methods of Preparation
+1. Dehydrohalogenation of Vicinal Dihalides
+Vicinal dihalide on treatment with a strong base eliminates two mole -
+cules of hydrogen halides from two adjacent carbons to give an alkyne.The first member of the Alkyne series has the formula C2H2 and is known as 
+Ethyne or Acetylene.
+1,2-DihalideAlkyne33
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabThe second molecule of hydrogen halide is removed with great difficulty and 
+requires drastic conditions.oAlcohol
+2 HBr 80 C|| |HC CH + KOH HC=CH
+Br Br Br−   →
+ 
+1,2-Dibromoethane                                  Vinyl bromide
+oAlcohol
+HBr 150 C||HC CH + KOH HC CH
+Br H−=  → ≡
+Ethyne
+2. DehalogenationofTetrahalides
+Tetra haloalkanes on treatment with active metals like Zn, Mg, etc. form alkynes.
+3. Electrolysis of Salts of Unsaturated Dicarboxylic Acids
+Kolbe's electrolytic method involves electrolysis of aqueous solution of Na or K salts of unsaturated dicarboxylic acids.
+(i)
+(ii)2||HC CH + Zn HC CH + ZnBr
+Br Br=  → ≡34
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabAt Anode
+Ethyne
++
+At Cathode
+22H O + 2e 2OH−− →
+Industrial Preparation of Ethyne
+On industrial scale ethyne is prepared by the reaction of calcium 
+carbide (CaC2) with water Calcium carbide is prepared by heating lime 
+(CaO) and coke (C) at a very high temperature in an electric furnace.
+o2000 C
+2 CaO+3C CaC +CO   →+− → 2K + 2OH 2KOH35
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab8.5.2 Physical Characteristics
+1. They are colourless, odourless, except acetylene which has a garlic like          
+odour,
+2.
+ T
+he first three members are gases (ethyne, propyne, butyne) at room 
+temperature, The next eight members (C5 - C12) are liquids and higher     
+members are solids.
+3 The melting points, boiling points and densities increase gradually with                     
+the increase in molecular masses.4 They are nonpolar and dissolve readily in solvents like ether, benzene and carbon tetrachloride.
+8.5.3 Reactivity of Alkynes
+In alkynes, the carbon atoms are held together by a triple bond, a s-bond and two p-bonds. The electron density between the carbon atoms is very high 
+which draws atoms very close to each other. Electrons in a triple bond are, therefore, less exposed and thus less reactive towards electrophilic reagents.
+8.5.4 Reactions
+A. Addition Reactions:
+Alkynes undergo addition reactions like alkenes but add two molecules of the 
+reagent instead of one.
+1. Addition of Hydrogen:
+Alkynes react with hydrogen gas in the presence of a suitable catalysts 
+like finely divided Ni, Pt, or Pd. Initially alkenes are formed which then take up another molecule of hydrogen to form an alkane.36
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabNi
+2 22 heatHC CH + H  H C=CH≡  →
+Ni
+222 3 3 heatCH =CH + H  H C CH  →Ethyne Ethene
+Ethene Ethene
+2. Addition of Halogens: 
+One or two molecules of halogens can be added to alkynes giving 
+dihalides and tetra halides respectively.Chlorine and bromine add readily while iodine reacts rather slowly.
+3. Addition of Halogen Acids: 
+Alkynes react with hydrogen chloride and hydrogen bromide to form dihaloalkanes. The reaction occurs in accordance with Markownikov’s rule.37
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab
+2|HC CH + H Br H C=CH
+Br≡  →
+Ethyne
+Vinyl bromide
+1, 1- Dibromoethane
+4. Addition of Water:
+Water adds to alkynes in the presence of mercuric sulphate dissolved in 
+sulphuric acid at 75°C. The reaction is important industrially. For example,
+4
+24HgSO ä+ ä-
+2 H SOHC CH + H OH  H C=CH O H≡   →
+Vinyl alcohol
+Vinyl alcohol is an unstable enol. The enol has the hydroxy group attached to a doubly bonded carbon atom and isomerises to acetaldehyde.
+Acetaldehyde
+All other alkynes give ketones.38
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab
+5. Addition of Ammonia and Hydrogen Cyanide:
+NH3and HCN react with ethyne in the presence of suitable catalysts, to
+ give nitriles.
+22 4Cu Cl /NH Cl
+2 HC CH + HCN CH =CH CN∆≡   →
+ 
+Acrylonitrile≡   → ≡ +23
+oAl O
+33 2 300 CHC CH + NH H C C N H
+Methyl Nitrile
+B.  Oxidation Reactions
+1.  Ethyne on oxidation with strong alkaline KMnO, gives glyoxal.39
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab2. Combustion:
+Alkynes when burnt in air or oxygen produce heat and evolves CO2 
+and H2O. The reaction is highly exothermic for acetylene and the 
+resulting oxyacetylene flame is used for welding and cutting of metals.
+2 22 2HC CH + 5O 4CO + 2H O + heat ≡  →
+C. Polymerization
+Alkynes polymerize to give linear or cyclic compounds depending upon the 
+temperature and catalyst used. However, these polymers are different from the polymers of the alkenes as they are usually low molecular weight polymers.
+1. Conversion of Acetylene to Divinyl Acetylene
+When acetylene is passed through an acidic solution of cuprous chloride 
+and ammonium chloride and then allowed to stand for several hours at room temperature, vinyl acetylene and divinyl acetylene are obtained.
+22 4
+oCu Cl ,NH Cl
+2 300 CHC CH + HC CH H C CH C CH ≡ ≡  → = ≡
+Vinyl acetylene
+(1- Buten-3-yne
+22 4Cu Cl ,NH Cl
+2 22 H C=CH C CH+HC CH H C CH C C CH CH ≡ ≡  → = ≡ =
+Divinyl acetylene(l,5-Hexdiene-3-yne)
+If HCl is added to vinyl acetylene, chloroprene is obtained which readily
+ polymerize to neoprene, used as synthetic rubber.
+Chloroprene≡  → =22 4Cu Cl ,NH Cl
+2 22|H C=CH C CH+(conc.)HCl H C CH C=CH
+ClVinyl acetylene40
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab2. Conversion of Acetylene to Benzene
+When acetylene is passed through a copper tube at 300°C, it polymerizes to
+ benzene.
+( )  →PolymerizationChloroprene Neoprene synthetic rubber
+D.  Acidic Nature of Alkynes
+In ethyne and other terminal alkynes like propyne, the hydrogen atom is bonded to the carbon atom with sp-s overlap. An sp hybrid orbital has 50% s-character in it and renders the carbon atom more electronegative than sp
+2 and sp3 hybridized carbons. As a result, the sp hybridized 
+carbon atom of a terminal alkyne pulls the electrons more strongly making the attached hydrogen atom slightly acidic.
+1.  When 1-alkyne or ethyne is treated with sodamide in liquid ammonia 
+or passed over molten sodium .alkynides or acetylides are obtained.
+--
+2 HC CH + 2Na Na C C Na +H++≡  → ≡
+Sodium acetylideä- ä+H CC H ≡
++≡   → ≡3 liq NH -
+23 R C CH + NaNH R C C Na +NH41
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabSodium acetylide is a very valuable reagent for 
+chemical synthesis and is essentially ionic in nature. Acetylides of copper and silver are obtained by passing acetylene in the ammoniacal solution of cuprous chloride and silver nitrate respectively.
+22 4 4 2 HC CH + Cu Cl + 2NH OH CuC CCu+ 2NH Cl +2H O≡  → ≡
+Dicopperacetylide
+(Reddish brown ppt.)
+3 4 43 2 HC CH + 2AgNO + 2NH OH AgC CAg+ 2NH NO +2H O≡  → ≡
+Disilver acetylide(white ppt.)
+Silver and copper acetylides react with acids to regenerate alkynes.
+These alkynides are used for the preparation, purification, separation, and
+ identification of alkynes.≡  → ≡24 24 AgC CAg + H SO (dil.) HC CH + Ag SO
+≡  → ≡33 AgC CAg + 2HNO (dil.) HC CH + 2AgNO
+8.5.5 Uses of Ethyne
+Ethyne is used:
+1.
+ in o
+xyacetylene torch which is in turn used for welding and cutting metals.
+2.
+ f
+or the preparation of alcohols, acetic acid and acetaldehyde.
+3.
+ f
+or the manufacture of polymers like PVC, polyvinyl acetate, polyvinyl ethers, 
+orlon and neoprene rubber.
+4.
+ t
+o prepare acetylene tetrachloride a solvent for varnishes, resins, and rubber.
+5.
+ f
+or ripening of fruits.
+8.5.6 Comparison of Reactivities of Alkanes, Alkenes and Alkynes
+The general decreasing reactivity order of alkanes, alkenes and alkynes is as 
+follows:
+Alkenes > Alkynes > Alkanes42
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabAlkynes although contain two p-bonds are less reactive than alkenes 
+towards electrophilic reagents. This is because the bond distance between 
+the two triple bonded carbon atoms is very short and hence the p
+-electrons are not available to be attacked by electrophilic reagents.Alkynes are, however, more reactive than alkenes towards nucleophilic reagents.
+1.
+ H
+ydrocarbons are made up of carbon and hydrogen only. Saturated 
+hydrocarbons are called alkanes. They do not contain functional groups.
+2.
+ A
+lkanes react with halogens by a free radical mechanism to give haloalkanes. 
+Then mechanism consists of three steps, initiation, propagation and termination.
+3.
+ A
+lkenes are unsaturated hydrocarbons with at least one C=C. The double bond 
+is composed of a s and a p bond. Carbon atoms in alkenes are sp2 hybridized.
+4.
+ A
+lkenes are very reactive compounds. They undergo electrophilic reactions 
+very easily.
+5.
+ A
+ddition of unsymmetrical reagent to an unsymmetrical alkene takes place in 
+accordance with the Markownikov's rule.
+6.
+ A
+lkenes can be very easily oxidized with cold KMnO4 solution, O2 or ozone. 
+With ozone both the bonds between carbon atoms are cleaved.
+7.
+ H
+ydrocarbons containing a triple bond are known as alkynes or acetylenes.
+8.
+ A
+lkynes undergo addition reactions and two molecules of a reagent are added 
+in it.
+9.
+ E
+thyne and other terminal alkynes contain a weakly acidic hydrogen and they 
+react with ammoniacal cuprous chloride and ammoniacal silver nitrate to give 
+acetylides
+10.
+ T
+he decreasing reactivity order of alkanes, alkenes and alkynes are as 
+follows:
+Alkenes > Alkynes > AlkanesIt has already been explained that a p-bond in alkenes is not only weak 
+but its electrons are more exposed to an attack by an electrophilic reagent. Both these facts make the alkenes a very reactive class of compounds.
+KEYPOINTS43
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabQ.1.   Fill in the blanks.
+1. O zone reacts with ethene to form___________ .
+2.
+ Lindlar
+’ s catalyst is used for___________ of alkynes.
+3.
+ Divin
+yl acetylene is a ______________ acetylene.
+4.
+ V
+icinal dihalides have two halogens on_________carbon atoms.
+5.
+ E
+thyne is acidic in character because of__________ hybridization.
+6.
+ Haloh
+ydrins are formed due to addition of__________ in ethene.
+7.
+ E
+thylene glycol is produced when__________ reacts with cold alkaline KMnO4 
+solution.
+8.
+ M
+ustard gas is a high boiling _____________ .
+9.
+ E
+thyne has_____________ like odour.
+10. Ethyne is obtained by the reaction of________ with calcium carbide.EXERCISE
+Q.2. Indicate True or False.
+1.
+ A
+ddition of HX to unsymmetriacal alkanes takes place according to 
+Markownikov’s rule.
+2.
+ M
+ethane reacts with bromine water and its colour is discharged.
+3.
+ M
+ustard gas is a blistering agent.
+4.
+ M
+ethane is also called marsh gas.
+5.
+ E
+thyne is a saturated compound.
+6.
+ Baey
+er’s reagent is used to locate a double bond in an alkene.
+7.
+ A
+lkanes usually undergo substitution reactions.
+8.
+ B
+enzene is a polymer of ethene.
+9.
+ A
+crylonitrile can be obtained from ethyne.
+10. Ethyne is more reactive towards electrophilic reagents than ethene.44
+8. ALIPHATIC HYDROCARBONS eLearn.PunjabQ. 3. Multiple choice questions. Encircle the correct answer.
+i) Preparation of vegetable ghee involves
+(a) Halogenation                                                            (b) Hydrogenation(c) Hydroxylation                                                            (d) Dehydrogenation
+ii) Formula of chloroform is:
+(a)CH
+3Cl                            (b) CCI4                            (c)CH2CI2                           (d)CHCl3
+iii) The presence of a double bond in a compound is the sign of(a) Saturation                 (b) Unsaturation             (c) Substitution                 (d)None
+iv) Vinyl acetylene combines with HCl to form
+(a) Polyacetylene                                                             (b) Benzene(c) Chloroprene                                                                (d) Divinyl acetylene
+v) The addition of unsymmetrical reagent to an unsymmetrical alkene is in 
+accordance      with the rule(a) Hund’s rule                                                                  (b) Markownikov’s rule(c) Pauli’s Exclusion Principle                                         (d) Aufbau Principle
+vi) Synthetic rubber is made by polymerization of
+(a) Chloroform                                                                 (b) Acetylene(c) Divinylacetylene                                                         (d) Chloroprene
+vii) b-b’- dichloroethyl sulphide is commonly known as(a) Mustard gas                                                                 (b) Laughing gas(b) Phosgene gas                                                              (d) Bio-gas
+ix) When methane reacts with Cl
+2 in the presence of diffused sunlight the 
+products
+      obtained are:(a) Chloroform only                                                    (b) Carbon tetrachloride only(c) Chloromethane and dichloromethane              (d) Mixture of a, b, c
+x) Which one of the following gases is used for artificial ripening of fruits.
+(a) Ethene                         (b) Ethyne                     (c) Methane                      (d) Propane45
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab,
+i) 2-Methylpropane.                                               ii) Neopentane.
+iii) 3-Ethylpentane.                                                iv) 4-Ethyl-3,4-dimethylheptane.v) 2,2,3,4-Tetramethylpentane                           vi) 4-iso-Propylheptane.vii) 2,2-Dimethylbutane.                                      viii) 2,2-Dimethylpropane.
+Q. 5. Write down names of the following compounds according to       IUPAC-system.
+Q. 6. What are the rules for naming alkanes? Explain with suitable examples.Q. 7. 
+ Q. 4. Write the structural formula for each of the following compounds
+(a) Write down the structural formulas for all the isomeric hexanes and name 
+them according to IUPAC system
+( ) ( )3 2333CH C CH C CH
+( ) ( )3322|
+3CH CH CH CH CH
+CH
+3 2 32 2 3 3CH CH C(CH ) CH(CH CH )CH(i) ( ii )
+(
+iii
+) (
+iv
+)
+(
+v
+)(
+vi
+)
+(
+vii
+) (
+viii
+)( )32 3CH CH CH
+( )65 3C H CH ( )3 32 2 3 2CH C(CH ) CH CH
+(b)    The following names are incorrect. Give the correct IUPAC names,
+i) 4-Methylpentane                                              ii) 3,5,5-Trimethylhexaneiii) 2-Methyl-3-Ethylbutane
+Q.8.
+  (a) Explain why alkanes are less reactive than alkenes? What is the effect of 
+branching on the melting point of alkanes ?(b) Three different alkanes yield 2-methylbutane when they are hydrogenated 
+in the presence of a metal catalyst. Give their structures and write equations for the reactions involved.46
+8. ALIPHATIC HYDROCARBONS eLearn.Punjab(a) Out line the methods available for the preparation of alkanes.
+(b) How will you bring about the following conversions?i) Methane to ethane.                                             ii) Ethane to methane,iii) Acetic acid to ethane.                                        iv) Methane to nitromethane.Q.9. 
+Q.10
+.  (a) What is meant by octane number? Why does a high octane fuel has a less 
+tendency to knock in an automobile engine?
+(b) Explain free radical mechanism for the reaction of chlorine with methane 
+in the presence of sunlight .
+Q. 11.  (a)   Write structural formulas for each of the following compounds.
+i) Isobutylene                                       ii) 2,3,4,4-Tetramethyl-2-penteneiii) 2 ,5-Heptadiene                              iv) 4,5-Dimethyl-2-hexenev) Vinylacetylene                                  vi) 1,3-Pentadienevii) 1-Butyne                                         viii) 3-n-Propyl-1, 4-pentadieneix) Vinyl bromide                                  x) But-1 -en.3 -ynexi) 4-Methyl-2-pentyne                        xii) Isopentane(b)   Name the following compounds by IUPAC system.
+( )3 232H C CH=CH CH CH
+ ( )322CH C=CH
+( )322 2|
+32CH CH CH C=CH
+CH CH22CH =CH CH=CH
+2 223|
+25CH =C CH CH CH
+CH3 CH C CH≡(i) ( ii )
+(
+iii
+) (
+iv
+)
+(
+v
+) (
+vi
+)
+33CH C C CH ≡ 22CH CH C C CH=CH= ≡
+CH C CH=CH C CH≡≡
+2CH =CH C CH ≡(vii) ( viii )
+(
+ix
+) (
+x
+)47
+8. ALIPHATIC HYDROCARBONS eLearn.Punjabi) 1 -Chloropentane                                    ii) 2-C hloro-3-methy lbutane
+iii) l-Chloro-2,2-dimethyl propane.Q. 12. (a)    Describe different methods for the preparation of alkenes. How would 
+you establish that ethylene contains a double bond?(b)    Give structure formulas of the alkenes expected to form by the dehydrohalogenation of the following compounds with a strong base:
+Q. 13. (a) Write down chemical equations for the preparation of propene from the following compounds.
+i) CH
+3 — CH2 — CH2 — OH                                                   ii) CH3 — C = CH
+iii) iso-Propyl chloride(b) Write skeleton formula showing only the arrangement of carbon atoms 
+for all the possible alkenes of the molecular formula C
+5H10.
+Q. 14.  (a) How may ethene be converted into ethyl alcohol?
+(b) Starting from ethene, outline the reactions for the preparation of 
+following compounds.i) 1,2-Dibromoethane                          ii) Ethyne                       iii) Ethane                  iv) Ethylene glycol
+(c) How will you bring about the following conversions:
+i) 1-Butene to 1-Butyne                             ii) 1-Propanol to CH
+3—CH—CH2CI
+Q. 15. Show by means of chemical equations how the following cycle of changes may be affected.
+Q. 16. Write down structural formulas for the products that are formed when 
+1-butene will react with the following reagents:48
+8. ALIPHATIC HYDROCARBONS eLearn.Punjabi)        H2, Pt                                       ii)       Br2 in CCI4
+iii)     Cold dil. KMnO4\OH               iv)     HBr
+v)      O2 in the presence of Ag       vi) HOCI
+vii)    dil. H2SO4  
+Q. 17. In the following reactions, identify each lettered product.
+24 2 conc.H SO Br alcoholic
+KOHEthyl alcohol A B C  →  →  →
+2Br alcoholic HCN
+KOHPropene D E F  →  →  →i) 
+ii)
+Q.18.    After an ozonolysis experiment, the only product obtained was acetalde-
+hyde CH3CHO. Can you guess the structural formula of this compound.
+Q. 19. (a) The addition of sulphuric acid to an alkene obeys Markownikov’s rule.Predict the structures of the alcohols obtained by the addition of the acid to the following compounds. i) Propene                                      ii) 1-Butene                                     iii) 2-Butene(b) Predict the most likely product of the addition of hydrogen chloride to 
+2-methyl-2-butene. Explain the formation of this product.
+Q. 20. Why are some hydrocarbons called saturated and others unsaturated? 
+What type of reactions are characteristics of them?
+Q.21. (a) Describe methods for the preparation of Ethyne.(b) How does ethyne react with: i) Hydrogen                                         ii) Halogen acid iii) Alkaline KMnO
+4                                  iv) 10% H2SO4 in the presence of HgSO4. 
+v) Ammonical cuprous chloride(c) Mention some important uses of methane, ethene and ethyne.
+Q.22 . Describe how you could distinguish ethane, ethene and ethyne from one another by means of chemical reactions.
+Q.23. (a) How will you synthesize the following compounds starting from ethyne.49
+8. ALIPHATIC HYDROCARBONS eLearn.Punjabi) Acetaldehyde            ii) Benzene
+iii) Chloroprene           iv) Glyoxal v) Oxalicacid                 vi) Acrylonitrilevii) Ethane                    viii) Methyl nitrile(b) Write a note on the acidity of ethyne.
+Q. 24. (a) Compare the reactivity of ethane, ethene and ethyne.(b) Compare the physical properties ot alkanes, alkenes and alkynes.
+Q. 25. How does propyne react with the following reagents.
+(a) AgNO
+3/NH4OH
+(b) Cu2CI2/NH4OH
+(c) H2O/H2SO4/HgSO4
+Q. 26. A compound has a molecular formula C4H6, when it is treated with 
+excess hydrogen in the presence of Ni-catalyst, a new compound C4H10 
+is formed.When C4H6 is treated with ammoniacal silver nitrate a white 
+precipitate is formed. What is the structural formula of the given compound.
+Q.21. (a) Identify A and B.
+5PCl Na/Ether
+322CH CH CH OH A B  →   →
+(b) Give the general mechanism of electrophilic addition reactions of 
+alkenes.

@@ -1,0 +1,417 @@
+CHAPTER
+7 Fundamental Principles of 
+Organic Chemistry
+Animation 7.1 : Organic Chemistry
+Source and credit : Stackexchange2
+7. Fundamental Principles of Organic Chemistry eLearn.PunjabMore than 200 years ago, early chemists recognized organic compounds 
+distinct from inorganic compounds because of the differences in their or -
+igin and properties. Organic compounds were considered as those ob -
+tained from living things, plants or animals, and inorganic compounds were those obtained from non-living or mineral sources.In This Chapter You Will Learn:
+1. T he special features of carbon chemistry with reference to its ability to 
+form chains, rings and isomers.
+2.
+ T
+he importance of organic chemistry in daily life.
+3.
+ A
+bout the sources of carbon and its compounds like coal, petroleum and 
+natural gas with reference to their availability in Pakistan.
+4.
+ R
+efining, reforming and cracking of petroleum and to enlist products in a 
+tabular form.
+5.
+ Ho
+w can petroleum serve as a source of different type of fuels.
+6.
+ A
+bout the classification of organic compounds based on the carbon 
+skeleton.
+7.
+ A
+bout functional groups and the dependence of chemical properties on 
+functional groups.
+8.
+ A
+bout the structural isomerism in organic compounds. 
+9.
+ T
+hat cis-trans isomerism arises due to restricted rotation around a carbon-
+carbon double bond.
+10. How the hybridization theory can help us understand the type of bonding and the shapes of organic compounds.
+7.1    INTRODUCTION
+The early chemists never succeeded in synthesizing organic compounds and their failure led them to believe that organic compounds could be man-ufactured only by and within living things and these compounds could nev -
+er be synthesized from inorganic materials. This theory was referred to as vital force theory. This theory was rejected by Friedrick Wohler when he obtained urea (NH
+2)2CO , an organic compound in the urine of mammals, 
+from ammonium cyanate, NH4CNO, a substance of known mineral origin.3
+7. Fundamental Principles of Organic Chemistry eLearn.Punjab4 22 NH CNO (NH ) CO �
+7.1.1 Modern Definition of Organic Chemistry.
+Since the synthesis of urea from ammonium cyanate, millions of organic 
+compounds have been prepared and analyzed. All these compounds contain carbon as an essential element. Apart from carbon, most of the organic compounds also contain hydrogen. Other elements which may also be present include oxygen, nitrogen, sulphur, etc. For historical and conventional reasons a few of the carbon compounds such as CO,CO
+2, 
+carbonates, bicarbonates, etc are studied as inorganic compounds. It also has been recognized that the chemical forces in organic compounds are similar to those, which exist, in inorganic compounds. Thus it was felt that organic chemistry should be redefined. According to the modern definition, organic chemistry is that branch of chemistry which deals with the study of compounds of carbon and hydrogen (hydrocarbons) and their derivatives.
+7.2 SOME FEATURES OF ORGANIC COMPOUNDS
+Carbon forms a large number of compounds. There are millions of organic compounds known at present. The main reason for such a large number of compounds is its unique property of linking with other carbon atoms to form long chains or rings. This selflinking property of carbon is called catenation. Carbon also forms stable single and multiple bonds with other atoms like oxygen, nitrogen and sulphur, etc. It can thus form numerous compounds of various sizes, shapes and structures.Following are some features of organic compounds.
+(1) Peculiar Nature of Carbon4
+7. Fundamental Principles of Organic Chemistry eLearn.Punjab(6) Rates of Organic Reactions
+The reactions involving organic compounds are slow and in general the 
+yields are low. The slow rate of the organic reactions is due to the molecular nature of organic compounds.
+(7) SolubilityMost organic compounds are insoluble in water and dissolve readily 
+in non-polar organic solvents, such as, benzene, petroleum ether, etc.(2) Non-ionic Character of Organic Compounds
+Organic compounds are generally covalent compounds, therefore, do not give ionic reactions.
+(3) Similarity in Behaviour
+(4) Complexity of Organic Compounds
+Organic molecules are usually large and structurally more complex. For example, starch has the formula (C
+6H10O5)n where n may be several thousands. 
+Proteins are very complex molecules having molecular masses ranging from a few thousands to a million.
+(5) Isomerism
+Isomerism is a very common phenomenon in organic compounds. Very often more than one compounds are represented by the same molecular formula. However, they have  different structural formulas.There exists a close relationship between different organic compounds.This is exemplified by the existence of homologous series. This similarity in behaviour has reduced the study of millions of compounds to only a few homologous series.5
+7. Fundamental Principles of Organic Chemistry eLearn.Punjab7.3 IMPORTANCE OF ORGANIC CHEMISTRY
+The importance of organic chemistry can hardly be over emphasized. 
+Almost all the chemical reactions that take place in living systems, including our own bodies, are organic in nature because they involve such life molecules like proteins, enzymes, carbohydrates, lipids, vitamins and nucleic acids, all contain thousand of carbon atoms.
+We have become dependent upon organic compounds that occur in nature 
+for our food, medicines and clothing. Over the years,the chemists have learned to synthesize plastics, synthetic rubber, medicines, preservatives, paints, varnishes, textile fibres, fertilizers, pesticides, detergents, cosmetics, dyes, etc. Many of these synthetic compounds prevent the shortages of naturally occurring products.
+7.4 SOURCES OF ORGANIC COMPOUNDS
+Petroleum, coal and natural gas are vast reservoirs from which many organic compounds are obtained. These are called fossil fuels and are formed, over long period of time, from the decay of plants and animals.
+Coal
+It is believed that coal in nature was formed from the remains of the trees buried inside the earth crust some 500 millions years ago. Due to the bacterial and chemical reactions on wood it got converted into peat. Then, as a resultof high temperature and high pressure inside the earth crust, peat got transformed into coal.6
+7. Fundamental Principles of Organic Chemistry eLearn.PunjabAnimation 7.2  : What is coal seam gas
+Source and credit: AplngCoal is an important solid fuel and becomes a source of organic compounds 
+when subjected to carbonization or destructive distillation. When coal is heated in the absence of air (temperature ranging form 500-1000° C); it is converted into coke, coal gas and coal tar. Coal tar contains a large number of organic compounds, which separate out on fractional distillation.
+The total coal resources of Pakistan are estimated by the geological survey of Pakistan to be 184 billion tonnes. About 80% of this coal is used to bake bricks in lime kilns; besides, some quantity is used for domestic purposes.Conscious efforts are being made by the government to induct coal into industry by setting up coal based powrer units. The Sindh Coal Authority and the directorates of Mineral Developments of the Punjab, Baluchistan and Khyber Pakhtunkhwa are all keen to expand coal utilization in power generation for which many incentives have been made available.7
+7. Fundamental Principles of Organic Chemistry eLearn.PunjabNatural Gas
+Natural Gas is an important means of energy especially for countries like 
+Pakistan, which are deficient in the production of mineral oil and coal.It is a mixture of low boiling hydrocarbons. Major portion of the natural gas is methane. It is also formed by the decomposition of organic matter. In Pakistan the gas, being cheaper, is used for power generation, in cement and fertilizer industries; as a fuel in general industries and for domestic purposes.
+Animation 7.3  : Coal fired power station
+Source and credit: Gif2fly8
+7. Fundamental Principles of Organic Chemistry eLearn.PunjabTable 7.1 Principal Fractions Obtained from Petroleum 
+FractionBoiling Point 
+Rang (oC)Composition Uses
+Natural gas < 20 CH 4- C4H10Fuel, 
+petrochemicals
+Petroleum Ether 20 - 60 C5H12 , C6H14Solvent
+Ligroin, or
+naphtha60 - 100 C6H14 , C7H16Solvent, raw 
+material
+Gasoline 40- 220C4H10- C13H28   
+mostly C6H14- C8H18Motor fuel
+Kerosene 175 - 325 C8H8 . C14H30 Heating fuel
+Gas oil > 275 C12H26 . C18H38Diesel and heating 
+fuel
+Lubricating oils
+and greasesViscous liquids > C18H38Lubrication
+Paraffin M.p. 50 - 60 C23H48 - C29H60Wax products
+Asphalt, or
+petroleum cokeSolids ResidueRoofing, paving, fuel 
+reducing agentPetroleum
+Mineral oil is called petroleum when it is in the refined form. It is thought to
+have been formed by slow chemical and biochemical decomposition of the 
+remains of organic matters found between the sedimentary rocks. When extracted from rocks it appears like a liquid of blackish colour known as 'crude oil'.  
+It is refined to get different petroleum fractions. At present four oil refineries are in operation in our country. One oil refinery known as Attock Oil Refinery is located at Morgah near Rawalpindi. It has about 1.25 million tonnes oil refining capacity. Similarly, two oil refineries have been established at Karachi which have about 2.13 million tonnes of oil refining capacity. Another refinery known as Pak-Arab refinery is located at Mahmud Kot near Multan.9
+7. Fundamental Principles of Organic Chemistry eLearn.PunjabThe crude petroleum is separated by fractional distillation into a number 
+of fractions each corresponding to a particular boiling range, Table 7.1.
+oHeat
+16 34 7 16 2 2 3 2 700
+AlkaneC H C H +3CH =CH +CH -CH=CH   →7.5 CRACKING OF PETROLEUM
+The fractional distillation of petroleum yields only about 20% gasoline. Due to its high demand this supply is augmented by converting surplus supplies of less desirable petroleum fractions such as kerosene oil and gas oil into gasoline by a process called cracking. It is defined as breaking of higher hydrocarbons having high boiling points into a variety of lower hydrocarbons, which are more volatile (low boiling). For example, a higher hydrocarbons C
+I6H34 splits according to the following reaction.
+This is the process in which C-C bonds in long chain alkane molecules are broken, producing smaller molecules of both alkanes and alkenes. The composition of the products depends on the condition under which the cracking takes place. Cracking is generally carried out in the following ways.
+(1) Thermal Cracking
+Breaking down of large molecules by heating at high temperature and 
+pressure is called Thermal Cracking. It is particularly useful in the production of unsaturated hydrocarbons such as ethene and propene.
+(2) Catalytic Cracking
+Higher hydrocarbons can be cracked at lower tem perature (500°C) and 
+lower pressure (2 atm), in the presence of a suitable catalyst. A typical catalyst used for this purpose is a mixture of silica (SiO
+2) and alumina 
+(AI2O3). Catalytic cracking produces gasoline of higher octane number 
+and, therefore, this method is used for obtaining better quality gasoline.10
+7. Fundamental Principles of Organic Chemistry eLearn.PunjabBesides increasing the yield of gasoline, cracking has also produced large 
+amounts of useful by-products, such as ethene, propene, butene and benzene. These are used for manufacturing drugs, plastics, detergents, synthetic fibres, fertilizers, weed killers and important chemicals like ethanol, phenol and acetone.(3) Steam Cracking
+In this process, higher hydrocarbons in the vapour phase are mixed with 
+steam, heated for a short duration to about 900°C and cooled rapidly. The process is suitable for obtaining lower unsaturated hydrocarbons.
+7.6 REFORMING
+The gasoline fraction present in petroleum is generally not of good quali-ty. When it burns in an automobile engine, combustion can be initiated before the spark plug fires. This produces a sharp metallic sound called knocking which greatly reduces the efficiency of an engine. The quality of a fuel is indicated by its octane number. As the octane number increas-es, the engine is less likely to produce knocking. Straight- chain hydrocar -
+bons have low octane numbers and make poor fuels. Experiments have shown that isooctane or 2,2,4- trimethyl pentane burns very smooth-ly in an engine and has been arbitrarily given an octane number of 100.
+The octane number of gasoline is improved by a process called reform-
+ing. It involves the conversion of straight chain hydrocarbons into branched chain by heating in the absence of oxygen and in the presence of a catalyst.11
+7. Fundamental Principles of Organic Chemistry eLearn.PunjabThe octane number of a poor fuel can also be improved by blend-
+ing it with a small amount of additive like tetraethyl lead (TEL). Tetraeth-yl lead (C
+2H5)4 Pb, is an efficient antiknock agent but has one serious disad-
+vantage; its combustion product, lead oxide, is reduced to metallic lead which is discharged into the air through the exhaust pipe and causes air pollution.
+There are millions of organic compounds. It is practically not possi-
+ble to study each individual compound. To facilitate their study, or -
+ganic compounds are classified into various groups and sub-groups. They may be broadly classified into the following classes.
+1.
+ Open chain or A
+cyclic compounds.
+2.
+ Closed chain or C
+yclic (or ring) compounds.7.7 CLASSIFICATIONS OF ORGANIC COMPOUNDS
+(1) Open Chain or Acyclic Compounds
+This type of compounds contain an open chain of carbon atoms. 
+The chains may be branched or non-branched (straight chain). The open chain compounds are also called aliphatic compounds.
+Straight Chain (or non- branched) Compounds
+Those organic compounds in which the carbon atoms are connected in series  from  one  to  the  other.
+Those organic compounds in which the carbon atoms are attached on the sides
+ of chain.Branched chain compounds3223
+n-ButaneCH -CH -CH -CH2 23
+1-ButeneH C=CH-CH -CH3222
+1-ButanolCH -CH -CH -CH -OH12
+7. Fundamental Principles of Organic Chemistry eLearn.Punjab(2) Closed Chain Compounds or Cyclic Compounds
+These compounds contain closed chains or rings of atoms and are known as 
+cyclic or ring compounds. These are of two types;(a) Homocyclic or carbocycli compounds(b) Heterocyclic compoundsThe classification of organic compounds into various classes is shown in Fig. 7.1.
+(a) Homocyclic or Carbocyclic Compounds
+The compounds in which the ring consists of only carbon atoms, Homocyclic or carbocyclic compounds
+.
+Homocyclic compounds are further classified as :1.
+ A
+licyclic compounds 
+2.
+ A
+romatic compounds
+Fig:7.1 Classification of organic compounds.13
+7. Fundamental Principles of Organic Chemistry eLearn.Punjab(1) Alicyclic Compounds
+The homocyclic compounds which contain a ring of three or more 
+carbon atoms and resembling aliphatic compounds are called alicyclic compounds. The saturated alicyclic hydrocarbons have the general formula C
+nH2n. Typical examples of alicyclic compounds are given below.
+(2) Aromatic Compounds
+These carbocyclic compounds contain at least one benzene ring, six carbon atoms with three alternate double and single bonds.These bonds are usually shown in the form of a circle. Typical examples of aromatic compounds are given below.    
+The aromatic compounds may have a side-chain or a functional group attached to the ring. For example:One or more hydrogen atoms present in these compounds may be
+ substituted by other group or groups.14
+7. Fundamental Principles of Organic Chemistry eLearn.Punjab
+The aromatic compounds may also contain more than one benzene rings fused
+ together. 
+(b) Heterocyclic Compounds
+The compounds in which the ring consists of atoms of more than one kind are called heterocyclic compounds or heterocycles . In heterocyclic compounds 
+generally one or more atoms of elements such as nitrogen (N), oxygen (O) or sulphur (S) are present. The atom other than carbon viz, N, 0, or S, present in the ring is called a hetero atom.15
+7. Fundamental Principles of Organic Chemistry eLearn.Punjab7.8 FUNCTIONAL GROUP
+An atom or a group of atoms or a double bond or a triple bond whose 
+presence imparts specific properties to organic compounds is called a functional group, because they are the chemically functional parts of molecules.
+The study of organic chemistry is organized around functional groups. 
+Each functional group defines an organic family. Although over six mil-lion organic compounds are known, there are only a handful of func -
+tional groups, and each one serves to define a family of organic com-pounds. The examples of functional groups are outlined in Table 7.2.
+Functional groupClass of compounds
+Example
+Formula Name
+CC None Alkane CH — CH3
+C C Double bond Alkene H2C = CH2
+C C Triple bond Alkyne HC=CH
+-X(X=F,Cl,Br,I)Halo (fluoro, chloro, 
+bromo, iodo)Alkyl halide CH3-CH2-Cl
+OH Hydroxyl group Alcohol or alkanol CH3-CH2-OH
+NH2Amino group Amine CH3-CH2-NH2
+C NH Imino group Imine CH2=NH
+CO   C Ether linkage Ether CH3-CH2-O-CH2-CH3
+CO
+HFormyl group Aldehyde or alkanal
+HO
+CH3-C
+C OR
+RCarbonyl Ketone or alkanohe O
+CH3CCH3TABLE 7.2 FUNCTIONAL GROUPS16
+7. Fundamental Principles of Organic Chemistry eLearn.PunjabCO
+  OHCarboxyl groupCarboxylicacid
+(oralkanoicacid) OHO
+CH3-C
+C X Acid halide Acid halide CH3   C   ClO
+C NH2Acid amide Acid amide CH3  C   NH2O
+CO
+OHR Ester group Ester
+OCH3O
+CH3-C
+SH Mercapto Thioalcohol or Thiol CH3-CH2-SH
+CN CyanoAlkyl cyanide or alkane 
+nitrileCH3-C    N
+NO
+ONitro Nitro compounds C6H5NO 2
+7.9 HYBRIDIZATION OF ORBITALS AND THE SHAPES OF 
+MOLECULES
+Although the most stable electronic configuration of a carbon atom 
+(having two partially filled 2p orbitals) requires it to be divalent, car -
+bon is tetravalent in the majority of its compounds. In order to explain this apparent anamoly, it is assumed that an electron from the 2s orbit -
+al is promoted to an empty 2p
+z orbital, giving the electronic configuration:
+Ground state electronic configuration of carbon = 1s2 2s2 2p1
+x 2p1
+y 2p°z
+Excited state electronic configuration of carbon = 1s2 2s1 2p1
+x 2p1
+y 2p1
+z
+The excited state configuration can explain the tetravalency of carbon but these four valencies will not be equivalent. Orbital hybridization theory has been developed to explain the equivalent tetravalency of carbon.17
+7. Fundamental Principles of Organic Chemistry eLearn.PunjabAccording to this theory the four atomic orbitals of carbon belonging 
+to valence shell may be mixed in different ways to explain the bonding and shapes of molecules formed by carbon atoms.
+sp3 Hybridization
+In order to explain the bonding and shapes of molecules in which carbon is attached with four atoms, all these four atomic orbitals are mixed together to give rise to four new equivalent hybrid atomic orbitals having same shape and energy. This mode of hybridization is called tetrahedral or sp
+3 hybridization.
+All these four sp3 hybrid orbitals are degenerate (having equal energy) and 
+are directed at an angle of 109.50 in space to give a tetrahedral geometry.
+When a carbon atom forms single bonds with other atoms, these hybrid orbitals overlap with the orbitals of these atoms to form four sigma bonds. This type of hybridization explains the bonding and shapes of all those compounds in which carbon atom is saturated.
+Fig. 7.2    sp3 hybridization of carbon to give methane (CH4)x yz18
+7. Fundamental Principles of Organic Chemistry eLearn.PunjabIn the formation of methane, the four hybrid atomic orbitals of carbon overlap 
+separately with four 1s atomic orbitals of hydrogen to form four equivalent C-H bonds. The shape of methane thus formed is very similar to the actual methane molecule. All the four hydrogen atoms do not lie in the same plane.
+109.50 3
+In ethane, CH3 - CH3, the two tetrahedrons of each carbon are joined together 
+as shown in the above figure. Further addition of a carbon atom with ethane will mean the attachment of another tetrahedron. At this stage, it is necessary to answer an important question.From where does the energy come toexcite the carbon atom?
+The answer to this question is simple. Before excitation the carbon should make two covalent bonds releasing an adequate amount of energy. After excitation, however, it will form four covalent bonds releasing almost double the amount of energy. This excess energy is more than that needed to excite the carbon atom. So a tetravalent carbon atom is expected to be more stable than a divalent carbon atom.
+sp2 Hybridization
+In order to explain the bonding in unsaturated compounds, two more modes of hybridization have been developed.19
+7. Fundamental Principles of Organic Chemistry eLearn.PunjabThe structure of alkenes can be explained by sp2 mode of hybridizaton. 
+In this type one 2s and two 2p orbitals of carbon are mixed together 
+to give three equivalent and coplanar sp2 hybridized orbitals, Fig. 7.3.
+Each sp2 hybrid orbital is directed from the centre of an equilateral triangle 
+to its three corners. The bond angle between any two sp2 hybrid orbitals is 
+120°.The unhybridized 2pz orbital will remain perpendicular to the triangle 
+thus formed.
+Fig. 7.3  sp2-hybridization of carbon.
+In the formation of ethene molecule, three sp2 orbitals of each carbon atom 
+overlap separately with sp2 orbital of another carbon and 1s orbitals of two 
+hydrogen atoms to form three  s bonds. This gives rise to what is called the s-frame work of ethene molecule. The unhybridized orbitals of each carbon atom will then overlap in a parallel fashion to form a 
+π- bond, Fig. 7.420
+7. Fundamental Principles of Organic Chemistry eLearn.PunjabFig. 7.4  Formation of ethene.
+π- bond
+sp-Hybridization
+The structure of alkynes can be explained by yet another mode of 
+hybridization called sp hybridization. In this type one 2s and one 2p orbitals of the carbon atom mix together to give rise to two degenerate sp hybridized atomic orbitals. These orbitals have a linera shape with a bond angle 180
+o.
+The two unhybridized atomic orbitals, 2py and 2pz are perpendicular to these 
+sp hybridized orbitals.
+Ethyne molecule is formed when two sp hybridized carbon atoms join together to from a s-bond by sp-sp overlap. The other sp orbital is utilized to form a s- bond with 1s orbital of hydrogen atom.21
+7. Fundamental Principles of Organic Chemistry eLearn.Punjab
+Fig. 7.6 Formation of ethyne
+The two unhybridized p orbitals on a carbon atom will overlap separately with 
+the p orbitals of the other carbon atom to give two π-bonds both perpendicular 
+to the s -framework of ethyne. The presence of a  s and two π bonds 
+between two carbon atoms is responsible for shortening the bond distance.
+7.10 ISOMERISM
+The concept of isomerism is an important feature of organic compounds. Two or 
+more compounds having the same molecular formula but different structural formulas and properties are said to be isomers and the phenomenon is called isomerism.The  structural formula of a compound shows the arrangement of atoms and bonds present in it.
+The simplest hydrocarbon to have structural isomers is butane (C
+4H10). 
+The alkanes, methane, ethane and propane do not show the phenom-
+enon of isomerism because each exists in one structural form only. If we study the structural formula of butane or other higher hydrocar -
+bons of the alkane family, we will observe that it is possible to arrange the atoms present in the molecule in more than one way to satisfy all valencies. 
+This means that it is possible to have two or more different arrangements for the same molecular formula.For example, butane molecule can have two dif-ferent arrangements as represented by the following structural formulas:22
+7. Fundamental Principles of Organic Chemistry eLearn.Punjab
+3223
+n-ButaneCH -CH -CH -CH
+This   fact  has   been   supported  by an experimental evidence that there 
+are two  compounds  with different physical properties but with the same molecular formula of C
+4H10.
+Isomerism is not only possible but common if the compound contains more than three carbon atoms. As the number of carbon atoms in a hydrocarbon increases, the number of possible isomers increase very rapidly. The five carbon compound, pentane, has three isomers. When the number of carbon atoms increases to thirty, the number of isomers amount to over four billions.
+7.10.1 Types of Isomerism
+(1) Structural Isomerism
+The structural isomerism is not confined to hydrocarbons only. In 
+fact, all classes of organic compounds and their derivatives show the phenomenon of structural isomerism. The structural isomerism arises due to the difference in the arrangement of atoms within the molecule. The structural isomerism can be exhibited in five different ways. These are :
+(i) The Chain Isomerism.
+This type of isomerism arises due to the difference in the nature of the carbon 
+chain. For example, for pentane (C
+5H12), the following arrangements are 
+possible.Isobutane23
+7. Fundamental Principles of Organic Chemistry eLearn.Punjab(ii) Position Isomerism.
+This type of isomerism arises due to the difference in the position of the 
+same functional group on the carbon chain. The arrangement of carbon atoms remains the same. For example,(a) Chloropropane can have two positional isomers given below.32223CH -CH -CH -CH -CH
+n-Pentane
+(b) Butene (C4H8) can have two positional isomers.
+32 2
+I-ButeneCH -CH -CH=CH 33CH -CH=CH-CH
+2-Butene
+(iii) Functional Group Isomerism
+The compounds having the same molecular formula but different functional groups are said to exhibit functional group isomerism. For example, there are two compounds having the same molecular formula C
+2H6O , but different 
+arrangement of atoms.
+33CH -O-CH
+Diethyl ether32CH -CH -OH
+Eethyl alchohal Dimethyl ether Ethyl alcohol322CH -CH -CH -C
+1 -C hloropropanel24
+7. Fundamental Principles of Organic Chemistry eLearn.Punjab(iv) Metamerism
+This type of isomerism arises due to the unequal distribution of carbon atoms 
+on either side of the functional group. Such compounds belong to the same homologous series. For example, diethyl ether and methyl n-propyl ether are metamers.
+For a ketonic compound having the molecular formula C
+5H10O, the following 
+two metamers are possible.32 23CH CH O CH CH
+Diethyl ether− −− −3 223CH O CH CH CH
+Methyl n-propyl ether− −−−
+(v) Tautomerism
+This type of isomerism arises due to shifting of proton from one atom to other 
+in the same molecule.
+(2) Cis-trans Isomerism or Geometric Isomersim
+Two carbon atoms joined by a single bond are capable of free rotation about 
+it. However, when two carbon atoms are joined by a double bond, they cannot rotate freely. As a result, the relative positions of the various groups attached to these carbon atoms get fixed and gives rise to cis- trans isomers.25
+7. Fundamental Principles of Organic Chemistry eLearn.PunjabSuch compounds which possess the same structural formula, but differ 
+with respect to the positions of the identical groups in space are called cis-trans isomers and the phenomenon is known as the cis-trans or geometric isomerism.
+The necessary and sufficient condition for a compound to exhibit  geomet -
+ric isomerism is that the two groups attached to the same carbon must be 
+different.
+2-Butene can exist in the form of cis and trans isomers.
+Similarly 2-pentene and l-bromo-2-chloropropene also show cis-trans
+ isomerism.
+In the cis-form, the similar groups lie on the same side of the double bond whereas in the trans-form, the similar groups lie on the opposite sides of the double bond.
+The rotation of two carbon atoms joined by a double bond could happen only if the 
+π bond breaks.This ordinarily costs too much energy, making geometric 
+isomers possible.26
+7. Fundamental Principles of Organic Chemistry eLearn.PunjabEXERCISE1. Chemical c ompounds were classified as organic and inorganic compounds based 
+upon their origin. Organic compounds are obtained from living things whereas 
+inorganic compounds are obtained from mineral sources.
+2.
+ I
+t was thought that organic compounds could not be synthesized in the laboratory 
+from inorganic sources.
+3.
+ Or
+ganic chemistry is now-a-days defined as the chemistry of carbon compounds.
+4.
+ M
+ost of the commercially important compounds we use everyday are organic in 
+nature.
+5.
+ C
+oal, petroleum and natural gas are important sources of organic compounds.
+6.
+ T
+he process of cracking is developed to increase the yield of lower hydrocarbons 
+which serve as important fuels commercially.
+7.
+ Or
+ganic compounds are classified into acyclic and cyclic compounds.
+8.
+ T
+he study of organic chemistry is organized around functional groups. Each 
+functional group defines an organic family.
+9.
+ T
+he type of bonding and the shapes of different type of compounds formed by  
+carbon can be explained by sp3, sp2 and sp modes of hybridization.
+10.Compounds having the same molecular formula but different structural formulas       are called  isomers. There are four different type of structural isomers.     11.Isomerism arises due to restricted rotation around a carbon- carbon double bond
+        is called cis-trans isomerism.KEY POINTS
+Q l. Fill in the blanksi)  Organic compounds having same molecular formula but different ______are called isomers.ii)  The state of hybridization of carbon atom in ______ is sp
+2.
+iii) Alkenes show______ due to restricted rotation around a carbon-carbon double bond.iv) Heating an organic compound in the absence of oxygen and in the presence of________as a catalyst is called cracking.27
+7. Fundamental Principles of Organic Chemistry eLearn.Punjabv)  A group of atoms which confers characteristic properties to an organic 
+      compound is  called _________ .vi)  2-Butene is________of 1-butene.vii)  Carbonyl functional group is present in both_________and ketones.viii) A heterocyclic compound contains an atom other than______ in its ring.ix)  The quality of gasoline can be checked by finding out its_____ .x)  A carboxylic acid contains___________ as a functional group.
+Q.2 Indicate true or false.
+(i)   There are three possible isomers forpentane.(ii)  Alkynes do not show the phenomenon of cis-trans isomerism.(iii)  Organic compounds can not be synthesized from inorganic compounds.(iv)  All close chain compounds are aromatic in nature.(v)   The functional group present in amides is called an amino group.(vi) Government of Pakistan is trying to use coal for power generation.(vii) Crude petroleum is subjected to fractional sublimation in order to separate       it into different fractions,(viii) A bond between carbon and hydrogen serves as a functional group for        alkanes.(ix) o-Nitrotoluene and p-nitrotoluene are the examples of functional group       isomerism. (x) Almost all the chemical reactions taking place in our body are inorganic      in nature.
+Q 3. Multiple choice questions. Encircle the correct answer.
+(i) The state of hybridization of carbon atom in methane is:(a) sp
+3                            (b) sp2                             (c) sp                                  (d) dsp2
+(ii) In t-butyl alcohol, the tertiary carbon is bonded to:(a) two hydrogen atoms                                     (b) three hydrogen atoms(c) one hydrogen atom                                       (d) no hydrogen atom
+(iii) Which set of hybrid orbitals has planar triangular shape.
+(a) sp
+3                              (b) sp                               (c) sp2                                 (d) dsp2
+(iv) The chemist who synthesized urea from ammonium cyanate was:(a) Berzelius                  (b)Kolbe                           (c) Wholer                          (d) Lavoisier28
+7. Fundamental Principles of Organic Chemistry eLearn.Punjab(v) Linear shape is associated with which set of hybrid orbitals?
+(a) sp                              (b) sp2                               (c) sp3                                  (d) dsp2
+(vi) A double bond consists of:(a) two sigma bonds                                    (b) one sigma and one pi bond(c) one sigma and two pi bonds                (d) two pi bond
+(vii) Ethers show the phenonenom of:
+(a) position isomerism                                (b) functional group isomerism(c) metamerism                                            (d) cis-trans isomerism
+(viii) Select From the following the one which is alcohol:
+(a) CH
+3-CH2-OH                                              (b) CH3-O-CH3
+(c) CH3COOH                                                  (d) CH3-CH2-Br
+Q 4. How organic compounds are classified? Give suitable example of each type.Q 5. What are homocyclic and heterocyclic compounds? Give one example of each.Q 6. Write the structural formulas of the two possible isomers of C
+4H10.
+Q 7. Why is ethene an important industrial chemical?Q 8. What is meant by a functional group? Name typical functional groups containing      oxygen.Q 9. What is an organic compound? Explain the importance of Wohler’s work in the developrnent of organic chemistry.Q 10. Write a short note on cracking of hydrocarbons.Q 11. Explain reforming of petroleum with the help of suitable example.Q 12. Describe important sources of organic compounds.Q13. What is orbital hybridization? Explain sp
+3 sp2 and sp modes of hybridization 
+of carbon.Q14. Explain the type of bonds and shapes of the following molecules using hybridization approach.CH
+3 - CH3, CH2 = CH2, CH = CH, HCHO, CH3CI
+Q 15. Why there is no free rotation around a double bond and a free rotation around a single bond ? Discuss cis-trans isomerism.

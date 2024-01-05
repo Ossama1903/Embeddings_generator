@@ -1,0 +1,1052 @@
+CHAPTER
+17  Coordination And
+Control
+Animation 17 : Neuron
+Source & Credit: Wikispaces217. Coordination and Control eLearn.Punjab
+INTRODUCTION
+All organisms show certain common characteristics - one of them i s to respond to stimuli. These 
+stimuli may be internal or external, at molecular, sub-cellula r, cellular or organism level - to which 
+the organisms respond. The activities of diferent body parts in resp onse to these stimuli must be 
+coordinated. The coordination makes possible the integration of func tions essential to organismic 
+behaviour.
+Coordination is must for any organism to survive. In the unicellu lar organisms coordination exists 
+between various cellular processes, and they respond to changes in th eir environments such as 
+temperature, light intensity, concentration of various chemicals and  even to electric current.
+In multi-cellular organisms, although there is a division of labour among cells yet every cell can 
+respond to changes in its immediate vicinity. It must be noted that even the most highly developed 
+organisms, e.g.’we humans are unable to detect and respond to man y changes or stimuli in our 
+environment. We are unaware and not able to respond to presence of ba cteria on the surface of 
+our body, because our sensory cells do not detect their presence - b ut some of our internal body 
+cells do respond and produce chemicals or phagocytose them to destroy  them. We are unable to 
+see diferent radiations except for visible spectrum of light, but our body cells do respond to some 
+of them.
+Animation 17.1: Coordination and Control317. Coordination and Control eLearn.Punjab
+COORDINATION IN PLANTS
+CONTROL THROUGH HORMONES
+Plants, as compared to animals, are far from being passive,  and are complex dynamic organisms 
+that grow, change, react (to external/internal stimuli, and show r esponse. It is no exaggeration 
+to say that plants behave - but their behaviour is fundamentally di ferent from that of animals. 
+The diference is due to two ways of life - sessile on one hand and motile on the other. Much of 
+the behaviour of plants depends on variations in growth rates, or cha nges in the turgidity of cells, 
+when they show movement. The most obvious diference is in the slow speed of  response shown 
+by plants.
+Animals have evolved tissues like muscles, specialized for produ ction of rapid movements. Plants 
+and animals employ diferent ways to respond and have evolved control s ystems accordingly. In 
+plants the control is solely by the plant hormones while in animal s much more variety of hormones 
+and the nervous control, make them respond with greater speed to speciic stimuli.
+Hormonal control in plants is relatively a slow process. Even after hormone is synthesized, there is 
+a delay between the release, its arrival at the target cells, and its action in the body. So, response 
+to stimulus that induced the secretion of hormone is usually not im mediate. Keeping in view 
+the slowness of the mechanisms of plant movement, the delay involved in hormonal control is 
+insigniicant. All the activities of plants from growth to fruit pr oduction and ripening, are under the 
+control of plant hormones.
+Plants therefore, respond to the stimuli by:
+1. Regulating their growth and development in appropriate ways.
+2. Controlling their body functions through plant hormones or growth  hormones.
+PLANT MOVEMENTS
+You have studied these in the previous chapter. Many plants do not show  locomotion (movement 
+of the whole organism). However, movements of plant organs are possible and are modiied 
+according to the nature and intensity of external stimuli. There are two kinds of plant movements, 
+autonomic movements and paratonic movements.417. Coordination and Control eLearn.Punjab
+RESPONSES TO ENVIRONMENTAL STRESSES IN PLANTS
+All plants need water, light, carbon dioxide and a variety of nu trients from their environment 
+for optimal development and growth. The absence or short supply of a ny of these factors in 
+environment may exert environmental stresses on plants afecting their heal th and survival. If 
+plants are grown without light, they become extremely long and fai l to form chlorophyll. They are 
+said to be etiolated .
+Many plants take on a yellowish hue when they fail to form suici ent chlorophyll. This condition 
+known as chlorosis  is usually arises from short supplies, of mineral nutrients in the soil.
+DEFENSE AGAINST PATHOGENS IN PLANTS
+Diseases of plants may arise from infections by viruses, bacteria , fungi or lichens in most cases. 
+You have already studied diferent diseases caused by the above mentioned  pathogens in class XI.
+Plants may also show developmental abnormalities. If plants are  wounded, they often develop 
+masses of amorphous material with very poor diferentiation known as calluses . Plant tumors 
+and even plant cancers may arise and spread through the plant as an amorphous invasion of 
+surrounding well diferentiated tissues. Galls  are growths on a plant that are induced by parasites 
+and have usually highly organized growth e.g. The tumors in duced by bacteria. They are usually 
+less diferentiated than other types of galls.
+Animation 17.2: Defense against pathogens in platns517. Coordination and Control eLearn.Punjab
+BIOLOGICAL CLOCKS AND CIRCADIAN RHYTHMS
+In living things, the behavior activities occur at regular intervals  which are called biorhythms  or 
+biological rhythms . Biorhythms may occur showing periodicity of about 24-hours. These are called 
+circadian (Latin circa =about, dies =day) which means ab out one day, so they are also called diurnal 
+rhythms.
+If the biorhythms are of about 365 days, these rhythms in activity  are called circannual.
+The organisms come across environmental changes that are cyclic al in nature such as days, tides, 
+and seasons etc. Many organisms maintain internal rhythm or c lock, to predict the onset of the 
+periodic changes and to keep them prepared for these changes. 
+Biorhythms may be the result of the following:
+1. There may be direct response to various changes in the external (ex ogenous) stimuli.
+2. There may be an internal (endogenous) rhythm that progresses the organism’s behaviour in  
+     synchronicity w ith the exogenous temporal period, particula rly a 24 hour or a 365 day period.
+3. The synchronization mechanism may be a combination of 1 an d 2.
+The rhythms are in one’s genes but the environment inluences the rhythm s to some extent. Thus 
+timing of behavior results from a combination of efects of rhythmica l internal processes and timed 
+events of the environment.
+PLANT GROWTH REGULATORY 
+SUBSTANCES
+Some of the special substances produced by the plants 
+which inluence the growth and plant responses to 
+various stimuli are given below.Basic period of the clock is innate. Ervin 
+Bunning of the University of Tubingen, 
+Germany has shown that exposure of 
+fruit ly Drosophila  to constant conditions 
+for 15 consecutive generations fails to 
+eliminate the essentially 24 hr. rhythm of 
+this insect.617. Coordination and Control eLearn.Punjab
+(a ) Auxins : These are indole acetie acid (IAA) or its varients.
+• In stem, promote cell enlargement in region behind apex. Promote cell  division in cambium.
+• In root, promote growth at very low concentrations. Inhibit growth at hig her concentrations, e.g.  
+geotropism. Promote growth of roots from cuttings and calluses.
+• Promote bud initiation in shoots but sometimes antagonistic to cytokinin s and is inhibitory.
+• Promote apical dominance and fruit growth. They can sometimes ind uce parthenocarpy.
+• Cause delay in leaf senescence (aging) in a few species.
+• Inhibit abscission.
+Commercial applications:  Discovery of IAA led to the synthesis of wide range of compounds by  
+chemists. The synthetic auxins are economical than IAA to produc e and often more active because 
+plants generally do not have necessary enzymes to break them down.
+Synthetic auxins
+NAA (Naphthalene acetic acid)
+Indole propionic acidStimulates fruiting - help natural fruit set. 
+Sometimes causes fruit setting in absence of 
+pollination (parthenocarpy)
+2,4 D (2,4 Dichloro phenoxy acetic acid) Selective weed killer Kill s broad leaved species
+(dicots). Used in cereal crops and lawns to 
+eliminate weeds.
+Inhibits sprouting of potatoes.
+Prevents premature fruit drop (retards 
+abscission)717. Coordination and Control eLearn.Punjab
+(b) Gibberellin: These are produced commercially from fungal cultures.
+• Promote cell enlargement in the presence of auxins. Also promote cell d ivision in apical meristem 
+and cambium.
+• Promote ‘bolting’ of some rosette plants.
+• Promote bud initiation in shoots of chrysanthemum callus.
+• Promote leaf growth and fruit growth. May induce parthenocarpy.
+• In apical dominance, enhance action of auxins.
+• Break bud and seed dormancy.
+• Sometimes may substitute for red light. Therefore, promote lowering in longday plants, while 
+inhibit in short-day plants.
+• Cause delay in leaf senescence in a few species.
+Commercial applications: Some of their commercial applications are as under.
+1.  GA promote fruit setting e.g. in tangerines and pears and are used for growing seedless grapes 
+     (parthenocarpy) and also increase the berry size.
+2.  GA3 is used in the brewing industry to stimulate a-amylase produ ction in barley and this promotes
+     malting.
+3. To delay ripening and improve storage life of bananas and g rape fruits.
+(c) Cytokinins:
+• Promote stem growth by cell division in apical meristem and camb ium.
+• Inhibit primary root growth.
+• Promote lateral root growth.
+• Promote bud initiation and leaf growth.
+• Promote fruit growth but can rarely induce parthenocarpy.
+• Promote lateral bud growth, also break bud dormancy.
+• Cause delay in leaf senescence.
+• Promote stomatal opening.817. Coordination and Control eLearn.Punjab
+Commercial application: Cytokinins delay aging of fresh leaf crops, such as cabbag e and 
+lettuce (delay of senescence) as well as keeping lowers fresh. They can also be used to break 
+dormancy of some seeds.
+(d) Abscisic acid :
+• Inhibits stem and root growth notably during physiological stress , e.g. drought, and waterlogging.
+• Promotes bud and seed dormancy.
+• Promotes lowering in short day plants, and inhibits in long d ay plants (antagonistic to gibberellins).
+• Sometimes promotes leaf senescence.
+• Promotes abscission.
+• Promotes closing of stomata under conditions of water stress (wilting) .
+Commercial application:  Abscisic acid can be sprayed on tree crops to regulate fruit dr op at 
+the end of the season. This removes the need for picking over a larg e time-span.
+(e) Ethene:
+• Inhibits stem growth, notably during physiological stress.
+• Inhibits root growth.
+• Breaks dormancy of bud.
+• Promotes lowering in pineapple.
+• Promotes fruit ripening.
+Commercial application:  Ethene induces lowering in pineapple. Stimulates ripening of 
+tomatoes and citrus fruit. The commercial compound ethephon breaks d own to release ethene in 
+plants and is applied to rubber plant to stimulate the low of latex.
+CO-ORDINATION IN ANIMALS
+It is brought about in higher animals by nervous co-ordination a nd chemical co-ordination.917. Coordination and Control eLearn.Punjab
+NERVOUS CO-ORDINATION
+This type of co-ordination involves specialised cells or neurons l inked together directly or via the 
+central nervous system, to form network that connects the cell or organs w hich receive stimuli 
+(receptors) and those which carry out actions or responses (efectors).  The neuron has the capacity 
+to generate and conduct impulses which travel across the synapse an d pass from the receptors to 
+the efectors, brings about nervous coordination. The elements of nervous sy stem which help in 
+co-ordination are:
+1.              Receptors.                  2.             Neurons                   3.              Efectors.
+1. Receptors
+The neuron ibres and cell bodies can be excited by small electric  shocks, mechanical, chemical, 
+light and temperature stimuli. Receptors detect changes in the externa l and internal environment 
+of the animal. The receptor may be a cell, or neuron ending or a receptor organ. Receptors are 
+classiied as follows :
+(a) Chemoreceptors: These are for smell taste and for blood CO2 oxygen, glucose, amino acids and 
+      fatty acid (e.g. receptors in the hypothalamus)
+(b) Mechanoreceptors:  These detect stimuli of touch pressure, hearing and equilibrium (eg. Free 
+      nerve endings + expanded lip endings + stray endings)  !
+(c) Photoreceptors (electromagnetic receptors), these respond to stimuli of light for exa mple in 
+     eyes, rods and cones.
+(d) Thermoreceptors:  These are free nerve endings. These show response to cold and warmth .
+(e) Nociceptors:  (Undiferentiated endings) which produce the sensation of pain.1017. Coordination and Control eLearn.Punjab
+Each type of the principal type of sensation that 
+we can experience pain, touch, sight, sound 
+and so forth are called modalities of sensation. 
+Yet despite the fact that we experience these 
+diferent modalities of sensation; nerve ibres 
+transmit only impulses. How is it that diferent 
+nerve ibres transmit diferent modalities of 
+sensation? The answer to this question is:
+1. Each nerve tract terminates at a speciic point in the CNS; and the ty pe of sensation is determined 
+by the point in the nervous system to which the ibre leads. So touch sti mulus is carried by nerve 
+impulse in the ‘touch’ area of the brain. Similarly ibres from  the eyes (retina) terminate in the  
+visual cortex of the brain.
+2. Moreover, each receptor organ is specialised to receive a particular typ e of stimulus and this is 
+carried to the particular area of the brain. There are many receptors which respond to the 
+mechanical conditions of the internal organs. 
+Examples are the receptors of the stomach wall 
+which may be concerned with arousal of ‘hunger’; 
+stretch receptors in the carotid and aortic arteries 
+of tetrapods have important roles in the regulation 
+of blood pressure; endings with similar properties 
+are found in the branchial vessels of ishes.
+Animation17.5: Neuroanim
+Source and Credit:pia-magazine1117. Coordination and Control eLearn.Punjab
+Working of Sensory Receptors with Special Reference to Skin
+In the skin there are at least 3 diferent types of sensory endings in volved in touch stimulus reception. 
+In skin, the receptors are concerned with atleast ive diferent senses: tou ch, pressure, heat, cold 
+and pain.
+1. Situated at the base of hairs, hair end organs receive touch stim ulus.
+2. Meissner’s corpuscles (encapsulated endings) which lie in  papillae which extend into the ridges 
+    of the ingertips. The corpuscle consists of spiral and muc h twisted endings, each of which ends   
+    in a knob. These are touch receptors.
+3. Pacinian corpuscles - situated quite deep in the body. Thes e are also encapsulated neuron  
+    endings and receive deep pressure stimulus. Those located in th e limbs probably form a basis  
+    for vibration sense.
+The intensity of stimulus received would either be transmitted in the f orm of repeated impulses or 
+by more ibres carrying the impulse to the CNS.
+The relative abundance of various types of receptors difers greatly  e. g. pain receptors are nearly 27 
+times more abundant than cold receptors. The cold receptors are nearl y 10 times more abundant 
+than heat or temperature receptors. The receptors are not distributed evenl y over the entire surface 
+of the body e.g. touch receptors are much more numerous in the inger ti ps than in the skin of the 
+back, as might be expected in view of the normal functions of those tw o parts of the body.
+The stimulus received by the receptors in the skin which are th e endings of sensory neurons is 
+passed to the motor neurons via inter or associative neurons which are present in the brain and 
+via spinal cord impulse is sent by the motor neurons to the efectors, w hich are muscles and glands 
+(Fig. 17.1).The detection of vibrations of the ground by terrestrial vertebrates is prob ably achieved by 
+receptors in the joints.1217. Coordination and Control eLearn.Punjab
+2. Neurons
+The chief structural and functional units of the nervous system a re neurons, but there are other 
+cells, in higher animals, and in humans called neuroglia , which make up as much as half of the 
+nervous system. Neuroglia play a vital role in the nutrition of neu rons and their protection by 
+myelin sheath. There are three functional types of neurons-the sensory , associative (intermediate/
+relay) and motor neurons, in mammals (Fig. 17.2)Fig. 17.1 Sensory receptors of the skin. 
+The sensations of touch, pressure, heat, cold, and pain are detected by modiied sensory neurons 
+having naked nerve endings (touch and pain receptors) or specia lized cellular corpuscles (pressure, 
+hot and cold receptors).1317. Coordination and Control eLearn.Punjab
+Fig 17.2 Avariety of neuron types in human, beings.
+(a) The dendrites unlike the axon, often give a spiny look. (b)T he dendrites of certain brain cells 
+branch profusely, giving cell a treelike appearance, (c) Motor n eurons have long axons that run 
+from the C. nervous system to the efector (muscle); these axons are frequen tly,”but not always 
+myelinated. Note the presence of many granules ip the cell body and dendrites and their absence
+from the axon.(d) Many sensory neurons have only one iber, which branches a short distance 
+from the cell body, one branch (peripheral) running between the rec eptor site and the dorsal-root 
+ganglion in which the cell body is located, and the other branch  (central) running from the ganglion 
+into the spinal cord or brain. Except for its terminal portions, th e entire iber is structurally and 
+functionally of the axon type, even ‘though the peripheral branch c  mducts impulses toward the 
+cell body. A sensory neuron of this type thus has no true dendrites a though the peripheral branch 
+is often called a dendron because of the direction in which it con ducts impulses.1417. Coordination and Control eLearn.Punjab
+The neuron has protoplasmic processes arising from its cell body  containing nucleus and various 
+organelle embedded in the cytoplasm. There are two main types of cytopl asmic processes or ibres. 
+The one which carry impulse towards cell body is called  dendron , if it is a single ibre but if smaller 
+ibres _they are called dendrites (singular: dendrite). The processes conducting impulses away 
+from cell body are termed axons. These may be more than a meter lon g in some neurons. Nissl’s 
+granules  which are groups of ribosomes associated with rough E.R, and Golgi apparatus are present 
+in the cell body. Microtubules, neuroibrils, rough endoplasmic recticulum and mitochondria are 
+present throughout the axoplasm (cytoplasm of axon) of the neuron.
+The cell body or soma is the main nutritional part of the cell a nd is concerned with the biosynthesis 
+of materials necessary for the growth and maintenance of the neuron . If the cell body of the neuron 
+remains intact, it can regenerate axonal and dendrite ibres; but n eurons once mature, do not 
+divide any further. 
+3. Efectors
+These are the structures which respond when they are stimulated b y impulse coming via motor 
+neuron. The principal efectors are glands, which respond by s ecreting; and muscles which respond 
+by contracting. Flow of information through the nervous system is ex plained with the help of a 
+relex arc.
+Relex Arc
+Flow of impulse through the nervous system involving receptors, neurons,  and efectors will be 
+clear if we study an example of a relex arc.1517. Coordination and Control eLearn.Punjab
+Fig. 17.3 The pain-withdrawal relex
+This simple relex circuit includes each of the four elements of a neural pathway. (1) The sensory 
+neuron has pain-sensitive endings in the skin and a long iber  leading to the spinal cord. That 
+neuron stimulates (2) an association neuron in the spinal cord , which in turn stimulates (3) a motor
+neuron, also in the cord. The axon of the motor neuron carries action potentials to (4) muscles, 
+causing them to contract and withdraw the body part from the dam aging stimulus. The sensory 
+neuron also makes a synapse on association neurons not involved in th e relex that carry signals to
+the brain, informing it of the danger.1617. Coordination and Control eLearn.Punjab
+Relex arc is the path way of passage of impulse during a relex  action. Relex action is a type of 
+involuntary action. (Fig. 17.3). The direction of stimulus is from receptors to sensory neuron to 
+associative (association / relay) neuron and then through motor neuron  to the efectors.
+Animation17.7: Relex rotuline
+Source and Credit: Corpshumain1717. Coordination and Control eLearn.Punjab
+ Nerve Impulse
+Nerve impulse is a wave of electrochemical changes, which travels along the length of the neuron 
+involving chemical reactions and movement of ions across the cellmemb rane. Electrical potential 
+is a measure of the capacity to do electrical work. It represents a  type of stored energy which is- 
+manifested during separation of charges across a barrier. In the case of neuron, the charges are 
+positive and negative ions, and the charge separating barrier is  the plasma membrane. The electrical 
+potential that exists across a cell membrane is known as membrane potential . A typical neuron 
+at rest is more positive electrically outside than inside the cell membr ane. This net diference in 
+charge between the inner and the outer surface of a non-conducting neuron is called the resting 
+membrane potential.  The major factors which are involved in resting membrane potential are:
+1. Sodium and potassium ions:  Of the many kinds of ions present in the nerve cells and the 
+surrounding luid, sodium (Na+) and potassium (K+) ions are the most important. Sodium ions are 
+tenfold higher in concentration outside than inside the membrane s urface, whereas potassium ions 
+are twenty times more concentrated inside than outside. All the neurons have very active sodium 
+and potassium pumps located in their cell membranes. Driven by the splitting of ATP, these pumps 
+transport Na+ out and K+ into the cell, both against their respective concentration gradients.  For 
+every two K+ that are actively transported inward, three Na+ are pumped out. So inside becomes 
+more negative than the outside ofthe cell membrane o f neurons. (Fig. 17 .4)
+2. Negative organic ions:  The large negative organic ions (such as proteins, organic aci ds etc) 
+are much more inside the membrane than outside, where they are only i n negligible concentration. 
+This makes the inside of neuron membrane more negative.
+3. Leakage of K+ ions from neurons: The cell membrane is virtually impermeable to all ions 
+except K+. Since the membrane is slightly permeable to K+, some of it leaks out of the cell. The loss 
+of this positive ion from the neuron by difusion accounts for more neg ative’charges inside than 
+outside the cell membrane of neuron.
+4. No conduction of nerve impulse1817. Coordination and Control eLearn.Punjab
+Fig. 17.4 Resting potential
+(a) In the unstimulated state, a neuron has a membrane potential of approximately - 70mV. The 
+relative concentrations of the principal ions inside and outside the neuron are indicated by the sizes 
+of the chemical’”symbols (Na+ = sodium ion, K+ = potassium i on), (b) Two of the major processes 
+that contribute to the negative resting potential are the active exchange of N a+ for K+, .and the 
+outward difusion of K+. The sodium - potassium pump actively tr ansports Na+ out and K+ into the 
+cell, and is powered by the splitting of ATP by an associated enzyme, ATPase.
+Initiation of nerve impulse:  Under normal conditions a nerve impulse is initiated by an 
+appropriate stimulus (called threshold stimulus) applied at on e end of the neuron and it results in 
+a remarkable localized change in the resting mefmbrane potential.1917. Coordination and Control eLearn.Punjab
+It disappears for a brief instant and is replaced by a new p otential called action  or active membrane  
+potential which is in the form of impulse. During this state, the i nner membrane surface becomes 
+more positive than the outside. This change is so brief (for perhaps  a millisecond) that only a 
+portion of the neuron is in the active membrane potential state. 
+The major factors involved in changing the resting membrane potentia l to active membrane 
+potential are: (Fig 17.5)
+1. Na+ and K+ ions movement: The passage of nerve impulse is associated with increase in 
+permeability of Na+ ions moving inwards upsetting the potential momentarily, making th e inside 
+more positive than outside. Neurophysiologists believe that the increased permeability is due to 
+the opening of speciic pores in the membrane, termed “sodium gates”. When these gates open, 
+sodium ions rush into the neuron by difusion. Some K+ moves out.
+2. Charges are reversed:  The inner side of the cell membrane has excess of positive ions (thu s 
+positive charges) at its internal surface, and the outer surface b ecomes more negative.Animation17.8: Diporepol
+Source and Credit: cybercuba2017. Coordination and Control eLearn.Punjab
+17.5 Active or action potential
+(a) When a neuron is stimulated, the cell membrane at the point of stimulation undergoes a 
+momentary reversal in charge (dark color) called an action potenti al. Perhaps for a millisecond, 
+the inside of the membrane becomes positive relative to the outside, (b) Seq uence of membrane 
+potential changes associated with an action potential: (1) resting p otential (polarized state); (2) 
+sodium gates open and Na+ difuses into the cell, causing a depol arization of the membrane; (3) 
+; sodium gates close and potassium gates open; (4) K+ difuses ou t, causing a repolarization of 
+the membrane; (5) sodium - potassium pump restores original ion gradients and resting potential 
+(recovery). Steps (2) - (5) take a mere 2- - 3 milliseconds.2117. Coordination and Control eLearn.Punjab
+The normal speed of nerve impulse in humans is 100 meters per sec ond but maximum speed 
+recorded is 120 meters per second.3. Passage of nerve impulse:  During active membrane potential, the neuron conducts the 
+impulse in the form of nerve impulse.
+4. Membrane potential:  Active membrane potential of +0.05 volts (+50mv) exists. 
+These changes occur along the length of neuron till the impulse reac hes synapse. Soon after passage 
+of the impulse, the resting membrane potential is restored by the movement of a small number of 
+ions especially K+ moving out. This neuron now is ready to conduc t another impulse.
+It may be added that in myelinated neurons the impulse jumps fr om node to node (node of Ranvier). 
+This is called saltatory impulse.
+Synapse
+Consecutive neurons are so arranged that the axon endings of one neuron  are connected to the 
+dendrites of the next neuron. There is no cytoplasmic connection between the two neurons and 
+microscopic gaps are left between them. Each of these contact points is known as synapse.  
+A single neuron may form synapses with many incoming ibres of diferent neurons. 
+A nerve impulse is passed from one neuron to the other through the syn apse, but a single impulse 
+does not necessarily get across the synapse. It may take two or three impulses arriving in rapid 
+succession or perhaps simultaneously from two or more ibres to start an impulse in the next 
+neuron.
+The action potential cannot jump from one neuron to the next in line; ra ther the message is 
+transmitted across synapse in the form of chemical messenger c alled neurotransmitter.2217. Coordination and Control eLearn.Punjab
+When an impulse reaches a synaptic knob, synaptic vesicles wi thin fuse with the presynaptic 
+membrane, causing the release of neurotransmitter molecules into the sy naptic cleft. The 
+neurotransmitter molecules bind to the receptors, on the postsynaptic mem brane, triggering an 
+action potential in the postsynaptic neuron, by causing changes in its permeability to certain ions. 
+(Fig. 17.6)Fig 17.6 Communication across a synapse
+a
+b2317. Coordination and Control eLearn.Punjab
+Neurotransmitters are chemicals which are released at the axon endi ng of the neurons, at synapse. 
+Many diferent types of neurotransmitters are known. These are: acetylc holine, adrenaline, nor-
+epinephrine, serotonin and dopamine. 
+Acetylcholine is the main transmitter for synapses that lie outside the central nervous system. 
+Others are mostly involved in synaptic transmission within the br ain and spinal cord.
+Evolution of Nervous System
+There are two designs of nervous system in the animal kingdom.
+1. A difused nervous system, such as that of Cnidarians (Hydra,  jelly ish and their relatives)
+2. A centralized nervous system, found to varying degrees in more complex  organisms, from 
+platyhelminthes to chordates including humans.
+To understand the organization of the above mentioned types of nervous sys tem, we would study 
+them in Hydra , Planaria and humans. Nervous system design is highly co-related with the animal’s 
+life style. The irst main type of nervous system is a difused nervou s system. Hydra shows this type 
+of nervous system (Fig. 17.7a).
+Hydra,  a cnidarian, is a small animal which is sedentary in  its life style and prey and other dangers 
+are equally likely to come from any direction. Its nervous system c onsists of a network of neurons, 
+which is present between the ectoderm and endoderm. There is no head  in this animal and so 
+there is no centralized nervous system i.e. no brain and nerve cord s etc. However, a cluster cell of 
+bodies of neuron’s forming ganglia can be seen here and there. I t has been observed that neurons 
+are so arranged in the network that it is not possible to distinguish  them in connected functional 
+types of neurons as in higher animals i.e. there are no sensory,  associative (inter/relay) neurons, 
+or motor neurons, there are no specialized sense, organs in this ani mal. It has been observed and
+studied that when an appropriate stimulus is given, Hydra  responds - and almost the whole body 
+of the animal responds as a unit. The tentacles are more responsive and react to the stimulus 
+instantaneously (Fig. 17.7a).2417. Coordination and Control eLearn.Punjab
+The second type of nervous system is present in Planaria (Fig. 17 .7b) and humans. It is centralized 
+nervous system. The nervous system of Planaria  is better developed as compared with that of 
+Hydra  because in Planaria :
+(i)   There is beginning of a centralized nervous system. In th e anterior brain region of the body of 
+planaria,   
+        there is a bilobed mass composed of two ganglia. This acts as a ‘‘brairr “or a centralized collection 
+      of neurons. This receives and sends impulses from and to diferent parts of the body. There is 
+       no such concentration of neurons or a coordinating centre i n Hydra  - only a network of neurons   
+      is present.
+(ii)  There is diferentiation of neurons into sensory associative and  motor neurons. In Planaria ,       
+      associative neurons are present in the brain and longitudi nal nerves. Sensory neurons carry           
+      impulse to ‘brain’ or nerves and motor neurons carry imp ulse from central nervous system to         
+      diferent parts of the body. In Hydra there is no diferentiation of neurons. 
+(iii) In Planaria  at the anterior region, sense organs in the form of eyes and chemor eceptors are 
+      present. There are no specialized sensory organs in Hydra . 
+(iv)  The receptor cells sensitive to pressure and touch-are present in  Planaria . There are no       
+       specialized sensory cells in Hydra , but some nerve cells are moo, sensitive, to a particular 
+       stimulus - chemical or mechanical, than others.
+(v)  There are deinite nerves, the longitudinal and lateral in Pla naria. There are no nerves in Hydra.
+(vi) In Planaria  in addition to a supericial nerve net just below epidermis, there is  a deeper plexus 
+      embedded in the parenchyma. In Hydra  only a supericial nerve net is present (Fig 17.7a).
+Fig. 17.7 Nervous systems in Hydra and Planaria.2517. Coordination and Control eLearn.Punjab
+HUMAN NERVOUS SYSTEM
+Human nervous system is a type of centralized nervous system. Its cl assiication in diferent 
+subdivisions and diferent functions performed by these subdivision s are given in Fig 17.8.17.8 Classiication of the human nervous system2617. Coordination and Control eLearn.Punjab
+Central Nervous System (CNS)
+The CNS consists of brain (Fig. 17.9) and spinal cord, w hich are both protected in three ways. Cranium, 
+which is a part of skull, protects the brain and neural arc hes, of vertebrae of vertebral column 
+protect the spinal cord. The brain and spinal cord are also p rotected by triple layers of meninges. 
+The cerebrospinal luid (CSF), similar in composition to blood p lasma, bathes the neurons of brain 
+and spinal cord and it cushions against the bumps and jolts . Both brain and spinal cord are hollow. 
+The spinal cord has central canal and brain has many ca vities (ventricles) illed by CSF, which is also 
+present between the meninges. 
+Brain:  The brain can be divided into forebrain, midbrain and hindb rain. Forebrain is further divided 
+into three functional parts, the thalamus, the limbic system (Fig.  17.10) and the cerebrum. Thalamus 
+carries sensory information to the limbic system and cerebrum. Th e information includes sensory 
+input from auditory and visual pathways, from the skin and f rom within the body.
+The limbic system is located in an arc between the thalamus and  cerebrum. Limbic system works 
+together to produce our most basic and primitive emotions, drives, and b ehaviours, including 
+fear, rage, tranquillity, hunger, thirst, pleasure and sexual  responses. Portion of limbic system is 
+also important in the formation of memories. The limbic system consi sts of hypothalamus, the 
+amygdala, and hippocampus, as well as nearby regions of cerebrum. The hypothalamus through 
+its hormone production and neural connections acts as a major co- ordinating centre controlling 
+body temperature, hunger, the menstrual cycle, water balance, the s leep-wake cycle etc.
+n the amygdala, clusters of neurons produce sensation of pleasur e, punishment or sexual arousal 
+when stimulated. It is also involved in the feelings of fear and  rage.2717. Coordination and Control eLearn.Punjab
+I
+Hippocampus plays an important role in the formation of long term memory, and thus is required 
+for learning. Cerebrum is the largest part of the brain and i s divided into two halves, called cerebral 
+hemispheres. These halves communicate with each other by means of a large band of axons, called 
+corpus callosum. 17.9 The human brain
+A section through the 
+midline of the human brain
+reveals some of its major 
+structures.
+17.10 The limbic system 
+and thalamus
+The limbic system extends 
+through several brain 
+regions. It seems to be the 
+center of most unconscious 
+emotional behaviors, such 
+as love, hatred, hunger, 
+sexual responses, and fear. 
+The thalamus is a crucial 
+relay center among the 
+senses, the limbic system, 
+and the cerebral cortex.2817. Coordination and Control eLearn.Punjab
+Tens of billions of neurons are packed into this part. The outer reg ion, the cerebral cortex, forms 
+folds called convolutions, which greatly increase its surface area. This part receives sensory 
+information, processes it, stores some in memory for future use, di rects voluntary movements, 
+and is responsible for the poorly understood process that we call thi nking.
+The cerebral cortex contains primary sensory areas where signal s originating in sensory organs 
+such as eyes and ears are received and converted into subjective imp ressions, such as light and 
+sound. Nearby association areas interpret this information. This  area is also involved in speech 
+and also receives and interprets sensations of touch from all parts  of the body. This area is also a 
+centre for sending impulses to voluntary muscles, controlling movements . This is also involved in 
+intelligence, reasoning and judgement.
+The left cerebral hemisphere controls the right side of the body, and  right cerebral hemisphere 
+controls the left side of the body. Midbrain  is reduced in humans, and it contains auditory relay 
+centre and centre that controls relex movements of eyes. Midbrain contains  reticular formation, 
+which is a relay centre connecting hindbrain with the forebra in. Reticular formation is very 
+important in screening the input information, before they reach hi gher brain centres. Hindbrain  
+includes the medulla, pons and cerebellum. Medulla controls severa l automatic functions, such as 
+breathing, Heart rate, blood pressure and swallowing. Certain n eurons in pons, located above the 
+medulla, appear to inluence transitions between sleep and wakefulnes s, and the rate and pattern 
+of breathing. The cerebellum is important in co-ordinating movements  of the body. The cerebellum 
+guides, smooth and accurate motions and maintains body position. The cerebellum is also involved 
+in the learning and memory storage for behaviours. It is best devel oped in bird , which is engaged 
+in the complex activity of light.
+Spinal Cord:  Medulla oblongata narrows down into an oval shaped hollow cylind er, the spinal 
+cord, running through the vertebral column. It is made up of a ver y large number of neurons, the 
+cell-ibres and bodies of which are arranged in a deinite patter n. In cross section, the spinal cord 
+shows an inner butterly shaped grey matter, containing a central canal and the outer portion 
+composed of white matter. Gray matter, as in other parts of nervous system  consists of cell bodies 
+and non-myelinated nerve ibres or tracts. White matter is made up of myelinated nerve ibres or 
+tracts.2917. Coordination and Control eLearn.Punjab
+The spinal cord is the centre for great many relexes and it serves a s a pathway for conduction of 
+impulses to and from diferent parts of the body and brain (Fig 17.11).
+Peripheral Nervous System (PNS) 
+It comprises of sensory neurons and motor neurons, which may for m ganglia and the nerves. 
+Ganglia are the concentrations of cell bodies of neurons. The nerves  are the bundles of axons or 
+dendrites, bounded by connective tissue. They may be sensory motor or mixed nerves depending 
+upon the direction of impulse they conduct. In humans, there are 1 2 pairs of nerves, which arise 
+from the brain, or lead to the brain. These nerves are called cerebral or cranial nerves . Some of 
+these nerves are sensory, some motor, and some are mixed. From the spin al cord 31 pairs of spinal 
+nerves arise or lead to spinal cord. All these nerves are mixed havin g ibres of both sensory and 
+motor neurons.
+17.11 The Spinal cord3017. Coordination and Control eLearn.Punjab
+Motor neurons form somatic nervous system, which controls voluntary movem ents, which are 
+under the conscious control of the body, involving skeletal muscles. M otor neurons also form 
+autonomic nervous system, which controls involuntary responses by in luencing organs, glands 
+and smooth muscles. The autonomic nervous system is further divided into sympathetic nervous 
+system and para sympathetic nervous system (Fig 17.9).
+Autonomic Nervous System
+The motor neurons of autonomic nervous system are divided into the sympa thetic and para 
+sympathetic system. Both of these systems function automatically, in nervate all internal organs, 
+utilize two neurons and one ganglion for each impulse.
+Sympathetic system : Most ganglion ibres of the sympathetic system arise from the middl e 
+protion of the spinal cord and almost terminate in ganglia that li e near the cord. This system is 
+important during emergency situations and is associated with “ig ht or light.” This system accelerates 
+the heart beat, dilates the pupil and inhibits the digestion of food etc .
+Parasympathetic system :  A few cranial nerves including the vagus nerve together with 
+the nerves from the bottom portion of spinal cord, form the parasympath etic nervous system. It 
+promotes all the internal responses which are associated with the r elaxed state i.e. contraction 6f 
+the pupils, promotes digestion of food, retards heart beat etc.
+Nervous Disorders
+Following are some of the common disorders of nervous system in huma ns: 
+1. Parkinson’s disease : It is a nervous disorder, characterized by involuntary tremors, d iminished 
+motor power and rigidity. The mental faculties are not afected. The d isease is believed to be caused 
+by cell death in a brain area that produces dopamine. Onset of disease is usually in 50’s and 60’s. 
+The disease is slowly progressive; the patient may live for many yea rs. The disease may result by 
+head trauma. Efective drugs are available such as L- dopa. A naturally occuring protein called glial 
+cell-line derived: neurotrophic factor (GDNF) has been shown to boost uptake’ofdopamine, when 
+delivered to lab. rats and monkeys. GDNF may be used in near futur e for humans in the treatment 
+of this disease.
+2. Epilepsy : It is one of the convulsive disorders of nerves which are charac terized by abrupt 
+transient symptoms of motor, sensory, psychic or autonomic nature, f requently associated with 
+changes in consciousness. These changes are believed to be secondar y to sudden transient 
+alterations in brain function associated with excessive rapid elec tric discharges in the gray matter. 
+The onset of epilepsy is usually before age 30. Later age onset sug gests organic disease. In some 
+patients, emotional disturbances play a signiicant “trigger” rol e. Electroencephalography is the 
+most important test in the study of epilepsy. Anticonvulsant drugs ar e used. Alcohol aggravates 
+epilepsy, so persons sufering from epilepsy should avoid alcohol.3117. Coordination and Control eLearn.Punjab
+3. Alzheimer’s disease:  Alzheimer’s disease was irst described by Alois Alzheimer in 1907. It 
+is characterized by the decline in brain function. Its symptoms  are similar to those diseases that 
+cause dementia (memory loss). There is a genetic predisposition to th e disease in some people, so 
+it tends to run in families. There is also evidence that high levels  of aluminium may contribute to 
+the onset of this disease. There is also decline in brain function with age.
+Efect of Drugs on Coordination
+Action of Nicotine:  Nicotine afects post synaptic membrane in CNS and PNS. It mimi cs the 
+action of acetylcholine on nicotine receptors, so it is stimulant of nerve impulse. It increases the 
+heart beat rate, blood pressure and digestive tract mobility. Nicotine m ay induce vomiting and 
+diarrhoea and even may cause water retention relation by kidneys.
+CHEMICAL COORDINATION
+In animals, it involves endocrine system which comprises endocrin e glands in various parts of the 
+body, which secrete hormones. The endocrine or ductless glands are,  with a few exceptions, discrete 
+groups of cells, which make speciic chemical compounds call ed hormones (Greek hormone is 
+exciting, setting in motion). Endocrine system consists of some 20 en docrine glands/tissues lying in 
+diferent parts of the body.3217. Coordination and Control eLearn.Punjab
+Hormones
+Hormones are organic compounds of varying 
+structural complexity (see below). They are 
+poured directly and are transported to blood to 
+respective target tissues. The hormones afect the 
+target cells. They do not initiate new biochemical 
+reactions but produce their efects by regulating 
+enzymatic and other chemical reactions, already 
+present. They may either stimulate or inhibit a 
+function. Hormones may also control some long 
+term changes, such as rate of growth, rate of 
+metabolic activity and sexual maturity. 
+Chemically hormones may be of following four 
+types:
+(i) Proteins (e.g. insulin and glucagon .) (ii) Amino 
+acids & derivatives (e.g. Thyroxine, epinephrine 
+and norepinephrine) (iii) Polypeptides (e.g. 
+vasopressin or anti-diuretic hormone and 
+oxytocin), and (iv) Steroids (e.g. oestrogens, 
+testosterone and cortisone.)
+ENDOCRINE GLANDS OF 
+MAMMALS 
+Hypothalamus
+It is a part of the forebrain. It is here that many 
+of the sensory stimuli of nervous system are 
+converted into hormonal responses. It is believed 
+that oxytocin and antidiuretic hormone (ADH) 
+are produced in hypothalamus and travel down 
+the nerves to the posterior lobe of pituitary to be 
+stored. They are released from their storage after 
+receiving nerve impulses from the hypothalamus.
+(Fig 17.13)
+17.13 The Hypothalamus - Pituitary Connection.
+Neurosecretory cells in the hypothalamus
+produce and secrete a variety of hormones.
+One of the nerve clusters synthesizes oxytocin 
+and vasopressin, then stores them in nerve 
+endings located in the posterior pituitary. 
+Upon proper stimulation from the brain, 
+oxytocin and vasopressin are released into 
+the blood supply of the posterior pituitary. 
+Other nerve clusters in the hypothalamus 
+produce and secrete a battery of releasing 
+and inhibiting hormones, which are carried 
+by the blood to the anterior pituitary. There, 
+they regulate the secretion of various tropic 
+hormones, growth hormone, and prolactin 
+manufactu red by the anterior pituitary cells.3317. Coordination and Control eLearn.Punjab
+The Pituitary Gland
+In man, the pituitary gland or hypophysis cerebri is an ovoid structure about 0.5 gm in the adult 
+and is connected to brain through a short stalk (the infundibulu m). It has three lobes viz, anterior, 
+median and posterior. The anterior lobe is often referred to as the ma ster gland, because in addition 
+to producing primary hormones it produces the tropic hormones whic h control the secretion of 
+homones in many of the other endocrine glands (Fig. 17.13).
+Anterior lobe:  Anterior lobe of pituitary secretes the following hormones:
+1. Somatotrophin hormone (STH) :  Somatotrophin releasing factor (SRF) is secreted from 
+hypothalamus throughout the life. When growth has mostly ceased a fter adolescence, the hormone 
+continues to promote protein synthesis throughout the body. If produced i n excess during early 
+life, leads to gigantism or if later in life causes the abnorma l development of hands, feet, jaws, etc. 
+(known as acromegaly). If there is undersecretion, dwarism resu lts, as well as other symptoms 
+associated with lack of thyroid and adrenal hormone.
+2. Thyroid stimulating hormone (TSH) : Release of thyrotroph in releasing factor from the 
+hypothalamus is controlled by the levels of nuyoxine in the blood. I n the presence of low levels of 
+thyroxine, there is increasing production of TSH and vice versa (F ig 17.16). It is secreted throughout 
+life but particularly reaches high levels during the periods of rapid growth and development. It acts 
+directly on the cells of the thyroid gland, increasing both their n umbers and their secretory activity 
+(Fig. 17.15).
+3. Adrenocorticotrophic hormone (ACTH) (Corticotrop hic hormone):  Release of 
+corticotrophin releasing factor from the hypothalamus is controlled by steroid levels in the blood 
+and by direct nervous stimulation of the hypothalamus as a result of stress e.g. cold, heat, pain, 
+fright, infections. Excess and deiciency results ui disturban ce of normal adrenal functions.
+4. Gonadotrophic hormones (GH) :  These are follicle stimulating hormone (FSH), luteinising 
+hormone (LH also called interstitial cell stimulating hormone ICSH , in the male), prolactin (sometimes 
+inappropriately called luteotrophic hormone, LTH). 
+FSH and LH/1CSH share a common hypothalamic releasing fa ctor. Prolactin is continuously produced 
+from the pituitary and is inhibited by prolactin inhibiting f actor (PIH) from the hypothalamus. Prolactin 
+stimulates milk production and acts with LH as described below . FSH in females stimulates follicle 
+development and secretion of oestrogens from the ovaries; in males it stimul ates development 
+of the germinal epithelium of the testis and sperm production. LH wor ks with FSH to stimulate 
+oestrogen secretion and rupture of mature follicles to release egg or ovum. It also causes the 
+lutenisation (lit. “turning yellow’) of the latter and acts synergi stically with prolactin to maintain the 
+corpus luteum (and hence the progesterone it secretes). ICSH in the ma le stimulates the interstitial 
+cells of the testis to secrete testosterone.3417. Coordination and Control eLearn.Punjab
+Median lobe :  Median lobe secretes the following hormone :
+Melanophore stimulating hormone (MSH) :  Its inhibition of secretion is controlled by 
+hypothalamus. External light governs its secretion. More secretion in pregnancy stimulates 
+melanocytes in skin to produce brown pigment, melanin, which da rkens the skin. Excess MSH is 
+secreted in Addison’s disease. One of the symptoms of which is d arkening of the skin.
+Posterior lobe: Posterior lobe of the pituitary gland secretes the following hormones:
+1. Antidiuretic hormone (ADH) or Vasopressin:  Its secretion iscaused by decrease in blood 
+pressure, blood volume, and osmotic pressure of the blood which is detected by osmoreceptors in 
+hypothalamus. External’ sensory stimuli also inluence hypothala mic neurosecretory cells. Increased 
+levels cause increased water reabsorption in distal parts of nephr on. A lack of this hormone produce 
+diabetes insipidus, characterized by production of large quanti ties o f dilute urine and great thirst.
+2. Oxytocin :  Its release is stimulated by distension of cervix, decrease in prog esterone level in 
+blood, and neural stimuli during parturition and suckling.  Primary action is on smooth muscle, 
+particularly in the uterus during childbirth, and also cau ses milk ejection from mammary glands.
+Thyroid gland
+In mammals it consists of two lobes situated below the larynx (Fig . 17.15). It produces thyroxine 
+(or tetraiodo-thyonine: T4), tri-iodothyronine or T3 (which has a structure similar to thyroxine 
+with 3 iodine atoms rather than 4) and calcitonin hormone. The th yroid is active continuously but 
+produces higher levels of secretions during periods of rapid gr owth and sexual maturation and in 
+stress situations such as cold and hunger.3517. Coordination and Control eLearn.Punjab
+Thyroxine and tri-iodothyronine, the two hormones act in essentially the same way. They act on the 
+basal metabolic rate by stimulating the breakdown of glucose and release of heat and generation 
+of ATP. They also act in conjunction with somatotropin in bringi ng about growth, and act directly 
+on brain cells causing them to diferentiate. In amphibians, they  bring about the process of 
+metamorphosis. If secretion of thyroid is deicient,, tadpole larva of frog does not metamorphose 
+to develop into frog, but instead grow to a large sized tadpole.
+Excess thyroxine produces a condition called Graves’ disease, with  exophthalmic goiter and increase 
+in the basal metabolic rate. This can lead to cardiac failur e if prolonged. The cause of Graves’ 
+disease is the production of an abnormal body protein which contin uously stimulates the thyroid 
+to excessive secretion.
+If congenitally deicient, the lack of thyroxine causes cretinism, where the individual fails to develop 
+normally. They are small, have coarse scanty hair, thick yell owish scaly skin and are mentally 
+retarded. They also fail to develop sexually. Deiciency later in lif e, perhaps due to iodine shortage 
+in diet, produces swelling of the neck (goiter) and may lead to d eposition of excess fat as a result 
+of which’weight is increased. The condition is known as myxoed ema, and it is characterized by 
+puiness of hands and skin.
+All bodily and mental processes are retarded. High Ca+ ion concentration in the blood causes 
+stimulation of the synthesis and release of calcitonin; low levels of Ca++ ions suppress its manufacture. 
+Excess or deiciency leads to disturbance of calcium metabolism w ith its associated efects on nerve, 
+skeleton, muscle, blood etc. Calcitonin is antogonistic to parathormone hormone.
+Table salt with iodine is recommended so that there is no deiciency of  iodine and thus of 
+thyroxine in the body.3617. Coordination and Control eLearn.Punjab
+17.15 The thyroid and parathyroid glands
+(a) The thyroid and parathyroid glands are Iocatevl Mow the Uiryn x in the neck’,
+(b) Individuals with iodine-deicient diets may have goiter, a cond ition in which the thyroid
+    becomes greatly enlarged.3717. Coordination and Control eLearn.Punjab
+Parathyroids
+In man the glands are found embedded in the posterior part of the l ateral lobes of the thyroid. These 
+produce a hormone called parathormone. Low levels of blood Ca++ ions stimulate the parathyroid 
+directly to increase parathormone production whereas high  evels of Ca++ ions suppress its release. 
+Under-activity causes a drop in blood Ca++ ions which in turn leads to muscular tetany. Over-activity 
+would lead to a progressive demineralization of the bones similar to rickets, as well as to the 
+formation of massive kidney stones. Both conditions may be fatal.
+Islets of Langerhans (Pancreas)
+This is under control of the pituitary trophic hormones STH and ACTH and also responds directly 
+to the level of blood glucose. The islets contain large number of p c ells associated with insulin 
+production. The smaller number of a cells secrete glucagon. In g eneral, insulin depresses blood 
+glucose levels, in a variety of ways which include increasing  glycogen synthesis and increasing cell 
+utilization of glucose. It also stimulates conversion of glucose into lipid and protein, which in turn 
+reduce glucose levels.
+Insulin inhibits the hydrolysis of glycogen in the liver and the muscles. Failure to produce insulin 
+leads to a condition called diabetes mellitus . The symptoms of this are high level of blood sugar, 
+sugar in the urine, a disturbance of the body’s osmotic equilibr ium and derangement of the 
+nervous system. Toxic metabolites from fat (which need ‘glucose energy ’ for their oxidation) also 
+accumulate and are only lost from the kidney with valuable metal cations. The body becomes 
+dehydrated. If excess insulin is produced the utilization of s ugar is too great and its level falls in the 
+blood (hypoglycaemia) which upsets nerve and muscle functionin g.3817. Coordination and Control eLearn.Punjab
+Glucagon is essentially antagonistic to insulin and causes an  increase in blood glucose level s. It 
+does this mainly by promoting breakdown of glycogen to glucose in  the liver and muscles. It also 
+increases the rate of breakdown of fats. 
+Glucagon abnormalities seem rare as endocrine disorders. Tum ors on the a cells will cause excess 
+glucagon secretions and consequently high blood glucose levels. Thi s in turn damages the a cells 
+with the results described above.
+Adrenals
+A pair of adrenal gland is present, one on top of each kidney. I ts outer layer in called adrenal 
+cortex and inner is adrenal medulla. The medulla produces the h ormones adrenaline (epinephrine) 
+and noradrenaline (norepinephrine) The adrenal cortex secretes cor tico-steroids such as cortisol, 
+corticosterone, aldosterone, and androgenic hormones. (Fig. 17.16)
+17.16 The adrenal gland3917. Coordination and Control eLearn.Punjab
+Adrenaline and noradrenaline hormones:  Both adrenaline and noradrenaline are secreted 
+in stress situations. Essentially adrenaline dilates blood vessels in certain parts of the body such 
+as the skeletal muscles and increases the heart’s output. Noradrenal ine constricts blood vessels 
+but again only in certain areas, such as the gut, so the efects of  the two hormones are synergistic 
+in raising blood pressure. Adrenaline and noradrenaline prom ote the release of glucose from 
+liver glycogen and reinforce the efects of the sympathetic system. Rarel y found, but in excess, 
+these hormones lead to abnormally high blood pressures. In rats w hose adrenal medulla has 
+been removed surgically, the ability to withstand any stress situ ation - such as cold - is markedly 
+diminished. 
+Cortical hormones:  The adrenal cortex is active at all times but especially so follow ing shock 
+or stress situations and infections. Cortisol is the glucocorticoid, and brings about an increase in 
+blood glucose level mainly by its production fronr protein and b y antagonizing the action of insulin.
+Corticosterone is both a glucocorticoid and a mineralocorticoid; it in creases blood glucose levels 
+and regulates mineral ion balance. Aldosterone is the princip al mineralo-corticoid and conserves 
+the level of Na+ ions in the body by preventing their loss from the kid ney tubules.
+ 
+The destruction of the adrenal cortex, such as occurs in Addison’ s disease, will lead to general 
+metabolic disturbance, in particular weakness of muscle acti on and loss of salts. Stress situations, 
+such as cold, which would normally be overcome, lead to collapse and death. The reverse of 
+this is found in Cushing’s disease where too much cortical hor mone is produced. Symptoms are 
+an excessive protein breakdown resulting muscular and bone wea kness. The high blood sugar 
+disturbs the metabolism as in diabetes. Androgens cause development of the secondary male 
+characteristics. Very small amounts of androgens are secreted in both male and female by adrenal 
+glands. A tumor on the inner part of the adrenal cortex in a fema le can cause excess of androgens 
+to be produced and thus the development of certain male characteristics . Such cases are very rare.
+Gut
+Many parts of the gut function as endocrine tissue. The important h ormones produced are:4017. Coordination and Control eLearn.Punjab
+1. Gastrin:  Gastrin is the hormone produced by mucosa of the pyloric region of  the stomach. It 
+stimulates the secretion of gastric juice. It is produced under the i nluence of protein food in the 
+stomach after it is partially digested.
+2. Secretin:  It is produced from the duodenum when acid food touches its lining . It afects the 
+pancreas to produce and release pancreatic juice and also afects the rate of bile production in the 
+liver. 
+Gonads
+(a) Ovary
+1. Oestrogen :  Oestrogen is secreted by ripening follicles (and, in many s pecies, by interstitial 
+cells of the ovary) whose development has been initiated by FSH from the pituitary. Oestrogens 
+bring about the development of the secondary sexual characters in the female, cause thickening 
+of the uterine wall and, at a point during the oestrous or menstrua l cycle, exert a positive feedback 
+which results in a sharp rise in LH output by the pituitary. They also aid in healing and repair of 
+uterine wall after menstruation. Under the inluence of oestrogen, some of th e cells of uterine wall 
+become glandular and start secreting proteinaceous secretions which are taken up by the embryo 
+during its early stages of development. Deiciency of the sex hormones, f or one reason or another, 
+leads
+in the young of failure to mature sexually and sterility in the a dult.
+2. Progesterone : Produced by the ruptured follicle in response to LH from the pituita ry. 
+Progesterone inhibits further FSH secretion from the pituitary, thus  preventing any more follicles 
+from ripening. It also afects the uterus, causing further thicken ing and vascularization of its wall, and 
+other areas of the female body, preparing it for maintaining the sta te of pregnancy. It suppresses 
+ovulation. That is why it is a major constituent of birth control pi ll.4117. Coordination and Control eLearn.Punjab
+(b) Testes
+The testes consist of many coiled seminiferous tubules where the sperma tozoa develop and, 
+between the tubules, regions of interstitial cells produce gonadal horm ones called testosterone 
+and 17 b-hydroxytestosterone.
+After the initiation of development, the sex organs in the foetus produce th em, and their level 
+rises fairly consistently until puberty. After puberty the suppl y of LH (ICSH), and therefore, the level 
+of testosterone, remains constant. In the foetus, it initiates the developmen t of the sex organs. 
+At puberty it brings about development of the male secondary characteri stics and promotes the 
+sex drive. The castrated male fails to develop secondary sexual char acteristics and his body tends 
+more towards the form of the immature female.
+Feedback Mechanism
+It is a type of interaction in which a controlling mechanism is  itself controlled by the products of 
+reactions it is controlling. 
+For proper body functions, two opposing systems are needed, if there a re accelerators, there must 
+be inhibitors. If one hormone in the body promotes or stimulates a rea ction, another hormone would 
+be checking the same. In the body, interaction is mainly main tained due to feedback mechanism. 
+In this way, concentration of secretions is itself controlled becau se certain information is passed to 
+the source or in other words is fed back so that the output of the sec retion is adjusted accordingly, 
+depending on the activity of the body. The interaction between the. pituita ry and other endocrine
+glands, over which it exerts control, is an example of feedback mechanism and this mechanism is 
+very common in living systems. Feedback in thyroid gland functi on is described. (Steps correspond 
+to the ig. 17.17).4217. Coordination and Control eLearn.Punjab
+Fig. 17.17 Negative feedback in thyroid gland function4317. Coordination and Control eLearn.Punjab
+ 
+1. Low body temperature or stress stimulates neurosecretory cells of the hypothalamus, whose 
+releasing hormones trigger the release of 2.Thyroid-stimulating horm one (TSH) in the anterior 
+pituitary. 3. The TSH then stimulates the thyroid gland to release th yroxine. 4. Thyroxine causes an 
+increase in the metabolic activity of most body cells, generating ATP  energy and heat. 5. Both raised 
+the body temperature and higher thyroxine levels in the blood inhibit the releasing-hormone cells 
+and the TSH-producing cells.
+Comparison of Nervous Coordination 
+and Chemical Coordination
+Similarities:
+1. Both hormone producing cells and nerve cells (neurons) synthesi ze chemical “messenger”.
+2. Both release the messenger chemicals in extra cellular spaces of the body.
+3. Both help in co-ordination of the body.
+4. Both function in response to speciic stimuli either from within the body or from
+the external environment.
+5. Both are homeostatic in function.4417. Coordination and Control eLearn.Punjab
+Diferences:
+Nervous Coordination Chemical Coordination
+1. Neurons (sensory, associative and motor), 
+are the basic units of structure and function. In 
+addition neuroglial cells are also present, which 
+provide nutrition and protection to neurons.1. Hormone producing cells and neuro secretory 
+cells (such as those found in the hypothalamus), 
+release hormones and are units of structure 
+and function.
+2. Chemicals produced by neuron endings act 
+where they are produced i.e. very close to the 
+cells they inluence, commonly from less than 
+a micrometer away For example, acetylcholine 
+produced by nerve endings at synapse, excites 
+the next neuron.2. Chemicals produced (the hormones or neuro 
+hormone) are poured into and are transported 
+by blood. These hormones afect the target cells, 
+which are far away from where the hormones 
+are produced. ADH is produced from posterior 
+lobe of pituitary giand; but afects the target cells 
+present in the nephron and collecting tubule of 
+kidney, to control re-absorption of water.
+3. in this system the neurons release its 
+neurotransmitter into one or a small group of 
+speciic cells.3. The blood borne hormones bathe millions of 
+cells indiscriminately and only a few respond to 
+these hormones.
+4 This has immediate efect or show response 
+to a stimulus instantly.4. There may have immediate efects (e.g. 
+insulin), but mostly hormones have prolonged 
+or delayed  efects for example growth hormone.
+5. This control is afected through the electrical 
+signals that travel within the cell itself and it 
+releases its neuro transmitters only where it 
+reaches its target5. This control involves only chemical stimulation 
+and the target cells are far away from them:
+6, This shows faster or rapid efect. The speed 
+of impulse in most cases is 100 meters/second; 
+but maximum speed of nerve impulse recorded 
+in the human beings is 120 meters/second.6. it is not very rapid; but shows slow but 
+prolonged efects.
+7. The chemicals involved in this system (the 
+neurotransmitters or neuro hormones) are 
+short lived i.e. broken down shortly after .heir 
+release. Thus the efects of messengers sent by 
+neurons tend to be of much shorter duration.7. The hormones are the chemicals, which 
+remain active for much longer duration within 
+the blood; and thus have much longer duration 
+for their actions.4517. Coordination and Control eLearn.Punjab
+BEHAVIOUR
+Behaviour is divided into two main types, innate behaviour and lear ned behaviour.
+Innate Behaviour
+It is a collection of responses that are predetermined by the inheritanc e of speciic nerve or 
+cytoplasmic pathways in multicellular or unicellular (acell ular) organisms. As a result of the built 
+in pathways,a given stimulus would produce invariably the sam e response. All plant behaviour is 
+innate. 
+These behaviour patterns have been developed and been reined over many genera tions (selected) 
+and their primary adaptive signiicance lies in their survival value to the species.
+Another feature is the economy it places on nerve pathways within mu lticellular organisms since it 
+does not demand on the higher centre of the nervous system.
+Types of innate behaviour:
+1. Orientation
+(i) Kineses: It is a behaviour in which an organism changes the speed of random movements 
+which help them to survive in the environment e.g. this type of behaviou r enables pilibugs to reach 
+the moist area which is required for their life.
+(ii) Taxes:  In contrast to kineses a taxis (plural: taxes) is a directed m ovement either towards 
+(positive taxis ) or away from (negative taxis) a stimulus.
+2. Relexes and instincts
+These are extremely complex behaviours and include biological rhy thms, territorial behaviour, 
+courtship, mating, aggression, altruism, social hierarchies and social, organizations.4617. Coordination and Control eLearn.Punjab
+Instincts & Learning
+Darwin (1859) was the irst to propose an objective deinition of instin cts in terms of animal 
+behaviour. He treated instincts as complex relexes made up of units c ompatible with the 
+mechanisms of inheritance, and thus a product of natural selec tion, that had evolved together with 
+the other aspects of life. Thus instinctive behaviour is a part of  one’s inherited structure by which 
+the individual responses to a particular stimulus. This respons e is similar in members of a species. 
+All animals inherit certain responses which equip them to live h aving abilities like walking, moving 
+running and eating etc.
+The early ethologists (Uexkull 1934, Lorenz 1935) thought that anim als sometimes respond 
+instinctively to speciic though often complex stimuli. Such stimuli  came to be called “sign stimuli”. 
+A sign stimulus is a part of stimulus coniguration and may  be relatively simple part. For example a 
+male three-spined stickle back ish has a characteristic red bel ly when in breeding condition. This is 
+a ‘sign stimulus’ that elicits aggression in other territorial m ales.
+Instincts equip an animal with speciic response to a particula r stimulus, thus enabling it to adapt to 
+its environment. Learning on the other hand, depends on the experiences in one’s own life but for 
+this to occur, depends upon the development and evolution of the nervous sy stem of that animal. 
+So the higher animals have higher level of learning. Lower anima ls because of poorly developed 
+systems to responds to a particular stimulus learn very slowly, and even in some cases do not 
+have the ability to modify or change their instinctive behaviour. The selective responses to stimuli 
+suggested that there must be some built-in mechanism by which si gn stimuli were recognized. This 
+mechanism came to be called the innate releasing mechanism (IRM) . The important aspect of this 
+concept is that the mechanism is envisaged as being innate, that is , both the recognition of the sign 
+stimulus and the resulting response to it are inborn and chara cteristic of the species.
+Instinct can equip an animal with series of responses. This is important for animals with short life 
+spans and with little or no parental care. For example, a femal e digger wasp ( Ammophila adriaansei ) 
+prepares a nest, catches caterpillars, kills them by sting, p uts them in nest, lays eggs on them and 
+then closes the nest. After doing all this, she dies. The larvae a fter emerging from the eggs, start 
+feeding on caterpillars killed by their mother before death and g row to digger wasps. All this is 
+completed within few weeks and is done by instincts of digger was p, which may be responding to 
+perception of a caterpillar (the possible sign stimulus) in dif erent ways.4717. Coordination and Control eLearn.Punjab
+Instinctive behaviour Learning behaviou r
+• This is the type of behaviour that depends 
+on the heredity material which the animal 
+inherits. The animal may be born with the 
+right responses built in the nervous system 
+as part of its inherited structure.• This type of behaviour depends on the 
+environmental inluence, but the ability 
+to modify the behaviour depends on the 
+heredity material.
+• Experience has no obvious inluence on this 
+type of behaviour.• Experience has an obvious inluence on this 
+type of behaviour.
+• This type of behaviour depends on the 
+selection operating during the history of 
+species, so that it helps in the adaptability of 
+the organism in the environment.• This type of behaviour depends on the 
+selection operating during the history of the 
+individual (during one’s life-time) so as to help 
+the organism in its adaptability in the given 
+environment.
+• Instinct can equip an animal with a series of 
+responses. This is advantageous for animals 
+with short life spans, and with little or no 
+parental care.• Learning can equip an animal with a set of 
+adaptive responses to its environment. This 
+is advantageous for those animals -which 
+have long life spans and have parental care, 
+so that they can modify the behaviour by 
+previous experiences.
+• This type of behaviour evolves slowly in the 
+species.• This type of behaviour evolves during the 
+life cycle of the individual but the ability of 
+learning depends on the genetic basis of the 
+individual.
+For example:
+(i) Honey bees inherit the ability to form wing 
+muscles and wings for light. They inherit the 
+tendency to ly towards lowers to seek nectar 
+and pollen.
+(ii) Behaviour of digger wasp is instinctive; but 
+it does learn certain things during its brief life, 
+such as locality of each of its nests, where it has 
+to return after hunting.For example:
+(i) Conditioned relex type I, in case of dogs 
+where dogs learn to salivate on ringing of bell 
+alone. 
+(ii) Trial and error learning in case of cat, when 
+it learns to press, the lever to open the door of 
+the cage. 
+(iii) Crawling snail on a sheet of glass, learns that 
+tapping has no harmful efect and ceases to 
+respond after few early responses.4817. Coordination and Control eLearn.Punjab
+Learning Behaviour (Modiication through experience)
+Thorpe deined learning as that process which manifests itself by  adaptive changes in individual 
+behaviour as a result of experience. 
+Thorpe classiied learning behaviour into six types:
+(1) Imprinting
+(2) Habituation
+(3) Conditioning or conditioned relex type i.
+(4) Operent conditioning or conditioned relex type ii.
+(5) Latent learning
+(6) Insight learning.
+1. Imprinting :  Imprinting is a form of learning which is best known in b irds such as geese, ducks, 
+and chickens, which are all precocial birds. Shortly after hatching, ducklings and other young birds 
+have a tendency to follow moving objects in their surroundings. They  show a brief sensitive period 
+during which the shape of form of objects can be ‘imprinted’, w ith the result that the young birds 
+will follow them. Normally, of course, the irst moving object encounter ed is the mother bird, and 
+it is obviously adaptive for the young birds to learn her appeara nce and to follow her. However, 
+if its parents are absent, a young bird may imprint on other sp ecies of birds, human beings, or 
+inanimate objects.
+2. Habituation : Habituation is the simplest form of learning and involves modiicati on of 
+behaviour through a diminution of response to repeated stimuli. A los s of receptivity to repetitious 
+stimuli can be useful in preventing a drain of energy and attenti on for trivial purposes. For examples:
+(i) A snail crawling on a sheet of glass retracts into its sh ell when glass is tapped. After a pause, it 
+emerges and continues moving. A second tap causes retraction again  but it emerges more quickly. 
+Ultimately, tapping has no efect and snail ceases to respond.4917. Coordination and Control eLearn.Punjab
+(ii) Rodents respond to alarm calls by others in their group, i f these calls are continued and no 
+danger is conirmed, further calls may be ignored.
+3. Conditioning or conditioned relex type I: Conditioning or conditioned relex type I 
+involves the pairing of an irrelevant stimulus with a natural pr imary stimulus that elicifs an automatic 
+response.
+Pavlov conditioned the dogs to secrete saliva on ringing of the bell, whi ch is not normal stimulus 
+for secretion of saliva. In his experiments, he would ring the bel l just before giving food to the dogs, 
+so the dogs became conditioned to secondary stimulus or conditioned sti mulus (ringing of bell) 
+and started secreting saliva in response to it as if it were the natu ral stimulus. This type of learning 
+broadens the ability of an organism to react appropriately to environ mental changes, since the 
+conditioning process removes dependence on one kind of relex symbol for action.
+4. Operent conditioning or conditioned relex type II: Operent conditioning or 
+conditioned relex type II (also called trial and error learning) is a more complex type of learning 
+than habituation. This type of learning has been demonstrated and studied by Thorndike and B.F. 
+Skinner, a Harvard psychologist. Under natural conditions, the a chievement of a particular goal is 
+the reward that directs random activities into a behavioural pattern. Trial and error repetitions, 
+step by step, lead to inal achievement. Experiments on rats and cats were performed to run a 
+maze to either get or ind food, or to depress a lever and come out of the cag e. In this case irst 
+experience is accidental and then it is rewarded, animal learn s with latter experience.
+5. Latent learning:  Thorpe deined latent learning as the association of indiferent stimul i or 
+situations without patent reward. 
+Suppose we put a rat in a maze as it wanders about and acci dentally gets food. Did he learn anything 
+before getting the food in the irst experience? If we put the rat in the sa me maze again, it may 
+directly reach the food. That means when the rat was wandering,  it did learn something without 
+even the incentive of any reward.5017. Coordination and Control eLearn.Punjab
+6. Insight learning:  Kohler performed many experiments on chimpanzees, and showed that 
+they have higher form of learning called insight learning. In sight learning is an extreme case of 
+behavioural modiication involving the application of insight or reas oning to a novel situation. If 
+an animal can direct its behaviour to solve a problem for which i t has no previous experience then 
+reasoning is involved. Reasoning in humans appears to involve a rec asting of an external situation 
+in the imagination and a manipulation of the concepts to produce a solution that can be applied 
+to situations. However, such insight or reason may be found in other primates. This is the highest 
+form of learning. For example: A chimpanzee is placed in a cage in which a choice piece fruit hangs 
+from the ceiling. This chimpanzee cannot reach the fruit, but th e keeper has placed some boxes 
+of diferent sizes in the cage. After a short period of head scratchi ng, the chimpanzee moves the 
+largest box and piles other smaller boxes over it, and climbs up to reach the fruits.5117. Coordination and Control eLearn.Punjab
+Exercise
+Q.1 .Fill in the blanks
+(i) Neurotransmitter molecules bind to the receptors on the ___________ __ membrane at synapse.
+(ii) Excess of ___________________  hormone is secreted in A ddison’s disease.
+(iii) Operent learning has been demonstrated and studied by ____ _______ and _________________.
+(iv) ____________________ are plant hormones which delay th e life of fresh leaf crops.
+(v) All membranes of neurons have very active_________and ______ __pumps.
+Q.2 Write whether the statement is true or false and w rite the correct statement and 
+pumps.
+(i) Impulses travel much more rapidly along myelinated neurons .
+(ii) All glial tissue consist of glial cells.
+(iii) Saltatory conduction is carried out by those nerve ibres that h ave nodes of Ranvier.
+(iv) The myelin sheath of neuron is particularly good conductor of  electric impulse.
+(v) The resting membrane potential is maintained largely by the s odium pump.
+(vi) Hormones initiate new biochemical reactions in the body.
+Q.4. Short questions
+(i) Deine cir-cadian rhythm.
+(ii) What is the diference between CNS and PNS?
+(iii) What are the functions of parathyroid gland?
+(iv) Deine the term hormone.
+(v) What are the commercial applications of auxins?
+(vi) List diferent types of tropisms.
+(vii) Write a note on Alzheimer’s disease.5217. Coordination and Control eLearn.Punjab
+Q.5. Extensive questions.
+(i) Describe diferent types of learning behaviour. 
+(ii) Describe in detail the role of adrenal glands. 
+(iii) Deine nerve impulse. Explain the mechanism involved by label led diagrams.
+(iv) How is the nervous system of Planaria better developed than that of Hydra ?
+(v) Describe the structure and functions of the diferent parts of huma n brain.
+(vi) Writea note on pituitary gland.

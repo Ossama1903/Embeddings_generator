@@ -1,0 +1,1586 @@
+CHAPTER
+8    CHEMICAL EQUILIBRIUM
+Animation 8.1: Haber’s Process
+Source & Credit: makeagif28.CHEMICAL EQUILIBRIUM eLearn.Punjab
+8.1.0 REVERSIBLE AND IRREVERSIBLE REACTIONS
+ A chemical reaction can take place in both directions, i.e. for ward and reverse, but in some 
+cases the tendency of reverse reaction is very small and is neglig ible. For example, sodium reacts 
+with water to form sodium hydroxide and hydrogen gas.
+     22 2Na(s)+2H O( )  2NaOH(aq)+H (g) → 
+ The  tendency for hydrogen to react with sodium hydroxide to form sodium and water is 
+negligible at normal temperature. This is an example of irreversi ble reaction.
+ Let us  take another example of the reaction between two parts of hydrog en and one part 
+of oxygen by means of an electric spark at normal temperature and pressure. The reaction occurs 
+stoichiometrically according to the following chemical equation.
+     22 22H (g) + O (g)    2H O( ) → 
+ If hydrogen and oxygen are present in correct proportion, there wil l be no residual gases i.e. 
+hydrogen and oxygen. If the product is heated to a temperature of 150 00C, a noticeable quantity 
+of H2O decomposes, producing hydrogen and oxygen. It means that rever se reaction does occur, 
+but only at higher temperature. It is very likely that the reverse reac tion occurs at low temperature, 
+but it is too small to be noticeable. The reaction between stoichiometric a mounts of hydrogen 
+and oxygen proceeds to completion in the presence of electric spark.  Such reactions are called 
+irreversible reactions and they take place in one direction only.
+ Now, consider  a reaction between nitrogen and hydrogen at 4500C under high pressure in 
+the presence of iron as a catalyst.
+ There action mixture, after some time, will contain all the three sp ecies i.e. nitrogen, hydrogen 
+and ammonia. No matter, how long the reaction is allowed to continu e, the percentage composition 
+of species present remains constant. The conditions are favourable for the forward as well as for a 
+reverse reaction to occur to a measurable extent. This type of reaction is described as a reversible 
+reaction.oFe/450 C
+22 3 high pressureN (g) + 3H (g)  2HN (g) ฀฀฀฀฀฀ ฀฀ ฀฀฀฀฀ ฀38.CHEMICAL EQUILIBRIUM eLearn.Punjab
+8.1.1  State of Chemical Equilibrium
+ If a reversible reaction is allowed to continue for a considerable long time, without changing 
+the conditions, there is no further change in composition of the reacti on mixture. The reaction is 
+said to have attained a state of chemical equilibrium. Once this  equilibrium has been established, 
+it will last forever if undisturbed.
+ To illustrate an example of the attainment of 
+equilibrium, let us consider a general reaction in 
+which A reacts with B to produce C and D.
+  A(g)  +  B(g)  C(g)  +  D(g) ฀
+Suppose that all the substances are in gaseous state.
+ Let  the initial concentrations of A and B be equal . 
+As time goes on, concentrations of A and B decrease, 
+at irst quite rapidly but later slowly. Eventually, the 
+concentrations of A and B level of and become 
+constant.
+ The graph is plotted between time and 
+concentrations for reactants and products, Fig(8.1). The initia l concentrations of C and D are zero. 
+As the time passes the products C and D are formed. Their concentrati ons increase rapidly at irst 
+and then level of. At the time of equilibrium concentrations become consta nt. This is how the 
+chemical equilibrium is attained and state of equilibrium is  reached.
+ Now, let us consider the example of a reversible reaction between hyd rogen gas and iodine 
+vapours to form hydrogen iodide at 4250 C. At equilibrium three components will be present in 
+deinite proportions in the reaction m ixture Fig (8.2). The equilib rium is established when the 
+rising curve of product HI and the falling curve of reactants [ H2] and [I2] become parallel to time 
+axis.
+   0425 C
+22H (g)  + l (g) 2Hl(g) ฀฀฀฀ ฀฀ ฀฀฀ ฀
+Fig (8.1) Reversible reaction and state of equilibrium48.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ The  same equilibrium mixture is obtained irrespective whether the reaction starts by 
+mixing hyd rogen and iodine or by decomposition of hydrogen iodi de. The situation suggests two 
+possibilities of the state of reaction at equilibrium
+(i) All reactions cease at equilibrium so that the system becomes stationary.
+(ii) The forward and reverse reactions are taking  place simulta neously at exactly the same rate.
+ It is now universally accepted that the later conditions prevail in  a reversible reaction at 
+equilibrium stage of reaction. It is known as the state of dynami c equilibrium.
+Fig (8.2) State of dynamic equilibrium
+Animation 8.2: Chemical Equilibrium
+Source & Credit : dynamicscience58.CHEMICAL EQUILIBRIUM eLearn.Punjab
+8.1.2  Law of Mass Action
+ A state of dynamic equilibrium helps to determine the composition of  reacting substances 
+and the products at equilibrium. We use the relationship which was derived by C.M. Guldberg 
+and R Waage in 1864.  It is known as the law of mass action. It states that th e rate at which 
+the reaction proceeds is directly proportional to the  product of the active masses of the 
+reactants.
+ The term active mass represents the concentration in mole dm-3 of the reactants and products 
+for a dilute solution.
+ Now, consider a general reaction in which A and B are the reac tants and C and D are the 
+products. The reaction is represented by the following chemical equ ation.
+    fk
+kA + B  C + D
+r฀฀฀ ฀฀ ฀ ฀฀
+ The equilibrium concentrations of A, B, C and D are represented  in square brackets like [A], 
+[B], [C] and [D] respectively and they are expressed in moles dm-3. According to the law of mass 
+action, the rate of the forward reaction, is proportional to the product of  molar concentrations of A 
+and B.
+    f Rate of forward reaction (R )    [A][B] ∝
+    or  ffR  = k [A] [B]
+kf is the  proportionality constant and is called rate constant for f orward reaction and Rf is the rate 
+of forward reaction. Similarly, the rate of reverse reaction (Rr) is given by
+    r Rate of reverse reaction (R )    [C][D] ∝
+      rrR  = k [C] [D]
+Where  kr is the proportionality constant and is called the rate con stant for backward reaction. 
+Remember that C and D are the reactants for backward step.68.CHEMICAL EQUILIBRIUM eLearn.Punjab
+  At equilibrium,
+      frR  = R
+   or  frk [A] [B]  =  k [C] [D]
+  On rearranging, we get
+      f
+rk [C][D]
+k [A][B]=
+   Let
+   f
+c
+rkKk=
+   So,   c[C][D]K[A][B]=
+ The constant Kc is called the equilibrium constant of the  reaction. Kc is the ratio of two rate 
+constants.
+Conventionally, while writing equilibrium constant, the products  are written as numerator and 
+reactants as denominator. 
+   cc[products] rate constant for forward stepK =    or  K[reactants] rate constant for reverse ste p=
+Animation 8.3: Mass Action
+Source & Credit : astronomynotes78.CHEMICAL EQUILIBRIUM eLearn.Punjab
+For a more general reaction
+    f
+rk
+kaA + bB      cC + dD ฀฀฀ ฀฀ ฀ ฀฀
+Where a, b, c and  d are the coeicients of balanced chemical equ ation. They are number of moles 
+of A, B, C and D, respectively in the balanced equation.
+The equilibrium constant is given by
+    cd
+c ab[C] [D]K   = [A] [B]
+ Hence, the  coeicients in the equation appear as exponents of the terms of  concentrations 
+in the equilibrium constant expression.
+Units of Equilibrium Constants
+ Equilibrium constant is the ratio of the products of the concentration s of the products to 
+the product of concentrations of the reactants. If the reaction has equal  number of moles on the 
+reactant and product sides, then equilibrium constant has no uni ts. When the number of moles is 
+unequal then it has units related to the concentration or pressure. B ut it is a usual practice that we 
+don’t write the units with Kp or Kc values.
+ Following are some important reversible reactions. Their units of Kc are expressed as
+(i)  3 25 3 25 2CH COOH(aq) + C H OH(aq)  CH COOC H (aq) + H O( ) ฀
+  -3 -3
+3 25 2
+c -3 -3
+3 25[CH COOC H ][H O] [moles dm ][moles dm ]K no units[CH COOH][C H OH] [moles dm ][moles dm ]===
+(ii)  22 3N (g) + 3H (g)  2NH (g) ฀
+  
+   2 -3 2
+-2 +6 3
+c 3 -3 -3 3
+22[NH ] [moles dm ]K moles dm[N ][H ] [moles dm ][moles dm ]== =
+ In the expression of Kc, we have ignored the physical states for the sake of convenience.88.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Example 1:
+ The following reaction was allowed to reach the state of equilibrium .
+   2A(aq)  +  B(aq)  C(aq) ฀
+The  initial amounts of the reactants present in one dm3 of solution were 0.50 mole of A and 0.60 
+mole of B. At equilibrium, the amounts were 0.20 moles of A and 0.45 mole of B and 0.15 mole of 
+C. Calculate the equilibrium constant Kc.
+Solution
+ Equation:   f
+rk
+k2A(aq)  +  B(aq)    C(aq) ฀฀฀ ฀฀ ฀ ฀฀
+ Kc for the reaction is given by
+    c 2[C]K   = [A] [B]
+    2A(aq) + B(aq) C(aq) ฀
+Initial concentrations   0.50 mol  0.60 mol  0.00 mol
+Equilibrium concentrations  0.20 mol  0.45 mol  0.15 mol
+ Since   c 2[C]K   = [A] [B]
+ Putting values of concentrations, which are present at equilibriu m stage
+ So,   c(0.15)K   = (0.20)x(0.20)x(0.45)
+    c11K   = 8.3 Answer0.20x0.20x3 0.12==
+The units have been ignored for the sake of convenience.98.CHEMICAL EQUILIBRIUM eLearn.Punjab
+8.1.3 Equilibrium Constant Expressions for Some Impor tant Reactions
+i.  Formation of Ester from an Organic Acid and Alc ohol (aqueous phase reaction)
+ This is a well known reversible reaction in the solution state.
+  +
+3HO
+3 32 3 25 2 CH COOH(aq) + C H OH(aq)  CH COOC H (aq) + H O( ) ฀฀฀฀ ฀  ฀ ฀฀฀ ฀
+   acid  alcohol  ester   water
+ Let us suppose that ‘a’ moles of CH3COOH and ‘b’ moles of C2H5OH are initially taken in a 
+vessel in the presence of small amount of a mineral acid as a ca talyst.
+ The  progress of the reaction can be studied by inding out the conc entrations of acetic acid 
+after regular intervals.
+ A very small portion of the reaction mixture is withdrawn and th e concentration of acetic acid 
+is determined by titrating it against a standard solution of sodiu m hydroxide. The concentration of 
+acetic acid will decrease until the attainment of state of equilibri um, when it will become constant. 
+At equilibrium stage, x moles of ester and ‘x’ moles of H2O are produced. The number of moles of 
+acid and alcohol left behind are ‘a-x’ moles and ‘b-x’ moles  respectively. If the volume of reaction 
+mixture at equilibrium stage is ‘V’ dm3, then
+Animation 8.4: Equilibrium Constant
+Source & Credit : mainstreet108.CHEMICAL EQUILIBRIUM eLearn.Punjab
+  3 25 3 25 2CH COOH(aq) + C H OH(aq)  CH COOC H (aq) + H O( ) ฀
+  'a' moles               'b' moles             '0' moles                  '0' mol es     t=0sec ฀
+  eq (a-x) moles            (b-x) moles        'x' moles                  'x' moles     t=t ฀
+ When number of moles are divided by total volume of the reaction mixtu re, we get concentration 
+of each species at equilibrium stage in moles dm-3.
+  -3 -3 -3 -3 a-x b-x x xmoles dm + moles dm moles dm moles dmV V VV     +           ฀
+    3 25 2
+c
+3 25[CH COOC H ][H O]K[CH COOH][C H OH]=
+ Since
+  Brackets [ ] denote the concentrations in moles dm-3.
+  Putting concentrations at equilibrium
+    cXX.VVK =  (a-x) (b-x).VV
+  Simplifying the right hand side, we get
+    2
+cXK=(a-x)(b-x)
+  In this expression of Kc, the factor of volume is cancelled out. So, the change of volume 
+at equilibrium stage does not afect the Kc value or equilibrium position of reaction.
+ii.  Dissociation of PCl5 (gaseous phase reaction)
+ The dissociation of PCl5 into PCI3 and Cl2, is a well known homogeneous gaseous phase 
+reaction. This reaction has unequal number of moles of reactants and products.
+    5 32PCl (g) PCl (g) + Cl (g) ฀118.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ Let ‘a’ moles of  PCl5 present initially are decomposed by ‘x’ moles. So, at equilibriu m stage, ‘a-
+x’ moles of PCl5 are left behind while ‘x‘ moles of PCI3 and ‘x’ moles of Cl2 are produced. If the volume 
+of equilibrium mixture is ‘V’ dm3, then
+   5 32PCl (g) PCl (g) + Cl (g) ฀
+   ‘a’moles   ‘O’moles  ‘O’moles    t = 0sec
+   (a - x) moles  ‘x‘ moles    ‘x‘ moles    t = teq
+ Dividing the number of moles by total volume of reactants and produc ts at equilibrium.
+   -3 -3 -3 a-x x xmoles dm moles dm moles dmV VV   +       ฀
+ 
+  Since    32
+c
+5[PCl ][Cl ]K = PCl
+  Putting the concentrations at equilibrium
+     cXX.VVK =  (a-x)
+V
+  Simplifying the right hand side, we get
+      2
+cxK=V(a-x)
+ The  inal expression is not independent of the factor of volume. So, th e change of volume 
+at equilibrium stage disturbs the equilibrium position of the rea ction. We will discuss this reaction 
+in Le-Chatelier’s principle with reference to efect of volume change an d its efect on change of 
+equilibrium position.
+iii.  Decomposition of N2O4 (gaseous phase reaction)
+ Similarly, for decomposition of N2O4 (g). the expression of Kc involves the factor of volume.
+    24 2N O (g)   2NO (g) ฀
+     2
+c4xK=(a-x)V128.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ ‘a’ is the initial number of moles of N2O4 ‘x’ is number of moles of N2O4 decomposed and ‘V’ is 
+total volume of N2O4 , and NO2 at equilibrium stage.
+iv.  Synthesis of NH3 ( gaseous phase reaction)
+ For the synthesis of ammonia,
+    22 3N (g) + 3H (g)   2NH (g) ฀
+ the expression of Kc is
+     22
+c 34x VK=(a-x)(b-3x)
+ Where ’a’ and ’b’ are the initial number of moles of N2 and H2 and ’x’ is number of moles of N2, 
+decomposed at equilibrium stage. ‘V’ is the total volume of N2, H2 and NH3 at equilibrium. The inal 
+expression involves V2 in the numerator:
+ Hence, it depends upon the coeicients of balanced equation that whether the factor of 
+volume will appear in numerator or denomenator.
+8.1.4 Relationship Between Equilibrium Constants
+ The expressions of equilibrium constants depend upon the concentrati on units used. Mostly 
+the concentrations are expressed in mole dm-3. Let us consider the following reversible reaction.
+     aA + bB      cC + dD ฀
+     c d cd
+CD
+cc a b ab
+AB[C] [D] C DK=     o r   K=  [A] [B] A B
+The  square brackets represent the concentration of species in moles d m-3. Anyhow, the capital C 
+is also used for molar concentrations.138.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ If  the reactants A, B, and the products C, D of the reaction und er consideration are ideal 
+gases, then molar concentration of each gas is proportional to its pa rtial pressure . When the 
+concentrations are expressed in terms of partial pressures, the expr ession of Kp is,
+      cd
+CD
+p ab
+ABppK = pp
+ Here PA, PB, PC and PD are  partial pressures of A, B, C, D respectively at equilibriu m position. As 
+long as the number of moles of products and reactants, which a re in the gaseous state, are equal, 
+the values of KC and KP remain the same. Otherwise, the following relationship between KP and KC 
+can be derived by using Dalton’s law of partial pressures.
+      n
+pcK =K (RT)∆
+ Where ‘ ∆n’ is the diference between number of moles of the gaseous products and  the 
+number of moles of gaseous reactants.
+ ∆n = no. of moles of products  -  no. of moles of reactants
+ ‘R’ is the  general gas constant and ‘T’ is absolute temperatur e at which the reaction is being 
+carried out
+ Where, ∆n = 0, then all the equilibrium constants have the same values.
+Example 2:
+ N2 (g) and H2 (g) combine to give NH3 (g). The value of Kc in this reaction at 500 °C is 6.0 x 10-2. 
+Calculate the value of Kp for this reaction.
+Solution:
+   The reaction for the synthesis of NH3 is
+   22 3N (g) + 3H (g)   2NH (g) ฀
+This reaction takes place with decrease in the number of moles. Th e relationship of Kpand Kc is
+      
+      n
+pcK =K (RT)∆148.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ Now      Kp = 6.0 x 10-2
+    Temperature    = 500 + 273=773 K
+ ∆n = no of moles of products - no of moles of reactants
+      ∆n = 2 - 4 = -2
+      R    = 0.0821 dm3 atm K-1 mol-1
+ Substituting these values in the expression
+      Kp = 6.0 x 10-2 (773 x 0.0821)-2      = 6.0 x 10-2 (63.5)-2
+      -2
+p 26.0x10K=(63.5)
+      -5
+pK =1.5x10 Answer
+ In  this case the value of Kp is smaller than Kc . Those reactions, which take place with the 
+increase in the number of moles mostly have greater Kp than Kc.
+8.1.5 APPLICATIONS OF EQUILIBRIUM CONSTANT
+The  value of equilibrium constant is speciic and remains cons tant at a particular temperature.
+ The study of equilibrium constant provides us the following infor mations:
+ (i)  Direction of reaction  (ii)  Extent of reaction
+ (iii)  Efect of various factors on equilibrium constant and equ ilibrium position.
+Animation 8.5: APPLICATIONS OF 
+EQUILIBRIUM CONSTANT
+Source & Credit : oocities158.CHEMICAL EQUILIBRIUM eLearn.Punjab
+(i)  Direction of Reaction
+ we know that, c[Products]K =     [Reactants]  for any reaction.
+ The  direction of a chemical reaction at any particular time c an be predicted by means of 
+[products] / [reactants] ratio, calculated before the reaction attain s equilibrium. The value of 
+[product] / [reactants] ratio leads to one of the following three possib ilities.
+(a)  The ratio is less than Kc. This implies that more of the product is required to attain the equi librium, 
+therefore, the reaction will proceed in the forward direction.
+(b)  The ratio is greater than Kc. It means that the reverse reaction will occur to attain the equilibr ium.
+(c)  When the ratio is equal to Kc, then the reaction is at equilibrium.
+Example 3:
+ Esteriication reaction between ethanol and acetic acid was carried out by mixing deinite 
+amounts of ethanol and acetic acid alongwith some mineral acid as a catalyst. Samples were drawn 
+out of the reaction mixturq to check the progress of the esteriication reacti on. In one of the samples 
+drawn after time t, the concentrations of the species were found to be [ CH3COOH] = 0.025 mol dm-3, 
+[C2H5OH]= 0.032 mol dm-3, [CH3COOC2H5] = 0.05 mol dm-3, and [H20] = 0.04 mol dm-3. Find out the 
+direction of the reaction if Kc for the reaction at 25°C is 4.
+Solution:
+ Esteriication reaction is represented by the following stoichiometric eq uation.
+   +H
+3 25 3 25 2CH COOH + C H OH CH COOC H  + H O ฀฀฀ ฀฀ ฀ ฀฀
+All the substances are present in the same volume of solution, therefore KC is given by
+     3 25 2
+c
+3 25[CH COOC H ][H O]K[CH COOH][C H OH]=
+The various values of concentrations, at time t are substituted to get the ra tio
+     c0.05x0.04K   = =2.50 Answer0.025x0.032168.CHEMICAL EQUILIBRIUM eLearn.Punjab
+The given value of KC for this reaction is 4 and 2.5 is less  than KC. Therefore, the reaction will 
+proceed in the forward direction to attain the equilibrium.
+(ii)  Extent of Reaction
+(a)  If the equilibrium constant is very large, this indicates that the reaction is almost 
+complete.
+(b)  If  the value of Kc is small, it relects that the reaction does not proceed appreciably i n 
+the forward direction.
+(c)  If the value of Kc is very small, this shows a very little forward reaction.
+Examples:
+ Equilibrium constant for the decomposition of ozone to oxygen is 1055 at 25°C.
+i.e.,   55 o
+3 2c2O 3O ,   K =10     at 25 C ฀
+ It infers that at room temperature 03 is unstable and decomposes very rapidly to 02. This 
+reaction is almost complete.
+ On the other hand the value of equilibrium constant for the decomposi tion of HF at 2000°C is 10-13.
+   -13 o
+22 c 2HF(g) H (g) + F (g)    K =10   at 2000 C ฀
+ It indicates high stability and slow decomposition of HF, even at 2000°C.
+(iii)  The Effect of Conditions on the Position of Equilibrium
+ Equilibrium constant and position of equilibrium are two difer ent entities. Kc is equilibrium 
+constant and has constant value at a particular temperature whereas  the ratio of products to 
+reactants in equilibrium mixture is described as the position of  equilibrium and it can change if the 
+external conditions e.g. temperature, pressure and concentrations are a ltered. If Kc is  large the 
+position of equilibrium lies on the right and if it is small , the position of the equilibrium lies on the 
+left, for a reversible reaction.178.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ Chemists are interested in inding the best conditions to obtain maxim um yield of the 
+products in reversible reaction, by favourably shifting the posi tion of equilibrium of a reaction. For 
+this purpose, we have to discuss an important principle in this respect i.e.Le-Chatelier’s principle.
+8.1.6 The Le-Chatelier's Principle
+ Le-Chatelier studied the efects of concentration, pressure and temperatur e on equilibria.
+ This principle states that if a stress is applied to a s ystem at equilibrium, the system 
+acts in such a way so as to nullify, as far as possible, t he efect of that stress.
+ The  system cannot completely cancel the efect of change, but will m inimize it. The Le-
+Chatelier’s principle has wide range of applications for asc ertaining the position and composition 
+of the physical and chemical equilibria.
+(a)  Effect of Change in Concentration
+ In order to understand the efect of change in concentration on the reversi ble reaction, 
+consider the reaction in which BiCl3 reacts with water to give a white insoluble compound BiOCl.
+     32BiCl  + H O BiOCl + 2HCl ฀
+Animation 8.6: The Le-Chatelier’s Principle
+Source & Credit : Anotherequilibriumsite188.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ The equilibrium constant expression for above reaction can be wr itten as
+      2
+c
+32[BiOCl][HCl]K[BiCl ][H O]=
+ Aqueous  solution of BiCl3 is cloudy, because of hydrolysis and formation of BiOCl. If  a small 
+amount of HCl is added  to this solution, it will disturb the eq uilibrium and force the system to move 
+in such a way so that efect of addition of HCl is minimized. T he reaction will move in the backward 
+direction to restore the equilibrium again and a clear solution wil l be obtained. However, if water 
+is added to the above solution the system will move in the forward di rection and the solution will 
+again become cloudy. The shifting of reaction to forward and ba ckward direction by disturbing the 
+concentration is just according to Le-Chatelier’s principle.
+ So, in general, we  conclude that addition of a substance among  the reactants, or the removal 
+of a substance among the products at equilibrium stage disturbs the equilibrium position and 
+reaction is shifted to forward direction. Similarly, the additi on of a substance among the products or 
+the removal of a substance among the reactants will derive the equili brium towards the backward 
+direction. Removing one of the products formed can therefore increase th e yield of a reversible 
+reaction. The value of K however remains constant. This concept is ex tensively applied in common 
+ion efect and follows the Le-Chatelier’s principle.
+(b)  Effect of Change in Pressure or Volume
+ The change in pressure or volume are important only for the reversib le gaseous reactions 
+where the number of moles of reactants and products are not equal. Le-Chatelier’s principle 
+plays an important role, to predict the position and direction of th e reaction. Take the example of 
+formation of SO3 gas from SO2 gas and O2 gas.
+    22 32SO (g) + O (g) 2SO (g) ฀
+ This gas phase reaction proceeds with the decrease in the number of moles and hence 
+decreases in volume at equilibrium stage. When the reaction approa ches the equilibrium stage, 
+the volume of the equilibrium mixture is less than the volume of reac tants taken initially. If one 
+decreases the volume further at equilibrium stage, the reaction is d isturbed. It will move to the 
+forward direction to minimize the efect of disturbance. It establishes  a new equilibrium position 
+while Kc remains constant. The reverse happens when the volume is increa sed or pressure is 
+decreased at equilibrium stage.198.CHEMICAL EQUILIBRIUM eLearn.Punjab
+(c)  Quantitative Effect of Volume on Equilibrium Posit ion
+ The quantitative efect of  change of volume or pressure can be inferred  from the mathematical 
+expression of Kc for SO3 (g) synthesis.
+     22 32SO (g) + O (gas) 2SO (g) ฀
+     4x VK=(a-2x) (b-x)
+ Where ‘V’ is the  volume of reaction mixture at equilibrium stage , ‘a’ and ‘b’ are the number of 
+moles of SO2 and O2 present initially and Y are the number of moles of oxygen which has reacted 
+at equilibrium. According to the above equation, when volume is inc reased, then ‘x’ has to be 
+decreased to keep Kc constant. The decrease of x means that reaction is pushed to the bac kward 
+direction. From the amount of the increase in volume, we can calcula te the amount of x which has 
+to be decreased to keep Kc constant
+ Similarly,increasing the  pressure on the above reaction at equi librium, will decrease tlie 
+volume and hence the value of Kc will increase. In order to keep the value of Kc constant, the 
+reaction will move in the forward direction.
+ In the  same way, we can explain the efect of change of pressure on the equilibrium positions 
+for the dissociation of PCl5 and N2O4 reactions. These reactions are homogenous gaseous phase 
+reactions.
+ PCI5 dissolves to give PCI3 and Cl2
+      5 32PCl (g) PCl (g) + Cl (g) ฀
+ Kc for this reaction is as follows:
+      2
+cxK=V(a-x)
+ The dissociation of N2O4 gives NO2 gas
+      24 2N O (g) 2NO (g) ฀208.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ The Kc for this reaction is as follows
+      2
+c4xK=V(a-x)
+ Both these reactions have the factor of volume present in the denominator.  The reason is 
+that numbers of moles of products are greater than those of reactants. S o, increase in pressure 
+will decrease x to keep the value of Kc constant and  the reaction will be pushed to the backward 
+direction. The equilibrium position is disturbed but not the Kc value.
+ Remember  that, those gaseous reactions in which number of moles of reactants and products 
+are same, are not afected by change in pressure or volume. Same is the case for reactions in which 
+the participating substances are either liquids or solids.
+(d)  Effect of Change in Temperature
+ Most  of the reversible chemical reactions are disturbed by chan ge in temperature. If we 
+consider heat as a component of equilibrium system, a rise in temperature adds heat to the system 
+and a drop in temperature removes heat from the system. According to Le-Chatelier’s principle, 
+therefore, a temperature increase favours the endothermic reactions an d a temperature decrease 
+favours the exothermic reactions.
+ The  equilibrium constant changes by the change of temperatur e, because the equilibrium 
+position shifts without any substance being added or removed. Consi der the following exothermic 
+reaction in gas phase at equilibrium taking place at a known temperature.
+   -1
+2 22 CO(g) + H O(g)    CO (g) + H (g)                      H= -41.84 kJ mole ∆ ฀
+ At equilibrium stage, if we take out heat and keep the system at this  new  lower temperature, 
+the system will readjust itself, so as to compensate the loss of heat ener gy. Thus, more of CO and 
+H2O molecules will react to form CO2 and H2 molecules, thereby, liberating heat because reaction 
+is exothermic in the forward direction. It means by decreasing temp erature, we shift the initial 
+equilibrium position to the right until a new equilibrium position  is established. On the contrary, 
+heating the reaction at equilibrium will shift the reaction to the b ackward direction because the 
+backward reaction is endothermic.218.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ An interesting feature of Le-Chatelier’s principle is the efect of temp erature on the solubility. 
+Consider a salt such as KI. It dissolves in water and absorb s heat.
+    1Kl(s)     Kl(aq)                          H=21.4kJ mol−∆ ฀
+ Let us  have a saturated solution of KI in water at a given tempera ture. It has attained 
+equilibrium at this temperature. A rise in temperature at equilibr ium favours more dissolution of 
+the salt.
+ Equilibrium is shifted to the forward direction. On the other han d, cooling will favour 
+crystallization of salt. Hence the solubility of KI in water mus t increase with increase in temperature. 
+For some salts the heat of solution is close to zero (heat is neither evolved or  absorbed). The 
+solubility of these salts in water is not afected by the change in tem perature. Formation of aqueous 
+solution of NaCl is an example of such a salt.
+ Those substances, whose heats of solutions are negative (exothermic), decrease their 
+solubilities by increasing temperature, as LiCl and Li2CO3 etc.
+(e)  Effect of Catalyst on Equilibrium Constant
+ In most of the reversible reactions the equilibrium is not alway s reached within a suitable 
+short time. So, an appropriate catalyst is added. A catalyst does not afect the equilibrium position 
+of the reaction. It increases the rates of both forward and backwar d reactions and this reduces the 
+time to attain the state of equilibrium.
+ Actually, a catalyst lowers the energy of activation of both forwar d and reverse steps by giving 
+new path to the reaction.
+8.2  APPLICATIONS OF CHEMICAL EQUILIBRIUM IN INDUST RY
+ Concept of chemical equilibrium is widely applicable for pr eparation of certain materials on 
+industrial scale. Let us discuss the manufacture of NH3 and SO3 gases on industrial scale.228.CHEMICAL EQUILIBRIUM eLearn.Punjab
+8.2.1  Synthesis of Ammonia by Haber’s Process
+ The process of ammonia synthesis was developed by German chemist F . Haber and irst used 
+in 1933. This process provides an excellent setting in which to a pply equilibrium principle and see 
+the compromises needed to make an industrial process economically wor th while. The chemical 
+equation is as follows.
+  22 3N (g)   +   3H (g)  2NH (g)                    H=-92.46kJ∆ ฀
+ When  we look at the balanced chemical equation it is inferred, from Le-Chatelier’s principle 
+that one can have three ways to maximize the yield of ammonia.
+(i)  By  continual withdrawl of ammonia after intervals, the equ ilibrium will shift to forward 
+direction in accordance with Le-Chatelier’s principle. To unders tand it look at the efect of change 
+of concentration in Le-Chatelier’s principle.
+ii)  In crease the pressure to decrease the volume of the reaction vesse l. Four moles of the 
+reactants combine to give two moles of the products. High pressure will  shift the equilibrium 
+position to right to give more and more ammonia.
+(iii)  Decreasing the temperature will shift it to the forward direc tion according to Le-Chatelier’s 
+principle.
+ So  high pressure, low temperature and continual removal of amm onia 
+will give the maximum yield of ammonia. Table (8.2) shows the efect of the 
+rise in temperature on the value of Kc and the Fig. (8.3) shows the optimum 
+conditions to get maximum yield of ammonia. Fig (8.3) shows p ercent yield 
+of ammonia vs. temperature (0C) at ive diferent operating pressures. 
+  At very high pressure and low temperature (top left), the yield of 
+NH3 is high but the rate of formation is low. Industrial conditions denoted by 
+circle are between 200 and 300 atmospheres at about 4000C.Table (8.2) Effect of temperature on
+Kc for ammonia synthesis
+T(K) Kc
+200
+300
+400
+500
+600
+700
+8007.7x1015
+2.69x108
+3.94x101
+1.72x102
+4.53x100
+2.96x10-1
+3.96x10-2238.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ No doubt, the yield of NH3 is favoured at low temperature, but the rate of its formation does 
+not remain favourable. The rate becomes so slow and the process is rendered uneconomical. One 
+needs a compromise to optimize the yield and the rate. The  temperatu re is raised to a moderate 
+level and a catalyst is employed to increase the rate. If one wants to achieve the same rate without 
+a catalyst, then it requires much higher temperature, which lowers  the yield. Hence the optimum 
+conditions are the pressure of 200-300 atm and temperature aroun d 673 K (4000C). The catalyst is 
+the pieces of iron crystals embedded in a fused mixture of MgO, A l2O3 and SiO2.
+The equilibrium mixture has 35% by volume of ammonia. The mix ture is cooled by refrigeration 
+coils until ammonia condenses (B.P = -33.40C) and is removed. Since, boiling points of nitrogen and 
+hydrogen are very low, they remain in the gaseous state and are rec ycled by pumps back into the 
+reaction chamber.
+ Nearly 13% of all nitrogen ixation on earth is accomplished in dustrially through Haber’s 
+process. This process synthesizes approximately  110 million tons of ammonia in the world. About 
+80% of this is used for the production of fertilizers and some is used in manufacture of explosives 
+or the production of nylon and other polymers.
+Fig (8.3). Graphical representation of temperature and pressure for NH3 synthesis.248.CHEMICAL EQUILIBRIUM eLearn.Punjab
+8.2.2  Preparation of Sulphur Trioxide
+ In the contact process for manufacture of H2SO4, the conversion of SO2 to SO3 is achieved in 
+a reversible reaction.
+   22 32SO (g) + O (g)   2SO (g)                       H=-194kJ/mol∆ ฀
+ The  temperature and pressure are the most essential factors for c ontrolling the rate of this 
+reaction. The principles involved here are the same as those discus sed previously for Haber’s 
+process. At low temperature, the equilibrium constant for formation of  SO3 is large but equilibrium 
+is reached very slowly. As the temperature is raised the rate i ncreases but the yield of SO3 drops of 
+according to Le-Chatelier’s principle. High pressure tends to in crease yield of SO3. However, instead 
+of using high pressure, the concentration of O2 (air) is increased to increase the yield of SO3. Table 
+(8.3) helps to understand the efect of diferent conditions on the yield of SO3. During the process 
+pressure is kept at one atmosphere.
+Animation 8.7: Haber’s Process
+Source & Credit : makeagif258.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ To have the best possible yield of SO3 within a Table (8.3) Efect of temperature reasonable 
+time, a mixture of SO2 and O2 (air) at 1 atm pressure is passed over a solid catalyst at 65 00C. 
+The  equilibrium mixture is then recycled at lower temperature, 4 00 to 5000C, to increase the yield 
+of SO3. The most efective catalysts are V2O5 and inely divided platinum. SO3 is dissolved in H2SO4 
+to get oleum, which is diluted to get H2SO4.
+ H2SO4 is the king of chemicals. A country’s industrial progress  is measured by the amount of 
+H2SO4 manufactured each year.Temp.
+0CKcMole%
+of SO3
+200
+300
+400
+500
+600
+7005500
+690
+160
+55
+25
+1398
+91
+75
+61
+46
+31Table (8.3) Effect of temperature 
+on the yield of SO3
+Animation 8.8: Preparation of Sulphur Trioxide
+Source & Credit : dynamicscience268.CHEMICAL EQUILIBRIUM eLearn.Punjab
+8.3.0 IONIC PRODUCT OF WATER
+ Pure water is a very poor conductor of electricity but its conducta nce is measurable. Water 
+undergoes self ionization as follows and the reaction is reversible.
+    22 3H O + H O  H O  + OH+−฀
+or      2H O  H  + OH+−฀
+ The equilibrium constant for this reaction can be written as fol lows.
+   +-
+-16 -3
+c
+2[H ][OH ]K      =   = 1.8 x 10 moles dmHO
+ The concentration of H2O i.e.[H2O] in pure water may be calculated to be 1000gdm3 divided 
+by 18gmol -1 giving 55.5 moles dm-3
+ Since, water is present in very large excess and very few of its m olecules undergo ionization, 
+so its concentration remains efectively constant. Constant concentration of water is taken on L.H.S. 
+and multiplied with Kc to get another constant called Kw.
+  -16 -14 + -1.8 x 10  x 55.5 = 1.01x10 =[H ][OH ]
+  This 1.01x10-14 is called Kw of water of 250C
+    +-
+c2K [H O]=[H ][OH ]
+  So,  + - -14 o
+wK   =[H ][OH ]  =10 at 25 C.
+ Kw is called  ionic product of water or dissociation constant of wa ter. 
+The value of Kw increases almost 75 times when temperature is increased 
+from 0°C to 100°C. Anyhow, the increase in K is not regular. T he efect of 
+temperature on K. is shown in Table (8.4).Table (8.4) Kw at various 
+temperatures.
+Temp.
+(0C)Kw
+ne0
+10
+25
+40
+1000.11x10-14
+0.30x10-14
+1.0x10-14
+3.00x10-14
+7.5x10-14278.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ When ever some quantity of acid or base is added in water, then Kw remains the same, but 
+[H+] and [OH-]are no more equal. Anyhow, in neutral water
+     +-[H ] = [OH ]
+  or   + 14[H ][H ] = 10+−
+     + 2 14[H ]  = 10−
+     + -7 -3[H ] = 10 moles dm
+  and   -7 -3[OH ] = 10 moles dm−
+ This means that out of 55.5 moles of pure water in one dm3 of it, only 10-7 moles of it have 
+dissociated into ions. This shows that water is a very weak electrol yte. At 400C, the [H+] = [OH-] but 
+the values are more than 10-7 moles dm-3 and pure water is again neutral at 40°C. Similarly, pure 
+water is neutral at 1000C. [H+] and [OH-] are greater than those at 40°C.
+ In case of addition of small amount of an acid
+    
+     +-[H ] > [OH ]
+Animation 8.9: IONIC PRODUCT OF WATER
+Source & Credit : employees.csbsju288.CHEMICAL EQUILIBRIUM eLearn.Punjab
+While in the case of addition of few drops of a base
+    [OH ] > [H ]−+
+During both of these additions, the value of Kw will remain the same i.e. 10-14 at 250C.
+pH and pOH
+ Actually, in all the aqueous solutions, the concentration of H+ and OH- are too low to 
+be conveniently expressed and used in calculations. In 1909, Sor enson, a Danish biochemist, 
+introduced the term pH and pOH. So, the scales of pH and pOH ha ve been developed. pH and pOH 
+are abbreviations of negative log of hydrogen ion concentration and nega tive log of hydroxide ion 
+concentration, respectively.
+    +pH = -log[H ]
+ and
+    pOH = -log[OH ]−
+For neutral water, -7pH = -log10   = 7
+    -7pOH = -log10   = 7
+ when  pH = 7,  solution is neutral
+pH < 7,  solution is acidic
+pH > 7,  solution is basic→
+→
+→
+ If we take the negative log of Kw, then it is called pKw.
+   wwpK = -logK
+   14    = -log10−
+   wpK = 14log10   Since (log 10=1)
+   wpK = 14x1 = 14(at 25C)298.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ The value of pKw is less than 14 at higher tem peratures i.e. at 400Cand 1000C.
+ The value  of pH normally varies between 0 → 14 at 25°C. Solutions of negative pH and having 
+values more than 14 are also known. Table (8.5) shows the relation ship among [H+],[OH-], pH and 
+pOH of various solutions.
+[H3O+] pH [OH-] pOH
+Basic1x10-14
+1x10-13
+1x10-12
+1x10-11
+1x10-10
+1x10-9
+1x10-814.0
+13.0
+12.0
+11.0
+10.0
+9.0
+8.01x10
+1x10-1
+1x10-2
+1x10-3
+1x10-4
+1x10-5
+1x10-60.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+Neutral 1x10-77.0 1x10-77.0
+Acidic1x10-6
+1x10-5
+1x10-4
+1x10-3
+1x10-2
+1x10-1
+1x10-06.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.01x10-8
+1x10-9
+1x10-10
+1x10-11
+1x10-12
+1x10-13
+1x10-148.0
+9.0
+10.0
+11.0
+12.0
+13.0
+14.0
+  The  pH values of some familiar aqueous solutions are shown inTable (8.6). This table can 
+help you to understand the acidic or basic nature of commonly us ed solutions.Table (8.5) Relationship of [H30+], [OH-], pH and pOH
+ 
+ More acidic   More basic308.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Material pH pOH Material pH pOH
+1.0 M HCl
+0.1 M HCl
+0.1 M CH3COOH
+gastric juice
+lemons
+vinegar
+soft drinks
+apples
+grapefruit
+oranges
+tomatoes
+cherries
+bananas0.1
+1.1
+2.9
+2.0
+2.3
+2.8
+3.0
+3.1
+3.1
+3.5
+4.2
+3.6
+4.613.9
+12.9
+11.10
+12.00
+11.7
+11.2
+11.00
+10.9
+10.9
+10.5
+9.8
+10.4
+9.4bread
+potatoes
+rainwater
+milk
+saliva
+pure water
+eggs
+0.1 M NaHCO3
+seawater
+milk of magnesia
+0.1 M NH3
+0.05 M Na2CO3
+0.1 M NaOH5.5
+5.8
+6.2
+6.5
+6.5-6.9
+7.0
+7.8
+8.4
+8.5
+10.5
+11.1
+11.6
+13.08.5
+8.2
+7.8
+7.5
+7.5-7.1
+7.00
+6.2
+5.6
+5.5
+3.5
+2.9
+2.4
+1.00
+8.4.0 IONIZATION CONSTANTS OF ACIDS (Ka)
+ Acids and bases when dissolved in water may or may not be com pletely dissociated. Many 
+acids are weak electrolytes and they ionize to an extent which is m uch less than 100%. The value of 
+Ka called the dissociation constant of acid, is the quantitative measur e of the strength of the acid. 
+Suppose we have an acid HA dissolved in water, in a reversible ma nner
+    +-
+23HA + H O  H O  + A ฀
+Kc for the reversible reaction will be written as follows.
+     +-
+3
+c
+2[H O ][A ]K=[HA][H O]
+ At the equilibrium stage, the concentration of water is almost the s ame as at the initial stages 
+because it has been taken in large excess. A reasonable approxim ation, therefore, is to take the 
+concentration of water to be efectively constant and take it on the left-hand side with Kc.
+     +-
+3
+c2[H O ][A ]K [H O] =[HA]Table (8.6) Approximate pH and pOH of some common ma terials at 25°C318.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ Let    c2 aK [H O] = K
+ Ka is another constant
+ Hence   +-
+3
+a[H O ][A ]K =[HA]
+ This  equation can be used to calculate Ka for any acid solution if we know the pH or [H+] of 
+that solution and the initial concentration of acid [HA] dissolved. This can also be used to calculate 
+the equilibrium concentration of H3O+ and A- produced if we know the initial concentration of acid 
+HA and its Ka value.
+ When   -3
+aK  < 10  acid is weak
+    -3
+aK  = 1 to 10  acid is moderately strong
+    aK  > 1  acid is strong
+Animation 8.10: IONIZATION CONSTANTS OF ACIDS (Ka)
+Source & Credit : eechem3328.CHEMICAL EQUILIBRIUM eLearn.Punjab
+   The values of Ka for some acids are given in the Table (8.7)
+Acid Dissociation KaRelative strength
+HCl+-HCl   H  + Cl ฀+7very large(10 )Very strong
+HNO3 +
+33HNO    H  + NO−฀+3very large(10 )Very strong
+H2SO4 +
+24 4H SO   H  + HSO−฀+2Large(10 )Very strong
+HSO-
+4 - + 2-
+44HSO H  + SO ฀-41.3x10Strong
+HF+-HF  H  + F ฀-56.7x10Weak
+CH3COOH+-
+33CH COOH H  + CH COOH ฀-51.85x10Weak
+H2CO3 +-
+23 3H CO H  + HCO ฀-74.4x10Weak
+H2S+-
+2H S   H  + HS ฀-71.0x10Weak
+NH4+
++
+43NH H  + NH ฀-105.7x10Weak
+HCO3-
+- + 2-
+33HCO H  + CO ฀-114.7x10Weak
+H2O+-
+2H O  H  + OH ฀-161.8x10Very weak
+Percentage of Ionization of Acids
+ We can calculate the percentage ionization of weak acid and the for mula is as follows:
+    Amount of acid ionized%ionization=  x 100Amount of acid initially available
+The  percentage ionization of weak acids depend upon the extent of dil ution of their aqueous 
+solutions. Table (8.8) shows the change in percentage ionization of  acetic acid at diferent 
+concentrations. Lesser the molarity, diluted the solution, greater the ch ances for electrolyte to be 
+dissociated. When 0.1 mole of CH3COOH is dissolved in 1000cm3 of solution, then 1.33 molecules 
+are dissociated out of 100, and 13.3 out of 1000. When the 0.00 1 moles are dispersed per dm3 of 
+solution then 12.6 molecules of CH3COOH get dissociated out of 100. Remember that Ka remains 
+the same at all dilutions at a constant temperature.Table (8.7) Dissociation constants of some acids at  250C and their relative strength338.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Molarity % Ionized [H3O+] [CH3COOH] Ka
+0.10000
+0.0500
+0.0100
+0.0050
+0.00101.33
+1.89
+4.17
+5.86
+12.600.001330
+0.000945
+0.000417
+0.000293
+0.0001260.098670
+0.049060
+0.009583
+0.004707
+0.0008741.79x10-5
+1.82x10-5
+1.81x10-5
+1.81x10-5
+1.72x10-5
+Example 4:
+ What is the percentage ionization of acetic acid in a solution in  which 0.1 moles of it has been 
+dissolved per dm3 of the solution.
+Solution:
+  
+-+
+33OO
+CH -C-O-H    CH -C-O +H฀฀
+฀  -5
+aK = 1.85x10
+Initial conc. 0.10 moles 0 moles   0 moles t = 0 sec.
+Change in concentration due to ionization
+   (0.1=x) moles xmoles + xmoles ฀   t=equilibrium
+Concentration at equilibrium
+   (0.1-x) 0.10 xmoles + xmoles ≈ ฀  t=equilibrium
+(0.1 - x) is approximately 0.1, because the value of  x is ver y small as compared to 0.1. The reason 
+is that CH3COOH is a much weak electrolyte.
+    -+
+3
+a
+3[CH COO ][H ] x.xK =       =    [CH COOH] 0.1Table (8.8) Percentage ionization and ionization co nstants of acetic acid at 250C348.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ Putting the value of Ka
+    2
+-5x1.85x10 =0.1
+ or   2 -5 -6x =0.1x1.8x10  =1.8x10
+ Taking square root on both sides
+    x = 0.1 x 1.8 x 10-5 = 1.8x10-6
+ In other words  [H+]  = 1.3 x 10-3 mole dm-3 (amount of acid ionized)
+    concentration of ionized acid%ionization=  x 100original concentration
+    -31.3x10 x100%ionization=   =  1.3 Answer0.1
+ Hence, out of 1000 molecules of acetic acid only 13 are dissocia ted into ions, when 0.1 molar 
+solution is prepared. In other words when 6 g of CH3COOH i.e 0.1 moles is dissolved in 1000 cm3 of 
+solution only 13 molecules ionize out of energy 1000 CH3COOH molecules. 
+ This is known as Ostwald’s dilution law, that dilution inc reases the degree of dissociations.
+8.5.0 IONIZATION CONSTANT OF BASES (Kb)
+ Unlike, strong bases weak Bronsted bases which are proton accep tors, usually consist of 
+molecules or ions. They react with water, remove a proton from it, an d generate OH- ions. Take the 
+examples of NH3 and CO32-. 
+    +-
+32 4NH (aq) + H O( )  NH (aq) + OH (aq) ฀
+    2- 1- -
+32 3CO (aq) + H O( )  HCO (aq) + OH (aq) ฀
+NH3 and C032- have  acted as bases in above reactions. They have diferent abilities  to accept protons 
+from water molecules. We compare these abilities of bases by knowing  the equilibrium constant Kb, 
+which is called base ionization constant of a base.358.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Let the base is represented by B. Then
+    +-
+2 B(aq) + H O( )  BH (aq) + OH (aq) ฀
+    +-
+c
+2[BH ][OH ]K =   [B][H O]
+Since, the concentration of H2O constant, being in large excess
+ So,   +-
+c2[BH ][OH ]K   [H O]=   [B]
+ Put   c2 bK [H O] =K
+ Hence  +-
+b[BH ][OH ]K =   [B]
+ Kb value of a base is the quantitative measurement of strength of a base  Smaller the Kb value, 
+weaker the base. Table (8.9) gives the Kb values for some bases.
+Table (8.9) Kb of some important bases
+Base Dissociation KbRelative
+strength
+NaOH+-NaOH Na  + OH ฀Very high Very strong
+KOH+-KOH K  + OH ฀Very high Very strong
+2Ca(OH)2+
+2Ca(OH) Ca  + 2OH ฀High Very strong
+4NH OH+-
+44NH OH NH  + OH ฀1.81x10-5Weak
+32CH NH
+(Mathyl amine)+-
+32 2 33CH NH  + H O CH NH  + OH ฀4.38x10-4Weak
+65 2C H NH
+(Aniline)+-
+65 2 2 65 3C H NH  + H O C H NH  + OH ฀4.7x10-10Very weak
+pKa and pKb
+ Table (8.7) and (8.9), we conclude that the values of Ka and Kb for weak acids and bases are 
+small numbers usually expressed in exponential form. It is c onvenient to convert them into whole 
+numbers by taking their negative log. Thus we obtain pKa and pKb values of acids and bases.368.CHEMICAL EQUILIBRIUM eLearn.Punjab
+       aapK  = -logK
+       bbpK  = -logK
+ Larger the pKa, weaker is the acid and vice versa. Similarly, larger the p Kb, weaker is the base. 
+If the diference of pKa values of the two acids is one, then acid with smaller pKa is ten times stron -
+ger than the other. If the diference is two, then one is hundred times s tronger than the other.
+8.6.0 LOWRY BRONSTED ACID AND BASE CONCEPT
+ According  to this concept, acids are those species which donate the proton or have a tenden -
+cy to donate and bases are those species which accept the proton or h ave a tendency to accept the 
+proton.
+ Whenever, a weak  acid or a weak base is dissolved in water, th e conjugate acid base pair is 
+produced. There is a close relationship between Ka of the acid, Kb of the conjugate base and Kw of 
+water. Let us have an acid HA, and it gives protons to water in a reversible manner. H3O+ gives pro -
+ton to A- and is an acid, but A- accepts H+ from H3O+ and act as a conjugate base of HA.
+     +-
+23 HA   +   H O     H O       +         A ฀
+     acid base  conjugate acid conjugate base
+         of H2O  of HA
+ Now,
+     +- +-
+3
+ca
+2[H O ][A ] [H ][A ]K   =    or   K =   [H O][HA] [HA]
+In case A- is dissolved in water, the equation for hydrolysis of conjugate ba se A- will be,
+     --
+2 A    +   H O  HA   +   OH ฀
+     base acid        acid base
+ So, its
+    -
+b -[HA][OH ]K       =[A ]378.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Let us multiply two expressions for Ka and Kb
+  + 1- -
+ab 1-[H ][A ] [OH ][HA]K xK  =  x [HA] [A ]
+Or    +-
+abK xK  = [H ][OH ]
+Or    ab wK xK  = K
+ This  equation is useful in the sense that if we know Ka of the acid, we can calculate Kb for 
+the conjugate base and vice versa. The value of Kw is a constant at a given temperature. i.e 10-14 at 
+25c°
+ Let us take the log of above equation
+   ab wlog(K xK )      = log(K )
+ or  ab wlogK  + logK       = logK
+Animation 8.11: Lowry Bronsted
+Source & Credit : dynamicscience388.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Multiply both sides by ‘-1’
+   ab w-logK  - logK       = -logK
+ Since  a abbpK   = -logK  and pK = - logK
+ or  a bwpK  + pK = pK
+ Since pKw=14, at 250C hence pKa and pKb of conjugate acid base pair has a very simple rela-
+tion with each other. 
+      
+   o
+abpK  + pK = 14 at 25 C
+This equation proves the following facts.
+(a)  Conjugate base of a very weak acid is relatively very stron g base.
+(b)  Conjugate acid of a very strong base is relatively very weak acid.
+ So  a
+b1KK∝
+ We can calculate the pKb of CH3COO-, if we know pKa of CH3COOH. Similarly, if we know pKb of 
+NH3, we can calculate pKa of NH4+ .
+8.7  COMMON ION EFFECT
+ The suppression of ionization of a weak electrolyte by adding a common ion from outside is 
+called common ion efect. 
+ We  are familiar with puriication of sodium chloride by pas sing hydrogen chloride gas through 
+saturated brine. Sodium chloride is fully ionized in the solution . Equilibrium constant expression 
+for this process can be written as follows:
+     +-NaCl(s) Na (aq) + Cl (aq) ฀
+     +-
+c[Na ][Cl ]K =           [NaCl]398.CHEMICAL EQUILIBRIUM eLearn.Punjab
+   HCl also ionizes in solution
+     +-HCl H (aq) + Cl (aq) ฀
+ On passing  HCl gas, concentration of Cl- ions is increased, therefore NaCl crystallizes out of 
+the solution to maintain the constant value of the equilibrium constant.
+This type of efect is called the common ion efect. The  addition of a common ion to the solution 
+of a less soluble electrolyte suppresses its ionization and the con centration of unionized species 
+increases, which may come out as a precipitate.
+    Na (aq) + Cl (aq) NaCl(s)+−฀
+More Examples of Common Ion Effect
+(i)  The solubility of a less soluble salts KClO3 in water is suppressed by the addition of a more 
+soluble salt KCl by common ion efect. K+ is a common ion. The ionization of KClO3 is suppressed 
+and it settles down as precipitate.
+Animation 8.12: COMMON ION
+Source & Credit : boundless408.CHEMICAL EQUILIBRIUM eLearn.Punjab
+    +-
+33KClO (s) K (aq) + ClO (aq) ฀
+    +-KCl      K (aq) + Cl (aq) ฀
+(ii)  Similarly, the dissociation of a weak acid H2S in water can be suppressed by the addition of 
+stronger acid HCl. H+ is a common ion. H2S becomes less dissociated in acidic solution. In this way 
+low concentration of S-2 ion is developed.
+    + 2-
+2H S     2H (aq) + S (aq) ฀
+ This low concentration of S-2 ions helps to do the precipitation of radicals of second group 
+basic radicals during salt analysis.
+   +-HCl(aq)   H (aq) + Cl (aq) ฀
+(iii)  An addition  of NH4Cl in NH4OH solution suppresses the concentration of OH- (aq) due to the 
+presence of a large excess of NH4+ from NH4Cl. Actually, NH4Cl is a strong electrolyte. The combina -
+tion of these two substances is used as a group reagent in third gr oup basic radicals
+   +-
+44NH Cl(aq)   NH (aq) + Cl (aq) ฀
+   +-
+44NH OH(aq)   NH (aq) + OH (aq) ฀
+(iv)  Common ion  efect inds extensive applications in the qualitative analysis and the prepara -
+tion of bufers.
+8.8.0 BUFFER SOLUTIONS
+ Those solutions, which resist the change in their pH when a small amount of an acid or a base 
+is added to them, are called bufer solutions. They have a speciic constant value of pH and their 
+pH values do not change on dilution and on keeping for a long time.  Bufer solutions are mostly 
+prepared by mixing two substances.418.CHEMICAL EQUILIBRIUM eLearn.Punjab
+(i)  By mixing a weak acid and a salt of it with a strong base. Such solutions give acidic bufers 
+with pH less than 7. Mixture of acetic acid and sodium acetate is one of the best examples of such 
+a bufer.
+(ii)  By mixing a weak base and a salt of it with a strong acid. Such solutions will give basic bufers with pH 
+more than 7. Mixture of NH4OH and NH4Cl is one of the best examples of such a basic bufer.
+(a)  Why Do We Need Buffer Solution?
+ It is a common experience that the pH of the human blood is mai ntained at pH 7.35, if it goes 
+to 7.00 or 8.00, a person may die.
+ Sometimes  one wants to study a reaction under conditions that would s ufer any associated 
+change in the pH of the reaction mixture. So, by suitable choice of the solutes, a chemist can ensure 
+that a solution will not experience more than a very small change i n pH, even if a small amount of a 
+strong acid or a strong base is added. Bufers are important in many areas of chemistry and allied 
+sciences like molecular biology, microbiology, cell biology, soi l sciences, nutrition and the clinical 
+analysis.
+Animation 8.13: BUFFER
+Source & Credit : hackaday428.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ Bufer is not a new concept at this stage of our discussion, it is  just the application of common 
+ion efect.
+(b)  How Do the Buffers Act?
+ Let us take the example of an acidic bufer consisting of CH3COOH and CH3COONa. Common 
+ion efect helps us to understand how the bufer will work. CH3COOH, being a weak electrolyte 
+undergoes very little dissociation. When CH3COONa, which is a strong electrolyte, is added to CH -
+3COOH solution, then the dissociation of CH3COOH is suppressed, due to common ion efect of 
+CH3COO- .      
+ 
+   -+
+32 33CH COOH(aq)+H O( )   CH COO (aq) + H O (aq) ฀
+                  
+   -+
+33CH COONa(aq)   CH COO (aq) + Na (aq) ฀
+ If one goes on adding CH3COONa in CH3COOH solution, then  the added concentrations of 
+CH3COO- decrease the dissociation of CH3COOH and the pH of solution increases. The table (8.10) 
+tells us how the pH value of a mixture of two compounds is maintain ed. Greater the concentration 
+of acetic acid as compared to CH3COONa, lesser is the pH of solution.
+[CH3COOH]
+(mole dm-3)[CH3COO-]
+(mole dm-3)% Dissociation pH
+0.10
+0.10
+0.10
+0.100.00
+0.05
+0.10
+0.151.3
+0.036
+0.018
+0.0122.89
+4.44
+4.74
+4.92
+ Actually a bufer mentioned above is a large reservoir of CH3COOH and CH3COO- components. 
+When an acid or H3O+ ions are added to this bufer, they will react with CH3COO- to give back acetic 
+acid and hence the pH of the solution will almost remain unchang ed. The reason is that CH3COOH 
+being a week acid will prefer to remain undissociated. Similar ly, the pufer solution consisting of 
+NH4Cl and NH4OH, can resist the change of pH and pOH, when acid or base is added from outside. 
+When a base or OH- ions are added in it, they will react with H3O+ to give back H2O and the pH of the 
+solution again will remain almost unchanged.Table (8.10) Effect of addition of acetate ions on the pH of acetic acid solution438.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Calculating the pH of a Buffer
+ Let us try to learn, how a bufer of deinite pH can be prepared. C onsider a weak acid HA and 
+its salt NaA with a strong base say NaOH. The reversible reaction s for dissociation of HA are as fol -
+lows:
+      +-HA  H + A ฀
+      +-NaA  Na +A ฀
+The dissociation constant of a weak acid HA is given by:
+     +-
+a[H ][A ]K   =[HA]
+Rearranging the equation,
+     + a
+-K [HA][H ]   =[A ]
+ The concentration of A in the reaction mixture is predominantly being supplied by NaA which 
+is a stro ger electrolyte than HA, and the ionization of HA is being  suppressed by common ion efect 
+(A- is the common ion in this bufer solution). Taking log of this eq uation.
+    + a
+-K [HA]log[H ]   =log[A ]
+    +
+a -[HA]log[H ]   =log(K ) + log[A ]
+ Multiplying with (-1) on both sides
+    +
+a -[HA]-log[H ]   =-log(K ) - log[A ]
+Since -   +
+aa -log[H ]   =pH and     -log(K ) =pK
+So,    a -[HA]pH   =pK  - log[A ]448.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ [A-] refers to the concentration of the salt. Actually, maximum possibl e concentrate of A- is 
+given by NaA, being a strong electrolyte
+      a[acid]pH   =pK  - log[salt]
+ Interchanging the numerator and denominator the sign of log cha nges
+ or      a[salt]pH   =pK  + log[acid]
+ This  relationship is called Henderson’s equation. This equa tion shows that two factors evi -
+dently govern the pH of a bufer solution. First is the pKa of the acid used and second is the ratio of 
+the concentrations of the salt and the acid. The best bufer is prepar ed by taking equal concentra -
+tion of salt and acid.
+So, pH is controlled by pKa of the acid. For example, for acetic acid sodium acetate bufer, i f
+      33[CH COOH] [CH COONa] =
+ then     3
+a
+3[CH COONa]pH   =pK  + log[CH COOH]
+      a pH   =pK  + log(1)
+ so      aa pH   =pK  + 0 = pK
+      pH = 4.74.
+ It means that the pH of this bufer is just equal to the pK of the ac id. Similarly for formic acid 
+sodium formate bufer, if
+     [HCOOH]    =  [HCOONa]
+ then     aa pH   =pK  + 0 = pK
+ so     pH = 3.78.458.CHEMICAL EQUILIBRIUM eLearn.Punjab
+ To prepare a bufer of deinite pH, we need a suitable acid for tha t  purpose. We can also 
+manage the bufer of our own required pH by suitably selecting the concentration ratio of the salt 
+and the acid. If [CH3COOH] is 0.1 mole dm and that of [CH3COONa] is 1.0 mole dm-3 then
+     [salt]pH=  4.74 + log  [acid]
+     1.0pH=  4.74 + log  0.1 4.74 log10= +
+ Since    log10 1 =
+     pH = 4.74 + 1 = 5.74
+     pH = 5.74
+Similarly, if [CH3COOH] is 1.0 mole dm-3 and [CH3COONa] is 0.1 moles dm-3 , then
+     0.1pH=  4.74 + log  1
+     -1 1pH=  4.74 + log  =4.74+log1010
+     pH = 4.74 - 1  =  3.74
+ or     pH = 3.74
+ Anyhow, the  above mentioned combination can be used to prepare bufers  from 3.74 to 
+5.74. The bufer beyond this range will not be good bufers and w ill have small bufer capacities. 
+ Just like acidic  bufers, the basic bufer have their own Hender son equation. For this purpose, 
+let us use the mixture of NH4OH and NH4Cl. NH4OH is a solution of NH3 in water and it can be rep -
+resented as follows:
+     +-
+32 4NA (aq) + H O( )  NH (aq) + OH (aq) ฀
+      + -1
+4
+b
+3[NH ][OH ]K =      [NH ]468.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Taking the log, multiplying with negative sign and rearrangin g, we get
+      b[salt]pOH    = pK  + log[base]
+ Using this relationship, we  can prepare a basic bufer of the required pOH or pH by suitably 
+selecting a base and adj usting the ratio of [salt] / [base].
+Example :
+ Calculate the pH of a bufer solution in which 0.11 molar CH3COONa and 0.09 molar acetic 
+acid solutions are present. Ka for CH3COOH is 1.85 x 10-5
+Solution:
+ 0.11M CH3COONa solution means that 0.11 moles are dissolved in 1 dm3 of solution.
+      
+      3[CH COONa]    =0.11M
+     
+      3[CH COOH]    =0.09M
+   
+      -5
+a3K  of CH COOH    =1.85x10
+      -5pK = -log(1.8x10 ) = 4.74
+      a[salt]pH = pK + log[acid]
+    
+      a0.11pH = pK + log0.09
+      pH = 4.74 + 0.087 = 4.83 Answer
+ Since, the concentration of CH3COONa is more than that of CH3COOH, so pH of  bufer is 
+greater than 4.74. In other words, the solution has developed the proper ties of a base, because 
+CH3COONa has Na+ ion which is from a strong base.478.CHEMICAL EQUILIBRIUM eLearn.Punjab
+8.8.1 Buffer Capacity
+ The bufer capacity of a solution is the capability of a bufer to resist the change of pH. It can 
+be measured quantitatively that how much extra acid or base, the sol ution can absorb before the 
+bufer is essentially destroyed. Bufer capacity of a bufer solution  is determined by the sizes of 
+actual molarities of its components. So,a chemist must decide before m aking the bufer solution, 
+what outer limits of change in its pH can be tolerated.
+ Let  us do some calculations to check the efectiveness of a bufer system . Consider, that we 
+have a bufer having 0.11 molar CH3COONa and 0.09 molar acetic acid. Its pH will be 4.83. L et us 
+add 0.01 moles of NaOH in one dm3 of the bufer solution (remember that addition of 0.01 moles 
+NaOH per dm3 of solution will change the pH from 7.00 to 12.00 in pure wa ter).
+ Since  NaOH is a strong base and it is 100% dissociated, i t generates 0.01 moles OH-. Out of 
+0.09 mole of CH3COOH, 0.01 mole will react with OH- and 0.08 moles of CH3COOH is left behind 
+in one dm3 of solution. This neutralization of course makes the identical ch ange in the amount of 
+CH3COONa and its concentration will increase from 0.11 mole to 0.12  mole.
+ Henderson equation is, a[salt]pH = pK + log[acid]
+Putting the new concentrations of salt and acid after addition of N aOH.
+     0.12pH = 4.74+ log0.08
+     pH = 4.74+ log(1.5)
+     pH = 4.74+ 0.176
+     pH = 4.92  Answer
+  It  means that there is a very small change in pH from 4.83 to 4.92, that is only a diference of 
+0.1. So we reach the conclusion that a bufer does not hold the pH exa ctly constant. But it does a 
+very good job in limiting the change in pH to a very small amount.488.CHEMICAL EQUILIBRIUM eLearn.Punjab
+8.9.0 EQUILIBRIA OF SLIGHTL Y SOLUBLE IONIC COMPOUND S 
+(SOLUBILITY PRODUCT)
+ When a soluble ionic compound is dissolved in water, like NaCl,  it dissociates completely 
+into ions. But for slightly soluble salts the dissociation is not c omplete at equilibrium stage. For 
+example, when PbCl2 is shaken with water the solution contains Pb2+, Cl- and undissociated PbCl2. It 
+means that equilibrium exists between solid solute, PbCl2 and the dissolved ions, Pb2+ and Cl-.
+     2+ -
+22PbCl (s) PbCl (aq) Pb (aq) + 2Cl (aq) ฀฀
+ According to law of mass action 2+ - 2
+(aq) (aq)
+c
+2[Pb ][Cl ]K=[PbCl ]
+ Lead sulphate is a  well known sparingly soluble compound a nd it dissociates to a very small 
+extent like PbCl2.
+    2+ 2-
+44 4PbSO (s) PbSO (aq) Pb (aq) + SO (aq) ฀฀
+ 
+Animation 8.14: SOLUBILITY
+Source & Credit : iupac498.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Law of mass action applied to the dissociation of PbSO4 gives equilibrium constant Kc
+     2+ 2
+4
+c
+4[Pb ][SO ]K=[PbSO ]−
+ Being a sparingly soluble salt the concentration of  lead sulph ate (PbSO4) almost remains 
+constant. Bring [PbSO4] on L.H.S. with Kc
+     2+ 2-
+c4 4K [PbSO ] = [Pb ][SO ]
+  if    c 4 spK [PbSO ] = K
+  then    2+ 2- -8 o
+sp 4K =[Pb (aq)][SO (aq)]= 1.6x10  at 25 C
+ Ksp is called the solubility product of PbSO4. It  is the product of molar solubilities of two ions 
+at equilibrium stage.
+ Similarly,for  2+ - 2
+2 spPbCl          K =[Pb (aq)][Cl (aq)]
+ Ksp is usually a  very small quantity at room temperature. The value of Ksp is temperature 
+dependent. For a general, sparingly soluble substance, AxBy.
+      +y -x
+xyA B xA +yB ฀
+      +y x -x y
+spK =[A ] +[B ]
+ So, the  solubility product is the product of the concentrations of i ons raised to an exponent 
+equal to the co-eicient of the balanced equation.  The value of Ksp is a measure of how far to the 
+right dissolution proceeds at equilibrium i.e. saturation. The following Table (8.10) shows us the Ksp 
+values of slightly soluble ionic compounds. 
+ Smaller the value of Ksp, lesser the capability to be dissociated.508.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Salt Ion Product KspSalt Ion Product Ksp
+AgBr [Ag ][Br ]+− -135.0x10 CuS 22[Cu ][S ]+− -348x10
+23Ag CO22
+3 [Ag ] [CO ]+−-128.1x10 FeS 22[Fe ][S ]+− -186.3x10
+AgCl [Ag ][Cl ]+− -101.8x1023Fe S3 23[Fe ][S ]+− -851.4x10
+Agl [Ag ][I ]+− -178.3x103Fe(OH)33[Fe ][OH ]+− -391.6x10
+2Ag S22[Ag ] [S ]+− -488x10 HgS22[Hg ][S ]+− -502x10
+3Al(OH)33[Al ][OH ]+− -343x103MgCO22
+3 [Mg ][CO ]+−-83.5x10
+3BaCO22
+3 [Ba ][CO ]+−-92x102Mg(OH)22[Mg ][OH ]+− -106.3x10
+4BaSO22
+4 [Ba ][SO ]+−-101.1x10 MnS 22[Mn ][S ]+− -113x10
+CdS 22[Cd ][S ]+− -278.0x102PbCl22[Pb ][Cl ]+− -51.6x10
+3CaCO22
+3 [Ca ][CO ]+−-93.3x104PbCrO22
+4 [Pb ][CrO ]+−-132.3x10
+2CaF22[Ca ][F ]+− -113.2x104PbSO22
+4 [Pb ][SO ]+−-81.6x10
+2Ca(OH)22[Ca ][OH ]+− -66.5x10 PbS 22[Pb ][S ]+− -288.0x10
+8.9.1 Applications of solubility product
+(a)  Determination of Ksp, from solubility
+ From the solubility of the compounds, we can calculate Ksp of the salt. The solubility for most of 
+the compounds are given in terms of the grams of the solute per 100 g of water. Since the quantity 
+of solute is very very small, so 100 g of water solution is consid ered to be 100 ml of solution. The 
+reason is that the density of water is very close to unity. Hence, we get the concentration in moles 
+dm-3. The number of moles of solute dm-3 of the solution is calculated by dividing the mass of solute 
+by its molar mass. Then by using the balanced equation, we in d the molarity of each ion and then 
+ind Ksp.Table (8.10) Ksp values for some ionic compounds 
+(compounds are arranged alphabetically).518.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Example 6 :
+ The solubility of PbF2 at 250C is 0.64 gdm-3. Calculate Ksp of PbF2.
+Solution:
+ First of all convert the concentration from g dm 1 to moles dm 3;
+   -3
+2 Mass of PbF  dessolved dm   = 0.64g
+   -1
+2 Molecular mass of PbF  = 245.2g mol
+ Number of moles of -3
+-3
+2 -10.64gdmPbF  =   =2.6x10245.2gmol
+ The balanced equation for dissociation of PbF2 is,
+    2+ 1-
+2PbF (s) Pb (aq) + 2F (aq) ฀
+    -32.6x10 M            0      +      0   t =0 sec
+    "zero" moles    -3 -32.6x10 moles + 2x2.6x10 moles    t=equilibrium
+ The expression of Ksp is
+    2+ - 2
+spK  = [Pb ][F ]
+ Putting values of concentration
+    -3 -3 2 -8
+spK = 2.6x10 x(2x2.6x10 )  =7.0x10 Answer528.CHEMICAL EQUILIBRIUM eLearn.Punjab
+     
+(b)  Determination of Solubility from Ksp
+ For this purpose we need the formula of the compound and Ksp value. Then the unknown 
+molar solubility S is calculated and the concentration of the ions  are determined. Table (8 .11 ) shows 
+the relationship between the Ksp values and the solubility of some sparingly soluble compounds.
+Example 7 :
+ Ca(OH)2 is a sparingly soluble compound. Its solubility product is 6.5x10-6 Calculate the 
+solubility of Ca(OH)2.
+Solution:
+ Let the solubility is represented by S in terms of moles dm-3.
+ The balanced equation is
+   2+ -
+2Ca(OH) Ca (aq)  +  2OH (aq) ฀Formula No. of
+ionsCation
+AnionKspSolubility
+gdm-3
+3MgCO2 1/1-83.61x10-41.9x10
+4PbSO2 1/1-81.69x10-41.3x10
+4BaCrO2 1/1-101.96x10-51.4x10
+2Ca(OH)3 1/2-66.5x10-21.175x10
+2BaF3 1/2-51.35x10-37.2x10
+2CaF3 1/2-113.2x10-42.0x10
+24Ag CrO3 2/1-122.6x10-58.7x10Table (8.11) Relationship between Ksp and the
+solubility of some compounds.538.CHEMICAL EQUILIBRIUM eLearn.Punjab
+   2Ca(OH) 0   +  0 ฀  Initial stage
+   2Ca(OH) S   +  2S ฀  Equilibrium stage
+   The -6
+spK =6.5x10
+ The concentration of OH- is double than the concentration of Ca2+, so
+   2+ - 2 2
+spK = [Ca ][OH ] = S x (2S)
+   3 -64S = 6.5 x 10
+ So,   1/3-6
+-6 1/3 6.5x10S=   = (1.625x10 )4
+
+   S= (1.625)1/3 x10-2
+   S= 1.175 x10-2
+ Hence, at equilibrium stage 1.175 x 10-2 moles dm-3 of Ca2+ and 2x1.175 x 10-2 = 2.75 x 10-2 moles 
+dm-3 OH- are  present in the solution. In this way, we have calculated the individual concentrations 
+of Ca2+ and OH- ion from the solubility product of Ca(OH)2.
+Effect of Common Ion on Solubility
+ The presence of a common ion decreases the solubility of a slightl y soluble ionic compound. 
+In order to explain it, consider a saturated solution of PbCrO4, which is a sparingly soluble ionic salt.
+     2+ 2-
+44PbCrO (aq) Pb (aq) + CrO (aq) ฀
+ Now add Na2CrO4 which is a soluble salt. CrO42- is the common ion. It  combines with Pb2+ to 
+form more insoluble PbCrO4. So equilibrium is shifted to the left to keep Ksp constant.548.CHEMICAL EQUILIBRIUM eLearn.Punjab
+KEY POINTS
+1. There versible chemical reactions can achieve a state in which the forward and the reverse 
+processes are occurring at the same rate. This state is called sta te of chemical equilibrium. The 
+concentrations of reactants and products are called equilibrium c oncentrations and the mixture 
+is called equilibrium mixture.
+2. Law  of mass action provides the relationship among the concentration s of reactants and products 
+of a system at equilibrium stage.The ratio of concentrations of the p roducts to the concentrations 
+of reactants is called equilibrium constant. The equilibrium  constants are expressed as Kc, Kp, Kn 
+and Kx.
+3. The value of equilibrium constant can predict the direction and  extent of a chemical reaction.
+4. The efect of change of concentration, temperature, pressure or catalyst i n a reaction can 
+be s adied witii the help of Le-Chatelier’s principle. Increasi ng concentrations of reactants or 
+decreasing concentrations of products or heating of the endothermic reactions shifts the reaction 
+to the forward direction. The change of temperature disturbs the equili brium position and the 
+equilibrium constant of reaction. A catalyst decreases the time to rea ch the equilibrium and 
+does not alter the equilibrium position and equilibrium constant u nder the given conditions.
+5. Water is a very weak electrolyte and ionizes to a slight degree. The ex tent of this a autoionization 
+is expressed by ionic product of water called Kw, having a value 10-14 at 250C. The addition of an 
+acid or a base changes the [H+] and [OH-], but the ionic product remains the same at 250C.
+6. The concentration of H+ is expressed in terms of pH and that of [OH-] in terms of pOH. Neutral 
+water has a pH = 7 and pOH= 7.The value of pKw is 14 at 250C.
+7. According  to Lowry-Bronsted concept of an acid and a base the c onjugate base of a strong 
+acid is always weak. So pKa + pKb = pKw Where pKa and pKb are the parameters to measure the 
+strengths of acids and bases.
+8. Those solutions which resist the change of pH are called bufer sol utions. Bufer solutions of 
+pH below 7 are prepared by mixing a weak acid and salt of it with a strong base while basic 
+bufers can be prepared by combining a weak base and salt of it with a strong acid. Hendersen’s 
+equation guides us quantitatively to have the bufer solutions of good buf er capacity and to 
+select the pair of compounds for this purpose.
+9. The  solubility of sparingly soluble substances are calculated  from the solubility product data. This 
+data provides us the information about the selective precipitation and f ractional precipitation.
+10. Common ion efect operates best in bufer solutions, and puriicati on of certain substances. It 
+is one of the best applications of Le-Chatelier’s principle.558.CHEMICAL EQUILIBRIUM eLearn.Punjab
+EXERCISE
+Q1.  Multiple choice questions
+i)  For which system does the equilibrium constant, Kc has units of (concentration)’?
+(a)  22 3N +3H 2NH ฀
+(b)  22H +I 2HI ฀
+(c)  2 242NO N O ฀
+(d)  22 2HF H +F ฀
+ii)  Which statement about the following equilibrium is correct
+  -1
+22 32SO (g) + O (g) 2SO (g)                      ÄH= -188.3kJ mol ฀
+(a)  The value of Kp falls with a rise in temperature
+(b)  The value of Kp falls with increasing pressure
+(c)  Adding V2O5 catalyst increase the equilibrium yield of sulphur trioxide
+(d)  The value of Kp is equal to Kc.
+iii)  The pH of 10-3 mol dm-3 of an aqueous solution of H2SO4 is
+ (a)  3.0  (b)  2.7  (c)  2.0  (d)  1.5
+iv)  The  solubility product of AgCl is 2.0 x 10-10 mol2 dm-6. The maximum concentration of Ag+ ions 
+in the solution is
+(a)  2.0 x 10-10 mol dm-3   (b)  1.41 x 10-5 mol dm-3
+(c)  1.0 x 10-10 mol dm-3   (d)  4.0 x 10-20 mol dm-3
+v)  An excess of aqueous silver nitrate is added to aqueous barium  chloride and precipitate is 
+removed by iltration. What are the main ions in the iltrate?
+(a)  Ag+ and NO3- only   (b)  Ag+ and Ba2+  and NO3-
+(c)  Ba2+ and NO3- only   (d)  Ba2+ and NO3- and Cl-
+Q2.  Fill in the blanks
+i)  Law  of mass action states that th e__________ at which a reaction proceeds, is directly proportional 
+to the product of the active masses of the __________.
+ii)  In  an exothermic reversible reaction,_______ temperature w ill shift the equilibrium towards the 
+forward direction.
+iii) The  equilibrium constant for the reaction 322O 3O ฀  is 1055 at 250C, it tells that ozone is__________ 
+at room temperature.568.CHEMICAL EQUILIBRIUM eLearn.Punjab
+iv) In a  gas phase reaction, if the number of moles of reactan ts are equal to the number of moles 
+of the products, Kc of the reaction is__________ to the Kp.
+v) Bufer  solution is prepared by mixing together a weak base and  its salt with or a weak acid and 
+its salt with__________.
+Q3.  Label the sentences as True or False.
+i) When  a reversible reaction attains equilibrium both reactants and products are present in a 
+reaction mixture.
+ii) The Kc of the reaction
+  A + B C + D ฀
+  is given by
+  c[C][D]K=[A][B]
+  therefore it is assumed that
+  [A] [B] [C] [D]= = =
+iii)  A catalyst is  a substance which increases the speed of the reaction and consequently increases 
+the yield of the product.
+iv) Ionic product Kw of pure water  at 250C is 10-14 mol2 dm-6 and is represented by an expression Kw 
+= [H+][OH-] = 10-14 mol2 dm-6
+v)  AgCl is a sparingly soluble ionic solid in water. Its solution produces excess of Ag+ and Cl- ions.
+Q4 (a) Explain the term s” reversible reaction” and “state of equil ibrium”.
+(b) Deine and explain the  Law of mass action and derive the expres sion for the equilibrium 
+constant(Kc).
+(c) Write equilibrium constant expression for the following reacti ons
+ (i)  +2 3+ 4+ 2+Sn (aq)+2Fe (aq) Sn (aq)+2Fe (aq) ฀
+ (ii)  + 2+ 3+Ag (aq)+Fe (aq) Fe (aq)+Ag(s) ฀
+ (iii)  22N (g)+O (g) 2NO(g) ฀
+ (iv)  32 24NH (g)+5O (g) 4NO(g)+6H O(g) ฀
+ (v)  5 32PCl (g) PCl (g)+Cl (g) ฀578.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Q5 (a) Reversible reactions attain the position of  equilibrium wh ich is dynamic in nature and not 
+static. Explain it.
+(b) Why  do the rates of forward reactions slow down when a reversi ble reaction approaches the 
+equilibrium stage?
+Q6 When  a graph is plotted between time on x-axis and the concentra tions of reactants and 
+products on y-axis for a reversible reaction, the curves become paral lel to time axis at a certain 
+stage.
+(a) At what stage the curves become parallel ?
+(b) Before the curves become parallel, the steapness of curves fall s! Give reasons.
+(c) The  rate of decrease of concentrations of any of the reactants and  rate of increase of 
+concentrations of any of the products may or may not be equal, for  various types of reactions, 
+before the equilibrium time. Explain it.
+Q7 (a) Write  down the relationship of diferent types of equilibriu m constants i.e. Kc and Kp for the 
+following general reaction.
+  aA + bB cC + dD ฀
+ 
+(b) Decide the comparative magnitudes of Kc and Kp for the following reversible reactions.
+i)  Ammonia synthesis  ii)  Dissociation of PCl5
+Q8 (a) Write  down Kc for the following reversible reactions. Suppose that the  volume of r eaction 
+mixture in all the cases is ‘V’ dm3 at equilibrium stage.
+i)   3 3 2 3 25 2CH COOH + CH CH OH CH COOC H  + H O ฀
+ii)   22H  + I 2HI ฀
+iii)  22 2HI H  + I ฀
+iv)  5 32PCl PCl  + Cl ฀
+v)   22 3N  + 3H 2NH ฀
+(b) How  do you explain that some of the reactions mentioned above are af ected by change of 
+volume at equilibrium stage.
+Q9  Explain the following two applications of equilibrium con stant. Give examples
+i)   Direction of reaction   ii)  Extent of reaction588.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Q10  Explain the following with reasons.
+(a) The change of volume disturbs the equilibrium position for s ome of the gaseous phase 
+reactions  but not the equilibrium constant.
+(b) The change of temperature disturbs both the equilibrium posi tion and the equilibrium 
+constant  of a reaction.
+(c) The solubility of glucose in water is increased by incre asing the temperature.
+Q11 (a) What is  an ionic product of water? How does this valu e vary with the change in temperature? 
+Is it true that its value increase 75 times when the temperature of w ater is increased form 00C 
+to 100 0C.
+(b) What is the justiication for the increase of ionic product with  temperature?
+(c) How  would you prove that at 250C, 1dm3 of water contains 10-7 moles of H3O+ and10-7 moles 
+of OH 
+Q12 (a)Deine pH and pOH. How are they related with pKw.
+ (b) What  happens to the acidic and basic properties of aq ueous solutions when pH varies 
+from zero to 14?
+ (c) Is it true  that the sum of pKa and pKb is always equal to 14 at all temperatures for any acid? 
+If not why?
+Q13 (a) What is Lowry Bronsted idea of acids and bases? Exp lain conjugate acid and bases.
+ (b) Acetic acid dissolves in water and gives proton to water, but w hen dissolved in H2SO4, it 
+accepts protons. Discuss the role of acetic acid in both cases.
+Q14  In the equilibrium
+  5 32PCl (g) PCl (g) + Cl (g)                    ฀              ∆H=+90kJ mol-1
+  What is the efect on
+  (a)  the position of equilibrium   (b)  equilibrium constan t? if
+i)  temperature is increased  ii)  volume of the container is decrea sed
+iii)  catalyst is added   iv)  chlorine is added
+  Explain your answer.598.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Q15. Synthesis of ammonia by Haber’s process is an exothermic reaction.
+  22 3N (g) + 3H (g) 2NH (g)                             ÄH= -92.46 kJ ฀
+(a)  What should be the possible efect of change of temperature at equi librium stage?
+(b)  How does the change of pressure or volume shifts the equilibri um position of this reaction ?
+(c)  What is the role of the catalyst in this reaction?
+(d)  What happens to equilibrium position of this reaction if NH3 is removed from the reaction 
+vessel from time to time?
+Q16  Sulphuric  acid is the king of chemicals. It is prod uced by the burning of SO2 to SO3 through an 
+exothermic reversible process.
+(a)  Write the balanced reversible reaction.
+(b)  What is the efect of pressure change on this reaction?
+(c)  Reaction  is exothermic but still the temperature of 400-5000C is required to increase 
+the yield of SO3. Give reasons.
+Q17  (a)  What are bufer solutions? Why do we need them in dail y life?
+(b)  How does the mixture of sodium acetate and acetic acid give us the acidic bufer?
+(c)  Explain that a mixture of NH4OH and NH4Cl gives us the basic bufer.
+(d)  How  do you justify that the greater quantity of CH3COONa in acetic acid decreases the 
+dissociating power of acetic acid and so the pH increases.
+(e)  Explain the term bufer capacity.
+Q18 (a) What  is the solubility product? Derive the solubility pr oduct expression for sparingly 
+soluble compounds, AgCl, Ag2CrO4 and PbCl2.
+(b) How do  you determine the solubility product of a substance wh en its solubility is provided 
+in grams/100 g of water?
+(c) How do  you calculate the solubility of a substance from the va lue of solubility product?
+Q19  Kc value for the following reaction is 0.016 at 5200C
+   22 2HI(g) H (g) + I (g) ฀608.CHEMICAL EQUILIBRIUM eLearn.Punjab
+Equilibrium  mixture contains [HI] = 0.08 M, [H2] = 0.01M, [I2] = 0.01M. To this mixture more HI is 
+added so that its new concentration is 0.096M. What will be the c oncentration of [HI], [H2] and [I2] 
+when equilibrium is re-established.
+(Ans: 0.0926 mole, 0.01168 mole, 0.01168 mole)
+Q20  The  equilibrium constant for the reaction between acetic acid and ethyl alcohol is 4.0. A 
+mixture of 3moles of acetic acid and one mole of C2H5OH is allowed to come to equilibrium. 
+Calculate the amount of ethyl acetate at equilibrium stage in num ber of moles and grams. Also 
+calculate the masses of reactants left behind.
+(Ans: 79.5g,126g,4.6g)
+Q21  Study the equilibrium
+  2 22H O(g)+CO(g) H (g)+CO (g) ฀
+(a) Write an expression of Kp
+(b) When 1.00 mole of steam and 1.00 mole  of carbon monoxide are allowed to reach equilibrium, 
+33.3 % of the equilibrium mixture is hydrogen. Calculate the va lue of Kp. State the units of Kp. 
+( Ans: 4, K, has no unit)
+Q22  Calculate the pH of
+(a) 10-4 mole dm-3 of HCl             (Ans: 4)
+(b) 10-4 mole dm-3 of Ba(OH)2           (Ans: 10.3)
+(c) 1.0 mole dm-3 of H2X, which is only 50% dissociated.      (Ans: zero)
+(d) 1.0 mole dm-3 of NH4OH which is 1% dissociated.       (Ans: 12)
+Q23
+(a) Benzoic  acid, C6H5COOH, is a weak mono-basic acid (Ka= 6.4 x 10-5 mol dm-3). What is the pH 
+of a solution containing 7.2 g of sodium benzoate in one dm3 of 0.02 mole dm-3 benzoic acid.  
+(Ans: 4.59)
+(b) A bufer  solution has been prepared by mixing 0.2 M CH3COONa and 0.5 M CH3COOH in 1 
+dm3 of solution. Calculate the pH of solution. pKa of acid = 4.74 at 250C. How the values of pH 
+will change by adding 0.1 mole of NaOH and 0.1 mole of HC l separately.     
+      (Ans: 4.34, 4.62, 3.96)
+Q24  The solubility of CaF, in water at 25°C is found to be 2. 05 x 10 1 mol dm f. What is the value of 
+Ksp at this temperature.                     
+(Ans: 3.446 x 10-11)
+Q25  The solubility product of Ag2CrO4 is 2.6 x 10-2 at 250C. Calculate the solubility of the compound. 
+(Ans: 0.1866 mol dm-3)

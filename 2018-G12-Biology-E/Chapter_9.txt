@@ -1,0 +1,601 @@
+CHAPTER
+23 BIOTECHNOLOGY
+Animation 23 : Biotechnology
+Source & Credit: Wikispaces223.Biotechnology eLearn.Punjab
+Since Mendel’s work was rediscovered in 1900, geneticis ts have made startling advances 
+which have led to a new era of DNA technology. Modem techniqu es enable
+desired substance, for example insulin. Not very long ago,  people with insulin dependent
+they receive human insulin, a product of biotechnology. Sinc e the 1980s, biotechnology 
+has produced drugs and vaccines to curb human illnesses . 
+Genetically, engineered bacteria have been used to clean up environmental pollutants, 
+increase the fertility of the soil, and kill insect pests. Biotechnology also extends beyond 
+multicellular organisms. It is now possible to alter the gen otype and subsequently the 
+phenotype of plants and animals. Indeed, gene therapy in  humans, attempting to repair 
+a faulty gene is already undergoing clinical trials. T here are those who are opposed to 
+manipulation of genes for any reason. Although, there have b een no ill efects as yet, 
+they fear the possibility of health and ecological repercus sions in the future.
+Cloning of a gene 
+      
+ Produces many identical copies. Recombinant DNA technology is used when a very 
+large quantity of a gene is required. The use of polymer ase chain reaction (PCR) creates 
+a lesser number of copies within a laboratory test tube. 
+Recombinant DNA Technology 
+     
+Recombinant DNA technology popularly known as genetic engine ering aims at 
+synthesizing recombinant DNA which contains DNA from two dife rent sources. In 
+order to produce recombinant DNA, the following are required:  
+1. Gene of interest, which is to be cloned. 
+2. Molecular scissors to cut out the gene of interest. 
+3. Molecular carrier or vector, on which gene of interest cou ld be placed. 
+4. The gene of interest alongwith the vector is then introduced in to an expression 
+system, as a result of which a speciic product is made.323.Biotechnology eLearn.Punjab
+How t o get a gene? 
+There are three possible ways to get the gene of interest.
+(a) to isolate it from the chromosome 
+(b) to synthesize it chemically, and
+(c) to make it from mRNA 
+Genes can be isolated from the chromosomes by cutting the chrom osomes on the 
+lanking sites of the gene using special enzymes known a s restriction endonucleases. 
+If, however, the genes are small, they can also be synthe sized in the laboratory. 
+Another very common method of getting the gene is to synthesize i t in the laboratory 
+from messenger RNA, using reverse transcriptase. This DN A molecule is called 
+complementary DNA (cDNA).
+Molecular Scissors: Restriction Endonucleases 
+    
+ These are natural enzymes of bacteria, which they use for their own protection against 
+viruses. The restriction enzyme cuts down the viral DNA, but does no harm to the 
+bacterial chromosofhe. They are called restriction enzymes  because they restrict the 
+growth of viruses. In 1970, Hamilton O. Smith, at Johns Hopki ns University, isolated the 
+irst restriction enzyme. Bacteria produce a variety of such restriction enzymes, which 
+cut the DNA at very speciic sites characterized by speciic  sequence of four or six 
+nucleotides arranged symmetrically in the reverse order. Such sequences are known 
+as palindromic sequences. So far more than 400 such enz ymes have been isolated out 
+of which about 20 are frequently used in recombinant DNA te chnology.
+EcoRl, a commonly used restriction enzyme, cuts double-stran ded DNA when it has 
+this sequence of bases at the cleavage site (Fig. 23.1). Notice there is now a gap into 
+which a piece of foreign DNA can be placed, if it ends in bases complementary to those
+exposed by the restriction enzyme. The single stranded bu t complementary ends of the 
+two DNA molecules are called “sticky ends” because they c an bind by complementary 
+base pairing. They, therefore, facilitate the insertion of foreign DNA into vector DNA.423.Biotechnology eLearn.Punjab
+Molecular Carrier: Vector 
+  
+To make recombinant DNA, one often begins by selecting a vec tor, the means by 
+which recombinant DNA is introduced into a host cell. One com mon type of vector 
+is a plasmid. Plasmids were discovered by investigators s tudying the sex life of the 
+intestinal bacterium Escherichia coli .
+Plasmids are natural extra-chromosomal circular DNA molecu les which carry genes for 
+antibiotic resistance and fertility etc. One of the plasmids  discovered earlier pSC 101 has 
+antibiotic resistance gene for tetracycline, whereas pBR 3 22 has antibiotic resistance 
+genes for tetracycline as well as ampicillin. Inserting  gene of interest in tetracycline 
+resistant gene of plasmid pBR 322 would enable separatin g out colonies of bacteria in 
+a medium containing ampicillin and vice versa.
+Fig, 23.1 Restriction enzyme ECoRl, cuts this speciic se quence of nucleotides in such a way that sticky ends a re 
+produced.523.Biotechnology eLearn.Punjab
+Recombinant DNA 
+  
+For preparation of a recombinant DNA, the plasmid is cut with  the same enzyme which 
+was used for isolation of the gene of interest (Fig. 23.2). The gene of interest (insulin) 
+is then joined with the sticky ends produced after cutting th e plasmid with the help of 
+another special enzyme knqwn as DNA ligase. This enzym e seals the foreign piece of 
+DNA into the vector. Now the two diferent pieces of DNA have been joined together, 
+which is now known as recombinant DNA or chimaeric DNA 
+ 
+Animation 23.1: Recombinant DNA
+Source & Credit:Pinterest623.Biotechnology eLearn.Punjab
+Fig. 23.2 Cloning of a gene .723.Biotechnology eLearn.Punjab
+Expr ession of the Recombinant DNA 
+   
+ 
+A clone can be a large number of molecules (i.e. cloned  genes) or cells (i.e. cloned 
+bacteria) or organisms that are identical to an original spe cimen. Fig. 23.3 compares the 
+use of a plasmid and a virus to clone a gene. Bacterial c ells take up recombinant plasmid, 
+especially, if they are treated with calcium chloride to m ake them more permeable. 
+Thereafter, as the cell reproduces, a bacterial clone for ms and each new cell contains at 
+least one plasmid. Therefore, each of the bacteria contains  the gene of interest, which 
+will express itself and make a product. From this bacteri al clone, the cloned gene can 
+be isolated for further analysis, or protein product can be separated (Fig 23.2). Besides 
+plasmids, the DNA of bacterial viruses (for example, lamb da phage) can also be used 
+as a vector. After lambda phage attaches to a host bacterium, recombinant DNA is 
+released from the virus and enters the bacterium. Here, i t will direct the reproduction 
+of many more viruses. Each virus in bacteriophage clone con tains a copy of the gene 
+being cloned (Fig. 23.3).
+Fig. 23.3 Plasmid DNA (upper part of igure) as well as viral  DNA (lower part of the igure) can be used as vectors for cloning gene 
+of interes823.Biotechnology eLearn.Punjab
+Genoiftic Library 
+A genome is a full set of genes of an individual. A genom ic library is a collection of 
+bacterial or bacteriophage clones, each clone containing a particular segment of 
+DNA from the source cell. For making a genomic library, a n organism’s DNA is simply 
+sliced up into pieces, and pieces are put into vectors (i.e . plasmids or viruses) that are 
+taken up by host bacteria as shown in Fig. 23.3. The enti re collection of bacterial or 
+bacteriophage clones that result contains all the genes of tha t organism.
+A particular probe can be used to search a genetic libra ry for a certain gene. A probe 
+is a single stranded nucleotide sequence that will hybri dize (pair) with a certain piece 
+of DNA. Location of the probe is possible because the probe is  either radioactive or 
+luorescent. Bacterial cells, each carrying a particular  DNA fragment, can be plated onto 
+agar in a petri dish. After the probe hybridizes into the gene of interest, the genes can 
+be isolated from the fragment (Fig 23.4). Now this particul ar fragment can be cloned 
+further or even analyzed for its particular DNA sequence.
+Fig 23.4 Identiication of a cloned gene923.Biotechnology eLearn.Punjab
+Fig 23.5 Polymerase chain reaction (PCR)1023.Biotechnology eLearn.Punjab
+The polymer ase Chain Reaction
+ 
+Kary B. Mullis developed the polymerase chain reaction (P CR) in 1983. Earlier methods 
+of obtaining multiple copies of a speciic sequence of DNA w ere time consuming and 
+expensive. In contrast, PCR can create millions of copies of  a single gene or any speciic 
+piece of DNA quickly in a test tube. PCR is very speciic - the targeted DNA sequence 
+can be less than one part in a million of the total DNA sampl e. .This means that a single 
+gene or smaller piece of DNA, among all the human genes can be ampliied (copied) 
+using PCR.
+PCR takes its name from DNA polymerase, the enzyme that car ries out DNA replication 
+in a cell. It is considered a chain reaction because DNA  polymerase will carry out 
+replication over and over again, until there are millions of copies of the desired DNA. 
+PCR does not replace gene cloning, which is still used w henever a large quantity of 
+gene or protein product is needed.
+Before carrying out PCR, primers - sequences of about 20 bases that are complementary 
+to the bases on either side of the “target DNA” - must be avail able. The primers are needed 
+because DNA polymerase does not start the replication process;  it only continues or 
+extends the process. After the primers bind by complementa ry base pairing to the 
+DNA strand, DNA polymerase copies the target DNA (Fig 23.5) .
+DNA polymerase used is temperature - insensitive (thermostab le) enzyme extracted 
+from the bacterium Thermus aquaticus , which lives in hot springs. Commonly, this 
+enzyme is also known as Taq polymerase . It can withstand high temperature, which is 
+used to separate double stranded DNA, therefore, replication need not be interrupted 
+by the need to add more enzyme. PCR is done these days in  an automatic PCR machine 
+or thermocycler, which is a routine piece of equipment in any laboratory.
+Animation 23.2 : PCR
+Source & Credit: members.jcom1123.Biotechnology eLearn.Punjab
+  Analyzing DNA 
+  
+The entire genome of an individual can be subjected to DNA inger printing, a process 
+described in Fig. 23.6. The genome is treated with restr iction enzymes, which results 
+in a unique collection of diferent sized fragments. There fore, restriction fragment 
+length polymorphism (RFLPs) exists between individuals. Du ring a process called gel 
+electrophoresis, the fragments can be separated according to their lengths (molecular 
+weight or size), and the result is a number of bands that are so close together that 
+they appear as a smear. However, the use of probes for gen etic markers produces a 
+distinctive pattern that can be recorded on X-ray ilm.
+Fif 23.6 DNA ingerprinting. Three samples of DNA(I , II , IIi )were cut with a restriction enzyme and run on agarose gel. T he 
+gel pattren was then transferred to a membrane and DNA was d enatured. The denatured DNA on the paper was hybridized 
+with radioactive probe. Since the radioactive probes and com plemetary arrangement of bases to the original DNA ,all DNA 
+fragments were labelled , which appeared as black bands with autogradiagram.1223.Biotechnology eLearn.Punjab
+   
+The DNA from a single sperm enough to identify a suspected  rapist. Since DNA 
+is inherited, its inger print resembles that of one’s pare nts. DNA inger printing 
+successfully identiied the remains of a teenager who had  been murdered eight years 
+before because the skeletal DNA was similar to that of the pa rent’s DNA. 
+In Fig. 23.7 are given some DNA inger prints. The igure  23.7 (a) shows comparison of 
+child’s inger print with that of his parents. The child h as received DNA from both of 
+his parents. Arrows indicate that some bands in him are l ike his father, some like his 
+mother. Some bands are. however, unique to him, which do not match with any of the 
+parents. 
+Fig. 23.7 (b) shows a case of disputed parenthood. Two per sons F1 and F2 claim to be the 
+father of child C, whose mother’s inger print is given und er M. The child has received 
+DNA from both of his parents. Obviously F1is not the real father.
+The arrows on left side show common bands between mother and  child while those on 
+right show common bands between the father and the child. 
+Fig. 23.7(c) shows DNA inger prints which have been pre sented as forensic evidence. A 
+criminal on a deserted place assaulted a woman. She scr atched his face in her defence 
+but he murdered her and ran away. Forensic scientist re covered murder’s hair and skin 
+cells from underneath her nails. They prepared DNA ing er prints from blood of victim, 
+from murderer’s skin and hair, and from three suspects blood. Can you compare them 
+for speciic DNA sequence and tell who is in guilty and w ho is not? The suspect 1 has 
+inger prints, which is similar to linger print from skin  cells taken from underneath nails 
+of the victim.Therefore suspect 1 is the culprit. The suspe ct 2 and 3 are not.
+PCR ampliication and analysis can be used (1) to diagnos e viral infections, genetic 
+disorders, and cancer (2) in forensic laboratories to iden tify criminals; and (3) to 
+determine the evolutionary history’ of human population. It has been possible to 
+sequence DNA taken from a 76,000 years old mummiied hum an braiti and from a 17 
+to 20 million years old plant fossil following PCR ampliica tion.1323.Biotechnology eLearn.Punjab
+Fig 23.7(a) Comparison of a child’s DNA 
+ingerprint (c) with his parent’s DNA  
+fringerpints (Mand F),(b) DNA ingerprints as evidence for paternity . (c) DNA Test - a powerful tool of 
+forensic science.
+  Gene Sequencing 
+In the late 1970s, methods were developed that allowed the nu cleotide sequence of 
+any puriied DNA fragement to be determined simply and qu ickly. The main principle 
+of these methods is : 
+1. To generate pieces of DNA of diferent sizes all starting fr om the same point and 
+ending at diferent points. 
+2. Separation of these diferent pieces of DNA on agarose gel. 
+3. Reading of sequence from the gel.1423.Biotechnology eLearn.Punjab
+   
+For generation of diferent sized DNA fragments, two methods ar c generally used. One 
+is Sanger’s,method in which dideoxyribonucleoside triphosp hates arc used to terminate 
+DNA synthesis at diferent sites. The other method is known as  Maxam-Giibcrt method 
+in which DNA threads are chemically cut into pieces of di ferent sizes
+Fig 23.8 The enzymatic or dideoxy method of sequencing DNA1523.Biotechnology eLearn.Punjab
+Fig 23.8 shows typical gel obtained after dideoxy method. T he volume of DNA sequence 
+information is now so large that powerful computers must be us ed to store and analyze 
+it. DNA sequence is now completely automated, robotic devices m ix the reagents and 
+then load, run and read the order of the nucleotide bases f rom the gel. This is facilitated 
+by using chain terminating nucleotides that are each labe lled with a diferent colored 
+luorescent dye; in this case, all four synthesis reactions  can be performed in the same 
+tube, and the products can be separated in a single lane  of a gel. A detector positioned 
+near the bottom of the gel reads and records the color of luores cent label on each band 
+as it passes through a laser beam. A computer then reads and stores this nucleotide 
+sequence.
+Owing to the automation of DNA sequencing, the genomes of many organisms have 
+been sequenced. These include plant chloroplasts and an imal mitochondria, large 
+number of bacteria, many of the yeasts, a nematode worm. Drosophila , the model plant 
+Arabidopsis , the mouse and human. Researchers have also deduced the  complete DNA 
+sequence of a variety of human pathogens.
+THE HUMAN GENOME PROJECT
+  
+The human genome project is massive efort originally founde d by the U.S. govern -
+ment and now increasingly by U.S. pharmaceutical compani es to map the human 
+chromosomes. Many non-proit and for proit biochemical laboratori es around the 
+world are now involved in the project which has two primary g oals.
+Animation 23.3: Human Genome Project
+Source & Credit: CRDD1623.Biotechnology eLearn.Punjab
+Fig 23.9  Genetic map of X chromosomeThe irst goal is to construct a genetic map of the human genom e. The aim is to show 
+the sequence of genes along the length of each type of chrom osome, such as de-
+picted for the X chromosome in Fig 23.9. When the DNA seque nce of human chro-
+mosome no. 22, one of the smallest human chromosomes, was comp leted in 19.99, 
+it became possible for the irst time to see exactly how genes  are arranged along an 
+entire vertebrate chromosome. With the publication of the entire human genome in 
+2001, the genetic landscape of all human chromosomes sudd enly came into sharp 
+focus. The sheer quantity of information provided by the huma n genome project is 
+unprecedented in biology. The human genome is 25 times l arger than any other ge-
+nome sequenced so far.1723.Biotechnology eLearn.Punjab
+  
+ The map for each chromosome is presently incomplete, and in many instances scientists 
+rely on the placement of RFLPs. These sites eventually all ow scientist to pinpoint disease 
+causing genes because a particular RFLP and a defecti ve gene are often inherited 
+together. For example it is known that persons with Huntington d isease have a unique 
+site where a restriction enzyme cuts DNA. The test for Huntin gton disease relies on this 
+diference from the normal. 
+The second goal is to construct a base sequence map. There  are three billion base 
+pairs in the human genome and it is estimated it cohld take  an encyclopaedia of 200 
+volumes, each with 1000 pages, to list all of these. Yet this  goal has been reached and 
+all the chromosomes have been sequenced.
+BIOTECHNOLOGY PRODUCTS 
+    
+Today bacteria, plants and animals are genetically engi neered to produce biotechnology 
+products. Organisms that have a foreign gene inserted into th em are called  transgenic 
+organisms.
+Transgenic Bacteria 
+Recombinant DNA technology is used to produce bacteria that rep roduce in large 
+vats called bioreactors . If the foreign gene is replicated and actively express ed, a 
+large amount of protein product can be obtained. Biotechnology p roducts produced 
+by bacteria, such as insulin, human growth hormone, tissu e plasminogen activator, 
+haemophilia factor Vm, and hepatitis B vaccine are now in the market.
+Transgenic bacteria have been produced to promote health of p lants for example, 
+bacteria that normally live on plants and encourage the forma tion of ice crystals have 
+been changed from frost - plus to frost - minus bacteria. A lso, a bacterium that normally 
+colonizes the roots of com plants has now been endowed with gen es (from another 
+bacterium) that code for an insect toxin. The toxin protects the roots from insects. 
+Bacteria can be selected for their ability to degrade a pa rticular substance and then 
+this ability can be enhanced by genetic engineering. F or instance, naturally occurring 
+bacteria may be engineered to do an even better job of clean ing up beaches after oil 
+spills.1823.Biotechnology eLearn.Punjab
+  
+   Industry has found that bacteria can be used as bioilte rs to prevent airborne chemical 
+pollutants from being vented into the air. They can also remove  sulfur from coal before 
+it is burned and help to clean up toxic waste dumps. One such strain was given genes 
+that allowed it to clean up levels of toxins that would have kill ed other strains. Further, 
+these bacteria were given “suicide” genes that caused the m to self-destruct when the 
+job had been accomplished.
+     Organic chemicals are often synthesized by having catalysts act on precursor molecules 
+or by using bacteria to carry out the synthesis. Today, it is  possible to go one step further 
+and to manipulate the genes that code for these enzymes. For instance, biochemists 
+discovered a strain of bacteria that is specially good at prod ucing phenylalanine; an 
+organic chemical needed to make aspartame, the dipeptide sweetener better known 
+as Nutrasweet. They isolated, altered and formed a vector for  the appropriate genes 
+so that various bacteria could be genetically engineered to p roduce pucnylaianine. 
+Many major mining companies already use bacteria to obtain  various metals. Genetic 
+engineering may enhance the ability of bacteria to extract copper, uranium and gold 
+from low grade sources. Some mining companies are testing genetically engineered 
+organisms that have improved bioleaching capabilities.
+Animation 23.4: Transgenic Bectria
+Source & Credit: 33rd Square1923.Biotechnology eLearn.Punjab
+Transgenic Plants 
+  
+Techniques have been developed to introduce foreign genes i nto immature plant 
+embryos, or into plant cells that have had the cell wall rem oved and are called 
+protoplasts.  It is possible to treat protoplasts with an electric current wh ile they are 
+suspended in a liquid containing foreign DNA. The electr ic current makes tiny, selfscaling 
+holes in the plasma membrane through which genetic materi al can enter. Then a 
+protoplast will develop into a complete plant. Foreign genes tra nsferred to cotton, com 
+and potato strains have made these plants resistant to pests bec ause their cells now 
+produce an insect’toxin. Similarly, soybeans have been ma de resistant to a common 
+herbicide. Some corn and cotton plants are both pest and herb icide resistant. In 1999 
+these transgenic crops were planted on more than 70 million  acres worldwide and the 
+acreage is expected to triple in about ive years. Improvemen ts still to come for are 
+increased protein or starch content and modiied oil or amino a cid composition.
+  
+Animation 23.5:Transgenic Plants
+Source & Credit: Wikipedia2023.Biotechnology eLearn.Punjab
+Agribusiness companies also are in the process of developi ng transgenic versions 
+of wheat and rice in addition to com. This is considered an  absolute necessity if the 
+2020 global demand for rice, wheat and com is to be met. W orld grain harvests have 
+continued to rise since the 1960s when special high-yiel d hybrid plants were developed 
+during the so called green revolution. But the per capita pr oduction has now lattened 
+out because of continued population growth. The hope is that ge netic engineering will 
+allow fanners to surpass the yield barrier. Perhaps, the  stomata, the pore-like openings 
+in the leaves, could be altered to boost carbon dioxide intake or cut down water loss. 
+Another possible goal is to increase the eiciency of the enz yme Rubisco which captures 
+C02 in most plants. A team of Japanese scientists are attemp ting to introduce the C4 
+cycle into the rice. Plants that utilize the C4 cycle avoid th e ineiciency of carboxylase 
+by using a diferent means of capturing C02. Unlike the s ingle gene transfers that have 
+been done so far, these modiications would require a thorough  re-engineering of 
+plant cells. Single gene transfers will cause plants to produce various products. A weed 
+called mouse-eared cress has been engineered to produce  a biodegradable plastic 
+(polyhydroxy-butyrate) in cell granules.
+Plants are being engineered to produce human hormones, cl otting factors, and 
+antibodies in their seeds. One type of antibody made by com  can deliver radio 
+isotopes to tumor cells, and another made by soybeans can be used as treatment for 
+genital herpes. Plant-made antibodies are inexpensive an d there is little worry about 
+contamination with pathogens that could infect people. Clinical  trials have begun. 
+Transgenic Animals 
+Techniques have been developed to insert genes into the eggs  of animals. It is possible 
+to micro eggs by hand, but another method uses vortex mixing. The eggs and silicon - 
+carbide needles, and the needles make DNA can enter. W hen these eggs are fertilized, 
+the resulting ofspring are transgenic animals. Using this  technique many types of animal 
+eggs have taken up the gene for bovine growth hormone. The pr ocedure has been 
+used to produce larger ishes’, cows, pigs, rabbits and s heep. Genetically engineered 
+ishes are now being kept in ponds that ofer no escape to the wild because there is 
+much concern that they will upset or destroy natural ecosystem s.2123.Biotechnology eLearn.Punjab
+(a) This goat is genetically engineered to produce 
+antithrobin III , which is secreted in her milk
+(b) The procedure to produce a 
+transgenic animal.
+(c) The procedure to clone a 
+transgenic animal
+Gene pharming, the’ use of transgenic farm animals to prod uce pharmaceuticals is 
+being pursued by a number of irms. Genes that code for the rapeutic, and diagnostic 
+proteins are incorporated into the animal’s DNA, and the protei ns appear in the animal’s 
+milk. There are plans to produce drugs for the treatment of cystic ibrosis, cancer, blood 
+diseases and other disorders. Antithrombin III, for preventi ng blood clot during surgery, 
+is currently being produced by a herd of goats, and clin ical trials have begun. Figure 
+23.10 out lines the procedure of producing transgenic mamm als. DNA containing the 
+gene of interest is injected into donor eggs. Following in vitr o fertilization, the zygotes 
+are placed in host females where they develop. After fema le ofspring mature, the 
+product is secreted in the milk. The scientists of United Sta tes Department2223.Biotechnology eLearn.Punjab 
+of Agriculture have been able to genetically engineer mic e to produce human growth 
+hormone in their urine instead of in milk. They expect to b e able to use the same 
+technique on larger animals. Urine is a preferable vehi cle for a biotechnology product 
+than milk because all animals in a herd urinate - only  females produce milk; animals 
+start to urinate at birth - females don’t produce milk until m aturity; and its easier to 
+extract proteins from urine than from milk.
+Cloning of Transgenic Animals 
+Imagine that an animal has been genetically engineered  to produce a biotechnology 
+product. What would be the best possible method of getting iden tical copies of the 
+animals? Asexual reproduction through cloning the animal w ould be the preferred 
+procedure to use. Cloning is a form of asexual reproduction because it requires only 
+the genes of that one animal. For many years it was believe d that adult vertebrate 
+animals could not be cloned. Although each cell contains a copy of all the genes certain 
+genes are turned of in mature specialized cells. Difere nt genes are expressed in 
+muscle cells, which contract, compared to nerve cells, whi ch conduct nerve impulses 
+and to glandular cells, which secrete. Cloning of an adu lt vertebrate requires that all 
+genes of an adult cells be turned on again if development is to proceed normally. It had 
+long been thought this would be impossible. In 1997, scien tists at the Roslin Institute 
+in Scotland announced that they achieved this feat and had p roduced a cloned sheep 
+called Dolly.
+Since then calves and goats have been cloned. Figure 23.1 0 shows that after 
+enucleated eggs have been injected with 2n nuclei of adu lt cells, they can be 
+coaxed to begin development. The ofspring have the genotype an d phenotype 
+of the adult that donated the nuclei; therefore, the adult has been cloned. In the 
+procedure that produced cloned mice, the 2n nuclei were ta ken from cumulus cells. 
+Cumulus cells are those that cling to an egg after ovulation oc curs. A specially prepared 
+chemical bath was used to stimulate the eggs to divide and b egin development. Now 
+that scientists have a method to clone mammals, this procedure will undoubtedly 
+be used routinely. In the United States, a presidential orde r prohibits the cloning of 
+humans. But certain other countries are experimenting with the possibility.2323.Biotechnology eLearn.Punjab
+GENE THERAPY 
+    
+Gene therapy is the insertion of genetic material into human cells for the treatment 
+of a disorder. It includes procedures that give a patient he althy genes to make up for 
+faulty genes and also includes the use of genes to treat var ious other human illnesses 
+such as cancer and cardiovascular diseases.
+There are two main methods used for gene therapy Ex-vivo and  in vivo. Ex- vivo 
+gene therapy  is shown in Fig. 23.11. in which childr en in the severe combined 
+immunodeiciency syndrome (SCID) is treated. These childr en lack an enzyme 
+adenosine deaminase (ADA) that is involved in the maturation of  T and B cells and, 
+therefore, they are subjected to life threatening infections.  Bone marrow stem cells 
+are removed from the blood and infected with a retrovirus (RNA  virus) that carries a 
+normal gene for the enzyme then the cells are returned to th e patient. Bone marrow 
+stem cells are preferred for this procedure, because the y divide to produce more cells 
+with same genes. Patients who have undergone this procedure  do have a signiicant 
+improvement in their immune function that is associated with a  sustained rise in the 
+level of ADA enzyme activity in the bloodAnimation 23.6: Gene Therapy
+Source & Credit: Ethris2423.Biotechnology eLearn.Punjab
+    
+Among the many gene therapy trials, one is for the treatment of familial 
+hypercholesterolemia a condition that develops when liver cell s lack a receptor for 
+removing cholesterol from the blood. The high levels of blood ch olesterol make the 
+patient subject to fatal heart attacks at a young age. In a ne wly developed procedure, a 
+small portion of the liver is surgically excised and infe cted with a retrovirus containing 
+a normal gene for the receptor. Several patients have experi enced a lowering of serum 
+cholesterol levels following this procedure.
+Fig 23.11 Ex vivo gene therapy in human2523.Biotechnology eLearn.Punjab
+     
+Cystic ibrosis patients lack a gene that codes for trans-mem brane carrier of the 
+chloride ion. Patients often die due to numerous infections of the respiratory tract. 
+And in vivo method of treatment is being tried. Liposomes-micros copic vesicles that 
+spontaneously form when lipoproteins are put into a solution, ha ve been coated with 
+the gene needed to cure cystic ibrosis. Then the solution is  sprayed into patient’s 
+nostrils. Due to limited gene transfer, this methodology has not as yet been successful.           
+     Gene therapy is also being done to cancer patients, wh ich makes them more tolerant 
+of chemotherapy. In clinical trials researchers have give n genes to cancer patient 
+that either make healthy cells more tolerant of chemotherapy or  make tumors more 
+vulnerable to it. Once the bone marrow stem cells were protec ted it was possible to 
+increase the level of chemotherapy to kill the cancer cells .
+   During coronary artery angioplasty, a balloon catheter is sometimes used to open 
+up a closed artery. Unfortunately, the artery has a tendency  to close up once again. 
+But investigators have come up with a new procedure. The bal loon is coated with a 
+plasmid that contains a gene for vascular endothelial growth factor. The expression of 
+the gene, which promotes the proliferation of blood vessels to by pass the obstructed 
+area, has been observed in at least one patient.
+  Perhaps it will be possible to used in vivo therapy to cure  hemophilia, diabetes. 
+Parkinson disease, or AIDS. To treat hemophilia, patients cou ld get regular doses of cells 
+that contain normal clotting-factor genes or such cells could b e placed in organoids, 
+artiicial organs that can be implanted in the abdominal ca vity. To cure Parkinson’s 
+disease, dopamine-producing cells could be grafted dire ctly into the brain.
+TISSUE CULTURE 
+Tissue culture is the growth of a tissue in an artiicial l iquid culture medium. German 
+botanist Gottlieb Haberlandt said in 1902 that plant cells are  totipotent - each cell has 
+the full genetic potential of the organism - and, therefore, a single cell could become 
+a complete plant. But it wasn’t until 1958 that Cornell botanis t F.C. Steward grew a 
+complete carrot plant from a tiny piece of phloem. He provided  the cells with sugars, 
+minerals and vitamins, but he also added coconut milk. (La ter it was discovered that 
+coconut milk contains the plant hormone cytokinin). When the cu ltured cells began 
+dividing, they produced a callus, an undiferentiated grou p of cells.2623.Biotechnology eLearn.Punjab
+    
+Then the callus diferentiated into shoot and roots and developed  into a complete 
+plant.
+ Tissue culture techniques have by now led to micropropagati on, a commercial method 
+of producing thousands, even millions of identical seedling s in a limited amount of 
+space. One favourite method to accomplish micro propagation is by meristem culture. 
+If the correct proportions of auxins and cytokinin are added to a liquid medium, many 
+new shoots will develop from a single shoot tip. When these ar e removed more shoots 
+form. Since the shoots are genetically identical the adult p lants that develop from them 
+are called clonal plants, all having the same traits. Anoth er advantage of meristem 
+culture is that meristem, unlike other portions of a plant, is  virus free, therefore the 
+plants produced are also virus free (The presence of pla nt viruses weakens plants and 
+makes them less productive).
+    Because plants are totipotent, it should be possible to grow  an entire plant from 
+a single cell. This, too has been done. Enzymes are use d to digest the cell walls of a 
+small piece of tissue, usually mesophyll tissue, from a leaf, and the result is naked 
+cells without walls, called protoplasts. The protoplasts regen erate a new cell wall 
+and begin to divide. These clumps of cells can be manip ulated to produce somatic 
+embiyos. Somatic embryos that are encapsulated in a protective  hydrated gel (and 
+sometimes called artiicial seeds) can be shipped everyw here. It is possible to produce 
+millions of somatic embryos at once in large tanks called b ioreactors. This is done for 
+certain vegetables like tomato, celery, asparagus and for or namental plants like lilies, 
+begonias and African violets. A mature plant develops from e ach somatic embryo. 
+Plants generated from the somatic embryo vary somewhat becaus e of mutations that 
+arise; dunng the production process. These so called somac lonal variations are another 
+way to produce new plants with desired traits.
+Anther culture is a technique in which mature anthers ar e cultured in a medium 
+containing vitamins and growth regulators. The haploid tube c ells with in the pollen 
+grains divide, producing proembryos consisting of as many as 20 to 40 cells. Finally the 
+pollen grains rupture releasing haploid embryos. The ex perimenter can now generate a 
+haploid plant, or chemical agent can be added that encoura ges chromosomal doubling. 
+After chromosomal doubling the resulting plants are diploid but homozygous for all 
+their alleles. Anther culture is a direct way to produce p lants that express recessive 
+alleles. If the recessive alleles govern desirable traits , the plants have these traits.2723.Biotechnology eLearn.Punjab
+    
+The culturing of plant tissues has led to a technique call ed cell suspension culture. 
+Rapidly growing cultures are cut into small pieces and s haken in’a liquid nutrient medium 
+so that single cells or small clumps of cells break of an d form a suspension. These 
+cells will produce the same chemicals as the entire pla nt. For example cell suspension 
+cultures of Cinchona ledgeriana produce quinine and those  of Digitalis lanata produce 
+digitoxin. Scientists envision that it will be possible to main tain cell suspension cultures 
+in bioreactors for the purpose of producing chemicals used in the production of drugs, 
+cosmetics and agricultural chemicals. If so, it will no l onger be necessary to farm plants 
+for the purpose of acquiring the chemicals they produce.
+ 
+Genetic Engineering of Plants 
+   
+Traditionally, hybridization, the crossing of diferent varie ties of plants or even species, 
+was used to produce plants with desirable traits. Hybridiz ation, followed by vegetative 
+propagation of the mature plants, generated a large number of identical plants with 
+these traits. Today it is possible to directly alter the genes  of organisms. Transgenic 
+plants carry a foreign gene that has been introduced into th eir cells so that they have 
+new and diferent traits.
+Since a whole plant will grow from a protoplast, it is neces sary only to place the foreign 
+gene into a living- protoplast. A foreign gene isolated from a ny type of organism is 
+placed in the tissue culture medium.
+High-voltage electric pulses can then be used to create pore s in the plasma membrane 
+so that the DNA enters. In one of the irst procedures carried out, a gene for the 
+production of the irely enzyme luciferase was inserted in to tobacco protoplast and 
+the adult plants glowed when sprayed with the substrate luc iferin (Fig. 23.12).2823.Biotechnology eLearn.Punjab
+Unfortunately, the regeneration of cereal grains from protoplas ts has been diicult. 
+Com and wheat protoplasts produce infertile plants. As a res ult, other methods are 
+used to introduce DNA into plant cells with intact cell wall. In one technique, foreign 
+DNA is inserted into the plasmid of the bacterium Agrobacterium,  which normally infects 
+the plant cells. A plasmid can be used to produce’ recomb inant DNA. Recombinant 
+DNA contains genes from diferent sources, namely those of pl asmids and the foreign 
+genes of interest. When the bacterium infects the plant the recombinant plasmid is 
+introduced into the plant cells (Fig.23.12). In 1987, John  C Sanford and Theodore M. 
+Klein of Cornell University developed another method of introduci ng DNA into a plant 
+tissue culture callus.Fig 23.12 Tabacoo plant containing Luciferase gene glows when  sprayed with luciferin2923.Biotechnology eLearn.Punjab
+They constructed a device, called the particle gun, that bom bards a callus with DNA 
+coated microscopic metal particles. Then genetically altere d somatic embryos develop 
+into genetically adult plants. Many plants including com a nd wheat varieties have been 
+genetically engineered by this method.
+Agricultur al Plants with Improved Traits 
+Cotton, com, potato and soybean plants have been engineered to be  resistant to either 
+insect predation or herbicides that are judged to be environm entally safe. Some com 
+and cotton plants have been produced that are both insect and h erbicide resistant. 
+In 1999, transgenic crops were planted on more that 70 mil lion acres world wide and 
+the acreage is expected to triple in about ive years. If cr ops are resistant to a broad-
+spectrum herbicide and weeds are not then the herbicide can be used to kill the weeds. 
+When herbicide resistant plants were planted weeds were  easily controlled, less tillage 
+was needed and soil erosion was minimized.
+   One aim of genetic engineering is to produce crops that have the improved agricultural 
+or food quality traits such as those listed in the table below:
+Improved Agricultural Traits
+Herbicide resistant Wheat, rice, sugar beets, canola
+Salt tolerant Cereals, rice, sugarcane
+Drought tolerant Cereals, rice, sugarcane
+Cold tolerant Cereals, rice, sugarcane
+Improved yield Cereals, rice, com, cotton
+Modiied wood pulp Trees
+Improved Food Quality Traits
+Fatty acid / oil content Com, soybeans
+Protein / starch content Cereals, potatoes, soybeans, rice, com
+Amino acid content Com, soybean
+Disease protected Wheat, com, potatoes3023.Biotechnology eLearn.Punjab
+Production of salt tolerant plants had been a dream of genetic  engineer. Recently 
+salt - tolerant  Arabidopsis  has been produced. For this the scientists irst identiied 
+a gene coding for a channel protein that transports Na+ along  with H+ across a 
+vacuole membrane. Isolating Na+ in a vacuole prevents it from  interfering with plant 
+metabolism. Then, the scientists cloned the gene and used it to genetically engineer 
+plants that overproduce the channel protein. The modiied plan ts thrived when 
+watered with a salty solution. Irrigation, even into fresh wate r, inevitably leads to a 
+salinization of soil that reduces crop yields. Today, crop p roduction is limited by efects 
+of salinization at about 50% of irrigated levels. The next ste p to solve this problem is 
+to produce salt - tolerant crops. It is believed that the producti on not only of salt - but 
+also drought and cold tolerant crops will reduce the need for  added farm acreage by 
+increasing agricultural yields that will provide enough f ood for a world population 
+that is expected to nearly double by 2050.
+Some progress has also been made to increase the food quali ty of crops. Soybeans 
+have been developed that mainly produce the monounsaturated fa tty acid, oleic acid, 
+a change that may improve human health. These altered pla nts also produce vernolic 
+acid and ricinoleic acid, derivatives of oleic acid that ca n be used as hardenes in paints 
+and plastics. The necessary genes were derived from Ve monia and castor bean seeds 
+and were transferred into the soybean genomes.
+Genetic Engineering is also expected to increase productivity . To that end, stomata 
+might be altered to boost carbon dioxide intake or cut down water  loss. The eiciency 
+of the enzyme RuBP carboxylase which captures C02 in pl ants could be improved. A 
+team of Japanese scientists is working on introduc ing the C 4 photosynthetic cycle into 
+rice. Unlike C3 plants, C4 plants do well in hot dry weath er. These modiications would 
+require a more complete engineering of plant cells than th e single gene transfers’ that 
+have been done so far.3123.Biotechnology eLearn.Punjab
+Production of Products 
+Single gene transfers have allowed plants to produce various  products such as human 
+hormones, clotting factors and antibodies. One type of antibody made by com can 
+deliver radioisotopes to tumor cells and another made by soybea ns can be used as 
+treatment for genital herpes clinical triats have begun.
+Recently, a group of scientists from Biosource Technologies l ocated in Vacaville, 
+California reported that they have been able to use the tobacco mosaic virus as a 
+vector to introduce a human gene into adult tobacco plants in the ield. Note that 
+this technology by passes the need for tissue culture comple tely. Tens of grams of 
+a-galactosidase, an enzyme that can be used to treat a huma n lysosome storage 
+disease, were harvested per acre of tobacco plants. And it only took thirty days to 
+get tobacco plants to produce antigens to treat non-Hodgkin’s lymp homa after being 
+sprayed with a genetically engineered vims.
+EXERCISE
+  
+ Q.1. Fill in the blanks.
+1. The use of polymerase chain reaction (PCR) creates a ___ ______ of copies in a laboratory 
+test tube. 
+2. ___________free living organisms in the environment that ha ve had a foreign gene 
+inserted into them. 
+3. __________known sequences of DNA that are used to ind compl ementary DNA 
+strands; can be used diagnostically to determine the prese nce of particular gene.   
+4. ___________production of many identical copies of a gen e. 
+5. ___________self duplicating ring of accessory DNA in  the cytoplasm of bacteria.3223.Biotechnology eLearn.Punjab
+Q.3. Short questions.
+1. How and why transgenic animals that secrete a product are often cloned? 
+2. Explain two primary goals of Human Genome Project. What are possible beneits of 
+the project? 
+3. Explain and give examples of ex vivo and in vivo gene therap ies in humans?
+Q.4.  Extensive questions.
+1. What is the methodology for producing recombinant DNA to be used  in gene cloning?
+2.  What is a genomic library, how would you locate a gene^of.i nterest in the library? 
+3. What is the polymerase chain reaction (PCR), amftow is it c arried out to produce 
+multiple copies of a DNA segment? 
+4. What is DNA inger printing, a process that utilizes the enti re genome? 
+5. For what purpose have bacteria, plants and animals been g enetically altered?-

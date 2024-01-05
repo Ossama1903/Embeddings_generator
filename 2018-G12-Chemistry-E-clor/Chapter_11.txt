@@ -1,0 +1,378 @@
+CHAPTER11 ALCOHOLS, PHENOLS AND 
+ETHERS 
+Animation 11.1: Hanau Alcohol Torch
+Source and Credit : reddit2 3
+11. ALCOHOLS, PHENOLS AND ETHERS 11. ALCOHOLS, PHENOLS AND ETHERS eLearn.Punjab eLearn.Punjab11.1    INTRODUCTION1. How to name simple monohydric and polyhydric alcohols and their classification 
+as primary, secondary and tertiary alcohols.
+2.
+ The important synthetic 
+reactions leading to alcohols and industrial processes 
+for the manufacture of methanol and ethanol.
+3.
+ The 
+nature of OH group and its reactivity when O-H bond is broken and when 
+C-O bond is broken.
+4.
+ To distinguish 
+chemically between the primary, secondary and tertiary alcohols.
+5.
+ The methods of preparation of phenol and its acidic nature.
+6.
+ The 
+importance of phenol as starting material for the preparation of five 
+industrially important compounds.
+7.
+ How to name ethers and preparation of diethyl ether.
+8.
+ The physical . and chemical behaviour of diethyl 
+ether and its inertness towards 
+chemical reagents.IN THIS CHAPTER YOU WILL LEARN:
+Animation 11.2: Alcohol
+Source and Credit : rationalwikiAlcohols, phenols and ethers are classes of organic 
+compounds which are much closer to water in structure and hence considered as derivatives of water.
+Alcohols and phenols are much more close to one another in structure and proper ties. Both contain hydroxyl (-OH) group so they may also be termed as hydroxy derivatives of alkanes and benzene respectively. In ether both hydrogens of water are replaced by alkyl or phenyl groups.11.2 ALCOHOLS
+They are represented by a general formula ROH where R is an alkyl group which maybe         CH
+3— ,CH3CH2 — , (CH3)2C H — and C6H5 — CH2— ,etc.
+Classification
+Alcohols are classified into monohydric and polyhydric alcohols. Monohydric alcohols contain one -OH group while polyhydric alcohols may contain two, three or more OH groups and named as dihydric or trihydric alcohols, etc.
+Monohydric alcohols are further classified into primary, secondary and 
+tertiary alcohols. In primary alcohols, -OH functional group is attached with primary carbon atom, in secondary alcohols with secondary carbon atom and in tertiary alcohols it is attached with a tertiary carbon atom.
+11.2.1 NOMENCLATURE OF ALCOHOLS
+There are two systems of naming alcohols
+Common or Trivial Names
+(a) Lower and simpler alcohols are usually known by their common 
+or trivial names, obtained by adding the name of alcohol after the name of the alkyl group to which the OH group is attached, e.g.,
+Methyl alcohol3 25 65 2 CH OH                C H OH                 C H  CH  OH
+Benzyl alcohol Ethyl alcohol4 5
+11. ALCOHOLS, PHENOLS AND ETHERS 11. ALCOHOLS, PHENOLS AND ETHERS eLearn.Punjab eLearn.Punjab(b) I.U.RA.C Names
+In this system the alcohols are named according to the following rules.
+(i) The longest chain of carbon atoms containing the hydroxyl group is taken as parent hydrocarbon. The ending ‘e’ of alkane is replaced by ol, e.g;
+3 3 7 5 11 CH OH              C H OH             C H OH
+Methanol Pentanol Propanel
+(ii) The position of OH group is indicated by a number placed before the name. The carbon chain is numbered, starting from the end where carbon atom attached with OH group gets the lowest possible number, e.g;
+(iii) If more than one OH groups are attached, they are indicated by an appropriate suffix diol, triol, etc., e.g;
+(iv) The unsaturated alcohols are numbered in such a way that hydroxyl group rather than the point ot unsaturation gets the lower number, e.g.
+(v) When hydroxyl group is not a preferred functional group as in hydroxy acids, aldehydes and ketones, the substituent name hydroxy is used as a prefix to indicate the position of OH group, e.g.;The names of some alcohols in the two systems are given below
+Formula                                        Common Name                                      IUPAC NameCH
+3OH                                            Methyl alcohol                                        methanol
+CH3 CH2OH                                     Ethyl alcohol                                           Ethanol
+CH3CH2CH2OH                                Propyl alcohol                                        1-Propanol
+3CH2CH2CH2CH OH n-Butyl alcohol 1-Butanol6 7
+11. ALCOHOLS, PHENOLS AND ETHERS 11. ALCOHOLS, PHENOLS AND ETHERS eLearn.Punjab eLearn.Punjab11.2.2 Industrial Preparation of Alcohols
+Methanol
+2 (ZnO+Cr O3)
+23 450°C:200atmCO+2H CH OH  →Formerly methanol was prepared by distillation of wood. That is why 
+it is also called as wood spirit. Now-a-days methanol is prepared from carbon monoxide and hydrogen or water gas as follows:
+Fig. 11.1 Flow sheet diagram for the manufacturing of methanol
+First of all a mixture of carbon monoxide and hydrogen is purified. It is compressed under a pressure of 200 atmospheres and taken into a reaction chamber by means of coiled pipes Here the catalyst is heated upto 450-500 
+OC. Gases react to form methanol vapours. These vapours are passed 
+through a condenser to get methanol. Unreacted gases are recycled through compressor to reaction chamber.
+Animation 11.3: ethyl methanoate
+Source and Credit : dynamicscienceEthanol
+Ethanol is prepared on industrial scale world over, by the process of fermentation. Fermentation is a biochemical process which occurs in the presence of certain enzymes secreted by microorganisms such as yeast. Optimum temperature for this process of fermentation is 25-35°C. Moreover, proper aeration, dilution of solution and the absence of any preservative are essential conditions for fermentation. In Pakistan ethanol is prepared by the fermentation of molasses starch grains or fruit juices.
+From Molasses
+The residue obtained after the crystallization of sugar from concentrated 
+sugar cane juice is called molasses. It undergoes fermentation in the presence of enzymes present in yeast to give ethanol.
+From Starch
+Alcohol obtained by fermentation is only upto 12% and never exceeds 14% because beyond this limit enzymes become inactive. This alcohol is distilled again and again to obtain 95% alcohol which is called rectified spirit. Absolute alcohol can aioo be obtained by redistillation of rectified spirit in the presence of CaO which absorbs its moisture.8 9
+11. ALCOHOLS, PHENOLS AND ETHERS 11. ALCOHOLS, PHENOLS AND ETHERS eLearn.Punjab eLearn.PunjabDenaturing of Alcohol
+Sometimes ethanol is denatured by addition of 10% methanol to avoid 
+its use for drinking purposes. Such alcohol is called methylated spirit. A small quantity of pyridine or acetone may also be added for this purpose.
+Other Methods of Preparation of Alcohols
+Alcohols can be obtained by the hydration of aikenes and by the reaction of Grignard reagents with aldehydes or ketones. Both these methods have already been discussed in the previous chapter.
+11.2.3 Physical Properties
+Lower alcohols are generally colourless toxic liquids with characteristic sweet smell and burning taste They are readily soluble in water but solubility decreases in higher alcohols. The solubility of alcohols is due to hydrogen bonding which is prominent in lower alcohols but diminishes in higher alcohols.
+Melting and boiling points of alcohols are higher than corresponding alkanes. Methyl alcohol and ethyl alcohol are liquids while methane and ethane are gases. This is also due to hydrogen bonding which is present in alcohols but absent in alkanes.
+11.2.4 Reactions of Alcohols
+Alcohols react with other reagents in two ways
+(i) Reactions in which C — O bond breaks(ii) Reactions in which O — H bond breaks
+If a nucleophile attacks, it is the C — O bond which breaks. On the other hand, if an electrophile attacks on alcohol, it is the O — H bond which breaks.Which bond will break depends upon the nature of the attacking reagent.
+3CHNucleophile
+23CH OH CHδδ+− →+-
+2CH +OH
+3CH2CH Oδ− Electrophile
+3 H CHδ+ →2CH O +H−+
+The order of reactivity of alcohols when C  — O bond breaks:
+The order of reactivity of alcohols when O — H bond breaks:
+11.2.5 Reactions in w hich C — O Bond is Broken.
+pyridine
+25 2 25 2 C H OH + SOCl C H Cl + SO + HCl → 1
+Ethanol
+chlorideThionylEthyl chloride10 11
+11. ALCOHOLS, PHENOLS AND ETHERS 11. ALCOHOLS, PHENOLS AND ETHERS eLearn.Punjab eLearn.PunjabZnCl2
+25 25 2 C H OH + HCl C H Cl + H O   → 2
+ThO2
+25 2 25 2 2 C H OH + HNH C H NH + H O   → 3
+Ethyl amine
+11.2.6 R eactions Involving the Cleavage of O — H bond.
+24H SO
+25 3 3 25 2 C H OH + CH COOH CH COOC H  + H O ����������
+Ethyl acetate3
+225 25 2 2C H OH + 2Na 2C H O N a +H−+→
+Sodium cthoxide1
+11.2.7 Some Other Reactions of Alcohols
+(i) Oxidation
+Oxidation of alcohols convert them into aldehydes and 
+ketones. The best reagent for this purpose is acid dichromate. 
+2 27
+24K Cr O
+32 3 2 H SOCH -CH OH + [O] CH -CHO + H O    →
+E thanal (acetaldehyde)
+Tertiary alcohols are resistant to oxidation. In the presence of acid dichromate they undergo elimination reactions to give alkenes.
+(ii) Dehydration
+Alcohols react with con. H2SO4 and give different products at different
+ temperatures.
+25 3 25 3 3 3C H OH + PCl 3C H Cl + H PO →
+25 5 25 3 C H OH + PCl C H Cl + POCl + HCl →24
+°conc.H SO
+25 25 25 2 140 C2 CHO H CHO CH+  HO  →
+DiethyI ether24
+°conc.H SO
+25 2 2 2 180 cC H OH CH = CH + H O  →
+Ethanol
+(iii) Reactions with Phosphorus Halides PCI3, PCI512 13
+11. ALCOHOLS, PHENOLS AND ETHERS 11. ALCOHOLS, PHENOLS AND ETHERS eLearn.Punjab eLearn.Punjab11.3 DISTINCTION BETWEEN PRIMARY, SECONDARY 
+AND TERTIARY ALCOHOLS
+Lucas Test
+Primary, secondary and tertiary alcohols are identified and 
+distinguished by reacting them with con. HCI in anhydrous ZnCI2. 
+An oily layer of alkyl halides separates out in these reactions.
+1.
+ Tertiary alcohols form an oily layer immediately
+2.
+ Secondary alcohols form an oily layer in five tc ten minutes.
+3.
+ Primary alcohols form an oily layer only on heating.
+R2CH2 ZnCl
+HeatOH + HCl R   →2CH2 Cl + H O
+Primary alcohol Primary alkyl chloride
+Distinction between Methanol and Ethanol
+Ethanol gives iodoform with iodine in the presence of 
+NaOH. Formation of yellow crystals indicate that the alcohol is ethanol. Methanol does not give iodoform test.25 2 3 2 C H OH + 4I + 6NaOH CHI + HCOONa + 5NaI + 5H O →
+Iodoform
+3 2 CH OH + I + NaOH No yellow ppt →
+11.4 USES OF ALCOHOLS
+Methanol is used as a solvent for fats oils, paints, varnishes. It is also used as antifreeze in the radiators of automobiles and for denaturing of alcohol.Ethanol is used as a solvent, as a drink and as a fuel in some countries. Moreover it. is used in pharmaceutical preparations and as a preservative for biological specimen.
+11.5 PHENOL
+Aromatic compounds which contain one or more OH groups directly attached with carbon of benzene ring are called Phenols. The simplest example is phenol which is also known as Carbolic acid i.e. C
+6H5OH. It was first obtained from coaltar by Runge in 1834.
+Animation 11.4: Phenol 
+Source and Credit : chemIn this method chlorobenzene is treated with 10% NaOH at 360°C and 1I50 atmospheres pressure. Sodium phenoxide is produced which on treating with HCI gives phenol.11.5.1 Preparation of Phenol
+1) From Chlorobenzene (Dow's Method)14 15
+11. ALCOHOLS, PHENOLS AND ETHERS 11. ALCOHOLS, PHENOLS AND ETHERS eLearn.Punjab eLearn.Punjab
+2) From Sodium Salt of Benzen e Sulphonic Acid
+Sodium salt of benzene sulphonic acid reacts with NaOH aT 320°C tc 
+give sodium phenoxide which cn treatment with HC1 gives phenol.
+The phenol is recovered by steam distillation.Animation 11.5: Physical Properties of phenol
+Source and Credit : chemwiki
+11.5.2 Physical Properties
+Phenol is a colourless, crystalline, deliquescent solid with characteristic phenolic odour having melting point 41°C and boiling point 182°C. It is sparingly soluble in water forming pink solution at room temperature but completely soluble above 68.5°C. It is poisonous and used as a disinfectant in hospitals and washrooms.11.5.3 Reactions of Phenol
+Phenol shows two type of reactions.1.
+ Reactions due to — OH group
+2.
+ Reactions due to benzene ring
+Phenols are less reactive to nucleophiles so nucleophilic attack is less favoured, i.e - OH is not easy to replace while electrophilic attack on the ring is easy.
+11.5.4 Acidic Behaviour of Phenol
+Phenol is much more acidic than alcohols but less acidic than carboxylic 
+acids. It dissolves readily in alkalies but it is too weak to affect the litmus paper or to evolve CO
+2 from carbonates. Its dissociation constant 
+(Ka) is 1.3xl0-10.
+Phenol is partially soluble in water and its solution has a pH of around 5 or 6. This makes phenol different from aliphatic alcohols.16 17
+11. ALCOHOLS, PHENOLS AND ETHERS 11. ALCOHOLS, PHENOLS AND ETHERS eLearn.Punjab eLearn.PunjabThe reason why phenol is acidic lies in the nature of the phenoxide 
+ion. The negative charge on oxygen atom can become involved with the p-electron cloud on the benzene ring. The negative charge is thus 
+delocalized in the ring and the phenoxide ion becomes relatively stable. This type of delocalization is not possible with alcohols.
+Relative acidic strength of alcohol, phenol, water and carboxylic acid is as follows,
+11.5.5 Reactions of Phenol Due to - OH Group.Reduction with Zn
+Salt Formation
+Phenol reacts with alkalies to form salts, e.g;
+Ester Formation
+Phenol reacts with acetyl chloride in the presence of a base to form ester.
+11.5.6 Reactions of Phenol Due to Benzene Ring
+Nitration
+Phenol reacts with dil. and conc. HNO3 at different temperatures 
+as follows.18 19
+11. ALCOHOLS, PHENOLS AND ETHERS 11. ALCOHOLS, PHENOLS AND ETHERS eLearn.Punjab eLearn.PunjabSulphonation
+Phenol reacts with conc. H2SO4 at room temperature 
+giving ortho and para hydroxy benzene sulphonic acids.
+Halogenation
+An aqueous solution of phenol reacts with bromine 
+water to give white ppt. of 2,4,6- tribromophenol.
+Hydrogenation
+When hydrogen is passed through phenol at 150°C 
+in the presence of Ni catalyst it gives cyclohexanol.
+Reaction with formaldehyde
+Phenol reacts with formaldehyde (methanal) in the presence of acid or alkali to give hydroxy benzyl alcohol which on further reaction with other phenol molecules yield a polymer called bakelite.
+11.6 ETHERS
+Ethers are classified into two categories1.
+ Simple 
+or symmetrical ethers, which contain two same alkyl groups e.g. di-
+methyl ether CH3OCH3 and diethyl ether CH3— CH2— O — CH2 — CH3.
+2.
+ Mixed 
+or unsymmetrical ethers, which contain different alkyl or phenyl 
+groups, e.g., ethyl methyl ether CH3— O — CH2 — CH3.20 21
+11. ALCOHOLS, PHENOLS AND ETHERS 11. ALCOHOLS, PHENOLS AND ETHERS eLearn.Punjab eLearn.Punjab11.6.1 Nomenclature
+Ethers are named either by I.U.P.A.C. system or by common names. In 
+I.U.P.A.C. system the large alkyl (R ) group is taken as parent molecule and given the last name (suffix) while the smaller alkyl group along with ox-ygen is used as prefix and given the name alkoxy (e.g.methoxy, ethoxy, propoxy, etc).
+I. U.P. A. C. names are not common as they are difficult. Usual-ly ethers are known by their common names, as given below;
+Formula Common Names I.U.P.A.C
+CH3OCH3Dimethyl ether Methoxy methane
+CH3OC2H5Methyl ethylether Methoxy ethane
+C2H5OC2H5Diethyl ether Ethoxy ethane
+C2H5O  CH2 — CH2 — CH3Ethyl n-propylether Ethoxy propane
+CH3OC6H5Methyl phenyl ether Methoxy benzene
+11.6.2 Preparation of Ethers
+Ethers are prepared from alcohols either directly or indirectly. Usually they are obtained by the following methods.
+(i) By Williamsons synthesis
+Alcohols are reacted with metallic sodium to form alkoxides. This alkoxide 
+ion is a strong nucleophile and readily reacts with alkyl halide to produce an ether.
+25 25 2 2C H OH + 2Na 2C H O Na + H−+→
+25 25 25 25 CHON a  +  CHB r CHO CH+  N a B r−+→25 2 25 252C H Br + Ag O C H OC H  + 2AgBr →(ii) Alkyl halides are heated with dry silver oxide to form ethers
+11.6.3 Physical Properties
+Usually ethers are volatile liquids, highly inflammable with low boiling points. They are slightly soluble in water but freely soluble in organic solvents. Ether molecules do not show hydrogen bonding with one another but they show weak hydrogen bonding with water molecules due to which they are slightly soluble in water.
+11.6.4 Chemical Reactivity
+Ethers are comparatively inert substances. The reagents like ammonia, alkalies, dilute acids and metallic sodium, have no action on ethers in cold state. Moreover, they are not oxidized or reduced easily. However ethers show some reactions, e.g.
+1.
+ With 
+hydrogen iodide ethers give alcohols 
+which can react further to give alkyl iodides.
+2.  Ethers also react with hot phosphorus pentachloride to give alkyl chloride.
+25 2 3 2 C H OH + 4I + 6NaOH CHI + HCOONa + 5NaI + 5H O →22 23
+11. ALCOHOLS, PHENOLS AND ETHERS 11. ALCOHOLS, PHENOLS AND ETHERS eLearn.Punjab eLearn.Punjab1. Alcohols and Phenols are hydroxy derivatives of aliphatic and aromatic 
+hydrocarbons.
+2.
+ General formula for alcohol 
+is ROH, for Phenol is Ph OH, and for ether it is 
+ROR.
+3.
+ Alcohols are usually named by replacing ‘e’ for the alkane with ‘ol’.
+4.
+ In Pakistan ethanol is prepared commercially from molasses.
+5.
+ Fermentation is a biochemical phenomenon 
+which may occur naturally or 
+artificially.
+6.
+ Ethyl alcohol obtained by fermentation is less than 12% concentrated.
+7.
+ Ethyl 
+alcohol gives different products when reacts with H2SO4 of different 
+concentrations.
+8.
+ Ethyl alcohol is used as a solvent, as a beverage and as a fuel.
+9.
+ Primary, secondary and tertiary alcohols can be distinguished by Lucas test.
+10.
+ Picric acid is a phenol which behaves like an acid.
+1.
+ Primary, secondary and tertiary alcohols can be identified by_______ test.
+2.
+ Oxidation of__________ alcohols give ketones.
+3.
+ Alcohols on heating with_________ give alkenes at high temperature.
+4.
+ Alcohols have________ boiling points than ethers due to stronger hydrogen 
+bonding.
+5.
+ Williamsons synthesis is used to prepare________ .
+6.
+ ________is also called wood spirit.
+7.
+ Carbolic acid is the other name of________ .
+8.
+ Primary, secondary and tertiary alcohols can be prepared by reacting Grignard reagent with________ , ________ and ________.
+9.
+ Alcohols and________react to produce esters.
+10.
+  ________ is used as anti-freezing agent in automobile radiator.
+11.
+ The process of conversion of starch into alcohol with the help of 
+microorganisms is called________ .
+12.
+ Ketones on reduction give________ alcohols.Q.2. Indicate True or False1.
+ Methylated spirit contains 95% methyl alcohol and 5% ethyl alcohol.
+2.
+ Ethyl alcohol is a very good anti-freezing agent.
+3.
+ Methanol is also called wood spirit.
+4.
+ Only 14% ethyl alcohol can be prepared by fermentation.
+5.
+ Ethers do not show hydrogen bonding.
+6.
+ Alcohols are more acidic than phenols.
+7.
+ Phenol is more soluble in water than lower alcohols.
+8.
+ Alcohols are more basic than ethers.
+9.
+ Ethers have higher boiling points than alcohols and phenols.
+10.
+ Methanol and ethanol can be distinguished by iodoform test.
+Q.3. Multiple Choice Questions. Encircle the correct answer.
+i) Which compound shows hydrogen bonding
+a) C2H6                         b) C2H5CI                        c) CH3-O-CH3                      d) C2H5OH
+ii) Which compound shows maximum hydrogen bonding with water?a) CH
+3OH                     b) C2H5OH                       c)CH3-O-CH3                      d) C6H5OH
+iii) Which compound is more soluble in watera) C
+2H5OH                    b) C6H5OH                       c) CH3COCH3                      d) n-Hexanol
+iv) Which compound will have the maximum repulsion with H2O?
+a) C6H6                           b) C2H5OH                 c) CH3CH2CH2OH               d) CH3— O — CH3
+v) Ethanol can be converted into ethanoic acid bya) Hydrogenation       b) Hydration                   c) Oxidation                     d) Fermentation
+vi) Which enzyme is not involved in fermentation of starch?
+a) Diastase                  b) Zymase                      c) Urease                           d)Invertase
+vii) Which compound is called a universal solvent?
+a) H
+2O                          b) CH3OH                      c) C2H5OH                  d) CH3— O — CH3KEY POINTS
+EXERCISE24 25
+11. ALCOHOLS, PHENOLS AND ETHERS 11. ALCOHOLS, PHENOLS AND ETHERS eLearn.Punjab eLearn.Punjabviii) Methyl alcohol is not used
+a) as a solvent                                                           b) as an anti-freezing agentc) as a substitute for petrol                                    d) for denaturing of ethyl alcohol
+ix) Rectified spirit contains alcohol methyl about
+a) 80%                              b) 85%                                c) 90%                                  d) 95%
+x) According to Lewis concept ethers behave as
+a) Acid                                                                          b) Base c) Acid as well as a base                                            d) None of them
+Q.4. What are alcohols. How are they classified? How will you distinguish 
+between primary, secondary and tertiary alcohols?
+Q.5. How is methyl alcohol obtained on large scale? How it may be distinguished 
+from ethyl alcohol?
+Q.6. What is fermentation? Which compound may be obtained on industrial 
+scale by fermentation?
+Q.7. Explain the following terms.
+    Absolute alcohol, Methylated spirit, Rectified spirit, Denaturing of alcohols.
+Q.8. How does ethyl alcohol react with the following reagents?
+i) Conc.H
+2SO4               ii) Na               iii) PCI5              iv) CH3COOH                  v) SOCl2
+Q.9. How will you obtain primary, secondary and tertiary alcohols by reacting 
+Grignard reagent with suitable carbonyl compounds.
+Q.10. How will you distinguish betweeni)   an alcohol and a phenol                                       ii) an alcohol and an etheriii)  methanol and ethanol                                        iv) a tertiary alcohol and a 
+primary alcohol
+v)   1-propanol and 2-propanolQ.11. Give reasons for the followings:i) Ethyl alcohol is a liquid while methyI chloride is a gas.ii) Ethanol has higher boiling point than diethyl ether.iii) Absolute alcohol cannot be prepared by fermentation process.iv) Ethanol gives different products with conc. H
+2SO4 under different 
+conditions.v) Water has higher boiling point than ethanol.
+Q.12. How will you convert
+i) Methanol into ethanol                                                ii) Ethanol into methanoliii) Ethanol into isopropyl alcohol                           iv) Formaldehyde into ethyl alcoholv) Acetone into ethyl alcohol
+Q.13. Explain the following terms using ethyl alcohol as an example.
+i) Oxidation                                         ii) Dehydration                                iii) Esterificationiv) Ether formation
+Q.14. Compare the reactions of phenol with those of ethanol. Discuss the 
+difference if any.
+Q.15. Arrange the following compounds in order of their increasing acid strength 
+and give reasons.
+H
+2O, C2H5OH, C6H5OH , C6H5COOH
+Q.16. Write down two methods for preparing phenol. What is the action of following on phenol.
+HNO
+3, NaOH, Zn, Bromine water
+Q.17. Give the uses of phenols. How bakelite is prepared from it.
+Q.18. (a) Write I.U.P.A.C. names ofthe following compounds.
+(CH3)2 CH - OH,                            (CH3)2CHCH2OH,
+(CH3)3COH,                                    C2H5 - CH - OH,
+                                                                    I
+                                                                   CH326
+11. ALCOHOLS, PHENOLS AND ETHERS eLearn.Punjab(b) Write structure formulas for the following compounds.
+Glycol, Glycerol, Carbolic Acid, Acetophenone, Picric Acid
+Q.19. (a) Name the following compounds
+CH3 — CH2 — CH2 — O — CH3,                                     C6H5 — O — C6H5
+(CH3)2CH — O — CH(CH3)2,                                            CH3 — O — C6H5
+CH3 — CH2— CH2— O — CH2— CH3
+(b).  Write down structural formulas of the following compounds.Methoxy 
+ethane, ethoxy benzene, sodium ethoxide, sodium phenoxide,   propoxy propane.

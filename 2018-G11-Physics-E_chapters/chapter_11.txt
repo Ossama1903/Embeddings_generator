@@ -1,0 +1,1990 @@
+
+Chapter
+11
+HEAT AND THERMODYNAMICS
+Learning Objectives
+At the end of this chapter the students will be able to:
+1.
+State the basic postulates of Kinetic theory of gases.
+2.
+Explain how molecular movement causes the pressure exerted by a gas and
+derive the equation P = 2/3 No< 1/2mv2> where N. is the number of molecules
+per unit volume of the gas.
+3.
+Deduce that the average translational kinetic energy of molecules is proportional
+to temperature of the gas.
+4.
+Derive gas laws on the basis of Kinetic theory.
+5. Describe that the internal energy of an ideal gas is due to kinetic energy of its
+molecules.
+6.
+Understand and use the terms work and heat in thermodynamics.
+7.
+Differentiate between isothermal and adiabatic processes.
+8. Explain the molar specific heats of a gas.
+9. Apply first law of thermodynamics to derive Cp - C, = R.
+10. Explain the second law of thermodynamics and its meaning in terms of entropy.
+11. Understand the concept of reversible and irreversible processes.
+12. Define the term heat engine.
+13. Understand and describe Carnot theorem.
+14. Describe the thermodynamic scale of temperature.
+15. Describe the working of petrol and diesel engines.
+16. Explain the term entropy.
+17. Explain that change in entropy AS==19
+18. Appreciate environmental crisis as an entropy crisis.
+236
+---
+
+T
+hermodynamics deals with various phenomena of
+energy and related properties of matter, especially the
+transformation of heat into other forms of energy. An example
+of such transformation is the process converting heat into
+mechanical work. Thermodynamics thus plays central role in
+technology, since almost all the raw energy available for our
+use is liberated in the form of heat. In this chapter we shall
+study the behaviour of gases and laws of thermodynamics,
+their significance and applications.
+11.1 KINETIC THEORY OF GASES
+The behavior of gases is well accounted for by the kinetic
+theory based on microscopic approach. Evidence in favour
+of the theory is exhibited in diffusion of gases and
+Brownian motion of smoke particles etc.
+The following postulates help to formulate a mathematical
+model of gases.
+i.
+A finite volume of gas consists of very large
+number of molecules.
+ii.
+The size of the molecules is much smaller than
+the separation between molecules.
+III.
+The gas molecules are in random motion and
+may change their direction of motion after every
+collision.
+iv.
+Collision between gas molecules themselves
+and with walls of container are assumed to be
+perfectly elastic.
+V.
+Mólecules do not exert force on each other
+except during a collision.
+Pressure of Gas
+According to kinetic theory, the pressure exerted by a gas
+is merely the momentum transferred to the walls of the
+container per second per unit area due to the continuous
+collisions of molecules of the gas. An expression for the
+pressure exerted by a gas can, therefore, be obtained as
+follows:
+237
+---
+
+Let a cubical vessel of side 1. . contains N molecules, each of
+mass m (Fig.11.1). The velocity v. of any one of these molecules
+y
+can be resolved into three rectangular components vis,Viy,Viz
+parallel to three co-ordinate axes x, y and z.
+G
+B
+Initial momentum of the molecule striking the face ABCDA
+1
+is then mVtx If the collision is assumed perfectly elastic,
+A
+the molecule will rebound from the face ABCDA with the
+I
+a
+same speed. Thus each collision produces a change in
+er
+b
+->
+C
+x
+momentum, which is equal to
+a
+Final momentum - Initial momentum
+a
+or
+change in momentum = -MV1,-MVYx
+E
+1
+D
+Change in momentum= -2 MV
+(11.1)
+Fig. 11.1
+After recoil the molecule travels to opposite face EFGHE
+and collides with it, rebounds and travels back to the face
+ABCDA after covering a distance 2/. The time At between
+two successive collisions with face ABCDA is
+ar-21
+(11.2)
+So the number of collisions per second that the molecule
+will make with this face is =
+Thus the rate of change of momentum of the molecule due
+to collisions with face ABCDA /
+The rate of change of momentum of the molecule is equal
+to the force applied by the wall. According to Newton's
+third law of motion, force Fix exerted by the molecule on
+face ABCDA is equal but opposite, so
+Similarly the forces due to all other molecules can be
+determined. Thus the total x-directed force F, due to N
+238
+---
+
+number of molecules of the gas moving with velocities Vr.
+V2, V3
+Wis
++
+FN
+or
++ mys,
++
+As pressure is normal force per unit area, hence pressure
+P2 on the face perpendicular to x-axis is
+=
+mv mvis I my
+(v), +13, +V1, +
+v)
+(11.3)
+As the mass of single molecule is m, the mass of N
+molecules will be mN.
+Since Volume Mass
+Hence,
+7-2
+Substituting the value of E / . in equation (11.3)
+we get
+Pr= V +v 463 viae
+or
+P, II. P (vh +VL +1⑇3 N to
++
+Vita
+where + N vision is called the mean
+of
+squared velocities of the molecules moving along x
+direction, known as mean square velocity, represented by
+239
+---
+
+<v?> Substituting <v>> in parenthesis of pressure
+expression
+P.=p<v?>
+(11.4)
+Similarly pressure on the faces perpendicular to y and Z
+axes will be Py=p<vi > and P2 =p<v>
+As there is no preference to one direction or another and
+molecules are supposed to be moving randomly, the mean
+square of all the component velocities will be equal. Hence
+<v?>=<v>><<v>>
+and from vector addition<v>=<wf>+<v>+<v>
+thus,
+<v2>=3<vi>
+or
+putting this value of <v? > in equation 11.4
+Prifer's
+We have considered the pressure on the face
+perpendicular to x-axis,
+By Pascal's Law the pressure on the other sides and
+everywhere inside the vessel will be the same provided the
+gas is of uniform density. So
+Thus in general
+p=1pers
+Since
+density
+240
+---
+
+Hence
+P=m
+or
+P=2 2 3 N
+(11.5)
+where N. is the number of molecules per unit volume.
+Thus,
+P= Constant <K.E.>
+or
+P x <K.E.>
+While deriving the equation for pressure we have not
+accounted rotational and vibrational motion of molecules
+except the linear motion.
+Hence pressure exerted by the gas is directly proportional
+to the average translational kinetic energy of the gas
+molecules.
+Interpretation of Temperature
+From experimental data the ideal gas law is deduced to be
+PV=nRT
+(11.6)
+Where n is the number of moles of the gas contained in
+volume V at absolute temperature T and R is called
+universal gas constant, Its value is 8.314 J mor' K'
+If NA is the Avogadro number, then the above equation can
+be written as
+PV = N RT
+Na
+or
+PV=NkT
+(11.7)
+where k= R/N, is the Boltzman constant. It is the gas
+constantper molecule and has the value = 1.38 x 10 23 JK
+Comparing equations 11.5 and 11.7
+241
+---
+
+or
+(11.8)
+or
+T = constant K.E. >
+so
+>
+This relation shows that Absolute temperature of an ideal
+gas is directly proportional to the average translational
+kinetic energy of gas molecules.
+We can, therefore, also say that average translational
+kinetic energy of the gas molecules shows itself
+macroscopically in the form of temperature.
+Derivation of Gas Laws
+(i) Boyle's Law
+From kinetic theory of gases (Eq. 11.5)
+If we keep the temperature constant, average K.E. i.e.,
+< 1/2 mv > remains constant, so the right hand side of the
+equation is constant.
+Hence
+PV=Constant
+or
+Thus pressure P is inversely proportional to volume V at
+constant temperature of the gas which is Boyle's law.
+(ii) Charles' Law
+Equation 11.5 can be written as
+If pressure is kept constant
+242
+---
+
+As
+<1/mv2
+Hence
+V & T
+Thus volume is directly proportional to absolute
+temperature of the gas provided pressure is kept constant.
+This is known as Charles' law.
+Example 11.1: What is the average translational
+Kinetic energy of molecules in a gas at temperature 2707
+Solution:
+Using Eq. 11.8
+or
+<K.E.>=3KT
+where
+T 27 + 273 = 300 K
+= 1.38 x 10 23 JK
+so
+JK X 300 K
+=6.21 x 10 21 J
+Example 11.2: Find the average speed of oxygen
+molecule in the air at S.T.P.
+Solution: Under standard conditions
+Temperature
+T=0°C=273 K
+From Eq. 11,8
+or
+<v?>=3KT
+243
+---
+
+Using Avogadro's number NA = 6.022 x 102 il the mass m
+of one molecule of oxygen is
+molecular mass
+32 g
+321
+kg
+m =
+NA
+6.022x102
+23
+6.022x102 26
+Substituting the values of k, T and m, we get
+3x1.38x102 JK x 273Kx6.022x1075
+212693m2s
+32kg
+or
+<V> = 461 ms-1
+11.2 INTERNAL ENERGY
+Do You Know?
+The sum of all forms of molecular energies (kinetic and
+Rotation
+potential) of a substance is termed as its internal energy. In
+the study of thermodynamics, usually ideal gas is
+considered as a working substance. The molecules of an
+Vibration
+ideal gas are mere mass points which exert no forces on
+one another. So the internal energy of an ideal gas system
+is generally the translational K.E. of its molecules. Since
+the temperature of a system is defined as the average K.E.
+of its molecules, thus for an ideal gas system, the Internal
+energy is directly proportional to its temperature.
+A diatomic gas molecule has both
+When we heat a substance, energy associated with its
+translational and rotational energy.
+It also has vibrational energy
+atoms or molecules is increased i.e., heat is converted to
+associated with the spring like bond
+Internal energy.
+between atorns.
+It is important to note that energy can be added to a
+system even though no heat transfer takes place. For
+example, when two objects are rubbed together, their
+internal energy increases because of mechanical work.
+The increase in temperature of the object is an indication
+of increase in the internal energy. Similarly, when an object
+slides over any surface and comes to rest because of
+frictional forces, the mechanical work done on or by the
+system is partially converted into internal energy.
+In thermodynamics, internal energy is a function of state.
+Consequently, it does not depend on path but depends on
+initial and final states of the system. Consider a system which
+undergoes a pressure and volume change from P, and Va to
+Pb. and Vb respectively, regardless of the process by which
+244
+---
+
+the system changes from initial to final state. By experiment it
+P
+has been seen that the change in internal energy is always
+(P.) V., TJ
+the same and is independent of paths C1 and C2 as shown in
+P,
+b
+the Fig. 11.2.
+Cu
+Thus internal energy is similar to the gravitational P.E. So
+C,
+like the potential energy, it is the change in internal energy
+and not its absolute value, which is important.
+P.
+a
+(P. V. T.)
+11.3 WORK AND HEAT
+V
+We know that both heat and work correspond to transfer of
+o
+V.
+v.
+energy by some means. The idea was first applied to the
+steam engine where it was natural to pump heat in and
+Fig. 11,2
+get work out. Consequently it made a sense to define both
+heat in and work out as positive quantities, Hence work
+done by the system on its environment is considered tive
+while work done on the system by the environment is taken
+as -ive. If an amount of heat Q enters the system it could
+manifest itself as either an increase in internal energy or as
+a resulting quantity of work performed by the system on
+the surrounding or both.
+We can express the work in terms of directly measurable
+variables. Consider the gas enclosed in the cylinder with a
+moveable, frictionless piston of cross-sectional area A (Fig.
+11.3 a). In equilibrium the system occupies volume V, and
+exerts a pressure P on the walls of the cylinder and its
+(a)
+(b)
+piston. The force exerted by the gas on the piston is PA.
+Fig. 11.3
+We assume that the gas expands through AV very slowly,
+A gas sealed in a cylinder by a
+weightless, frictionaless piston.
+so that it remains in equilibrium (Fig. 11.3 b). As the piston
+The constant downward applied
+moves up through a small distance Ay, the work (W) done
+force F equals PA, and when the
+piston is displaced downward
+by the gas is
+work is done on the gas.
+W=FAy=PAAy
+Since
+AAy=AV
+(Change in volume)
+Hence
+W=PAV
+(11.9)
+Constant Pressure
+B
+P
+C
+The work done can also be calculated by area of the
+curve under P-V graph as shown in Fig. 11.4.
+P
+AV
+A
+Knowing the details of the change in internal energy and
+o
+D
+V.
+V
+the mechanical work done, we are in a position to describe
+V3
+the general principles which deal with heat energy and its
+Fig. 11.4
+245
+---
+
+transformation into mechanical energy. These principles
+are known as laws of thermodynamics.
+11.4 FIRST LAW OF THERMODYNAMICS
+For Your Information
+When heat is added to a system there is an increase in the
+Heat
+internal energy due to the rise in temperature, an increase
+System
+in pressure or change in the state. If at the same time, a
+positive
+substance is allowed to do work on its environment by
+Heat
+expansion, the heat Q required will be the heat necessary
+-Q
+System
+to change the internal energy of the substance from U1 in
+negative
+the first state to U2 in the second state plus the work W
+done on the environment.
+Thus
+Work
+Q =(U2-U)W
+System
+-W
+negative
+or
+Q=AU+W
+(11.10)
+Work
+Thus the change in internal energy AU = U2-U, is defined
++W
+System
+as Q-W. Since it is the same for all processes concerning
+positive
+the state, the first law of thermodynamics, thus can be
+stated as,
+In any thermodynamic process, when heat Q is
+added to a system, this energy appears as an
+increase in the Internal energy AU stored In the
+system plus the work W done by the system on
+its surroundings.
+A bicycle pump provides a good example. When we pump
+on the handle rapidly, it becomes hot due to
+Thermocoupie
+Trapped air
+mechanical work done on the gas, raising thereby its internal
+in pump
+Piston
+pushed in
+energy. One such simple arrangement is shown in Fig. 11.5.
+It consists of a bicycle pump with a blocked outlet. A
+thermocouple connected through the blocked outlet allows
+Milivoitmein
+the air temperature to be monitored. When piston is rapidly
+pushed, thermometer shows a temperature rise due to
+Fig. 11.5
+increase of internal energy of the air. The push force does
+work on the air, thereby, increasing its internal energy,
+which is shown, by the increase in temperature of the air.
+Human metabolism also provides an example of energy
+conservation. Human beings and other animals do work
+246
+---
+
+when they walk, run, or move heavy objects, Work requires
+energy. Energy is also needed for growth to make new
+cells and to replace old cells that have died. Energy
+transforming processes that occur within an organism are
+named as metabolism. We can apply the first law of
+thermodynamics,
+AU=Q-V
+to an organism of the human body. Work (W) done will
+result in the decrease in internal energy of the body.
+Consequently the body temperature or in other words
+Internal energy is maintained by the food we eat.
+Example 11.3: A gas is enclosed in a container fitted
+with a piston of cross-sectional area 0,10 m². The pressure
+of the gas is maintained at 8000 Nm2. When heat is slowly
+transferred, the piston is pushed up through a distance of
+4.0 cm. If 42 J heat is transferred to the system during the
+expansion, what is the change in internal energy of the
+system?
+Solution:
+The work done by the gas is
+PAAy = 8000 Nm 2 x 0,10 m 2 x 4.0 x 102 m
+32Nm = 32 J
+The change in internal energy is found from first law of
+thermodynamics,
+AU=Q-W=42J-32J - = 10 J
+Isothermal Process
+P
+It is a process which is carried out at constant temperature
+and hence the condition for the application of Boyle's Law
+Constant
+on the gas is fulfilled. Therefore, when gas expands or
+P
+Temperature
+compresses isothermally, the product of its pressure and
+volume during the process remains constant. If P, V1 are
+P,
+I
+initial pressure and volume where as P2. V2 are pressure
+1
+and volume after the isothermal change takes place
+V.
+V
+V,
+(Fig.11.6 a), then
+Flg. 11.6(a)
+PV,=P2V
+247
+---
+
+In case of an ideal gas, the P.E. associated with its
+molecules is zero, hence, the internal energy of an ideal
+gas depends only on its temperature, which in this case
+remains constant, therefore, AU=0. Hence, the first
+law of thermodynamics reduces to
+Q=W
+Thus if gas expands and does external work W, an amount
+of heat o has to be supplied to the gas in order to produce
+an isothermal change. Since transfer of heat from one place
+to another requires time, hence, to keep the temperature of
+the gas constant, the expansion or compression must take
+place slowly. The curve representing an isothermal process
+is called an isotherm (Fig. 11.6a).
+Adiabatic Process
+An adiabatic process is the one in which no heat enters or
+leaves the system. Therefore, Q = 0 and the first law of
+thermodynamics gives
+W=-AU
+Thus if the gas expands and does external work, it is done
+at the expense of the internal energy of its molecules and,
+hence, the temperature of the gas falls. Conversely an
+adiabatic compression causes the temperature of the gas to
+rise because of the work done on the gas.
+Adiabatic change occurs when the gas expands or is
+compressed rapidly, particularly when the gas is contained
+in an insulated cylinder. The examples of adiabatic
+processes are
+Fig. 11.0(b)
+(i)
+The rapid escape of air from a burst tyre.
+(II)
+The rapid expansion and compression of air through
+which a sound wave is passing.
+(iii)
+Cloud formation in the atmosphere.
+In case of adiabatic changes it has been seen that
+PV T = Constant
+248
+---
+
+where, Y is the ratio of the molar specific heat of the gas at
+constant pressure to molar specific heat at constant volume.
+The curve representing an adiabatic process is called an
+adiabat (Fig. 11.6 b).
+11.5 MOLAR SPECIFIC HEATS OF A GAS
+One kilogram of different substances contain different
+number of molecules. Sometimes it is preferred to consider
+a quantity called a mole, since one mole of any substance
+contains the same number of molecules. The molar
+specific heat of the substance is defined as the heat
+required to raise the temperature of one mole of the
+substance through 1 K. In case of solids and liquids the
+change of volume and hence work done against external
+pressure during a change of temperature is negligibly
+small. But same can not be said about gases which suffer
+variation in pressure as well as in volume with the rise in
+temperature. Hence, to study the effect of heating the
+gases, either pressure or volume is kept constant. Thus, it
+is customary to define the molar specific heats of a gas in
+two ways.
+(i)
+The molar specific heat at constant volume is the
+amount of heat transfer required to raise the
+temperature of one mole of the gas through 1 K at
+constant volume and is symbolized by C.
+If 1 mole of an ideal gas is heated at constant volume
+so that its temperature rises by AT, the heat
+transferred Q, must be equal to C, AT Because
+AV = 0, no work is done (Fig 11.7. a). Applying first
+law of thermodynamics,
+Q,=AU+W
+Hence,
+C, AT = AU + 0
+or
+AU = C, AT
+(11.11)
+O-C. AT
+O-Gar
+(ii)
+The molar specific heat at constant pressure is the
+(a)
+(b)
+amount of heat transfer. required to raise the
+Fig. 11.7
+temperature of one mole of the gas through 1 K at
+constant pressure and it is represented by symbol
+Cp To raise the temperature of 1 mole of the gas
+by AT at constant pressure. the heat transfer Qp
+must be equal to Cp AT (Fig 11.7 b), Thus,
+249
+---
+
+Qp =C.AT
+(11.12)
+Derivation of
+When one mole of a gas is heated at constant pressure, the
+internal energy increases by the same amount as at
+constant volume for the same rise in temperature AT. Thus
+from Eq. 11.11
+AU = C, 2 AT
+Since the gas expands to keep the pressure constant, so it
+does work W=P AV, where AV is the increase in volume.
+Substituting the values of heat transfer Qp. internal energy
+AU and the work done W in Eq.1 11.10, we get
+C,AT = C,AT+PAV
+(11.13)
+Using equation 11.6 for one mole of an ideal gas,
+PV=RT
+(11.14)
+At constant pressure P, amount of work done by one mole
+of a gas due to expansion AV (Fig. 11.7 b) caused by the
+rise in temperature AT is given by Eq. 11.14
+PAV=RAT
+Substituting for PAV in Eq. 11.13
+or
+Co=C,+
+or
+Cp - C,=R
+(11.15)
+It is obvious from Eq. 11.15 that Cp > C, by an amount
+equal to universal gas constant R.
+11.6 REVERSIBLE AND IRREVERSIBLE
+PROCESSES
+A reversible process is one which can be retraced in
+exactly reverse order, without producing any change in the
+surroundings. In the reverse process, the working
+substance passes through the same stages as in the direct
+process but thermal and mechanical effects at each stage
+are exactly reversed. If heat is absorbed in the direct
+250
+---
+
+process, it will be given out in the reverse process and if
+work is done by the substance in the direct process, work
+will be done on the substance in the reverse process.
+Hence, the working substance is restored to its original
+conditions.
+A succession of events which bring the system
+back to its Initial condition is called a cycle. A
+reversible cycle is the one in which all the
+changes are reversible.
+Although no actual change is completely reversible but the
+processes of liquefaction and evaporation of a substance,
+performed slowly, are practically reversible. Similarly the
+slow compression of a gas in a cylinder is reversible
+Do You Know?
+process as the compression can be changed to
+expansion by slowly decreasing the pressure on the
+piston to reverse the operation.
+If a process can not be retraced in the
+backward direction by reversing the
+The steam engine is a
+controlling factors, it Is an irreversible
+thermodynamica system.
+process.
+All changes which occur suddenly or which involve friction
+or dissipation of energy through conduction, convection or
+radiation are irreversible. An example of highly irreversible
+process is an explosion.
+11.7 HEAT ENGINE
+A heat engine converts some thermal energy to
+mechanical work. Usually the heat comes from the burning
+of a fuel. The earliest heat engine was the steam engine. It
+was developed on the fact that when water is boiled in a
+vessel covered with a lid, the steam inside tries to push the
+lid off showing the ability to do work. This observation
+helped to develop a steam engine.
+251
+---
+
+Basically à heat engine (Fig. 11.8) consists of hot reservoir
+or source which can supply heat at high temperature and a
+cold reservoir or sink into which heat is rejected at a lower
+temperature. A working substance is needed which can
+absorb heat Q, from source, converts some of it into work
+W by its expansion and rejects the rest heat Q2 to the cold
+reservoir or sink. A heat engine is made cyclic to provide
+a continuous supply of work.
+11.8 SECOND LAW OF THERMODYNAMICS
+Hot reserves
+First law of thermodynamics tells us that heat energy can
+be converted into equivalent amount of work, but it is silent
+about the conditions under which this conversion takes
+place. The second law is concerned with the
+circumstances in which heat can be converted into work
+and direction of flow of heat.
+Heat
+engine
+Before initiating the discussion on formal statement of the
+output
+second law of thermodynamics, let us analyze briefly the
+Wide W
+factual operation of an engine. The engine or the system
+represented by the block diagram Fig. 11.8 absorbs a
+quantity of heat Q1 from the heat source at temperature T1.
+Cold reservoir
+It does work W and expels heat Q2 to low temperature
+T
+reservoir at temperature T2. As the working substance goes
+through a cyclic process, in which the substance eventually
+Fig. 11.8
+returns to its initial state, the change in internal energy is
+Schematic representation of a
+zero. Hence from the first law of thermodynamics, net work
+heat engine, The engine absorbs
+heat Q from the hot reservoir,
+done should be equal to the net heat absorbed.
+expels heart Q. to the cold reservoir
+and does work W.
+W Q1 - Q2
+In practice, the petrol engine of a motor car extracts heat
+from the burning fuel and converts a fraction of this energy
+to mechanical energy or work and expels the rest to
+atmosphere. It has been observed that petrol engines
+convert roughly 25% and diesel engines 35 to 40%
+available heat energy into work.
+The second law of thermodynamics is a formal statement
+based on these observations. It can be stated in a number of
+different ways.
+252
+---
+
+According to Lord Kelvin's statement based on the working
+of a heat engine
+It is impossible to devise a process which
+Tidbits
+may convert heat, extracted from a single
+reservoir, entirely into work without leaving
+any change in the working system.
+Comparatura 7
+Heatten
+This means that a single heat reservoir, no matter how
+much energy it contains, can not be made to perform any
+work. This is true for oceans and our atmosphere which
+Hear
+contain a large amount of heat energy but can not be
+work
+engine
+converted into useful mechanical work. As a consequence
+of second law of thermodynamics, two bodies at different
+MIPOSSIBLE
+temperatures are essential for the conversion of heat into
+work. Hence for the working of heat engine there must be
+According to the Kelvin statement
+a source of heat at a high temperature and a sink at low
+of the second law of
+thermodynamics the process
+temperature to which heat may be expelled. The reason for
+pictured here is impossible Heat
+our inability to utilize the heat contents of oceans and
+from a source at a single
+atmosphere is that there is no reservoir at a temperature
+temperature cannot be converted
+entirely into work
+lower than any one of the two.
+11.9 CARNOT ENGINE AND CARNOT'S
+THEOREM
+Sadi Carnot in 1840 described an ideal engine using only
+isothermal and adiabatic processes, He showed that a
+heat engine operating in an ideal reversible cycle between
+two heat reservoirs at different temperatures, would be the
+most efficient engine, A Carnot cycle using an ideal gas as
+the working substance is shown on PV diagram (Fig. 11.9).
+A
+It consists of following four steps.
+B
+1. The gas is allowed to expand isothermally at
+temperature T1. absorbing heat Q, from the hot
+P
+D
+reservoir, The process is represented by curve AB.
+o
+2. The gas is then allowed to expand adiabatically until
+0,
+its temperature drops to T2. The process is
+V, V,
+V V,
+V
+represented by curve BC.
+Fig.11.3
+3. The gas at this stage is compressed isothermally at
+temperature T2 rejecting heat Q2 to the cold reservoir.
+The process is represented by curve CD.
+253
+---
+
+4. Finally the gas is compressed adiabatically to restore
+its initial state at temperature T1. The process is
+represented by curve DA.
+Thermal and mechanical equilibrium is maintained all the
+time so that each process is perfectly reversible. As the
+working substance returns to the initial state, there is no
+change in its internal energy i.e. AU=0.
+The net work done during one cycle equals to the area
+enclosed by the path ABCDA of the PV diagram. It can
+also be estimated from net heat Q absorbed in one cycle.
+Q=Q-Q2
+Interesting Information
+From 1st law of thermodynamics
+Q=AU+W
+W=Q,-Q2
+The efficiency n of the heat engine is defined as
+(Work)
+thus,
+(11.16)
+The energy transfer in an isothermal expansion or
+compression turns out to be proportional to Kelvin
+temperature. So Q, and Q2 are proportional to Kelvin
+A waterfall analogy for the
+temperatures T1 and T2 respectively and hence,
+heat engine.
+(11.17)
+The efficiency is usually taken in percentage, in that case,
+percentage efficiency =
+Thus the efficiency of Carnot engine depends on the
+temperature of hot and cold reservoirs. It is independent of
+the nature of working substance. The larger the
+254
+---
+
+temperature difference of two reservoirs, the greater is the
+efficiency. But it can never be one or 100% unless cold
+reservoir is at absolute zero temperature (T2 = OK).
+Such reservoirs are not available and hence the maximum
+efficiency is always less than one. Nevertheless the Carnot
+cycle establishes an upper limit on the efficiency of all heat
+engines. No practical heat engine can be perfectly
+reversible and also energy dissipation is inevitable. This
+fact is stated in Carnot's theorem
+No heat engine can be more efficient than a Carnot
+engine operating between the same two temperatures.
+Do You Know?
+The Carnot's theorem can be extended to state that,
+Higher temperature
+Heat out
+All Carnot's engines operating between the same
+two temperatures have the same efficiency,
+irrespective of the nature of working substance.
+work
+In most practical cases, the cold reservoir is nearly at room
+temperature. So the efficiency can only be increased by
+raising the temperature of hot reservoir. All real heat
+Heat in
+engines are less efficient than Carnot engine due to friction
+and other heat losses.
+Low temperature compartment
+Example 11.4: The turbine in a steam power plant takes
+Aretrigerator transfers heat from a
+steam from a boiler at 427°C and exhausts into a low
+low-temperature compartment to
+temperature reservoir at 77°C. What is the maximum possible
+higher-temperature surroundings
+with the help of external work It is
+efficiency?
+a heat engine operating in reverse
+order.
+Solution:
+Maximum efficiency for any engine operating between
+temperatures T1 and T2 is
+T,-T2
+FI
+=
+where
+T,=427 + 273 = 700 K
+and
+T2 77 + 273 = 350 K
+255
+---
+
+700K =350 K
+350 K
+1
+For Your Information
+so
+1]
+0,5
+700 K
+700K
+2
+Gas
+thermometer
+bulb
+or
+n =50%
+Vapour
+11.10 THERMODYNAMIC SCALE
+OF
+TEMPERATURE
+Generally a temperature scale is established by two fixed
+points using certain physical properties of a material which
+varies linearly with temperature. The Carnot cycle provides
+us the basis to define a temperature scale that is
+Waster
+independent of material properties, According to it, the ratio
+Q2/Q depends only on the temperature of two heat
+Atriple-point cell in which solid ice,
+reservoirs. The ratio of the two temperatures T2/T1 can be
+liquid water, and water vepour
+poexist in thermal equilibrium, By
+found by operating a reversible Carnot cycle between these
+international agreement, the
+two temperatures and carefully measuring the heat transfers
+temperature of this mixture has
+Q2 and Q. The thetmodynamic scale of temperature is
+been defined to be 273,16 K. The
+bulb of a constant-volume gas
+defined by choosing 273,16 K as the absolute temperature
+thermometer is shown inserted into
+of the triple point of water as one fixed point and absolute
+the will of the cell
+zero, as the other. The unit of thermodynamic scale is
+kelvin. 1 K is defined as 1/273.16 of the thermodynamic
+temperature of the triple point of water. It is a state in which
+ice, water and vapour coexists in équilibrium and it occurs
+uniquely at one particular pressure and temperature. If heat
+o is absorbed or rejected by the system at corresponding
+spark plug
+temperature T when the system is taken through a Carnot
+valve
+valve
+cycle and Q2 is the heat absorbed or rejected by the system
+when it is at the temperature of triple point of water, then
+unknown temperature T in kelvin is given by
+T 273.16
+(11.18)
+Since this scale is independent of the property of the
+piston
+working substance, hence, can be applied at very low
+temperature.
+crankshaft
+11.11 PETROL ENGINE
+Although different engines may differ in their construction
+Fig. 11.10(a)
+technology but they are based on the principle of a Carnot
+cycle A typical four stroke petrol engine (Fig. 11.10 a) also
+undergoes four successive processes in each cycle.
+256
+---
+
+1.
+The cycle starts on the intake stroke in which piston
+moves outward and petrol air mixture is drawn through
+an inlet valve into the cylinder from the carburetor at
+atmospheric pressure.
+2. On the compression stroke, the inlet valve is closed and
+cylinder block
+the mixture is compressed adiabatically by inward
+movement of the piston.
+3.
+On the power stroke, a spark fires the mixture causing a
+rapid increase in pressure and temperature, The burning
+mixture expands adiabatically and forces the piston to
+move outward. This is the stroke which delivers power to
+crank shaft to drive the flywheels.
+flywheel
+crankshaft
+4. On the exhaust stroke, the outlet valves opens. The
+Eng end
+residual gases are expelled and piston moves inward.
+Fig. 11.10(b)
+The cycle then begins again. Most motorbikes have one
+cylinder engine but cars usually have four cylinders on the
+same crankshaft (Fig 11.10 b). The cylinders are timed to fire
+turn by turn in succession for a smooth running of the car. The
+actual efficiency of properly tuned engine is usually not more
+than 25% to 30% because of friction and other heat losses.
+Diesel Engine
+Valves
+No spark plug is needed in the diesel engine (Fig. 11.11).
+Diesel is sprayed into the cylinder at maximum compression.
+Because air is at very high temperature immediately after
+Intake
+Exhaust
+compression, the fuel mixture ignites on contact with the air in
+the cylinder and pushes the piston outward. The efficiency of
+diesel engine is about 35% to 40%
+Injector
+Piston
+11.12 ENTROPY
+Cylinder
+The concept of entropy was introduced into the study of
+thermodynamics by Rudolph Clausius in 1856 to give a
+quantitative basis for the second law. It provides another
+variable to describe the state of a system to go along with
+pressure, volume, temperature and internal energy. If a
+system undergoes a reversible process during which it
+absorbs a quantity of heat AQ at absolute temperature T,
+Fig. 11,11
+then the increase in the state variable called entropy S of
+the system is given by
+AS =
+(11.19)
+257
+---
+
+Like potential energy or internal energy, it is the change in
+entropy of the system which is important.
+Change in entropy is positive when heat is added and
+negative when heat is removed from the system. Suppose,
+an amount of heat Q flows from a reservoir at temperature
+T1 through a conducting rod to a reservoir at temperature
+T2 when T1 > T2. The change in entropy of the reservoir, at
+temperature T1. which loses heat, decreases by Q/T1 and
+of the reservoir at temperature T2, which gains heat,
+increases by Q/T2. As T1 > T2 so Q/T2 will be greater than
+Q/T, i.e. Q/T2>Q/T,
+Hence, net change in entropy= is
+positive.
+It follows that in all natural processes where heat flows
+from one system to another, there is always a net increase
+in entropy. This is another statement of 2nd law of
+thermodynamics. According to this law
+If a system undergoes a natural process, it will
+go in the direction that causes the entropy of
+the system plus the environment to increase.
+It is observed that a natural process tends to proceed
+towards a state of greater disorder. Thus, there is a
+relation between entropy and molecular disorder. For
+example an irreversible heat flow from a hot to a cold
+substance of a system increases disorder because the
+molecules are initially sorted out in hotter and cooler
+regions. This order is lost when the system comes to
+thermal equilibrium. Addition of heat to a system increases
+its disorder because of increase in average molecular
+speeds and therefore, the randomness of molecular
+motion. Similarly, free expansion of gas increases its
+disorder because the molecules have greater randomness
+of position after expansion than before. Thus in both
+examples, entropy is said to be increased.
+We can conclude that only those processes are probable
+for which entropy of the system increases or remains
+constant. The process for which entropy remains constant
+is a reversible process; whereas for all irreversible
+processes, entropy of the system increases.
+258
+---
+
+Every time entropy increases, the opportunity to convert
+some heat into work is lost. For example there is an increase
+in entropy when hot and cold waters are mixed. Then warm
+water which results cannot be separated into a hot layer and
+a cold layer, There has been no loss of energy but some of
+the energy is no longer available for conversion into work.
+Therefore, increase in entropy means degradation of energy
+from a higher level where more work can be extracted to a
+lower level at which less or no useful work can be done. The
+energy in a sense is degraded, going from more orderly form
+to less orderly form, eventually ending up as thermal energy.
+Do You Know?
+In all real processes where heat transfer occurs, the
+Approximate efficiencies of
+various devices
+energy available for doing useful work decreases. In other
+Device
+Efficiency
+words the entropy increases. Even if the temperature of
+(%)
+some system decreases, thereby decreasing the entropy, it
+Electriogenerator
+70-99
+is at the expense of net increase in entropy for some other
+Electric motor
+50-93
+system. When all the systems are taken together as the
+Dry cell battery
+90
+universe, the entropy of the universe always increases.
+Domestic gas furnace
+70-85
+Storage bettery
+72
+Hydragen-oxygen fuel cell
+60
+Example 11,5: Calculate the entropy change when
+Liquid fuel rocket
+47
+1.0 kg ice at 0°C meits into water at 0°C. Latent heat
+Steam turbine
+35-48
+of fusion of ice L = 3.36 x 10° J kg 1.
+Fossil-fuml power plant
+30-40
+Nuclear power plant
+30-35
+Solution:
+Nuclear reactor
+39
+m = kg
+Aircraft gas turbine engine
+36
+Solid-state laser
+30
+T=0°C=273 K
+Internal combustion
+10" J kgi
+20-30
+gasoline engine
+Gallium arsenide solar cells
+>20
+AS=40
+Fluorescent lamp
+20
+Silicon solar cell
+12-16
+Steam locomotive
+a
+where
+AQ mL,
+Incandescent lamp
+5
+AS = mL,
+Walt's steam engine
+1
+J kg
+AS=123x10'JK
+Thus entropy increases as it changes to water. The increase in
+entropy in this case is a measure of increase in the disorder of
+water molecules that change from solid to liquid state.
+259
+---
+
+11.13 ENVIRONMENTAL CRISIS AS
+ENTROPY CRISIS
+The second law of thermodynamics provides us the key for
+both understanding our environmental crisis, and for
+understanding how we must deal with this crisis.
+From a human standpoint the environmental crisis results
+from our attempts to order nature for our comforts
+and greed, From a physical standpoint, however, the
+environmental crisis is an entropy or disorder crisis
+resulting from our futile efforts to ignore the second law of
+thermodynamics. According to which, any increase in the
+order in a system will produce an even greater increase in
+entropy or disorder in the environment. An individual
+impact may not have a major consequence but an impact
+of large number of all individuals disorder producing
+For Your Information
+activities can affect the overall life support system.
+The energy processes we use are not very efficient. As a
+result most of the energy is lost as heat to the environment.
+Although we can improve the efficiency but 2nd law eventually
+imposes an upper limit on efficiency improvement. Thermal
+pollution is an inevitable consequence of 2nd law of
+The jet engines on this aircraft
+thermodynamics and the heat is the ultimate death of any
+convert thermal energy to work but
+form of energy. The increase in thermal pollution of the
+the visible exhaust clearly shows
+that a considerable amount of
+environment means increase in the entropy and that causes
+thermal energy is lost as waste heat.
+great concern. Even small temperature changes in the
+environment can have significant effects on metabolic rates in
+plants and animals. This can cause serious disruption of the
+overall ecological balance.
+In addition to thermal pollution, the most energy
+transformation processes such as heat engines used for
+transportation and for power generation cause air pollution.
+In effect, all forms of energy production have some
+undesirable effects and in some cases all problems can
+not be anticipated in advance.
+The imperative from thermodynamics is that whenever you
+do anything, be sure to take into account its present and
+possible future impact on your environment. This is an
+ecological imperative that we must consider now if we are
+to prevent a drastic degradation of life on our beautiful but
+fragile Earth.
+260
+---
+
+SUMMARY
+From the Kinetic theory of P=1per's.
+gases
+The first law of thermodynamics states that energy is conserved.
+The sum of all forms of molecular energy present in a thermodynamic system is
+called its internal energy.
+Isothermal process is the process in which Boyle's law holds good.
+Adiabatic process is the one in which no thermal energy is added or extracted from
+the system.
+Molar specific heat at constant volume is the amount of heat required to raise the
+temperature of one mole of the gas through 1 K keeping volume constant.
+Molar specific heat at constant pressure is the amount of heat required to raise the
+temperature of one mole of the gas through 1 K keeping pressure constant.
+A heat engine is a device which converts a part of thermal energy into useful work.
+Efficiency of Camot engine is 1-7
+The second law of thermodynamics can be stated as
+(i)
+There is no perpetual motion machine that can convert the given amount of
+heat completely into work.
+(II)
+The total entropy of any system plus that of its environment increases as a
+result of any natural process,
+Entropy change AS due to heat transfer AQ at absolute temperature T is given by
+AS==40
+Thermal pollution is an inevitable consequence of 2nd law of thermodynamics.
+QUESTIONS
+11.1 Why is the average velocity of the molecules in a gas zero but the average of the
+square of velocities is not zero?
+11.2 Why does the pressure of a gas in a car tyre increase when it is driven through
+some distance?
+261
+---
+
+11.3 A system undergoes from state PV to state P2V2 as shown in Fig 11.12. What
+will be the change in internal energy?
+il
+4x10
+P,
+Constant
+Temperature
+P
+(Pa)
+1x10
+P
+1
+4
+V,
+V->
+V1
+(cm')
+Fig.11.12
+11.4 Variation of volume by pressure is given in Fig 11.13. A gas is taken along the
+paths ABCDA, ABCA and A to A. What will be the change in internal energy?
+A
+B
+A
+A
+B
+P
+P
+C
+D
+C
+V
+V
+V
+Fig.11.13(a)
+Fig.11.13(b)
+Fig.11.13(c)
+11,5 Specific heat of a gas at constant pressure is greater than specific heat at constant
+volume. Why?
+11.6 Give an example of a process in which no heat is transferred to or from the system
+but the temperature of the system changes.
+11.7 Is it possible to convert internal energy into mechanical energy? Explain with an
+example.
+11,8 Is it possible to construct a heat engine that will not expel heat into the atmosphere?
+11.9 A thermos flask containing milk as a system is shaken rapidly. Does the
+temperature of milk rise?
+11.10 What happens to the temperature of the room, when an airconditioner is left running on
+a table in the middle of the room?
+262
+---
+
+11.11 Can the mechanical energy be converted completely into heat energy? If so give
+an example,
+11.12Does entropy of a system increase or decrease due to friction?
+11.13Give an example of a natural process that involves an increase in entropy.
+11.14An adiabatic change is the one in which
+a. No heat is added to or taken out of a system
+b. No change of temperature takes place
+c. Boyle's law is applicable
+d. Pressure and volume remains constant
+11.15Which one of the following process is irreversible?
+a. Slow compressions of an elastic spring
+b. Slow evaporation of a substance in an isolated vessel
+c. Slow compression of a gas
+d. A chemical explosion
+11.16An ideal reversible heat engine has
+a. 100% efficiency
+b. Highest efficiency
+c. An efficiency which depends on the nature of working substance
+d. None of these
+NUMERICAL PROBLEMS
+11.1 Estimate the average speed of nitrogen molecules in air under standard conditions
+of pressure and temperature.
+(Ans: 493 ms ¹
+11.2 Show that ratio of the root mean square speeds of molecules of two different gases
+at a certain temperature is equal to the square root of the inverse ratio of their
+masses,
+11.3 A sample of gas is compressed to one half of its initial volume at constant pressure
+of 1.25 x 105 Nm2 During the compression, 100 J of work is done on the gas.
+Determine the final volume of the gas.
+(Ans: 8 x 10 4 m³)
+263
+---
+
+11.4 A thermodynamic system undergoes a process in which its internal energy
+decreases by 300 J. If at the same time 120 J of work is done on the system, find
+the heat lost by the system.
+(Ans: - 420 J)
+11.5 A carnot engine utilises an ideal gas. The source temperature is 227°C and the sink
+temperature is 127°C. Find the efficiency of the engine. Also find the heat input from
+the source and heat rejected to the sink when 10000 J of work is done.
+(Ans: 20%, 5.00 x 104. 4.00 x 10 J
+11.6 A reversible engine works between two temperatures whose difference is 100°C. If
+it absorbs 746 J of heat from the source and rejects 546 J to the sink, calculate the
+temperature of the source and the sink.
+(Ans: 100°C, 0°C)
+11.7 A mechanical engineer develops an engine, working between 327°C and 27°C and
+claims to have an efficiency of 52%. Does he claim correctly? Explain.
+(Ans: No)
+11.8 A heat engine performs 100 J of work and at the same time rejects 400 J of heat
+energy to the cold reservoirs. What is the efficiency of the engine?
+(Ans: 20%)
+11.9 A Carnot engine whose low temperature reservoir is at 7°C has an efficiency of
+50% It is desired to increase the efficiency to 70% By how many degrees the
+temperature of the source be increased?
+(Ans: 373°C)
+11,10 A steam engine has a boiler that operates at 450 K. The heat changes water to
+steam, which drives the piston. The exhaust temperature of the outside air is about
+300 K. What is maximum efficiency of this steam engine?
+(Ans: 33%)
+11.11 336 J of energy is required to melt 1 g of ice at 0°C. What is the change in
+entropy of 30 g of water at 0°C as it is changed to ice at 0°C by a refrigerator?
+(Ans: -36.8JK
+264
+---
+
+Appendix
+1
+Standard Definitions of Base Units
+Metre: The unit of length is named as metre. Before 1960 it was defined as the distance
+between two lines marked on the bar of an alloy of platinum (90%) and iridium (10%) kept under
+controlled conditions at the International Bureau of Weights and Measures in France. The 11°
+General Conference on Weights and Measures (1960) redefined the standard metre as follows:
+One metre is a length equal to 1,650,763.73 wave lengths in vacuum of the orange red radiation
+emitted by the Krypton 86-atom. However, in 1983 the metre was redefined to be the distance
+traveled by light in vacuum during a time of 1/299,792.458 second. In effect, this latest definition
+establishes that the speed of light in vacuum is 299,792,458 mg"
+Kilogram: The unit of mass is known as kilogram. It is defined as the mass of a platinum (90%)
+and iridium (10%) alloy cylinder, 3.9 cm in diameter and 3.9 cm in height, kept at the International
+Bureau of Weights and Measures in France. This mass standard was established in 1901.
+Second: The unit of time is termed as second, It is defined as 1/86400 part of an average day of the
+year 1900 A.D. The recent time standard is based on the spinning motion of electrons in atoms. This is
+since 1967 when the International Committee on Weights and Measures adopted a new definition of
+second, making one second equal to the duration in which the outer most electron of the cesium-133
+atom makes 9,192,631,770 vibrations.
+Kelvin: Temperature is regarded as a thermodynamic quantity, because its equality
+determines the thermal equilibrium between two systems. The unit of temperature is kelvin. It is
+the fraction 1/273,16 of the thermodynamic temperature of the triple point of water. It should be
+noted that the triple point of a substance means the temperature at which solid, liquid and vapour
+phases are in equilibrium. The triple point of water is taken as 27316 K. This standard was
+adopted in 1967.
+Ampere: The unit of electric current is ampere. It is that constant current which if maintained in
+two straight parallel conductors of infinite length, of negligible circular cross-section and placed a
+metre apart in vacuum, would produce between these conductors a force equal to 2 x 107 newton per
+metre of length. This unit was established in 1971.
+Candela: The unit of luminous intensity is candela. It is defined as the luminous intensity in the
+perpendicular direction of a surface of 1/600000 square metre of a black body radiator at the
+solidification temperature of platinum under standard atmospheric pressure, This definition was
+adopted by the 13th General Conference of Weights and measures in 1967.
+Mole: The mole is the amount of substance of a system which contains as many elementary
+entities as there are atoms in 0.012 kg of carbon 12 (adopted in 1971). When this unit i.e. mole is
+used, the elementary entities must be specified; these may be atoms, molecules, ions, electrons,
+other particles or specified groups of such particles. One mole of any substance contains
+6.0225 x 1023 entities.
+265
+---
+
+Appendix
+2
+Possible Error in A Compound Quantity
+(i)
+ERROR IN THE COMPOUND QUANTITY z=x+y
+If
+the errors in the quantities X and y are Ax and Ay respectively, the possible sum is then;
+The maximum possible error is when we have
+x+Ax+y+4y
+or
+x-Ax+y-4y
+Hence, the quantity can be expressed as
+x+y=(Ax+4y)
+i.e., the errors are added.
+Hence,
+error in Z = error in x + error in y
+(A 2.1)
+(ii)
+ERROR IN THE COMPOUND QUANTITY z=xy
+If the errors in the quantities x and y are AX and Ay respectively, the compound
+quantity could be as large as (x+Ax) (y + Ay) or as small as (x-Ax) (y - 4y). The product is
+thus between about xy+ Ay + yAx +Ax Ay and xy x Ay - yAx +Ax Ay: If we neglect Ax Ay,
+as being small, then the error is between
+and -(x Ay+yax)
+or
++ (x Ay + yax)
+The possible fractional error is thus
+=
+xy = + Ay y + AX x
+which is the sum of possible fractional errors. Since the fractional error is generally
+written as percentage error, hence the possible percentage error is the sum of the
+percentage errors for the product of the two physical quantities.
+i.e.,
+% error in Z = % error in x + % error in y
+(A 2.2)
+266
+---
+
+(III) ERROR IN THE COMPOUND QUANTITY z=kx"y"
+Let Z, x and y be the numerical values of the physical quantities and k be a constant.
+Taking log of both sides;
+log 2 = log k + b
+Differentiating:
+dx b dy y
+Multiply by 100
+d2 dz 100 = a RX dx 100 + b dy 100
+If dx, dy and dz represent the errors in the quantities X, y, and z respectively, then
+% error in Z III a (% error in x) + b (% error in y)
+(A 2.3)
+(Iv)
+Error or Uncertainty from Graphs
+To find uncertainty In an average value obtained by plotting graphs, the first step is to
+draw best straight line through the plotted points using a transparent rüler. The best
+straight line passes through as many of plotted points as possible or which leaves
+almost an equal distribution of points on either side of the line. The second step is to
+pivot a transparent ruler about the centre of best straight line to draw greatest and least
+possible slopes, If slope of best straight line is m and greatest and least slopes are m
+and m2 as illustrated in Fig. A 2.1. then evaluate m, - m and m2 - m which ever of these is
+10
+m
+III.
+m
+8
+6
+F
+(N) 4
+2
+Fig. 2.1
+0
+5
+10
+15
+20
+25
+x(mm)
+greater is the maximum possible uncertainty in the slope, If the intercept on a particular
+axis is required, the similar procedure can be followed.
+267
+---
+
+Appendix
+3
+Mathematical Review
+A.
+LINEAR EQUATION
+A linear equation has the general form
+Y
+(X2J)
+y=ax+b
+(A 3.1)
+Where a and b are constants. This equation is referred to
+(x.
+35)
+0
+Ay
+as being linear because the graph of y versus x is a
+Ax
+(0, b)
+straight line, as shown in Fig. A3.1. The constant b, called
+the intercept, represents the value of y at which the straight
+line intersects the Y-axis. The constant a is equal to the
+To
+(0,0)
+x
+slope of the straight line and is also equal to the tangent of
+the angle that the line makes with the X-axis. If any two
+Fig. A 3.1
+points on the straight line are specified by the coordinates
+(xt. y/) and (X2, y2), as in Fig. A 3.1, then the slope of the
+straight line can be expressed
+Slope a = 2.1 = by
+y-y
+= tan e
+(A 3.2)
+X
+AX
+2
+1
+Note that a and b can be either positive or negative.
+B.
+QUADRATIC EQUATION
+The general form of a quadratic equation is
+ax2 bx + o - 0
+(A 3.3)
+where x is unknown quantity and a, b and c are numerical
+factors referred to as coefficients of the equation. This
+equation has two roots, given by
+x =
+(A 3.4)
+2a
+If b2 > 4ac, the roots will be real.
+C.
+THE BINOMIAL THEOREM
+(i)
+b)" = a" + ne' n(n-1) + +... (A 3.5)
+268
+---
+
+(ii)
+If x < 1, then
+(1 1 + x) ' = 1 + nx + negligible terms
+(A 3.6)
+Table A 3.1
+Areas and volumes of
+D.
+GEOMETRY
+some geometrical shapes.
+(i)
+Areas and volumes of some geometrical shapes
+are giveh in Table A3.1.
+/
+(ii)
+TABLE A 3.2
+W
+Condition
+Theorem
+(1) Rectangle
+A
+8
+D
+1. If AB is parallel to CD.
+Area w
+C B
+then a L=B
+D
+B
+o
+2. If O' C' is perpendicular to
+h
+OB and O'D'
+is
+1°
+a
+perpendicular to OA, then
+b
+o
+A
+a=p
+(ii) Triangle
+D'
+C
+Area - 2 1 on
+a
+3.
+0. +B + Y = 180°
+10
+Y
+a
+4. a=B+Y
+10
+T
+/
+C
+5. The radius OA is
+perpendicular to the
+(iii) circle
+A
+tangent line BC.
+B
+(Circumference =2xr)
+269
+---
+
+E.
+TRIGONOMETRY
+sin B+ cos2 e =
+(A 3.7)
+cos (90° +0) = sin0
+(A 3.8)
+sin (90° +0) = - cos 0
+(A 3.9)
+(iv)
+Cylinder
+sin (180°-0)=si
+(A 3.10)
+volume = nr?
+cos (180°-0)==cost
+(A 3.11)
+sin (0%q) = sin Q
+(A 3.12)
+cos (e+o)
+(A 3.13)
+sin 20=2= sin e cost
+h
+(A 3.14)
+cos
+(A 3.15)
+According to our definitions, the trigonometric functions are
+W
+limited to angles in the range [0, 90°]. We extend the
+() Rectangular box
+meaning of these functions to negative or larger angles by
+volume = (wh
+a circle of unit radius, the unit circle (Fig.A.3.2). The angle is
+always measured with respect to the positive x axis
+counter clockwise positive and clockwise negative. The
+hypotenuse of the right angled triangle OAB is the radius
+of the unit circle. Its length is equal to 1, and it is always
+positive. The other two sides are assigned a sign
+according to the usual conventions i.e., positive to the right
+of the x-axis, and so on. With these conventions the
+trigonometric functions in each of the four quadrants have
+the signs listed in Table A 3.3.
+If 0 exceeds 360°, the whole pattern of signs and values
+(vi) Sphere
+repeats itself on the next pass around the circle. Thus,
+Surface area = 4ar
+sine, cosine, and tangent are periodic functions of an
+volume 1
+angle with period 360°.
+Y
+Table A 3.3
+II
+The Signe of the
+Trigonometric Functions
+8
+Quadrant sinti cosil tanD
+X
+x
+o
+cost B
+1
++
++
++
+III
+IV
+Il
++
+-
+-
+Il
+-
+-
++
+Y
+IV
+-
++
+-
+Fig. A 3.2
+270
+---
+
+GLOSSARY
+Adiabatic process
+A completely isolated process in which no heat transfer
+can take place.
+Angular acceleration
+The rate of change of angular velocity with time.
+Angular displacement
+Angle subtended at the centre of a circle by a particle
+moving along the circumference in a given time.
+Angular momentum
+The cross product of position vector and linear momentum.
+Angular velocity
+Angular displacement per second.
+Antinode
+The point of maximum displacement on a stationary wave.
+Artificial gravity
+The gravity like effect produced in orbiting space ship to
+overcome weightlessness.
+Average acceleration
+Ratio of the change in velocity, that occurs within a time
+interval, to that time interval.
+Average velocity
+Average rate at which displacement vector changes with
+time.
+Base quantities
+Certain physical quantities such as length, mass and time,
+Blue shift
+The shift of received wavelength from a star into the
+shorter region.
+Bulk modulus
+Ratio of volumetric stress to volumetric strain.
+Centre of mass
+The point at which all the mass of the body is
+assumed to be concentrated,
+Centripetal force
+The force needed to move a body around a circular path.
+Cladding
+A layer of lower refractive index (less density) over the
+central core of high refractive index (high density).
+Compression
+The region of maximum density of a wave,
+Conservative field
+The field in which work done along a closed path is zero.
+Constructive
+When two waves meet each other in the same phase.
+interference
+Core
+The central part of optical fibre which has rélatively high
+refractive index (high density).
+Crest
+The portion of a wave above the mean level.
+Critical angle
+The angle of incidence for which the angle of refraction is 90°.
+CRO
+A device used to display input signal into waveform.
+271
+---
+
+Damping
+A process whereby energy is dissipated from the
+oscillatory system.
+Denser medium
+The medium which has greater density.
+Derived quantities
+The physical quantities defined in terms of base quantities,
+Destructive
+When two waves overlap each other in opposite phases.
+interference
+Diffraction
+Bending of light around obstacles.
+Dimension
+One of the basic measurable physical property such as
+length, mass and time.
+Displacement
+The change in the position of a body from its initial position
+to its final position.
+Doppler shift
+The apparent change in the frequency due to relative
+motion of source and observer.
+Drag force
+A retarding force experienced by an object moving
+through a fluid.
+Elastic collision
+The interaction in which both momentum and kinetic
+energy conserve.
+Energy
+Capacity to do work.
+Entropy
+Measure of increase in disorder of a thermodynamic
+system or degradation of energy.
+Escape velocity
+The initial velocity of a body to escape from Earth's
+gravitational field.
+Forced oscillations
+The oscillations of a body subjected to an external force.
+Free oscillations
+Oscillations of a body at its own frequency without the
+interference of an external force.
+Freely falling body
+A body moving under the action of gravity only.
+Fundamental mode
+Stationary wave setup with minimum frequency.
+Geo-stationary
+The satellite whose orbital motion is synchronized with the
+satellite
+rotation of the Earth.
+Harmonics
+Stationary waves selup with integral multiples of the
+fundamental frequency.
+Heat engine
+A device that converts a part of input heat energy into
+mechanical work.
+Ideal fluid
+An incompressible fluid having no viscosity.
+Impulse
+The product of force and time for which it acts on a body.
+Inelastic collision
+The interaction in which kinetic energy does not conserve.
+272
+---
+
+Instantaneous
+Acceleration at a particular instant of time.
+acceleration
+Instantaneous velocity Velocity at a particular instant of time.
+Internal energy
+The sum of all forms of molecular energies in a
+thermodynamic system.
+Isothermal process
+A process in which Boyle's law is applicable.
+Kinetic energy
+Energy possessed by a body due to its motion.
+Laminar flow
+Smooth sliding of layers of fluid past each other.
+Least distance of
+The minimum distance from the eye at which an object can
+distinct vision
+be seen distinctly.
+Line spectrum
+Set of discrete wavelengths.
+Longitudinal wave
+The wave in which the particles of the medium vibrate
+parallel to the propagation of the wave.
+Magnification
+The ratio of the angle subtended by the image as seen
+through the optical device to that subtended by the object at
+the unaided eye.
+Modulus of elasticity
+Ratio of stress and the strain.
+Molar specific heat at
+Amount of heat needed to change the temperature of one
+constant pressure
+mole of a gas through 1K keeping pressure constant.
+Molar specific heat at
+Amount of heat needed to change the temperature of one
+constant volume
+mole of a gas through 1K keeping volume constant.
+Moment Arm
+Perpendicular distance between the axis of rotation and
+line of action of the force.
+Moment of inertia
+The rotational analogue of mass in linear motion.
+Momentum
+The product of mass and velocity of an object.
+Multi-mode graded
+An optical fibre in which the central core has high refractive
+index fibre
+index which gradually decreases towards its periphery.
+Node
+The point of zero displacement.
+Null vector
+A vector of magnitude zero without any specific direction.
+Orbital velocity
+The tangential velocity to put a satellite in orbit around the
+Earth.
+Oscillatory motion
+To and fro motion of a body about its mean position.
+Periodic motion
+The motion which repeats itself after equal Intervals of time.
+Phase
+A quantity which indicates the state and direction of motion
+of a vibrating particle.
+273
+---
+
+Pitch
+The characteristics of sound by which a shrill sound can be
+distinguished from the grave sound.
+Plane wavefront
+A disturbance lying in a plane surface.
+Polarization
+The orientation of vibration along a particular direction.
+Position vector
+A vector that describes the location of a point.
+Potential energy
+Energy possessed by a body due to its position,
+Power
+The rate of doing work.
+Progressive wave
+The wave which transfers energy away from the source.
+Projectile
+An object moving under the action of gravity and moving
+horizontally at the same time.
+Radar speed trap
+An instrument used to detect the speed of moving object
+on the basis of Doppler shift.
+Random error
+Error due to fluctuations in the measured quantity.
+Range of a projectile
+The horizontal distance from the point where the projectile
+is launched to the point it returns to its launching height.
+Rarefaction
+The region of minimum density.
+Rarer medium
+The medium which has relatively less density.
+Rays
+Radial lines leaving the point source in all directions.
+Red shift
+The shift in the wavelength of light from a star towards
+longer wavelength region.
+Resolving power
+The ability of an instrument to reveal the minor details of
+the object under examination.
+Resonance
+A specific response of vibrating system to a periodic force
+acting with the natural period of the system.
+Restoring force
+The force that brings the body back to its equilibrium
+position.
+Resultant vector
+The sum vector of two or more vectors.
+Root mean square
+Square root of the average of the square of
+velocity
+molecular velocities.
+Rotational equilibrium
+A body having zero angular acceleration.
+Scalar quantity
+A physical quantity that has magnitude only.
+Scalar product
+The product of two vectors that results into a scalar quantity.
+Significant figures
+The measured or calculated digits for a quantity which are
+reasonably reliable.
+274
+---
+
+Simple harmonic
+A motion in which acceleration is directly
+motion
+proportional to displacement from mean position
+and is always directed towards the mean position.
+Slinky spring
+A loose spring which has small initial length but a relatively
+large extended length.
+Space time curvature
+Einstein's view of gravitation.
+Spherical wavefront
+When the disturbance is propagated in all directions from a
+point source.
+Stationary wave
+The resultant wave arising due to the interference of two
+identical but oppositely directed waves.
+System international
+The internationally agreed system of units used
+(SI)
+almost world over.
+Systematic error
+Error due to incorrect design or calibration of the
+measuring device.
+Terminal velocity
+Maximum constant velocity of an object falling vertically
+downward.
+Torque
+The turning effect of a force.
+Total internal
+When the angle of incidence increases by the critical
+reflection
+angle, then the incident light is reflected back in the same
+material.
+Trajectory
+The path through space followed by a projectile.
+Translational
+A body having zero linear acceleration.
+equilibrium
+Transverse wave
+The wave in which the particles of the medium vibrate
+perpendicular to the propagation of wave.
+Trough
+The lower portion of a wave below the mean level.
+Turbulent flow
+Disorderly and changing flow pattern of fluids.
+Unit vector
+A vector of magnitude one used to denote direction.
+Vector quantity
+A physical quantity that has both magnitude and direction.
+Vector product
+The product of two vectors that results into another vector.
+Wavefront
+A surface passing through all the points undergoing a
+similar disturbance (i.e., having the same phase) at a
+given instant.
+Wavelength
+The distance between two consecutive wavefronts
+Work
+The product of magnitude of force and that of
+displacement in the direction of force.
+275
+---

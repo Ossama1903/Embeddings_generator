@@ -1,0 +1,634 @@
+CHAPTER
+6 Transition Elements
+Animation 6.1 : Complexanima
+Source and credit : Ciceco2
+6. Transition Elements eLearn.Punjab3d-block elements 4d-block elements 5d-block elements
+Elements Electronic
+configurationElements Electronic
+configurationElements Electronic
+configuration
+Sc (21) [Ar] 3d1 4s2Y (39) [Kr]4d1 5s2La (57) [Xe] 5d1 6s2
+Ti (22) [Ar] 3d2 4s2Zr (40) [Kr]4d2 5s2Hf (72) [Xe] 4f14 5d2 6s2
+V (23) [Ar] 3d3 4s2Nb (41) [Kr]4d4 5s1Ta (73) [Xe] 4f14 5d3 6s2
+Cr (24) [Ar] 3d5 4s1Mo (42) [Kr]4d5 5s1W (74) [Xe] 4f14 5d4 6s2
+Mn (25) [Ar] 3d5 4s2Te (43) [Kr]4d5 5s2Re (75) [Xe] 4f14 5d5 6s2
+Fe (26) [Ar] 3d6 4s2Ru (44) [Kr]4d7 5s1Os (76) [Xe] 4f14 5d6 6s2
+Co (27) [Ar] 3d7 4s2Rh (45) [Kr]4d8 5s1Ir (77) [Xe] 4f14 5d7 6s2
+Ni (28) [Ar] 3d8 4s2Pd (46) [Kr]4d10Pt (78) [Xe] 4f14 5d9 6s1
+Cu (29) [Ar] 3d10 4s1Ag (47) [Kr]4d10 5s1Au (79) [Xe] 4f14 5d10 6s1
+Zn (30) [Ar] 3d10 4s2Cd (48) [Kr]4d10 5s2Hg (80) [Xe] 4f14 5d10 6s2Transition elements may be defined as those elements which have partially 
+filled  d  or  f-subshells in atomic state or in any of their commonly occurringoxidation states.6.1    INTRODUCTION
+Table 6.1 Electronic configuratios of three series of d-block elements1.
+ T
+he definition and classification of transition elements.
+2.
+ T
+he electronic configurations and the general characteristics like colour 
+binding energies, etc.
+3.
+ T
+he definition of a complex compound and the related terms like ligand, 
+coordination number etc.
+4.
+ T
+he nomenclature and the geometrical shapes of simple complex 
+compounds.
+5.
+ A br
+ief description of the manufacture of wrought iron and steel from iron 
+ore.
+6.
+ Ho
+w corrosion is caused and the ways to prevent it.
+7.
+ T
+he important methods of preparation of potassium chromate, potassium 
+dichromate, potassium permanganate and their properties.In This Chapter You Will Learn:3
+6. Transition Elements eLearn.PunjabTable 6.2 Detailed electronic configurations of the valence shell of first 
+series of transition elements
+3d 4s
+Sc(Ar)
+Ti (Ar)
+V (Ar)
+Cr (Ar)
+Mn (Ar)
+Fe (Ar)
+Co (Ar)
+Ni (Ar)
+Cu (Ar)
+Zn (Ar)The d-block and the f-block elements are called transition elements be -
+cause they are located between the s and p-block elements and their 
+properties are in transition between the metallic elements of the s-block and nonmetallic elements of the p-block.The electronic con-figurations of three series of d-block elements are given in Table 6.1.4
+6. Transition Elements eLearn.PunjabThey are transition elements by definition, as there is one electron in the 
+d-subshell of each atom. In compounds they mostly occur as the tripositive ions, having no d-electron (the atom having lost its only one d-electron), hence they do not exhibit properties of transition elements and behave like main group elements.6.1.1   Typical And Non-Typical Transition Elements
+Group IIB elements (Zn, Cd and Hg) do not have a partially filled d-subshell either as elements or in any of their ionic state. Neither do they show typical properties of transition elements to any appreciable extent (except complex formation). Similarly, IIIB (Sc, Y and La) is another group of elements which do not show many of the properties associated with typical transition elements. 
+In order to maintain a rational classification, the elements of group IIBand group IIIB are referred to as non-typical transition elements and the elements in the remaining transition series are called typical transition elements, Table 6.3.
+We treat the coinage metals Cu, Ag and Au as transition metals, since 
+Cu
+2+ has a 3d9 configuration, Ag2+a 4d9 and Au3+ a 5d8configuration.
+f- Block elements i.e. Lanthanides and Actinides are also called inner transition metals, whereas d-block elements are called outer transition metals.The detailed electronic configurations of the valence shell of the first transition series is shown in Table 6.2. You will notice that in chromi-um one electron from s-subshell has been used to half fill d-subshell. Similarly, in copper, one electron from s-subshell has gone to d-sub -
+shell to fill it completely. This appears to be due to a certain mea-
+sure of stability associated with a half-filled d
+5 shell and a full d10 shell.5
+6. Transition Elements eLearn.Punjab6
+6. Transition Elements eLearn.Punjab6.2 PROPERTIES OF TRANSITION ELEMENTS
+Because of a similar electronic configuration, the d-block elements 
+closely resemble one another in their physical and chemical properties. 
+Some of the points of their resemblance are given below.1.
+ T
+hey are all metals in true sense, some of which play important role in 
+industry, e.g. Ti, Fe, Cr, Ni, Cu, Mo, W, Zr, Nb, Ta, Th, etc.
+2.
+ T
+hey are all hard and strong metals with high melting and boiling points. 
+They are also good conductors of heat and electricity.
+3.
+ T
+hey form alloys with one another and also with other elements.
+4.
+ W
+ith few exceptions, they show variable valency or oxidation state.
+5.
+ T
+heir ions and compounds are coloured in solid state as well as in solution 
+form at least in one if not all the oxidation states.
+6.2.1 General charactetistics
+(a) Binding energies
+Transition metals show good mechanical properties. They are tough, 
+malleable and ductile. The toughness of these metals indicate strong metallic binding. This is because, apart from s-electrons of the outer most shell, the electrons of underlying half-filled d-orbitals also participate in binding.
+In moving from left to right in any transition series, the number of unpaired 
+electrons increases up to groups VB and VIB, after that pairing takes place and number of unpaired electrons goes on decreasing until it becomes zero at group IIB, Table 6.37
+6. Transition Elements eLearn.Punjab
+Therefore, binding is stronger upto group VIB and weakens progressively 
+upto group IIB. This trend of variation in binding energies is shown in Fig. 6.1. In the first transition series the general increase in binding energy ends at vanadium. This is due to changes in metallic structure, e.g. Mn. In the third transition series, the increase in binding energy ends at tungsten when all the 5d electrons contribute to binding.
+Fig. 6.1 Binding energies of the elements of the first and third 
+transition series
+(b) Melting and Boiling Points
+Transition metals have very high melting and boiling points due to strong bind-
+ing forces present between their atoms. Melting points increase up to the middle of the series and then decrease to a minimum level at the end of the series.This trend in melting points  correlates well with the strength of binding  forces as is clear from the Figs. 6.1 and 6.2.8
+6. Transition Elements eLearn.Punjab
+Fig.6.2 Melting points of the elements of the first and the third transition series
+Animation 6.2 : Binding energies
+Source and credit:ERSF9
+6. Transition Elements eLearn.Punjab(c) Covalent Radii and Ionic Radii
+The covalent radii decrease rapidly at the start of the series, then 
+become almost constant and finally begin to increase at the end of the series. The increase in covalent radii is possibly due to the fact that the filled 3d orbitals have contracted into the electron core and so shield the outer 4s electrons more effectively from the nucleus, Fig. 6.3.
+Fig. 6.3 Covalent radii (—   } and ionic radii (for M2+) (—   ) of first 
+transition series elements.Changes in the ionic radii along the series are much less regular, so that periodic trends in the properties of these ions are difficult to rationalize.
+(d) Paramagnetism
+Substances which are weakly attracted by a strong magnetic field are 
+called paramagnetic substances.Those substances which- are weakly 
+repelled by a strong magnetic field are called diamagnetic substances.10
+6. Transition Elements eLearn.PunjabParamagnetic behaviour is caused by the presence of unpaired electrons in 
+an atom, molecule or ion because there is a magnetic moment associated withthe spinning electron. It increases with increase in the number of unpaired electrons. 
+ION 3d  orbital electronic 
+structureNo. of unpaired 
+electrons  
+Sc3+0
+Ti3+1
+V3+2
+Cr3+3
+Mn3+ 4
+Mn2+,Fe3+5
+Fe2+ 4
+Co2+ 3
+Ni2+ 2
+Cu2+ 1
+Zn2+0When the electrons are paired in an orbital, then magnetic moments are cancelled out and the substances become diamagnetic.
+Table 6.4 No. of Unpaired electrons in the First Series of Transition
+ Elements.11
+6. Transition Elements eLearn.PunjabThe paramagnetic behaviour is the strongest for Fe3+ and Mn2+ and 
+decreases on both sides of the first transition series. The reason is 
+that both Mn2+ and Fe3+ have 5 unpaired electrons each. The number 
+of unpaired electrons decreases gradually to zero on both sides, as it is clear from the Table 6.4. Fig.6.4 shows the variation in the paramagnetic effect of the ions belonging to the first transition series.
+Fig 6.4 Variation in the paramagnetic effect shown by the 
+selected ions across the first transition series
+(e ) Oxidation State
+One of the most important properties of the transition elements is the 
+fact that they exhibit variable valency or oxidation state. They show variable valencies because of the involvement of the unpaired d elec -
+trons in addition to s electrons in bond formation. All 3d series ele -
+ments show an oxidation state of +2 in addition to higher oxidation states.12
+6. Transition Elements eLearn.Punjab+2 oxidation state is shown when only the 2s electrons are involved
+ in bonding. In the highest oxidation states of the first five elements all the s and d electrons are used for bonding. After Mn, the number of oxidation states decreases as the d-subshells fill up and fewer un-paired electrons are available for bond formation as shown in Table 6.5.
+                                         Oxidation states
+Sc    (Ar) 3d14s22 3
+Ti    (Ar)3d24s22 3 4
+V     (Ar) 3d34s22 3 4 5
+Cr   (Ar)3d54s12 3 4 5 6
+Mn  (Ar)3d54s21    2 3 4 5 6 7
+Fe    (Ar) 3d64s21    2 3 4 5 6
+Co    (Ar)3d74s22 3 4 5
+Ni     (Ar)3d84s22 3 4
+Cu   (Ar) 3d104s11    2 3
+Zn   (Ar)3d104s22Table 6.5 Commonly Occurring Oxidation States of the 1st 
+Series of Transition Elments
+In transition elements, the d orbitals are responsible for the colour develop -
+ment in their compounds. When these orbitals are involved in bonding, they split up into two energy levels, one set has a higher energy than the oth-er. The electrons residing in low energy d-orbitals absorb a part of the visible light and jump to high energy d orbitals. The process is called d-d transition,(f) Colour13
+6. Transition Elements eLearn.PunjabFig. 6.5. The energy difference of d-orbitals varies from ion to ion. 
+Thus, every ion absorbs a different wavelength and transmits the re -
+maining set of wavelengths that gives different colours to the ions.    
+Fig. 6.5 Absorption of yellow light by [Ti(H2O)6]3+ ion.
+In [Ti(H2O)6]3+, yellow light is absorbed, while most of the blue and red 
+lights are transmitted, therefore the solution of [Ti(H20)6]3+ ions looks violet
+ in colour.
+(g) Interstitial Compounds
+When small non-metal atoms like H, B, C, N enter the interstices of transition 
+metals and impart useful features to them, they are called Interstitial compounds .These are non-stoichiometric compounds.Sometime they are 
+also termed as interstitial alloys.
+(h) Alloy Formation
+Owing to the similarity in their sizes, some transition metal atoms 
+are able to replace one another in the metallic lattice and form substitutional alloys among themselves. Alloy steels are an important example of this type of material in which iron atoms are substituted by chromium, manganese and nickel atoms, etc. to give the steel more useful properties. Other examples are brass, bronze, coinage alloys, etc.14
+6. Transition Elements eLearn.Punjab6.3 COMPLEX COMPOUNDS
+It has been observed that when the aqueous solutions of Fe (CN)2 and 
+KCN are mixed together and evaporated a new compound is obtained, which
+in aqueous solution does not ionize as Fe2+ and CN ions but ionizes as K+ ion and
+[Fe (CN)6]4- ion (Ferrocyanide ion). On this basis it has been given a formula
+ K4 [Fe (CN)6].
+Here [Fe (CN)6]-4 is called a complex ion.
+Such compounds containing the complex molecules or complex ions and capable of independent existence are called coordination compounds or complexes.
+A complex compound may contain
+1.
+ a simple ca
+tion and a complex anion
+2.
+ a c
+omplex cation and a simple anion4
+2 46 6 ()4 [ () ] 4 [ () ]ionizationFe CN KCN K Fe CN K Fe CN+−+  →  → +
+6.3.1 Components of Complex Compounds
+It is necessary to understand different terms used in the study of the complex compounds.These are as follows:
+(a) Central Metal Ion
+A metal atom or ion (usually a transition element) surrounded by a number 
+of ligands is called a central metal atom or ion, e.g. K
+4 [Fe(CN)6], [Ag(NH3)2]Cl
+In the above examples, Fe2+ and Ag1+ are the central metal ions, respectively.
+(b) Ligand
+The atoms or ions or neutral molecules, which surround the central metalion and donate electron pairs to it,are called ligands.They may be anions or neutral molecules, e.g.   K
+4 [Fe(CN)6], [Ag(NH3)2]Cl.15
+6. Transition Elements eLearn.PunjabIn the above examples, CN- and NH3 are the anionic and neutral ligands, 
+respectively. Ligands having two donor atoms are called bidentate ligands, e.g.
+                        COO-
+Oxalate ion |         is a bidentate ligand and its coordination with the metal 
+                      COO- 
+ion occur through its both negatively charged oxygen atoms.
+(c) Coordination Number
+The number of lone pair of electrons provided by the ligands to the central metal atom or ion is called the coordination number of the central metal atom or ion, e.g.
+K
+4 [Fe(CN)6]   ,   [Cu(NH3)4]SO4
+In the above examples, coordination number of iron is 6 and that of copper is 4.
+(d) Coordination Sphere
+The central metal atom or ion alongwith ligands is called the coordination sphere.It is usually placed in square brackets. It may be anionic, cationic or neutral, e.g.
+K4 [Fe(CN)6]   ,   [Cu(NH3)4]SO4   ,   [Ni(CO)4]
+In the above examples, [Fe(CN)6]4- , [Cu(NH3)4]2+   and   [Ni(CO)4]0 are anionic, 
+cationic and neutral coordination spheres, respectively.
+Animation 6.3  :Coordination compounds
+Source and credit: ciceco16
+6. Transition Elements eLearn.Punjab6.3.2 Chelates
+When all the donor atoms of a polydentate ligand get coordinated 
+with the same metal ion, a complex compound is formed which contains one or more rings in its structure and hence is called a Chelate . Metal chelates are more stable metal complexes.
+When two oxalato ligands C
+2O42- (bidentate ligand) get coordinated 
+with Pt2+ ion, dioxalato platinate (II) ion is obtained. Each 
+oxalate ligand forms a five membered ring with the cation.
+(e) Charge on the Coordination Sphere
+It is the algebric sum of the charges present on the central metal ion and the total charge on the ligands, e.g;
+                                                                      [Fe(CN)
+6]4-
+ Charge on iron                                              = + 2
+Total charge on six CN- ions                       = - 6
+              Charge on the coordination sphere         = -6 + 2 = - 417
+6. Transition Elements eLearn.PunjabAnimation 6.4  : Chelate test page
+Source and credit: Soil ScienceAnimation 6.5  : Chelate test page
+Source and credit: Soil Science
+6.3.3 Nomenclature
+The nomenclature of complex compounds is based upon the 
+recommendations by the Inorganic Nomenclature Committee of IUPAC.The rules for naming the complex compounds are as follows.1.
+ C
+ations are named before anions.
+2.
+ I
+n naming the coordination sphere, ligands are named in alphabetical order 
+regradless of the nature and number of each, followed by the name of central metal ion.
+3.
+ T
+he prefixes di, tri, tetra, penta, hexa, etc, are used to specify the number of 
+coordinated ligands.
+4.
+ T
+he names of anionic ligands end in suffix O, e.g, hydroxo, (OH-) carbonato 
+(CO32-).
+5.
+ T
+he names of neutral ligands are usually unchanged, e.g. for NH3, ammine 
+and for H2O, aqua. and for CO, carbonyl.
+6.
+ T
+he suffix  ‘ate’ comes at the end of the name of metal if the complex 
+represents an anion, otherwise it remains unchanged.
+7.
+ T
+he oxidation number of the metal ion is represented by a Roman numeral 
+in parenthesis following the name of the metal.18
+6. Transition Elements eLearn.PunjabExamples :             K4 [Fe(CN)6] Potassium hexacayno ferrate (II)
+                        [PtC1(NO2)(NH3)4]SO4 Tetraammine chloronitro-platinum (IV ) sulphate 
+                               [CO (NO2)3(NH3)3] Triammine trinitrocobalt (III)
+Animation 6.6  :Shapes of complex compounds
+Source and credit:Oscar6.3.4 Geometry of Complexes
+The geometry of complexes depend upon the type of hybridization taking place 
+in the valence shell of the central metal atom.
+In writing the formula of a complex ion, the usual practice is to place the symbol of the central metal atom first, followed by the formulas of the anionic ligands in alphabatical order, then neutral ligands in alphabatic order and the formula of the whole complex ion is enclosed in square brackets as is clear from the above examples.19
+6. Transition Elements eLearn.Punjab6.4.2 Wrought Iron
+Composition
+It is the purest form of commercial iron and contains the lowest 
+percentage of carbon and upto 0.3% of impurities like S,P ,Si and Mn, etc.
+S = 0.2 to 0.15%, Mn = upto 0.25 %, P = 0.04 to 0.2%6.4 IRON
+The important ores of iron are magnetite (Fe3O4), haematite (Fe2O3)and 
+limonite Fe2O3.3H2O etc. Iron has been known since prehistoric days. It was 
+used in Egypt in 1500 B.C. It is known that the Chinese also used iron as early as 2500 B.C. In the subcontinent, iron was produced around 600B.C.
+6.4.1 Commercial Forms of Iron
+Iron is available commercially in the following three forms.
+They differ in carbon contents as follows:
+1.
+ P
+ig iron or cast iron            2.5 to 4.5% carbon
+2.
+ W
+rought iron                      0.12 to 0.25% carbon
+3.
+ S
+teel                                     0.25 to 2.5% carbon
+6.4.3 Manufacture of Wroughtlron from Cast Iron
+It is manufactured from cast iron by puddling i.e. by heating cast iron in a 
+special type of reverberatory furnace called puddling furnace, Fig. 6.6 . This funance has a low roof to deflect the hot gases and flames downwards and to melt cast iron. The hearth of the furnace is lined with haematite (Fe
+2O3). The cast iron is placed on the hearth, melted by hot gases and 
+stirred or puddled with long iron rods called rabbles through the doors to bring it in thorough contact with the lining of the hearth, i.e.Fe
+2O320
+6. Transition Elements eLearn.PunjabThe haematite (Fe2O3) lining supplies oxygen, necessary for the oxidation of 
+carbon, sulphur, silicon, manganese and phosphorus present in the cast iron. 
+Oxides of carbon and sulphur, being volatile escape out at high temperature.
+23 2 32 4 3S Fe O Fe SO+  → +
+Fig. 6.6 Puddling furnace for the manufacture of wrought iron.
+23 3 23C Fe O Fe CO+  → +
+While those of manganese, silicon and phosphorus form slags. Thus
+2 22Mn O MnO+  →
+23 () MnO SiO MnSiO Slag+  →23 3 23C Fe O Fe CO+  → +21
+6. Transition Elements eLearn.Punjab2 25 45 2P O PO+  →
+23 25 4 2 () Fe O P O FePO Slag+  →
+With the removal of impurities, the melting point of the metal rises 
+and it becomes a semi-solid mass. At this stage, it is taken out in the form of balls or blooms on the ends of rabbles. While still hot, these balls are subjected to hammering to squeeze out, as much of slag as possible. The product so obtained is known as wrought iron.
+6.4.4 Steel
+Steel is an alloy of iron containing 0.25 to 2.5% of carbon and traces of S, P , Si and Mn.
+Classification of Steel
+1. Mild Steel (0.1 - 0.2 % C)
+It is fairly soft, malleable and ductile, can be forged (shaped by hammering 
+and pressing while hot). It is used in making tubes, nuts, bolts, bars and boilerplates.
+2. Medium Carbon Steel (0.2 - 0.7 % C)It is harder than mild steel. It is also malleable and ductile. It is used in making rails, axles, castings.
+3. High Carbon Steel(0.7 -1.5 % C)
+It is hard and can be forged, when containing less than 1.0% carbon. Steel containing more than 1.0% carbon cannot be forged. It is used to make hammers, taps, dies, cutting tools, machine tools, hard steel parts of machinery and all sort of engines.
+Steel is intermediate in carbon content between 
+cast iron and wrought iron. It can be produced from:(i)     Cast iron by removing some carbon alongwith sulphur, phosphorus and silicon.(ii)
+   B
+y adding the required amount of carbon to wrought iron, then 
+adding some special constituents, e.g. tungsten, chromium, vanadium, molybdenum, manganese, nickel and cobalt which impart desired properties to the steel. At present most of the steel is manufactured from cast iron.22
+6. Transition Elements eLearn.Punjab6.4.5 Manufacture of Steel.
+In can be manufactured by the following processes.
+1.
+ Open hear
+th process ( using cast iron, wrought iron or steel scrap)
+2.
+ B
+essemer’s process (using cast iron only)
+Some other processes are also used to prepare special type of steel from pure wrought iron.
+6.4.6 Open Hearth Process
+This is the most modern method for the manufacture of steel. It is carried out in an open hearth furnace. This furnace has a low roof to deflect the hot gases and flames downward to melt the charge. The open hearth furnance works on the regenerative principle of heat economy Fig.6.7. 
+Open hearth process is of two types.
+1.
+ F
+urnace with acidic lining like SiO2 is used when the impurities are Mn, 
+Si,etc.
+2.
+ F
+urnace with basic lining like dolomite (CaO, MgO ) is used when the 
+impurities are P and S, etc.
+Fig. 6.7 Open Hearth furnace for the manufacture of steel from cast iron23
+6. Transition Elements eLearn.PunjabProcess
+A mixture of cast iron, scrap steel and quick lime is charged into the furnace.
+At about 1600°C Si, Mn, C, S, and P are burnt out and removed according to the following reactions.
+CO escapes in the flue gases. Silica (SiO
+2) combines with CaO, MnO and 
+FeO to form silicates (slag) which float on the surface of the molten metal.12 2 C O CO+  →
+22 Si O SiO+  →
+12 2 Mn O MnO+  →
+23SiO CaO CaSiO+  →
+23SiO MnO MnSiO+  →
+23SiO FeO FeSiO+  →
+Phosphorus and sulphur react with Fe2O3 to form P2O5 and SO2.
+These oxides react with calcium oxide to form slag.23 25 5 6 10 3Fe O P Fe P O+  → +
+2 5 3 42 3 ( )          (Fertilizer) P O CaO Ca PO+  →
+23SO +CaO CaSO →23 2 2 3 43Fe O S Fe SO+  → +24
+6. Transition Elements eLearn.PunjabSamples are taken at intervals and the percentage of carbon in the 
+steel is determined regularly. When this is reduced to about 0.1%, the calculated weight of ferromanganese (Fe, Mn, C) is added. Manganese desulphurises the steel. Carbon raises the carbon contents to the required values. After giving time for mixing, a little more ferromanganese is added and the charge is allowed to run into moulds where it solidifies to ingots
+The whole process takes about 10 hours. Slag contains calcium 
+phosphate. It is ground to powder and sold as a fertilizer.
+6.4.7 Bessemer's Process 
+The furnace used in this process is called Bessemer's Converter which is 
+a pear shaped vessel made of steel plates. At the bottom the converter is provided with a number of holes through which hot air can be introduced. The converter is held on a central axis so that it can be tilted in any desired position for feeding and pouring out the finshed materials, Fig.6.8.
+Molten pig or cast iron (25 to 30 tons) from the blast furnace is fed into the converter and hot air blast is injected through the perforated base. This oxidizes carbon, silicon, and manganese.
+12 2 C O CO+  →
+22 Si O SiO+  →
+2 22Mn O MnO+  →
+These oxides form a slag of MnSiO3.The heat evolved during the oxidation
+ is enough to keep iron in the molten state.
+23 MnO SiO MnSiO+  →25
+6. Transition Elements eLearn.Punjab
+Fig 6.8 Bessemer’s converter for the manufacture of steel from cast iron.
+2 23 43 2Fe O Fe O+  →
+23 3 23 Fe O C Fe CO+  → +
+Within 10 to 15 minutes the flame due to CO subsides indicating that the 
+carbon is completely oxidized. At this stage ferromanganese is added to correct the proportion of carbon to obtain the desired qualities. A blast of air is continued for a moment to ensure thorough mixing. The addition of Mn imparts increased hardness and tensile strength.CO produced burns at the mouth of the converter with a blue flame. Iron is partly oxidized to ferric oxide (Fe
+2O3) which also extracts carbon 
+from cast iron to form CO.26
+6. Transition Elements eLearn.Punjab2 21 21A N AN+  →In order to remove entraped bubbles of gases (blow 
+holes), such as O2, N2, CO2, a little aluminum or ferro-
+silicon is also added. Aluminum removes nitrogen as nitride.
+At the end of the operation , the molten steel is poured out into mouldes for casting. Such casting are free from any defect.
+6.5 CORROSION
+Any process of chemical decay of metals due to the action of surrounding medium is called corrosion.
+The simplest case of corrosion occurs when metals come into contact 
+with gases of the atmosphere. The surface of metals becomes coated with compounds such as oxides, sulphides and carbonates. Such compounds sometime form a compact layer on the surface protecting the metal from further attack.
+The case would be different when the metal is in contact with water. The compounds formed in this case may dissolve in water, allowing the corrosion to penetrate further into the metal. Besides dissolving the compounds, water also promotes electrochemical process which is one of the main causes of rapid corrosion.
+6.5.1 Electrochemical TheoryPure metals are not easily corroded, even iron hardly gets corroded if absolutely pure. The impurities present in the metal promote corrosion.To understand why impurities accelerate the corrosion of metals, consider what happens when two different metals come in contact with one another in moist air. Suppose, for instance, Cu is brought in contact with Al. After sometime, we will notice that aluminium gets corroded while copper remains intact. This can be explained by the electrochemical theory.According to this theory, moisture and CO
+2 are present on the 
+surface of the metal. Water ionizes into H+ and OH- ions. CO2 
+dissolves in water forming H2CO3 which ionizes as follows:27
+6. Transition Elements eLearn.PunjabCopper and aluminium are, in a sense, immersed in the solution containing 
+H+, OH- and HCO-
+3  ions. This forms a galvanic cell in which aluminium 
+releases electrons and changes to Al3+ ion (being more reactive- than Cu) 
+i.e it acts as positive electrode and Cu acts as a negative electrode, Fig.6.9.23 3 H CO H HCO+−+ ���� ��
+Fig.6.9 Diagram of the corrosion of aluminium in contact with copper3
+Aluminium ions attract OH- ion to form, Al (OH)3 i.e it starts 
+dissolving. The H+ ions present on the Cu receive the electrons 
+and released as H2. In this way, aluminium corrodes rapidly when 
+in contact with copper which is lower in electrochemical series.From this, we can conclude that when an active metal Al (higher in the electrochemical series) comes in contact with less active metal Cu (lower in the electrochemical series) a galvanic cell is established. In this process active metal corrodes rapidly, while the other remains intact.28
+6. Transition Elements eLearn.Punjab6.5.2 Prevention from Corrosion
+It has been observed that the amount of iron destroyed each year by 
+corrosion equals to about one fourth of its annual production. It is therefore necessary to prevent such a damaging process and avoid this loss.Different methods are used to prevent corrosion. The simplest of them consists of protecting the surface of the metal from coming in direct contact with the surrounding by coating it with oil, paint, varnish or enamel. It can also be prevented by alloying the metals or by coating the metal with a thin layer of another metal.
+6.5.3 Tin Plating or Coating Iron with Tin (cathode coating)
+The process of tin plating consists of dipping the clean sheet of iron in a bath of molten tin and then passing it through hot pair of rollers. Such plates are used in the manufacture of tin canes, oil containers and other similar articles.Tin itself is very stable and protects the metals effectively as long as its coating on the iron is intact.
+If the protective coating is damaged, then iron comes into contact with 
+moisture. A galvanic cell is established in which tin acts as a cathode and iron as an anode. The electron’s flow from iron to tin, where they discharge H
++ ions, leaving behind OH- in the solution. These hydroxide 
+ions react with iron forming Fe(OH)3, which dissolves rapidly in water. 
+From this, it can be concluded that plated iron gets rust more rapidly when the protective coating is damaged than the non-plated iron.
+6.5.4 Galvanizing or Zinc Coating (anode coating)
+Galvanizing is done by dipping a clean iron sheet in a zinc chloride bath and 
+heating. The iron sheet is then removed, rolled into zinc bath and air cooled.In this case, if a protective layer of zinc is damaged a galvanic cell is established in the presence of moisture. Iron serves as a cathode and zinc as an anode. Electrons flow from zinc to iron, as a result of which Zn decays while Fe remains intact. This is called sacrificial corrosion.29
+6. Transition Elements eLearn.PunjabThis is the way galvanizing helps protecting iron from rust. This process is used 
+in water pipes, etc.22Fe Zn Zn Fe+++  → +
+6.6 CHROMATES AND DICHROMATES
+Chromates and dichromates are the salts of chromic acid, H2CrO4  , and 
+dichromic acid, H2Cr2O7 respectively. Both acids exist only in aqueous 
+solution and when attempts are made to isolate them from solution they decompose immediately into chromic anhydride (CrO
+3) and water. 
+Their salts are, however, quite stable.
+6.6.1 Potassium Chromate (K2CrO4)
+Preparation1.
+ T
+he chromates of alkali metals, which are soluble in water, are obtained 
+by oxidizing trivalent chromium compounds in the presence of an alkali.
+3. Chromates are usually prepared from natural chromite (FeO.Cr
+2O3), if the latter is strongly heated with potassium carbonate 
+in the presence of the oxygen. The resulting fused mass will contain potassium chromate, which can be extracted with water.2. Chromates can also be produced by fusing Cr
+2O3 with an 
+alkali in the presence of an oxidant, such as potassium chlorate.
+23 3 2 4 2 4 1 2 12 Cr O KOH KC O K CrO KC H O+ +  → + +2 2 24 2 2 38 2 6 4KCrO Br KOH K CrO KBr H O+ +  → + +30
+6. Transition Elements eLearn.Punjab24 2 3 2 2 4 23 2 4 8 7 8 28FeCr O K CO O K CrO Fe O CO+ +  → + +
+6.6.2 Properties
+Structure of Chromate Ion
+Almost all the chromates are yellow in colour. 
+Some of them are used as pigments. For instance, insoluble lead chromate, PbCrO
+4, is employed for 
+the preparation of yellow oil colour called yellow crown.K
+2CrO4 and K2Cr2O7 show similar properties, 
+because in an aqueous solution Cr2O72- and CrO42- 
+ions exist in equilibrium.
+22
+4 27 2 22 2CrO H Cr O H O−+ −++���� ��
+If an alkali is added to such a solution the hydroxyl ions will bind the hydrogen ion in solution, the equilibrium will shift towards left and, as a result, dichromate ions will be converted into chromate ions. Similarly on adding an acid the equilibrium will shift towards right and dichromate ions willbe formed.
+6.6.3 Potassium Dichromate (K2Cr2O7)
+Preparation
+1. K2CrO4 is converted to K2Cr2O7 by using the above mentioned 
+equilibrium. In an acidic medium, the equilibrium will shift in the forward direction i.e changing chromate ions into dichromate ions.31
+6. Transition Elements eLearn.Punjab2. Sometimes sodium dichromate is converted into potassium dichromate 
+       by reacting it with KCl.2 4 24 2 2 7 24 22K CrO H SO K Cr O K SO H O+  → + +
+2 27 2 27 21 2 1 Na Cr O KC K Cr O NaC+  → +
+6.6.4 Properties
+Physical Properties 
+It is an orange red crystalline solid which 
+melts at 396°C, it is fairly soluble in water.Dichromates  are  very  powerful  oxidizing  agents. Oxidation  is carried out in an acid solution.In this process, hexavalent chro -
+mium ion is reduced to trivalent chromium ion.
+(a) Reaction W ith H2S
+2 2 7 24 24 2 4 3 2
+22
+2 2 7 2 24 24 2 4 3 24 ( ) 4 3[ ]
+           3 3[ ] 3 3
+3 4 ( )7 3K Cr O H SO K SO Cr SO H O O
+HS O HO S
+K Cr O H S H SO K SO Cr SO H O S+  → + + +
++  → +
++ +  → + + +
+(b ) Reaction with Ferrous Sulphate
+Potassium dichromate oxidizes ferrous sulphate to ferric sulphate in 
+the presence of sulphuric acid.32
+6. Transition Elements eLearn.PunjabThis compound is the salt of permanganic acid, HMnO4. It is an unstable acid 
+and exists only in solution. 
+PreparationIt is prepared by acidifying the solution of potassium manganate, K
+2MnO4 by H2SO4.(c ) Reaction with Potassium Iodide
+Potassium dichromate also oxidizes KI in the presence of H2SO4,2 2 7 2 4 4 2 43 2 43 2 4 2 7 6 3 () () 7 K Cr O H SO FeSO Fe SO Cr SO K SO H O+ +  → + + +
+2 2 7 24 24 2 4 3 2 2 6 7 4 ( )3 7 K Cr O KI H SO K SO Cr SO I H O+ +  → + + +
+(d ) Chromyl Chloride Test
+When solid potassium dichromate is heated with solid metal chloride in the 
+presence of concentrated sulphuric acid chrorny 1 chloride is produced.
+2 27 2 4 4 4 2 2 2
+ chloride4 16 2 4 2 1 3
+ChromylK Cr O NaC H SO KHSO NaHSO CrO C H O+ +  → + + +
+Uses
+.  K2Cr2O7 finds extensive use in dyeing.
+.  It is used in leather industries for chrome tanning..  It is used as an oxidizing agent.
+6.7 POTASSIUM PERMANGANATE (KMnO4)
+On a large scale it is prepared from the mineral pyrolusite, MnO2. 
+The finely powdered mineral is fused with KOH in the presence of air or an oxidizing agent like KNO
+3 or KClO3, etc. This treatment gives 
+us green coloured potassium manganate, K2MnO4, in fused state.2 4 24 24 4 2 2 3 2 22 2K MnO H SO K SO KMnO MnO H O+  → + + +33
+6. Transition Elements eLearn.Punjab(a) Stadeler’s Process
+In this method Cl2 is passed through the green solution of K2MnO4 until it
+becomes purple due to the formation of KMnO4. Here, Cl2 oxidizes K2MnO4 
+into  KMnO4.2 2 24 2 24 2 2MnO KOH O K MnO H O+ +  → +
+2 3 2 4 22 2 MnO KOH KNO K MnO KNO H O+ +  → + +
+2 3 24 2 3 6 1 3 13MnO KOH KC O K MnO KC H O+ +  → + +
+(b) In this process CO2 is passed though the green solution of K2MnO4
+            until it becomes purple.242 4 2 1 2 12K MnO C KC KMnO+  → +
+24 2 2 4 2 3 3 24 2 4K MnO H O CO KMnO MnO KHCO+ +  → + +
+(c) Electrolytic Oxidation Process
+2 42 4 2 [] 2 2 K MnO H O O KMnO KOH+ +  → +
+The purple solution of KMnO4, obtained as above is filtered 
+through asbestos, concentrated and allowed to crystallize 
+when KMnO4 deposits as deep purple-red rhombic prisms.In this process, manganate is converted to permanganate by electrolytic oxidation. During electrolysis of an aqueous solution of K
+2MnO4, water is decomposed to evolve hydrogen gas at the cathode 
+and oxygen gas at the anode.Oxygen liberated at the anode oxidizes manganate ion (MnO
+4)2- into permanganate ion (MnO4)1-, while hydrogen
+ is liberated at the cathode.The fused K2MnO4 obtained as above is extracted with water and the solution, 
+after filtration, is converted into potassium permanganate (KMnO4) by 
+any of the following methods.34
+6. Transition Elements eLearn.Punjab6.7.1 Properties
+Potassium permanganate forms dark purple lustrous 
+crystals giving deep pink colour in solution. Its solubility in water at 20°C is only about 7%, while it dissolves more at higher temperature (25% at 63°C).Potassium permanganate is a powerful oxidizing agent. Oxidation is usually carried out in an acid solution.
+(a ) Reaction with H2S
+It oxidises H2S to sulphur.
+(b ) Reaction with FeSO4
+It oxidizes FeSO4 to Fe2(SO4)3
+4 4 24 24 4 2 4 3 2 2 10 8 2 5 ( ) 8 KMnO FeSO H SO K SO MnSO Fe SO H O+ +  → + + +
+(c ) Reaction with Oxalic Acid
+It oxidizes oxalic acid to CO2 and H2O
+4 2 2 4 24 24 4 2 2 2 5 3 2 10 8 KMnO H C O H SO K SO MnSO CO H O+ +  → + + +
+(d ) Reaction with KOH
+When an alkaline solution of KMnO4 is heated, O2 is evolved.
+2 24 2 2 4 44 2KMnO KOH K MnO H O O+ → ++
+Uses
+It is used•
+ as an o
+xidizing agent.
+•
+ as a disinf
+ectant and a germicide.
+•
+ in the manufac
+ture of many organic compoundsStructure of 
+permanganate ion
+4 24 24 4 2
+22
+4 24 2 24 4 22 3 2 3 5[ ]
+           5 5[ ] 5 5
+2 3 5 2 58KMnO H SO K SO MnSO H O O
+HS O HO S
+KMnO H SO H S K SO MnSO S H O+  → + + +
++  → +
++ +  → + + +35
+6. Transition Elements eLearn.Punjab1. T ransition elements have partially filled d or f-subshells in atomic state or in any of 
+their commonly occurring oxidation states.
+2.
+ IIB and IIIB g
+roup elements are called non-typical transition elements.
+3.
+ Binding ener
+gies, melting points, paramagnetism and oxidation states of transition 
+metals increase with increasing number of unpaired electrons.
+4.
+ Such c
+ompounds containing the complex molecules or complex ions and capable 
+of independent existence are called coordination compounds or complex 
+compounds.
+5.
+ W
+hen a complex ion absorbs a wavelength from visible light, it transmits a set of 
+radiation that impart colour.
+6.
+ W
+rought iron contains 0.12% - 0.25% carbon, while steel contains 0.25% - 2.25% 
+carbon.
+7.
+ Chr
+omate and dichromate ions exist in equilibrium in an aqueous solution.
+8.
+ Chemical deca
+y of metals under the action of their surrounding medium is called 
+corrosion. It can be prevented by tin plating and galvanizing.
+Q l. Fill in the blanks
+(i)      The property of paramagnetism is due to the presence of _____ electrons.
+(ii)     MnO4- ion has_________ colour andCr2O72- has______colour.
+(iii)    When potassium chromate is treated with an acid_____ is produced.(iv)    The d-block elements are located between____and______block elements.(v)     Oxidation number of Fe in K
+4[Fe(CN)6] is ________ while in K3[Fe(CN)6] it is _______.
+(vi)    The presence of _______ in a metal promotes corrosion.(vii)   If copper is in contact with aluminium _______ gets corroded.(viii)  Complexes having sp
+3d2 hybridization have _______ shape.
+(ix)    In naming the complexes, all the ligands are named in ______.(x)     In an aqueous solution, CrO
+42- and Cr2O72- exist in the form of ______.EXERCISEKEY POINTS36
+6. Transition Elements eLearn.PunjabQ.2 Indicate true or false.
+(i)      A substance which is attracted into a magnetic field is said to be diamagnetic.(ii)     Compounds of the transition elements are mostly coloured.(iii)    Fe
+3+ ions are blue when hydrated.
+(iv)    An extreme case of paramagnetism is called diamagnetism.(v)     Tin plating is used to protect iron sheets from corrosion.(vi)     In galvanizing, zinc prevents corrosion of iron.(vii)    Tin plated iron gets rusted more rapidly when the protective coating is damaged than the unplated Iron.(viii)   The name of anionic ligands in a complex ends in suffix ‘O’ .(ix)    Pig iron contains greater percentage of carbon than steel.(x)      Complex compounds having dsp
+2 hybridization have tetrahedral geometry.
+Q 3. Multiple choice questions. Encircle the correct answer.(i)       Which of the following is a non-typical transition element?         (a) Cr                         (b) Mn                              (c) Zn                              (d) Fe
+(ii)      Which of the following is a typical transition metal?
+          (a) Sc                        (b) Y                                  (c) Ra                               (d) Co
+(iii)      f-block elements are also called
+          (a) non-typical transition elements.                  (b) outer transition elements.          (c) normal transition elements.                         (d) None is true
+(iv)    The strength of binding energy of transition elements depends upon
+          (a) number of electron pairs                              (b) number of unpaired electrons         (c) number of neutrons                                       (d) tiumber of protons
+(v)      Group VIB of transition elements contains
+          (a) Zn, Cd, Hg             (b) Fe, Ru, Os               (c) Cr, Mo, W               (d) Mn, Te, Re
+(vi)    Which is the formula of tetraammine chloro-nitro-platinum (IV ) sulphate?
+         (a) [Pt(NH
+3)4(NO2)]SO4                                         (b) [Pt NO22Cl(NH3)4]SO4
+         (c) [Pt Cl(NO2)(NH3)4]SO4                                    (d) [Pt(NH3)4(NO2)Cl]SO437
+6. Transition Elements eLearn.Punjab(vii)   The percentage of carbon in different types of iron products is in the order of
+         (a) cast iron > wrought iron > steel                  (b) wrought iron > steel > cast iron         (c) cast iron > steel > wrought iron                   (d)cast iron= steel > wrought iron.
+(viii)  The cololur of transition metal complexes is due to
+         (a) d-d transition of electrons.         (b) paramagnetic nature of transition elements.         (c) ionization.         (d) loss of s-electrons.
+(ix)    Coordination number of Pt in [Pt Cl(NO
+2)(NH3)4] is
+         (a) 2-                         (b) 4                            (c) 1                                (d) 6(x)     The total number of transition elements is
+         (a) 10                                 (b) 14                                (c) 40                                     (d)58
+Q4.   How does the electronic configuration of valence shell affect the following properties of 
+         the transition elements?         (a) Binding energy                                               (b) Paramagnetism         (c) Melting points                                                 (d) Oxidation states
+Q 5. Explain the following terms giving examples.
+         (a) Ligands                                                             (b) Coordination sphere          (c) Substitutional alloy                                         (d) Central metal atom
+Q 6. Describe the rules for naming the coordination complexes and give examples.Q 7. What is the difference between wrought iron and steel. Explain the Bessemer’s 
+process for the manufacture of steel.
+Q 8.    Explain the following giving reasons.
+           (a) Why does damaged tin plated iron get rusted quickly.           (b) Under what conditions does aluminium corrode?           (c) How does the process of galvanizing protect iron from rusting?38
+6. Transition Elements eLearn.PunjabQ 9.    How chromate ions are converted into dichromate ions?
+Q 10. Describe the preparation of KMnO4 and K2CrO4.
+Q 11 . Give systematic names to following complexes.
+           (a) [Fe(CO)5]                                 (b) [CO(NH3)6]Cl3                           (c) [Fe(H2O)6]2+
+           (d) Na3[CoF6]                                (e ) K2[Cu(CN)4]                              (f) K2[PtCI6]
+           (g) [Pt(OH)2(NH3)4]SO4                 (h) [Cr(OH )3(H2O)3]

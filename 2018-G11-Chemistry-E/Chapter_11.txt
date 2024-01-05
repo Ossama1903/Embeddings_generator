@@ -1,0 +1,1482 @@
+CHAPTER
+11    REACTION KINETICS
+Animation 11.1: Spectrometer
+Source & Credit: eLearn211 REACTION KINETICS eLearn.Punjab
+11.0.0 INTRODUCTION
+ It is a common observation that rates of chemical reactions difer grea tly. Many reactions, 
+in aqueous solutions, are so rapid that they seem to occur instantaneou sly. For example, a white 
+precipitate of silver chloride is formed immediately on addition of s ilver nitrate solution to sodium 
+chloride solution. Some reactions proceed at a moderate rate e.g. hydroly sis of an ester. Still other 
+reactions take a much longer time, for example,the rusting of iron, the chemical weathering of 
+stone work of buildings by acidic gases in the atmosphere and th e fermentation of sugars.
+The studies concerned with rates of chemical reactions and the factor s that afect the rates of 
+chemical reactions constitute the subject matter of reaction kinetics.  These studies also throw light 
+on the mechanisms of reactions. All reactions occur in single or a series of steps. If a reaction 
+consists of several steps, one of the steps will be the slowest than all other steps. The slowest step 
+is called the rate determining step. The other steps will not afect the rate. The rates of reactions 
+and their control are often important in industry. They might be the deciding factors that determine 
+whether a certain chemical reaction may be used economically or not.  Many factors inluence the 
+rate of a chemical reaction. It is important to discover the conditions under which the reaction will 
+proceed most economically.
+Animation 11.2: Kinetics
+Source & Credit : ceb.cam311 REACTION KINETICS eLearn.Punjab
+11.1.0 RATE OF REACTION
+ During a chemical reaction, reactants are converted into products. S o the concentration of 
+the products
+increases with the corresponding decrease in the concentration of the rea ctants as they are being 
+consumed.
+The situation is explained graphically in Fig.(11.1) for th e reactant A which is changing irreversibly 
+to the product B. 
+ The slope of the graph for the reactant or the product is the steepest at th e beginning. This 
+shows a rapid decrease in the concentration of the reactant and conseq uently, a rapid increase in 
+the concentration of the product. As the reaction proceeds, the slope becomes less steep indicating 
+that the reaction is slowing down with time. It means that the rate of a reaction is changing every 
+moment. The following curve for reactants should touch the time axis in the l ong run. This is the 
+stage of completion of reaction. The rate of a reaction is deined as the change in concentration of 
+a reactant or a product divided by the tim e taken for the change.
+Animation 11.3: RATE OF REACTION
+Source & Credit : blobs411 REACTION KINETICS eLearn.Punjab
+ 
+ The rate of reaction has the units of concentration divided by time. Usu ally the concentration 
+is expressed in mol dm-3 and the time in second, thus the units for the reaction rate are mol d m-3s-1.
+   change in concentration of the substanceRate of reaction = time taken for the change
+ For a gas phase reaction, units of pressure are used in place of molar concentrations. It follows 
+from the above graph that the change in concentration of the reactant A or  the product B is much 
+more at the start of reaction and then it decreases gradually.
+So the reaction rate decreases with time. It never remains uniform duri ng diferent time periods. It 
+decreases continuously till the reaction ceases.
+    -3
+-3 -1 mol dmRate of reaction =  = mol dm  ssecondsFig. (11.1) Change in the concentration of reactants an d products with time for the reaction 
+AB→511 REACTION KINETICS eLearn.Punjab
+11.1.1 Instantaneous and Average Rate
+ The rate at any one instant during the interval is called the instan taneous rate. The rate of 
+reaction between two speciic time intervals is called the average rate of r eaction.
+The average rate and instantaneous rate are equal for only one instant in any time interval. At irst, 
+the instantaneous rate is higher than the average rate. At the end of the i nterval the instantaneous 
+rate becomes lower than the average rate. As the time interval becomes small er, the average rate 
+becomes closer to the instantaneous rate. 
+ The average rate will be equal to the instantaneous rate when the time in terval approaches 
+zero. Thus the rate of reaction is instantaneous change in the concentr ation of a reactant or a 
+product at a given moment of time.
+     dxRate of reaction = dt
+ Where dx is a very small change in the concentration of a produc t in a very small time interval 
+dt. Hence, dx/dt is also called rate of change of concentration with  respect to time.
+ The rate of a general reaction, AB→, can be expressed in terms of rate of disappearance of 
+the reactant A or jthe rate of appearance of the product B. Mathematical ly,
+    -d[A] d[B]Rate of reaction =    =    +dt dt
+ Where d[A] and d[B] are the changes in the concentrations of A a nd B, respectively. The 
+negative sign in the term indicates a decrease in the concentration of th e reactant A. Since the 
+concentration of product increases with time, the sign in rate express ion involving the change of 
+concentration of product is positive.611 REACTION KINETICS eLearn.Punjab
+11.1.2 Speciic Rate Constant or Velocity Constant
+ The relationship between the rate of a chemical reaction and the active masses, expressed as 
+concentrations, of the reacting substances is summarized in the la w of mass action. It states that 
+the rate of reaction is proport ional to the active mass of the reactant or to the product of active 
+masses if more than one reactants are involved in a chemical reaction . 
+Animation 11.4: Average and Instantaneous Rate of C hange
+Source & Credit : brilliant711 REACTION KINETICS eLearn.Punjab
+For dilute solutions, active mass is considered as equal to concentra tion. By applying the law of 
+mass action to a general reaction.
+    aA + bB  cC + dD →
+ Rate of reaction ab= k [A]   [B]
+ This expression is called rate equation. The brackets [  ] repr esent the concentrations and the 
+proportionality constant k is called rate constant or velocity constant f or the reaction.
+ If -3 -3[A] = 1 mol dm  and [B] = 1 mol dm
+  abRate of reaction = k × 1  × 1  = k
+ Hence the speciic rate constant of a chemical reaction is the rate of r eaction when the 
+concentrations of the reactants are unity . Under the given conditions, k remains constant, but it 
+changes with temperature.
+Animation 11.5: Velocity Constant
+Source & Credit : wikia811 REACTION KINETICS eLearn.Punjab
+11.1.3 Order of Reaction
+For a general reaction between A and B where ‘a’ moles of A and ‘b ’ moles of B react to form ’c’ 
+moles of C and ’d’ moles of D.
+    aA + bB  cC + dD →
+We can write the rate equation as:
+     abR =k [A]  [B]
+ The exponent ’a’ or ‘b’ gives the order of reaction with respect to the in dividual reactant. Thus 
+the reaction is of order ‘a’ with respect to A and of order b with res pect to B. The overall order 
+of reaction is (a+b). The order of reaction is given by the sum of all the exponents to which  the 
+concentrations in the rate equation are raised. The order of reaction ma y also be deined as the 
+number of reacting molecules, whose concentrations alter as a result of the chemical change.
+ It is important to note that the order of a reaction is an experimentally  determined quantity 
+and can not be inferred simply by looking at the reaction equation.  The sum of the exponents in 
+the rate equation may or may not be the same as in a balanced chemi cal equation. The chemical 
+reactions are classiied as zero, irst, second and third order rea ctions. The order of reaction provides 
+valuable information about the mechanism of a reaction.
+Animation 11.6: Rate and Order of Reac-
+tion
+Source & Credit : science.uwaterloo911 REACTION KINETICS eLearn.Punjab
+Examples of Reactions Showing Different Orders
+1.  Decomposition of nitrogen pentoxide involves the following equation.
+    25 24 22N O (g)   2N O (g) + O (g) →
+The experimentally determined rate equation for this reaction is as fol lows:
+     25 Rate = k[N O ]
+This equation suggests that the reaction is irst order with respect to th e concentration of N2O5.
+2.  Hydrolysis of tertiary butyl bromide
+  
+3CH     3CH  
+    3CH  C 2Br + H O → 3CH   C OH + HBr  
+  3CH     3CH  
+The rate equation determined experimentally for this reaction is
+     33 Rate = k[(CH ) CBr]
+ The rate of reaction remains efectively independent of the concentration of water because, 
+being a solvent, it is present in very large excess. Such type of rea ctions have been named as 
+pseudo irst order reactions.
+3.  Oxidation of nitric oxide with ozone has been shown to be irst or der with respect to NO and 
+irst order with respect to O3. The sum of the individual orders gives the overall order of reaction as 
+two.
+    3 22 NO(g)+O (g) NO (g)+O (g) →
+     3 Rate = k[NO][O ]
+4.  Consider the following reaction
+   3 222FeCl (aq) + 6KI(aq) 2FeI (aq) + 6KCI(aq) + I →1011 REACTION KINETICS eLearn.Punjab
+ This reaction involves eight reactant molecules but experimentally it h as been found to be a 
+third order reaction.
+    2
+3 Rate = k[FeCl ][KI]
+ This rate equation suggests that the reaction is, in fact, taking place in more than one steps. 
+The possible steps of the reaction are shown below.   
+    slow
+32FeCl (aq) + 2KI(aq) FeI (aq) + 2KCI(aq) + C l (aq)−  → 
+    fast -
+2 2KI(aq) + 2Cl (aq) 2KCl(aq) + I (s)  →
+5.  The order of a reaction is usually positive integer or a zero, b ut it can also be in fraction or can 
+have a negative value. Consider the formation of carbon tetrachloride from  chloroform.
+  
+    32 4CHCl ( )+Cl (g) CCl ( )+HCl(g) → 
+    1/2
+32 Rate = k[CHCl ][Cl ]
+The sum of exponents will be 1 + 1/2= 1.5, so the order of this r eaction is 1.5.
+ From the above examples, it is clear that order of reaction is not neces sarily depending upon 
+the coeients of balanced equation. The rate equation is an experimental expression. A reaction 
+is said to be zero order if it is entirely independent of the concentrati on of reactant molecules. 
+Photochemical reactions are usually zero order.
+11.1.4 Half Life Period
+ Half life period of a reaction is the time required to convert 50% of th e reactants into products. 
+For example, the half life period for the decomposition of N2O5 at 45°C is 24 minutes.
+ It means that if we decompose 0.10 mole dm-3 of N2O5 at 45 °C, then after 24 minutes 0.05 
+mole dm-3 of N2O5 will be left behind. Similarly after 48 minutes 0.025(25%)  mole dm-3 of N2O5 will 
+remain unreacted and after 72 minutes (3 half times) 0.0125 ( 12.5%) mole dm-3 of N2O5, will remain 
+unreacted.1111 REACTION KINETICS eLearn.Punjab
+ Decomposition of N2O5 is a irst order reaction and the above experiment proves that the 
+half-life period of this reaction is independent of the initial conc entration of N2O5. This is true for all 
+irst order reactions. The disintegration of radioactive 235
+92U has a half-life of 7.1x108 or 710 million 
+years. If one kilogram sample disintegrates, then 0.5 kg of it i s converted to daughter elements in 
+710 million years. Out of 0.5 kg of 235
+92U, 0.25kg disintegrates in the next 710 million years. So, the 
+half-life period for the disintegration of a radioactive substance i s independent of the amount of 
+that substance.
+ What is true for the half-life period of irst order reactions does n ot remain true for the 
+reactions having higher orders. In the case of second order reaction,  the half-life period is inversely 
+proportional to the initial concentration of the reactant. For a third ord er reaction, half life is 
+inversely proportional to the square of initial concentration of reactants . Briely we can say that
+    1/2 1 1/2 1 o1 0.693[t ] ,  scince[t ] =  ak∝
+  
+    1/2 2 1/2 2 1
+a11[t ] ,  scince[t ] =  ak∝
+Where 1/2 1[t ], 1/2 2[t ], and 1/2 3[t ] are the half-life periods for 1st, 
+2nd and 3rd order reactions respectively and ‘a’ is the initial 
+concentration of reactants. In general for the reaction of nth 
+order:
+     1/2 n n-11[t ]a∝
+ The half-life period of any order reaction is, thus, inversely 
+proportional to the initial concentration raised to the power 
+one less than the order of that reaction. So, if one knows the 
+initial concentration and half-life period of a reaction, then 
+order of that reaction can be determined.1/2 3 1/2 3 221 1.5[t ] ,  scince[t ] =  
+a ka∝
+Animation 11.7: Half Life
+Source & Credit : askiitians1211 REACTION KINETICS eLearn.Punjab
+Example 1:
+ Calculate the half-life period of the following reaction when the in itial concentration of HI is 
+0.05 M.
+    22 2HI(g) H (g) + I (g) ฀     
+The value of rate constant k = 0.079 dm3 mol-1 s-1 at 508 °C and rate expression is
+    
+    2Rate = k[HI]
+Solution:
+ According to the rate expression it is a second order reaction. The h alf life paired of a second 
+order reaction is
+    1 2-1
+2211t =  =  ka ka
+
+Putting the values of k and a.
+ So,
+   1 3 -1 -1 -3
+2211 1t =  =  sec.k x a (0.079dm mol s )(0.050moldm ) 0.079 x 0.05= 
+  
+    1
+22t = 253secAnswer
+
+ So, in 253 seconds, the half of HI i.e., 0.05/2=0.025 moles  is decomposed.
+11.1.5 Rate Determining Step
+ Finding out the rate equation of a reaction experimentally is very us eful. Actually it gives us 
+an opportunity to look into the details of reaction. Rate equation of exampl e (4) in article 11.1.3 
+showed clearly that the reaction is taking place in more than one step s. There are many such 
+reactions in chemistry which occur in a series of steps.1311 REACTION KINETICS eLearn.Punjab
+ If a reaction occurs in several steps, one of the steps is the slowest.  The rate of this step 
+determines the overall rate of reaction. This slowest step is called the r ate determining or rate 
+limiting step. The total number of molecules of reacting species taki ng part in the rate determining 
+step appear in the rate equation of the reaction.
+ Let us consider the following reaction
+    22NO (g) + CO(g) NO(g) + CO (g) →
+ The rate equation of the reaction is found to be
+    2
+2 Rate = k[NO ]
+ This equation shows that the rate of reaction is independent of the conc entration of carbon 
+monoxide. In other words the equation tells us that reaction involves more th an one steps and 
+two molecules of NO2 are involved in the rate determining step. The proposed mechanism for this 
+reaction is as follows.
+ slow
+22 3NO (g) + NO (g) NO (g) + NO(g)   → (rate determining step)
+ fast
+3 22NO (g) + CO(g) NO (g) + CO (g)  →
+The irst step is the rate determining step and 
+NO3 which does not appear in the inal balanced 
+equation, is called the reaction intermediate. 
+The reaction intermediate has a temporary 
+existence and it is unstable relative to the 
+reactants and the products.  This is a species 
+with normal bonds and may be stable enough 
+to be isolated under special conditions. This 
+reaction is a clear example of the fact that a 
+balanced chemical equation may not give 
+any information about the way the reaction 
+actually takes place.
+Animation 11.8: Rate Determining Step
+Source & Credit : 800mainstreet1411 REACTION KINETICS eLearn.Punjab
+11.2.0 DETERMINATION OF THE RATE OF A CHEMICAL REAC TION
+ Determination of the rate of a chemical reaction involves the measurement of the concentration 
+of reactants or products at regular time intervals as the reaction prog resses. When the reaction 
+goes on, the concentrations of reactants decrease and those of products in crease. The rate of a 
+reaction, therefore, is expressed in terms of the rates at which the conc entrations change.
+   -3C mol dmRate of reaction =  = t seconds∆
+∆
+     -3 -1=mol dm s
+ Suppose, the concentration of a reactant of any chemical reaction ch anges by 0.01 mol dm-3 
+in one second, then rate of reaction is, 0 .01 mole dm-3 s-1.
+ Rate of a chemical reaction always decreases with the passage of time during the progress of 
+reaction. To determine the rate of reaction for a 
+given length of time, a graph is plotted between 
+time on x-axis and concentration of reactant on 
+y-axis whereby a curve is obtained.
+ To illustrate it, let us investigate the 
+decomposition of HI to H2 and I2 at 508°C. 
+Table(11.1) tells us that the change in 
+concentration of HI for irst 50 seconds is 0.0284 
+mol dm-3 but between 300 to 350 sec, the 
+decrease is 0.0031 mol dm3. By using the data, a 
+graph is plotted as shown in Fig (11.2). The graph 
+is between time on x-axis and concentration of 
+HI in mol dm-3 on y-axis. Since HI is a reactant, 
+so it is a falling curve. The steepness of the 
+concentration-time curve relects the progress 
+of reaction. Greater the slope of curve near the 
+start of reaction, greater is the rate of reaction.
+Fig.(l1.2) T he change in the HI concentration with ti me for the
+reaction 22 2HI(g) H (g) + I (g) ฀  at 508°C.1511 REACTION KINETICS eLearn.Punjab
+ 
+In order to measure the rate of reaction, draw a tangent say, at 100 seconds, on the curve and 
+measure the slope of that tangent. The slope of the tangent is the rate of rea ction at that point 
+i.e., after 100 seconds. A right angled triangle ABC is compl eted with a tangent as hypotenuse. Fig. 
+(11.2) shows that in 110 sec, the change in concentration is 0. 027 mole dm-3, and hence the
+    -30.027mol dmSlope or rate = 110 sec
+   
+    -4 -3 -1=2.5x10  mol dm sConcentration of
+HI (mol dm-3)Time (s)
+0.100
+0.0716
+0.0558
+0.0457
+0.0387
+0.0336
+0.0296
+0.02650
+50
+100
+150
+200
+250
+300
+350Table (11.1) Change in 
+concentration of HI with regular 
+intervals 22 2HI(g) H (g) + I (g) ฀
+Animation 11.9: Chemical Reaction Rates
+Source & Credit : crescentok1611 REACTION KINETICS eLearn.Punjab
+ This value of rate means that in a period of one sec in 1 dm3 solution, the concentration of HI 
+disappears by 2.5 x 10-4 moles, changing into the products.
+ The right angled triangle ABC can be of any size, but the resu lts for the rate of reaction will be 
+the same.
+ If we plot a graph between time on x-axis and concentration of any  of the products i.e H2 or I2, 
+then a rising curve is obtained. The value of the tangent at 100 secon ds will give the same value of 
+rate of reaction as 2.5 x 10-4 mol dm-3S-1.
+ The change in concentrations of reactants or products can be determi ned by both physical 
+and chemical methods depending upon the type of reactants or products  involved.
+11.2.1 Physical Methods
+ Some of the methods used for this purpose cure the following: In these methods, a curve has 
+to be plotted as mentioned in 11.2.0. The nature of the curve may be ri sing for products and falling 
+for reactants. Anyhow, the results will be same for the same reacti on under the similiar conditions.
+(i)  Spectrometry 
+ This method is applicable if a reactant or a product absorbs u ltraviolet, visible or infrared 
+radiation. The rate of reaction can be measured by measuring the a mount of radiation absorbed.
+Animation 11.10: Electrical Conductivity of materia ls focused on polymer
+Source & Credit : wikidot1711 REACTION KINETICS eLearn.Punjab
+(ii)  Electrical Conductivity Method
+ The rate of a reaction involving ions can be studied by electrical conductivity method. The 
+conductivity of such a solution depends upon the rate of change of con centration of the reacting 
+ions or the ions formed during the reaction. The conductivity will b e proportional to the rate of 
+change in the concentration of such ions.
+(iii)  Dilatometric Method
+ This method is useful for those reactions, which involve small volu me changes in solutions. 
+The volume change is directly proportional to the extent of reaction.
+(iv)  Refractrometric Method
+ This method is applicable to reactions in solutions, where there ar e changes in refractive 
+indices of the substances taking part in the chemical reactions.
+(v)  Optical Rotation Method
+ In this method, the angle through which plane polarized light i s rotated by the reacting mixture 
+is measured by a polarimeter. The extent of rotation determ ines the concen tration of optically 
+active substance. If any of the species in the reaction mixture is op tically active, then this method 
+can be followed to ind out the rate of reaction.
+11.2.2 Chemical Method
+ This is particularly suitable for reactions in solution. In this method, we do the chemical 
+analysis of a reactant or a product.
+ The acid hydrolysis of an ester (ethyl acetate) in the presence of a  small amount of an acid is 
+one of the best examples.
+    +H (catalyst)
+3 25 2 3 25CH COOC H ( ) + H O( ) CH COOH( ) + C H OH( ) ฀฀฀฀฀฀ ฀    ฀ ฀฀฀฀฀ ฀1811 REACTION KINETICS eLearn.Punjab
+ In case of hydrolysis of an ester, the solution of ester in water an d the acid acting as a catalyst 
+are allowed to react. After some time, a sample of reaction mixture is withdrawn by a pipette 
+and run into about four times its volume of ice cold water. The dilu tion and chilling stops the 
+reaction. The acid formed is titrated against a standard alkali , say NaOH, using phenolphthalein as 
+an indicator.
+The analysis is repeated at various time intervals after the start of r eaction. This would provide 
+an information about the change in concentration of acetic acid form ed during the reaction at 
+diferent time intervals. The diferent concentrations of acetic acid are plotted against the time 
+whereby a rising curve is obtained as shown in Fig (11.3). 
+The slope of the curve at any point will give the rate of reaction. Initi ally, the rate of reaction is high 
+but it decreases with the passage of time. When the curve becomes horizon tal, the rate becomes 
+zero.
+ If we plot the graph for decreasing concentrations of CH3COOC2H5, then falling curves 
+are obtained as shown in Fig.(11.2) If we have any laboratory technique to record the changing 
+concentration of ester or alcohol, we can measure the rate of the reaction. This is a pseudo irst 
+order reaction. Actually water being in large excess in comparis on to ester does not afect the rate 
+and we think that water is not taking part in the reaction.
+Fig. (11.3 ) Measurement of rate of ester hydrolysis1911 REACTION KINETICS eLearn.Punjab
+11.3. ENERGY OF ACTIVATION
+ For a chemical reaction to take place, the particles atoms, ions or molecules of reactants must 
+form a homogeneous mixture and collide with one another. These collisi ons may be efective or 
+inefective depending upon the energy of the colliding particles. When these collisions are efective 
+they give rise to the products otherwise the colliding particles just bou nce back. The efective 
+collisions can take place only when the colliding particles wil l possess certain amount of energy 
+and they approach each other with the proper orientation. The idea of p roper orientation means 
+that at the time of collision, the atoms which are required to make new bonds should collide with 
+each other. The minimum amount of energy, required for an efective collision is  called activation 
+energy.
+ If all the collisions among the reacting species at a given tempera ture are efective in forming 
+the products, the reaction is completed in a very short time. Most of the r eactions, are, however, 
+slow showing that all the collisions are not equally efective.
+Animation 11.11: Chemical Method
+Source & Credit : fg-a2011 REACTION KINETICS eLearn.Punjab
+ Let us study a reaction between molecules A2 and B2 to form a new molecule AB. If these 
+molecules will have energy equal to or more than the activation energy, th en upon collisions their 
+bonds will break and new bonds will be formed. The phenomenon i s shown in Fig. (11.4)
+ Activated complex is an unstable combination of all the atoms involved  in the reaction 
+for which the energy is maximum. It is a short lived species an d decomposes into the products 
+immediately. It has a transient existence, that is why it is also called a transition state.
+ When the colliding molecules come close to each other at the time of colli sion, they slow 
+down, collide and then ly apart. If the collision is efective then th e molecules lying apart are 
+chemically diferent otherwise the same molecules just bounce back.
+ When the molecules slow down just before the collision, their kinetic energy decreases and 
+this results in the corresponding increase in their potential energy.  The process can be understood 
+with the help of a graph between the path of reaction and the potential en ergy of the reacting 
+molecules. Fig. (11.5a,b)
+ The reactants reach the peak of the curve to form the activated complex. Ea is the energy of 
+activation and it appears as a potential energy hill between the reacta nts and the products. Only, 
+the colliding molecules with proper activation energy, will be able to climb up the hill and give the 
+products. If the combined initial kinetic energy of the reactants is  less than Ea, they will be unable 
+to reach the top of the hill and fall back chemically unchanged .
+ This potential energy diagram can also be used to study the heat evol ved or absorbed during 
+the reaction. The heat of reaction is equal to the diference in potential en ergy of the reactants and 
+the products. For exothermic reactions, the products are at a lower energ y level than the reactants 
+and the decrease in potential energy appears as increase in kinetic  energy of the products Fig. 
+(11.5a). For endothermic reactions, the products are at higher ener gy level than the reactants and 
+for such reactions a continuous source of energy is needed to complete th e reaction Fig. (11.5b).
+Fig. (11.4) Collisions of molecules, formation of activat ed complex and formation of products2111 REACTION KINETICS eLearn.Punjab
+ 
+ The energy of activation of forward and backward reactions are d iferent for all the reactions. 
+For exothermic reactions the energy of activation of forward reaction is less than that of backward 
+reaction, while reverse is true for endothermic reactions. Energy of ac tivation of a reaction provides 
+a valuable information about the way a reaction takes place and thu s helps to understand the 
+reaction.
+Fig. (11.5) A graph between path of reaction and the potential energy of the reaction2211 REACTION KINETICS eLearn.Punjab
+ 
+11.4 FINDING THE ORDER OF REACTION
+ The order of a reaction is the sum of exponents of the concentration terms  in the rate 
+expression of that reaction.
+ It can be determined by the following methods.
+(i)  Method of hit and trial
+(ii)  Graphical method
+(iii)  Diferential method
+(iv)  Half life method
+(v)  Method of large excess
+Here we will only discuss half-life method and the method of larg e excess.
+Animation 11.12: Activation Energy and Spontaneous reactions
+Source & Credit : thompsona2311 REACTION KINETICS eLearn.Punjab
+11.4.1 Half Life Method
+ As mentioned earlier, half life of a reaction is inversely proporti onal to the initial concentration 
+of reactants raised to the power one less than the order of reaction.
+ Therefore,    1/2 n n-11(t )a∝
+ Let us perform a reaction twice by taking two diferent initial conc entrations ‘a1’ and ‘a2’ and 
+their half-life periods are found to be t1 and t2 respectively.
+    12 n-1 n-1
+1211t and taa∝∝
+Dividing the two relations:  n-1
+12
+21ta=ta
+
+Taking log on both sides:  12
+21talog =(n-1)logta
+
+Animation 11.13: Determination of Order of a Reacti on
+Source & Credit : askiitians2411 REACTION KINETICS eLearn.Punjab
+       1
+2
+2
+1tlogtn1
+aloga
+−=
+
+Rearranging     1
+2
+2
+1tlogtn1
+aloga
+= +
+
+So, if we know the two initial concentrations and two half life valu es we can calculate the order of 
+reaction (n).
+Example 2:
+ In the thermal decomposition of N2O at 760 °C, the time required to decompose half of 
+the reactant was 255 seconds at the initial pressure of 290 mm Hg  and 212 seconds at the initial 
+pressure of 360 mmHg. Find the order of this reaction.
+Animation 11.14: Half Life
+Source & Credit : wikipedia2511 REACTION KINETICS eLearn.Punjab
+Solution:
+ The initial pressures of N2O(g) are the initial concentrations.
+ Data  1a  = 290mm Hg 1t  = 255 seconds
+   2a  = 360mm Hg 2t  = 212 seconds
+Formula used
+    1
+2
+2
+1tlogtn1
+aloga
+= +
+
+Putting the values in the above equation
+    255log212n1360log290
+= +
+
+    0.0802n = 1+0.0940
+    n = 1 + 0.85 = 1.85 2 ≈
+ 1.85 is close to 2, hence the reaction is of second order.
+11.4.2 Method of Large Excess
+ In this method, one of the reactants is taken in a very small amoun t as compared to the rest 
+of the reactants. The active masses of the substances in large excess remain constant throughout. 
+That substance taken in small amount controls the rate and the order is noted with respect to that.
+ The reason is that a small change in concentration of a substan ce taken in very small amount 
+afects the value of rate more appreciably. The hydrolysis of ethyl a cetate as mentioned earlier 
+shows that water being in large excess does not determine the order.2611 REACTION KINETICS eLearn.Punjab
+ In this way, the reaction is repeated by taking rest of the substan ces in small amounts one by 
+one and overall order is calculated. The method will be further elab orated in article 11.5.2.
+11.5. F ACTORS AFFECTING RATES OF REACTIONS
+ All those factors which change the number of efective collisions per  second, afect the rate 
+of a chemical reaction. Some of the important factors are as follows.
+11.5.1 Nature of Reactants
+ The rate of reaction depends upon the nature of reacting substances. The chemical reactivity 
+of the substances is controlled by the electronic arrangements in their  outermost orbitals. The 
+elements of I-A group have one ejectron in their outermost s-orbital. They react with water more 
+swiftly than those of II-A group elements having two electrons in their  outermost s-orbital. Similarly, 
+the neutralization and double decomposition reactions are very fast as compared to those reactions 
+in which bonds are rearranged. Oxidation-reduction reactions i nvolve the transfer of electrons and 
+are slower than ionic reactions.
+Animation 11.15: FACTORS AFFECTING 
+RATES OF REACTIONS
+Source & Credit : askiitians2711 REACTION KINETICS eLearn.Punjab
+11.5.2 Concentration of Reactants
+ The reactions are due to collisions of reactant molecules. The frequen cy with which the 
+molecules collide depends upon their concentrations. The more crowded th e molecules are, the 
+more likely they are to collide and react with one another. Thus, an increase in the concentrations 
+of the reactants will result in the corresponding increase in the rea ction rate, while a decrease in 
+the concentrations will have a reverse efect. For example, combustion that occurs slowly in air (21 
+% oxygen) will occur more rapidly in pure oxygen.
+ Similarly, limestone reacts with diferent concentrations of hydroch loric acid at diferent rates. 
+In the case of a gaseous reactant, its concentration can be increased  by increasing its pressure. 
+Therefore, a mixture of H2 and Cl2 will react twice as fast if the partial pressure of H2 or Cl2 is 
+increased from 0.5 to 1.0 atmosphere in the presence of excess of the oth er component.
+ The efect of change in concentration on the rate of a chemical reaction  can be nicely 
+understood from the following gaseous reaction.
+  2 22 2NO(g) + 2H (g) 2H O(g) + N (g) →
+ In this reaction, four moles of the reactants form three moles of the pr oducts, so the pressure 
+drop takes place during the progress of reaction. The rates of reacti on between NO and H2 at 
+800°C are studied by noting the change in pressure. The followin g Table (11.2 ) has been obtained 
+experimentally for the above reaction.
+Animation 11.16: Reactants
+Source & Credit : giphy2811 REACTION KINETICS eLearn.Punjab
+Table (11.2)shows the results of six experiments. In the irst three experiments the concentration 
+of H2 is increased by keeping the concentration of NO constant. By doubl ing the concentration of 
+H2, the rate is doubled and by tripling the concentration of H2, the rate is tripled. So, the rate of 
+reaction is directly proportional to the irst power of concentration of H2.
+     2 Rate [H ]∝
+In the next three experiments, the concentration of H2 is kept constant. By doubling the concentration 
+of NO, the rate increases four times and by tripling the concentrati on of NO the rate is increased 
+nine times. So, the rate is proportional to the square of concentration of NO.
+     2Rate [NO]∝
+The overall rate equation of reaction is,
+     2
+2 Rate [H ][NO]∝
+  or   12
+2 Rate = k[H ][NO]
+ Hence, the reaction is a third order one. This inal equation is th e rate law for this reaction. 
+It should be kept in mind that rate law cannot be predicted from the balanced chemical equation. 
+This set of experiments helps us to determine the order of reaction as wel l.Table (11.2) Effect of change in 
+concentrations of reactants on 
+the rate of reaction
+[NO] in
+(mol dm-3)[H2] in
+(mol dm-3)Initial rate
+(atm min-1)
+0.006
+0.006
+0.006
+0.001
+0.002
+0.0030.001
+0.002
+0.003
+0.009
+0.009
+0.0090.025
+0.050
+0.075
+0.0063
+0.025
+0.0562911 REACTION KINETICS eLearn.Punjab
+ The possible mechanism consisting of two steps for the reaction is as follows:
+(i) slow
+2 2 22 2NO(g) + H (g)  N (g) + H O (g)   →  (rate determining)
+(ii)  fast
+22 2 2H O (g) H (g) 2H O(g) +  →
+The step (i) is slow and rate determining.
+11.5.3 Surface Area
+ The increased surface area of reactants, increases the possibili ties of atoms and molecules of 
+reactants to come in contact with each other and the rates enhance. For ex ample, AI foil reacts with 
+NaOH moderately when warmed, but powdered AI reacts rapidly with  cold NaOH and H2 is evolved 
+with frothing.
+   2 42 2AI + 2NaOH + 6H O 2NaAI(OH)  + 3H →
+Animation 11.17: Concentration of Reactants
+Source & Credit : socratic3011 REACTION KINETICS eLearn.Punjab
+ Similarly, CaCO3 in the powder form reacts with dilute H2SO4 more eiciently than its big 
+pieces.
+11.5.4 Light
+Light consists of photons having deinite 
+amount of energies depending upon 
+their frequencies. When the reactants 
+are irradiated, this energy becomes 
+available to them and rates of reactions 
+are enhanced. The reaction of CH4 and 
+Cl2 requires light. The reaction between 
+H2 and Cl2 at ordinary pressure is 
+negligible in darkness, slow in daylight, 
+but explosive in sunlight. Similarly, light 
+is vital in photosynthesis, and the rate is 
+inluenced by light.
+Animation 11.18: Surface Area
+Source & Credit : darelhardy
+Animation 11.19: Light
+Source & Credit : wikipedia3111 REACTION KINETICS eLearn.Punjab
+11.5.5 Effect of Temperature on Rate of Reaction
+ The collision theory of reaction rates convinces us that the rate of a r eaction is proportional to 
+the number of collisions among the reactant molecules. Anything, tha t can increase the frequency 
+of collisions should increase the rate. We also know, that every colli sion does not lead to a reaction. 
+For a collision, to be efective the molecules must possess the activation ener gy and they must also 
+be properly oriented. For nearly all chemical reactions, the activati on energy is quite large and at 
+ordinary temperature very few molecules are moving fast enough to have thi s minimum energy.
+ All  the molecules of a reactant do not possess the same energy at a p articular temperature. 
+Most of the molecules will possess average energy. A fraction of total m olecules will have energy 
+more than the average energy. This fraction of molecules is indicated  as shaded area in Fig.(11.6).
+ As the temperature increases, the number of molecules in this fracti on also increases. There 
+happens a wider distribution of velocities. The curve at higher temper ature T2 has lattened. It shows 
+that molecules having higher 
+energies have increased and 
+those with less energies have 
+deceased. So, the number of 
+efective collisions increases 
+and hence the rate increases. 
+When the temperature of the 
+reacting gases is raised by 
+10K, the fraction of molecule 
+with energy more than Ea 
+roughly doubles and so the 
+reaction rate also doubles.
+Arrheinus has studied the 
+quantitative relationship 
+between temperature, energy 
+of activation and rate constant 
+of a reaction.
+ Fig. (11.6) Kinetic energy distributions for a reaction  mixture at two different
+temperatures. The size of the shaded areas under the curves are proportional
+to the total fraction of the molecules that possess the minimum activation energy.3211 REACTION KINETICS eLearn.Punjab
+11.5.6 Arrhenius Equation
+ Arrhenius equation explains the efect of temperature on the rate constant of a reaction. The 
+rate constant ‘k’ for many simple reactions is found to vary with temperature.
+According to Arrhenius:
+   -Ea/RTk=Ae ........ (1)
+ So, ‘k’ is exponentially related to activation energy (Ea) and temperature (T). R is general gas 
+constant and e is the base of natural logarithm. The equation shows  that the increase in temperature, 
+increases the rate constant and the reactions of high activation energy have low ’k’ values. 
+Animation 11.20: Effect of Temperature on Rate of R eaction
+Source & Credit : dynamicscience3311 REACTION KINETICS eLearn.Punjab
+The factor ‘A’ is called Arrhenius constant and it depends upon  the collision frequency of the reacting 
+substances. This equation helps us to determine the energy of activation  of the reaction as well. 
+For this purpose, we take natural log of Arrhenius equation, whic h is expressed as n. The base of 
+natural log is e and its value is 2.718281.
+Now, take natural log on both sides
+   -Ea/RTnk = n(Ae )
+or   -Ea/RTnk = nA + ne 
+or   -Enk = nA + neRT 
+Since   ne = 1    (log of a quantity with same base is unity)
+Therefore  a-Enk =  + nA                    ...........  (2)RT
+ The equation (1) is the equation of straight line, and from the sl ope of straight line Ea can be 
+calculated. In order to convert this natural log into common log of ba se 10, we multiply the n term 
+with 2.303.
+   a-E2.303 log k =  + 2.303 log ART   (The base of common log is 10)
+Dividing the whole equation by 2.303
+ a-Elog k =  + log A                   ..... ......  (3)2.303RT
+ This equation (3) is again the equation of straight line resembl ing.
+    y = -mx + c
+ Where ‘m’ is slope of straight line and ‘c’ is the intercept of s traight line. Temperature is inde -
+pendent variable in this equation while rate constant k is dependent va riable. The other factors like 
+Ea, R and A are constants for a given reaction.
+ When a graph is plotted between 1
+T on x-axis and log k on y-axis, a straight line is obtained 
+with a negative slope. Actually, aE
+RT has negative sign so the straight line has two ends in second and   
+fourth quadrants, Fig. (11.7).3411 REACTION KINETICS eLearn.Punjab
+The slope of the straight line is measured by taking the tangent of th at angle θ which 
+this straight line makes with the x-axis. To measure the slope, dr aw a line parallel to 
+x-axis and measure angle θ . Take tan θ which is slope. This slope is equal to a-E
+2.303R .
+    a-ESlop = 2.303 R
+Therefore   aE = -Slop x 2.303 R                        ..........(4)
+ The straight lines of diferent reactions will have diferent slopes a nd diferent ‘Ea’ values. The 
+units of slope are in kelvins (K).
+Since    -1
+-1 -1J molSlop =  = K2.303 JK mol
+Fig. (11.7) Arrhenuis plot to calculate the energy of activation3511 REACTION KINETICS eLearn.Punjab
+Example 3:
+ A plot of Arrhenius equation Fig (11.8 ) for 
+the thermal decompositions of N2O5 is shown 
+in the following igure. The slope is found to be 
+-5400 K. Calculate the energy of activation of 
+this reaction.
+Solution:
+(i)  The reaction is
+ 25 2 2N O 2NO +1/2O ฀
+Animation 11.21: Arrhenius Equation
+Source & Credit : wps
+Fig. (11.8) Arrhenius plot for decomposition of N2O53611 REACTION KINETICS eLearn.Punjab
+ Slope of the straight line = -5400 K
+ Equation used,   Ea = -slope x 2.303 R
+     R = 8.3143JK-1mol-1
+ Putting the values,
+  Ea =-(-5400K)x 2.303 x 8.3143JK-1mol-1
+  Ea= +103410 J mol-1
+  Ea = 103.410 kJ mol-1
+ Hence, the decomposition of N2O needs 103.4kJmol-1 energy more than the average energy 
+to cross the energy barrier Fig.(11.9)
+ 
+11.6 CATAL YSIS
+ A catalyst is deined as a substance which alters the rate of a chemical reaction, but remains 
+chemically unchanged at the end of the reaction. A catalyst is of ten present in a very small proportion. 
+For example, the reaction between H2 and O2 to form water is very slow at ordinary temperature, 
+but proceeds more rapidly in the presence of platinum. Platinum a cts as a catalyst. Similarly, KClO3 
+decomposes much more rapidly in the presence of a small 
+amount of MnO2. HCl is oxidised to Cl2 in the presence of CuCl2.
+Fig. (11.9) Potential energy diagram of N2O5 decomposition3711 REACTION KINETICS eLearn.Punjab
+   2CuCl
+2 224HCl+O 2H O+2Cl   →
+ The process, which takes place in the presence of a catalyst, is called catalysis.  A catalyst 
+provides a new reaction path with a low activation energy barrier, F ig.(11.10). A greater number of 
+molecules are now able to get over the new energy barrier and reaction ra te increases.
+Fig. (11.10) Catalyzed and uncatalyzed reactions.
+Animation 11.22: CATALYSIS
+Source & Credit : lsa.umich3811 REACTION KINETICS eLearn.Punjab
+Types of Catalysis
+(a)  Homogeneous Catalysis
+(b)  Heterogeneous Catalysis
+(a)  Homogeneous Catalysis
+ In this process, the catalyst and the reactants are in the same pha se and the reacting system 
+is homogeneous throughout. The catalyst is distributed uniformly thr oughout the system. For 
+example:
+(i).  The formation of SO3 (g) from SO2 (g) and O2 (g) in the lead chamber process for the manufacture 
+of sulphuric acid, needs NO (g) as a catalyst. Both the reacta nts and the catalyst are gases.
+    NO(g)
+22 32SO (g) + O (g)  2SO (g) ฀฀฀฀ ฀฀ ฀฀฀ ฀
+(ii).  Esters are hydrolysed in the presence of H2SO4. Both the reactants and the catalyst are in the 
+solution state.
+   +
+3
+24HO
+3 25 2 3 25 H SOCH COOC H (aq) + H O( )  CH COOH(aq) + C H OH(aq ) ฀฀฀฀ ฀฀ ฀฀฀ ฀
+(b)  Heterogeneous Catalysis
+ In such systems, the catalyst and the reactants are in diferent p hases. Mostly, the catalysts 
+are in the solid phase, while the reactants are in the gaseous or li quid phasse. For example:
+(i).  Oxidation of ammonia to NO in the presence of platinum gau ze helps us to manufacture 
+HNO3.
+   Pt(s)
+32 24NH (g) + 5O (g)  4NO(g) + 6H O(g) ฀฀฀฀ ฀฀ ฀ ฀ ฀฀
+(ii)  Hydrogenation of unsaturated organic compounds are catalys ed by inely divided Ni, Pd or Pt.
+   Ni(s)
+2 2 2 33CH   =  CH (g) + H (g)  CH  - CH (g) ฀฀฀฀ ฀฀ ฀฀฀ ฀3911 REACTION KINETICS eLearn.Punjab
+11.6.1 Characteristics of a Catalyst
+ There are many types of catalysts with varying chemical composi tions, but the following 
+features are common to most of them.
+1. A catalyst remains unchanged in mass and chemical comp osition at the end of reaction. It may 
+not remain in the same physical state. MnO2 is added as a catalyst for the decomposition of 
+KClO3 in the form of granules. It is converted to ine powder at the end of rea ction. It has been 
+found in many cases that the shining surfaces of the solid cata lyst become dull.
+2. Sometimes, we need a trace of a metal catalyst to afect very large am ount of reactants. For 
+example, 1 mg of ine platinum powder can convert 2.5 dm3 of H2 and 1.25 dm3 of O2 to water. 
+Dry HCl and NH3 don’t combine, but in the presence of trace of moisture, they give dense white 
+fumes of NH4Cl. Thousands of dm3 of H2O2, can be decomposed in the presence of 1 g of colloidal 
+platinum.
+3. A catalyst is more afective, when it is present in a inely divi ded form. For example, a lump of 
+platinum will have much less catalytic activity than colloidal platinum. In the hydrogenation of 
+vegetable oils inely divided nickel is used. 
+4.  A catalyst cannot afect the equilibrium constant of a reaction but it helps the equilibrium to be 
+established earlier. The rates of forward and backward steps ar e increased equally.
+5. A catalyst cannot start a reaction, which is not thermodynamic ally feasible. It is now considered 
+that a catalyst can initiate a reaction. The mechanism of a catal ysed reaction is diferent from 
+that of an uncatalysed reaction.
+For example:
+(i)  The presence of CO as an impurity with hydrogen decreases the catalytic activity of catalyst in 
+the Haber’s process for the manufacture of NH3.
+(ii) The manufacture of H2SO4 in the contact process needs platinum as a catalyst. The traces of  
+arsenic present as impurities in the reacting gases makes platin um inefective. That’s why arsenic 
+puriier is employed in the contact process.4011 REACTION KINETICS eLearn.Punjab
+11.6.2 Activation of Catalyst
+ Such a substance which promotes the activity of a catalyst is ca lled a promotor or activator. It 
+is also called “catalyst for a catalyst”. For example :
+(i)  Hydrogenation of vegetable oils is accelerated by nickel. The c atalytic activity of nickel can be 
+increased by using copper and tellurium.
+(ii)  In Haber’s process for the manufacture of ammonia, iron is used as a catalyst. If small amounts 
+of some high melting oxides like aluminum oxide, chromium oxide or rare earth oxides are added, 
+they increase the eiciency of iron.
+Negative Catalysis
+ When the rate of reaction is retarded by adding a substance, then it is said to be a negative 
+catalyst or inhibitor. For example, tetraethyl lead is added to petrol,  because it saves the petrol 
+from pre-ignition.
+Animation 11.23: Characteristics of a Catalyst
+Source & Credit : logilent4111 REACTION KINETICS eLearn.Punjab
+Autocatalyst
+In some of the reactions, a product formed acts as a catalyst. Thi s phenomenon is called auto- 
+catalysis. For example:
+(i)  When copper is allowed to react with nitric acid, the reaction  is slow in the beginning. It gains the 
+speed gradually and inally becomes very fast. This is due to th e formation of nitrous acid during 
+the reaction, which accelerates the process.
+(ii) The reaction of oxalic acid with acidiied KMnO4 is slow at the beginning, but after sometimes, 
+MnSO4 produced in the reaction makes it faster.  
+ 2+Mn
+4 24 2 24 4 2 22KMnO  + 3H SO  + 5(COOH) K SO  + 2MnSO  + 10CO  + 8H O   →
+11.6.3. Enzyme catalysis
+ Enzymes are the complex protein molecules and catalyze the organic reactions in the living 
+cells. Many enzymes have been identiied and obtained in the pure c rystalline state. However, the 
+irst enzyme was prepared in the laboratory in 1969. For example:
+Animation 11.24: Activation of Catalyst
+Source & Credit : dynamicscience4211 REACTION KINETICS eLearn.Punjab
+(i)  Urea undergoes hydrolysis into NH3 and CO2 in the presence of enzyme urease present in 
+soyabean.
+  2O
+    HN฀
+C Urease
+22 3 2NH +H O 2NH +CO   →
+(ii)  Concentrated sugar solution undergoes hydrolysis into gluc ose and fructose by an enzyme 
+called invertase, present in the yeast.
+  Inertase
+12 22 11 2 6 12 6 6 12 6C H O  + H O C H O  + C H O   →
+(iii)  Glucose is converted into ethanol by the enzyme zymase present in  the yeast.
+   Zymase
+6 12 6 2 5 2 C H O 2C H OH + 2CO   →
+ Enzymes have active centres on their surfaces. The molecules of a su bstrate it into-their 
+cavities just as a key its into a lock Fig. (11.11). The subs trate molecules enter the cavities, form the 
+complex, reactants and the products get out of the cavity immediately. M ichaulis and Menter(1913) 
+proposed the following mechanism for enzyme catalysis
+ E + S ES P + E → ฀
+Where 
+ E = enzyme,  S = substrate (reactant)
+ ES = activated complex,  P = product
+Fig. (11.11) Lock and key model of enzyme catalysis4311 REACTION KINETICS eLearn.Punjab
+11.6.4 Characteristics of Enzyme Catalysis
+ The role of enzyme as catalysts is like inorganic heterogeneous cata lysts. They are unique in 
+their eiciency and have a high degree of speciicity. For example:
+(i)  Enzymes are the most eicient catalysts known and they lower the energy of activation of a 
+reaction.
+(ii) Enzymes catalysis is highly speciic, for example, ur ease catalyses the hydrolysis of urea only 
+and it cannot hydrolyse any other amide even methyl urea.
+Animation 11.25: Enzyme catalysis
+Source & Credit : kth4411 REACTION KINETICS eLearn.Punjab
+(iii) Enzyme catalytic reactions have the maximum rates at an opti mum temperature.
+(iv) The pH of the system also controls the rates of the enzyme catalysed  reaction and the rate 
+passes through a maximum at a particular pH, known as an optimum pH. The activity of enzyme 
+catalyst is inhibited by a poison.
+(v) The catalytic activity of enzymes is greatly enhanced by the pr esence of a co-enzyme or activator.
+Animation 11.26: Characteristic of Enzyme
+Source & Credit : tdmu4511 REACTION KINETICS eLearn.Punjab
+KEY POINTS
+1. The studies concerned with rates of chemical reactions and fac tors that afect the rates of chemical 
+reactions and the mechanism of reactions constitute the subject matter of reaction kinetics.
+2. The rate of a reaction is the change in the concentration of a reac tant or a product divided 
+by the time taken for the reaction. The rate of reaction between two speciic time intervals 
+is called the average rate of reaction. While the rate at any one instan t during the interval is 
+called the instantaneous rate. Rate constant of a chemical reaction is  rate of reaction when the 
+concentrations of reactants are unity.
+3. Order of reaction is the sum of exponents of the concentation terms in  the rate expression 
+of a chemical reaction.The exponents in the expression may or may n ot be diferent from 
+the coeicients of the chemical equation. Order of a reaction may be zer o, whole number or 
+fractional.
+4. Half life period of a reaction is the time required to convert 50% of the reactants into products. 
+Half-life period of any reaction is inversely proportional to the ini tial concentration raised to the 
+power one less than the order of that reaction.
+5. The step which limits how fast the overall reaction can proceed, is known as the rate determining 
+step.
+6. Determination  of the rate of a chemical reaction involves the measuremen t of the concentration 
+of reactants or products at regular time intervals during the progres s of reaction. The change 
+in concentration of reactants and products can be determined by both physical and chemical 
+methods.
+7. The efective collisions between the colliding species will take pla ce only when the reactant 
+molecules possess minimum amount of energy, which is called the energy of activation. Moreover, 
+proper orientation is also necessary.
+8 . All those factors, which change the number of efective collision s per second, afect the rate of 
+chemical reaction. Some of the important factors are, nature and conc entration of reactants, 
+surface area, light, and temperature and catalyst.
+9. A catalyst is  a substance, which alters the rate of a chemi cal reaction, but itself remains chemically 
+unchanged at the end of reaction. The process when the catalyst and the reactants are in the 
+same phase is said to be a homogenous catalysis. In case of heterog eneous catalysis, the catalyst 
+and the reactants are in diferent phases. A substance, which pr omotes the activity of a catalyst, 
+is called promoter or activator. In certain reactions, a product form ed acts as a catalyst, the 
+phenomenon is called auto-catalysis.
+10. Enzymes are the complex protein molecules, which catalyze the r eactions in the living cells.4611 REACTION KINETICS eLearn.Punjab
+EXERCISE
+Q.1  Multiple choice questions.
+(i)  In zero order reaction, the rate is independent of
+a)  temperature of reaction.   (b)  concentration of reactants,
+c)  concentration of products   (d)  none of these
+(ii)  If the rate equation of a reaction 2A + B → products is, rate =k[A]2 [B], and A is present in large 
+excess, then order of reaction is
+ a) 1   (b) 2   (c) 3   (d) none of these
+(iii)  The rate of reaction
+a)  increases as the reaction proceeds.
+b)  decreases as the reaction proceeds.
+c)  remains the same as the reaction proceeds.
+d)  may decrease or increase as the reaction proceeds.
+(iv)  With increase of 10°C temperature the rate of reaction doubles. T his increase in ate of reaction 
+is due to:
+a)  decrease in activation energy of reaction.
+b)  decrease in the number of collisions between reactant molecules.
+c)  increase in activation energy of reactants.
+d)  increase in number of efective collisions.
+(v)  The unit of the rate constant is the same as that of the rate of reac tion in
+(a)  irst order reaction.  (b)  second order reaction.
+(c)  zero order reaction.  (d)  third order reaction.
+Q.2  Fill in the blanks with suitable words.
+(i)  The rate of an endothermic reaction_______ with the increase i n temperature.
+(ii)  All radioactive disintegration nuclear reactions are of____ ____ order
+(iii)  For a fast reaction the rate constant is relatively and half  - life is ______ .
+(iv)  The second order reaction becomes______ if one of the reactants i s in large excess.
+(v)  Arrhenius equation can be used to ind out________of a reacti on.4711 REACTION KINETICS eLearn.Punjab
+Q.3  Indicate true or false as the case may be.
+(i)   The half life of a irst order reaction increases with temper ature.
+(ii)  The reactions having zero activation energies are instantaneous.
+(iii)  A catalyst makes a reaction more exothermic.
+(iv)  There is diference between rate law and the law of mass action .
+(v)  The order of reaction is strictly determined by the stoichiometry of  the bdanced equation.
+Q4. What is chemical kinetics? How do you compare chemical ki netics with clemical equilibrium 
+and thermodynamics.
+Q5. The rate of a chemical reaction with respect to products is wri tten with positive sign, but with 
+respect to reactants is written with a negative sign. Explain it with  reference to the following 
+hypothetical reaction.
+    aA + bB cC + dD →
+Q6 . What are instantaneous and average rates? Is it true that the in stantaneousrate of a reaction at 
+the beginning of the reaction is greater than average rate and beomes fa r less than the average 
+rate near the completion of reaction?
+Q7. Diferentiate between
+(i)  Rate and rate constant of a reaction
+(ii ) Homogeneous and heterogeneous catalyses
+(iii) Fast step and the rate determining step
+(iv) Enthalpy change of reaction and energy of activation of reaction
+Q8. Justify the following statements
+(i)  Rate of chemical reaction is an ever changing parameter uner  the given conditions.
+(ii) The reaction rate decreases every moment but rate constant ‘k’ of the reation is a constant 
+quantity, under the given conditions.
+(iii) 50% of a hypothetical irst order reaction completes in one hour . The renaming 50% needs 
+more than one hour to complete.
+(v) The radioactive decay is always a irst order reaction.4811 REACTION KINETICS eLearn.Punjab
+(iv) The unit of rate constant of a second order reaction is dm3 mol-1s-1, but the uit of rate of reaction 
+is mol dm-3s-1S.
+(vi) The sum of the coeicients of a balanced chemical equation is not neessarily important to give 
+the order of   a reaction.
+(vii ) The order of a reaction is obtained from the rate expression of a reaction anthe rate expression 
+is obtained from the experiment.
+Q9. Explain that half life method for measurement of the order of a reaction can help us to measure 
+the order of even those reactions which have a fractional order.
+Q10. A curve is obtained when a graph is plotted between time on x-a xis and concentration on 
+y-axis. The measurement of the slopes of various points give us the in stantaneous rates of 
+reaction. Explain with suitable examples.
+Q11.  The rate determining step of a reaction is found out from the m echanism of that reaction. 
+Explain it with few examples.
+Q12.  Discuss the factors which inluence the rates of chemical r eactions.
+Q.13. Explain the following facts about the reaction.
+    2 22 2NO(g) + 2H (g) 2H O(g) + N (g) →
+(i)  The changing concentrations of reactants, change the rates of this reaction.
+(ii)  Individual orders with respect to NO and H2 can be measured.
+(iii)  The overall order can be evaluated by keeping the concentration of one of the substances 
+constant.
+Q14. The collision frequency and the orientation of molecules are nec essary conditions for 
+determining the proper rate of reaction. Justify the statement.
+Q.15. How does Arrhenius equation help us to calculate the energy of  activation of a reaction?4911 REACTION KINETICS eLearn.Punjab
+Q16. Deine the following terms and give examples
+(i)  Homogeneous catalysis   (ii)  Heterogeneous catalysis
+(iii)  Activation of a catalyst   (iv)  Auto-catalysis
+(v)  Catalytic poisoning    (vi)  Enzyme catalysis
+Q17.  Briely describe the following with examples
+(i)  Change of physical state of a catalyst at the end of reaction.
+(ii)  A very small amount of a catalyst may prove suicient to car ry out a reaction.
+(iii)  A inely divided catalyst may prove more efective.
+(iv)  Equilibrium constant of a reversible reaction is not changed  in the presence of a catalyst.
+(v)  A catalyst is speciic in its action.
+Q18.  What are enzymes? Give examples in which they act as catal yst. Mention the characteristics 
+of enzyme catalysis.
+Q19.  In the reaction of NO and H2, it was observed that equimolecular mixture of gases at 340.5 
+mm Hg pressure was half changed in 102 seconds. In another experiment with an initial pressure 
+of 288 mm of Hg, the reaction was half completed in 140 seconds.  Calculate the order of reaction. 
+(Ans:2.88)
+Q20. A study of chemical kinetics of a reaction
+  A + B Products →
+gave the following data at 25 °C. Calculate the rate law.
+(Ans: second order)
+Q21.  Some reactions taking place around room temperature have activati on energies around 50kJ 
+mol-1.
+(i)  What is the value of the factor  -E
+o RTe  at 25 C ?
+(Ans: 1.72x10-9)[A] [B] Rate
+1.00
+2.00
+1.000.15
+0.15
+0.24.2 x 10-6
+8.4 x 10-6
+5.6 x 10-65011 REACTION KINETICS eLearn.Punjab
+(ii)  Calculate this factor at 35 °C anat 45 0C and note1 the increase in this factor for every 10 0C 
+rise in temperature. 
+(Ans:3.31x10-9)
+(iii)  Prove  that for every 10°C rise in of temperature, the factor dou bles and so rate constant also 
+doubles. 
+(Ans:6.12x10-9)
+Q22.  H2 and I2 react to produce HI. Following data for rate constant at 
+various temperatures (K) have been collected.
+(i)  Plot a graph between 1
+T on x-axis and log k on the y-axis.
+(ii)  Measure the slope of this straight line and calculate the ener gy for 
+activation of this reaction.
+(Ans: 8326.32,160.6kJmol-1)Temp.
+(K)Rate constant
+(cm3 mol-1 s-1) (K)
+500
+550
+600
+650
+700-46.814 x 10
+-22.64 x 10
+00.56 x 10
+07.31 x 10
+066.67 x 10APPENDIX
+Animation: Appendix
+Source & Credit: olivergoodwin2Appendix eLearn.Punjab
+Physical 
+QuantityName
+in UnitsSymbol Physical 
+QuantityName
+in UnitsSymbol
+Length meter m Volume cubic meter 3m
+Mass kilogram kg Length angstromo
+A(0.1nm)
+Time second s Pressure atmosphereatm(101.325kPa)
+Temperature Kelvin K torrmmHg(133.32Pa)
+Electrical current ampere A Energy caloriecal(4.184J)
+Luminous intensity candela cd electron volt-19ev(1.6022x10 J)
+Amount of substance mole mol Temperature degree celsiusoC (K-273.15)
+Concentration molarityM(mol/L or
+3mol/dm )
+Physical 
+QuantityName
+in UnitSymbol
+Energy joul22J(kg-m /s )
+Frequency hertzHz(cycles/s)
+Force newton2N(kg-m/s )
+Pressure pascal2
+aP (N/M )
+Power wattW(j/s)
+Electrical charge coulombC(amp-s)
+Electrical potential voltV(j/c)
+Electrical resistance ohmÙ(v/amp)
+Electrical conductance siemensS(amp/V)
+Electrical capacitance faradF(C/V)Table A.1 The SI System
+Table A.2 Common Derived Units in SI3Appendix eLearn.Punjab
+Fraction and Multiplies for Use in SI
+exa, E 1018deci, d 10-1
+peta, P 1015centi, c 10-2
+tera, T 1012milli, m 10-3
+giga, G 109micro, m10-6
+mega, M 106nano, n 10-9
+kilo, k 103pico, p 10-12
+hecto, h 102femto, f 10-15
+deca, da 101atto, a 10-18
+Speed of light in vacuum (c) 8c = 2.99792458x10 m/s
+Charge on an electron (qe)-19
+eq  = 1.6021892x10 C
+Rest mass of electron (me)-28
+em  = 19.109534x10 g
+-4
+em  = 5.4858026x10 amu
+Rest mass of proton (mp)-24
+pm  = 1.6726485x10 g
+pm  = 1.00727647amu
+Rest mass of neutron (mn)-24
+nm  = 1.6749543x10 g
+nm  = 1.00865012amu
+Faraday’s constant (F) F = 96484.56 C/mol
+Planck’s constant (h) -34h = 6.626176x10 J-s
+Ideal gas constant (R) R = 0.0820568 L-atm/mol-K
+R = 8.31441 J/mol-K
+Atomic mass unit (amu)-241 amu = 1.6605655x10 g
+Boltzmann’s constant (k) 23k = 1.380662x10  J/K−
+Aogadro’s constant (NA)23 -1
+aN  = 6.022045x10 mol
+Rydberg constant (RH)7 -1
+HR  = 1.09737318x10 m
+-2 -1= 1.09737318x10 nm
+Molar Volume of a gas at s.t.p-2 3 -1
+mV  = 2.24x10 m mol
+Heat capacity of water C = 75.276J/mol-KTableA.3 Fraction and Multiplies for Use in SI
+Table A.4 Values of Selected Fundamental Constants4Appendix eLearn.Punjab
+Energy71 J = 0.2390 cal = 10 erg
+1 cal = 4.184 J
+-19lev/atom = 1.6021892x10 J/atom = 96.484 k J/mol
+Temperature K = C + 273.15
+0C = 5/9 (F-32)
+0F = 9/5 (C) + 32
+Pressure1am = 760 mmHg = 760 torr = 101.325kPa
+Mass1kg = 2.2046 lb
+1lb = 453.59 g = 0.45359 kg
+1oz = 0.06250 lb = 28.350 g
+1ton = 2000 lb = 907.185 kg
+1tonne (metric) = 1000 kg = 2204.62 lb
+Volume 31 mL = 0.001 L = 1 cm
+1 oz (fluid) = 0.031250 qt = 0.029573 L
+1 qt = 0.946326 L
+1 gal = 0.946 L
+Length 1 mile = 1.60934 km
+1 in. = 2.45 cm
+10mm = 1 cm
+1000mm = 1 m
+1000m = 1 km
+1m = 39.370 in.
+o-10 -8A = 10  m = 10  cmTable A.5 Selected Conversion Factors5Appendix eLearn.Punjab
+F-Cl-Br-I-O2-S2-OH-NO3-CO32-SO42-CH3COO-
++HS S S S S s S S s S S
++NaS S S S S S S S S S S
++KS S S S S S S S S S S
++
+4NHS S S S - S S S S S S
++AgS I I I I I - S I I I
+2+MgI S S S I d I S I S S
+2+CaI S S S I d I S I I S
+2+BaI S S S s d s S I I S
+2+Fes S S S I I I S s S S
+3+FeI S S - I I I S I S I
+2+CoS S S S I I I S I S S
+2+NIs S S S I I I S I S S
+2+Cus S S - I I I S I S S
+2+Zns S S S I I I S I S S
+2+Hgd S I I I I I S I d S
+3+Cds S S S I I I S I S S
+2+SnS S S s I I I S I S S
+2+PbI I I I I I I S I I S
+2+Mns S S S I I I S I S S
+3+AlI S S S I d I S - S
+Key : S  = Soluble in water    I = Insoluble in water  (less than 1g/l00g H2O)
+ s = Slightly soluble in water  d = Decompose in wate rTable A.6 Solubility TableGLOSSARY
+Animation: Glosssary
+Source & Credit: speedyromeo2Glossary eLearn.Punjab
+Absolute zero:The  temperature of -273.16 °C at which the volume of a gas 
+theoretically becomes zero is called absolute zero. It is taken as 
+Zero on the kelvin scale of temperature.
+Actual yield:Actual yield is the  amount of the product actually obtained in a  
+chemical reaction.
+Amorphous solids:Those  solids in which the structural units i.e. atoms, ions 
+or molecules are ixed in their positions but are not regularly 
+arranged.
+Anisotropy:It is the variation of a certain physical property with direction.
+Atomic absorption 
+spectrum:When a  beam of white light is passed through the vapours or a 
+gas, the element absorbs certain wavelengths, while rest of the 
+wavelengths are passed through it. The spectrum of this radiation 
+is called atomic absorption spectrum. The missing wavelengths 
+appear as dark lines in the spectrum.
+Atomic emission spectrum:It is the  spectrum formed by the elements or their compounds 
+when they are heated in a lame. The spectrum consists of a 
+series of bright lines with a dark background.
+Atomic radius:If an atom  is assumed to be spherical then the atomic size means 
+the average distance between the nucleus of the atom and its 
+outermost shell. This distance is called atomic radius and it c an 
+not be measured precisely.
+Auf-bau principle:The  electrons should be illed in energy sub-levels in order of 
+increasing energy values. The electrons are irst placed in Is, th en 
+2s, then 2p and so on.
+Average Rate of Reaction:The rate  of reaction between two speciic time intervals is called 
+average rate of reaction.
+Avogadro’s law:Equal  volumes of all ideal gases at same temperature and 
+pressure contain equal number of molecules.
+Avogadro’s number:Avogadro’s  number is the number of atoms, molecules or ions 
+in one gram atom of an element, one gram mole of a compound 
+or one gram ion of an ionic substance.
+Azimuthal quantum 
+number:The  quantum number that deines the shape of the orbital of an 
+electron.
+Balmer series:A series of lines present in the visible region of hydrogen spectru m 
+formed when an electron jumps from higher orbits to the 2nd 
+orbit.3Glossary eLearn.Punjab
+Boiling point:The temperature at which the vapour pressure of a liquid 
+becomes equal to the external pressure, is called boiling point 
+of the liquid.
+Bond energy:The  average amount of energy required to break all bonds of a 
+particular type in one mole of the substance.
+Bond order:Half  of the diference between the number of bonding electrons 
+and anti-bonding electrons.
+Boyle’s law (1662):The  volume of the given mass of a gas is inversely proportional to 
+the pressure of that gas when the temperature is kept constant.
+Brackett series:A  series of lines in the infra red region of hydrogen spectrum 
+formed when the electron jumps from higher orbits to the fourth 
+orbit.
+Catalyst:The  substance which alters the rate of a chemical reaction but 
+remains chemically unchanged at the end of reaction.
+Cathode rays:Negatively  charged rays which originate from the cathode when 
+electricity is passed through a gas at very low pressure.
+Charles’s law (1787):The  volume of a given mass of a gas is directly proportional to 
+absolute temperature when the pressure is kept constant.
+Chromatography:It is a method used for the separation of components of a mixture.
+Colligative properties:These  are the properties of solutions that depend only on the 
+number of solute and solvent molecules or ions.
+Common ion effect:The decrease in the solubility of an electrolyte in a solution in the 
+presence of a common ion is called common ion efect.
+Conjugate acid of a base:The  positively charged ion produced by the acceptance of a 
+proton by a base is the conjugate acid of the base.
+Conjugate base of the acid:The negatively charged ions or a neutral species produced by 
+the release of proton is the conjugate base of the compound 
+releasing the proton.
+Covalent crystals:Those  crystals in which the non-metallic atoms are held together 
+in a network of single covalent bonds.
+Covalent radius:It is half the length of a covalent bond between tw’o atoms.
+Critical temperature:That  temperature of a gaseous substance above which it cannot 
+be converted into the liquid state no matter how much the 
+pressure is applied on it.
+Crystal lattice or space 
+lattice:A  particular three dimensional arrangement of particles i.e. 
+atoms, ions or molecules in a crystal is. called a crystal la ttice or 
+space lattice.4Glossary eLearn.Punjab
+Crystal:A  three dimensional shape bounded by plane surfaces which 
+intersect at deinite angles with each other.
+Crystallization:A  process in which a crude product is puriied and obtained in 
+the form of crystals.
+Dalton’s law of partial 
+pressures:Total  pressure of a mixture of gases is equal to the sum of the 
+partial pressures of all the gases in the mixture.
+Diffusion of gases:The  spontaneous mixing of the molecules of diferent gases by 
+random motion and collisions to form homogeneous mixture 
+is called gaseous difusion.
+Dipole moment:It is  a product of charge and the distance between the positive 
+and negative centers present in a compound.
+Dipole:Partial separation of charges on a bond between two atoms.
+Dipole-Dipole forces:The  attractive forces between the positive end of one molecule 
+and the negative end of the another polar molecule are called 
+dipole-dipole forces.
+Discharge tube:A glass  tube containing a gas at low pressure and is provided  
+with electrodes for the passage of electricity through the gas.
+Effusion of gases:With the passage of the gas molecules one by one without 
+collisions through a pin hole in their container into an evacuated 
+space is called efusion.
+Electrochemical Cell:It  is a system consisting of electrodes that dip into an electrolyte 
+and in which a chemical reaction either uses or generates 
+electric current.
+Electrode potential:It  is the tendency of a metal to form its ions or to get deposited 
+on the metal when a metal is dipped into the solution of its 
+own ions.
+Electrolysis:It  is the decomposition of ionic compounds by the passage of 
+electric current.
+Electrolytic conduction:It  is the passage of electric current through electrolytes present 
+in the fused state or in the solution form.
+Electron afinity:Attraction of nucleus of an atom for an extra electron.
+Electronegativity:Tendency  of a bonded atom to attract the shared electron pair 
+towards itself.
+Empirical formula:That  formula of a compound which is based on the formula 
+unit and gives the simple whole number ratio of the atoms in 
+the molecule is called empirical formula.5Glossary eLearn.Punjab
+Endothermic reactions:The chemical reactions, which are accompanied by 
+absorption of heat, are called endothermic reactions.
+Enthalpy or heat of solution:It is  deined as the heat change when one mole of a substance 
+is dissolved in a speciied number of moles of solvent at a 
+given temperature.
+Enthalpy:The  total heat content of a system is termed as enthalpy of 
+a system.
+Equilibrium constant:Equilibrium constant is the ratio of forward rate constant and 
+backward rate constant for a reaction at given condition.
+Evaporation:The  spontaneous change of a liquid into its vapours at the 
+surface of liquid at a given temperature is called evaporation.
+Exothermic reaction:The  chemical reactions, which are accompanied by the 
+evolution of heat, are called exothermic reactions.
+First law of thermodynamics:It states  that energy can neither be created nor be destroyed 
+but can be changed from one form to another.
+Graham ‘s law of diffusion:The  rate of difusion of a gas is inversely proportional to the 
+square root of the density of the gas or the molar mass of 
+gas under the given conditions of temperature and pressure.
+Half-life period:Half-life period of  a reaction is the time required to convert 
+50% of the reactants into products.
+Heisenberg’s uncertainty 
+principle:It is not  possible to measure simultaneously the exact 
+position and momentum of an electron in an atom.
+Hess’s law of constant heat 
+summation:If a  chemical change takes place by several diferent routes, 
+the overall energy change is the same, regardless of the 
+route by which the chemical change occurs, provided the 
+initial and inal conditions are the same.
+Hund’s rule:If  degenerate orbitals are available and more than one 
+electrons are to be placed in them, they should be placed 
+in separate orbitals with the same spin rather than putting 
+them in the same orbital with opposite spins.
+Hybridization:Mixing  of orbitals to form new orbitals with speciic 
+orientations.
+Hydration:The  process in which water molecules surround and interact 
+with solute molecules or ions is called hydration.6Glossary eLearn.Punjab
+Hydrogen bonding:Hydrogen  bondingis the electrostatic force of attraction 
+between hydrogen atom (bonded to a small highly 
+electronegative atom) and the electronegative atom of 
+another molecule.
+Ideal gas:A gas which obeys the gas laws at all temperatures and 
+pressures.
+Ideal solutions:Those solutions which obey Raoult’s law.
+Instantaneous Rate of Reaction:The rate of reaction at any one instant during the interval.
+Intermolecular forces:The  attractive forces which exist between individual particles 
+i.e. atoms, ions and molecules.
+Ion dipole interactions:The electrostatic forces of attraction between an ion (positive 
+or negative) and the polar molecules of the solvent.
+Ionic crystals:Those crystals in which the oppositely charged ions are held 
+together by an ionic bond.
+Ionic radius:It is the radius of an ion considered spherical in shape.
+Ionization Energy:It is the minimum amount of energy required to remove the 
+most loosely bound electron from an isolated gaseous atom.
+Irreversible reaction:An irreversible reaction is that in which products of the 
+reaction do not react to form the original reactants under 
+the same set of conditions.
+Kinetic molecular theory of 
+gases:A model of gases which explains the physical behaviour of 
+gases.
+Law of mass action:The  rate at which a substance reacts is proportional to its 
+active mass and the rate of a chemical reaction is proportional 
+to the product of the active masses of the reacting substances.
+Le-Chatelier’s principle:If a system at equilibrium is disturbed, it behaves in such a  
+way as to nullify the efect of that disturbance.
+Limiting reactant:Limiting reactant is that reactant which is present in lesser 
+amount and controls the amount of the products in a 
+chemical reaction.
+Liquid crystal:That crystalline state of a substance which exists between two 
+temperatures i.e. the melting temperature and the clearing 
+temperature.7Glossary eLearn.Punjab
+London dispersion forces:The  attractive forces between the temporary dipole in one 
+molecule and temporary induced dipole in an adjacent molecule 
+are called London dispersion forces, adjacent molecule are 
+called London dispersion forces.
+Lowry-Bronsted Concepts 
+of acids and bases:Acids are those species which give proton or have a tendency 
+to give proton. Bases are those species which accept proton or 
+have a tendency to accept proton.
+Lyman series:A series of lines in the ultraviolet region of hydrogen spectrum 
+which are obtained when electron jumps from higher orbits to 
+the irst orbit of hydrogen atom.
+Magnetic quantum number:The  quantum number that deines the orientation of an orbital 
+in a magnetic ield.
+Mass spectrometer:It is the instrument employed to separate positively charged 
+particles on the basis of their m/e values and get the record on 
+the photographic plate or electrometer.
+Metallic crystals:Those  crystals in which the metal atoms are held together by 
+metallic bonds.
+Molality (m):It is the number of moles of the solute dissolved in 1000 grams 
+(1 kg) of the solvent.
+Molar volume:The volume occupied by one mole of an ideal gas at standard  
+temperature and pressure - 22.414 dm3 is called the molar 
+volume.
+Molarity (M):It is the number of moles of the solute dissolved per dm3 of the 
+solution.
+Mole fraction:Mole fraction of any component in a mixture is the ratio of the 
+number of moles of it to the total number of moles of all the 
+components present in the solution.
+Mole:A quantity which contains Avogadro’s number of units i.e. atoms,  
+molecules, ions or whatever under consideration is called a 
+mole.
+Molecular crystals:Those crystals in which the molecules are held together by van 
+der Waal’s forces.
+Molecular formula:A chemical formula which gives the total number of atoms 
+present in a molecule of a substance.8Glossary eLearn.Punjab
+Molecular ions:Those  ions which are produced by the removal of one or more 
+electron or electrons from the molecule of a substance are called 
+molecular ions. They are mostly positive and rarely negative.
+Non-ideal solution:Those solutions which do not obey Raoult’s law.
+Non-spontaneous 
+Process:It is the  reverse of the spontaneous process. It does not take place 
+on its own and does not occur in nature.
+Orbit:An orbit is a deinite path  at a deinite distance from the nucleus  in 
+which the electron revolves around the nucleus; actually an orbit 
+indicates an exact position or location of an electron in an atom.
+Orbital:A region around the nucleus where the probability of inding the 
+electron is maximum, s, p, d and f are diferent types of orbital s 
+which exist in an atom.
+Order of Reaction:It is the  sum of the exponents of the concentration terms in the 
+rate expression of a chemical reaction.
+Oxidation Number:It is the  apparent  charge on an atom of an element in a compound 
+or a radical.
+Paper Chromatography:It is a technique  of partition chromatography in which the station ary 
+phase is water adsorbed on paper and mobile phase is usually an 
+organic liquid.
+Partial pressure:The  pressure exerted by an individual gas in a gaseous mixtur e is 
+called the partial pressure of that gas.
+Parts per million:It is  deined as the number of the parts (by weight or volume) of a  
+solute per million parts (by weight or volume) of the solution.
+Paschen series:A series of lines in the infra red region of hydrogen spectrum which 
+results from the transitions of electron from higher orbits to the 
+third orbit.
+Pauli’s exclusion 
+principle:According to this principle, it is impossible for two electrons r esiding 
+in the same orbital of a poly electron atom, to have the same values 
+of four quantum numbers. Thus two electrons in the same orbital 
+should have opposite spins.
+Percentage yield:Actual yield%yield= x100Theoretical yield
+Pfund series:A series of lines in the infra red region of hydrogen spectrum which 
+results from the transition of electron from higher orbits to the 
+ifth orbit.9Glossary eLearn.Punjab
+pH of the solution:The negative log of [H+] is called pH of the solution.
+Phase:Every  sample of matter with uniform properties and a ixed 
+composition is called a phase.
+pi (p) bondA bond formed by  the parallel overlap of the two planar p-orbital s 
+present on the adjacent atoms which are already bonded with a ct 
+bond.
+pKw:It is the negative log of dissociation constant of water.
+pOH of the solution:The negative log of [OH-] is called pOH of the solution.
+Polarizability:Polarizability is the  quantitative measurement of the extent to 
+which the electronic cloud can be polarized.
+Positive rays or canal 
+rays:Rays travelling in a direction  opposite to the cathode rays in a 
+discharge tube. They consist of positively charged ions formed by  
+the ionization of gas molecules with the passage of cathode rays.
+Principal quantum 
+number:The  quantum number that deines the shell of an electron in an 
+atom. Its symbol is n.
+Quantum Numbers:These are the sets of numerical values which give the acceptable 
+solutions.
+Raoult’s law:The  lowering of the vapour pressure of a solvent by a solute, at a 
+given temperature, is directly proportional to the mole fraction of 
+solute.
+Rate Constant:It is the rate of reaction when the concentrations of the reactants are u nity.
+Rate of Reaction:It is deined as the change in concentration of a reactant or a prod uct 
+divided by the time taken for the change.
+Real gas:A gas which  does not obey the gas laws at all temperatures and 
+pressures.
+Redox Reaction:A chemical reaction in which oxidation and reduction take place.
+Relative abundance of 
+isotope:The  percentage of isotope of an element in comparison to other 
+isotopes of the same element is called relative abundance of 
+isotope.
+Relative atomic mass:Relative atomic  mass of an atom of an element is the mass as 
+compared with the mass of one atom of carbon taken as twelve. It 
+is expressed in a.m.u.10Glossary eLearn.Punjab
+Retardation Factor (Rf):A component of a mixture may  be identiied by a speciic 
+retardation factor called R, value. It is related to the partition 
+coeicient by the following relationship,
+fDistance travelled by a component from t he original spotR=Distance travelled by a solvent from the  original spot
+Reversible reaction:A reversible reaction is that one  in which products of a reacti on 
+can react to form the original reactants.
+Sigma ( s)-bond:A bond formed by the linear overlap of atomic orbitals.
+Solubility:It is the number of grams of a solute that can be dissolved in 
+100 grams of the solvent to  prepare a saturated solution at a 
+particular temperature.
+Solvent Extraction:It is a technique in which a solute can  be separated from a 
+solution by shaking the solution with a solvent in which the 
+solute is more soluble and the added solvent does not mix 
+with the solution.
+Spectrum:A band of seven colours formed by the  dispersion of the 
+components of white light, when it is passed through a prism.
+Spontaneous Process:Process, which  takes place on its own without any outside 
+assistance and moves from a non-equilibrium state towards 
+an equilibrium state, is termed as spontaneous process.
+Standard Electrode Potential:When a metal is dipped into the solution of its own ions 
+having concentration 1.0 mol per dm3 or a gas is passed at a 
+pressure of one atmosphere through a solution of 1.00 mol 
+per dm3 strength of its ions having an inert electrode, the 
+potential developed is called standard electrode potential. The  
+temperature of the system is maintained at 250 C.
+Standard Enthalpy of 
+Atomization:It is the change  of enthalpy when one mole of gaseous atoms 
+is formed form the element under standard conditions.
+Standard Enthalpy of 
+Combustion:It is the  amount of heat produced when one mole of the 
+substance is completely burnt in excess of oxygen under 
+standard conditions.
+Standard Enthalpy of 
+Formation:It is the  change of enthalpy when one mole of a compound is 
+formed from its elements under standard conditions.11Glossary eLearn.Punjab
+Standard Enthalpy of 
+Neutralization:It is the  amount of heat evolved when one mole of hydrogen ions H+ 
+from an acid react with one mole of hydroxide ion OH- from an alkali 
+under standard conditions.
+Standard temperature 
+and pressure:The standard temperature is 00C (273 K) and the standard pressure is 
+1 atm or 760 mm of Hg or 760 torr or 101325 Nm-2.
+State Function:It is a  macroscopic property of a system which has some deinite 
+value for each state and which is independent of path in which th e 
+state is reached.
+Stoichiometry:Stoichiometry is  the branch of chemistry which deals with the 
+quantitative relationship between reactants and products in a 
+balanced chemical equation.
+Sublimation:It is a process in which a solid, when heated, vapourizes dir ectly without 
+passing through the liquid state.
+Surroundings:The remaining portions around a system are called surroundin gs.
+System:Anything  (materials) under test or under consideration, is termed  as 
+a system.
+Theoretical yield:The oretical yield is the amount of the products calculated from the 
+balanced chemical equation.
+Thermochemistry:The study of heat changes during a chemical reaction is know n as 
+thermochemistry.
+Unit cell:The  smallest unit of the volume of a crystal which when repeated  in 
+three dimensions can generate the structure of the entire crystal.
+Vacuum distillation:The  process of heating a liquid under reduced pressure to cha nge it 
+into vapours at a lower temperature and then condensing the vapours 
+to a liquid.
+van der Waal’s 
+equation:It is  an equation of state of gases that modiies the ideal gas equati on 
+to represent more accurately the behaviour of real gases.
+Vapour pressure:The  pressure exerted by the vapours of a liquid in equilibrium with 
+the liquid at a given temperature.
+Water of 
+crystallization:Those  water molecules, which have combined with some compounds 
+as they are crystallized from aqueous solutions is called water of  
+crystallization or water of hydration.
