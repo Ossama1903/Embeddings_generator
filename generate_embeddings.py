@@ -10,58 +10,47 @@ import chromadb
 import os
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
-# # Set up command line argument parser
-# parser = argparse.ArgumentParser(description='Process text files and create embeddings.')
-# parser.add_argument('directory_path', type=str, help='Path to the directory containing text files')
+# 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
+# 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
 
-# # Parse command line arguments
-# args = parser.parse_args()
+# Set up command line argument parser
+parser = argparse.ArgumentParser(description='Process text files and create embeddings.')
+parser.add_argument('directory_path', type=str, help='Path to the directory containing text files')
 
-# # Specify the directory containing the text files
-# directory_path = args.directory_path
+# Parse command line arguments
+args = parser.parse_args()
 
-# print(f"Processing directory {directory_path}")
+# Specify the directory containing the text files
+directory_path = args.directory_path
 
-# # Iterate through all files in the directory
-# for filename in os.listdir(directory_path):
-#     if filename.endswith(".txt"):
-#         file_path = os.path.join(directory_path, filename)
-#         try:
-#             print(f"Creating embeddings for {filename}")
+print(f"Processing directory {directory_path}")
 
-#             # Similar code as before, with minor modifications
-#             loader = TextLoader(file_path, encoding="utf-8")
-#             documents = loader.load()
+# Iterate through all files in the directory
+for filename in os.listdir(directory_path):
+    if filename.endswith(".txt"):
+        file_path = os.path.join(directory_path, filename)
+        try:
+            print(f"Creating embeddings for {filename}")
 
-#             text_splitter = RecursiveCharacterTextSplitter(chunk_size=200, chunk_overlap=0)
-#             docs = text_splitter.split_documents(documents)
+            # Similar code as before, with minor modifications
+            loader = TextLoader(file_path, encoding="utf-8")
+            documents = loader.load()
 
-#             embeddings = OpenAIEmbeddings()
-#             new_client = chromadb.EphemeralClient()
+            text_splitter = RecursiveCharacterTextSplitter(chunk_size=300, chunk_overlap=100)
+            docs = text_splitter.split_documents(documents)
 
-#             #Vector DB
-#             openai_lc_client = Chroma.from_documents(
-#                 docs, embeddings, persist_directory = f"{directory_path}-embeddings"
-#             )
+            embeddings = OpenAIEmbeddings()
+            new_client = chromadb.EphemeralClient()
 
-#             openai_lc_client.persist()
+            #Vector DB
+            openai_lc_client = Chroma.from_documents(
+                docs, embeddings, persist_directory = f"{directory_path}-embeddings"
+            )
 
-#         except Exception as e:
-#             print(f"Error processing {filename}: {e}")
+            openai_lc_client.persist()
 
-vectordb = None
-embedding = OpenAIEmbeddings()
-vectordb = Chroma(
-    persist_directory="2018-G11-Biology-E-embeddings", embedding_function=embedding
-)
+        except Exception as e:
+            print(f"Error processing {filename}: {e}")
 
-query = "Photosynthesis"
-docs = vectordb.similarity_search(query)
-
-for i in range(len(docs)):
-    print(docs[i].page_content)
-    print("\n\n")
-
-# print(docs[0].page_content)
